@@ -164,8 +164,10 @@ export default function MindMap({
 
   const scrollThemes = (direction: 'left' | 'right') => {
     if (!scrollContainerRef.current) return;
-    const amount = direction === 'left' ? -300 : 300;
-    scrollContainerRef.current.scrollBy({ left: amount, behavior: 'smooth' });
+    // Invert delta in RTL to ensure clicking left arrow always scrolls left and right always scrolls right
+    const baseDelta = direction === 'left' ? -350 : 350;
+    const signedDelta = isAr ? -baseDelta : baseDelta;
+    scrollContainerRef.current.scrollBy({ left: signedDelta, behavior: 'smooth' });
   };
 
   return (
@@ -179,9 +181,9 @@ export default function MindMap({
           <button
             onClick={() => scrollThemes('left')}
             className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-500 hover:text-stone-900 dark:hover:text-white shrink-0 hidden sm:flex items-center justify-center transition-colors"
-            title={isAr ? 'تمرير لليمين' : 'Scroll Left'}
+            title={isAr ? 'تمرير للخلف' : 'Scroll Left'}
           >
-            {isAr ? <ChevronRight className="w-4 h-4" /> : <ChevronLeft className="w-4 h-4" />}
+            <ChevronLeft className="w-4 h-4" />
           </button>
 
           {/* Full-Width Scrollable Clusters Bar */}
@@ -249,32 +251,13 @@ export default function MindMap({
           <button
             onClick={() => scrollThemes('right')}
             className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-500 hover:text-stone-900 dark:hover:text-white shrink-0 hidden sm:flex items-center justify-center transition-colors"
-            title={isAr ? 'تمرير لليسار' : 'Scroll Right'}
+            title={isAr ? 'تمرير للأمام' : 'Scroll Right'}
           >
-            {isAr ? <ChevronLeft className="w-4 h-4" /> : <ChevronRight className="w-4 h-4" />}
+            <ChevronRight className="w-4 h-4" />
           </button>
 
-          {/* View & Zoom Controls */}
+          {/* Zoom Controls */}
           <div className="flex items-center gap-1 shrink-0 border-inline-start border-stone-200 dark:border-stone-800 ps-2 ms-1">
-            <button
-              onClick={() => setDisplayMode(displayMode === 'cards' ? 'compact' : 'cards')}
-              className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-600 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors"
-              title={
-                displayMode === 'cards'
-                  ? isAr
-                    ? 'عرض مدمج'
-                    : 'Compact View'
-                  : isAr
-                  ? 'عرض تفصيلي'
-                  : 'Card View'
-              }
-            >
-              {displayMode === 'cards' ? (
-                <List className="w-3.5 h-3.5" />
-              ) : (
-                <LayoutGrid className="w-3.5 h-3.5" />
-              )}
-            </button>
             <button
               onClick={() => setZoomLevel((z) => Math.min(z + 0.1, 1.2))}
               className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-600 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors"

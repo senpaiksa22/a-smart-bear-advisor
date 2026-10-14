@@ -47,6 +47,18 @@ export default function HomePage() {
     }
   };
 
+  // Global shortcut (Ctrl+K / Cmd+K) to toggle search anywhere
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
+        e.preventDefault();
+        setSearchOpen((prev) => !prev);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, []);
+
   // Toggle direction & html lang attribute
   useEffect(() => {
     document.documentElement.dir = isAr ? 'rtl' : 'ltr';

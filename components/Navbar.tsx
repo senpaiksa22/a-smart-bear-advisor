@@ -63,8 +63,8 @@ export default function Navbar({
             <Search className="w-4 h-4 text-stone-400 group-hover:text-bear-500 transition-colors" />
             <span>{isAr ? 'بحث في المقالات والمفاهيم...' : 'Search essays & frameworks...'}</span>
           </div>
-          <kbd className="hidden lg:inline-flex items-center gap-0.5 px-2 py-0.5 text-[11px] font-mono font-semibold rounded bg-white dark:bg-stone-800 border border-stone-300 dark:border-stone-700 text-stone-500">
-            ⌘K
+          <kbd className="hidden lg:inline-flex items-center gap-1 px-2 py-0.5 text-[11px] font-mono font-bold rounded bg-white dark:bg-stone-800 border border-stone-300 dark:border-stone-700 text-stone-600 dark:text-stone-300 shadow-xs">
+            Ctrl + K
           </kbd>
         </button>
 
