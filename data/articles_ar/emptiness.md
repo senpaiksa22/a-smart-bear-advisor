@@ -1,22 +1,37 @@
 ---
 id: 103
 title_en: "In its emptiness, there is the function of a startup"
-title_ar: "In its emptiness, there is the function of a startup"
+title_ar: "في الفراغ تكمن وظيفة الشركة الناشئة وقيمتها الحقيقية"
 slug: "emptiness"
 url: "https://longform.asmartbear.com/emptiness/"
-pubDate: "Tue, 12 Aug 2014 00:00:00 +0000"
+published_date: "Tue, 12 Aug 2014 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Everything about a startup changes over time. The few things that don't, are its essence. The voyage is meaningless, unless you decide what those things are."
-summary_ar: "Everything about a startup changes over time. The few things that don't, are its essence. The voyage is meaningless, unless you decide what those things are."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'في الفراغ تكمن وظيفة الشركة الناشئة وقيمتها الحقيقية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# In its emptiness, there is the function of a startup
+# في الفراغ تكمن وظيفة الشركة الناشئة وقيمتها الحقيقية
 ### In its emptiness, there is the function of a startup
 
-> **الملخص التنفيذي:** Everything about a startup changes over time. The few things that don't, are its essence. The voyage is meaningless, unless you decide what those things are.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'في الفراغ تكمن وظيفة الشركة الناشئة وقيمتها الحقيقية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/emptiness/](https://longform.asmartbear.com/emptiness/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** في الفراغ تكمن وظيفة الشركة الناشئة وقيمتها الحقيقية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# In its emptiness, there is the function of a startup
+
+> **Executive Summary:** Everything about a startup changes over time. The few things that don't, are its essence. The voyage is meaningless, unless you decide what those things are.
+> **Original URL:** [https://longform.asmartbear.com/emptiness/](https://longform.asmartbear.com/emptiness/)
 
 ![d6570print](https://public.asmartbear.com/books/anthology/chapters/emptiness/d6570print-simple.png)
 
@@ -24,12 +39,16 @@ Calm your frenetic TL;DR twitchy-Twitter-brain for five minutes, and let some Ch
 
 > Thirty spokes join in one hub  
 > In its emptiness, there is the function of a vehicle  
+>   
 > Mix clay to create a container  
 > In its emptiness, there is the function of a container  
+>   
 > Cut open doors and windows to create a room  
 > In its emptiness, there is the function of a room  
+>   
 > Therefore, that which exists is used to create benefit  
 > That which is empty is used to create functionality  
+>   
 > --Lao Tzu, Chapter 11, Tao Te Ching, ~600 BCE, [translation](https://www.taoism.net/ttc/complete.htm) by Derek Lin
 
 An ancient brainteaser asks: If a wooden ship sails around the world, but along the way each board rots and is replaced by new boards, so that by the end of its journey every board has been replaced, is it still the same ship? Did "it" really go around the world?￼

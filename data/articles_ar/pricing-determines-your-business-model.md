@@ -1,22 +1,37 @@
 ---
 id: 102
 title_en: "Pricing determines your business model"
-title_ar: "Pricing determines your business model"
+title_ar: "التسعير هو ما يحدد نموذج عملك وهيكل شركتك بالكامل"
 slug: "pricing-determines-your-business-model"
 url: "https://longform.asmartbear.com/pricing-determines-your-business-model/"
-pubDate: "Wed, 05 Nov 2014 00:00:00 +0000"
+published_date: "Wed, 05 Nov 2014 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Pricing is inextricably linked to brand, product, and purchasing decisions. It cannot be \"figured out later,\" because it determines your business model today."
-summary_ar: "Pricing is inextricably linked to brand, product, and purchasing decisions. It cannot be \"figured out later,\" because it determines your business model today."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التسعير هو ما يحدد نموذج عملك وهيكل شركتك بالكامل'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Pricing determines your business model
+# التسعير هو ما يحدد نموذج عملك وهيكل شركتك بالكامل
 ### Pricing determines your business model
 
-> **الملخص التنفيذي:** Pricing is inextricably linked to brand, product, and purchasing decisions. It cannot be "figured out later," because it determines your business model today.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التسعير هو ما يحدد نموذج عملك وهيكل شركتك بالكامل'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/pricing-determines-your-business-model/](https://longform.asmartbear.com/pricing-determines-your-business-model/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التسعير هو ما يحدد نموذج عملك وهيكل شركتك بالكامل تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Pricing determines your business model
+
+> **Executive Summary:** Pricing is inextricably linked to brand, product, and purchasing decisions. It cannot be "figured out later," because it determines your business model today.
+> **Original URL:** [https://longform.asmartbear.com/pricing-determines-your-business-model/](https://longform.asmartbear.com/pricing-determines-your-business-model/)
 
 ![were not changing anything we just wanted to charge more](https://public.asmartbear.com/books/anthology/chapters/pricing-determines-your-business-model/d4019print-simple.png)
 

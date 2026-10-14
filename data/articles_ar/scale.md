@@ -1,22 +1,37 @@
 ---
 id: 48
 title_en: "The fundamental forces of scale"
-title_ar: "The fundamental forces of scale"
+title_ar: "القوى الفيزيائية الأساسية للتوسع والنمو في الشركات"
 slug: "scale"
 url: "https://longform.asmartbear.com/scale/"
-pubDate: "Sun, 24 Sep 2023 00:00:00 +0000"
+published_date: "Sun, 24 Sep 2023 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "These forces make larger companies slower and more difficult to execute, but also more effective when harnessed and leveraged."
-summary_ar: "These forces make larger companies slower and more difficult to execute, but also more effective when harnessed and leveraged."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The fundamental forces of scale'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The fundamental forces of scale
+# القوى الفيزيائية الأساسية للتوسع والنمو في الشركات
 ### The fundamental forces of scale
 
-> **الملخص التنفيذي:** These forces make larger companies slower and more difficult to execute, but also more effective when harnessed and leveraged.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The fundamental forces of scale'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/scale/](https://longform.asmartbear.com/scale/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** القوى الفيزيائية الأساسية للتوسع والنمو في الشركات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The fundamental forces of scale
+
+> **Executive Summary:** These forces make larger companies slower and more difficult to execute, but also more effective when harnessed and leveraged.
+> **Original URL:** [https://longform.asmartbear.com/scale/](https://longform.asmartbear.com/scale/)
 
 ![im not letting myself go im scaling](https://public.asmartbear.com/books/anthology/chapters/scale/d7574print-simple.png)
 

@@ -1,26 +1,41 @@
 ---
 id: 120
 title_en: "\"Because that's the way it's done\" -- should a founder listen?"
-title_ar: "\"Because that's the way it's done\" -- should a founder listen?"
+title_ar: "'لأن الأمور تُدار هكذا دائماً': هل ينبغي للمؤسس الاستماع لهذه النصيحة؟"
 slug: "thats-the-way-its-done"
 url: "https://longform.asmartbear.com/thats-the-way-its-done/"
-pubDate: "Tue, 19 Feb 2013 08:00:00 +0000"
+published_date: "Tue, 19 Feb 2013 08:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "\"They\" say you can't, but maybe you can. Embrace risk, creativity, and prove them wrong."
-summary_ar: "\"They\" say you can't, but maybe you can. Embrace risk, creativity, and prove them wrong."
+summary_ar: "\"
 ---
 
-# "Because that's the way it's done" -- should a founder listen?
+# 'لأن الأمور تُدار هكذا دائماً': هل ينبغي للمؤسس الاستماع لهذه النصيحة؟
 ### "Because that's the way it's done" -- should a founder listen?
 
-> **الملخص التنفيذي:** "They" say you can't, but maybe you can. Embrace risk, creativity, and prove them wrong.
+> **الملخص التنفيذي:** \
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/thats-the-way-its-done/](https://longform.asmartbear.com/thats-the-way-its-done/)
 
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** 'لأن الأمور تُدار هكذا دائماً': هل ينبغي للمؤسس الاستماع لهذه النصيحة؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# "Because that's the way it's done" -- should a founder listen?
+
+> **Executive Summary:** "They" say you can't, but maybe you can. Embrace risk, creativity, and prove them wrong.
+> **Original URL:** [https://longform.asmartbear.com/thats-the-way-its-done/](https://longform.asmartbear.com/thats-the-way-its-done/)
+
 ![Cartoon 8e177fa0](https://longform.asmartbear.com/thats-the-way-its-done/228958c6.png)
 
-[They told me I couldn't](https://longform.asmartbear.com/bad-advice/) sell to The Enterprise with a silly company name like Smart Bear.
+ [They told me I couldn't](https://longform.asmartbear.com/bad-advice/) sell to The Enterprise with a silly company name like Smart Bear.
 
 They told me I couldn't sell to The Enterprise without a human sales force using Salesforce.
 

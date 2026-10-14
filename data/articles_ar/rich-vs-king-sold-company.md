@@ -1,22 +1,37 @@
 ---
 id: 176
 title_en: "Rich vs. King in the Real World: Why I sold my company"
-title_ar: "Rich vs. King in the Real World: Why I sold my company"
+title_ar: "أن تكون ثرياً أم ملكاً في العالم الواقعي: لماذا قررت بيع شركتي؟"
 slug: "rich-vs-king-sold-company"
 url: "https://longform.asmartbear.com/rich-vs-king-sold-company/"
-pubDate: "Mon, 19 Oct 2009 00:00:00 +0000"
+published_date: "Mon, 19 Oct 2009 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Reflecting on selling Smart Bear in 2007, offering insights for entrepreneurs facing similar decisions."
-summary_ar: "Reflecting on selling Smart Bear in 2007, offering insights for entrepreneurs facing similar decisions."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'أن تكون ثرياً أم ملكاً في العالم الواقعي: لماذا قررت بيع شركتي؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Rich vs. King in the Real World: Why I sold my company
+# أن تكون ثرياً أم ملكاً في العالم الواقعي: لماذا قررت بيع شركتي؟
 ### Rich vs. King in the Real World: Why I sold my company
 
-> **الملخص التنفيذي:** Reflecting on selling Smart Bear in 2007, offering insights for entrepreneurs facing similar decisions.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'أن تكون ثرياً أم ملكاً في العالم الواقعي: لماذا قررت بيع شركتي؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/rich-vs-king-sold-company/](https://longform.asmartbear.com/rich-vs-king-sold-company/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** أن تكون ثرياً أم ملكاً في العالم الواقعي: لماذا قررت بيع شركتي؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Rich vs. King in the Real World: Why I sold my company
+
+> **Executive Summary:** Reflecting on selling Smart Bear in 2007, offering insights for entrepreneurs facing similar decisions.
+> **Original URL:** [https://longform.asmartbear.com/rich-vs-king-sold-company/](https://longform.asmartbear.com/rich-vs-king-sold-company/)
 
 ![Sell out](https://public.asmartbear.com/books/anthology/chapters/rich-vs-king-sold-company/bdd-sellout-082112-simple.png)
 

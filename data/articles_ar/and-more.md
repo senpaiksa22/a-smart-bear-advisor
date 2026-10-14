@@ -1,22 +1,37 @@
 ---
 id: 197
 title_en: "Bed, Bath, Linens, Things, Beyond, and More!"
-title_ar: "Bed, Bath, Linens, Things, Beyond, and More!"
+title_ar: "فخ إضافة 'المزيد والمزيد': لماذا تقتل كثرة الخيارات وضوح المنتج"
 slug: "and-more"
 url: "https://longform.asmartbear.com/and-more/"
-pubDate: "Sat, 29 Nov 2008 08:00:00 +0000"
+published_date: "Sat, 29 Nov 2008 08:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "\"And more!\" is lazy marketing. Be specific, be passionate, and make people care."
-summary_ar: "\"And more!\" is lazy marketing. Be specific, be passionate, and make people care."
+summary_ar: "\"
 ---
 
-# Bed, Bath, Linens, Things, Beyond, and More!
+# فخ إضافة 'المزيد والمزيد': لماذا تقتل كثرة الخيارات وضوح المنتج
 ### Bed, Bath, Linens, Things, Beyond, and More!
 
-> **الملخص التنفيذي:** "And more!" is lazy marketing. Be specific, be passionate, and make people care.
+> **الملخص التنفيذي:** \
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/and-more/](https://longform.asmartbear.com/and-more/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** فخ إضافة 'المزيد والمزيد': لماذا تقتل كثرة الخيارات وضوح المنتج تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Bed, Bath, Linens, Things, Beyond, and More!
+
+> **Executive Summary:** "And more!" is lazy marketing. Be specific, be passionate, and make people care.
+> **Original URL:** [https://longform.asmartbear.com/and-more/](https://longform.asmartbear.com/and-more/)
 
 Is there a phrase more ubiquitous and less meaningful than:
 

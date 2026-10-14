@@ -1,22 +1,37 @@
 ---
 id: 194
 title_en: "Your idea sucks, now go do it anyway"
-title_ar: "Your idea sucks, now go do it anyway"
+title_ar: "فكرتك سيئة في نظر الجميع، ابدأ في تنفيذها وأثبت العكس على أي حال"
 slug: "your-idea-sucks-do-it-anyway"
 url: "https://longform.asmartbear.com/your-idea-sucks-do-it-anyway/"
-pubDate: "Mon, 22 Dec 2008 00:00:00 +0000"
+published_date: "Mon, 22 Dec 2008 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "Your idea probably sucks, and it doesn't matter because your business will probably turn out to be something completely different."
-summary_ar: "Your idea probably sucks, and it doesn't matter because your business will probably turn out to be something completely different."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'فكرتك سيئة في نظر الجميع، ابدأ في تنفيذها وأثبت العكس على أي حال'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Your idea sucks, now go do it anyway
+# فكرتك سيئة في نظر الجميع، ابدأ في تنفيذها وأثبت العكس على أي حال
 ### Your idea sucks, now go do it anyway
 
-> **الملخص التنفيذي:** Your idea probably sucks, and it doesn't matter because your business will probably turn out to be something completely different.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'فكرتك سيئة في نظر الجميع، ابدأ في تنفيذها وأثبت العكس على أي حال'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/your-idea-sucks-do-it-anyway/](https://longform.asmartbear.com/your-idea-sucks-do-it-anyway/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** فكرتك سيئة في نظر الجميع، ابدأ في تنفيذها وأثبت العكس على أي حال تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Your idea sucks, now go do it anyway
+
+> **Executive Summary:** Your idea probably sucks, and it doesn't matter because your business will probably turn out to be something completely different.
+> **Original URL:** [https://longform.asmartbear.com/your-idea-sucks-do-it-anyway/](https://longform.asmartbear.com/your-idea-sucks-do-it-anyway/)
 
 "My idea isn't good enough yet" explained a friend who is thinking of starting his own company. He's waiting for the idea to be completely fleshed out before taking the leap.
 

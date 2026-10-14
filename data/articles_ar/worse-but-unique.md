@@ -1,22 +1,37 @@
 ---
 id: 50
 title_en: "Worse, but unique"
-title_ar: "Worse, but unique"
+title_ar: "أن تكون أسوأ ولكن فريداً ومميزاً خير من أن تكون نسخة مكررة"
 slug: "worse-but-unique"
 url: "https://longform.asmartbear.com/worse-but-unique/"
-pubDate: "Sun, 27 Aug 2023 00:00:00 +0000"
+published_date: "Sun, 27 Aug 2023 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "An objectively \"worse\" strategy can win, if it leverages something unique or unexpected. Startups can use this concept to beat incumbents."
-summary_ar: "An objectively \"worse\" strategy can win, if it leverages something unique or unexpected. Startups can use this concept to beat incumbents."
+summary_ar: "An objectively \"
 ---
 
-# Worse, but unique
+# أن تكون أسوأ ولكن فريداً ومميزاً خير من أن تكون نسخة مكررة
 ### Worse, but unique
 
-> **الملخص التنفيذي:** An objectively "worse" strategy can win, if it leverages something unique or unexpected. Startups can use this concept to beat incumbents.
+> **الملخص التنفيذي:** An objectively \
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/worse-but-unique/](https://longform.asmartbear.com/worse-but-unique/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** أن تكون أسوأ ولكن فريداً ومميزاً خير من أن تكون نسخة مكررة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Worse, but unique
+
+> **Executive Summary:** An objectively "worse" strategy can win, if it leverages something unique or unexpected. Startups can use this concept to beat incumbents.
+> **Original URL:** [https://longform.asmartbear.com/worse-but-unique/](https://longform.asmartbear.com/worse-but-unique/)
 
 ![chess bishop qbert dating moves](https://public.asmartbear.com/books/anthology/chapters/worse-but-unique/d8851print-simple.png)
 
@@ -53,7 +68,7 @@ The customers who *do* want to play your game, will see that you're the best in 
 
 [^1]: In my case, WP Engine powers as many substantial websites as Google Cloud or Digital Ocean, and we still have only 2.3% of that market. That means 98% of potential customers are in fact not customers, and yet WP Engine is a unicorn. By the way, this is another reason why it's wise to [seek large markets](https://longform.asmartbear.com/problem/).
 
-والأفضل من "مختلف" هو التطرف في هذا الاختلاف. ليس مجرد واجهة مستخدم بسيطة، ولكنه يعمل على سطر الأوامر. ليس فقط تصميمًا رائعًا، ولكن الأشخاص المتميزون يشترونه فقط من أجل ذلك، ويتم كتابته على مدونات المصممين. ليست مجرد خوارزمية جديدة تحل مشكلة قديمة، ولكنها خوارزمية تكشف أشياء جديدة لا يفعلها أي شخص آخر، حتى على حساب فقدان الأشياء التي يلتقطها الآخرون. لا يمكنك القيام بذلك لجميع جوانب منتجك وعملك - في الواقع، حتى عنصر واحد قوي بالفعل - ولكن التطرف هو كيفية تعظيم قوة الأشياء القليلة التي تجعلك مميزًا.
+Even better than "different," is to be extreme in that difference. Not just a minimal UI, but so minimal it works on the command-line. Not just great design, but so remarkable people buy it only for that, and it's written up on designer's blogs. Not just a new algorithm that solves an old problem, but one that uncovers new things that no one else does, even at the expense of missing things that others catch. You can't do this for all aspects of your product and business--indeed, even a single one is already powerful--but extremity is how you maximize the power of the few things that make you special.
 
 All those competitors *cannot* play the game as well as you, because you picked something that was not only different, but extreme. They can't make every choice you made, and since they didn't, they're definitionally not the best at your game.
 

@@ -1,22 +1,37 @@
 ---
 id: 200
 title_en: "Love the messenger"
-title_ar: "Love the messenger"
+title_ar: "أحبب حامل الأخبار السيئة: لماذا يعتبر نقد العملاء أثمن هدية لشركتك"
 slug: "love-the-messenger"
 url: "https://longform.asmartbear.com/love-the-messenger/"
-pubDate: "Sat, 01 Nov 2008 08:00:00 +0000"
+published_date: "Sat, 01 Nov 2008 08:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Being obsessively and genuinely excited about something is contagious. And good sales. In any industry, with any product."
-summary_ar: "Being obsessively and genuinely excited about something is contagious. And good sales. In any industry, with any product."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'أحبب حامل الأخبار السيئة: لماذا يعتبر نقد العملاء أثمن هدية لشركتك'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Love the messenger
+# أحبب حامل الأخبار السيئة: لماذا يعتبر نقد العملاء أثمن هدية لشركتك
 ### Love the messenger
 
-> **الملخص التنفيذي:** Being obsessively and genuinely excited about something is contagious. And good sales. In any industry, with any product.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'أحبب حامل الأخبار السيئة: لماذا يعتبر نقد العملاء أثمن هدية لشركتك'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/love-the-messenger/](https://longform.asmartbear.com/love-the-messenger/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** أحبب حامل الأخبار السيئة: لماذا يعتبر نقد العملاء أثمن هدية لشركتك تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Love the messenger
+
+> **Executive Summary:** Being obsessively and genuinely excited about something is contagious. And good sales. In any industry, with any product.
+> **Original URL:** [https://longform.asmartbear.com/love-the-messenger/](https://longform.asmartbear.com/love-the-messenger/)
 
 ![bi bim bap](https://longform.asmartbear.com/love-the-messenger/8074b444.png)
 

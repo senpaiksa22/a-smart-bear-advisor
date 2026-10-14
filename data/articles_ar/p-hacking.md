@@ -1,22 +1,37 @@
 ---
 id: 23
 title_en: "p-Hacking your A/B tests"
-title_ar: "p-Hacking your A/B tests"
+title_ar: "التلاعب بالبيانات وتزييف نتائج اختبارات A/B (p-Hacking)"
 slug: "p-hacking"
 url: "https://longform.asmartbear.com/p-hacking/"
-pubDate: "Sun, 17 Nov 2024 00:00:00 +0000"
+published_date: "Sun, 17 Nov 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Half of your \"successful\" A/B tests are false-positives. This is why, and how to fix it."
-summary_ar: "Half of your \"successful\" A/B tests are false-positives. This is why, and how to fix it."
+summary_ar: "Half of your \"
 ---
 
-# p-Hacking your A/B tests
+# التلاعب بالبيانات وتزييف نتائج اختبارات A/B (p-Hacking)
 ### p-Hacking your A/B tests
 
-> **الملخص التنفيذي:** Half of your "successful" A/B tests are false-positives. This is why, and how to fix it.
+> **الملخص التنفيذي:** Half of your \
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/p-hacking/](https://longform.asmartbear.com/p-hacking/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التلاعب بالبيانات وتزييف نتائج اختبارات A/B (p-Hacking) تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# p-Hacking your A/B tests
+
+> **Executive Summary:** Half of your "successful" A/B tests are false-positives. This is why, and how to fix it.
+> **Original URL:** [https://longform.asmartbear.com/p-hacking/](https://longform.asmartbear.com/p-hacking/)
 
 ![Fine, just stand there being ominously silent. It doesn't change the fact that I have the lab until 9:00.](https://public.asmartbear.com/books/anthology/chapters/p-hacking/d8676print-simple.png)
 

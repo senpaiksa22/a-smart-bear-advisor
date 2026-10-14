@@ -1,22 +1,37 @@
 ---
 id: 124
 title_en: "The rise of the \"successful\" unsustainable company"
-title_ar: "The rise of the \"successful\" unsustainable company"
+title_ar: "صعود الشركات 'الناجحة ظاهرياً' غير القابلة للاستدامة مالياً"
 slug: "unsustainable-companies"
 url: "https://longform.asmartbear.com/unsustainable-companies/"
-pubDate: "Tue, 23 Oct 2012 08:00:00 +0000"
+published_date: "Tue, 23 Oct 2012 08:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "We're funding too many unsustainable companies."
-summary_ar: "We're funding too many unsustainable companies."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'صعود الشركات 'الناجحة ظاهرياً' غير القابلة للاستدامة مالياً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The rise of the "successful" unsustainable company
+# صعود الشركات 'الناجحة ظاهرياً' غير القابلة للاستدامة مالياً
 ### The rise of the "successful" unsustainable company
 
-> **الملخص التنفيذي:** We're funding too many unsustainable companies.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'صعود الشركات 'الناجحة ظاهرياً' غير القابلة للاستدامة مالياً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/unsustainable-companies/](https://longform.asmartbear.com/unsustainable-companies/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** صعود الشركات 'الناجحة ظاهرياً' غير القابلة للاستدامة مالياً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The rise of the "successful" unsustainable company
+
+> **Executive Summary:** We're funding too many unsustainable companies.
+> **Original URL:** [https://longform.asmartbear.com/unsustainable-companies/](https://longform.asmartbear.com/unsustainable-companies/)
 
 It's appalling what passes for "successful entrepreneurship" in the press or the Valley, but it's not their fault.
 
@@ -50,7 +65,9 @@ The crap of it is, **those VC's who continue to invest in Nguyen are acting rati
 And it *is* magic. When you read quotes from people who've worked with Nguyen, ask yourself whether he's driven by truth or deception:
 
 > "Many salespeople blur the line between reality and potential to move a deal forward. Bill seems to delight in willfully disregarding the line altogether." *--unnamed source for Fast Company*
+> 
 > "He paints pictures with the best in the world, And storyteller doesn't give it the richness it deserves. He's Jobsian in his ability to get you on his side." *--Geoff Ralston, Lala's CEO, board member Color*
+>
 > "Bill is able to say something and have the person he's talking to believe it, and believe that they want to buy it. ... He has what I call 'the Jedi.'" *--Ross Bott, CEO of Seven,  former CEO of OneBox*
 
 But to me the bigger problem isn't with deceivers, but rather with what [Dan Lyons](http://en.wikipedia.org/wiki/Daniel_Lyons) characterizes as the rise of **unsustainable companies which people *honestly* believed were sustainable**.

@@ -1,22 +1,37 @@
 ---
 id: 115
 title_en: "COC: A new metric for measuring cancellations in SaaS business models"
-title_ar: "COC: A new metric for measuring cancellations in SaaS business models"
+title_ar: "مقياس COC: معيار مبتكر لقياس إلغاء الاشتراكات في شركات SaaS"
 slug: "coc"
 url: "https://longform.asmartbear.com/coc/"
-pubDate: "Tue, 06 Aug 2013 00:00:00 +0000"
+published_date: "Tue, 06 Aug 2013 00:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "Introducing COC: The true cost of cancellations in a scaling SaaS business."
-summary_ar: "Introducing COC: The true cost of cancellations in a scaling SaaS business."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: COC: A new metric for measuring cancellations in SaaS business models'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# COC: A new metric for measuring cancellations in SaaS business models
+# مقياس COC: معيار مبتكر لقياس إلغاء الاشتراكات في شركات SaaS
 ### COC: A new metric for measuring cancellations in SaaS business models
 
-> **الملخص التنفيذي:** Introducing COC: The true cost of cancellations in a scaling SaaS business.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: COC: A new metric for measuring cancellations in SaaS business models'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/coc/](https://longform.asmartbear.com/coc/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** مقياس COC: معيار مبتكر لقياس إلغاء الاشتراكات في شركات SaaS تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# COC: A new metric for measuring cancellations in SaaS business models
+
+> **Executive Summary:** Introducing COC: The true cost of cancellations in a scaling SaaS business.
+> **Original URL:** [https://longform.asmartbear.com/coc/](https://longform.asmartbear.com/coc/)
 
 ![i used to have lot of issues but then i just canceled my subscription](https://public.asmartbear.com/books/anthology/chapters/coc/d5232print-simple.png)
 

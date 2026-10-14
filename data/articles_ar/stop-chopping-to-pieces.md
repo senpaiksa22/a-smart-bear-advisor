@@ -1,26 +1,41 @@
 ---
 id: 109
 title_en: "Stop chopping yourself to pieces"
-title_ar: "Stop chopping yourself to pieces"
+title_ar: "توقف عن تمزيق نفسك وفريقك إلى أشلاء بالمهام التافهة"
 slug: "stop-chopping-to-pieces"
 url: "https://longform.asmartbear.com/stop-chopping-to-pieces/"
-pubDate: "Mon, 30 Dec 2013 08:00:00 +0000"
+published_date: "Mon, 30 Dec 2013 08:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Achieve more by doing less: one task at a time, ample rest, and deliberate focus lead to greater fulfillment."
-summary_ar: "Achieve more by doing less: one task at a time, ample rest, and deliberate focus lead to greater fulfillment."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Stop chopping yourself to pieces'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Stop chopping yourself to pieces
+# توقف عن تمزيق نفسك وفريقك إلى أشلاء بالمهام التافهة
 ### Stop chopping yourself to pieces
 
-> **الملخص التنفيذي:** Achieve more by doing less: one task at a time, ample rest, and deliberate focus lead to greater fulfillment.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Stop chopping yourself to pieces'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/stop-chopping-to-pieces/](https://longform.asmartbear.com/stop-chopping-to-pieces/)
 
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** توقف عن تمزيق نفسك وفريقك إلى أشلاء بالمهام التافهة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Stop chopping yourself to pieces
+
+> **Executive Summary:** Achieve more by doing less: one task at a time, ample rest, and deliberate focus lead to greater fulfillment.
+> **Original URL:** [https://longform.asmartbear.com/stop-chopping-to-pieces/](https://longform.asmartbear.com/stop-chopping-to-pieces/)
+
 ![Cartoon 5bbdbd63](https://longform.asmartbear.com/stop-chopping-to-pieces/42e65065.png)
 
-My personal experience, confirmed by numerous studies, is:
+ My personal experience, confirmed by numerous studies, is:
 
 1. It's faster to process email in batches rather than checking in 30 times/day.
 2. Humans cannot multi-task, they just complete both tasks slower, and with lower quality. (Texting and driving, meetings and email)

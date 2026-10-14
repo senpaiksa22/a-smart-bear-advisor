@@ -1,22 +1,37 @@
 ---
 id: 45
 title_en: "Quarterly strategic planning using the fairytale structure"
-title_ar: "Quarterly strategic planning using the fairytale structure"
+title_ar: "التخطيط الاستراتيجي الفصلي: استخدام بنية القصة الخيالية في صياغة الأهداف"
 slug: "strategic-planning"
 url: "https://longform.asmartbear.com/strategic-planning/"
-pubDate: "Sun, 26 Nov 2023 00:00:00 +0000"
+published_date: "Sun, 26 Nov 2023 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Traditional fairytale structure fits naturally in our brains, and thus can guide strategic problem-analysis, and a plan that everyone understands."
-summary_ar: "Traditional fairytale structure fits naturally in our brains, and thus can guide strategic problem-analysis, and a plan that everyone understands."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Quarterly strategic planning using the fairytale structure'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Quarterly strategic planning using the fairytale structure
+# التخطيط الاستراتيجي الفصلي: استخدام بنية القصة الخيالية في صياغة الأهداف
 ### Quarterly strategic planning using the fairytale structure
 
-> **الملخص التنفيذي:** Traditional fairytale structure fits naturally in our brains, and thus can guide strategic problem-analysis, and a plan that everyone understands.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Quarterly strategic planning using the fairytale structure'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/strategic-planning/](https://longform.asmartbear.com/strategic-planning/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التخطيط الاستراتيجي الفصلي: استخدام بنية القصة الخيالية في صياغة الأهداف تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Quarterly strategic planning using the fairytale structure
+
+> **Executive Summary:** Traditional fairytale structure fits naturally in our brains, and thus can guide strategic problem-analysis, and a plan that everyone understands.
+> **Original URL:** [https://longform.asmartbear.com/strategic-planning/](https://longform.asmartbear.com/strategic-planning/)
 
 ![case two kids chow down on witchs house then burn her alive](https://public.asmartbear.com/books/anthology/chapters/strategic-planning/d8067print-simple.png)
 

@@ -1,22 +1,37 @@
 ---
 id: 137
 title_en: "When being \"first\" is not a competitive advantage"
-title_ar: "When being \"first\" is not a competitive advantage"
+title_ar: "متى تكون الأسبقية في السوق ليست ميزة تنافسية حقيقية"
 slug: "first-competitive-advantage"
 url: "https://longform.asmartbear.com/first-competitive-advantage/"
-pubDate: "Mon, 19 Dec 2011 00:00:00 +0000"
+published_date: "Mon, 19 Dec 2011 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Is it good to be \"first?\"  It seems so -- what's the point of being a copycat? While \"first\" sounds impressive, in reality it's often not an advantage."
-summary_ar: "Is it good to be \"first?\"  It seems so -- what's the point of being a copycat? While \"first\" sounds impressive, in reality it's often not an advantage."
+summary_ar: "Is it good to be \"
 ---
 
-# When being "first" is not a competitive advantage
+# متى تكون الأسبقية في السوق ليست ميزة تنافسية حقيقية
 ### When being "first" is not a competitive advantage
 
-> **الملخص التنفيذي:** Is it good to be "first?"  It seems so -- what's the point of being a copycat? While "first" sounds impressive, in reality it's often not an advantage.
+> **الملخص التنفيذي:** Is it good to be \
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/first-competitive-advantage/](https://longform.asmartbear.com/first-competitive-advantage/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** متى تكون الأسبقية في السوق ليست ميزة تنافسية حقيقية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# When being "first" is not a competitive advantage
+
+> **Executive Summary:** Is it good to be "first?"  It seems so -- what's the point of being a copycat? While "first" sounds impressive, in reality it's often not an advantage.
+> **Original URL:** [https://longform.asmartbear.com/first-competitive-advantage/](https://longform.asmartbear.com/first-competitive-advantage/)
 
 ![Why being a first mover is disadvantageous](https://public.asmartbear.com/books/anthology/chapters/first-competitive-advantage/image-simple.png)
 

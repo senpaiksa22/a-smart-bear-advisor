@@ -1,22 +1,37 @@
 ---
 id: 142
 title_en: "When being an \"expert\" is harmful"
-title_ar: "When being an \"expert\" is harmful"
+title_ar: "متى يكون التحول إلى 'خبير' ضاراً بريادة الأعمال والابتكار"
 slug: "expert-harmful"
 url: "https://longform.asmartbear.com/expert-harmful/"
-pubDate: "Mon, 29 Aug 2011 00:00:00 +0000"
+published_date: "Mon, 29 Aug 2011 00:00:00 +0000"
 category_en: "Foundational Philosophy & Startup Wisdom"
 category_ar: "فلسفة ريادة الأعمال والحكمة التأسيسية"
 summary_en: "Expertise hinders learning. Learn from these examples, so that you leverage your expertise, but aren't blinded by it. Insights come from curiosity, not certainty."
-summary_ar: "Expertise hinders learning. Learn from these examples, so that you leverage your expertise, but aren't blinded by it. Insights come from curiosity, not certainty."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'متى يكون التحول إلى 'خبير' ضاراً بريادة الأعمال والابتكار'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# When being an "expert" is harmful
+# متى يكون التحول إلى 'خبير' ضاراً بريادة الأعمال والابتكار
 ### When being an "expert" is harmful
 
-> **الملخص التنفيذي:** Expertise hinders learning. Learn from these examples, so that you leverage your expertise, but aren't blinded by it. Insights come from curiosity, not certainty.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'متى يكون التحول إلى 'خبير' ضاراً بريادة الأعمال والابتكار'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** فلسفة ريادة الأعمال والحكمة التأسيسية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/expert-harmful/](https://longform.asmartbear.com/expert-harmful/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** متى يكون التحول إلى 'خبير' ضاراً بريادة الأعمال والابتكار تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# When being an "expert" is harmful
+
+> **Executive Summary:** Expertise hinders learning. Learn from these examples, so that you leverage your expertise, but aren't blinded by it. Insights come from curiosity, not certainty.
+> **Original URL:** [https://longform.asmartbear.com/expert-harmful/](https://longform.asmartbear.com/expert-harmful/)
 
 ![i told you its an inkblot theyre all inkblots](https://public.asmartbear.com/books/anthology/chapters/expert-harmful/d1114print-simple.png)
 

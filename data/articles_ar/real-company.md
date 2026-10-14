@@ -1,22 +1,37 @@
 ---
 id: 210
 title_en: "You're a real company when…"
-title_ar: "You're a real company when…"
+title_ar: "تصبح شركتك شركة حقيقية بالفعل عندما تبدأ هذه المؤشرات بالظهور"
 slug: "real-company"
 url: "https://longform.asmartbear.com/real-company/"
-pubDate: "Fri, 20 Apr 2007 00:00:00 +0000"
+published_date: "Fri, 20 Apr 2007 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "What marks the moment when you become a \"real\" company?"
-summary_ar: "What marks the moment when you become a \"real\" company?"
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تصبح شركتك شركة حقيقية بالفعل عندما تبدأ هذه المؤشرات بالظهور'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# You're a real company when…
+# تصبح شركتك شركة حقيقية بالفعل عندما تبدأ هذه المؤشرات بالظهور
 ### You're a real company when…
 
-> **الملخص التنفيذي:** What marks the moment when you become a "real" company?
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تصبح شركتك شركة حقيقية بالفعل عندما تبدأ هذه المؤشرات بالظهور'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/real-company/](https://longform.asmartbear.com/real-company/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** تصبح شركتك شركة حقيقية بالفعل عندما تبدأ هذه المؤشرات بالظهور تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# You're a real company when…
+
+> **Executive Summary:** What marks the moment when you become a "real" company?
+> **Original URL:** [https://longform.asmartbear.com/real-company/](https://longform.asmartbear.com/real-company/)
 
 ![Smart Bear company sign on the building](https://public.asmartbear.com/books/anthology/chapters/real-company/img-0530-simple.png)
 

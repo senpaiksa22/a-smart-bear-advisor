@@ -1,22 +1,37 @@
 ---
 id: 114
 title_en: "Sandy Visions"
-title_ar: "Sandy Visions"
+title_ar: "الرؤى الرملية: عندما تبني استراتيجيتك على رمال متحركة"
 slug: "sandy-visions"
 url: "https://longform.asmartbear.com/sandy-visions/"
-pubDate: "Tue, 27 Aug 2013 08:00:00 +0000"
+published_date: "Tue, 27 Aug 2013 08:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "It's all almost magic."
-summary_ar: "It's all almost magic."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Sandy Visions'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Sandy Visions
+# الرؤى الرملية: عندما تبني استراتيجيتك على رمال متحركة
 ### Sandy Visions
 
-> **الملخص التنفيذي:** It's all almost magic.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Sandy Visions'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/sandy-visions/](https://longform.asmartbear.com/sandy-visions/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الرؤى الرملية: عندما تبني استراتيجيتك على رمال متحركة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Sandy Visions
+
+> **Executive Summary:** It's all almost magic.
+> **Original URL:** [https://longform.asmartbear.com/sandy-visions/](https://longform.asmartbear.com/sandy-visions/)
 
 ![They were all out of chests.](https://longform.asmartbear.com/sandy-visions/719c4f39.png)
 

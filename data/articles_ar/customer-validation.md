@@ -1,22 +1,37 @@
 ---
 id: 158
 title_en: "Yes, but who said they'd actually BUY the damn thing?"
-title_ar: "Yes, but who said they'd actually BUY the damn thing?"
+title_ar: "نعم، ولكن من قال إنهم سيدفعون أموالاً حقيقية لشراء هذا الشيء؟"
 slug: "customer-validation"
 url: "https://longform.asmartbear.com/customer-validation/"
-pubDate: "Mon, 09 Aug 2010 00:00:00 +0000"
+published_date: "Mon, 09 Aug 2010 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Have a great idea? Prove it by finding ten customers ready to hand over cash. Everything else is avoiding the truth."
-summary_ar: "Have a great idea? Prove it by finding ten customers ready to hand over cash. Everything else is avoiding the truth."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'نعم، ولكن من قال إنهم سيدفعون أموالاً حقيقية لشراء هذا الشيء؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Yes, but who said they'd actually BUY the damn thing?
+# نعم، ولكن من قال إنهم سيدفعون أموالاً حقيقية لشراء هذا الشيء؟
 ### Yes, but who said they'd actually BUY the damn thing?
 
-> **الملخص التنفيذي:** Have a great idea? Prove it by finding ten customers ready to hand over cash. Everything else is avoiding the truth.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'نعم، ولكن من قال إنهم سيدفعون أموالاً حقيقية لشراء هذا الشيء؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/customer-validation/](https://longform.asmartbear.com/customer-validation/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** نعم، ولكن من قال إنهم سيدفعون أموالاً حقيقية لشراء هذا الشيء؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Yes, but who said they'd actually BUY the damn thing?
+
+> **Executive Summary:** Have a great idea? Prove it by finding ten customers ready to hand over cash. Everything else is avoiding the truth.
+> **Original URL:** [https://longform.asmartbear.com/customer-validation/](https://longform.asmartbear.com/customer-validation/)
 
 ![Your mom is not a valid test market](https://public.asmartbear.com/books/anthology/chapters/customer-validation/your-mom-not-test-market-simple.png)
 

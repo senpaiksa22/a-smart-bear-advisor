@@ -1,22 +1,37 @@
 ---
 id: 203
 title_en: "Software Quality Mortgage"
-title_ar: "Software Quality Mortgage"
+title_ar: "رهن جودة البرمجيات: الديون التقنية وكيف تدفع فوائدها لاحقاً"
 slug: "software-quality-mortgage"
 url: "https://longform.asmartbear.com/software-quality-mortgage/"
-pubDate: "Mon, 08 Sep 2008 08:00:00 +0000"
+published_date: "Mon, 08 Sep 2008 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Quick software releases have long-term costs. Stakeholders and engineers alike must be prepared to repay the mortgage known as \"tech debt.\""
-summary_ar: "Quick software releases have long-term costs. Stakeholders and engineers alike must be prepared to repay the mortgage known as \"tech debt.\""
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'رهن جودة البرمجيات: الديون التقنية وكيف تدفع فوائدها لاحقاً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Software Quality Mortgage
+# رهن جودة البرمجيات: الديون التقنية وكيف تدفع فوائدها لاحقاً
 ### Software Quality Mortgage
 
-> **الملخص التنفيذي:** Quick software releases have long-term costs. Stakeholders and engineers alike must be prepared to repay the mortgage known as "tech debt."
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'رهن جودة البرمجيات: الديون التقنية وكيف تدفع فوائدها لاحقاً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/software-quality-mortgage/](https://longform.asmartbear.com/software-quality-mortgage/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** رهن جودة البرمجيات: الديون التقنية وكيف تدفع فوائدها لاحقاً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Software Quality Mortgage
+
+> **Executive Summary:** Quick software releases have long-term costs. Stakeholders and engineers alike must be prepared to repay the mortgage known as "tech debt."
+> **Original URL:** [https://longform.asmartbear.com/software-quality-mortgage/](https://longform.asmartbear.com/software-quality-mortgage/)
 
 Your code is a mess. Years of squeezing in "must-have" features for big customers have stretched the code beyond its [original design](https://longform.asmartbear.com/design/). Core modules are riddled with landmines; we're afraid to make any changes, even with unit tests. Tacit assumptions shared by the two founders aren't obvious to the next ten hires.
 

@@ -1,32 +1,47 @@
 ---
 id: 40
 title_en: "Deciding whether an investment is worthwhile"
-title_ar: "Deciding whether an investment is worthwhile"
+title_ar: "كيف تقرر ما إذا كان الاستثمار في فكرة أو ميزة يستحق العناء"
 slug: "investment"
 url: "https://longform.asmartbear.com/investment/"
-pubDate: "Sun, 04 Feb 2024 00:00:00 +0000"
+published_date: "Sun, 04 Feb 2024 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Why \"expected value\" doesn't work; here's a better framework for making long-term investments in your career, startup, and life."
-summary_ar: "Why \"expected value\" doesn't work; here's a better framework for making long-term investments in your career, startup, and life."
+summary_ar: "Why \"
 ---
 
-# Deciding whether an investment is worthwhile
+# كيف تقرر ما إذا كان الاستثمار في فكرة أو ميزة يستحق العناء
 ### Deciding whether an investment is worthwhile
 
-> **الملخص التنفيذي:** Why "expected value" doesn't work; here's a better framework for making long-term investments in your career, startup, and life.
+> **الملخص التنفيذي:** Why \
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/investment/](https://longform.asmartbear.com/investment/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كيف تقرر ما إذا كان الاستثمار في فكرة أو ميزة يستحق العناء تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Deciding whether an investment is worthwhile
+
+> **Executive Summary:** Why "expected value" doesn't work; here's a better framework for making long-term investments in your career, startup, and life.
+> **Original URL:** [https://longform.asmartbear.com/investment/](https://longform.asmartbear.com/investment/)
 
 ![surprised investors expecting worst performing miserably](https://public.asmartbear.com/books/anthology/chapters/investment/d4713print-simple.png)
 
 Whether it's your career path, which job to take for the next four years, investing in your personal brand, creating a startup, or investing in a startup, the question is:
 
-<br/>
+ <br/> 
 
 _How do I decide which investment is worthwhile?_
 
-<br/>
+ <br/> 
 
 I'm defining an "investment" as distinct from other bets by having these characteristics:
 
@@ -109,8 +124,11 @@ Just because the world values something today, doesn't mean it will be valued te
 This summarizes Jeff Bezos's famous explanation of why Amazon's strategy has always been based on "what will not change." He articulates it so well, I'll leave it here without further commentary (except my emphasis, in bold):
 
 > I very frequently get the question: "What's going to change in the next 10 years?" And that is a very interesting question; it's a very common one. I almost never get the question: "What's *not* going to change in the next 10 years?" And I submit to you that that second question is actually the more important of the two--because **you can build a business strategy around the things that are stable in time**. ... [I]n our retail business, we know that customers want low prices, and I know that's going to be true ten years from now. They want fast delivery; they want vast selection.  
+>   
 > It's impossible to imagine a future ten years from now where a customer comes up and says, "Jeff, I love Amazon; I just wish the prices were a little higher." "I love Amazon; I just wish you'd deliver a little more slowly." Impossible.  
+>   
 > And so the effort we put into those things, spinning those things up, we know the energy we put into it today will still be paying off dividends for our customers 10 years from now. **When you have something that you know is true, even over the long term, you can afford to put a lot of energy into it.**  
+>   
 > --[Jeff Bezos](https://www.youtube.com/embed/O4MtQGRIIuA?start=267), 2012 (it's been 10 years since this quote, so we can confirm in retrospect that this was indeed the correct analysis.)
 
 ![second quarter is up no fourth quarter now second again](https://public.asmartbear.com/books/anthology/chapters/investment/d7899print-simple.png)

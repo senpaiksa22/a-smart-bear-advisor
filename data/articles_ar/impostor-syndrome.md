@@ -1,22 +1,37 @@
 ---
 id: 175
 title_en: "Impostor Syndrome: Why I felt like a fraud, and how I overcame it"
-title_ar: "Impostor Syndrome: Why I felt like a fraud, and how I overcame it"
+title_ar: "متلازمة المحتال: لماذا شعرت بأني مخادع، وكيف تغلبت عليها تماماً"
 slug: "impostor-syndrome"
 url: "https://longform.asmartbear.com/impostor-syndrome/"
-pubDate: "Mon, 18 Jan 2010 00:00:00 +0000"
+published_date: "Mon, 18 Jan 2010 00:00:00 +0000"
 category_en: "Foundational Philosophy & Startup Wisdom"
 category_ar: "فلسفة ريادة الأعمال والحكمة التأسيسية"
 summary_en: "Most high-performing people experience Impostor Syndrome. I did too. When you understand the cause, you can defeat it."
-summary_ar: "Most high-performing people experience Impostor Syndrome. I did too. When you understand the cause, you can defeat it."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'متلازمة المحتال: لماذا شعرت بأني مخادع، وكيف تغلبت عليها تماماً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Impostor Syndrome: Why I felt like a fraud, and how I overcame it
+# متلازمة المحتال: لماذا شعرت بأني مخادع، وكيف تغلبت عليها تماماً
 ### Impostor Syndrome: Why I felt like a fraud, and how I overcame it
 
-> **الملخص التنفيذي:** Most high-performing people experience Impostor Syndrome. I did too. When you understand the cause, you can defeat it.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'متلازمة المحتال: لماذا شعرت بأني مخادع، وكيف تغلبت عليها تماماً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** فلسفة ريادة الأعمال والحكمة التأسيسية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/impostor-syndrome/](https://longform.asmartbear.com/impostor-syndrome/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** متلازمة المحتال: لماذا شعرت بأني مخادع، وكيف تغلبت عليها تماماً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Impostor Syndrome: Why I felt like a fraud, and how I overcame it
+
+> **Executive Summary:** Most high-performing people experience Impostor Syndrome. I did too. When you understand the cause, you can defeat it.
+> **Original URL:** [https://longform.asmartbear.com/impostor-syndrome/](https://longform.asmartbear.com/impostor-syndrome/)
 
 ![Sometimes feel like an impostor? You're not alone.](https://public.asmartbear.com/books/anthology/chapters/impostor-syndrome/kisspng-groucho-glasses-stock-photography-disguise-glasses-5ab5a417ba32a2-9298949115218534637627-simple.png)
 

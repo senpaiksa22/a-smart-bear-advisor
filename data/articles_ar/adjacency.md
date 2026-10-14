@@ -1,22 +1,37 @@
 ---
 id: 34
 title_en: "Adjacency Matrix: How to expand after PMF"
-title_ar: "Adjacency Matrix: How to expand after PMF"
+title_ar: "مصفوفة التجاور: كيف تتوسع استراتيجياً بعد ملاءمة المنتج للسوق"
 slug: "adjacency"
 url: "https://longform.asmartbear.com/adjacency/"
-pubDate: "Sun, 05 May 2024 00:00:00 +0000"
+published_date: "Sun, 05 May 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "A simple workshop that evaluates new business ideas relative to your existing strengths -- the key to expanding without overreaching."
-summary_ar: "A simple workshop that evaluates new business ideas relative to your existing strengths -- the key to expanding without overreaching."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'مصفوفة التجاور: كيف تتوسع استراتيجياً بعد ملاءمة المنتج للسوق'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Adjacency Matrix: How to expand after PMF
+# مصفوفة التجاور: كيف تتوسع استراتيجياً بعد ملاءمة المنتج للسوق
 ### Adjacency Matrix: How to expand after PMF
 
-> **الملخص التنفيذي:** A simple workshop that evaluates new business ideas relative to your existing strengths -- the key to expanding without overreaching.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'مصفوفة التجاور: كيف تتوسع استراتيجياً بعد ملاءمة المنتج للسوق'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/adjacency/](https://longform.asmartbear.com/adjacency/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** مصفوفة التجاور: كيف تتوسع استراتيجياً بعد ملاءمة المنتج للسوق تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Adjacency Matrix: How to expand after PMF
+
+> **Executive Summary:** A simple workshop that evaluates new business ideas relative to your existing strengths -- the key to expanding without overreaching.
+> **Original URL:** [https://longform.asmartbear.com/adjacency/](https://longform.asmartbear.com/adjacency/)
 
 ![room for new device between mini tablet and mega smartphone](https://public.asmartbear.com/books/anthology/chapters/adjacency/d6598print-simple.png)
 
@@ -129,7 +144,9 @@ In this context, the Adjacency Matrix is useful for ruling out ideas that are cl
 Finally, **the Adjacency Matrix is useful in communicating the decision** to the whole company--something leaders perennially fail to adequately appreciate and value. It's vital that the decision is simple to explain and justify, so everyone feels that it's natural, intelligent, and clear. The matrix can help form the narrative:
 
 > We've all seen the organic pull from larger, enterprise-sized customers. There's obviously opportunity there, but what is the right way for us to approach it, starting from where we are today?  
+>   
 > We considered several options, such as ______ and ______. We decided upon ______ because while it will require [department] to [do something complex and risky], we realized it would be easy for everyone else because [why it's trivial in other areas]. So, this was the least-risky, highest-chance-for-success way for us to approach this new market, add a new growth area, and learn, and see where it goes from there.  
+>   
 > Exciting! And let's remember to give [department] our support and grace as they transform themselves to support this new strategic effort.
 
 ---

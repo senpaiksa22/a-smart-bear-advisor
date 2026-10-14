@@ -1,22 +1,37 @@
 ---
 id: 213
 title_en: "Idiot! Buying SmartBear.com"
-title_ar: "Idiot! Buying SmartBear.com"
+title_ar: "يا للغباء! قصة شرائي لنطاق SmartBear.com والدروس القاسية المستفادة"
 slug: "idiot-buying-smartbear-com"
 url: "https://longform.asmartbear.com/idiot-buying-smartbear-com/"
-pubDate: "Wed, 24 Jan 2007 00:00:00 +0000"
+published_date: "Wed, 24 Jan 2007 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "How my hesitation on SmartBear.com led to a $2000 expense. A lesson in acting fast."
-summary_ar: "How my hesitation on SmartBear.com led to a $2000 expense. A lesson in acting fast."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'يا للغباء! قصة شرائي لنطاق SmartBear.com والدروس القاسية المستفادة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Idiot! Buying SmartBear.com
+# يا للغباء! قصة شرائي لنطاق SmartBear.com والدروس القاسية المستفادة
 ### Idiot! Buying SmartBear.com
 
-> **الملخص التنفيذي:** How my hesitation on SmartBear.com led to a $2000 expense. A lesson in acting fast.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'يا للغباء! قصة شرائي لنطاق SmartBear.com والدروس القاسية المستفادة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/idiot-buying-smartbear-com/](https://longform.asmartbear.com/idiot-buying-smartbear-com/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** يا للغباء! قصة شرائي لنطاق SmartBear.com والدروس القاسية المستفادة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Idiot! Buying SmartBear.com
+
+> **Executive Summary:** How my hesitation on SmartBear.com led to a $2000 expense. A lesson in acting fast.
+> **Original URL:** [https://longform.asmartbear.com/idiot-buying-smartbear-com/](https://longform.asmartbear.com/idiot-buying-smartbear-com/)
 
 ![idiot!](https://public.asmartbear.com/books/anthology/chapters/idiot-buying-smartbear-com/image-simple.png)
 

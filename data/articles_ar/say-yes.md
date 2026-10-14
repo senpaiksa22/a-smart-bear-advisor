@@ -1,22 +1,37 @@
 ---
 id: 148
 title_en: "Never say \"no,\" but rarely say \"yes.\""
-title_ar: "Never say \"no,\" but rarely say \"yes.\""
+title_ar: "إياك أن تقول 'لا' لعملائك، ولكن نادراً جداً ما تقول 'نعم'"
 slug: "say-yes"
 url: "https://longform.asmartbear.com/say-yes/"
-pubDate: "Mon, 25 Apr 2011 00:00:00 +0000"
+published_date: "Mon, 25 Apr 2011 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "\"Focus\" requires saying \"no\" to most things, but there's a way to do it that allows you to say \"yes\" exactly when it matters most."
-summary_ar: "\"Focus\" requires saying \"no\" to most things, but there's a way to do it that allows you to say \"yes\" exactly when it matters most."
+summary_ar: "\"
 ---
 
-# Never say "no," but rarely say "yes."
+# إياك أن تقول 'لا' لعملائك، ولكن نادراً جداً ما تقول 'نعم'
 ### Never say "no," but rarely say "yes."
 
-> **الملخص التنفيذي:** "Focus" requires saying "no" to most things, but there's a way to do it that allows you to say "yes" exactly when it matters most.
+> **الملخص التنفيذي:** \
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/say-yes/](https://longform.asmartbear.com/say-yes/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** إياك أن تقول 'لا' لعملائك، ولكن نادراً جداً ما تقول 'نعم' تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Never say "no," but rarely say "yes."
+
+> **Executive Summary:** "Focus" requires saying "no" to most things, but there's a way to do it that allows you to say "yes" exactly when it matters most.
+> **Original URL:** [https://longform.asmartbear.com/say-yes/](https://longform.asmartbear.com/say-yes/)
 
 ![i know hes not much to look at but symbiosis great](https://public.asmartbear.com/books/anthology/chapters/say-yes/d5934print-simple.png)
 

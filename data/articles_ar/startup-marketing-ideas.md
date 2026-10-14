@@ -1,22 +1,37 @@
 ---
 id: 157
 title_en: "If you build it, they won't come, unless…"
-title_ar: "If you build it, they won't come, unless…"
+title_ar: "إذا بنيت المنتج فلن يأتوا بمفردهم، إلا إذا امتلكت خطة توزيع حقيقية"
 slug: "startup-marketing-ideas"
 url: "https://longform.asmartbear.com/startup-marketing-ideas/"
-pubDate: "Mon, 11 Oct 2010 00:00:00 +0000"
+published_date: "Mon, 11 Oct 2010 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "A/B tests and accumulating Twitter followers is not a marketing strategy, just as \"we'll use salt and cheese\" isn't a recipe."
-summary_ar: "A/B tests and accumulating Twitter followers is not a marketing strategy, just as \"we'll use salt and cheese\" isn't a recipe."
+summary_ar: "A/B tests and accumulating Twitter followers is not a marketing strategy, just as \"
 ---
 
-# If you build it, they won't come, unless…
+# إذا بنيت المنتج فلن يأتوا بمفردهم، إلا إذا امتلكت خطة توزيع حقيقية
 ### If you build it, they won't come, unless…
 
-> **الملخص التنفيذي:** A/B tests and accumulating Twitter followers is not a marketing strategy, just as "we'll use salt and cheese" isn't a recipe.
+> **الملخص التنفيذي:** A/B tests and accumulating Twitter followers is not a marketing strategy, just as \
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/startup-marketing-ideas/](https://longform.asmartbear.com/startup-marketing-ideas/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** إذا بنيت المنتج فلن يأتوا بمفردهم، إلا إذا امتلكت خطة توزيع حقيقية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# If you build it, they won't come, unless…
+
+> **Executive Summary:** A/B tests and accumulating Twitter followers is not a marketing strategy, just as "we'll use salt and cheese" isn't a recipe.
+> **Original URL:** [https://longform.asmartbear.com/startup-marketing-ideas/](https://longform.asmartbear.com/startup-marketing-ideas/)
 
 Ask a technical founder about her startup, and she'll proudly describe her stunning software--simple, compelling, useful, fun. Then she'll describe her cutting-edge platform--cloud-based, scalable, distributed version control, continuous integration, one-click-deploy. Maybe you'll even get a wobbly demo.
 

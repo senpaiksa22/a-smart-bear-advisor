@@ -1,22 +1,37 @@
 ---
 id: 28
 title_en: "Profitable on day one!"
-title_ar: "Profitable on day one!"
+title_ar: "الربحية من اليوم الأول: كيف تبني شركة تعيل نفسها فوراً"
 slug: "ramen-profitable"
 url: "https://longform.asmartbear.com/ramen-profitable/"
-pubDate: "Sun, 25 Aug 2024 00:00:00 +0000"
+published_date: "Sun, 25 Aug 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "You're not profitable if you couldn't afford someone else to do your job. $1000/mo isn't profitable. Fix your definition of \"profitable,\" and build a truly profitable business."
-summary_ar: "You're not profitable if you couldn't afford someone else to do your job. $1000/mo isn't profitable. Fix your definition of \"profitable,\" and build a truly profitable business."
+summary_ar: "You're not profitable if you couldn't afford someone else to do your job. $1000/mo isn't profitable. Fix your definition of \"
 ---
 
-# Profitable on day one!
+# الربحية من اليوم الأول: كيف تبني شركة تعيل نفسها فوراً
 ### Profitable on day one!
 
-> **الملخص التنفيذي:** You're not profitable if you couldn't afford someone else to do your job. $1000/mo isn't profitable. Fix your definition of "profitable," and build a truly profitable business.
+> **الملخص التنفيذي:** You're not profitable if you couldn't afford someone else to do your job. $1000/mo isn't profitable. Fix your definition of \
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/ramen-profitable/](https://longform.asmartbear.com/ramen-profitable/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الربحية من اليوم الأول: كيف تبني شركة تعيل نفسها فوراً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Profitable on day one!
+
+> **Executive Summary:** You're not profitable if you couldn't afford someone else to do your job. $1000/mo isn't profitable. Fix your definition of "profitable," and build a truly profitable business.
+> **Original URL:** [https://longform.asmartbear.com/ramen-profitable/](https://longform.asmartbear.com/ramen-profitable/)
 
 ![If by profits you mean an excess of revenues over outlays and expenses in a business enterprise over a given period of time, then yes, it doesn't look good.](https://public.asmartbear.com/books/anthology/chapters/ramen-profitable/d7790print-simple.png)
 

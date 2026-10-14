@@ -1,22 +1,37 @@
 ---
 id: 168
 title_en: "The true meaning of common idioms"
-title_ar: "The true meaning of common idioms"
+title_ar: "المعنى الحقيقي الكامن وراء الأمثال والمصطلحات الشائعة في الأعمال"
 slug: "idioms"
 url: "https://longform.asmartbear.com/idioms/"
-pubDate: "Mon, 15 Mar 2010 08:00:00 +0000"
+published_date: "Mon, 15 Mar 2010 08:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "Struggling to understand American business vernacular?  Here's a convenient reference."
-summary_ar: "Struggling to understand American business vernacular?  Here's a convenient reference."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'المعنى الحقيقي الكامن وراء الأمثال والمصطلحات الشائعة في الأعمال'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The true meaning of common idioms
+# المعنى الحقيقي الكامن وراء الأمثال والمصطلحات الشائعة في الأعمال
 ### The true meaning of common idioms
 
-> **الملخص التنفيذي:** Struggling to understand American business vernacular?  Here's a convenient reference.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'المعنى الحقيقي الكامن وراء الأمثال والمصطلحات الشائعة في الأعمال'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/idioms/](https://longform.asmartbear.com/idioms/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** المعنى الحقيقي الكامن وراء الأمثال والمصطلحات الشائعة في الأعمال تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The true meaning of common idioms
+
+> **Executive Summary:** Struggling to understand American business vernacular?  Here's a convenient reference.
+> **Original URL:** [https://longform.asmartbear.com/idioms/](https://longform.asmartbear.com/idioms/)
 
 Idioms are used by all creatures, not just humanoids, as I learned from [The Oatmeal](http://theoatmeal.com):
 

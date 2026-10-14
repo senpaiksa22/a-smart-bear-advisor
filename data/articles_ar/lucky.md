@@ -1,22 +1,37 @@
 ---
 id: 189
 title_en: "How much of success is luck?"
-title_ar: "How much of success is luck?"
+title_ar: "كم تبلغ نسبة الحظ الحقيقية في نجاح الشركات ورواد الأعمال؟"
 slug: "lucky"
 url: "https://longform.asmartbear.com/lucky/"
-pubDate: "Mon, 30 Mar 2009 00:00:00 +0000"
+published_date: "Mon, 30 Mar 2009 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "\"You're so lucky.\"  That's true.  There's also decades of sacrifice, emotional turmoil, long hours, perseverance.  So… is it lucky?"
-summary_ar: "\"You're so lucky.\"  That's true.  There's also decades of sacrifice, emotional turmoil, long hours, perseverance.  So… is it lucky?"
+summary_ar: "\"
 ---
 
-# How much of success is luck?
+# كم تبلغ نسبة الحظ الحقيقية في نجاح الشركات ورواد الأعمال؟
 ### How much of success is luck?
 
-> **الملخص التنفيذي:** "You're so lucky."  That's true.  There's also decades of sacrifice, emotional turmoil, long hours, perseverance.  So… is it lucky?
+> **الملخص التنفيذي:** \
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/lucky/](https://longform.asmartbear.com/lucky/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كم تبلغ نسبة الحظ الحقيقية في نجاح الشركات ورواد الأعمال؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# How much of success is luck?
+
+> **Executive Summary:** "You're so lucky."  That's true.  There's also decades of sacrifice, emotional turmoil, long hours, perseverance.  So… is it lucky?
+> **Original URL:** [https://longform.asmartbear.com/lucky/](https://longform.asmartbear.com/lucky/)
 
 ![serendipity is up fluke doing well concerned about dumb luck](https://public.asmartbear.com/books/anthology/chapters/lucky/d7231print-simple.png)
 

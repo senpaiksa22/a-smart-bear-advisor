@@ -1,22 +1,37 @@
 ---
 id: 147
 title_en: "Do I dare call bullshit aloud? Do you?"
-title_ar: "Do I dare call bullshit aloud? Do you?"
+title_ar: "هل تجرؤ على فضح الهراء الإداري والتسويقي بصوت عالٍ؟"
 slug: "call-bullshit"
 url: "https://longform.asmartbear.com/call-bullshit/"
-pubDate: "Mon, 09 May 2011 08:00:00 +0000"
+published_date: "Mon, 09 May 2011 08:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "A side-effect of my moderate, only-in-bubble fame is a barrage of \"special\" offers, guest-post requests, pleas for attention, and modest, tasteful bribery."
-summary_ar: "A side-effect of my moderate, only-in-bubble fame is a barrage of \"special\" offers, guest-post requests, pleas for attention, and modest, tasteful bribery."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'هل تجرؤ على فضح الهراء الإداري والتسويقي بصوت عالٍ؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Do I dare call bullshit aloud? Do you?
+# هل تجرؤ على فضح الهراء الإداري والتسويقي بصوت عالٍ؟
 ### Do I dare call bullshit aloud? Do you?
 
-> **الملخص التنفيذي:** A side-effect of my moderate, only-in-bubble fame is a barrage of "special" offers, guest-post requests, pleas for attention, and modest, tasteful bribery.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'هل تجرؤ على فضح الهراء الإداري والتسويقي بصوت عالٍ؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/call-bullshit/](https://longform.asmartbear.com/call-bullshit/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** هل تجرؤ على فضح الهراء الإداري والتسويقي بصوت عالٍ؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Do I dare call bullshit aloud? Do you?
+
+> **Executive Summary:** A side-effect of my moderate, only-in-bubble fame is a barrage of "special" offers, guest-post requests, pleas for attention, and modest, tasteful bribery.
+> **Original URL:** [https://longform.asmartbear.com/call-bullshit/](https://longform.asmartbear.com/call-bullshit/)
 
 A side-effect of my moderate, only-in-bubble fame is a barrage of "special" offers, guest-post requests, pleas for attention, and modest, tasteful bribery.
 

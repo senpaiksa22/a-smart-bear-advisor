@@ -1,22 +1,37 @@
 ---
 id: 144
 title_en: "10 things I've never heard a successful startup founder say"
-title_ar: "10 things I've never heard a successful startup founder say"
+title_ar: "10 عبارات لا تسمعها أبداً من مؤسس شركة ناشئة ناجح حقاً"
 slug: "successful-founders-dont-say"
 url: "https://longform.asmartbear.com/successful-founders-dont-say/"
-pubDate: "Mon, 15 Aug 2011 08:00:00 +0000"
+published_date: "Mon, 15 Aug 2011 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Please stop repeating these ideas! This isn't how successful companies work."
-summary_ar: "Please stop repeating these ideas! This isn't how successful companies work."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول '10 عبارات لا تسمعها أبداً من مؤسس شركة ناشئة ناجح حقاً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# 10 things I've never heard a successful startup founder say
+# 10 عبارات لا تسمعها أبداً من مؤسس شركة ناشئة ناجح حقاً
 ### 10 things I've never heard a successful startup founder say
 
-> **الملخص التنفيذي:** Please stop repeating these ideas! This isn't how successful companies work.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول '10 عبارات لا تسمعها أبداً من مؤسس شركة ناشئة ناجح حقاً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/successful-founders-dont-say/](https://longform.asmartbear.com/successful-founders-dont-say/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** 10 عبارات لا تسمعها أبداً من مؤسس شركة ناشئة ناجح حقاً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# 10 things I've never heard a successful startup founder say
+
+> **Executive Summary:** Please stop repeating these ideas! This isn't how successful companies work.
+> **Original URL:** [https://longform.asmartbear.com/successful-founders-dont-say/](https://longform.asmartbear.com/successful-founders-dont-say/)
 
 ![I started out under a bridge, moved to online commenting, but then I got into patents and everything changed.](https://longform.asmartbear.com/successful-founders-dont-say/e9e0d591.png)
 

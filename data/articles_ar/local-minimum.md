@@ -1,22 +1,37 @@
 ---
 id: 161
 title_en: "Out of the cesspool and into the sewer: A/B testing trap"
-title_ar: "Out of the cesspool and into the sewer: A/B testing trap"
+title_ar: "فخ القاع المحلي: كيف توقعك اختبارات A/B في تحسينات تافهة وتبعدك عن الثورات الكبرى؟"
 slug: "local-minimum"
 url: "https://longform.asmartbear.com/local-minimum/"
-pubDate: "Mon, 21 Jun 2010 08:00:00 +0000"
+published_date: "Mon, 21 Jun 2010 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Don't get caught in a cycle of incremental A/B testing. Sometimes you need to try something radically different."
-summary_ar: "Don't get caught in a cycle of incremental A/B testing. Sometimes you need to try something radically different."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Out of the cesspool and into the sewer: A/B testing trap'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Out of the cesspool and into the sewer: A/B testing trap
+# فخ القاع المحلي: كيف توقعك اختبارات A/B في تحسينات تافهة وتبعدك عن الثورات الكبرى؟
 ### Out of the cesspool and into the sewer: A/B testing trap
 
-> **الملخص التنفيذي:** Don't get caught in a cycle of incremental A/B testing. Sometimes you need to try something radically different.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Out of the cesspool and into the sewer: A/B testing trap'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/local-minimum/](https://longform.asmartbear.com/local-minimum/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** فخ القاع المحلي: كيف توقعك اختبارات A/B في تحسينات تافهة وتبعدك عن الثورات الكبرى؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Out of the cesspool and into the sewer: A/B testing trap
+
+> **Executive Summary:** Don't get caught in a cycle of incremental A/B testing. Sometimes you need to try something radically different.
+> **Original URL:** [https://longform.asmartbear.com/local-minimum/](https://longform.asmartbear.com/local-minimum/)
 
 ![local minima](https://longform.asmartbear.com/local-minimum/d6e2ec9c.png)
 

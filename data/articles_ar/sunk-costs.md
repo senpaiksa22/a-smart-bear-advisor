@@ -1,22 +1,37 @@
 ---
 id: 172
 title_en: "Sunk Costs: An invisible, pervasive peril"
-title_ar: "Sunk Costs: An invisible, pervasive peril"
+title_ar: "التكاليف الغارقة (Sunk Costs): الخطر الخفي الدائم الذي يستنزف الشركات"
 slug: "sunk-costs"
 url: "https://longform.asmartbear.com/sunk-costs/"
-pubDate: "Mon, 15 Feb 2010 08:00:00 +0000"
+published_date: "Mon, 15 Feb 2010 08:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "From blown budgets to failed features, sunk costs result in irrational choices."
-summary_ar: "From blown budgets to failed features, sunk costs result in irrational choices."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التكاليف الغارقة (Sunk Costs): الخطر الخفي الدائم الذي يستنزف الشركات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Sunk Costs: An invisible, pervasive peril
+# التكاليف الغارقة (Sunk Costs): الخطر الخفي الدائم الذي يستنزف الشركات
 ### Sunk Costs: An invisible, pervasive peril
 
-> **الملخص التنفيذي:** From blown budgets to failed features, sunk costs result in irrational choices.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التكاليف الغارقة (Sunk Costs): الخطر الخفي الدائم الذي يستنزف الشركات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/sunk-costs/](https://longform.asmartbear.com/sunk-costs/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التكاليف الغارقة (Sunk Costs): الخطر الخفي الدائم الذي يستنزف الشركات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Sunk Costs: An invisible, pervasive peril
+
+> **Executive Summary:** From blown budgets to failed features, sunk costs result in irrational choices.
+> **Original URL:** [https://longform.asmartbear.com/sunk-costs/](https://longform.asmartbear.com/sunk-costs/)
 
 Many of my mistakes can be traced back to a failure to recognize and appreciate "sunk cost."
 

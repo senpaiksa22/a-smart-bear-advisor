@@ -1,22 +1,37 @@
 ---
 id: 154
 title_en: "Color Wheels are wrong? How color vision actually works"
-title_ar: "Color Wheels are wrong? How color vision actually works"
+title_ar: "عجلة الألوان التقليدية خاطئة: كيف تعمل الرؤية البشرية للألوان فعلياً"
 slug: "color-wheels"
 url: "https://longform.asmartbear.com/color-wheels/"
-pubDate: "Mon, 31 Jan 2011 00:00:00 +0000"
+published_date: "Mon, 31 Jan 2011 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Artists say all colors are a mixture of red, yellow, and blue. But physics and TV screens and printers disagree. How does color really work?"
-summary_ar: "Artists say all colors are a mixture of red, yellow, and blue. But physics and TV screens and printers disagree. How does color really work?"
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'عجلة الألوان التقليدية خاطئة: كيف تعمل الرؤية البشرية للألوان فعلياً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Color Wheels are wrong? How color vision actually works
+# عجلة الألوان التقليدية خاطئة: كيف تعمل الرؤية البشرية للألوان فعلياً
 ### Color Wheels are wrong? How color vision actually works
 
-> **الملخص التنفيذي:** Artists say all colors are a mixture of red, yellow, and blue. But physics and TV screens and printers disagree. How does color really work?
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'عجلة الألوان التقليدية خاطئة: كيف تعمل الرؤية البشرية للألوان فعلياً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/color-wheels/](https://longform.asmartbear.com/color-wheels/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** عجلة الألوان التقليدية خاطئة: كيف تعمل الرؤية البشرية للألوان فعلياً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Color Wheels are wrong? How color vision actually works
+
+> **Executive Summary:** Artists say all colors are a mixture of red, yellow, and blue. But physics and TV screens and printers disagree. How does color really work?
+> **Original URL:** [https://longform.asmartbear.com/color-wheels/](https://longform.asmartbear.com/color-wheels/)
 
 ## Why are artists special?
 

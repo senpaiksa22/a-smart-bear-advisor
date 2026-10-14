@@ -1,22 +1,37 @@
 ---
 id: 196
 title_en: "Standing out from the noise"
-title_ar: "Standing out from the noise"
+title_ar: "كيف تبرز وتلفت الأنظار وسط الضجيج التسويقي الصاخب"
 slug: "standing-out-from-the-noise"
 url: "https://longform.asmartbear.com/standing-out-from-the-noise/"
-pubDate: "Fri, 12 Dec 2008 08:00:00 +0000"
+published_date: "Fri, 12 Dec 2008 08:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Ensure your pitch works even in our noisy, distracting, multi-tasking world."
-summary_ar: "Ensure your pitch works even in our noisy, distracting, multi-tasking world."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف تبرز وتلفت الأنظار وسط الضجيج التسويقي الصاخب'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Standing out from the noise
+# كيف تبرز وتلفت الأنظار وسط الضجيج التسويقي الصاخب
 ### Standing out from the noise
 
-> **الملخص التنفيذي:** Ensure your pitch works even in our noisy, distracting, multi-tasking world.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف تبرز وتلفت الأنظار وسط الضجيج التسويقي الصاخب'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/standing-out-from-the-noise/](https://longform.asmartbear.com/standing-out-from-the-noise/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كيف تبرز وتلفت الأنظار وسط الضجيج التسويقي الصاخب تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Standing out from the noise
+
+> **Executive Summary:** Ensure your pitch works even in our noisy, distracting, multi-tasking world.
+> **Original URL:** [https://longform.asmartbear.com/standing-out-from-the-noise/](https://longform.asmartbear.com/standing-out-from-the-noise/)
 
 However you feel about Snoop Dogg, you have to admit he's good at producing hit records.
 

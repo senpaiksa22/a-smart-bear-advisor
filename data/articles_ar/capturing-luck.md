@@ -1,22 +1,37 @@
 ---
 id: 75
 title_en: "Capturing luck with \"or\" instead of \"and\""
-title_ar: "Capturing luck with \"or\" instead of \"and\""
+title_ar: "كم تبلغ نسبة الحظ الحقيقية في نجاح الشركات ورواد الأعمال؟"
 slug: "capturing-luck"
 url: "https://longform.asmartbear.com/capturing-luck/"
-pubDate: "Tue, 08 Oct 2019 00:00:00 +0000"
+published_date: "Tue, 08 Oct 2019 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Luck always plays a role in startups, but there are ways to better capture upside and mitigate downside."
-summary_ar: "Luck always plays a role in startups, but there are ways to better capture upside and mitigate downside."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كم تبلغ نسبة الحظ الحقيقية في نجاح الشركات ورواد الأعمال؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Capturing luck with "or" instead of "and"
+# كم تبلغ نسبة الحظ الحقيقية في نجاح الشركات ورواد الأعمال؟
 ### Capturing luck with "or" instead of "and"
 
-> **الملخص التنفيذي:** Luck always plays a role in startups, but there are ways to better capture upside and mitigate downside.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كم تبلغ نسبة الحظ الحقيقية في نجاح الشركات ورواد الأعمال؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/capturing-luck/](https://longform.asmartbear.com/capturing-luck/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كم تبلغ نسبة الحظ الحقيقية في نجاح الشركات ورواد الأعمال؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Capturing luck with "or" instead of "and"
+
+> **Executive Summary:** Luck always plays a role in startups, but there are ways to better capture upside and mitigate downside.
+> **Original URL:** [https://longform.asmartbear.com/capturing-luck/](https://longform.asmartbear.com/capturing-luck/)
 
 ![stocks rose slightly in early trading then plummeted on news that stocks rose slightly in early trading](https://public.asmartbear.com/books/anthology/chapters/capturing-luck/d0710print-simple.png)
 

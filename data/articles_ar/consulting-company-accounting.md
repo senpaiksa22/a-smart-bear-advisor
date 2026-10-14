@@ -1,22 +1,37 @@
 ---
 id: 153
 title_en: "The unfortunate math behind consulting companies"
-title_ar: "The unfortunate math behind consulting companies"
+title_ar: "الحسابات الرياضية المؤسفة وراء شركات الاستشارات والخدمات"
 slug: "consulting-company-accounting"
 url: "https://longform.asmartbear.com/consulting-company-accounting/"
-pubDate: "Mon, 07 Feb 2011 00:00:00 +0000"
+published_date: "Mon, 07 Feb 2011 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Hiring even one person creates a lot less profit than you'd think, and launching a product rarely works out. Here are some tips for consulting companies."
-summary_ar: "Hiring even one person creates a lot less profit than you'd think, and launching a product rarely works out. Here are some tips for consulting companies."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الحسابات الرياضية المؤسفة وراء شركات الاستشارات والخدمات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The unfortunate math behind consulting companies
+# الحسابات الرياضية المؤسفة وراء شركات الاستشارات والخدمات
 ### The unfortunate math behind consulting companies
 
-> **الملخص التنفيذي:** Hiring even one person creates a lot less profit than you'd think, and launching a product rarely works out. Here are some tips for consulting companies.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الحسابات الرياضية المؤسفة وراء شركات الاستشارات والخدمات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/consulting-company-accounting/](https://longform.asmartbear.com/consulting-company-accounting/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الحسابات الرياضية المؤسفة وراء شركات الاستشارات والخدمات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The unfortunate math behind consulting companies
+
+> **Executive Summary:** Hiring even one person creates a lot less profit than you'd think, and launching a product rarely works out. Here are some tips for consulting companies.
+> **Original URL:** [https://longform.asmartbear.com/consulting-company-accounting/](https://longform.asmartbear.com/consulting-company-accounting/)
 
 ![i dunno lately im just not incentivized ](https://public.asmartbear.com/books/anthology/chapters/consulting-company-accounting/d6110print-simple.png)
 
@@ -60,7 +75,7 @@ We've assumed an 8-hour work day, but any owner of a consulting company will tel
 
 18 WD/month, $40/hour
 
- <br/>
+ <br/> 
 
 Then personal life intrudes. You come in at noon because you had a morning dentist appointment. You take off early to wait for the A/C repair guy. You're sick one day. All very reasonable and it doesn't sound like much, but two half-days and a sick day means another two days lost:
 

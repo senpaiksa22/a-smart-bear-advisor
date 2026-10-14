@@ -1,22 +1,37 @@
 ---
 id: 26
 title_en: "Pivot Points"
-title_ar: "Pivot Points"
+title_ar: "نقاط التحول المحورية (Pivot Points): متى وكيف تغير مسار شركتك؟"
 slug: "pivot-points"
 url: "https://longform.asmartbear.com/pivot-points/"
-pubDate: "Sun, 29 Sep 2024 00:00:00 +0000"
+published_date: "Sun, 29 Sep 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Not \"enabling constraints\", not \"weaknesses\", not even \"strengths\". The concept of a \"Pivot Point\" grapples with the same reality, but more constructive and useful."
-summary_ar: "Not \"enabling constraints\", not \"weaknesses\", not even \"strengths\". The concept of a \"Pivot Point\" grapples with the same reality, but more constructive and useful."
+summary_ar: "Not \"
 ---
 
-# Pivot Points
+# نقاط التحول المحورية (Pivot Points): متى وكيف تغير مسار شركتك؟
 ### Pivot Points
 
-> **الملخص التنفيذي:** Not "enabling constraints", not "weaknesses", not even "strengths". The concept of a "Pivot Point" grapples with the same reality, but more constructive and useful.
+> **الملخص التنفيذي:** Not \
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/pivot-points/](https://longform.asmartbear.com/pivot-points/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** نقاط التحول المحورية (Pivot Points): متى وكيف تغير مسار شركتك؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Pivot Points
+
+> **Executive Summary:** Not "enabling constraints", not "weaknesses", not even "strengths". The concept of a "Pivot Point" grapples with the same reality, but more constructive and useful.
+> **Original URL:** [https://longform.asmartbear.com/pivot-points/](https://longform.asmartbear.com/pivot-points/)
 
 ![this oh please its not even mine](https://public.asmartbear.com/books/anthology/chapters/pivot-points/d5340print-simple.png)
 
@@ -108,7 +123,9 @@ Ask other people about your strengths and weaknesses--yes, that language, becaus
 My favorite reference-check interview question can help. Candidates refer you to friendlies who are primed to say nice things, so there's no value in their sanitized recommendations. Instead, I ask the following:
 
 > What is the ideal scenario, under which this person thrives?  
-> That is: Construct the absolutely perfect set of circumstances--subject matter, goal, team (or lack thereof), direction (or lack thereof), incentives, etc.--where this person absolutely kills it, is efficient, is productive, is extremely happy, and makes everyone around them happy.
+>   
+> That is: Construct the absolutely perfect set of circumstances--subject matter, goal, team (or lack thereof), direction (or lack thereof), incentives, etc.--where this person absolutely kills it, is efficient, is productive, is extremely happy, and makes everyone around them happy.  
+> 
 
 ![bear interviewing](https://public.asmartbear.com/books/anthology/chapters/pivot-points/bear-interview-simple.png)
 
@@ -116,7 +133,7 @@ The answer generates Pivot Points. If they say "Oh yeah, you need to give them a
 
 Also ask the opposite:
 
-> قم ببناء السيناريو الذي يموتون فيه بالداخل، ويفسدون كل شيء، ويثيرون غضب الجميع.
+> Construct the scenario where they die inside, mess everything up, and piss everyone off.
 
 It's funny to ask it and easy for them to answer, but doesn't feel like you're being negative about the person; after all, we all have a personal hell. More Pivot Points.
 

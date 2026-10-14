@@ -1,22 +1,37 @@
 ---
 id: 53
 title_en: "Selecting the right product metrics (KPIs)"
-title_ar: "Selecting the right product metrics (KPIs)"
+title_ar: "كيف تختار مقاييس الأداء الصحيحة لمنتجك (KPIs)"
 slug: "product-metrics"
 url: "https://longform.asmartbear.com/product-metrics/"
-pubDate: "Sun, 16 Jul 2023 00:00:00 +0000"
+published_date: "Sun, 16 Jul 2023 00:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "A novel system for selecting and presenting product KPIs, satisfying not only the product team, but also stakeholders, executives, and customers."
-summary_ar: "A novel system for selecting and presenting product KPIs, satisfying not only the product team, but also stakeholders, executives, and customers."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Selecting the right product metrics (KPIs)'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Selecting the right product metrics (KPIs)
+# كيف تختار مقاييس الأداء الصحيحة لمنتجك (KPIs)
 ### Selecting the right product metrics (KPIs)
 
-> **الملخص التنفيذي:** A novel system for selecting and presenting product KPIs, satisfying not only the product team, but also stakeholders, executives, and customers.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Selecting the right product metrics (KPIs)'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/product-metrics/](https://longform.asmartbear.com/product-metrics/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كيف تختار مقاييس الأداء الصحيحة لمنتجك (KPIs) تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Selecting the right product metrics (KPIs)
+
+> **Executive Summary:** A novel system for selecting and presenting product KPIs, satisfying not only the product team, but also stakeholders, executives, and customers.
+> **Original URL:** [https://longform.asmartbear.com/product-metrics/](https://longform.asmartbear.com/product-metrics/)
 
 ![you redefine key metrics dynamic optimization alignment you figure what that means](https://public.asmartbear.com/books/anthology/chapters/product-metrics/d6720print-simple.png)
 

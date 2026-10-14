@@ -1,22 +1,37 @@
 ---
 id: 118
 title_en: "Reframing \"Freemium\" by charging the marketing department"
-title_ar: "Reframing \"Freemium\" by charging the marketing department"
+title_ar: "ميكانيكا النماذج المجانية Freemium: متى تفتح أبواب النمو ومتى تصبح عبئاً"
 slug: "freemium"
 url: "https://longform.asmartbear.com/freemium/"
-pubDate: "Tue, 16 Apr 2013 00:00:00 +0000"
+published_date: "Tue, 16 Apr 2013 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Freemium means high costs, low conversion, and customer feedback dominated by the non-ideal customer. Treat it as a marketing expense to ensure ROI."
-summary_ar: "Freemium means high costs, low conversion, and customer feedback dominated by the non-ideal customer. Treat it as a marketing expense to ensure ROI."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'ميكانيكا النماذج المجانية Freemium: متى تفتح أبواب النمو ومتى تصبح عبئاً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Reframing "Freemium" by charging the marketing department
+# ميكانيكا النماذج المجانية Freemium: متى تفتح أبواب النمو ومتى تصبح عبئاً
 ### Reframing "Freemium" by charging the marketing department
 
-> **الملخص التنفيذي:** Freemium means high costs, low conversion, and customer feedback dominated by the non-ideal customer. Treat it as a marketing expense to ensure ROI.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'ميكانيكا النماذج المجانية Freemium: متى تفتح أبواب النمو ومتى تصبح عبئاً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/freemium/](https://longform.asmartbear.com/freemium/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** ميكانيكا النماذج المجانية Freemium: متى تفتح أبواب النمو ومتى تصبح عبئاً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Reframing "Freemium" by charging the marketing department
+
+> **Executive Summary:** Freemium means high costs, low conversion, and customer feedback dominated by the non-ideal customer. Treat it as a marketing expense to ensure ROI.
+> **Original URL:** [https://longform.asmartbear.com/freemium/](https://longform.asmartbear.com/freemium/)
 
 ![by way im having special this month have one breakthrough get another free](https://public.asmartbear.com/books/anthology/chapters/freemium/d6178print-simple.png)
 

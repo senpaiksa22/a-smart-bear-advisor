@@ -1,22 +1,37 @@
 ---
 id: 97
 title_en: "Scaling by \"delegation\" isn't good enough"
-title_ar: "Scaling by \"delegation\" isn't good enough"
+title_ar: "التوسع عبر 'التفويض' وحده ليس كافياً لبناء منظومة ناجحة"
 slug: "delegation"
 url: "https://longform.asmartbear.com/delegation/"
-pubDate: "Tue, 24 Feb 2015 00:00:00 +0000"
+published_date: "Tue, 24 Feb 2015 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Delegation doesn't scale your business.  What does: Creating a team that is better than the current team.  Including you."
-summary_ar: "Delegation doesn't scale your business.  What does: Creating a team that is better than the current team.  Including you."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Scaling by \"delegation\" isn't good enough'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Scaling by "delegation" isn't good enough
+# التوسع عبر 'التفويض' وحده ليس كافياً لبناء منظومة ناجحة
 ### Scaling by "delegation" isn't good enough
 
-> **الملخص التنفيذي:** Delegation doesn't scale your business.  What does: Creating a team that is better than the current team.  Including you.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Scaling by "delegation" isn't good enough'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/delegation/](https://longform.asmartbear.com/delegation/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التوسع عبر 'التفويض' وحده ليس كافياً لبناء منظومة ناجحة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Scaling by "delegation" isn't good enough
+
+> **Executive Summary:** Delegation doesn't scale your business.  What does: Creating a team that is better than the current team.  Including you.
+> **Original URL:** [https://longform.asmartbear.com/delegation/](https://longform.asmartbear.com/delegation/)
 
 ![ventriloquist dummy reading book entitled ventriloquism for dummies](https://public.asmartbear.com/books/anthology/chapters/delegation/d4820print-simple.png)
 
@@ -47,6 +62,7 @@ If you hire and then [micromanage](https://longform.asmartbear.com/in-command/),
 In every case, it's bad management, and it's your fault.
 
 > "It doesn't make sense to hire smart people and then tell them what to do.  
+>   
 > "We hire smart people so they can tell *us* what to do."  
 > --Steve Jobs
 

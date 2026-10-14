@@ -1,22 +1,37 @@
 ---
 id: 162
 title_en: "The Pattern-Seeking Fallacy"
-title_ar: "The Pattern-Seeking Fallacy"
+title_ar: "مغالطة البحث عن أنماط وهمية في فوضى البيانات الريادية"
 slug: "pattern-seeking-fallacy"
 url: "https://longform.asmartbear.com/pattern-seeking-fallacy/"
-pubDate: "Mon, 14 Jun 2010 00:00:00 +0000"
+published_date: "Mon, 14 Jun 2010 00:00:00 +0000"
 category_en: "AI Era Dynamics, Disruption & Big Tech"
 category_ar: "ديناميكيات عصر الذكاء الاصطناعي والثورات التقنية"
 summary_en: "We humans are terrible at discerning patterns from randomness, and in marketing data we unwittingly find \"insights\" that are actually noise. Here's how to fix that."
-summary_ar: "We humans are terrible at discerning patterns from randomness, and in marketing data we unwittingly find \"insights\" that are actually noise. Here's how to fix that."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'مغالطة البحث عن أنماط وهمية في فوضى البيانات الريادية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The Pattern-Seeking Fallacy
+# مغالطة البحث عن أنماط وهمية في فوضى البيانات الريادية
 ### The Pattern-Seeking Fallacy
 
-> **الملخص التنفيذي:** We humans are terrible at discerning patterns from randomness, and in marketing data we unwittingly find "insights" that are actually noise. Here's how to fix that.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'مغالطة البحث عن أنماط وهمية في فوضى البيانات الريادية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ديناميكيات عصر الذكاء الاصطناعي والثورات التقنية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/pattern-seeking-fallacy/](https://longform.asmartbear.com/pattern-seeking-fallacy/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** مغالطة البحث عن أنماط وهمية في فوضى البيانات الريادية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The Pattern-Seeking Fallacy
+
+> **Executive Summary:** We humans are terrible at discerning patterns from randomness, and in marketing data we unwittingly find "insights" that are actually noise. Here's how to fix that.
+> **Original URL:** [https://longform.asmartbear.com/pattern-seeking-fallacy/](https://longform.asmartbear.com/pattern-seeking-fallacy/)
 
 ![Which of these sets of dots were placed randomly? We think "right," but the answer is "left." Humans are bad at seeing the difference between patterns and randomness. (From Steven Pinker's The Better Angels of Our Nature 2011)](https://public.asmartbear.com/books/anthology/chapters/pattern-seeking-fallacy/d15089890159-27acc5046c-o-simple.png)
 

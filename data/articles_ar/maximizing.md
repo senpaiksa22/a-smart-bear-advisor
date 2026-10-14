@@ -1,22 +1,37 @@
 ---
 id: 81
 title_en: "Satisficing vs Maximizing"
-title_ar: "Satisficing vs Maximizing"
+title_ar: "القناعة بالكافي مقابل ملاحقة الكمال: فلسفة اتخاذ القرارات السليمة"
 slug: "maximizing"
 url: "https://longform.asmartbear.com/maximizing/"
-pubDate: "Wed, 10 May 2017 00:00:00 +0000"
+published_date: "Wed, 10 May 2017 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Fast, or Best? Choose your decision-making goal wisely, especially if you're a natural perfectionist."
-summary_ar: "Fast, or Best? Choose your decision-making goal wisely, especially if you're a natural perfectionist."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'القناعة بالكافي مقابل ملاحقة الكمال: فلسفة اتخاذ القرارات السليمة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Satisficing vs Maximizing
+# القناعة بالكافي مقابل ملاحقة الكمال: فلسفة اتخاذ القرارات السليمة
 ### Satisficing vs Maximizing
 
-> **الملخص التنفيذي:** Fast, or Best? Choose your decision-making goal wisely, especially if you're a natural perfectionist.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'القناعة بالكافي مقابل ملاحقة الكمال: فلسفة اتخاذ القرارات السليمة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/maximizing/](https://longform.asmartbear.com/maximizing/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** القناعة بالكافي مقابل ملاحقة الكمال: فلسفة اتخاذ القرارات السليمة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Satisficing vs Maximizing
+
+> **Executive Summary:** Fast, or Best? Choose your decision-making goal wisely, especially if you're a natural perfectionist.
+> **Original URL:** [https://longform.asmartbear.com/maximizing/](https://longform.asmartbear.com/maximizing/)
 
 ![as long as it has all its fins and remorseless eating machine well be happy](https://public.asmartbear.com/books/anthology/chapters/maximizing/d4536print-simple.png)
 

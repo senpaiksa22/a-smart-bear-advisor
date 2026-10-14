@@ -1,22 +1,37 @@
 ---
 id: 208
 title_en: "Tell me a story"
-title_ar: "Tell me a story"
+title_ar: "اروِ لي قصة: قوة السرد القصصي في إقناع المستثمرين والعملاء"
 slug: "tell-me-a-story"
 url: "https://longform.asmartbear.com/tell-me-a-story/"
-pubDate: "Wed, 06 Feb 2008 08:00:00 +0000"
+published_date: "Wed, 06 Feb 2008 08:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Why do we love Malcolm Gladwell even if his theories are debunked? We love a  great story."
-summary_ar: "Why do we love Malcolm Gladwell even if his theories are debunked? We love a  great story."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'اروِ لي قصة: قوة السرد القصصي في إقناع المستثمرين والعملاء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Tell me a story
+# اروِ لي قصة: قوة السرد القصصي في إقناع المستثمرين والعملاء
 ### Tell me a story
 
-> **الملخص التنفيذي:** Why do we love Malcolm Gladwell even if his theories are debunked? We love a  great story.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'اروِ لي قصة: قوة السرد القصصي في إقناع المستثمرين والعملاء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/tell-me-a-story/](https://longform.asmartbear.com/tell-me-a-story/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** اروِ لي قصة: قوة السرد القصصي في إقناع المستثمرين والعملاء تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Tell me a story
+
+> **Executive Summary:** Why do we love Malcolm Gladwell even if his theories are debunked? We love a  great story.
+> **Original URL:** [https://longform.asmartbear.com/tell-me-a-story/](https://longform.asmartbear.com/tell-me-a-story/)
 
 ![Malcolm Gladwell](https://longform.asmartbear.com/tell-me-a-story/1c71404d.png)
 

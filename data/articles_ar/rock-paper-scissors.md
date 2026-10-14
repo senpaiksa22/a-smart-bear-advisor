@@ -1,26 +1,41 @@
 ---
 id: 123
 title_en: "But I know that he knows that I know"
-title_ar: "But I know that he knows that I know"
+title_ar: "حجارة، ورقة، مقص: لعبة التوقعات والمنافسة في ريادة الأعمال"
 slug: "rock-paper-scissors"
 url: "https://longform.asmartbear.com/rock-paper-scissors/"
-pubDate: "Tue, 27 Nov 2012 08:00:00 +0000"
+published_date: "Tue, 27 Nov 2012 08:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "Even better than trying to outwit the competition, is to not react to them at all, and just do your best, directly for your customers."
-summary_ar: "Even better than trying to outwit the competition, is to not react to them at all, and just do your best, directly for your customers."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: But I know that he knows that I know'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# But I know that he knows that I know
+# حجارة، ورقة، مقص: لعبة التوقعات والمنافسة في ريادة الأعمال
 ### But I know that he knows that I know
 
-> **الملخص التنفيذي:** Even better than trying to outwit the competition, is to not react to them at all, and just do your best, directly for your customers.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: But I know that he knows that I know'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/rock-paper-scissors/](https://longform.asmartbear.com/rock-paper-scissors/)
 
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** حجارة، ورقة، مقص: لعبة التوقعات والمنافسة في ريادة الأعمال تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# But I know that he knows that I know
+
+> **Executive Summary:** Even better than trying to outwit the competition, is to not react to them at all, and just do your best, directly for your customers.
+> **Original URL:** [https://longform.asmartbear.com/rock-paper-scissors/](https://longform.asmartbear.com/rock-paper-scissors/)
+
 ![rock paper scissors diagram](https://longform.asmartbear.com/rock-paper-scissors/e969daed.svg)
 
-When two people in America need to make a boolean decision and a coin isn't available, the go-to method of problem resolution is [Rock, Paper, Scissors](http://en.wikipedia.org/wiki/Rock,_Paper,_Scissors).
+ When two people in America need to make a boolean decision and a coin isn't available, the go-to method of problem resolution is [Rock, Paper, Scissors](http://en.wikipedia.org/wiki/Rock,_Paper,_Scissors).
 
 Generally people feel this game is fair, meaning there's an equal likelihood of each participant winning, losing, or tying. And of course if you're an academic who believes Big-Oh embodies everything you need to know about algorithms, you might leave it at that.
 
@@ -33,7 +48,9 @@ So....
 The UK-based Telegraph tells us there's a strategy that wins more often than 1/3 of the time:
 
 > Research [from the New Scientist] shows that stone, also called rock, is the most popular of the three possible moves in the game.
+> 
 > That means that your opponent is likely to choose paper, because they will expect to you to start the game with stone.
+>
 > By going with scissors, you achieve an early victory.
 
 But hold on. If rock is the most popular move, going with scissors means you would be defeated. But here it says you'll win. Which is it?

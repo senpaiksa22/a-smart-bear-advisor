@@ -1,22 +1,37 @@
 ---
 id: 163
 title_en: "Telling the 800-lb Gorilla to Shove it up his Ass"
-title_ar: "Telling the 800-lb Gorilla to Shove it up his Ass"
+title_ar: "كيف تقف في وجه الشركات العملاقة المسيطرة دون خوف وتنتزع حصتك"
 slug: "competing-big-companies"
 url: "https://longform.asmartbear.com/competing-big-companies/"
-pubDate: "Mon, 31 May 2010 00:00:00 +0000"
+published_date: "Mon, 31 May 2010 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "You worry about competition from the big, brand-name, deep-pocketed company. But there are better things to worry about and ways to avoid running into gorillas in the first place."
-summary_ar: "You worry about competition from the big, brand-name, deep-pocketed company. But there are better things to worry about and ways to avoid running into gorillas in the first place."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف تقف في وجه الشركات العملاقة المسيطرة دون خوف وتنتزع حصتك'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Telling the 800-lb Gorilla to Shove it up his Ass
+# كيف تقف في وجه الشركات العملاقة المسيطرة دون خوف وتنتزع حصتك
 ### Telling the 800-lb Gorilla to Shove it up his Ass
 
-> **الملخص التنفيذي:** You worry about competition from the big, brand-name, deep-pocketed company. But there are better things to worry about and ways to avoid running into gorillas in the first place.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف تقف في وجه الشركات العملاقة المسيطرة دون خوف وتنتزع حصتك'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/competing-big-companies/](https://longform.asmartbear.com/competing-big-companies/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كيف تقف في وجه الشركات العملاقة المسيطرة دون خوف وتنتزع حصتك تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Telling the 800-lb Gorilla to Shove it up his Ass
+
+> **Executive Summary:** You worry about competition from the big, brand-name, deep-pocketed company. But there are better things to worry about and ways to avoid running into gorillas in the first place.
+> **Original URL:** [https://longform.asmartbear.com/competing-big-companies/](https://longform.asmartbear.com/competing-big-companies/)
 
 Every founder frets about competition from a big company, me included.
 

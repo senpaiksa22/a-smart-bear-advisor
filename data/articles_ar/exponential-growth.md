@@ -1,22 +1,37 @@
 ---
 id: 72
 title_en: "The Elephant in the room: The myth of exponential hypergrowth"
-title_ar: "The Elephant in the room: The myth of exponential hypergrowth"
+title_ar: "الفيل في الغرفة: خرافة النمو الأسي فائق السرعة"
 slug: "exponential-growth"
 url: "https://longform.asmartbear.com/exponential-growth/"
-pubDate: "Sat, 05 Mar 2022 00:00:00 +0000"
+published_date: "Sat, 05 Mar 2022 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Even Facebook and Slack did not grow \"exponentially,\" as frequently described. Here is the correct model that you can use to understand and affect growth."
-summary_ar: "Even Facebook and Slack did not grow \"exponentially,\" as frequently described. Here is the correct model that you can use to understand and affect growth."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The Elephant in the room: The myth of exponential hypergrowth'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The Elephant in the room: The myth of exponential hypergrowth
+# الفيل في الغرفة: خرافة النمو الأسي فائق السرعة
 ### The Elephant in the room: The myth of exponential hypergrowth
 
-> **الملخص التنفيذي:** Even Facebook and Slack did not grow "exponentially," as frequently described. Here is the correct model that you can use to understand and affect growth.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The Elephant in the room: The myth of exponential hypergrowth'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/exponential-growth/](https://longform.asmartbear.com/exponential-growth/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الفيل في الغرفة: خرافة النمو الأسي فائق السرعة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The Elephant in the room: The myth of exponential hypergrowth
+
+> **Executive Summary:** Even Facebook and Slack did not grow "exponentially," as frequently described. Here is the correct model that you can use to understand and affect growth.
+> **Original URL:** [https://longform.asmartbear.com/exponential-growth/](https://longform.asmartbear.com/exponential-growth/)
 
 A startup is growing fast, the journalists marveling at its "meteoric rise." But don't meteors fall?
 
@@ -388,6 +403,6 @@ This might be expanded in a future article, but for now, these probing questions
 > "Half my advertising is wasted. I just don't know which half."  
 > --John Wanamaker
 
-Mr. Wanamaker made his famous complaint more than a hundred years ago; even with modern analytics, today [it's worse](https://www.mediavillage.com/article/which-half-of-my-advertising-is-wasted-and-it-is-only-half). The quadratic growth model won't solve that puzzle, but the better you understand the mechanisms of growth, the more it is under your control. <br/>
+Mr. Wanamaker made his famous complaint more than a hundred years ago; even with modern analytics, today [it's worse](https://www.mediavillage.com/article/which-half-of-my-advertising-is-wasted-and-it-is-only-half). The quadratic growth model won't solve that puzzle, but the better you understand the mechanisms of growth, the more it is under your control. <br/> 
 
 ![The elephant curve at the end](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/theelephantcurve2-simple.png)

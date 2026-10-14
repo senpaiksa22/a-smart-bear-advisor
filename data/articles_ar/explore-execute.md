@@ -1,51 +1,67 @@
 ---
 id: 20
 title_en: "Explore vs Execute"
-title_ar: "الاستكشاف مقابل التنفيذ"
+title_ar: "الاستكشاف مقابل التنفيذ: موازنة الابتكار مع تشغيل الشركة"
 slug: "explore-execute"
 url: "https://longform.asmartbear.com/explore-execute/"
-pubDate: "Sun, 05 Jan 2025 00:00:00 +0000"
+published_date: "Sun, 05 Jan 2025 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "The two main business modalities are more different than you expect. When you hit PMF, it's a culture-shift to switch from one to the other."
 summary_ar: "تختلف طريقتا العمل الرئيسيتان عما تتوقعه. عندما تضغط على PMF، يعد التحول من واحدة إلى أخرى بمثابة تحول ثقافي."
 ---
 
-# الاستكشاف مقابل التنفيذ
+# الاستكشاف مقابل التنفيذ: موازنة الابتكار مع تشغيل الشركة
 ### Explore vs Execute
 
 > **الملخص التنفيذي:** تختلف طريقتا العمل الرئيسيتان عما تتوقعه. عندما تضغط على PMF، يعد التحول من واحدة إلى أخرى بمثابة تحول ثقافي.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/explore-execute/](https://longform.asmartbear.com/explore-execute/)
 
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الاستكشاف مقابل التنفيذ: موازنة الابتكار مع تشغيل الشركة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Explore vs Execute
+
+> **Executive Summary:** The two main business modalities are more different than you expect. When you hit PMF, it's a culture-shift to switch from one to the other.
+> **Original URL:** [https://longform.asmartbear.com/explore-execute/](https://longform.asmartbear.com/explore-execute/)
+
 ![Things are looking good, but we need to be careful to avoid any feelings of pride. Remember what happened last time?](https://public.asmartbear.com/books/anthology/chapters/explore-execute/d6927print-simple.png)
 
-## غرور "ما أوصلنا إلى هنا سيوصلنا إلى هناك"
+## The arrogance of "what got us here will get us there"
 
-المؤسسون متعجرفون بالضرورة. تفشل معظم الشركات الناشئة، ومع ذلك فإن هؤلاء المؤسسين المغرورين متأكدون تمامًا من أنهم الاستثناء. "القواعد لا تنطبق على القيم المتطرفة مثلي،" يسخرون.
+Founders are arrogant by necessity. Most startups fail, and yet these cocky founders are absolutely sure they are the exception. "Rules don't apply to outliers like me," they scoff.
 
-(في الواقع، معظمهم _ليسوا_ على يقين من ذلك - فالصادقون خائفون بشدة، ويأملون أن يتمكنوا من [معرفة الأمر](https://longform.asmartbear.com/chaos-at-start/) قبل أن يكتشف الجميع [أنهم محتالون](https://longform.asmartbear.com/impostor-syndrome/) و[هم crack](https://longform.asmartbear.com/startups-emotionally-draining/). أجد أن الأشخاص الذين لديهم ثقة حقيقية في أن نجاحهم مضمون، هم الأكثر عرضة للفشل؛
+(Actually most _aren't_ so certain--the honest ones are scared shitless, hoping they can [figure it out](https://longform.asmartbear.com/chaos-at-start/) before everyone finds out [they're a fraud](https://longform.asmartbear.com/impostor-syndrome/) and [they crack](https://longform.asmartbear.com/startups-emotionally-draining/). I find that the ones who are genuinely, deeply confident that their success is assured, are most likely to fail; they are disconnected with reality. Reality wins.)
 
-تصل غطرسة المؤسس إلى ذروتها بمجرد أن تحقق الشركة بعض النجاح، بعد دخولها في [المنتج/السوق المناسب](https://longform.asmartbear.com/product-market-fit/). لقد كان الوصول إلى هنا أمرًا صعبًا، رغم كل الصعاب، والآن *ينجح الأمر بالفعل!* بالتأكيد [كان هناك حظ](https://longform.asmartbear.com/lucky/)، ولكن في الغالب كان هناك العديد من القرارات الجيدة، ومنتج رائع [يحل مشكلة حقيقية](https://longform.asmartbear.com/problem/)، وتسويق لائق لسوق لائق، كما يتضح من العملاء الجدد الذين يظهرون كل يوم ويدفعون ثمنه. ذلك. دليل قاطع على أننا كنا على حق!_
+Founder arrogance peaks once the company achieves some success, having entered the vaunted [Product/Market Fit](https://longform.asmartbear.com/product-market-fit/). It was such a hard scrabble to get here, against all odds, and now it's actually *working!* Sure [there was luck](https://longform.asmartbear.com/lucky/), but mostly there were many good decisions, and a great product that [solves a real problem](https://longform.asmartbear.com/problem/), and decent marketing to a decent market, as evidenced by new customers showing up every day and paying for it. Incontrovertible evidence that _we were right!_
 
-ما لا يدركه Arrogant Founder هو أن احتياجات الشركة تتغير بشكل كبير بعد توافق المنتج/السوق. سوف يتغير الجميع وكل شيء في الشركة. بما في ذلك المؤسس.
+What Arrogant Founder doesn't realize is that the needs of the company dramatically change after Product/Market Fit. Everyone and everything at the company will change. Including the founder.
 
-هذا غير منطقي بالنسبة للمؤسس المتغطرس، لأن الأدلة بالتأكيد تشير إلى الاستنتاج المعاكس:
+This doesn't make sense to Arrogant Founder, because surely the evidence points towards the opposite conclusion:
 
-> لقد حققنا نجاحنا *بسبب* الطريقة التي ندير بها الشركة، والقرارات التي اتخذناها، والمقايضات التي اتخذناها، وأسلوب العمل الذي قمنا بتطويره، والفريق الذي بنيناه، واختيارنا في الميزات مقابل التصميم مقابل إصلاح الأخطاء مقابل الأمان مقابل المخاطر. لقد فعلنا ذلك من خلال النظر إلى ما هو أمامنا بدلاً من التظاهر بأننا قادرون على بناء خطة سنوية. لقد فعلنا ذلك بدون طبقات من الإدارة وبدون تمويل أو موارد بشرية.  
-> لذلك، يمكننا تجنب القيام بالأشياء الغبية التي تفعلها الشركات الكبرى. يمكننا أن نتجنب أن نصبح نوع الشركة التي نتركها من أجل بدء هذه الشركة. لقد حققنا النجاح بسبب أشياء معينة، وسنستمر في تحقيق النجاح بسبب تلك الأشياء.
+> We achieved our success *because* of the way we've run the company, the decisions we made, the trade-offs we took, the style of work we developed, the team we built, our choice in features versus design versus fixing bugs versus security versus risk. We did it by looking at what was right in front of us instead of pretending that we could build an annual plan. We did it without layers of management and without finance nor HR.  
+>   
+> Therefore, we can avoid doing the dumb things that big companies do. We can avoid becoming the kind of company we quit in order to start this one. We got successful because of certain things, and we will continue to be successful because of those things.
 
-وهكذا تنحدر الشركة إلى حالة من الاضطراب والإحباط والفوضى، وأحيانًا إلى كارثة لا يمكن إصلاحها. هنا - بعد ملاءمة المنتج/السوق ولكن قبل النضج - هو الجزء الأكثر صعوبة في الرحلة. يصر المؤسس على أن "إنشاء الشركة" كان الجزء الأصعب، لأنه (أ) كان *صعبًا* و(ب) كان أصعب شيء *حتى الآن*. لكن كونك صعبًا لا يجعله الأصعب. ما هو الأصعب يأتي بعد ذلك.
+And thus the company descends into tumult, frustration, chaos, occasionally even irreparable disaster. Here--after Product/Market Fit but before maturity--is the most difficult part of the journey. The founder insists that "starting the company" was the hardest part, because (a) it *was* hard and (b) it was the hardest thing *so far*. But being hard doesn't make it the hardest. What's hardest, comes next.
 
 ![bear overwhelmed with tickets](https://public.asmartbear.com/books/anthology/chapters/explore-execute/bear-orders-simple.png)
 
-السبب المباشر الذي يجعل الأمور صعبة هو أن الشركة تنمو فجأة بشكل أسرع مما تستطيع إدارته. وكمثال واحد فقط، هناك طلبات دعم أكثر من القدرة على الرد،[^1] لذلك تتزايد قوائم الانتظار دون حدود بينما تنخفض جودة الخدمة.[^2] يعد التوظيف بسرعة وبجودة عالية أمرًا صعبًا وغير مرجح. حتى عندما تنجح، يستغرق الأمر ستة أشهر قبل أن يتمكن الشخص الذي تواصلت معه اليوم من اجتياز عملية المقابلة، ويترك وظيفته الحالية مع إشعار، ويأخذ إجازة لمدة أسبوع، ويحصل على تدريب (بدون مواد تدريبية، بينما لا يزال الجميع مثقلين بالأعباء)، ويتعلم ما يكفي في الوظيفة ليصبح أخيرًا منتجًا بمفرده. قم بتطبيق ذلك على الهندسة والتصميم والمنتج والتسويق والمبيعات والتمويل.
+The immediate reason things get difficult is the company is suddenly growing faster than it can manage. As just one example, there are more support requests than there is capacity to answer,[^1] so queues grow without bound while service quality plummets.[^2] Hiring both quickly and with quality is difficult and unlikely. Even when you succeed, it takes six months before a person you reached out to today makes it through the interview process, quits their current job with notice, takes a week off, gets trained (without training materials, while everyone else is still overloaded), and learns enough on the job to finally be productive on their own. Cross-apply that to engineering, design, product, marketing, sales, and finance.
 
-[^1]: على الأقل ليس بنفس الرعاية والجودة والاهتمام الشخصي الذي "أوصلنا إلى هنا"، والذي غالبًا ما يكون أحد العوامل المميزة التي تستفيد منها شركة صغيرة [للتغلب على المنافسين الأكبر](https://longform.asmartbear.com/startup-beats-incumbent/).
+[^1]: At least not with the same care, quality, and personal attention that "got us here," often one of the differentiating factors that a small company leverages to [beat larger competitors](https://longform.asmartbear.com/startup-beats-incumbent/).
 
-[^2]: في يناير 2012 في WP Engine، عندما وصلنا إلى Product/Market Fit [كما هو موثق في مقالة منفصلة](https://longform.asmartbear.com/product-market-fit-formula/)، جاءت تعليقاتنا على Twitter من "أفضل فريق دعم في العالم!" إلى "واو، ماذا حدث؟ إنهم هراء الآن." لقد كان عام 2013 قبل أن يكون لدينا ما يكفي من الأشخاص والعمليات، سواء من علم المقاييس أو فن الثقافة والتعاطف. ثم على مدى العقد التالي، اشتهرنا بأفضل خدمة في الصناعة، ففازنا بالعديد من الجوائز، حيث بلغ معدل CSAT 98% وNPS 64.
+[^2]: In January 2012 at WP Engine, when we hit Product/Market Fit [as documented in a separate article](https://longform.asmartbear.com/product-market-fit-formula/), our Twitter feedback went from "Best support team in the world!" to "Wow, what happened? They're crap now." It was 2013 before we had enough people and process, both the science of metrics and the art of culture and empathy. Then over the next decade we were known for the best service in the industry, winning many awards, with a CSAT of 98% and an NPS of 64.
 
-أنت طغت. إن التنقيب يجعل الأمر أسوأ، ولأنه حدث فجأة، فليس هناك وقت لإصلاحه.
+You're overwhelmed. Digging out makes it worse, and because it happened suddenly, there's quite literally no time in which to fix it.
 
 Beyond this immediate challenge, a dozen **facets of the business start breaking** because of scale. Not just software and infrastructure, but people and processes and workflows. Many of these facets are [detailed in this article](https://longform.asmartbear.com/scale/).
 
@@ -65,7 +81,7 @@ Applying the wrong modality doesn't work, in either direction. "Scaling too soon
 
 Having identified the perils of applying the wrong modality in either direction, we now need a clear, detailed definition of each mode, so the entire organization can align.
 
-## الاستكشاف مقابل التنفيذ
+## Explore vs Execute
 
 | Explore |  | Execute |
 |:---:|:---:|:---:|

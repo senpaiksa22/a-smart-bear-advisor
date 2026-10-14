@@ -1,22 +1,37 @@
 ---
 id: 83
 title_en: "Building in public forces true competitive advantage"
-title_ar: "Building in public forces true competitive advantage"
+title_ar: "البناء في العلن يجبرك على خلق ميزة تنافسية حقيقية غير قابلة للسرقة"
 slug: "building-in-public"
 url: "https://longform.asmartbear.com/building-in-public/"
-pubDate: "Tue, 20 Dec 2016 08:00:00 +0000"
+published_date: "Tue, 20 Dec 2016 08:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "\"Building in public\" is popular: How fun when strangers cheer you on! But isn't competitive advantage ruined when competitors know your growth rate and steal your source code?"
-summary_ar: "\"Building in public\" is popular: How fun when strangers cheer you on! But isn't competitive advantage ruined when competitors know your growth rate and steal your source code?"
+summary_ar: "\"
 ---
 
-# Building in public forces true competitive advantage
+# البناء في العلن يجبرك على خلق ميزة تنافسية حقيقية غير قابلة للسرقة
 ### Building in public forces true competitive advantage
 
-> **الملخص التنفيذي:** "Building in public" is popular: How fun when strangers cheer you on! But isn't competitive advantage ruined when competitors know your growth rate and steal your source code?
+> **الملخص التنفيذي:** \
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/building-in-public/](https://longform.asmartbear.com/building-in-public/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** البناء في العلن يجبرك على خلق ميزة تنافسية حقيقية غير قابلة للسرقة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Building in public forces true competitive advantage
+
+> **Executive Summary:** "Building in public" is popular: How fun when strangers cheer you on! But isn't competitive advantage ruined when competitors know your growth rate and steal your source code?
+> **Original URL:** [https://longform.asmartbear.com/building-in-public/](https://longform.asmartbear.com/building-in-public/)
 
 ![Cartoon 97f657f2](https://longform.asmartbear.com/building-in-public/5a63eef4.png)
 
@@ -34,7 +49,7 @@ But... haven't you lost your competitive advantage? Your competition can easily 
 
 You are therefore forced to build some other, non-technical [competitive advantage](https://longform.asmartbear.com/moats/) into your business. For example, if Etsy open-sourced their entire stack, would that make it easy for a competitor to overtake Etsy? No, because Etsy has  [built a marketplace](https://longform.asmartbear.com/marketplace-business-model/); the presence of buyers and sellers is their primary asset, not the software that drives the website or payments. Now that Facebook has open-sourced their entire data center infrastructure, does that make it easy for a competitor to overtake Facebook as a social network? No. The value in these companies  [cannot be replicated with money](https://longform.asmartbear.com/startup-money/), which is exactly why those companies are valuable.
 
-A technical competitive advantage can be permanent in select cases, as in [this case study of Amazon AWS](https://longform.asmartbear.com/moats/). But this is rare; typically a technical advantage is a fleeting advantage, because most technical things can be replicated. In fact, they're often replicated more quickly and cheaply than their original inventors, as proved by observing that  ["first to market" often doesn't equate to "winning the market."](https://longform.asmartbear.com/first-competitive-advantage/)
+A technical competitive advantage can be permanent in select cases, as in [this case study of Amazon AWS](https://longform.asmartbear.com/moats/). But this is rare; typically a technical advantage is a fleeting advantage, because most technical things can be replicated. In fact, they're often replicated more quickly and cheaply than their original inventors, as proved by observing that  ["first to market" often doesn't equate to "winning the market."](https://longform.asmartbear.com/first-competitive-advantage/) 
 
 Thus, **building in public forces you to create permanent competitive advantages.**
 

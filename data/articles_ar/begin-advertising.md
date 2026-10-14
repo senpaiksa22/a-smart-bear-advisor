@@ -1,26 +1,42 @@
 ---
 id: 129
 title_en: "How do I know where to advertise?"
-title_ar: "How do I know where to advertise?"
+title_ar: "كيف أعرف أين أعلن عن منتجي وأين أجد عملائي؟"
 slug: "begin-advertising"
 url: "https://longform.asmartbear.com/begin-advertising/"
-pubDate: "Tue, 05 Jun 2012 08:00:00 +0000"
+published_date: "Tue, 05 Jun 2012 08:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Ready to advertise but unsure where? Measure outcomes fast, start affordably, and choose platforms you understand."
-summary_ar: "Ready to advertise but unsure where? Measure outcomes fast, start affordably, and choose platforms you understand."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف أعرف أين أعلن عن منتجي وأين أجد عملائي؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# How do I know where to advertise?
+# كيف أعرف أين أعلن عن منتجي وأين أجد عملائي؟
 ### How do I know where to advertise?
 
-> **الملخص التنفيذي:** Ready to advertise but unsure where? Measure outcomes fast, start affordably, and choose platforms you understand.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف أعرف أين أعلن عن منتجي وأين أجد عملائي؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/begin-advertising/](https://longform.asmartbear.com/begin-advertising/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كيف أعرف أين أعلن عن منتجي وأين أجد عملائي؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# How do I know where to advertise?
+
+> **Executive Summary:** Ready to advertise but unsure where? Measure outcomes fast, start affordably, and choose platforms you understand.
+> **Original URL:** [https://longform.asmartbear.com/begin-advertising/](https://longform.asmartbear.com/begin-advertising/)
 
 Adventurous Advertiser writes:
 
 > I'm ready to spend my first $1000 on something other than AdWords.
+>
 > There's lots of options and I don't know where to start. How do I pick?
 
 Since you didn't say what field you're in, you'd think I have no answer, but I do!

@@ -1,22 +1,37 @@
 ---
 id: 98
 title_en: "New Year's Questions (neé Resolutions)"
-title_ar: "New Year's Questions (neé Resolutions)"
+title_ar: "أسئلة العام الجديد للرواد (بدلاً من القرارات التقليدية)"
 slug: "new-years-resolutions"
 url: "https://longform.asmartbear.com/new-years-resolutions/"
-pubDate: "Sat, 27 Dec 2014 08:00:00 +0000"
+published_date: "Sat, 27 Dec 2014 08:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Do New Year's resolutions work? Studies say \"no.\" Instead, Ask good questions of yourself, and follow your own advice."
-summary_ar: "Do New Year's resolutions work? Studies say \"no.\" Instead, Ask good questions of yourself, and follow your own advice."
+summary_ar: "Do New Year's resolutions work? Studies say \"
 ---
 
-# New Year's Questions (neé Resolutions)
+# أسئلة العام الجديد للرواد (بدلاً من القرارات التقليدية)
 ### New Year's Questions (neé Resolutions)
 
-> **الملخص التنفيذي:** Do New Year's resolutions work? Studies say "no." Instead, Ask good questions of yourself, and follow your own advice.
+> **الملخص التنفيذي:** Do New Year's resolutions work? Studies say \
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/new-years-resolutions/](https://longform.asmartbear.com/new-years-resolutions/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** أسئلة العام الجديد للرواد (بدلاً من القرارات التقليدية) تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# New Year's Questions (neé Resolutions)
+
+> **Executive Summary:** Do New Year's resolutions work? Studies say "no." Instead, Ask good questions of yourself, and follow your own advice.
+> **Original URL:** [https://longform.asmartbear.com/new-years-resolutions/](https://longform.asmartbear.com/new-years-resolutions/)
 
 ![Cartoon 1f534e49](https://longform.asmartbear.com/new-years-resolutions/2df3566f.png)
 

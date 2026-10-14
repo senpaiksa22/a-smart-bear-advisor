@@ -1,22 +1,37 @@
 ---
 id: 202
 title_en: "Procrastinate for Success!"
-title_ar: "Procrastinate for Success!"
+title_ar: "التسويف المدروس من أجل النجاح: تأجيل القرارات حتى اكتمال البيانات"
 slug: "procrastinate"
 url: "https://longform.asmartbear.com/procrastinate/"
-pubDate: "Fri, 17 Oct 2008 08:00:00 +0000"
+published_date: "Fri, 17 Oct 2008 08:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Procrastination can be a useful tool.  You can't do everything.  So don't."
-summary_ar: "Procrastination can be a useful tool.  You can't do everything.  So don't."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التسويف المدروس من أجل النجاح: تأجيل القرارات حتى اكتمال البيانات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Procrastinate for Success!
+# التسويف المدروس من أجل النجاح: تأجيل القرارات حتى اكتمال البيانات
 ### Procrastinate for Success!
 
-> **الملخص التنفيذي:** Procrastination can be a useful tool.  You can't do everything.  So don't.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التسويف المدروس من أجل النجاح: تأجيل القرارات حتى اكتمال البيانات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/procrastinate/](https://longform.asmartbear.com/procrastinate/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التسويف المدروس من أجل النجاح: تأجيل القرارات حتى اكتمال البيانات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Procrastinate for Success!
+
+> **Executive Summary:** Procrastination can be a useful tool.  You can't do everything.  So don't.
+> **Original URL:** [https://longform.asmartbear.com/procrastinate/](https://longform.asmartbear.com/procrastinate/)
 
 ![Cartoon 1066946f](https://longform.asmartbear.com/procrastinate/c8e1986c.png)
 

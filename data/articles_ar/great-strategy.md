@@ -1,22 +1,37 @@
 ---
 id: 51
 title_en: "What makes a strategy great"
-title_ar: "What makes a strategy great"
+title_ar: "ما الذي يجعل الاستراتيجية عظيمة وفارقة حقاً"
 slug: "great-strategy"
 url: "https://longform.asmartbear.com/great-strategy/"
-pubDate: "Sun, 13 Aug 2023 00:00:00 +0000"
+published_date: "Sun, 13 Aug 2023 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Most so-called \"strategies\" are vague, wishful thinking, written once and never seen again. Don't do that. These are the characteristics of great strategy."
-summary_ar: "Most so-called \"strategies\" are vague, wishful thinking, written once and never seen again. Don't do that. These are the characteristics of great strategy."
+summary_ar: "Most so-called \"
 ---
 
-# What makes a strategy great
+# ما الذي يجعل الاستراتيجية عظيمة وفارقة حقاً
 ### What makes a strategy great
 
-> **الملخص التنفيذي:** Most so-called "strategies" are vague, wishful thinking, written once and never seen again. Don't do that. These are the characteristics of great strategy.
+> **الملخص التنفيذي:** Most so-called \
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/great-strategy/](https://longform.asmartbear.com/great-strategy/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** ما الذي يجعل الاستراتيجية عظيمة وفارقة حقاً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# What makes a strategy great
+
+> **Executive Summary:** Most so-called "strategies" are vague, wishful thinking, written once and never seen again. Don't do that. These are the characteristics of great strategy.
+> **Original URL:** [https://longform.asmartbear.com/great-strategy/](https://longform.asmartbear.com/great-strategy/)
 
 ![strategy big data synergized paradigms something that rhymes](https://public.asmartbear.com/books/anthology/chapters/great-strategy/d6515print-simple.png)
 
@@ -201,10 +216,12 @@ In the negative, companies also face asymmetric threats. With ten competitors, o
 
 Every plan will face challenges, both foreseeable and bad luck. If everything has to go right for the plan to succeed, it won't succeed. Whether a single investment has asymmetric upside, or a portfolio of bets collectively has large upside, exploiting asymmetries maximizes the chance that the strategy will succeed despite the [inevitable travails](https://longform.asmartbear.com/chaos-at-start/) and [uncontrollable luck](https://longform.asmartbear.com/lucky/), and thus is vital to "how we will win."
 
-_مثال: Amazon هو المثال المبتذل، ولكن فقط لأنه مناسب، حتى أنه يتجاهل AWS. في الأصل كانوا بائعي كتب فقط، ولم يتوقفوا أبدًا عن الرهان، سواء على الأسواق المجاورة (مثل بيع الإلكترونيات)، أو إعادة بيع الأنظمة الداخلية (مثل مستودعات أمازون، والخدمات اللوجستية، والروبوتات، والوفاء، والتي تم تفكيكها جميعًا وبيعها كمنتجات منفصلة)، أو أنواع جديدة تمامًا من المنتجات (الهواتف الذكية، والحوسبة السحابية). الأمر الأكثر إثارة للإعجاب هو أن الرهانات الجديدة عطلت عن قصد الأعمال السابقة؛ وفقًا للموظف الأوائل آندي جونز ([مقالة](https://medium.com/sand-hill-road/unpacking-growth-with-andy-johns-partner-at-unusual-ventures-79778fc7bdd8)، [بودكاست](https://thetwentyدقيقةvc.libsyn.com/20growth-top-growth-lessons-from-the-early-facebook-twitter-and-quora-days-the-most-important-question-to -اسأل متى تقوم ببناء فريق النمو الخاص بك، وكيف يتم اختبار عمق وجودة المرشح الحقيقي، عند التوظيف من أجل النمو مع شريك آندي جونز في المشروع، غير المعتاد))، كان بيزوس مصرًا جدًا على نجاح جهاز كيندل، على الرغم من أنه سيضر بأعمال الكتب المادية، لدرجة أنه أوكل مشروع كيندل إلى المدير التنفيذي الذي كان يتولى حاليًا أعمال الكتب، قائلاً: "اعتبارًا من الغد، وظيفتك هي إنهاء عملك القديم باستخدام جهاز كيندل". الأمر الأساسي هو: **فشلت العديد من هذه الرهانات، وكان الفشل متوقعًا.** الفشل ليس أمرًا مرغوبًا فيه، ولكن كل رهان كان له جانب إيجابي كبير الحجم وجانب سلبي لا يتناسب مع الميزانية. حتى جهاز Kindle كان [غير مربح لسنوات](https://www.forbes.com/sites/kellyclay/2012/10/12/amazon-confirms-it-makes-no-profit-on-kindles/?sh=3f08d58d6b43) وكان هاتف Amazon Fire Phone بائسًا [فشل](https://time.com/3536969/amazon-fire-phone-bust/). يشرح بيزوس بكلماته الخاصة أن استراتيجيتهم هي بالضبط نظرية مجموعة من الرهانات غير المتماثلة مع الفشل المتوقع:_
+_Example: Amazon is the cliché example, but only because it's apropos, even ignoring AWS. Originally a book-seller only, they have never stopped taking bets, whether on adjacent markets (e.g. selling electronics), reselling internal systems (e.g. Amazon warehouses, logistics, robotics, fulfillment, were all broken apart and sold as separate products), or entirely new kinds of product (smart phones, cloud computing). More impressive is when the new bets purposefully disrupted previous businesses; according to early employee Andy Johns ([article](https://medium.com/sand-hill-road/unpacking-growth-with-andy-johns-partner-at-unusual-ventures-79778fc7bdd8), [podcast](https://thetwentyminutevc.libsyn.com/20growth-top-growth-lessons-from-the-early-facebook-twitter-and-quora-days-the-most-important-question-to-ask-when-building-your-growth-team-how-to-test-for-true-candidate-depth-and-quality-when-hiring-for-growth-with-andy-johns-venture-partner-unusual-ve)), Bezos was so adamant that the Kindle be successful, despite the fact that it would hurt their physical book business, that he assigned the Kindle project to the executive who was currently over the book business, saying "Effective tomorrow, your job is to kill your old business with a Kindle." The key thing is: **many of these bets failed, and failure was expected.** Failure isn't desirable, but each bet had out-sized potential upside and budget-able downside. Even Kindle was [unprofitable for years](https://www.forbes.com/sites/kellyclay/2012/10/12/amazon-confirms-it-makes-no-profit-on-kindles/?sh=3f08d58d6b43) and the Amazon Fire Phone was an abject [failure](https://time.com/3536969/amazon-fire-phone-bust/). Bezos explains in his own words that their strategy is exactly the theory of a portfolio of asymmetric bets with expected failures:_
 
 > "If you're going to take bold bets, they're going to be experiments. And if they're experiments you don't know ahead of time if they're going to work. Experiments are by their very nature prone to failure. But a few big successes compensate for dozens and dozens of things that didn't work."  
+>   
 > "I've made billions of dollars of failures at Amazon.com. Literally. You have to be super clear about what kind of company you're trying to build. ... We said we were going to take big bets. We said we were going to fail."  
+>   
 > --Jeff Bezos, [The Guardian](https://www.theguardian.com/technology/2014/dec/03/jeff-bezos-billions-dollars-failures-amazon), 2014
 
 ---

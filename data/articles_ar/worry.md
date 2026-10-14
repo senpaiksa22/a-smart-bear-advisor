@@ -1,22 +1,37 @@
 ---
 id: 85
 title_en: "Worrying is self-fulfilling; what to do instead"
-title_ar: "Worrying is self-fulfilling; what to do instead"
+title_ar: "القلق نبوءة تحقق ذاتها: ماذا تفعل بدلاً من التوتر المستمر؟"
 slug: "worry"
 url: "https://longform.asmartbear.com/worry/"
-pubDate: "Tue, 06 Dec 2016 08:00:00 +0000"
+published_date: "Tue, 06 Dec 2016 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Worrying makes things worse. Replace worry with preparation and strategic planning."
-summary_ar: "Worrying makes things worse. Replace worry with preparation and strategic planning."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Worrying is self-fulfilling; what to do instead'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Worrying is self-fulfilling; what to do instead
+# القلق نبوءة تحقق ذاتها: ماذا تفعل بدلاً من التوتر المستمر؟
 ### Worrying is self-fulfilling; what to do instead
 
-> **الملخص التنفيذي:** Worrying makes things worse. Replace worry with preparation and strategic planning.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Worrying is self-fulfilling; what to do instead'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/worry/](https://longform.asmartbear.com/worry/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** القلق نبوءة تحقق ذاتها: ماذا تفعل بدلاً من التوتر المستمر؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Worrying is self-fulfilling; what to do instead
+
+> **Executive Summary:** Worrying makes things worse. Replace worry with preparation and strategic planning.
+> **Original URL:** [https://longform.asmartbear.com/worry/](https://longform.asmartbear.com/worry/)
 
 ![santa claus on psychiatrist couch](https://longform.asmartbear.com/worry/de45a3ec.png)
 

@@ -1,22 +1,37 @@
 ---
 id: 55
 title_en: "The three kinds of leverage that anchor effective strategies"
-title_ar: "The three kinds of leverage that anchor effective strategies"
+title_ar: "الأنواع الثلاثة لقوى الرفع التي ترتكز عليها الاستراتيجيات الناجحة"
 slug: "leverage"
 url: "https://longform.asmartbear.com/leverage/"
-pubDate: "Sun, 18 Jun 2023 00:00:00 +0000"
+published_date: "Sun, 18 Jun 2023 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Leveraging strengths -- not \"fixing weaknesses\" -- is how to win. Better when differentiated. Best when durable. Here's how to create leverage."
-summary_ar: "Leveraging strengths -- not \"fixing weaknesses\" -- is how to win. Better when differentiated. Best when durable. Here's how to create leverage."
+summary_ar: "Leveraging strengths -- not \"
 ---
 
-# The three kinds of leverage that anchor effective strategies
+# الأنواع الثلاثة لقوى الرفع التي ترتكز عليها الاستراتيجيات الناجحة
 ### The three kinds of leverage that anchor effective strategies
 
-> **الملخص التنفيذي:** Leveraging strengths -- not "fixing weaknesses" -- is how to win. Better when differentiated. Best when durable. Here's how to create leverage.
+> **الملخص التنفيذي:** Leveraging strengths -- not \
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/leverage/](https://longform.asmartbear.com/leverage/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الأنواع الثلاثة لقوى الرفع التي ترتكز عليها الاستراتيجيات الناجحة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The three kinds of leverage that anchor effective strategies
+
+> **Executive Summary:** Leveraging strengths -- not "fixing weaknesses" -- is how to win. Better when differentiated. Best when durable. Here's how to create leverage.
+> **Original URL:** [https://longform.asmartbear.com/leverage/](https://longform.asmartbear.com/leverage/)
 
 ![dunno what if we leveraged something](https://public.asmartbear.com/books/anthology/chapters/leverage/d8465print-simple.png)
 

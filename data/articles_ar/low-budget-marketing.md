@@ -1,22 +1,37 @@
 ---
 id: 116
 title_en: "Solving the Low-Budget Online Marketing Dilemma"
-title_ar: "Solving the Low-Budget Online Marketing Dilemma"
+title_ar: "حل معضلة التسويق الإلكتروني بميزانيات محدودة وصفرية"
 slug: "low-budget-marketing"
 url: "https://longform.asmartbear.com/low-budget-marketing/"
-pubDate: "Tue, 14 May 2013 08:00:00 +0000"
+published_date: "Tue, 14 May 2013 08:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Low on cash but need marketing results? Here are four specific things you can do to grow on a budget."
-summary_ar: "Low on cash but need marketing results? Here are four specific things you can do to grow on a budget."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Solving the Low-Budget Online Marketing Dilemma'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Solving the Low-Budget Online Marketing Dilemma
+# حل معضلة التسويق الإلكتروني بميزانيات محدودة وصفرية
 ### Solving the Low-Budget Online Marketing Dilemma
 
-> **الملخص التنفيذي:** Low on cash but need marketing results? Here are four specific things you can do to grow on a budget.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Solving the Low-Budget Online Marketing Dilemma'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/low-budget-marketing/](https://longform.asmartbear.com/low-budget-marketing/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** حل معضلة التسويق الإلكتروني بميزانيات محدودة وصفرية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Solving the Low-Budget Online Marketing Dilemma
+
+> **Executive Summary:** Low on cash but need marketing results? Here are four specific things you can do to grow on a budget.
+> **Original URL:** [https://longform.asmartbear.com/low-budget-marketing/](https://longform.asmartbear.com/low-budget-marketing/)
 
 ![Cartoon 0f8296f3](https://longform.asmartbear.com/low-budget-marketing/29bab408.png)
 
@@ -59,7 +74,9 @@ Once you approach inventory limits, you need to find other campaigns which can [
 When you try a new campaign and it utterly fails, the temptation is to keep spend low and optimize. You think:
 
 > I might be just a [clever turn of phrase](https://longform.asmartbear.com/authentic-is-dead/) or an [eye-catching design](https://longform.asmartbear.com/design/) away from changing that click-through rate from 0.1% to 1.0%, and then I can ramp up spending and have a new advertising channel.
+> 
 > After all, this same messaging worked great on AdWords, so I know it's reasonably well-tested. Something small is probably holding me back.
+> 
 > And I recognize my marketing prowess with this company is nascent, so of *course* campaigns will suck at first but improve with iteration. So let's iterate!
 
 I've found that this line of thought is usually wrong. I don't have data to give you, it's just been my experience.

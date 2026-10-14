@@ -1,22 +1,37 @@
 ---
 id: 93
 title_en: "Balance is weak. Tension is strong."
-title_ar: "Balance is weak. Tension is strong."
+title_ar: "التوازن حالة ضعف وهشاشة، بينما الشد والتناغم التنافسي قوة"
 slug: "balance-vs-tension"
 url: "https://longform.asmartbear.com/balance-vs-tension/"
-pubDate: "Tue, 01 Sep 2015 08:00:00 +0000"
+published_date: "Tue, 01 Sep 2015 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Balance is fragile. Tension is strong"
-summary_ar: "Balance is fragile. Tension is strong"
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Balance is weak. Tension is strong.'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Balance is weak. Tension is strong.
+# التوازن حالة ضعف وهشاشة، بينما الشد والتناغم التنافسي قوة
 ### Balance is weak. Tension is strong.
 
-> **الملخص التنفيذي:** Balance is fragile. Tension is strong
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Balance is weak. Tension is strong.'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/balance-vs-tension/](https://longform.asmartbear.com/balance-vs-tension/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التوازن حالة ضعف وهشاشة، بينما الشد والتناغم التنافسي قوة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Balance is weak. Tension is strong.
+
+> **Executive Summary:** Balance is fragile. Tension is strong
+> **Original URL:** [https://longform.asmartbear.com/balance-vs-tension/](https://longform.asmartbear.com/balance-vs-tension/)
 
 ![Cartoon c7efd6f0](https://longform.asmartbear.com/balance-vs-tension/62da757a.png)
 

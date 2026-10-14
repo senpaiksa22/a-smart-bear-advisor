@@ -1,22 +1,37 @@
 ---
 id: 198
 title_en: "Strong opinions, somewhat weakly held"
-title_ar: "Strong opinions, somewhat weakly held"
+title_ar: "آراء قاطعة وقوية، متمسك بها بمرونة واستعداد للتغيير"
 slug: "strong-opinions-weakly-held"
 url: "https://longform.asmartbear.com/strong-opinions-weakly-held/"
-pubDate: "Thu, 20 Nov 2008 08:00:00 +0000"
+published_date: "Thu, 20 Nov 2008 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "A strategy that changes all the time cannot be executed, but a strategy that never changes is definitely incorrect."
-summary_ar: "A strategy that changes all the time cannot be executed, but a strategy that never changes is definitely incorrect."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'آراء قاطعة وقوية، متمسك بها بمرونة واستعداد للتغيير'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Strong opinions, somewhat weakly held
+# آراء قاطعة وقوية، متمسك بها بمرونة واستعداد للتغيير
 ### Strong opinions, somewhat weakly held
 
-> **الملخص التنفيذي:** A strategy that changes all the time cannot be executed, but a strategy that never changes is definitely incorrect.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'آراء قاطعة وقوية، متمسك بها بمرونة واستعداد للتغيير'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/strong-opinions-weakly-held/](https://longform.asmartbear.com/strong-opinions-weakly-held/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** آراء قاطعة وقوية، متمسك بها بمرونة واستعداد للتغيير تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Strong opinions, somewhat weakly held
+
+> **Executive Summary:** A strategy that changes all the time cannot be executed, but a strategy that never changes is definitely incorrect.
+> **Original URL:** [https://longform.asmartbear.com/strong-opinions-weakly-held/](https://longform.asmartbear.com/strong-opinions-weakly-held/)
 
 ![Cartoon 0c2a4781](https://longform.asmartbear.com/strong-opinions-weakly-held/bffb6b01.png)
 

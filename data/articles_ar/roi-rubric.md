@@ -1,22 +1,37 @@
 ---
 id: 65
 title_en: "Fermi ROI: Fixing the ROI rubric"
-title_ar: "Fermi ROI: Fixing the ROI rubric"
+title_ar: "استبدال الكلمات الفضفاضة بأرقام فيرمي لتقدير الاحتمالات"
 slug: "roi-rubric"
 url: "https://longform.asmartbear.com/roi-rubric/"
-pubDate: "Mon, 20 Jun 2022 00:00:00 +0000"
+published_date: "Mon, 20 Jun 2022 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Traditional rubrics fail to reveal the best answers, or how to explain those answers to others. After explaining why, the following system solves both failures."
-summary_ar: "Traditional rubrics fail to reveal the best answers, or how to explain those answers to others. After explaining why, the following system solves both failures."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'استبدال الكلمات الفضفاضة بأرقام فيرمي لتقدير الاحتمالات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Fermi ROI: Fixing the ROI rubric
+# استبدال الكلمات الفضفاضة بأرقام فيرمي لتقدير الاحتمالات
 ### Fermi ROI: Fixing the ROI rubric
 
-> **الملخص التنفيذي:** Traditional rubrics fail to reveal the best answers, or how to explain those answers to others. After explaining why, the following system solves both failures.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'استبدال الكلمات الفضفاضة بأرقام فيرمي لتقدير الاحتمالات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/roi-rubric/](https://longform.asmartbear.com/roi-rubric/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** استبدال الكلمات الفضفاضة بأرقام فيرمي لتقدير الاحتمالات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Fermi ROI: Fixing the ROI rubric
+
+> **Executive Summary:** Traditional rubrics fail to reveal the best answers, or how to explain those answers to others. After explaining why, the following system solves both failures.
+> **Original URL:** [https://longform.asmartbear.com/roi-rubric/](https://longform.asmartbear.com/roi-rubric/)
 
 ![traded for some big data two spreadsheets and an algorithm](https://public.asmartbear.com/books/anthology/chapters/roi-rubric/d6857print-simple.png)
 
@@ -58,8 +73,8 @@ No matter how you measure impact, your numbers end up far less precise than they
 
 [It's difficult to predict](https://longform.asmartbear.com/predict-the-future/) numbers like "revenue-increase due to feature X." Teams use various techniques to address the uncertainty, but in every case the number in the spreadsheet contains significant error:
 
-* *Revenue we would get from existing customers currently asking for this feature.* <br/> That's precise but often uncorrelated with how much money we *will* make from it in the long run, so it's not an accurate measure of impact. <br/>
-* *Additional sales we would make in the next year if we had this feature.* <br/> This number is low-confidence, high-error. Even in hindsight it's hard to attribute revenue from a single customer to a single feature; if it's unmeasurable *post hoc*, surely it's unpredictable *ex ante*. <br/>
+* *Revenue we would get from existing customers currently asking for this feature.* <br/> That's precise but often uncorrelated with how much money we *will* make from it in the long run, so it's not an accurate measure of impact. <br/> 
+* *Additional sales we would make in the next year if we had this feature.* <br/> This number is low-confidence, high-error. Even in hindsight it's hard to attribute revenue from a single customer to a single feature; if it's unmeasurable *post hoc*, surely it's unpredictable *ex ante*. <br/> 
 * *Use a relative scale, e.g. "1-5," calibrated by previously-created features.* <br/> Defined as "1 is like feature X, 5 is like feature Y." Not only is this a wild guess, different people will interpret the scale differently, yet answers differing by a single point generates a large variance in computed ROI.
 
 It's even worse when want to combine [multiple metrics of impact](https://longform.asmartbear.com/product-metrics/), e.g. revenue, unit-profitability, and retention. Each contains intrinsic error, then a mathematical combination compounds the error, then the ROI calculation expands the error yet again.
@@ -81,6 +96,7 @@ The physicists were already causing trouble. Future Nobel Prize-winner Richard F
 Fermi was also interested in the amount of energy released by the blast--one of the main goals of the test. Not wanting to wait for official analysis, he made his own estimate on the spot, using a technique that now bears his name, and that we will use to fix our rubric:
 
 > About 40 seconds after the explosion the air blast reached me. I tried to estimate its strength by dropping from about six feet small pieces of paper before, during, and after the passage of the blast wave. Since, at the time, there was no wind I could observe very distinctly and actually measure the displacement of the pieces of paper that were in the process of falling while the blast was passing. The shift was about 2 1/2 meters, which, at the time, I estimated to correspond to the blast that would be produced by 10,000 tons of TNT.  
+>   
 > --Enrico Fermi, [Top Secret interview](https://www.dannen.com/decision/fermi.html) July 16, 1945, declassified in 1965
 
 The official estimate of the energy output of the blast was 21,000 tons of TNT. Fermi's estimate was surprisingly accurate given such inaccurate input data and quick, simple, mental calculations. How did he do it?
@@ -301,6 +317,7 @@ If you don't want to evaluate the items along a new dimension, you could elimina
 To determine which is the most important dimension to maximize, using this guiding question:
 
 > If we maximize this dimension in the next few months, then even if we get nothing else accomplished, it will still be a success.  
+>   
 > Conversely, if we moved other needles, but this dimension remained unchanged, it will have been a failure.
 
 ### The human factor
@@ -322,7 +339,7 @@ Since "excitement" is an ambiguous term, one way to convert to a Fermi value is 
 | `10` | About half the team is excited to work on it. |
 | `100` | All, or all but one, is excited to work on it. |
 
-##### ثقة
+##### Confidence
 
 Confidence is hard to measure, but you know it when you feel it (or don't feel it). It might not be correlated with risk--just because you are confident, doesn't mean you are correct. Still, faced with two choices, where you're sure you know how to execute the first, but with the second you're full of doubt, it's logical to pick the first.
 

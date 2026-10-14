@@ -1,22 +1,37 @@
 ---
 id: 149
 title_en: "Our unhealthy fixation with emulating #1"
-title_ar: "Our unhealthy fixation with emulating #1"
+title_ar: "التضحية بصحتك من أجل شركتك الناشئة: الوهم القاتل الذي يجب تجنبه"
 slug: "copy-number-one"
 url: "https://longform.asmartbear.com/copy-number-one/"
-pubDate: "Mon, 04 Apr 2011 00:00:00 +0000"
+published_date: "Mon, 04 Apr 2011 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Being \"undefeated\" or \"number 1\" might be more luck than you know."
-summary_ar: "Being \"undefeated\" or \"number 1\" might be more luck than you know."
+summary_ar: "Being \"
 ---
 
-# Our unhealthy fixation with emulating #1
+# التضحية بصحتك من أجل شركتك الناشئة: الوهم القاتل الذي يجب تجنبه
 ### Our unhealthy fixation with emulating #1
 
-> **الملخص التنفيذي:** Being "undefeated" or "number 1" might be more luck than you know.
+> **الملخص التنفيذي:** Being \
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/copy-number-one/](https://longform.asmartbear.com/copy-number-one/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التضحية بصحتك من أجل شركتك الناشئة: الوهم القاتل الذي يجب تجنبه تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Our unhealthy fixation with emulating #1
+
+> **Executive Summary:** Being "undefeated" or "number 1" might be more luck than you know.
+> **Original URL:** [https://longform.asmartbear.com/copy-number-one/](https://longform.asmartbear.com/copy-number-one/)
 
 Many sporting contests culminate in a single-elimination tournament, where each match produces a winner who continues on, and a loser who goes home:
 

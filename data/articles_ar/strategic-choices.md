@@ -1,160 +1,175 @@
 ---
 id: 4
 title_en: "Strategic choices: When both options are good"
-title_ar: "الخيارات الاستراتيجية: عندما يكون كلا الخيارين جيدين"
+title_ar: "الخيارات الاستراتيجية: عندما يكون كلا الخيارين ممتازين"
 slug: "strategic-choices"
 url: "https://longform.asmartbear.com/strategic-choices/"
-pubDate: "Sun, 22 Feb 2026 00:00:00 +0000"
+published_date: "Sun, 22 Feb 2026 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Real strategy means choosing between two good options and accepting all the consequences--even the painful ones you don't like."
 summary_ar: "الإستراتيجية الحقيقية تعني الاختيار بين خيارين جيدين وقبول كل العواقب، حتى تلك المؤلمة التي لا تعجبك."
 ---
 
-# الخيارات الاستراتيجية: عندما يكون كلا الخيارين جيدين
+# الخيارات الاستراتيجية: عندما يكون كلا الخيارين ممتازين
 ### Strategic choices: When both options are good
 
 > **الملخص التنفيذي:** الإستراتيجية الحقيقية تعني الاختيار بين خيارين جيدين وقبول كل العواقب، حتى تلك المؤلمة التي لا تعجبك.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/strategic-choices/](https://longform.asmartbear.com/strategic-choices/)
 
-![I put them all in one basket on purpose. I like to live dangerously.](https://public.asmartbear.com/books/anthology/chapters/strategic-choices/d6573print-simple.png)
+---
 
-طوال اليوم، يتخذ كل فرد في الشركة القرارات بشكل مستقل:
-
-كيفية الرد على هذا العميل. كم من الجهد المبذول في هذه الميزة. ماذا نبني بعد ذلك. كيف نضع نقطة ضعف على الموقع. أين تذهب ميزانية الشهر القادم؟ أي قناة تسويقية نراهن عليها؟ ما هي الأفكار التي نكلف أنفسنا عناء النظر فيها.
-
-كان من الأفضل للجميع أن يتخذوا قرارات مستقلة. هذه هي الطريقة التي [تقيس بها] (https://longform.asmartbear.com/scale/) - سواء كان ثلاثة أشخاص أو ثلاثمائة؛ حتى لو كان أنت فقط. إنها الطريقة التي [تدير بها الفرق المستقلة](https://longform.asmartbear.com/in-command/)، وتدفع السلطة إلى الفرد (ولكن [ليس بعيدًا جدًا](https://longform.asmartbear.com/tension-autonomy-admin/)).
-
-ولكن حتى القرارات الفردية المثالية يمكن بسهولة أن تكون غير متسقة بين الفرق: فالقرارات يمكن أن تكون عقلانية محليا ولكنها تتناقض مع القرارات المتخذة في مكان آخر. إذا كان الجميع يتحركون في اتجاهات مختلفة، فلن تصل الشركة إلى أي مكان، حتى لو كان الجميع منتجين وفعالين.
-
-حتى الفرق المستقلة تتطلب التوافق. ليس الانحياز على التكتيكات (تلك تتغير أسبوعيا)، ولا على الابتذال (تلك لا تغير شيئا)، ولكن الانحياز على مجموعة صغيرة من القرارات على المستوى الكلي. هذه هي **الخيارات الإستراتيجية**.[^1]
-
-[^1]: مصطلح شاعه روجر إل. مارتن، والذي لديه الكثير ليقوله في كتابه لعام 2013 _اللعب من أجل الفوز: كيف تعمل الإستراتيجية حقًا_ وفي [مقالات مثل هذه](https://rogermartin.medium.com/strategic-choice-chartering-3d56d8962ec3). في الواقع، فهو يعرّف مفهوم الإستراتيجية برمته على أنه مجموعة من الاختيارات: "الاستراتيجية هي مجموعة متكاملة من الاختيارات التي تضع الشركة في مكانة فريدة في صناعتها بحيث تخلق ميزة مستدامة وقيمة متفوقة مقارنة بالمنافسة".
-
-عندما تتوافق القرارات اليومية مع القرارات الإستراتيجية، فإن "المزيد من الأشخاص" يمكنهم في الواقع تحقيق "المزيد من النتائج". يتوقف العملاء عن رؤية التنافر بين الوعود التسويقية التي يتم تقديمها على الصفحة الرئيسية وما بنته الهندسة. القرارات التي يتم اتخاذها بشكل مستقل عبر الشركة تعزز بعضها البعض، مما يعني أنها تتراكم بدلاً من إضعاف بعضها البعض.
-
-تفشل معظم وثائق "الإستراتيجية" لأنها تكرر العبارات المبتذلة بدلاً من اتخاذ القرارات التي تتطلب المقايضات والتضحيات. إنهم يقرأون مثل التطلعات الأخلاقية: "العميل أولاً". "التحرك بسرعة على البيروقراطية." "الجودة أكثر من الاختصارات." "تصميم رائع على المستوى المتوسط."
-
-هذه ليست خاطئة في حد ذاتها. إنها مجرد قرارات غير. لا أحد يقول: "استراتيجيتنا هي أن تكون لدينا جودة منخفضة وتصميم قبيح"، ومع ذلك توجد منتجات متواضعة. لماذا؟ لأن الشركات اختارت أولويات *أخرى* - السعر، والسرعة، وقابلية التوسع، والقوة، والتعقيد - وظهرت المقايضات على أنها ذات جودة منخفضة أو تصميم غير ملهم. هذه الاختيارات الأساسية - قول "لا" حتى للأشياء المرغوبة عالميًا مثل الجودة والتصميم - هي السمات المميزة للاستراتيجية الحقيقية.
-
-مجموعة اختياراتك الفريدة تجعلك "الأفضل" وفقًا لـ [السوق المستهدف](https://longform.asmartbear.com/icp-ideal-customer-persona/). الإستراتيجية التي لا تقول "لا" أبدًا ليست إستراتيجية. يجب أن يقول "لا" في معظم الأوقات؛ هذه إشارة إلى أنك في الواقع [تركز](https://longform.asmartbear.com/focus/).
-
-تتضمن [الاستراتيجيات الرائعة](https://longform.asmartbear.com/great-strategy/) خيارات إستراتيجية تتمتع بالخصائص التالية:
-
-1. **قرارات حقيقية:** يختار A بدلاً من B على الرغم من أن B مرغوب فيه أيضًا.
-2. **يقبل العواقب:** يختار A *و* جميع عواقب A، بما في ذلك العواقب المؤسفة.
-3. **تعزز بعضها البعض:** مجموعة من الاختيارات التي تعزز بعضها البعض، بدلاً من الاختيارات الذكية التي تكون في عزلة ولكنها تتعارض معًا.
-
-بعد ذلك، سأشرح كل خاصية، وأشارك بعض النصائح التيسيرية، وأنتهي بجدول من الأمثلة لإثارة مناقشاتك الخاصة.
-
-## خيارات استراتيجية حقيقية
-
-### 1. كلا طرفي الاختيار ذكيان
-
-"التصميم الجيد" ليس خيارًا حقيقيًا لأن "التصميم السيئ" لم يكن أبدًا بديلاً ذكيًا.
-
-"الكل في واحد" *هو* خيار حقيقي، لأن البديل هو "نواة صغيرة، قابلة للتوسعة للغاية"؛ كلاهما ذكي. أنت تعرف هذا لأن **العديد من الشركات الناجحة، التي تقدم منتجات رائعة، قامت باختيار كل خيار**.
-
-ومن الجدير بالذكر أن **"كلاهما" ليس خيارًا معقولًا.** إما أن يكون المنتج قائمًا بذاته أو لا يكون كذلك. إما أن تصمم تجربة المستخدم كتجربة كاملة، أو تصممها لقبول تجربة المستخدم التابعة لجهة خارجية بطرق لم يتمكن المصممون الأصليون من التنبؤ بها. إما أن تبيع "الشيء الوحيد الذي ستحتاج إلى شرائه على الإطلاق"، أو تبيع "المنصة التي تحتوي على نظام بيئي لكل شيء". إما أنه "يفعل بعض الأشياء بشكل جيد للغاية"، أو "يفعل كل شيء ولكنك تجمعه معًا". يمكن للدعم الإجابة على الأسئلة المتعلقة بالمنتج بأكمله، أو يجب على الدعم توجيهك إلى بائعي المكونات الإضافية الذين يمتلكون الأجزاء التي تسأل عنها.
-
-أنت تعلم أنك قمت باختيار حقيقي واستراتيجي عندما تكون هناك قائمة طويلة من التأثيرات الثانوية التي تتخلل الشركة بأكملها.
-
-هذا شكل آخر من أشكال [الاختبار المعاكس](https://longform.asmartbear.com/opposite-test/). مرة أخرى، التأكد من أن "العكس" ليس تافهًا أو هراء، هو الطريقة التي نعرف بها أننا نقول شيئًا حقيقيًا ومهمًا. وهذا صحيح بالنسبة للتسويق أيضا.
-
-### 2. الاختيارات لها عواقب، سواء كانت مرغوبة أو مؤسفة
-
-الابتذال يشعر بالارتياح لأنه ليس له جانب سلبي. كيف يمكن أن يكون "التصميم الرائع" سيئًا؟ يحبه العملاء، والمطورون فخورون بعملهم، ويقلل الدعم.
-
-إذا كانت كلها أخبارًا جيدة، فهذا ليس خيارًا حقيقيًا، أو أنك لا تتصارع مع العواقب الفعلية.
-
-"التصميم الرائع" يأتي بتكاليف. أنت بحاجة إلى مصممين موهوبين، مما يعني فريقًا أكبر. أنت بحاجة إلى مهندسين متحمسين لصياغة تجربة المستخدم بقدر كبير من العناية بقدر ما يقومون بتوسيع نطاق قاعدة البيانات ويريدون مطاردة كل خطأ أخير في واجهة المستخدم قبل إضافة الميزة الجديدة اللامعة التالية. أنت تستثمر في أنظمة التصميم. تستغرق الميزات والتغييرات وقتًا أطول لأنها مطلوبة ليس للعمل فحسب، بل أيضًا للتصميم الجيد. أنت تقول "لا" للميزات التي يريدها العملاء إذا كان ذلك يعني أن التصميم سيزداد سوءًا. وحتى في هذه الحالة، لا يتفق جميع العملاء على معنى "التصميم الرائع"، لذا فإنك تثير إعجاب بعض الأشخاص وتثير غضب الآخرين.
-
-إن الاختيار الاستراتيجي عبارة عن صفقة شاملة: فأنت لا تحصل على المزايا دون نقاط ضعف.
-
-عندما تقوم بإدراج العواقب، وكتابتها في الإستراتيجية، يصبح القرار قابلاً للاستخدام من قبل الشركة بأكملها. يمكنك تقليل الترجمة الفردية ومساعدة الجميع على مواءمة قراراتهم اليومية.
-
-ويساعدك هذا أيضًا على ضمان اتساق الإستراتيجية بأكملها داخليًا.
-
-### 3. لا يقتصر الأمر على الاتساق فحسب: بل يعزز بعضه بعضًا
-
-استخدم قائمة نتائج الاختيار للتحقق من التناقضات. غالبًا ما تختفي الصراعات في تأثيرات الدرجة الثانية.
-
-على سبيل المثال، قد يبدو "فريق صغير" و"غني بالميزات" غير مرتبطين، ولكن إبقاء فريق صغير يعني عادةً إبقاء المنتج صغيرًا وبسيطًا، لأن الفريق يجب أن يبنيه، ويحافظ عليه، ويدعمه، ويطوره. وهذا يتعارض مع "الغنية بالميزات".
-
-لكن ربما لا يكونون في صراع بعد كل شيء إذا اتخذنا خيارًا استراتيجيًا آخر: فريق صغير *يمكن* أن يحافظ على نواة صغيرة مصممة لملحقات الطرف الثالث. بعد ذلك، فإن النظام البيئي للمكونات الإضافية وواجهات برمجة التطبيقات يجعل المنتج بأكمله غنيًا بميزاته على كل حال! والآن تتشابك الاختيارات: "فريق صغير"، و"نواة صغيرة"، و"نظام بيئي قابل للتوسيع". وكل منها يجر على طول مضامينه الخاصة، والتي تظهر المزيد من الخيارات، وما إلى ذلك. هذا الاستكشاف هو كيفية وصولك إلى مجموعة متماسكة من القرارات.
-
-والأفضل من "عدم التعارض" هو "التعزيز". "قابل للتوسيع" يساعد المنتج على أن يكون "غنيًا بالميزات". يجبر الفريق الصغير النواة على البقاء صغيرة، مما يحافظ على المساحة اللازمة لازدهار النظام البيئي. كل قرار يجعل القرار التالي أسهل وأقوى.
-
-عندما تعزز الاختيارات القوية بعضها البعض، تبدأ الشركة بأكملها في الشعور بأن لديها شخصية - رأي حول كيف يجب أن يكون العالم. لن يشاركك بعض العملاء هذا الرأي، ولكن أولئك الذين سيفعلون ذلك سيحبونك أكثر. [الحب هو كيف تفوز](https://longform.asmartbear.com/willingness-to-pay/).
-
-ويمكن للجميع في الشركة التحرك بشكل أسرع. توقف عن إعادة التقاضي بشأن المقايضات. يظل التسويق والمبيعات متوافقين مع المنتج. يتمتع الناس بمتعة أكبر، لأن التماسك يبدو كالكفاءة، والكفاءة تبدو جيدة.
-
-##تحويل الاختيارات الضعيفة إلى اختيارات قوية
-
-عندما تقوم بتسهيل إنشاء الخيارات الإستراتيجية، ستجد أن الأشخاص يكتبون باستمرار خيارات زائفة ضعيفة تفشل في الاختبار المعاكس. إنهم يعرفون بالفعل الجانب الذي يفضلونه، لذلك يفضلون جعل الجانب الآخر سيئًا بشكل واضح - لذلك "يفوز" خيارهم - بدلاً من الانخراط في الصراع من أجل اتخاذ قرارات حازمة وواضحة.
-
-![Man at desk has 'In' and 'Out' baskets, and another overflowing basket labeled 'Dither.'](https://public.asmartbear.com/books/anthology/chapters/strategic-choices/d6978print-simple.png)
-
-من المحتمل أن يكون هناك منظور صحيح يختبئ تحت هذا الاختيار ضعيف الصياغة، لذا فإن مهمتك هي استخراج الاختيار الأساسي الذي يجسد هذا المنظور. هذا يمكن أن يساعد:
-
-> ما هي بعض الشركات الناجحة والمحبوبة التي اختارت الجانب "السيئ"؟  
->   
-> ما هو السبب الأساسي الذي يجعل الناس يحبون تلك الشركة رغم هذا العيب؟ ما هو الشيء الذي يحبونه كثيرًا، والذي على الرغم من أن له هذه النتيجة السيئة، إلا أنهم ما زالوا يحبون هذا المنتج؟
-
-إن "الشيء الذي يحبونه" هو في الواقع الجانب الآخر من الخيار الاستراتيجي.
-
-على سبيل المثال، يعد "تجربة المستخدم جيدة التصميم، وليست تجربة المستخدم السيئة" خيارًا مزيفًا. لذا اسأل: ما هي الأسباب التي تجعل بعض المنتجات المحبوبة تتمتع بتجربة مستخدم سيئة؟ لقد نظرنا إلى أحد الأسباب بالفعل: المنتج عبارة عن نواة صغيرة تحتوي على نظام بيئي من المكونات الإضافية والإضافات. تتيح هذه المرونة لبرامج الطرف الثالث "القيام بأي شيء"، مما يتيح للعملاء "القيام بأي شيء"، وهذا أمر رائع حقًا... ولكن على حساب تماسك تجربة المستخدم.
-
-ومن الأمثلة الواقعية على ذلك تطبيقات تدوين الملاحظات. تتميز التطبيقات الشاملة مثل Apple Notes وBear بأنها متماسكة بشكل جميل جزئيًا لأنها تتحكم في التجربة بأكملها - لا توجد مكونات إضافية، ولا حتى واجهة برمجة تطبيقات. وفي الوقت نفسه، يقدم المنافسون مثل Obsidian مجموعة مذهلة من الوظائف القابلة للتنزيل. الشكوى الشائعة هي أن تجربة المستخدم أصبحت خليطًا، لكن الناس يحبون الاختيار الموسع للميزات والقدرة على بناء نظام إدارة المعلومات المثالي والمخصص الخاص بهم. من خلال طرح السؤال "لماذا يحظى Obsidian بشعبية كبيرة ومحبوب على الرغم من أن تجربة المستخدم الخاصة به فوضوية للغاية"، فإنك تصل إلى الاختيار الاستراتيجي الحقيقي، وهو "الكل في واحد مقابل القابل للتوسيع بلا حدود"، حيث يكون التصميم أحد النتائج المهمة.
-
-## لماذا لا يكون كلاهما؟ في بعض الأحيان على حد سواء؟ هذه المرة على حد سواء؟
-
-الجميع سوف "يغش" في النهاية.
-
-وبما أن كلا الجانبين مرغوب فيهما، فإننا نميل إلى البدء في سحب جوانب الجانب الآخر. ستنشئ منتجًا شاملاً، لكن العملاء يحبون أن يكون لدى المنافس مكونات إضافية، لذا ستبدأ في استكشاف ما يعنيه بالنسبة لك إضافة مكونات إضافية. أو: "يجب أن نرفع السعر؛ فنحن نترك المال على الطاولة". أو: "يجب علينا أن نبطئ ونصقل هذا الأمر؛ إنه أمر محرج". تبدو هذه الإغراءات مقنعة على وجه التحديد لأن الخيار الآخر ذكي أيضًا. توجد استراتيجية بحيث يمكن لأي شخص في الشركة أن يقول بثقة: *نعم، هذه فكرة جيدة من الناحية النظرية، ولكن لا، إنها لا تتناسب مع مجموعة المقايضات التي اخترناها.*
-
-ومع ذلك، في بعض الأحيان يكون من المعقول القيام بالأمرين معًا. لنفترض أنك اخترت "أدنى سعر"، [والذي يشير غالبًا إلى جودة أقل](https://longform.asmartbear.com/never-compete-on-price/)، لأن الأسعار المنخفضة تفرض قيودًا على التكلفة. لكن في بعض الأحيان يمكنك تحسين الجودة دون زيادة التكلفة - خيارات تصميم أفضل، وموردون أفضل، ومزايا الحجم، وموظفين رائعين. ألا يجب أن تأخذ تلك الانتصارات؟
-
-نعم. خذهم.
-
-والقاعدة هي: **عندما تكون في صراع، التزم بالخيار الاستراتيجي. عندما لا يكون هناك تعارض، افعل ما هو أفضل. ** عندما لا تتعارض الجودة والتكلفة، خذ كليهما.
-
-لكن عادة ما يتعارضون. في تلك اللحظات، لا يمكنك إرضاء الجميع. يريد بعض العملاء جانبًا واحدًا من المقايضة؛ والبعض الآخر يريد الآخر. إذا لم تتخذ قرارًا متسقًا، فإنك ستواجه الموقف الخاسر الوحيد: عدم وجود ما يكفي من الجودة والتصميم لكسب البهجة والولاء، ولكن أيضًا ليس ما يكفي من القوة والاتساع للفوز بحالات الاستخدام المعقدة. ستخسر كلا السوقين، لأنك ادعت "أنه توازن" وخلقت شيئًا لا أحد متحمس لاستخدامه.
-
-يجسد [بيان Agile Manifesto](https://agilemanifesto.org/) هذا الموقف. "البرمجيات العاملة على التوثيق الشامل" لا تدعي أن التوثيق سيئ؛ تقول أنه عندما يكون الوقت محدودًا (وهو كذلك دائمًا)، فإنك تستثمر في أحدهما أكثر من الآخر. هذه ليست عقيدة. إنها آلية للثبات تحت الضغط. بل إنهم يؤكدون على نيتهم: "بينما توجد قيمة للعناصر الموجودة على اليمين، فإننا نقدر العناصر الموجودة على اليسار أكثر".
-
-استخدم نفس النمط للاستراتيجية. إذا كانت استراتيجيتك تعتمد على السعر المنخفض، فأنت لا تقدم عرضًا مرتفع السعر "للحصول على بعض هؤلاء العملاء". ولكن إذا كانت استراتيجية السعر المنخفض الخاصة بك تنطوي على جودة أقل، فمن دواعي سرورك أن تأخذ جودة أعلى عندما لا يهدد ذلك قرار السعر المنخفض.
-
-ويظل خيارًا صارمًا [وليس توازنًا](https://longform.asmartbear.com/conflicting-choices/).
-
-## أمثلة على الاختيار الاستراتيجي
-
-يمكنك دمج عدد قليل مما يلي في استراتيجيتك، واستخدامها لطرح أفكار أفضل:
-
-| **الاختيار** | **المزايا** | **نقاط الضعف** |
-|:----|:----|:----|
-| أقل سعر على السعر المميز | • أكبر سوق ممكن، يتمركز حول الوصول والقدرة على تحمل التكاليف <br/> • لا يمكن للعديد من المنافسين الفوز أبدًا، فقط بسبب السعر | • لا يستطيع تحمل تكاليف الإعلانات والمبيعات. الكلمات الشفهية يجب أن تحملك <br/> • الحد الأقصى لتكلفة المواد، والأداء، و"الأشياء الجيدة التي يمكن الحصول عليها"، لذا فإن الجودة والميزات تصل إلى السقف |
-| سعر مميز على أقل سعر | • الهوامش العالية تتيح لك الإنفاق أكثر من المنافسين على العلامة التجارية والتلميع والتوزيع <br/> • تصبح الإشارة إلى الحالة ميزة: "لم يتم طرد أي شخص على الإطلاق لشرائه هذا" | • سوق أصغر حيث لا يملك البائع أي قوة لأن العملاء يمكنهم الشراء من أي شخص <br/> • يجب عليك تمويل العلامة التجارية بشكل مستمر (التسويق، الهيبة، الدفع للمشاهير لحمل حقيبة اليد)، أو ينهار قسط التأمين |
-| تجربة مستخدم متماسكة ومتكاملة مع قابلية للتوسعة | • التجربة "المصممة" تكسبك البهجة والثقة والعادة - ويشعر العملاء بالهدوء عند استخدامها <br/> • يظل الدعم والمستندات والتأهيل بسيطًا لأن هناك طريقًا واحدًا مباركًا | • أنت شخصيًا تمتلك نطاقًا واسعًا من الميزات؛ كل طلب "إضافة فقط" يصبح مشكلتك <br/> • يغادر المستخدمون المتميزون عندما يحتاجون إلى مكونات إضافية أو نصوص برمجية أو مسارات عمل غريبة لن تتمكن من إنشائها |
-| نظام بيئي قابل للتوسيع عبر تجربة مستخدم متماسكة | • يخلق النظام البيئي قدرة طويلة الأمد لم يسبق لك توظيفها من قبل، ويحب العملاء "أنه يفعل أي شيء" <br/> • يقوم الشركاء ببناء التوزيع الخاص بك: تصبح عمليات التكامل والمكونات الإضافية قنوات تسويقية | • يتدهور تماسك تجربة المستخدم بسبب اختلاف المعايير؛ يبدو المنتج وكأنه لحاف <br/> • الأمان والتوافق والدعم هي مشكلة في سلسلة التوريد لا يمكنك التحكم فيها |
-| تجربة مستخدم بسيطة على إمكانات قوية | • الوقت القصير للوصول إلى القيمة يؤدي إلى التنشيط ونمو الخدمة الذاتية. يشعر المستخدمون بالذكاء على الفور <br/> • يقلل الحمل المعرفي المنخفض من الاضطراب والدعم لأن عددًا أقل من الأشخاص يتعثرون | • تخسر عمليات سير العمل المعقدة والحوكمة وصفقات التخصيص حسب التصميم <br/> • يتم التفوق عليك في قوائم المراجعة وطلبات تقديم العروض حيث يساوي المشترون "المزيد" بـ "الأفضل" |
-| قدرة قوية على تجربة المستخدم البسيطة | • يمكنك الفوز بسير عمل عميق وعالي المخاطر حيث تتفوق القدرة على الأناقة، وكسب إيرادات عالية لكل عميل <br/> • معدل احتفاظ مرتفع لأن التكوين والتدريب وتكامل العمليات يؤدي إلى تكاليف تبديل | • يتطلب الإعداد التدريب والإعداد والمتخصصين، مما يؤدي إلى إبطاء عملية الاعتماد والتوسع <br/> • يصبح الدعم/الخدمات إلزامية، ويصبح المنتج شيئًا "يشغله" العملاء |
-| الحد الأدنى من الدعم عبر دعم اللمس العالي | • انخفاض عدد ممثلي الدعم يعني ارتفاع الهوامش وتركيز الفريق على المنتج بدلاً من التذاكر <br/> • يفرض سهولة الاستخدام والمستندات بشكل صارم، وبالتالي يتم توسيع المنتج بدون غراء بشري | • لا يمكنك البيع للمشترين الذين يحتاجون إلى أرقام هواتف، واتفاقيات مستوى الخدمة، وإمساك اليد <br/> • عندما يتعثر المستخدمون، فإنهم يتحركون بصمت؛ ستفقد حلقة الملاحظات التي من شأنها إصلاح الأمر |
-| دعم عالي اللمس عبر الحد الأدنى من الدعم | • يسد البشر الفجوات التي لا يستطيع المنافسون سدها، مما يخلق الولاء والتمايز <br/> • يصبح الدعم عالي اللمس محركًا لاكتشاف المنتج: تتعلم بشكل أسرع لأنك تسمع الحقيقة يوميًا | • باهظة الثمن وصعبة التوسع. يرتفع الحمل مع العملاء ما لم تقم بإعادة تصميم النموذج <br/> • يخلق توقعات على مدار الساعة طوال أيام الأسبوع وتبعية لا يمكنك إزالتها دون كسر الاحتفاظ |
-| بساطة الفريق الصغير مقارنة بتعقيد المؤسسة | • دورات مبيعات أقصر: عدد أقل من اللجان والطقوس التجريبية وطقوس الشراء <br/> • انخفاض عبء التنفيذ يعني نجاح العملاء بدون استشاريين ومشاريع طويلة | • تخسر الصفقات المؤسسية التي تتطلب الحوكمة والتدقيق والتكامل بين الشركات <br/> • الضغط المستمر من أجل "شيء آخر فقط" يؤدي ببطء إلى إفساد البساطة التي تبيعها |
-| تعقيد المؤسسة على بساطة الفريق الصغير | • يمكنك اجتياز بوابات الشراء وفتح الميزانيات الكبيرة بمجرد تضمينها في العمليات التنظيمية <br/> • تؤدي عمليات التكامل والأذونات والحوكمة إلى إنشاء قفل حقيقي واحتفاظ | • تتطلب دورات المبيعات الطويلة النقد والصبر وآلة مبيعات <br/> • ينتشر المنتج وتجربة المستخدم في كل مكان لأن كل شاشة يجب أن تحترم الأدوار والسياسات |
-| سرعة متطورة فوق ثبات الصخور الصلبة | • الجدة تفرق. أنت تقوم بشحن ما لا يستطيع المنافسون (حتى الآن) وجذب الانتباه <br/> • يجذب شركات البناء والمتبنين الأوائل الذين يريدون الحدود | • الأخطاء والكسر والارتباك تصبح جزءًا من العلامة التجارية <br/> • يدفع العملاء ضريبة إدارة التغيير، لذا فإن حالات الاستخدام المحافظة تتجنبك وتتجنبك |
-| استقرار قوي على السرعة المتطورة | • تصبح الثقة بمثابة الخندق لسير العمل المهم. يخشى العملاء التحول بعيدًا <br/> • حمل دعم أقل وحركة أقل لأنه "لا ينكسر أبدًا" يتفوق على "إنه جديد" | • أنت بطيء. الجدة المرئية تستحوذ على الاهتمام والميزانية <br/> • تضيع عليك فرصًا جديدة، وقد تصبح عتيقة الطراز |
-| المصدر المفتوح على المصدر المغلق | • حاجز ثقة أقل: يمكن للعملاء المحتملين المحاولة والفحص والاعتماد دون الحصول على إذن التسول <br/> • يعمل المجتمع على تسريع الميزات وعمليات التكامل التي لن تمولها داخليًا | • تحقيق الدخل أمر صعب لأن الجوهر يبدو "حرًا" والمنافسون لديهم نفس المنتج <br/> • تصبح الإدارة والصيانة سياسية ومرهقة، وترتفع التوقعات لأن العيوب تظل مرئية |
-| المصدر المغلق على المصدر المفتوح | • التحكم الكامل في خارطة الطريق، وتماسك تجربة المستخدم، والترخيص، والتعبئة، وقوة التسعير <br/> • إدارة أبسط: لا توجد فصائل مجتمعية، أو شوكات، أو مشاجرات خارطة طريق عامة | • يتباطأ التبني في القطاعات التي تتطلب الشفافية أو تخشى الانغلاق <br/> • أنت تمول السرعة بنفسك. تفقد نفوذ المجتمع ويجب عليك تصنيع إشارات الثقة |
-| ميزات أقل وأفضل على المزيد من الميزات | • الصقل والتماسك يخلقان البهجة والاحتفاظ والتحدث الشفهي <br/> • التعقيد الأقل يعني أخطاء أقل، ومستندات أقل، وتذاكر أقل، وتكرارًا أسرع | • تخسر في قوائم المراجعة وطلبات تقديم العروض حيث تتنكر الميزات كقيمة <br/> • أنت لا تخدم الحالات المتطورة التي تهم بشدة شرائح معينة، وتؤدي إلى حدوث ضجة عالية |
-| المزيد من الميزات على ميزات أقل وأفضل | • يمكنك الفوز بمقارنات المشتريات عن طريق تحديد المزيد من المربعات خارج البوابة <br/> • التغطية الأوسع توسع السوق وتخلق المزيد من مسارات البيع | • تصبح الجودة غير متساوية لأن الاتساع يسرق الوقت من الصقل والموثوقية <br/> • ينهار تماسك تجربة المستخدم مع تراكم الميزات، وينفجر الدعم/المستندات مع أوضاع فشل جديدة |
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الخيارات الاستراتيجية: عندما يكون كلا الخيارين ممتازين تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
 
 ---
 
-من المؤلم قبول نقاط الضعف في اختياراتك. فوائد الخيارات المعاكسة تبدو رائعة. مرحبًا بك في الإستراتيجية، حيث تقوم باختيارات صعبة.
+### النص المرجعي للمقال (Original Reference):
+# Strategic choices: When both options are good
 
-إذا لم يكن الاختيار صعبًا، فهو لم يكن في الواقع خيارًا.
+> **Executive Summary:** Real strategy means choosing between two good options and accepting all the consequences--even the painful ones you don't like.
+> **Original URL:** [https://longform.asmartbear.com/strategic-choices/](https://longform.asmartbear.com/strategic-choices/)
 
-اتخذ الخيارات الصعبة الآن، وأعفي الجميع من هذا العبء، واسمح لهم باتخاذ [قرارات ذكية بشكل مستقل](https://longform.asmartbear.com/in-command/).
+![I put them all in one basket on purpose. I like to live dangerously.](https://public.asmartbear.com/books/anthology/chapters/strategic-choices/d6573print-simple.png)
+
+All day, everyone at the company makes decisions, independently:
+
+How to respond to this customer. How much effort to put into this feature. What we build next. How we position a weakness on the website. Where next month's budget goes. Which marketing channel we bet on. What ideas we even bother to consider.
+
+Everyone had *better* be making independent decisions. That's how you [scale](https://longform.asmartbear.com/scale/)--whether three people or three hundred; even if it's just you. It's how you [manage autonomous teams](https://longform.asmartbear.com/in-command/), pushing power down to the individual (but [not too far](https://longform.asmartbear.com/tension-autonomy-admin/)).
+
+But even perfect individual decisions can easily be inconsistent between teams: decisions can be locally rational yet contradict decisions made elsewhere. If everyone is moving in different directions, the company goes nowhere, even if everyone is productive and efficient.
+
+Even autonomous teams require alignment. Not alignment on tactics (those change weekly), nor on platitudes (those change nothing), but alignment on a small set of macro-level decisions. These are the **strategic choices**.[^1]
+
+[^1]: A term popularized by Roger L. Martin, who has much more to say in his 2013 book _Playing to Win: How Strategy Really Works_ and in [articles like this](https://rogermartin.medium.com/strategic-choice-chartering-3d56d8962ec3). Indeed, he defines the whole concept of strategy as a set of choices: "Strategy is an integrated set of choices that uniquely positions the firm in its industry so as to create sustainable advantage and superior value relative to the competition."
+
+When the daily decisions conform to the strategic ones, "more people" actually can produce "more results." Customers stop seeing dissonance between the promises marketing made on the homepage and what engineering built. Decisions made independently across the company reinforce each other, which means they compound instead of diluting each other.
+
+Most "strategy" documents fail because they repeat platitudes instead of making decisions that require trade-offs and sacrifice. They read like moral aspirations: "Customer-first." "Move fast over bureaucracy." "Quality over shortcuts." "Great design over mediocrity."
+
+Those aren't wrong per se; they're just non-decisions. No one says, "Our strategy is to have low quality and ugly design," yet mediocre products exist. Why? Because companies chose *other* priorities--price, speed, extensibility, power, complexity--and the trade-offs showed up as low quality or uninspired design. These underlying choices--saying "no" even to things that are universally desirable like quality and design--are the hallmarks of real strategy.
+
+Your unique set of choices makes you "the best" according to your [target market](https://longform.asmartbear.com/icp-ideal-customer-persona/). A strategy that never says "no" is not a strategy. It should say "no" most of the time; that's a signal that you are actually [focusing](https://longform.asmartbear.com/focus/).
+
+[Great strategies](https://longform.asmartbear.com/great-strategy/) include strategic choices having these properties:
+
+1. **Real decisions:** Chooses A over B even though B is also desirable.
+2. **Accepts consequences:** Chooses A *and* all of A's consequences, including the unfortunate ones.
+3. **Reinforces each other:** A set of choices that reinforce each other, rather than choices that are smart in isolation but conflict together.
+
+Next I'll explain each property, share a few facilitation tips, and end with a table of examples to spark your own discussions.
+
+## Real strategic choices
+
+### 1. Both sides of the choice are smart
+
+"Good design" isn't a real choice because "bad design" was never a smart alternative.
+
+"All-in-one" *is* a real choice, because an alternative is "A small core, extremely extensible"; both are smart. You know this because **many successful companies, with great products, have made each choice**.
+
+Notably, **"both" is not a sensible choice.** Either the product is self-contained or it isn't. Either you design the UX as a complete experience, or you design it to accept third-party UX in ways the original designers couldn't predict. Either you sell "the only thing you'll ever need to buy," or you sell "the platform with an ecosystem for everything." Either it "does a few things very well," or it "does everything but you piece it together." Either support can answer questions about the whole product, or support has to route you to plugin vendors who own the pieces you're asking about.
+
+You know you've made a real, strategic choice when there's a long list of second-order effects that permeates the entire company.
+
+This is another form of [the Opposite Test](https://longform.asmartbear.com/opposite-test/). Once again, ensuring that "the opposite" isn't trivial or nonsense, is how we know we're saying something real and important. It's true of marketing too.
+
+### 2. Choices have consequences, both desirable and unfortunate
+
+A platitude feels good because it has no downside. How could "great design" be bad? Customers love it, developers are proud of their work, and it reduces support.
+
+If it's all good news, it isn't a real choice, or you aren't grappling with the actual consequences.
+
+"Great design" comes with costs. You need talented designers, which means a larger team. You need engineers who are excited to craft the UX with as much care as they scale the database and want to chase down every last UI bug before adding the next shiny new feature. You invest in design systems. Features and changes take longer because they are required not only to work, but to be well-designed. You say "no" to features customers want if it means the design would worsen. Even then, not all customers agree on what "great design" means, so you thrill some people while irritating others.
+
+A strategic choice is a package deal: you don't get advantages without weaknesses.
+
+When you list the consequences, writing them into the strategy, the decision becomes usable by the whole company. You reduce individual interpretation and you help everyone align their daily decisions.
+
+This also helps you ensure the entire strategy is internally consistent.
+
+### 3. Not just consistent: mutually reinforcing
+
+Use the list of choice-consequences to check for contradictions. Conflicts often hide in the second-order effects.
+
+For example, "small team" and "feature-rich" might look unrelated, but keeping a team small usually means keeping the product small and simple, because the team has to build it, maintain it, support it, and evolve it. That's in conflict with "feature-rich."
+
+But perhaps they're not in conflict after all if we make yet another strategic choice: a small team *can* maintain a small core that is designed for third-party extensions. Then, an ecosystem of plugins and APIs makes the entire product feature-rich after all! Now the choices interlock: "small team," "small core," and "extensible ecosystem." Each drags along its own implications, which surface more choices, and so on. This exploration is how you arrive at a coherent set of decisions.
+
+Even better than "not conflicting" is "reinforcing." "Extensible" helps the product be "feature-rich." A small team forces the core to stay small, maintaining space for the ecosystem to thrive. Each decision makes the next easier and stronger.
+
+When strong choices reinforce each other, the whole company starts to feel like it has a personality--an opinion about How The World Should Be. Some customers won't share that opinion, but the ones who do will love you all the more. [Love is how you win](https://longform.asmartbear.com/willingness-to-pay/).
+
+And everyone at the company can move faster. You stop re-litigating trade-offs. Marketing and sales stay aligned with the product. People have more fun, because coherence feels like competence--and competence feels good.
+
+## Converting weak choices into strong choices
+
+When you're facilitating the creation of strategic choices, you will find that people constantly write weak pseudo-choices that fail the Opposite Test. They already know which side they prefer, so they'd rather make the other side obviously bad--so their choice "wins"--instead of engaging in the struggle of making firm, clear decisions.
+
+![Man at desk has 'In' and 'Out' baskets, and another overflowing basket labeled 'Dither.'](https://public.asmartbear.com/books/anthology/chapters/strategic-choices/d6978print-simple.png)
+
+There's probably a valid perspective hiding under that weakly-worded choice, so your job is to extract the underlying choice that captures that perspective. This can help:
+
+> What are some successful and beloved companies that chose the "bad" side?  
+>   
+> What is the underlying reason why people love that company despite that flaw? What is the thing they love so much, that even though it has this bad consequence, they still love that product?
+
+That "thing they love" is *actually* the other side of the strategic choice.
+
+For example, "well-designed UX, not bad UX" is a fake choice. So ask: what are some reasons that some beloved products have a poor UX? We looked at one reason already: the product is a small core with an ecosystem of plugins and extensions. That flexibility lets third-party software "do anything," which lets customers "do anything," and that's genuinely wonderful... but at the cost of UX coherence.
+
+A real-world example of this is note-taking apps. All-in-one apps like Apple Notes and Bear are beautifully cohesive in part because they control the entire experience--no plugins, not even an API. Meanwhile, competitors like Obsidian offer an incredible array of downloadable functionality. A common complaint is that the UX becomes a hodgepodge, but people love the expansive choice of features and the ability to build their own, custom, ideal information management system. By asking "Why is Obsidian so popular and beloved despite its UX being so messy," you arrive at the real strategic choice, which is "all-in-one vs infinitely extensible," in which design is one important consequence.
+
+## Why not both? Sometimes both? This time both?
+
+Everyone will "cheat" eventually.
+
+Since both sides are desirable, we are tempted to start pulling in facets of the other side. You'll build an all-in-one product, but customers love that a competitor has plugins, so you'll start exploring what it would mean for you to add plugins. Or: "We should raise the price; we're leaving money on the table." Or: "We should slow down and polish this; it's embarrassing." Those temptations feel compelling precisely because the other choice is also smart. Strategy exists so that anyone in the company can confidently say: *Yes, that's a good idea in the abstract, but no, it doesn't fit the bundle of trade-offs we have chosen.*
+
+Still, sometimes it's reasonable to do both. Suppose you've chosen "lowest price," [which often implies lower quality](https://longform.asmartbear.com/never-compete-on-price/), because low prices mandate cost constraints. But sometimes you can improve quality without increasing cost--better design choices, better suppliers, advantages of scale, great employees. Shouldn't you take those wins?
+
+Yes. Take them.
+
+The rule is: **When in conflict, adhere to the strategic choice. When not in conflict, do whatever is best.** When quality and cost don't conflict, take both.
+
+But usually they do conflict. In those moments, you can't satisfy everyone. Some customers want one side of the trade-off; others want the other. If you don't decide consistently, you land in the only truly losing position: not enough quality and design to earn delight and loyalty, but also not enough power and breadth to win complex use cases. You lose both markets, because you claimed "it's a balance" and created something no one is excited to use.
+
+The [Agile Manifesto](https://agilemanifesto.org/) epitomizes this attitude. "Working software over comprehensive documentation" doesn't claim documentation is bad; it says that when time is limited (and it always is), you invest more in one than the other. That's not dogma; it's a mechanism for consistency under pressure. They even underline their intent: "While there is value in the items on the right, we value the items on the left more."
+
+Use the same pattern for strategy. If your strategy is low price, you don't introduce a high-price offering "to get some of those customers." But if your low-price strategy implies lower quality, you happily take higher quality whenever it doesn't threaten the low price decision.
+
+It remains a strict choice, [not a balance](https://longform.asmartbear.com/conflicting-choices/).
+
+## Strategic choice examples
+
+You could incorporate a few of the following into your strategy, and use them to prompt even better ideas:
+
+| **Choice** | **Advantages** | **Weaknesses** |
+|:----|:----|:----|
+| Lowest price over premium price | • Largest possible market, positioned on access and affordability <br/> • Many competitors can never win, just because of price | • Can't afford advertising and sales; word-of-mouth must carry you <br/> • Cost caps materials, performance, and "nice-to-haves," so quality and features hit a ceiling |
+| Premium price over lowest price | • High margins let you outspend competitors on brand, polish, and distribution <br/> • Status signaling becomes a feature: "no one ever got fired for buying this" | • Smaller market where the seller has no power because customers can buy from anyone <br/> • You must continuously fund the brand (marketing, prestige, pay celebs to carry the handbag), or the premium collapses |
+| Cohesive all-in-one UX over extensibility | • "Designed" experience earns delight, trust, and habit--customers feel calm using it <br/> • Support, docs, and onboarding stay simple because there's one blessed path | • You personally own feature breadth; every "just add" request becomes your problem <br/> • Power users leave when they need plugins, scripting, or weird workflows you won't build |
+| Extensible ecosystem over cohesive UX | • Ecosystem creates long-tail capability you'd never staff, and customers love "it does anything" <br/> • Partners build your distribution: integrations and plugins become marketing channels | • UX coherence degrades because standards vary; the product feels like a quilt <br/> • Security, compatibility, and support are a supply-chain problem you don't control |
+| Simple UX over powerful capability | • Short time-to-value drives activation and self-serve growth; users feel smart immediately <br/> • Lower cognitive load reduces churn and support because fewer people get stuck | • You lose complex workflows, governance, and customization deals by design <br/> • You get outmatched on checklists and RFPs where buyers equate "more" with "better" |
+| Powerful capability over simple UX | • You win deep, high-stakes workflows where capability beats elegance, earning high revenue per customer <br/> • High retention because configuration, training, and process integration create switching costs | • Onboarding requires training, setup, and specialists, slowing adoption and expansion <br/> • Support/services become mandatory, and the product becomes something customers "operate" |
+| Minimal support over high-touch support | • Fewer support reps means margins are higher and the team focuses on product instead of tickets <br/> • Forces ruthless usability and docs, so the product scales without human glue | • You can't sell into buyers who require phone numbers, SLAs, and hand-holding <br/> • When users get stuck, they churn silently; you lose the feedback loop that would fix it |
+| High-touch support over minimal support | • Humans bridge gaps competitors can't, creating loyalty and differentiation <br/> • High-touch support becomes a product discovery engine: you learn faster because you hear the truth daily | • Expensive and hard to scale; load rises with customers unless you redesign the model <br/> • Creates 24/7 expectations and a dependency you can't remove without breaking retention |
+| Small-team simplicity over enterprise complexity | • Shorter sales cycles: fewer committees, pilots, and procurement rituals <br/> • Low implementation burden means customers succeed without consultants and long projects | • You lose enterprise deals that require governance, audits, and corporate integrations <br/> • Constant pressure for "just one more thing" slowly rots the simplicity you sell |
+| Enterprise complexity over small-team simplicity | • You pass procurement gates and unlock big budgets once embedded into org processes <br/> • Integrations, permissions, and governance create real lock-in and retention | • Long sales cycles require cash, patience, and a sales machine <br/> • Product and UX bloat spreads everywhere because every screen must honor roles and policies |
+| Cutting-edge speed over rock-solid stability | • Novelty differentiates; you ship what competitors can't (yet) and earn attention <br/> • Attracts builders and early adopters who want the frontier | • Bugs, breakage, and confusion become part of the brand <br/> • Customers pay change-management tax, so conservative use cases churn and avoid you |
+| Rock-solid stability over cutting-edge speed | • Trust becomes the moat for critical workflows; customers fear switching away <br/> • Lower support load and lower churn because "it never breaks" beats "it's new" | • You are slow; visible novelty wins attention and budget <br/> • You miss frontier opportunities, and might even become obsolete |
+| Open source over closed source | • Lower trust barrier: prospects can try, inspect, and adopt without begging permission <br/> • Community accelerates features and integrations you wouldn't fund internally | • Monetization is hard because the core feels "free" and competitors have the same product <br/> • Governance and maintenance become political and exhausting, and expectations rise because flaws stay visible |
+| Closed source over open source | • Full control of roadmap, UX coherence, licensing, packaging, and pricing power <br/> • Simpler governance: no community factions, forks, or public roadmap brawls | • Adoption slows in segments that demand transparency or fear lock-in <br/> • You fund velocity yourself; you lose community leverage and must manufacture trust signals |
+| Fewer, better features over more features | • Polish and coherence create delight, retention, and word-of-mouth <br/> • Lower complexity means fewer bugs, fewer docs, fewer tickets, and faster iteration | • You lose on checklists and RFPs where feature count masquerades as value <br/> • You under-serve edge cases that matter deeply to certain segments, and they churn loudly |
+| More features over fewer, better features | • You win procurement comparisons by checking more boxes out of the gate <br/> • Broader coverage expands market and creates more upsell paths | • Quality becomes uneven because breadth steals time from polish and reliability <br/> • UX coherence collapses as features accrete, and support/docs explode with new failure modes |
+
+---
+
+The weaknesses of your choices are painful to accept. The advantages of the opposite choices sound wonderful. Welcome to strategy, where you make hard choices.
+
+If the choice wasn't hard to make, it wasn't actually a choice.
+
+Make the hard choices now, relieving everyone else of that burden, and allowing them to make [smart decisions independently](https://longform.asmartbear.com/in-command/).

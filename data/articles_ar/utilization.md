@@ -1,22 +1,37 @@
 ---
 id: 91
 title_en: "Your non-linear problem of 90% utilization"
-title_ar: "Your non-linear problem of 90% utilization"
+title_ar: "المشكلة غير الخطية لنسبة استغلال الموارد بنسبة 90%"
 slug: "utilization"
 url: "https://longform.asmartbear.com/utilization/"
-pubDate: "Tue, 08 Dec 2015 00:00:00 +0000"
+published_date: "Tue, 08 Dec 2015 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Is everyone working very hard, all the time, and yet accomplishing 1/10th of what it seems they should? Maybe this is why."
-summary_ar: "Is everyone working very hard, all the time, and yet accomplishing 1/10th of what it seems they should? Maybe this is why."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Your non-linear problem of 90% utilization'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Your non-linear problem of 90% utilization
+# المشكلة غير الخطية لنسبة استغلال الموارد بنسبة 90%
 ### Your non-linear problem of 90% utilization
 
-> **الملخص التنفيذي:** Is everyone working very hard, all the time, and yet accomplishing 1/10th of what it seems they should? Maybe this is why.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Your non-linear problem of 90% utilization'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/utilization/](https://longform.asmartbear.com/utilization/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** المشكلة غير الخطية لنسبة استغلال الموارد بنسبة 90% تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Your non-linear problem of 90% utilization
+
+> **Executive Summary:** Is everyone working very hard, all the time, and yet accomplishing 1/10th of what it seems they should? Maybe this is why.
+> **Original URL:** [https://longform.asmartbear.com/utilization/](https://longform.asmartbear.com/utilization/)
 
 ![youve got meetings and then pencilled in self immolation](https://public.asmartbear.com/books/anthology/chapters/utilization/d7019print-simple.png)
 

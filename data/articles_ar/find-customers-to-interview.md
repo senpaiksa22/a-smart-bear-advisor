@@ -1,34 +1,49 @@
 ---
 id: 21
 title_en: "When you have nothing: How to find potential customers to interview"
-title_ar: "عندما لا يكون لديك شيء: كيفية العثور على العملاء المحتملين لإجراء مقابلات معهم"
+title_ar: "عندما لا تملك شيئاً: كيف تجد العملاء المحتملين لإجراء مقابلات معهم"
 slug: "find-customers-to-interview"
 url: "https://longform.asmartbear.com/find-customers-to-interview/"
-pubDate: "Sun, 22 Dec 2024 00:00:00 +0000"
+published_date: "Sun, 22 Dec 2024 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "How to find potential customers to interview before you have a product, a website, or even a name."
 summary_ar: "كيفية العثور على العملاء المحتملين لإجراء مقابلات معهم قبل أن يكون لديك منتج أو موقع ويب أو حتى اسم."
 ---
 
-# عندما لا يكون لديك شيء: كيفية العثور على العملاء المحتملين لإجراء مقابلات معهم
+# عندما لا تملك شيئاً: كيف تجد العملاء المحتملين لإجراء مقابلات معهم
 ### When you have nothing: How to find potential customers to interview
 
 > **الملخص التنفيذي:** كيفية العثور على العملاء المحتملين لإجراء مقابلات معهم قبل أن يكون لديك منتج أو موقع ويب أو حتى اسم.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/find-customers-to-interview/](https://longform.asmartbear.com/find-customers-to-interview/)
 
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** عندما لا تملك شيئاً: كيف تجد العملاء المحتملين لإجراء مقابلات معهم تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# When you have nothing: How to find potential customers to interview
+
+> **Executive Summary:** How to find potential customers to interview before you have a product, a website, or even a name.
+> **Original URL:** [https://longform.asmartbear.com/find-customers-to-interview/](https://longform.asmartbear.com/find-customers-to-interview/)
+
 ![super dark bachelor number three have to admit im intrigued](https://public.asmartbear.com/books/anthology/chapters/find-customers-to-interview/d8176print-simple.png)
 
-بغض النظر عن عدد الميزات، بغض النظر عن مدى روعة تجربة المستخدم، بغض النظر عن مدى روعة الذكاء الاصطناعي، إذا كان الناس لا يهتمون، أو لا يريدون دفع ثمنه، أو يريدون أن يعمل بشكل مختلف، فسوف تفشل شركتك.
+No matter how many features, no matter how great the UX, no matter how cool the AI, if people don't care, or don't want to pay for it, or want it to work differently, then your company will fail.
 
-أنت تعرف؛ أنت تعلم أيضًا أنه يجب عليك إجراء مقابلات مع العملاء المحتملين *قبل* البدء في البناء.
+You know; you also know you should interview potential customers *before* you start building.
 
 But **how do you find these potential customers?** How do you get them to talk to you, when you have no brand and no product?
 
-## القواعد الأساسية
+## Ground rules
 
-*نصائح عامة تنطبق على جميع التقنيات:*
+*General advice applying across all techniques:*
 
 1. **Only interview your [ICP](https://longform.asmartbear.com/icp-ideal-customer-persona/).** Early on, you're not entirely sure who that is--fair enough--but you have a general sense. Family and friends will tell you "that sounds cool" and cannot tell you whether *actual* potential customers agree, and want to pay. Go where the ICPs are.
 2. **"Good enough" is good enough at first.** Best is an hour-long interview as described in the guide referenced above. But beggars can't be choosers, so it's OK if it's partial or otherwise not ideal. If you run a partial interview, and the other person seems interested, **always ask for a follow-up** so you can go deeper; that will be 10x more valuable.
@@ -175,8 +190,10 @@ There are 4 million podcasts; most are defunct, and most have no listeners. But 
 Or, create your own. It's more work, but it can become a long-term marketing channel, as it is for [Steve McLeod](https://featureupvote.com/):
 
 > I have a podcast for the purpose of contacting my ICP and inviting them to talk about themselves for 30 minutes.  
+>   
 > The podcast description states that it is for my ICP. Once I had done a few episodes, people with my ICP started hearing about it and would then contact me and asking to be interviewed.  
 > What about just one line?  
+>   
 > I now have a nice waiting list of people wanting to be interviewed.
 
 ### Cold outreach (email, DMs, social)

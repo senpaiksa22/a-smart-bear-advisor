@@ -1,22 +1,37 @@
 ---
 id: 140
 title_en: "The full story of \"the one important thing\" for startups"
-title_ar: "The full story of \"the one important thing\" for startups"
+title_ar: "القصة الكاملة لـ 'الشيء الوحيد الأهم' لنجاح الشركات الناشئة"
 slug: "one-priority"
 url: "https://longform.asmartbear.com/one-priority/"
-pubDate: "Mon, 03 Oct 2011 08:00:00 +0000"
+published_date: "Mon, 03 Oct 2011 08:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "Forget small tweaks; startups should focus on one, most-critical metric, seeking only large effects."
-summary_ar: "Forget small tweaks; startups should focus on one, most-critical metric, seeking only large effects."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'القصة الكاملة لـ 'الشيء الوحيد الأهم' لنجاح الشركات الناشئة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The full story of "the one important thing" for startups
+# القصة الكاملة لـ 'الشيء الوحيد الأهم' لنجاح الشركات الناشئة
 ### The full story of "the one important thing" for startups
 
-> **الملخص التنفيذي:** Forget small tweaks; startups should focus on one, most-critical metric, seeking only large effects.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'القصة الكاملة لـ 'الشيء الوحيد الأهم' لنجاح الشركات الناشئة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/one-priority/](https://longform.asmartbear.com/one-priority/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** القصة الكاملة لـ 'الشيء الوحيد الأهم' لنجاح الشركات الناشئة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The full story of "the one important thing" for startups
+
+> **Executive Summary:** Forget small tweaks; startups should focus on one, most-critical metric, seeking only large effects.
+> **Original URL:** [https://longform.asmartbear.com/one-priority/](https://longform.asmartbear.com/one-priority/)
 
 You might assume that I have no major blind spots when it comes building little tech startups. I pontificate on concepts that I learned through [hard work](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/), [luck](https://longform.asmartbear.com/lucky/), [observation](https://longform.asmartbear.com/avoid-blundering/), and [failure](https://longform.asmartbear.com/startup-drake-equation/), so surely I have all my bases covered. No stupid mistakes happening over here, no sir.
 

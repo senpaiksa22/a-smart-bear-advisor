@@ -1,22 +1,37 @@
 ---
 id: 49
 title_en: "Stop saying \"fail\""
-title_ar: "Stop saying \"fail\""
+title_ar: "أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود الاقتصادي"
 slug: "fail"
 url: "https://longform.asmartbear.com/fail/"
-pubDate: "Sun, 10 Sep 2023 00:00:00 +0000"
+published_date: "Sun, 10 Sep 2023 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Language shapes our perception of setbacks. Use words other than \"failure\" to describe situations and to suggest the next step."
-summary_ar: "Language shapes our perception of setbacks. Use words other than \"failure\" to describe situations and to suggest the next step."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود الاقتصادي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Stop saying "fail"
+# أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود الاقتصادي
 ### Stop saying "fail"
 
-> **الملخص التنفيذي:** Language shapes our perception of setbacks. Use words other than "failure" to describe situations and to suggest the next step.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود الاقتصادي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/fail/](https://longform.asmartbear.com/fail/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود الاقتصادي تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Stop saying "fail"
+
+> **Executive Summary:** Language shapes our perception of setbacks. Use words other than "failure" to describe situations and to suggest the next step.
+> **Original URL:** [https://longform.asmartbear.com/fail/](https://longform.asmartbear.com/fail/)
 
 ![instead failure rebrand dark gritty reboot previous profits](https://public.asmartbear.com/books/anthology/chapters/fail/d7618print-simple.png)
 

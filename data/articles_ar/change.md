@@ -1,22 +1,37 @@
 ---
 id: 80
 title_en: "Change: Damned if you do, damned more if you don't"
-title_ar: "Change: Damned if you do, damned more if you don't"
+title_ar: "التغيير في الشركات: ملعون إذا قمت به، وملعون أكثر إذا لم تفعل"
 slug: "change"
 url: "https://longform.asmartbear.com/change/"
-pubDate: "Sat, 19 Aug 2017 00:00:00 +0000"
+published_date: "Sat, 19 Aug 2017 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Everyone wants change, but doesn't want to change. Though inevitable, change is uncomfortable and exhausting. Manage it with kindness."
-summary_ar: "Everyone wants change, but doesn't want to change. Though inevitable, change is uncomfortable and exhausting. Manage it with kindness."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Change: Damned if you do, damned more if you don't'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Change: Damned if you do, damned more if you don't
+# التغيير في الشركات: ملعون إذا قمت به، وملعون أكثر إذا لم تفعل
 ### Change: Damned if you do, damned more if you don't
 
-> **الملخص التنفيذي:** Everyone wants change, but doesn't want to change. Though inevitable, change is uncomfortable and exhausting. Manage it with kindness.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Change: Damned if you do, damned more if you don't'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/change/](https://longform.asmartbear.com/change/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التغيير في الشركات: ملعون إذا قمت به، وملعون أكثر إذا لم تفعل تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Change: Damned if you do, damned more if you don't
+
+> **Executive Summary:** Everyone wants change, but doesn't want to change. Though inevitable, change is uncomfortable and exhausting. Manage it with kindness.
+> **Original URL:** [https://longform.asmartbear.com/change/](https://longform.asmartbear.com/change/)
 
 ![Top workplace complaints: (1) the way things are; (2) change](https://public.asmartbear.com/books/anthology/chapters/change/image-simple.png)
 

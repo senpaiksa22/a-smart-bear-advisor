@@ -1,22 +1,37 @@
 ---
 id: 90
 title_en: "Darwin doesn't automatically select the best companies"
-title_ar: "Darwin doesn't automatically select the best companies"
+title_ar: "التطور الدارويني لا يختار بالضرورة الشركات الأفضل لتفوز"
 slug: "darwinian-company-growth"
 url: "https://longform.asmartbear.com/darwinian-company-growth/"
-pubDate: "Tue, 23 Feb 2016 00:00:00 +0000"
+published_date: "Tue, 23 Feb 2016 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "\"Survival of the fittest\" is not the same thing as \"survival of the best.\" Founders have the responsibility to solve both for growth and the betterment of the world."
-summary_ar: "\"Survival of the fittest\" is not the same thing as \"survival of the best.\" Founders have the responsibility to solve both for growth and the betterment of the world."
+summary_ar: "\"
 ---
 
-# Darwin doesn't automatically select the best companies
+# التطور الدارويني لا يختار بالضرورة الشركات الأفضل لتفوز
 ### Darwin doesn't automatically select the best companies
 
-> **الملخص التنفيذي:** "Survival of the fittest" is not the same thing as "survival of the best." Founders have the responsibility to solve both for growth and the betterment of the world.
+> **الملخص التنفيذي:** \
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/darwinian-company-growth/](https://longform.asmartbear.com/darwinian-company-growth/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التطور الدارويني لا يختار بالضرورة الشركات الأفضل لتفوز تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Darwin doesn't automatically select the best companies
+
+> **Executive Summary:** "Survival of the fittest" is not the same thing as "survival of the best." Founders have the responsibility to solve both for growth and the betterment of the world.
+> **Original URL:** [https://longform.asmartbear.com/darwinian-company-growth/](https://longform.asmartbear.com/darwinian-company-growth/)
 
 ![its fad](https://public.asmartbear.com/books/anthology/chapters/darwinian-company-growth/d1914print-simple.png)
 

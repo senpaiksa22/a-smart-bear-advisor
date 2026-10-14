@@ -1,22 +1,37 @@
 ---
 id: 122
 title_en: "A compass is not a map"
-title_ar: "A compass is not a map"
+title_ar: "البوصلة الاستراتيجية ليست خريطة تفصيلية: كيف تقود وسط الضباب"
 slug: "compass"
 url: "https://longform.asmartbear.com/compass/"
-pubDate: "Tue, 29 Jan 2013 00:00:00 +0000"
+published_date: "Tue, 29 Jan 2013 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "A compass tells you which way is north, not whether you should be heading north. So what is the map to startup success?"
-summary_ar: "A compass tells you which way is north, not whether you should be heading north. So what is the map to startup success?"
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'البوصلة الاستراتيجية ليست خريطة تفصيلية: كيف تقود وسط الضباب'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# A compass is not a map
+# البوصلة الاستراتيجية ليست خريطة تفصيلية: كيف تقود وسط الضباب
 ### A compass is not a map
 
-> **الملخص التنفيذي:** A compass tells you which way is north, not whether you should be heading north. So what is the map to startup success?
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'البوصلة الاستراتيجية ليست خريطة تفصيلية: كيف تقود وسط الضباب'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/compass/](https://longform.asmartbear.com/compass/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** البوصلة الاستراتيجية ليست خريطة تفصيلية: كيف تقود وسط الضباب تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# A compass is not a map
+
+> **Executive Summary:** A compass tells you which way is north, not whether you should be heading north. So what is the map to startup success?
+> **Original URL:** [https://longform.asmartbear.com/compass/](https://longform.asmartbear.com/compass/)
 
 ![Two desks - one reads 'Security Desk', other reads 'Insecurity Desk.'](https://public.asmartbear.com/books/anthology/chapters/compass/d1505print-simple.png)
 

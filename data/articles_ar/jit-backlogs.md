@@ -1,22 +1,37 @@
 ---
 id: 62
 title_en: "JIT selection from independent streams: An alternative to the \"big backlog\" of work"
-title_ar: "JIT selection from independent streams: An alternative to the \"big backlog\" of work"
+title_ar: "إدارة المهام في الوقت المناسب (JIT): بديل لقوائم المهام الضخمة المتراكمة"
 slug: "jit-backlogs"
 url: "https://longform.asmartbear.com/jit-backlogs/"
-pubDate: "Tue, 23 Aug 2022 00:00:00 +0000"
+published_date: "Tue, 23 Aug 2022 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "The vaunted \"single-threaded, ordered list\" confuses \"prioritization\" with \"work-planning,\" and forces comparisons of the un-comparable. Here's the solution."
-summary_ar: "The vaunted \"single-threaded, ordered list\" confuses \"prioritization\" with \"work-planning,\" and forces comparisons of the un-comparable. Here's the solution."
+summary_ar: "The vaunted \"
 ---
 
-# JIT selection from independent streams: An alternative to the "big backlog" of work
+# إدارة المهام في الوقت المناسب (JIT): بديل لقوائم المهام الضخمة المتراكمة
 ### JIT selection from independent streams: An alternative to the "big backlog" of work
 
-> **الملخص التنفيذي:** The vaunted "single-threaded, ordered list" confuses "prioritization" with "work-planning," and forces comparisons of the un-comparable. Here's the solution.
+> **الملخص التنفيذي:** The vaunted \
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/jit-backlogs/](https://longform.asmartbear.com/jit-backlogs/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** إدارة المهام في الوقت المناسب (JIT): بديل لقوائم المهام الضخمة المتراكمة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# JIT selection from independent streams: An alternative to the "big backlog" of work
+
+> **Executive Summary:** The vaunted "single-threaded, ordered list" confuses "prioritization" with "work-planning," and forces comparisons of the un-comparable. Here's the solution.
+> **Original URL:** [https://longform.asmartbear.com/jit-backlogs/](https://longform.asmartbear.com/jit-backlogs/)
 
 ![moved everything from to do list to it is what it is list](https://public.asmartbear.com/books/anthology/chapters/jit-backlogs/d7045print-simple.png)
 
@@ -38,7 +53,7 @@ You might say, "But we should work on whatever is most important, right?" By unp
 
 ## Why "the big backlog of work" isn't good for prioritization
 
-### تحديد الأولويات
+### Prioritization
 
 If prioritization answers "What is most important," it raises another question: What do we mean by "important?"
 

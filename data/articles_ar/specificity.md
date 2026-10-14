@@ -1,22 +1,37 @@
 ---
 id: 150
 title_en: "Specificity: A weapon of mass effectiveness"
-title_ar: "Specificity: A weapon of mass effectiveness"
+title_ar: "التحديد والدقة الفائقة: سلاحك الفعال للإنجاز والإقناع"
 slug: "specificity"
 url: "https://longform.asmartbear.com/specificity/"
-pubDate: "Mon, 28 Mar 2011 00:00:00 +0000"
+published_date: "Mon, 28 Mar 2011 00:00:00 +0000"
 category_en: "Foundational Philosophy & Startup Wisdom"
 category_ar: "فلسفة ريادة الأعمال والحكمة التأسيسية"
 summary_en: "Want to write better? Swap generic words for specifics to make your text clear, powerful, engaging, and even funny."
-summary_ar: "Want to write better? Swap generic words for specifics to make your text clear, powerful, engaging, and even funny."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التحديد والدقة الفائقة: سلاحك الفعال للإنجاز والإقناع'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Specificity: A weapon of mass effectiveness
+# التحديد والدقة الفائقة: سلاحك الفعال للإنجاز والإقناع
 ### Specificity: A weapon of mass effectiveness
 
-> **الملخص التنفيذي:** Want to write better? Swap generic words for specifics to make your text clear, powerful, engaging, and even funny.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التحديد والدقة الفائقة: سلاحك الفعال للإنجاز والإقناع'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** فلسفة ريادة الأعمال والحكمة التأسيسية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/specificity/](https://longform.asmartbear.com/specificity/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التحديد والدقة الفائقة: سلاحك الفعال للإنجاز والإقناع تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Specificity: A weapon of mass effectiveness
+
+> **Executive Summary:** Want to write better? Swap generic words for specifics to make your text clear, powerful, engaging, and even funny.
+> **Original URL:** [https://longform.asmartbear.com/specificity/](https://longform.asmartbear.com/specificity/)
 
 ![were really more of department](https://public.asmartbear.com/books/anthology/chapters/specificity/d5005print-simple.png)
 

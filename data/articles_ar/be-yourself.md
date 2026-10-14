@@ -1,22 +1,37 @@
 ---
 id: 143
 title_en: "Being who you are, while becoming better"
-title_ar: "Being who you are, while becoming better"
+title_ar: "كن نفسك في قيادتك، مع الاستمرار في تطوير نقاط ضعفك"
 slug: "be-yourself"
 url: "https://longform.asmartbear.com/be-yourself/"
-pubDate: "Mon, 22 Aug 2011 00:00:00 +0000"
+published_date: "Mon, 22 Aug 2011 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "We're told \"be yourself\" to seek happiness and success. But what if \"being yourself\" also means striving to become better? What is \"yourself?\""
-summary_ar: "We're told \"be yourself\" to seek happiness and success. But what if \"being yourself\" also means striving to become better? What is \"yourself?\""
+summary_ar: "We're told \"
 ---
 
-# Being who you are, while becoming better
+# كن نفسك في قيادتك، مع الاستمرار في تطوير نقاط ضعفك
 ### Being who you are, while becoming better
 
-> **الملخص التنفيذي:** We're told "be yourself" to seek happiness and success. But what if "being yourself" also means striving to become better? What is "yourself?"
+> **الملخص التنفيذي:** We're told \
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/be-yourself/](https://longform.asmartbear.com/be-yourself/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كن نفسك في قيادتك، مع الاستمرار في تطوير نقاط ضعفك تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Being who you are, while becoming better
+
+> **Executive Summary:** We're told "be yourself" to seek happiness and success. But what if "being yourself" also means striving to become better? What is "yourself?"
+> **Original URL:** [https://longform.asmartbear.com/be-yourself/](https://longform.asmartbear.com/be-yourself/)
 
 ![Lady Gaga wearing her meat dress](https://public.asmartbear.com/books/anthology/chapters/be-yourself/image-simple.png)
 

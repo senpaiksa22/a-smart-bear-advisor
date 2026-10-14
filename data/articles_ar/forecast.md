@@ -1,22 +1,37 @@
 ---
 id: 88
 title_en: "How to measure the accuracy of forecasts"
-title_ar: "How to measure the accuracy of forecasts"
+title_ar: "كيف تقيس الدقة الحقيقية لتوقعاتك المالية ومخططات النمو؟"
 slug: "forecast"
 url: "https://longform.asmartbear.com/forecast/"
-pubDate: "Tue, 28 Jun 2016 00:00:00 +0000"
+published_date: "Tue, 28 Jun 2016 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "How do you assess forecasts, when the forecast is only a probability? It's not just about accuracy. Let's dive into the math."
-summary_ar: "How do you assess forecasts, when the forecast is only a probability? It's not just about accuracy. Let's dive into the math."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How to measure the accuracy of forecasts'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# How to measure the accuracy of forecasts
+# كيف تقيس الدقة الحقيقية لتوقعاتك المالية ومخططات النمو؟
 ### How to measure the accuracy of forecasts
 
-> **الملخص التنفيذي:** How do you assess forecasts, when the forecast is only a probability? It's not just about accuracy. Let's dive into the math.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How to measure the accuracy of forecasts'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/forecast/](https://longform.asmartbear.com/forecast/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كيف تقيس الدقة الحقيقية لتوقعاتك المالية ومخططات النمو؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# How to measure the accuracy of forecasts
+
+> **Executive Summary:** How do you assess forecasts, when the forecast is only a probability? It's not just about accuracy. Let's dive into the math.
+> **Original URL:** [https://longform.asmartbear.com/forecast/](https://longform.asmartbear.com/forecast/)
 
 ![and now the 7 day forecast](https://public.asmartbear.com/books/anthology/chapters/forecast/d6825print-simple.png)
 

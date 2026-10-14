@@ -1,22 +1,37 @@
 ---
 id: 177
 title_en: "Discover what's blocking sales with less than a day of work"
-title_ar: "Discover what's blocking sales with less than a day of work"
+title_ar: "اكتشف ما يعطل مبيعاتك في أقل من يوم عمل واحد عبر ملاحظات العملاء"
 slug: "more-sales-customer-feedback"
 url: "https://longform.asmartbear.com/more-sales-customer-feedback/"
-pubDate: "Mon, 28 Sep 2009 08:00:00 +0000"
+published_date: "Mon, 28 Sep 2009 08:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Uncover sales blockers in 24 hours with these 11 strategies."
-summary_ar: "Uncover sales blockers in 24 hours with these 11 strategies."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'اكتشف ما يعطل مبيعاتك في أقل من يوم عمل واحد عبر ملاحظات العملاء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Discover what's blocking sales with less than a day of work
+# اكتشف ما يعطل مبيعاتك في أقل من يوم عمل واحد عبر ملاحظات العملاء
 ### Discover what's blocking sales with less than a day of work
 
-> **الملخص التنفيذي:** Uncover sales blockers in 24 hours with these 11 strategies.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'اكتشف ما يعطل مبيعاتك في أقل من يوم عمل واحد عبر ملاحظات العملاء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/more-sales-customer-feedback/](https://longform.asmartbear.com/more-sales-customer-feedback/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** اكتشف ما يعطل مبيعاتك في أقل من يوم عمل واحد عبر ملاحظات العملاء تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Discover what's blocking sales with less than a day of work
+
+> **Executive Summary:** Uncover sales blockers in 24 hours with these 11 strategies.
+> **Original URL:** [https://longform.asmartbear.com/more-sales-customer-feedback/](https://longform.asmartbear.com/more-sales-customer-feedback/)
 
 Last week I beat you up about why the [number one way to increase revenue is by getting feedback from lost sales](https://longform.asmartbear.com/put-down-the-compiler/). Feedback from the field--*not* adding new features, *not* polishing the website, *not* even talking to existing customers.
 

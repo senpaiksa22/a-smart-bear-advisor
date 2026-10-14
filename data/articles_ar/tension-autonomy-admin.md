@@ -1,22 +1,37 @@
 ---
 id: 29
 title_en: "Individual efficiency vs administrative efficiency"
-title_ar: "Individual efficiency vs administrative efficiency"
+title_ar: "الكفاءة الفردية مقابل الكفاءة الإدارية: إدارة التناقض الصعب"
 slug: "tension-autonomy-admin"
 url: "https://longform.asmartbear.com/tension-autonomy-admin/"
-pubDate: "Sun, 11 Aug 2024 00:00:00 +0000"
+published_date: "Sun, 11 Aug 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "When to prioritize individual autonomy, and when to standardize for global optimization."
-summary_ar: "When to prioritize individual autonomy, and when to standardize for global optimization."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Individual efficiency vs administrative efficiency'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Individual efficiency vs administrative efficiency
+# الكفاءة الفردية مقابل الكفاءة الإدارية: إدارة التناقض الصعب
 ### Individual efficiency vs administrative efficiency
 
-> **الملخص التنفيذي:** When to prioritize individual autonomy, and when to standardize for global optimization.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Individual efficiency vs administrative efficiency'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/tension-autonomy-admin/](https://longform.asmartbear.com/tension-autonomy-admin/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الكفاءة الفردية مقابل الكفاءة الإدارية: إدارة التناقض الصعب تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Individual efficiency vs administrative efficiency
+
+> **Executive Summary:** When to prioritize individual autonomy, and when to standardize for global optimization.
+> **Original URL:** [https://longform.asmartbear.com/tension-autonomy-admin/](https://longform.asmartbear.com/tension-autonomy-admin/)
 
 ![Don't get me wrong, I'm no fan of the heat or the backbreaking toil. It's the corresponding paperwork that gets me.](https://public.asmartbear.com/books/anthology/chapters/tension-autonomy-admin/d8967print-simple.png)
 

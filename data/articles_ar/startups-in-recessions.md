@@ -1,22 +1,37 @@
 ---
 id: 185
 title_en: "Too small to fail: How startups can grow in recessions"
-title_ar: "Too small to fail: How startups can grow in recessions"
+title_ar: "أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود"
 slug: "startups-in-recessions"
 url: "https://longform.asmartbear.com/startups-in-recessions/"
-pubDate: "Mon, 08 Jun 2009 08:00:00 +0000"
+published_date: "Mon, 08 Jun 2009 08:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "These two little startups are exploding in sales, even in recession. Here's how they're doing it, and how you can too."
-summary_ar: "These two little startups are exploding in sales, even in recession. Here's how they're doing it, and how you can too."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Too small to fail: How startups can grow in recessions
+# أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود
 ### Too small to fail: How startups can grow in recessions
 
-> **الملخص التنفيذي:** These two little startups are exploding in sales, even in recession. Here's how they're doing it, and how you can too.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/startups-in-recessions/](https://longform.asmartbear.com/startups-in-recessions/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Too small to fail: How startups can grow in recessions
+
+> **Executive Summary:** These two little startups are exploding in sales, even in recession. Here's how they're doing it, and how you can too.
+> **Original URL:** [https://longform.asmartbear.com/startups-in-recessions/](https://longform.asmartbear.com/startups-in-recessions/)
 
 **A little product called [Bingo Card Creator](http://www.bingocardcreator.com/) just had its biggest month ever.** [Patrick McKenzie](http://www.kalzumeus.com/about/) runs this one-man software company.
 

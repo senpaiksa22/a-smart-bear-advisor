@@ -1,22 +1,37 @@
 ---
 id: 73
 title_en: "Who's lying?"
-title_ar: "Who's lying?"
+title_ar: "من الذي يكذب في عالم الشركات الناشئة؟"
 slug: "whos-lying"
 url: "https://longform.asmartbear.com/whos-lying/"
-pubDate: "Sat, 26 Feb 2022 00:00:00 +0000"
+published_date: "Sat, 26 Feb 2022 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "A lesson all pilots know: How you must use multiple dials, employing different sources of energy, to report identical data, because some of it is always lying."
-summary_ar: "A lesson all pilots know: How you must use multiple dials, employing different sources of energy, to report identical data, because some of it is always lying."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Who's lying?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Who's lying?
+# من الذي يكذب في عالم الشركات الناشئة؟
 ### Who's lying?
 
-> **الملخص التنفيذي:** A lesson all pilots know: How you must use multiple dials, employing different sources of energy, to report identical data, because some of it is always lying.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Who's lying?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/whos-lying/](https://longform.asmartbear.com/whos-lying/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** من الذي يكذب في عالم الشركات الناشئة؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Who's lying?
+
+> **Executive Summary:** A lesson all pilots know: How you must use multiple dials, employing different sources of energy, to report identical data, because some of it is always lying.
+> **Original URL:** [https://longform.asmartbear.com/whos-lying/](https://longform.asmartbear.com/whos-lying/)
 
 ![i know its wrong im just waiting for the autocorrect](https://public.asmartbear.com/books/anthology/chapters/whos-lying/d6782print-simple.png)
 

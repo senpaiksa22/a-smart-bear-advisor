@@ -1,22 +1,37 @@
 ---
 id: 187
 title_en: "How to get customers who love you even when you screw up"
-title_ar: "How to get customers who love you even when you screw up"
+title_ar: "كيف تكسب عملاء يحبون شركتك حتى عندما ترتكب أخطاء برمجية"
 slug: "customer-love"
 url: "https://longform.asmartbear.com/customer-love/"
-pubDate: "Mon, 13 Apr 2009 00:00:00 +0000"
+published_date: "Mon, 13 Apr 2009 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Customers love you when you're honest, even about your foibles. We forgive honest mistakes from earnest people, not stolid, cold, inhuman corporations."
-summary_ar: "Customers love you when you're honest, even about your foibles. We forgive honest mistakes from earnest people, not stolid, cold, inhuman corporations."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف تكسب عملاء يحبون شركتك حتى عندما ترتكب أخطاء برمجية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# How to get customers who love you even when you screw up
+# كيف تكسب عملاء يحبون شركتك حتى عندما ترتكب أخطاء برمجية
 ### How to get customers who love you even when you screw up
 
-> **الملخص التنفيذي:** Customers love you when you're honest, even about your foibles. We forgive honest mistakes from earnest people, not stolid, cold, inhuman corporations.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف تكسب عملاء يحبون شركتك حتى عندما ترتكب أخطاء برمجية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/customer-love/](https://longform.asmartbear.com/customer-love/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كيف تكسب عملاء يحبون شركتك حتى عندما ترتكب أخطاء برمجية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# How to get customers who love you even when you screw up
+
+> **Executive Summary:** Customers love you when you're honest, even about your foibles. We forgive honest mistakes from earnest people, not stolid, cold, inhuman corporations.
+> **Original URL:** [https://longform.asmartbear.com/customer-love/](https://longform.asmartbear.com/customer-love/)
 
 ![id like drunken college kid right here](https://public.asmartbear.com/books/anthology/chapters/customer-love/d4704print-simple.png)
 

@@ -1,66 +1,81 @@
 ---
 id: 19
 title_en: "\"Stealth mode\" and other f'ing brilliant strategies"
-title_ar: "\"وضع التخفي\" وغيره من الاستراتيجيات الرائعة"
+title_ar: "العمل في الخفاء (Stealth Mode) وغيرها من الاستراتيجيات الكارثية"
 slug: "stealth-mode"
 url: "https://longform.asmartbear.com/stealth-mode/"
-pubDate: "Sun, 19 Jan 2025 00:00:00 +0000"
+published_date: "Sun, 19 Jan 2025 00:00:00 +0000"
 category_en: "Foundational Philosophy & Startup Wisdom"
 category_ar: "فلسفة ريادة الأعمال والحكمة التأسيسية"
 summary_en: "Oh you secretive devil! The last thing you need is anyone finding out about your startup. Like competitors. Or customers."
 summary_ar: "يا أيها الشيطان الخفي! آخر شيء تحتاجه هو أن يعرف أي شخص عن شركتك الناشئة. مثل المنافسين. أو العملاء."
 ---
 
-# "وضع التخفي" وغيره من الاستراتيجيات الرائعة
+# العمل في الخفاء (Stealth Mode) وغيرها من الاستراتيجيات الكارثية
 ### "Stealth mode" and other f'ing brilliant strategies
 
 > **الملخص التنفيذي:** يا أيها الشيطان الخفي! آخر شيء تحتاجه هو أن يعرف أي شخص عن شركتك الناشئة. مثل المنافسين. أو العملاء.
 > **المحور التصنيفي:** فلسفة ريادة الأعمال والحكمة التأسيسية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/stealth-mode/](https://longform.asmartbear.com/stealth-mode/)
 
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** العمل في الخفاء (Stealth Mode) وغيرها من الاستراتيجيات الكارثية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# "Stealth mode" and other f'ing brilliant strategies
+
+> **Executive Summary:** Oh you secretive devil! The last thing you need is anyone finding out about your startup. Like competitors. Or customers.
+> **Original URL:** [https://longform.asmartbear.com/stealth-mode/](https://longform.asmartbear.com/stealth-mode/)
+
 ![bad news something that happened in vegas has been spotted in des moines](https://public.asmartbear.com/books/anthology/chapters/stealth-mode/d6040print-simple.png)
 
-فيما يلي بعض استراتيجياتي الفائزة فائقة السرية خلال 26 عامًا من بناء الشركات الناشئة.
+Here are some of my super-secret winning strategies from 26 years of building startups.
 
-## البقاء في وضع التخفي حتى اللحظة الأخيرة
+## Stay in stealth mode until the last minute
 
-آخر شيء تحتاجه أي شركة ناشئة هو أن يعرف الناس عنها.
+The last thing any startup needs is people finding out about it.
 
-يمكنك جذب الانتباه لاحقًا، فهذا أمر سهل. لا تحتاج إلى إلهاء كل هؤلاء العملاء الذين يصرخون خارج مكتبك، ويتوسلون إلى إعطائك المال، ويقاطعونك عن إعادة هيكلة مخطط قاعدة بيانات NoSQL الخاصة بك.
+You can get attention later--that's easy. You don't need the distraction of all those customers clamoring outside your office, begging to give you money, interrupting you from refactoring your NoSQL database schema.
 
-إنه الموت الفوري إذا أطلق أحد المنافسين في نفس الوقت الذي تنطلق فيه، لذا فمن حقك أن تبقي جميع أفكارك سرية تمامًا. بمجرد إطلاقك، *حينها* سيعرف ملايين الأشخاص عنك، بما في ذلك المنافسون، ولكن بحلول ذلك الوقت ستكون متقدمًا على العالم كله بأربعة أشهر كاملة، مما يجعل المنافسة مستحيلة، حتى لو كانا طفلين من جامعة ستانفورد بتمويل قدره 9,000,000 دولار أمريكي ورياح YC تدعمهما.
+It's instant death if a competitor were to launch at the same time as you, so you're right to keep all your ideas completely secret. Once you launch, *then* millions of people will know about you, including competitors, but by then you'll be a full 4 months ahead of the whole world, making competition impossible, even if they are two Stanford kids with $9,000,000 in funding and the wind of YC at their backs.
 
-وهذا يعني أنه لا يمكنك [التحدث إلى العملاء المحتملين](https://longform.asmartbear.com/customer-development/) أيضًا، لأن الكلمة قد تنتشر! والأسوأ من ذلك: أن بعض هؤلاء العملاء المحتملين - أولئك الذين هم على استعداد بالكاد للتخلي عن 20 دولارًا شهريًا - قد يفضلون توفير هذا المال عن طريق ترك وظائفهم اليومية وبدء شركة جديدة تمامًا لسرقة أموالك. ملاحظاتهم لا تستحق المخاطرة!
+That means you can't [talk to potential customers](https://longform.asmartbear.com/customer-development/) either, because the word might get out! Worse: some of those potential customers--the ones willing barely willing to part with $20/mo--might rather save that money by quitting their day jobs and start a brand new company to rip you off. Their feedback isn't worth the risk!
 
-أوه و*بالتأكيد* لا تتحدث مع رواد الأعمال أو المستشارين الآخرين الذين يمكنهم بالتأكيد تقليد فكرتك. ما عليك سوى قراءة تاريخ أي شركة ناشئة أو [مقابلات مع المشاهير المؤسسون](https://www.amazon.com/gp/product/1430210788?ie=UTF8&amp%3Btag=asmbe-20&amp%3BlinkCode=as2&amp%3Bcamp=1789&amp%3Bcreative=390957&amp%3BcreativeASIN=1430210788) وستجد شيئًا واحدًا مشتركًا -- لا كان لدى أحدهم مرشدين أو وجد أفكارًا قيمة في التدقيق والعصف الذهني مع الأشخاص الذين سلكوا هذا الطريق من قبل.
+Oh and *absolutely* don't talk to other entrepreneurs or advisors who can and surely will copy your idea. Just read the history of any startup or [interviews of famous founders](https://www.amazon.com/gp/product/1430210788?ie=UTF8&amp%3Btag=asmbe-20&amp%3BlinkCode=as2&amp%3Bcamp=1789&amp%3Bcreative=390957&amp%3BcreativeASIN=1430210788) and you'll find one thing in common--no one had mentors or found value vetting ideas and brainstorming with people who have trod this path before.
 
-## احصل عليه بشكل صحيح في المرة الأولى
+## Get it right the first time
 
-نظرًا لأن الملايين من العملاء ينتظرون إصدار كتابك بفارغ الصبر مثل الكتاب التالي في Games of Thrones، *يجب ألا* تخيب آمالهم مطلقًا بـ [الإصدار 1.0 المهتز](https://longform.asmartbear.com/slc/).
+With those millions of customers anxiously awaiting your launch like the next book in Games of Thrones, you absolutely *must not* disappoint them with [a shaky v1.0](https://longform.asmartbear.com/slc/).
 
-انظر حولك - تنتظر شركات البرمجيات الأخرى حتى لا يكون هناك أي أخطاء قبل إصدارها. لهذا السبب ليس لديهم مشاكل في قابلية الاستخدام ولا يفتقرون إلى الميزات المهمة. مع كل هذه المنتجات المكتملة بالكامل، من الغامض سبب وجود أدوات "جمع التعليقات" أو أدوات تتبع الأخطاء. أعتقد أن بعض الناس يستمتعون فقط بإدارة المشاريع. ليس هناك حساب للذوق!
+Look around--other software companies wait until there's no bugs before they release. That's why they have no usability problems nor lack important features. With all those fully-completed products, it's a mystery why "feedback gathering" tools or bug trackers even exist. I guess some people just enjoy project management. There's no accounting for taste!
 
-درهم وقاية خير من قنطار علاج. وهذا يجعل الوقاية أكثر قيمة من العلاج بـ 16 مرة. لذا، خذ وقتك قبل إطلاق سراحك، حتى لو كان ذلك يعني سنوات. الكمال يستحق الانتظار.
+An ounce of prevention is worth a pound of cure. That makes prevention, like, 16x more valuable than cure. So take your time before you release, even if that means years. Perfection is worth the wait.
 
-## لا تسأل أحداً إذا كان سيدفع ثمن منتجك
+## Don't ask anyone if they'd pay for your product
 
-بالطبع سوف يدفعون؛ الرياضيات بسيطة:
+Of course they'll pay; the math is simple:
 
-> سيوفرون 45 دقيقة يوميًا باستخدام منتجك. حتى لو كانوا يقدرون وقتهم بـ 20 دولارًا في الساعة فقط، ويعملون 20 يومًا فقط في الشهر، فهذا يوفر 300 دولارًا في الشهر. تبلغ تكلفة أداتك 20 دولارًا شهريًا، لذا فهذه *آلة طباعة أموال للعملاء!*
+> They'll save 45 minutes a day by using your product. Even if they value their time at only $20/hr, and work only 20 days per month, that's a savings of $300/mo. Your tool is $20/mo, so this *is a money-printing machine for customers!*
 
-لا يستطيع العملاء تحمل عدم شرائه. ربما ينبغي عليهم شرائه مرتين.
+Customers can't afford not to buy it. Maybe they should buy it twice.
 
-هذه هي الطريقة التي يتم بها اتخاذ قرارات الشراء - بطريقة باردة وعقلانية ومبنية على الاقتصاد الجزئي 101 - فلماذا تضيع وقتك ووقتهم فقط للتحقق من ما هو واضح؟
+That's how buying decisions are made--cold, rational, and based on micro-economics 101--so why waste your time and theirs, just to verify the obvious?
 
-## لا تعمل بجد
+## Don't work too hard
 
 ![bear relaxing on a yacht](https://public.asmartbear.com/books/anthology/chapters/stealth-mode/image-simple.png)
 
-إن إنشاء شركة ناشئة أمر صعب بما فيه الكفاية - فلا تجعل الأمر أسوأ من خلال [العمل كثيرًا](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/).
+Building a startup is hard enough--don't make it worse by [working too much](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/).
 
 All the great startup founders are known for 30-hour work-weeks. It's one thing to be passionate--that's great of course--but that doesn't mean you should be waking up at 2am in a cold sweat. You need your sleep!
 
-لم يكن ستيف جوبز يعمل باستمرار، وكان لدى بيل جيتس الكثير من الهوايات، ولم يكن مارك زوكربيرج مقيدًا بجهاز الكمبيوتر المحمول الخاص به، وأصبح تيم فيريس بالفعل من أكثر الكتب مبيعًا من خلال كتابة كتابه ثم الترويج له أثناء العمل لمدة 4 ساعات فقط كل أسبوع.
+Steve Jobs didn't work constantly, Bill Gates had lots of hobbies, Mark Zuckerberg wasn't tethered to his laptop, and Tim Ferris really did become a best-seller by writing and then promoting his book while working just 4 hours each week.
 
 Startups don't require obsession--that's an unhealthy rumor perpetrated by all 2,000 startup founders ever [interviewed on Mixergy](https://mixergy.com/interviews/). They're all lying--they actually lead healthy, balanced lives. They don't want you to know their secret, because this keeps potential competition at bay.
 

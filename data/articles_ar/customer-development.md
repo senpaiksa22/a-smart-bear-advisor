@@ -1,22 +1,37 @@
 ---
 id: 61
 title_en: "The Iterative-Hypothesis customer development method"
-title_ar: "The Iterative-Hypothesis customer development method"
+title_ar: "تطوير العملاء عبر الفرضيات التكرارية: منهجية الوصول للحقيقة الميدانية"
 slug: "customer-development"
 url: "https://longform.asmartbear.com/customer-development/"
-pubDate: "Sat, 17 Sep 2022 00:00:00 +0000"
+published_date: "Sat, 17 Sep 2022 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "A simple but effective system, used to vet what is now a Unicorn, for generating insights about how your potential customers think, what they need, and what they'll buy."
-summary_ar: "A simple but effective system, used to vet what is now a Unicorn, for generating insights about how your potential customers think, what they need, and what they'll buy."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تطوير العملاء عبر الفرضيات التكرارية: منهجية الوصول للحقيقة الميدانية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The Iterative-Hypothesis customer development method
+# تطوير العملاء عبر الفرضيات التكرارية: منهجية الوصول للحقيقة الميدانية
 ### The Iterative-Hypothesis customer development method
 
-> **الملخص التنفيذي:** A simple but effective system, used to vet what is now a Unicorn, for generating insights about how your potential customers think, what they need, and what they'll buy.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تطوير العملاء عبر الفرضيات التكرارية: منهجية الوصول للحقيقة الميدانية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/customer-development/](https://longform.asmartbear.com/customer-development/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** تطوير العملاء عبر الفرضيات التكرارية: منهجية الوصول للحقيقة الميدانية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The Iterative-Hypothesis customer development method
+
+> **Executive Summary:** A simple but effective system, used to vet what is now a Unicorn, for generating insights about how your potential customers think, what they need, and what they'll buy.
+> **Original URL:** [https://longform.asmartbear.com/customer-development/](https://longform.asmartbear.com/customer-development/)
 
 ![plundering small part of job](https://public.asmartbear.com/books/anthology/chapters/customer-development/d8822print-simple.png)
 

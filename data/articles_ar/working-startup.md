@@ -1,22 +1,37 @@
 ---
 id: 169
 title_en: "Employed with a side of startup"
-title_ar: "Employed with a side of startup"
+title_ar: "الجمع بين الوظيفة الثابتة وبناء شركة ناشئة على الهامش"
 slug: "working-startup"
 url: "https://longform.asmartbear.com/working-startup/"
-pubDate: "Mon, 08 Mar 2010 08:00:00 +0000"
+published_date: "Mon, 08 Mar 2010 08:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "Starting a side gig during your 9-to-5: Avoid legal issues and maximize success."
-summary_ar: "Starting a side gig during your 9-to-5: Avoid legal issues and maximize success."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الجمع بين الوظيفة الثابتة وبناء شركة ناشئة على الهامش'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Employed with a side of startup
+# الجمع بين الوظيفة الثابتة وبناء شركة ناشئة على الهامش
 ### Employed with a side of startup
 
-> **الملخص التنفيذي:** Starting a side gig during your 9-to-5: Avoid legal issues and maximize success.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الجمع بين الوظيفة الثابتة وبناء شركة ناشئة على الهامش'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/working-startup/](https://longform.asmartbear.com/working-startup/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الجمع بين الوظيفة الثابتة وبناء شركة ناشئة على الهامش تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Employed with a side of startup
+
+> **Executive Summary:** Starting a side gig during your 9-to-5: Avoid legal issues and maximize success.
+> **Original URL:** [https://longform.asmartbear.com/working-startup/](https://longform.asmartbear.com/working-startup/)
 
 Most people start their first company while they still have a day job.
 

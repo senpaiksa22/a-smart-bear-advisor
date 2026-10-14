@@ -1,22 +1,37 @@
 ---
 id: 138
 title_en: "Hiring Employee #1"
-title_ar: "Hiring Employee #1"
+title_ar: "دليل توظيف الموظف الأول في شركتك الناشئة"
 slug: "startup-hiring-advice"
 url: "https://longform.asmartbear.com/startup-hiring-advice/"
-pubDate: "Mon, 12 Dec 2011 00:00:00 +0000"
+published_date: "Mon, 12 Dec 2011 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "If you want another pair of hands to screw things up, how do you acquire resumes, pair them down, and identify someone who is going to work well in your company?"
-summary_ar: "If you want another pair of hands to screw things up, how do you acquire resumes, pair them down, and identify someone who is going to work well in your company?"
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'دليل توظيف الموظف الأول في شركتك الناشئة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Hiring Employee #1
+# دليل توظيف الموظف الأول في شركتك الناشئة
 ### Hiring Employee #1
 
-> **الملخص التنفيذي:** If you want another pair of hands to screw things up, how do you acquire resumes, pair them down, and identify someone who is going to work well in your company?
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'دليل توظيف الموظف الأول في شركتك الناشئة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/startup-hiring-advice/](https://longform.asmartbear.com/startup-hiring-advice/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** دليل توظيف الموظف الأول في شركتك الناشئة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Hiring Employee #1
+
+> **Executive Summary:** If you want another pair of hands to screw things up, how do you acquire resumes, pair them down, and identify someone who is going to work well in your company?
+> **Original URL:** [https://longform.asmartbear.com/startup-hiring-advice/](https://longform.asmartbear.com/startup-hiring-advice/)
 
 It's a big decision to make your first hire, because what you're really deciding is whether you want to keep a [lifestyle business](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/) or attempt to "cross the chasm" and maybe even [get rich](https://longform.asmartbear.com/rich-vs-king-sold-company/).
 

@@ -1,147 +1,164 @@
 ---
 id: 16
 title_en: "\"I scratched my own itch\" isn't good enough"
-title_ar: "\"لقد خدشت حكة نفسي\" ليست جيدة بما فيه الكفاية"
+title_ar: "حل مشكلتي الشخصية وحدها لا يكفي لبناء شركة ناشئة ناجحة"
 slug: "scratched-my-own-itch"
 url: "https://longform.asmartbear.com/scratched-my-own-itch/"
-pubDate: "Sun, 02 Mar 2025 00:00:00 +0000"
+published_date: "Sun, 02 Mar 2025 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "This isn't the humble-brag you think it is; The most common origin story is also common to startups that fail. But it's a start."
 summary_ar: "هذا ليس التباهي المتواضع الذي تعتقده؛ قصة الأصل الأكثر شيوعًا هي أيضًا شائعة في الشركات الناشئة التي تفشل. لكنها البداية."
 ---
 
-# "لقد خدشت حكة نفسي" ليست جيدة بما فيه الكفاية
+# حل مشكلتي الشخصية وحدها لا يكفي لبناء شركة ناشئة ناجحة
 ### "I scratched my own itch" isn't good enough
 
 > **الملخص التنفيذي:** هذا ليس التباهي المتواضع الذي تعتقده؛ قصة الأصل الأكثر شيوعًا هي أيضًا شائعة في الشركات الناشئة التي تفشل. لكنها البداية.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/scratched-my-own-itch/](https://longform.asmartbear.com/scratched-my-own-itch/)
 
-القصة الأصلية ذات السطر الواحد الأكثر شيوعًا:
+---
 
-"لقد واجهت المشكلة بنفسي، لذا قمت ببناء منتج."
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** حل مشكلتي الشخصية وحدها لا يكفي لبناء شركة ناشئة ناجحة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
 
-هذا هو الدفاع القياسي الذي يتخذه المؤسسون الجدد لتبرير مشاريعهم الجديدة. ولكن هل هذا مبرر؟
+---
 
-لكي تنجح الشركة، يجب أن تكون العديد من الشروط صحيحة - أو صحيحة بما يكفي بحيث لا تكون قاتلة. يمكن صياغة هذه الأشياء على شكل [سلسلة من المخاطر التي يجب التخفيف منها](https://longform.asmartbear.com/startup-drake-equation/) أو على شكل [قائمة الأخطاء التي يجب تجنبها](https://longform.asmartbear.com/avoid-blundering/) أو على شكل [قائمة من الأسئلة التي يتعين عليك الإجابة عليها](https://longform.asmartbear.com/explore-execute/). بغض النظر عن الشكل، [يجب أن يكون السوق موجودًا](https://longform.asmartbear.com/problem/)، وب[سعر مقبول](https://longform.asmartbear.com/pricing-determines-your-business-model/)، ويتوافق مع [استعداد] العملاء (https://longform.asmartbear.com/willingness-to-pay/) و [القدرة](https://longform.asmartbear.com/never-compete-on-price/) للشراء.
+### النص المرجعي للمقال (Original Reference):
+# "I scratched my own itch" isn't good enough
 
-غالبًا ما يتم استبعاد _أنت_ من هذه القوائم. يجب أن تكون الشركة _مناسبة لك_ شخصيًا. أبسط اختبار هو أن نسأل:
+> **Executive Summary:** This isn't the humble-brag you think it is; The most common origin story is also common to startups that fail. But it's a start.
+> **Original URL:** [https://longform.asmartbear.com/scratched-my-own-itch/](https://longform.asmartbear.com/scratched-my-own-itch/)
 
-لماذا *أنت* الشخص المناسب لبدء هذه الشركة وتنميتها؟
+The most common single-line origin story:
 
-وهو ما يعيدنا إلى المطالبة الأصلية. أنت الشخص المناسب، لأنك واجهت المشكلة، وذهلت برؤية حول كيفية حلها بشكل أفضل من البدائل، وقد فعلت ذلك.
+"I had the problem myself, so I built a product."
 
-يبدو جيدا، ولكن هل هو كذلك؟ وإليك ما تقصده بهذا البيان:
+This is the standard defense mounted by new founders to justify their new ventures. But is it justified?
 
-1. أنا أفهم المشكلة.
-2. لدي ارتباط وشغف بالمشكلة.
-3. أعرف كيفية حلها.
-4. لدي القدرة على التنفيذ .
-5. أنا أفهم عملائي (لأنني واحد منهم).
-6. البعض الآخر لديه هذه المشكلة، وسوف يختار الحل الخاص بي.
-7. لدي ما يلزم.
+For a company to succeed, many conditions must be true--or true enough that they're not fatal. Those things can be formulated as a [series of risks to be mitigated](https://longform.asmartbear.com/startup-drake-equation/) or as a [list of blunders to avoid](https://longform.asmartbear.com/avoid-blundering/) or as a [list of questions you have to answer](https://longform.asmartbear.com/explore-execute/). Regardless of form, [a market must exist](https://longform.asmartbear.com/problem/), at [an acceptable price](https://longform.asmartbear.com/pricing-determines-your-business-model/) , matching customers' [willingness](https://longform.asmartbear.com/willingness-to-pay/) and [ability](https://longform.asmartbear.com/never-compete-on-price/) to buy.
 
-أسوأ ما في الأمر هو أن بعض هذه الأمور صحيحة! التعزيز المتقطع هو أقوى آلية للتكييف. وهذا يجعل الأمر إشكاليًا: نظرًا لأن بعضها صحيح، فلا يمكنك معرفة سبب كون بعضها كاذبًا.
+Often left out of these lists is _you_. The company has to be _right for you_, personally. The simplest test is to ask:
 
-وهذا العمى يؤدي باستمرار إلى الفشل. من الممكن أن تبدأ معظم الشركات الناشئة بهذه الطريقة؛ ومن المؤكد أن معظم تلك الشركات الناشئة تفشل.
+Why are *you* the right person to start and grow this company?
 
-ينظر! الأذكياء يتفقون:
+Which brings us back to the original claim. You are the right person, because you had the problem, you were struck with a vision of how to solve it better than the alternatives, and you did.
 
-> "لقد فعل عملاؤنا الكثير من الأشياء التي لم أكن لأفعلها أبدًا. نحن نفكر بشكل مختلف. ونحل مشاكلنا بشكل مختلف. لدينا احتياجات ورغبات مختلفة. كرر بعدي: أنت لست عميلك."  
-> *--*[*إريك ريس*](https://www.startuplessonslearned.com/2009/10/case-study-using-loi-to-get-customer.html)*، منشئ The Lean Startup*  
-> "كن مستخدمًا لمنتجك الخاص. واجعله أفضل بناءً على رغباتك الخاصة. ولكن لا تخدع نفسك بالاعتقاد أنك مستخدم لك."  
-> *--*[*إيفان ويليامز*](https://evhead.com/2005/11/ten-rules-for-web-startups.asp)*، مؤسس Blogger وTwitter*  
-> *"إذا كان نائب رئيس قسم الهندسة يعتقد أن العميل المستهدف يشبهه تمامًا، فأنت محكوم عليك بالفشل. وإذا كان نائب رئيس التسويق يعتقد أن العميل المستهدف يشبهه تمامًا، فأنت محكوم عليك بالهلاك."  
-> *--*[*مدير المنتج غريب الأطوار*](https://blog.suerasty.com/about-crankypm/)*
+Sounds good, but is it? Here's what you are implying by that statement:
 
-دعونا نحلل التداعيات السبعة لنرى كيفية الاستفادة من عبارة "لقد واجهت المشكلة بنفسي" كنقطة انطلاق، بدلاً من اتباع منحدر الانزلاق المعتاد حتى الزوال.
+1. I understand the problem.
+2. I have an attachment and passion for the problem.
+3. I know how to solve it.
+4. I have the ability to execute it.
+5. I understand my customers (because I am one).
+6. Others have this problem, and will choose my solution.
+7. I have what it takes.
+
+The worst part is, some of those are true! Intermittent reinforcement is the strongest mechanism for conditioning. That makes it problematic: Because some are true, you can't see why some are false.
+
+This blindness consistently results in failure. It is possible that most startups begin this way; it is definite that most of those startups fail.
+
+Look! Smart people agree:
+
+> "Our customers did a lot of stuff that I would never do. We think differently. We solve our problems differently. We have different needs and wants. Repeat after me: You are not your customer."  
+> *--*[*Eric Ries*](https://www.startuplessonslearned.com/2009/10/case-study-using-loi-to-get-customer.html)*, creator of The Lean Startup*  
+>   
+> "Be a user of your own product. Make it better based on your own desires. But don't trick yourself into thinking you are your user."  
+> *--*[*Evan Williams*](https://evhead.com/2005/11/ten-rules-for-web-startups.asp)*, founder of Blogger & Twitter*  
+>   
+> *"If the VP of Engineering thinks the target customer is just like him/her, you're doomed. If the VP of Marketing thinks the target customer is just like him/her, you're doomed."  
+> *--*[*Cranky Product Manager*](https://blog.sueraisty.com/about-crankypm/)*
+
+Let's pick apart the seven implications to see how to leverage "I had the problem myself" as a springboard, instead of following the usual glide-slope to demise.
 
 ![Tell me about a time when you came up with a brilliant idea that revolutionized your industry and saved your company from almost certain ruin.](https://public.asmartbear.com/books/anthology/chapters/scratched-my-own-itch/d7470print-simple.png)
 
-## 1. أنا أفهم المشكلة.
+## 1. I understand the problem.
 
-أنت تفعل. على الأقل، أنت تفهم نسختك من المشكلة. العالم كبير، والحصول على 1000 عميل يعني حل مجموعة متنوعة من المشكلات ذات الصلة، حتى لو كنت تستهدف مجالًا واحدًا.
+You do. At least, you understand _your version_ of the problem. The world is large, and getting 1000 customers means solving a variety of related problems, even if you're targeting one niche.
 
-في بعض الأحيان يكون لديك حقًا هذا الفهم الأوسع. ربما أنت مستشار وشاهدت 13 نوعًا مختلفًا من هذه المشكلة. أو أنك مهندس في هذا المجال لمدة عشر سنوات في ثلاث شركات مختلفة وقد رأيت كل شيء. أو أنك بحثت في هذا الأمر لسنوات كشغف. (على الرغم من أن [كونك "خبيرًا" هو شكل آخر من أشكال العمى](https://longform.asmartbear.com/expert-harmful/).)
+Sometimes you really do have this broader understanding. Maybe you're a consultant and you've seen 13 variants of this problem. Or you've been engineer in this field for ten years at three different companies and you've seen everything. Or you've researched this for years as a passion. (Although, [being an "expert" is another form of blindness](https://longform.asmartbear.com/expert-harmful/).)
 
-في كلتا الحالتين، لقد بدأت بداية رائعة، ولكن عليك أن تنظر إلى "المشكلة" من خلال أعين عملائك. قد يرون المشكلة نفسها ولكنهم يستخدمون لغة مختلفة.[^1] قد يواجهون نفس النوع من المشكلة ولكنها تظهر في أربعة أشكال مختلفة،[^2] لذا يتعين عليك إما اختيار بعضها لحلها، أو استخدام الميزات واللغة لإظهار كيفية معالجة الأشكال الأربعة جميعها. قد يحتاجون إلى التكامل مع الأنظمة التي لم ترأسها. قد تكون ميزانيتهم ​​$\frac{1}{10}$th أو 10x أكبر من ميزانيتك.
+Either way, you're off to a great start, but you need to view "the problem" through your customers' eyes. They might see the same problem but use different language.[^1] They might have the same type of problem but it appears in four distinct forms,[^2] so you need to either pick some to solve, or use features and language to show how you address all four. They might need to integrate with systems you haven't head of. Their budget might be $\frac{1}{10}$th or 10x larger than yours was.
 
-[^1]: على سبيل المثال، اعتاد Discord أن يقول "احصل على مساحة مجتمعية مجانية"، لكن اتضح أن الأطفال معتادون على "إعداد الخوادم"، لذلك كان من المنطقي أكثر أن يقولوا "احصل على خادم دردشة مجاني". تسمى مساحات مجتمعهم "الخوادم" حتى يومنا هذا.
+[^1]: For example, Discord used to say "get a free community space," but it turned out that kids were accustomed to "setting up servers," therefore it made more sense for them to say "get a free chat server." Their community spaces are called "servers" to this day.
 
-[^2]: على سبيل المثال، لاحظت أن إلحاق المنتج بالمنتج يمثل مشكلة شائعة. لكن منتجات المؤسسات تتطلب عمليات وجلسات تدريبية متعددة المراحل، في حين قد تحتاج الشركات الصغيرة إلى قوالب وإمكانية الوصول بسهولة إلى الدعم الفني، في حين قد تحتاج المنتجات الاستهلاكية إلى خيارات ومعالجات أفضل للخدمة الذاتية.
+[^2]: For example, you've noticed that product on-boarding is a common pain-point. But Enterprise products require multi-phase, white-glove processes and training sessions, whereas small businesses might need templates and ready-access to tech support, whereas consumer products might need better self-service options and wizards.
 
-تعامل مع هذا الفهم الأولي كنقطة بداية وليس نقطة نهاية، و[أجري مقابلة مع العملاء بشكل هادف](https://longform.asmartbear.com/customer-development/) للحصول على الإجابة الكاملة.
+Treat this initial understanding as a starting point rather than the end-point, and [interview customers purposefully](https://longform.asmartbear.com/customer-development/) to get the full answer.
 
-## 2. لدي تعلق وشغف بالمشكلة.
+## 2. I have an attachment and passion for the problem.
 
 ![bear doing a puzzle](https://public.asmartbear.com/books/anthology/chapters/scratched-my-own-itch/bear-puzzle-2-simple.png)
 
-من المحتمل جدًا أن يكون هذا صحيحًا. لقد اهتمت بما يكفي للتحقيق في المشكلة وشعرت بالرضا من حلها. لقد انجذبت إلى كل من المشكلة والحل. إنها تتضمن العديد من العناصر الشخصية، وهو ما يفسر سبب كونها قصة شائعة حول أصل الشركات الناشئة. واعتقد انكم.
+This one is very likely to be true. You cared enough to investigate the problem and derived satisfaction from solving it. You were drawn to both problem and solution. It ticks several personal boxes, which explains why it's such a common startup origin story. I believe you.
 
-الشغف مطلوب، لأنه يساعدك على تجاوز الأوقات الصعبة. ألم الرفض المستمر - عدم شراء العملاء المحتملين، وعدم قبول الموظفين المحتملين، وعدم استثمار المستثمرين المحتملين، ورفض الأصدقاء والعائلة وTwitter وHackernews لك، ومراجعات المنتجات السيئة، والإلغاءات. النكسات، والمشاكل الهندسية التي استغرقت وقتًا أطول مما كنت تعتقد، واكتساب العملاء الذي لا يحدث بالسرعة التي حلمت بها. الألم الناتج عن رؤية الآخرين ينجحون بينما أنت تكافح، خاصة إذا كانوا منافسين مباشرين.[^3]
+Passion is required, because it gets you through the hard times. The pain of constant rejection--potential customers not buying, potential hires not accepting, potential investors not investing, friends and family and Twitter and Hackernews dismissing you, bad product reviews, and cancellations. The setbacks, the engineering problems that took long than you thought, the customer acquisition that isn't happening as fast as you dreamed. The pain of seeing others succeed while you struggle, especially if they're a direct competitor.[^3]
 
-[^3]: على الرغم من ذلك، تذكر أنه في اليوم السابق لتوقف أحد المنافسين عن العمل، كانت جميع وسائل التواصل الاجتماعي والصحافة إيجابية، وتتحدث عن التوظيف والنمو والميزات الجديدة والعملاء السعداء. لا تصدق ما تقرأه.
+[^3]: Although, remember the day before a competitor goes out of business, all their social media and press is positive, talking about hiring, growing, new features, and happy customers. Do not believe what you read.
 
-أنت في حاجة إلى الدافع للمضي قدما. يجب أن يكون لديك بعض الارتباط الشخصي، سواء كنت تحب العمل أو المشكلة، ومن الأفضل أن تكون كليهما معًا. ستكون هذه الشركة [امتدادًا لشخصيتك](https://longform.asmartbear.com/identity-sale-sadness/). تعد عبارة "لقد قمت بحل مشكلتي بنفسي" حافزًا جيدًا، ولكن يجب أن تكون قويًا بما يكفي لمواجهة ما هو قادم.
+You need the motivation to push through. You must have some personal connection, whether you love the work or the problem--ideally both. This company will be [an extension of who you are](https://longform.asmartbear.com/identity-selling-sadness/). "I solved my own problem" is a good motivator, but you will have to be strong enough to face what is coming.
 
-وهو ما يعني القيام بالأشياء الأخرى في هذه المقالة.
+Which means doing the other things in this article.
 
-## 3. أعرف كيفية حلها.
+## 3. I know how to solve it.
 
-أنت تعرف كيفية حل جانب واحد منها، حيث يفهمها شخص واحد بالضبط، مع التكوين الدقيق والقيود التي كانت لديك.
+You know how to solve one facet of it, where exactly one person understands it, with the exact configuration and constraints that you had.
 
-أعتقد أنه يمكنك حل القضايا الأخرى أيضًا. يمكن حل معظم الأشياء باستخدام أجهزة الكمبيوتر.
+I believe you can solve the other cases too. Most things with computers can be solved.
 
-لذلك، مرة أخرى، من المحتمل أن يكون هذا صحيحًا. جيد! هناك العديد من الحالات التي لا يكون فيها الأمر كذلك، [خاصة في الذكاء الاصطناعي](https://longform.asmartbear.com/ai-startups/) حيث تبدو العروض التوضيحية رائعة ولكنها تفشل على الفور (أن تكون جيدة بما فيه الكفاية، وفي كثير من الأحيان بما فيه الكفاية) في العالم الحقيقي.
+So, again this one is likely true. Good! There are many cases where it is not, [especially in AI](https://longform.asmartbear.com/ai-startups/) where demos look great but they immediately fail (to be good enough, often enough) in the real world.
 
 ![Stop calling it a 'head scratcher!' I know it's a 'head scratcher!' Stop saying 'head scratcher!!!'](https://public.asmartbear.com/books/anthology/chapters/scratched-my-own-itch/d7891print-simple.png)
 
-## 4. لدي القدرة على التنفيذ.
+## 4. I have the ability to execute it.
 
-لكن "هذا" ليس الرمز. "إنه" هو كل شيء آخر يجب على الشركة القيام به لتحقيق النجاح. معظم هذه الأشياء ليست "كتابة التعليمات البرمجية".
+But "it" isn't the code. "It" is everything else a company must do to succeed. Most of those things isn't "writing code."
 
-هل لديك القدرة على كتابة عنوان رئيسي على الصفحة الرئيسية يجذب الشخص المناسب في ثلاث ثوانٍ، أم أنه يقول فقط "______ ليس من الضروري أن يكون سيئًا" لأنك [كاتب كسول](https://longform.asmartbear.com/authentic-is-dead/) ولم تكتب أبدًا كتابًا عالي الأداء؟
+Do you have the ability to write a headline on the home page that attracts the right person in three seconds, or does it just say "______ doesn't have to suck" because you're a [lazy writer](https://longform.asmartbear.com/authentic-is-dead/) who has never written a high-performing hook?
 
-هل لديك القدرة على جذب العشرات من العملاء المحتملين المؤهلين إلى صفحة التسعير، أم أنك لم تقم مطلقًا [بإنشاء حملة تسويقية ناجحة واحدة](https://longform.asmartbear.com/first-marketing-channel/)؟ هل لديك القدرة على مقابلة عشرين عميلاً محتملاً قبل الشراء، أم أنك لا تعرف [كيفية العثور عليهم](https://longform.asmartbear.com/find-customers-to-interview/)؟
+Do you have the ability to get dozens of qualified leads onto the pricing page, or have you never [created a single successful marketing campaign](https://longform.asmartbear.com/first-marketing-channel/)? Do you have the ability to interview twenty potential customers before they buy, or do you not know [how to find them](https://longform.asmartbear.com/find-customers-to-interview/)?
 
-هناك أشياء أخرى كثيرة. (تظهر قائمة في منتصف [هذه المقالة](https://longform.asmartbear.com/explore-execute/).) هذا هو ما يجب عليك تنفيذه.
+There are many other things. (A list appears in the middle of [this article](https://longform.asmartbear.com/explore-execute/).) That's what "it" is that you have to execute.
 
-هل هذا يعني أنك سوف تفشل؟ لا... إلا إذا تجاهلت كل هذا و[عدت إلى كتابة التعليمات البرمجية](https://longform.asmartbear.com/code-is-your-enemy/)، على افتراض أنه لمجرد أن لديك شيئًا يعمل، فإن بقية الشركة سوف تتكشف بشكل طبيعي.
+Does this mean you're going to fail? No... unless you ignore all this and [go back to writing code](https://longform.asmartbear.com/code-is-your-enemy/), assuming that just because you have something working, the rest of the company will unfold naturally.
 
-## 5. أفهم عملائي (لأنني واحد منهم).
+## 5. I understand my customers (because I am one).
 
-أنت لست مثل عملائك على الإطلاق.
+You are absolutely not like your customers.
 
-لقد شعرت بالإحباط الشديد من الحلول الحالية، وقررت إنشاء حلول خاصة بك بدلاً من شراء وتنفيذ شيء موجود بالفعل.
+You were so frustrated with the current solutions, you decided to build your own rather than buy and implement something that existed.
 
-لذا، فأنت لا تشبه أيًا من عملائك تمامًا.
+So, you're like exactly none of your customers.
 
-لدى عملائك وظائف يومية، وستكون محظوظًا إذا كانت هذه إحدى [أهم ثلاث مشكلات](https://longform.asmartbear.com/purgatory/) التي يواجهونها الآن. ومع ذلك، فإن هذه المشاكل الثلاث هي ما لديهم الميزانية والوقت لحلها.
+Your customers have day jobs, and you're lucky if this is one the [top three problems](https://longform.asmartbear.com/purgatory/) they're experiencing right now. And yet, those three problems are what they have the budget and time to solve.
 
-لذا، يتعين عليك [البحث عن](https://longform.asmartbear.com/find-customers-to-interview/) و[مقابلة](https://longform.asmartbear.com/customer-development/) العملاء المحتملين، لمعرفة شكلهم الفعلي، وذلك باستخدام تجربتك كمبرر لنظريتك الأولية (كما هو موضح في تلك المقالة)، [التكرار حتى](https://longform.asmartbear.com/good-startup-ideas/) تفهم عملائك بالفعل.
+So, you have to [find](https://longform.asmartbear.com/find-customers-to-interview/) and [interview](https://longform.asmartbear.com/customer-development/) potential customers, to learn what *they* are actually like, using your experience as the justification of your initial theory (as described in that article), [iterating until](https://longform.asmartbear.com/good-startup-ideas/) you actually do understand your customers.
 
-## 6. الآخرون لديهم هذه المشكلة، وسوف يختارون الحل الخاص بي.
+## 6. Others have this problem, and will choose my solution.
 
-هذه المغالطة هي السبب الأول وراء فشل الشركات عندما تبدأ بـ "لقد قمت بحل المشكلة بنفسي".
+This fallacy is the #1 reason why companies fail when they start with "I solved the problem for myself."
 
-أعتقد أنك حددت مشكلة حقيقية وأن لديك حلاً لها، ولكن هناك أشياء أخرى كثيرة يجب أن تسير بشكل صحيح قبل أن يكون هناك سوق يمكنه دعم حتى رواد الأعمال المنفردين.
+I believe you identified a real problem and that you have a solution, but so many other things have to go right before there's a market that can sustain even a solo entrepreneur.
 
-يجب أن يكون هناك عدد كافٍ من الأشخاص الذين يعانون من المشكلة، _و_ يعرفون أن لديهم المشكلة بحيث يبحثون عن حل، _و_ لديهم ميزانية لحلها، _و_ يفضلون الشراء منك بدلاً من منافس، *و* سوف يستمرون في العمل لفترة أطول من بضعة أشهر. القائمة مستمرة. [هذه المقالة حول العثور على أسواق جيدة](https://longform.asmartbear.com/problem/) تساعدك على التأكد من أن جميع القطع الأخرى في مكانها الصحيح.
+There have to be enough people who have the problem, _and_ know they have the problem so that they're out searching for a solution, _and_ have a budget for solving it, _and_ would rather buy from you than a competitor, *and* will stick around for longer than a couple of months. The list continues; [this article on finding good markets](https://longform.asmartbear.com/problem/) helps you make sure all the other pieces are in place.
 
 ![bear making a purchase](https://public.asmartbear.com/books/anthology/chapters/scratched-my-own-itch/bear-purchase-2-simple.png)
 
-في حين أنك قد تجد أن الحلول الحالية غير كافية، إلا أن العملاء المحتملين قد يعتبرونها "جيدة بما فيه الكفاية"، وبالتالي لا يرغبون في المخاطرة بالتحول إلى منتج جديد تصنعه شركة جديدة، والذي يفتقر بالتأكيد إلى الميزات، ولا يفتقر إلى الأخطاء، وقد لا يكون موجودًا خلال عامين.
+While *you* might find existing solutions inadequate, potential customers might consider them "good enough," and therefore unwilling to risk switching to a new product made by a new company, that certainly lacks features, doesn't lack bugs, and might not be around in two years.
 
-إن عدد المشاكل المشروعة في العالم أكبر بمائة مرة من وجود أسواق لشراء الحلول لهذه المشاكل. لذلك عندما تظن خطأً أنه "حيثما توجد مشكلة، توجد شركة"، فسوف تشعر بخيبة أمل دائمًا تقريبًا.
+There are a hundred times more legitimate problems in the world than there are markets to buy solutions to those problems. So when you erroneously think that "where there's a problem, there's a company," you will almost always be disappointed.
 
-## 7. لدي ما يلزم.
+## 7. I have what it takes.
 
-ليس لدي أي سبب للشك فيك.
+I have no reason to doubt you.
 
-في الواقع، أود أن أشجعك: أن لا تعرف بنفسك ما أنت قادر عليه، حتى تحاول. في الواقع، ربما *لا_تمتلك اليوم ما يلزم، ولكن هذا كان صحيحًا بالنسبة لكل مؤسس ناجح آخر لأول مرة.
+In fact I would encourage you: That you yourself don't know what you're capable of, until you try. Indeed, _today_ you probably *don't* have what it takes, but that was true of every other successful first-time founder.
 
-لذا، لا تستسلم لـ [متلازمة المحتال](https://longform.asmartbear.com/impostor-syndrome/)، ولكن استعد لتجربة [القفاز](https://longform.asmartbear.com/startups-emotionally-draining/) لـ [Klingon Painstiks](https://memory-alpha.fandom.com/wiki/Painstik) التي تنتظرك.
+So don't give in to [impostor syndrome](https://longform.asmartbear.com/impostor-syndrome/), but get ready to experience the [gauntlet](https://longform.asmartbear.com/startups-emotionally-draining/) of [Klingon Painstiks](https://memory-alpha.fandom.com/wiki/Painstik) that await you.
 
 Rather than thinking it's all in the bag, think the opposite: Almost everything you'll need to succeed, you don't have yet: Knowledge of customer, market, marketing, sales, finance, skills, everything.
 

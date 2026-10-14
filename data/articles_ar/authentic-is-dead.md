@@ -1,22 +1,37 @@
 ---
 id: 30
 title_en: "\"Authentic\" is dead. And so is \"is dead.\""
-title_ar: "\"Authentic\" is dead. And so is \"is dead.\""
+title_ar: "ماتت كلمة 'أصالة' وماتت معها كل الشعارات التسويقية المبتذلة"
 slug: "authentic-is-dead"
 url: "https://longform.asmartbear.com/authentic-is-dead/"
-pubDate: "Sun, 28 Jul 2024 00:00:00 +0000"
+published_date: "Sun, 28 Jul 2024 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "It's lazy writing. It's boring and undifferentiated. Say something meaningful, specific, evocative, so your website wins, and you can be proud of it."
-summary_ar: "It's lazy writing. It's boring and undifferentiated. Say something meaningful, specific, evocative, so your website wins, and you can be proud of it."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Authentic\" is dead. And so is \"is dead.'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# "Authentic" is dead. And so is "is dead."
+# ماتت كلمة 'أصالة' وماتت معها كل الشعارات التسويقية المبتذلة
 ### "Authentic" is dead. And so is "is dead."
 
-> **الملخص التنفيذي:** It's lazy writing. It's boring and undifferentiated. Say something meaningful, specific, evocative, so your website wins, and you can be proud of it.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Authentic" is dead. And so is "is dead.'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/authentic-is-dead/](https://longform.asmartbear.com/authentic-is-dead/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** ماتت كلمة 'أصالة' وماتت معها كل الشعارات التسويقية المبتذلة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# "Authentic" is dead. And so is "is dead."
+
+> **Executive Summary:** It's lazy writing. It's boring and undifferentiated. Say something meaningful, specific, evocative, so your website wins, and you can be proud of it.
+> **Original URL:** [https://longform.asmartbear.com/authentic-is-dead/](https://longform.asmartbear.com/authentic-is-dead/)
 
 **It's time to retire the following phrases.** They should no longer be used in any context except derisive mocking:
 
@@ -48,7 +63,7 @@ Also eschew these words, as devoid of meaning as a yogi's mantra and as useless 
 ![welcome to NOBODY CARES, population 6 billion](https://public.asmartbear.com/books/anthology/chapters/authentic-is-dead/gapingvoid-welcome-nobody-cares-simple.png)
 
 * **Authentic**
-* حل
+* Solution
 * Turnkey solution
 * Genuine
 * Powerful

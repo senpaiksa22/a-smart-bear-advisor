@@ -1,22 +1,37 @@
 ---
 id: 87
 title_en: "What if there isn't another 10x?"
-title_ar: "What if there isn't another 10x?"
+title_ar: "ماذا لو لم تعد هناك فرصة لنمو بعشرة أضعاف (10x)؟"
 slug: "another-10x"
 url: "https://longform.asmartbear.com/another-10x/"
-pubDate: "Tue, 18 Oct 2016 00:00:00 +0000"
+published_date: "Tue, 18 Oct 2016 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "What if your tech company has peaked? Is relentless growth the only path, or is it time to redefine your true impact on the world?"
-summary_ar: "What if your tech company has peaked? Is relentless growth the only path, or is it time to redefine your true impact on the world?"
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: What if there isn't another 10x?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# What if there isn't another 10x?
+# ماذا لو لم تعد هناك فرصة لنمو بعشرة أضعاف (10x)؟
 ### What if there isn't another 10x?
 
-> **الملخص التنفيذي:** What if your tech company has peaked? Is relentless growth the only path, or is it time to redefine your true impact on the world?
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: What if there isn't another 10x?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/another-10x/](https://longform.asmartbear.com/another-10x/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** ماذا لو لم تعد هناك فرصة لنمو بعشرة أضعاف (10x)؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# What if there isn't another 10x?
+
+> **Executive Summary:** What if your tech company has peaked? Is relentless growth the only path, or is it time to redefine your true impact on the world?
+> **Original URL:** [https://longform.asmartbear.com/another-10x/](https://longform.asmartbear.com/another-10x/)
 
 ![i had whale dream again](https://public.asmartbear.com/books/anthology/chapters/another-10x/d6232print-simple.png)
 

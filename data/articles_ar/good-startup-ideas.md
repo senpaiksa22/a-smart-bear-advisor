@@ -1,22 +1,37 @@
 ---
 id: 128
 title_en: "The \"Convergent\" theory of finding truth in darkness"
-title_ar: "The \"Convergent\" theory of finding truth in darkness"
+title_ar: "نظرية التقارب: كيف تجد الحقيقة وتلتقط الأفكار الريادية العظيمة وسط الظلام؟"
 slug: "good-startup-ideas"
 url: "https://longform.asmartbear.com/good-startup-ideas/"
-pubDate: "Tue, 26 Jun 2012 00:00:00 +0000"
+published_date: "Tue, 26 Jun 2012 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "How to tell the difference between a truly great startup idea, and people saying \"Sure, sounds good\" when they really mean \"No, I'm not buying.\""
-summary_ar: "How to tell the difference between a truly great startup idea, and people saying \"Sure, sounds good\" when they really mean \"No, I'm not buying.\""
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The \"Convergent\" theory of finding truth in darkness'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The "Convergent" theory of finding truth in darkness
+# نظرية التقارب: كيف تجد الحقيقة وتلتقط الأفكار الريادية العظيمة وسط الظلام؟
 ### The "Convergent" theory of finding truth in darkness
 
-> **الملخص التنفيذي:** How to tell the difference between a truly great startup idea, and people saying "Sure, sounds good" when they really mean "No, I'm not buying."
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The "Convergent" theory of finding truth in darkness'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/good-startup-ideas/](https://longform.asmartbear.com/good-startup-ideas/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** نظرية التقارب: كيف تجد الحقيقة وتلتقط الأفكار الريادية العظيمة وسط الظلام؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The "Convergent" theory of finding truth in darkness
+
+> **Executive Summary:** How to tell the difference between a truly great startup idea, and people saying "Sure, sounds good" when they really mean "No, I'm not buying."
+> **Original URL:** [https://longform.asmartbear.com/good-startup-ideas/](https://longform.asmartbear.com/good-startup-ideas/)
 
 ![i dunno kind of defeats purpose doesnt it](https://public.asmartbear.com/books/anthology/chapters/good-startup-ideas/d6125print-simple.png)
 

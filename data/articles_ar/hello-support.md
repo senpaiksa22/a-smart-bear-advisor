@@ -1,22 +1,37 @@
 ---
 id: 204
 title_en: "Hello, I'm 1074018628"
-title_ar: "Hello, I'm 1074018628"
+title_ar: "مرحباً، أنا الموظف رقم 1074018628: خطر تجريد خدمة العملاء من طابعها الإنساني"
 slug: "hello-support"
 url: "https://longform.asmartbear.com/hello-support/"
-pubDate: "Thu, 07 Aug 2008 08:00:00 +0000"
+published_date: "Thu, 07 Aug 2008 08:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Is \"customer service\" a genuine service? Or is it a shield so that most people at your company never have to speak to one of those pesky customers?"
-summary_ar: "Is \"customer service\" a genuine service? Or is it a shield so that most people at your company never have to speak to one of those pesky customers?"
+summary_ar: "Is \"
 ---
 
-# Hello, I'm 1074018628
+# مرحباً، أنا الموظف رقم 1074018628: خطر تجريد خدمة العملاء من طابعها الإنساني
 ### Hello, I'm 1074018628
 
-> **الملخص التنفيذي:** Is "customer service" a genuine service? Or is it a shield so that most people at your company never have to speak to one of those pesky customers?
+> **الملخص التنفيذي:** Is \
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/hello-support/](https://longform.asmartbear.com/hello-support/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** مرحباً، أنا الموظف رقم 1074018628: خطر تجريد خدمة العملاء من طابعها الإنساني تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Hello, I'm 1074018628
+
+> **Executive Summary:** Is "customer service" a genuine service? Or is it a shield so that most people at your company never have to speak to one of those pesky customers?
+> **Original URL:** [https://longform.asmartbear.com/hello-support/](https://longform.asmartbear.com/hello-support/)
 
 ![Cartoon cdf5eaa5](https://longform.asmartbear.com/hello-support/8a920bc9.png)
 

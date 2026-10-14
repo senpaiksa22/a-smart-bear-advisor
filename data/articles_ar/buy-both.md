@@ -4,7 +4,7 @@ title_en: "When customers buy your competitor's product… and then buy yours"
 title_ar: "عندما يشتري العملاء منتج منافسك... ثم يشترون منتجك"
 slug: "buy-both"
 url: "https://longform.asmartbear.com/buy-both/"
-pubDate: "Sun, 18 May 2025 00:00:00 +0000"
+published_date: "Sun, 18 May 2025 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Little, unknown companies with silly names can sell to enterprises who have already spent millions."
@@ -18,91 +18,106 @@ summary_ar: "يمكن للشركات الصغيرة غير المعروفة ذا
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/buy-both/](https://longform.asmartbear.com/buy-both/)
 
-![Buy. Sell. Sell. Buy. Bark. Woof. Sorry. Buy.](https://public.asmartbear.com/books/anthology/chapters/buy-both/d7939print-simple.png)
+---
 
-لماذا يدفع شخص ما ملايين الدولارات مقابل برنامج، ثم يدفع أيضًا لشركة تم تأسيسها 700 دولار مقابل برنامج يفعل نفس الشيء؟
-
-كيف يمكنك الفوز بهذه الصفقات أيضا؟
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** عندما يشتري العملاء منتج منافسك... ثم يشترون منتجك تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
 
 ---
 
-"إنها ليست مسألة حياة أو موت"، كما يقول معظم مطوري البرمجيات لتبرير أخطائهم. لكننا كنا في المستشفى. مستشفى حديث حيث كل شيء أصبح رقميًا، وليس من المبالغة القول إنه إذا فشلت الأنظمة، فقد يموت المرضى.
+### النص المرجعي للمقال (Original Reference):
+# When customers buy your competitor's product… and then buy yours
 
-عندما دخلنا أنا وجيري إلى مركز عمليات شبكة المستشفى، أضاءت وجوهنا بمستوى مناسب من الرهبة. في مكالمات المبيعات، تكون نكات العميل مضحكة دائمًا، وتملأك مساحة عمل العميل بالرهبة.
+> **Executive Summary:** Little, unknown companies with silly names can sell to enterprises who have already spent millions.
+> **Original URL:** [https://longform.asmartbear.com/buy-both/](https://longform.asmartbear.com/buy-both/)
 
-بالمقارنة مع جميع الأنشطة الأخرى في المستشفى، قد يبدو منتجنا غير مهم. في ITWatchDogs، قامت أجهزتنا التي تدعم الويب[^1] بقياس الطقس الداخلي - بيئة غرف الخوادم أو أرضيات المصنع أو غرف المستشفى - أشياء مثل درجة الحرارة والرطوبة، وما إذا كان الباب مفتوحًا، وما إذا كانت الطاقة تتدفق، وما إذا كانت هناك مشكلة في تكييف الهواء. إذا أصبح الجو ساخنًا جدًا في غرفة الخادم، فإن المكونات تنصهر فعليًا، مما يتسبب في وقت التوقف عن العمل ونفقات استبدال كبيرة واكتشاف أن "النسخ الاحتياطي" لا يتضمن دائمًا "الاستعادة". كنا نبيع الأجهزة المادية التي تراقب تلك العوامل وتنبيه عندما يحتاج مكيف الهواء إلى الصيانة قبل حدوث عطل فعلي، أو الاستجابة للعطل في دقائق بدلاً من ساعات.
+![Buy. Sell. Sell. Buy. Bark. Woof. Sorry. Buy.](https://public.asmartbear.com/books/anthology/chapters/buy-both/d7939print-simple.png)
 
-[^1]: كان هذا في أوائل العقد الأول من القرن الحادي والعشرين، عندما كانت "الأجهزة التي تدعم الويب" نادرة ومثيرة للاهتمام.
+Why would someone pay millions of dollars for software, and then also pay a bootstrapped company $700 for software that does the same thing?
 
-يشبه مركز عمليات الشبكة (NOC) مركز التحكم في مهمة ناسا - حيث يراقب في كل مكان، بالأرقام والرسوم البيانية والألوان المتغيرة التي لا يمكن إلا للموظفين الذين يعملون لفترات طويلة أن يطابقوا نمطها بين "العادي" و"المثير للقلق". يقوم عدد قليل نسبيًا من الأشخاص بمراقبة آلاف الأجهزة في مركز البيانات والمتناثرة في أنحاء المستشفى - المحطات الطرفية وأجهزة الاستدعاء والأجهزة الطبية وسجلات المرضى ومكتب الاستقبال وأنظمة الواجهة الخلفية، ومن يدري ماذا أيضًا.
+How can you win those deals too?
 
-المستشفى هو المجال الكلاسيكي لـ "مشتري برامج المؤسسة"، وبالفعل كان لديهم "برامج المؤسسة" التي تقوم بالمراقبة. لقد استخدموا على وجه الخصوص برنامج HP OpenView، وهو برنامج رائع تبلغ قيمته عدة ملايين من الدولارات من شركة Hewlett-Packard، في حال كنت تعتقد أن كل ما تعرفه هذه الشركة هو كيفية تحصيل رسوم باهظة مقابل حبر الطابعة. حسنًا، اتضح أنهم يتقاضون رسومًا باهظة مقابل حبر الطابعة *و* يتقاضون رسومًا باهظة مقابل مراقبة أنظمة تكنولوجيا المعلومات في المستشفى. هذه شركة يمكنها [التركيز](https://longform.asmartbear.com/focus/) على أكثر من شيء واحد في نفس الوقت! كنا نأمل أن يقوموا بشراء معدات الطقس الخاصة بنا، وربطها عبر HP OpenView بشاشات Shuttle-Launch، وإنقاذ الأرواح، أو على الأقل عدم فقدانها بسبب فشل تكنولوجيا المعلومات.
+---
 
-لكننا لاحظنا شيئًا آخر فاجأنا. شيء تحول إلى ملاحظة مفيدة لأي شخص يبني شركة ناشئة و[يتنافس ضد الشركات القائمة](https://longform.asmartbear.com/startup-beats-incumbent/) بما في ذلك العلامات التجارية الكبيرة للمؤسسات.
+"It's not a matter of life or death," most software developers say to excuse their bugs. But we were in a hospital. A modern hospital where everything is digitized, where it is not an exaggeration to say that if the systems failed, patients could die.
 
-كانوا يستخدمون أيضًا **What's Up Gold**.
+When Gerry and I walked into the hospital's network operations center, our faces lit up with an appropriate level of awe. On sales calls, the customer's jokes are always funny, and the customer's workspace fills you with awe.
+
+Compared to all the other activity at the hospital, our product might appear insignificant. At ITWatchDogs our web-enabled hardware[^1] measured indoor weather--the environment of server rooms, factory floors, or hospital rooms--things like temperature, humidity, whether the door was open, whether power was flowing, whether there was a problem with the air conditioning. If it gets too hot in a server room, components literally melt, causing downtime and significant replacement expense and the discovery that "backup" doesn't always include "restore". We were selling physical devices that monitored those factors and alerted when an air conditioner needs to be serviced ahead of an actual failure, or respond to a failure in minutes rather than hours.
+
+[^1]: This was in the early 2000s, when "web-enabled hardware" was rare and interesting.
+
+The NOC (Network Operations Center) looks like NASA Mission Control--monitors everywhere, with numbers and graphs and kaleidoscopic colors that only long-tenured employees could pattern-match between "normal" and "concerning". Relatively few people monitor thousands of devices in the data center and strewn about the hospital--terminals and pagers and medical devices and patient records and the front desk and back-end systems, and who knows what else.
+
+A hospital is the classic domain of the "Enterprise Software Buyer," and indeed they had "Enterprise Software" doing the monitoring. In particular they used HP OpenView--a multi-million dollar software extravaganza from Hewlett-Packard, in case you thought all that company knows how to do is charge too much for printer ink. Well, it turns out they charge too much for printer ink *and* they charge too much to monitor hospital IT systems. This is a company that can [focus](https://longform.asmartbear.com/focus/) on more than one thing at a time! We were hoping they would buy our weather gear, link it via HP OpenView to the Shuttle-Launch monitors, and save lives, or at least, not lose them due to IT failures.
+
+But we noticed something else that surprised us. Something that turned into an instructive observation for anyone building a start-up and [competing against incumbents](https://longform.asmartbear.com/startup-beats-incumbent/) including Big Enterprise Brands.
+
+They were also using **What's Up Gold**.
 
 ![You've never seen a more hideous logo.](https://public.asmartbear.com/books/anthology/chapters/buy-both/image-simple.png)
 
-يجب أن يكون سؤالك الأول هو: كيف يمكن لمستشفى - يشتري برامج المؤسسة - أن يستخدم منتجًا بهذا الاسم السخيف؟ لم يكن ذلك بسبب الشعار، بل كان ذلك أكثر إحراجًا. المصممون المعاصرون يجلسون هنا، فاغرين أفواههم، مذهولين. لماذا هي مذكرة فدية؟ لماذا لم يتمكن صاحب الفدية من الوصول إلى الفاصلة العليا لـ "ما هو"؟ [هل التصميم غير مهم على الإطلاق؟](https://longform.asmartbear.com/design/) هذه أزمة وجودية؛ دعونا نعطي المصممين مساحة لبدء التنفس بشكل طبيعي مرة أخرى.
+Your first question should be: How could a hospital--that buys enterprise software--use a product with such a silly name? It wasn't because of the logo--that was even more embarrassing. Modern designers are sitting here, mouth agape, stunned. Why is it a ransom note? Why did the ransomer not have access to an apostrophe for "What's"? [Does design not matter at all?](https://longform.asmartbear.com/design/) This is an existential crisis; let's give the designers space to begin breathing normally again.
 
-يجب أن يكون سؤالك الثاني: ماذا يفعل هذا المنتج؟ والجواب مفاجئ وغير مفاجئ في آن واحد. وهذا ليس مفاجئًا لأنه يراقب أجهزة تكنولوجيا المعلومات؛ ومن ثم "ما الأمر؟" وعندما اشتريت الإصدار الأغلى ثمنًا، حصلت على "ما الأمر؟"... الذهبي.[^2] لقد كان وقتًا أبسط.
+Your second question should be: What does that product do? And the answer is at once surprising and not surprising. It's not surprising because it monitors IT devices; hence "What's Up?" And when you bought the more expensive version, you got "What's Up?"... Gold.[^2] It was a simpler time.
 
-[^2]: هل تعتقد أن أسماء المنتجات مهمة عند البيع للمؤسسة؟ ربما نسيت أيضًا أن شركتنا كانت تسمى ITWatchDogs وأن منتجنا كان "Weather Goose". وبعد بضع سنوات قمت بتأسيس Smart Bear و[بيعت بشكل حصري تقريبًا للمؤسسة](https://longform.asmartbear.com/bad-advice/) مع المزيد من الحيوانات. افعل ما تعرفه!
+[^2]: And you thought product names matter when selling to the enterprise? Maybe you also forgot our company was called ITWatchDogs and our product was the "Weather Goose." And a few years later I founded Smart Bear and [sold almost exclusively to the enterprise](https://longform.asmartbear.com/bad-advice/) with more animalia. Do what you know!
 
 ![Can you believe this was the website for a product that costs $700? These were the days when website design truly didn't matter.](https://public.asmartbear.com/books/anthology/chapters/buy-both/image-2-simple.png)
 
-لقد كان الأمر مفاجئًا لأنهم اشتروا جهاز HP OpenView وكانوا يستخدمونه أيضًا. فلماذا تشتري أيضًا What's Up Gold؟ كانت What's Up Gold عبارة عن شركة صغيرة ذات برامج متقلصة. كيف نجحوا في بيع منتج بينما كان HP OpenView موجودًا هناك بتكلفة مليون دولار؟
+It was surprising because they had bought and were also using HP OpenView. So why also buy What's Up Gold? What's Up Gold was a small bootstrapped company with shrink-wrapped software. How did they successfully sell a product when HP OpenView is sitting right there, at a cost of a million dollars?
 
 ![It's easy to forget how ugly the internet used to be. HP was worth billions of dollars yet decided on this design.](https://public.asmartbear.com/books/anthology/chapters/buy-both/image-4-simple.png)
 
-لذلك سألناهم. هذا هو بالفعل درس. يتعين عليك [البحث بشكل استباقي عن العملاء المحتملين](https://longform.asmartbear.com/find-customers-to-interview/) ثم [التحدث معهم](https://longform.asmartbear.com/customer-development/)، لمعرفة ما يجري. عندما ترى شيئًا مفاجئًا، فهذه إشارة إلى أن هناك شيئًا يجب تعلمه. حفر وتعلم ذلك.
+So we asked them. This is already a lesson. You've got to [proactively seek out potential customers](https://longform.asmartbear.com/find-customers-to-interview/) and then [talk to them](https://longform.asmartbear.com/customer-development/), to find out what's up. Whenever you see something surprising, that's a signal that there's something to learn. Dig in and learn it.
 
-"حسنًا،" قال الرجل:
+"Well," the guy said:
 
-> "يحتوي What's Up Gold على بعض الميزات التي نحبها. هناك هذا الشيء الذي نقوم به عدة مرات يوميًا، وهو سريع جدًا مع What's Up Gold. ويكلف فقط خمسمائة دولار أو شيء من هذا القبيل. يمكننا فقط تشغيل ذلك على بطاقتنا الائتمانية دون طلب إذن. لذا اشتريناها للتو."
+> "What's Up Gold has a couple of features we like. There's this thing we do many times per day, and it's really quick with What's Up Gold. And it's only like five hundred dollars or something. We can just run that on our credit card without asking permission. So we just bought it."
 
-هناك بضعة أشياء يجب ملاحظتها.
+There's a couple of things to notice.
 
-أولاً، قاموا بشراء منتجين لحل نفس المشكلة. سنقوم بتفكيك ذلك بعد ذلك.
+First, they bought two products to solve the same problem. We'll unpack that next.
 
-ثانيًا، التعليق على التسعير - لم يكن الأمر مجرد أن التسعير كان *غير مكلف*، بل كان التسعير *شيئًا لا يمكنهم الحصول عليه دون أي جهد أو عواقب*. ربما تفكر في التسعير من حيث سيكولوجية المشتري ("هل يبدو سعر 49.99 دولارًا أرخص بكثير من 50 دولارًا؟"). ولكن عندما تقوم بالبيع للشركات - وخاصة الشركات المتوسطة والكبيرة الحجم - فإن الأمر لا يتعلق بعلم نفس المشتري بقدر ما يتعلق بمدى الألم الذي يسببه للمشتري. عندما تفهم [عمليات الشراء المؤلمة](https://longform.asmartbear.com/startups-emotionally-draining/)، ستكتسب فهمًا جديدًا للتسعير. وأنت تدرك أن 500 دولار ليست مثل 499.99 دولارًا؛ إنه نفس $0.
+Second, the pricing comment--it wasn't just that the pricing was *inexpensive*, it was that the pricing was *something that they could procure with neither effort nor consequence*. You probably think about pricing in terms of the psychology of the buyer ("Does $49.99 feel much cheaper than $50?"). But when you're selling to businesses--especially mid-sized to large businesses--it's less about the psychology of the buyer but rather how much of a pain in the ass it is for the buyer. When you understand [pain-in-the-ass procurement](https://longform.asmartbear.com/startups-emotionally-draining/), you gain a new understanding of pricing. And you understand that $500 is not the same as $499.99; it's the same as $0.
 
-إنها مثل نظرية التصويت. لنفترض أن هناك أربعة أعضاء في مجلس الإدارة، بحصص تصويت تبلغ 7%، و16%، و17%، و60%. ما مقدار قوة التصويت التي يتمتع بها الجميع؟ الجواب هو: 0%، 0%، 0%، و100%، لأن الشخص الأخير هو الذي يفوز دائمًا؛ النسب الأخرى ليست ذات صلة. نفس الشيء مع هذا العميل: 500 دولار هو نفس 0 دولار، ولكن 1000 دولار قد يكون هو نفسه 60 ألف دولار.
+It's like voting theory. Suppose there are four members of a board, with voting shares of 7%, 16%, 17%, and 60%. How much voting power does everyone have? The answer is: 0%, 0%, 0%, and 100%, because the last person always wins; the other percentages are irrelevant. Same with this customer: $500 is the same as $0, but $1,000 might be the same as $60,000.
 
-والآن يمكنك أن ترى لماذا يشترون منتجًا لحل مشكلة تم حلها (نظريًا) بالفعل. نظرًا لأنه من وجهة نظرهم، فإن برنامج What's Up Gold مجاني، لذا إذا أضاف قيمة إضافية صغيرة، فسوف يشترونه.[^3]
+And now you can see why they would buy a product to solve a problem that was (theoretically) already solved. Because from their perspective, What's Up Gold is free, so if it adds even a little incremental value, they'll buy it.[^3]
 
-[^3]: للأسف، ليس هذا هو الحال دائمًا؛ [إليك مناقشة متعمقة](https://longform.asmartbear.com/purgatory/)، بما في ذلك الحالات البديلة.
+[^3]: This is sadly not always the case; [here's an in-depth discussion](https://longform.asmartbear.com/purgatory/), including the alternate cases.
 
-الآن فكر في هذا من منظور What Up Gold. هل يبيعون للشركة؟ نعم، بمعنى أن هذا العميل هو "مؤسسة". لكنهم لا "يبيعون إلى المؤسسة" بمعنى أنهم كانوا يتنافسون مباشرة مع HP OpenView. تنافست المنتجات الأخرى بشكل مباشر مع HP OpenView (مثل Tivoli من IBM، وUnicenter من CA، وBMC's Patrol--انظر، [يُطلب منك استخدام الاختصارات](https://longform.asmartbear.com/bad-advice/) واسم منتج "جاد" للبيع إلى The Enterprise!). What's Up Gold لن يفوز أبدًا على تلك التشكيلة. لكن لا يهم، فقد باعوا منتجهم لنفس العميل على أية حال. والآن تخيل أنهم يستطيعون فعل ذلك في كل مستشفى - وفي الواقع كل مركز بيانات - في العالم.
+Now consider this from What's Up Gold's perspective. Do they sell to the enterprise? Yes, in the sense that this customer is "an Enterprise". But they're not "selling to the Enterprise" in the sense that they were competing directly with HP OpenView. Other products competed directly with HP OpenView (e.g IBM's Tivoli, CA's Unicenter, BMC's Patrol--see, [you are required to use acronyms](https://longform.asmartbear.com/bad-advice/) and a "serious" product name to sell to The Enterprise!). What's Up Gold would never win against that line-up. But it doesn't matter--they sold their product to the same customer anyway. And now imagine that they could do that to every hospital--indeed every data center--in the world.
 
 ---
 
-What Up Gold ازدهر مع:
+What's Up Gold thrived with:
 
-1. منتج يحتوي على عدد قليل من الميزات [الفريدة](https://longform.asmartbear.com/leverage/) و[المبهجة](https://longform.asmartbear.com/willingness-to-pay/).
-2. السعر الذي حل للشراء. (لا سيما "السعر مقابل القيمة" ولا حيل الإدراك.)
-3. [سوق مستهدف](https://longform.asmartbear.com/target-market/) يتم تحديده حسب احتياجات فرد متخصص في تكنولوجيا المعلومات، وليس "الشركات الصغيرة والمتوسطة" مقابل "المؤسسات".
-4. طريقة [لجذب انتباه](https://longform.asmartbear.com/first-marketing-channel/) للشخص المناسب (أي "التوزيع").
+1. A product with a few [unique](https://longform.asmartbear.com/leverage/) and [delightful](https://longform.asmartbear.com/willingness-to-pay/) features.
+2. A price that solved for procurement. (Notably _not_ "price to value" nor perception tricks.)
+3. A [target market](https://longform.asmartbear.com/target-market/) defined by the needs of an individual IT person, not "SMB" vs "Enterprise."
+4. A way to [get the attention](https://longform.asmartbear.com/first-marketing-channel/) of the right person (i.e. "distribution").
 
-فيما يتعلق بهذه النقطة الأخيرة: كنا مهتمين بكيفية تمكن What's Up Gold من الظهور أمام متخصص تكنولوجيا المعلومات هذا، خاصة وأنهم اشتروا الحل بالفعل. لذلك سألنا عن ذلك أيضًا.[^4] "أوه،" قال الرجل، وهو يشير إلى طاولة مليئة بالكتيبات والأسلاك المتنوعة ومقابس إيثرنت المشوهة والأقراص المضغوطة السائبة، "ربما رأيت ذلك في إحدى تلك المجلات، لا أعرف. ربما رأيت إعلانًا في الجزء الخلفي من إحدى المجلات الموجودة في الحمام."
+On that last point: We were curious how What's Up Gold managed to get in front of this IT person, especially since they'd already bought a solution. So we asked about that too.[^4] "Oh," the guy said, gesturing towards a table smothered in manuals, assorted wires, mangled Ethernet jacks, and loose CD-ROMs, "I might have seen it in one of those magazines, I don't know. I probably saw an ad in the back of one of the ones in the bathroom."
 
-[^4]: الدرس الفرعي: [اسأل دائمًا](https://longform.asmartbear.com/customer-development/) عن المنتجات والسلوكيات المجاورة. أينما وجدوا What's Up Gold، ربما كان بإمكانهم العثور علينا أيضًا.
+[^4]: Sub-lesson: [Always ask](https://longform.asmartbear.com/customer-development/) about adjacent products and behaviors. Wherever they found What's Up Gold, maybe they could have found us too.
 
 ![IT bear](https://public.asmartbear.com/books/anthology/chapters/buy-both/bear-it-admin-simple.png)
 
-لذلك، بينما تشعر بالقلق بشأن تحسين محركات البحث وتحديد موضع AdWords، فمن السهل التغاضي عن المجلة التي تأخذها معك إلى الكشك لمدة 20 دقيقة من العزاء.
+So while you're worried about SEO optimization and AdWords positioning, it's easy to overlook the magazine you take into the stall for 20 minutes of solace.
 
-ونعم، ذهبنا لاحقًا إلى الحمام لنرى المجلات الموجودة هناك. ثم أعلنا فيها. وقد نجحت. الأشياء التي نقوم بها من أجل [النجاح](https://longform.asmartbear.com/success-guaranteed/).
+And yes, we later went to the bathroom to see which magazines were there. And then we advertised in them. And it worked. The things we do for [success](https://longform.asmartbear.com/success-guaranteed/).
 
-ومن الغريب أننا تعلمنا الكثير عن العميل على الرغم من أنه لم يكن أسئلة حول منتجنا. لقد تعلمنا أشياء عندما سألنا عن المنتجات الأخرى، طالما كنا نتعلم عن **حياة العميل**. ربما كان العميل أكثر صدقًا من المعتاد، بالضبط لأن الأمر لم يكن يتعلق بنا. لقد علمنا بوجود مجلة نحتاج إلى الإعلان فيها. وعلمنا أن العملاء سيشترون قطعتين من البرامج لحل نفس المشكلة.
+Oddly, we learned a lot about the customer even though it wasn't questions about our product. We learned things when we asked about other products, as long as we were learning about the **life of the customer**. Maybe the customer was more honest than usual, exactly because it wasn't about us. We learned about a magazine we needed to advertise in. We learned customers would buy two pieces of software to solve the same problem.
 
-وتعلمنا عن حد بطاقة الائتمان. لذلك قمنا بتغيير عرض المبيعات بسرعة. لقد جئنا متوقعين عرض حزمة بقيمة 10000 دولار. وبدلاً من ذلك، قلنا: "يمكنك فقط شراء أشياء بقيمة 500 دولار منا اليوم. انظر ما إذا كانت ستعجبك." هل سيجربونها [لو كانت مجانية](https://longform.asmartbear.com/purgatory/)؟ نعم سيفعلون
+And we learned about the credit card limit. So we changed the sales pitch on the fly. We came in expecting to pitch a $10,000 package. Instead, we said: "You could just buy $500 worth of stuff from us today. See whether you like it." Would they give it a try [if it were free](https://longform.asmartbear.com/purgatory/)? Yes they would.
 
-كل شهر اشتروا أكثر من ذلك بقليل. لقد كانوا مدمنين على المنتج - كان المنتج جيدًا! - لذلك اشتروا بطريقة مناسبة لهم.
+Each month they bought a little more. They were hooked--the product was good!--so they bought in a manner that was convenient for them.
 
-اتضح أن المستشفى كان جزءًا من مجموعة مستشفيات أكبر. في نهاية المطاف، حصلنا على طلبات بعشرات الآلاف من الدولارات من مركز تكنولوجيا المعلومات العالمي الخاص بهم، لأنه بعد أن عمل بشكل جيد في ذلك الموقع الواحد، انتشر الخبر داخل الشركة، وبعد ذلك قاموا بالفعل بعملية الشراء وقدموا طلبًا كبيرًا. هذه هي الطريقة التي تعمل بها مبيعات المؤسسات غالبًا. إنها ليست دائمًا صفقة كبيرة من أعلى إلى أسفل؛ يمكن أن تبدأ صغيرة، وتبدأ في متناول اليد، وتبدأ بسيطة، وتبدأ بأسعار معقولة، ثم تتوسع إلى الخارج عندما تصبح كمية مثبتة. "الأرض والتوسع"، هكذا يقول المثل التافه ولكن الدقيق.
+It turned out that hospital was part of a larger hospital group. Eventually, we got orders for tens of thousands of dollars from their global IT center, because after it worked well in that one location, word spread inside the company, and then they really did go through procurement and make a big order. That's how Enterprise sales often works. It's not always a large top-down deal; it can start small, start accessible, start simple, start affordable, and then expand outward once you're a proven quantity. "Land and expand," goes the insipid but accurate saying.
 
-كان ذلك قبل 20 عامًا، وكانت برامج SaaS مختلفة، والأسواق مختلفة، وتوقعات العملاء مختلفة، والميزانيات مختلفة، و[الذكاء الاصطناعي مختلف](https://longform.asmartbear.com/ai-startups/)، ولكن ما يظل كما هو هو الدروس الأساسية للتعلم من عملائك، وصنع الأشياء التي يرغبون في شرائها.
+That was 20 years ago, and SaaS software is different, and markets are different, and customer expectations are different, and budgets are different, and [AI is different](https://longform.asmartbear.com/ai-startups/), but what remains the same are the fundamental lessons of learning from your customers, and making things they want to buy.
 
-مرتين.
+Twice.

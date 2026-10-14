@@ -1,27 +1,44 @@
 ---
 id: 131
 title_en: "How do I stop \"analyzing\" and pick between two good choices?"
-title_ar: "How do I stop \"analyzing\" and pick between two good choices?"
+title_ar: "كيف تتوقف عن 'التحليل المفرط' وتختار بحسم بين أمرين جيدين؟"
 slug: "business-tiebreaker"
 url: "https://longform.asmartbear.com/business-tiebreaker/"
-pubDate: "Tue, 08 May 2012 08:00:00 +0000"
+published_date: "Tue, 08 May 2012 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "What if there's no wrong answer? What's the tiebreaker in major business decisions."
-summary_ar: "What if there's no wrong answer? What's the tiebreaker in major business decisions."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How do I stop \"analyzing\" and pick between two good choices?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# How do I stop "analyzing" and pick between two good choices?
+# كيف تتوقف عن 'التحليل المفرط' وتختار بحسم بين أمرين جيدين؟
 ### How do I stop "analyzing" and pick between two good choices?
 
-> **الملخص التنفيذي:** What if there's no wrong answer? What's the tiebreaker in major business decisions.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How do I stop "analyzing" and pick between two good choices?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/business-tiebreaker/](https://longform.asmartbear.com/business-tiebreaker/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كيف تتوقف عن 'التحليل المفرط' وتختار بحسم بين أمرين جيدين؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# How do I stop "analyzing" and pick between two good choices?
+
+> **Executive Summary:** What if there's no wrong answer? What's the tiebreaker in major business decisions.
+> **Original URL:** [https://longform.asmartbear.com/business-tiebreaker/](https://longform.asmartbear.com/business-tiebreaker/)
 
 Embarras de Choix writes:
 
 > I have a startup with thirty paying customers. We've been bootstrapping up to this point.
+> 
 > I think there's a big opportunity to raise money, but also I could continue as I have been. I don't know way to go.
+>
 > I already know the pros and cons of the decision, so don't lecture me about that. I just don't know how to pick!
 
 ![Sure, you could go the glass slipper route. Or you could lay comatose in the forest for who knows how long. Or you could kiss me just one time, get yourself a prince and get on with it.](https://longform.asmartbear.com/business-tiebreaker/bef3ebd0.png)

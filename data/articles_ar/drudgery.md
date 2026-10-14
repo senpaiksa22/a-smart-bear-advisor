@@ -1,22 +1,37 @@
 ---
 id: 89
 title_en: "Invention is Drudgery"
-title_ar: "Invention is Drudgery"
+title_ar: "الابتكار الحقيقي هو عمل روتيني شاق وليس ومضة إلهام سحرية"
 slug: "drudgery"
 url: "https://longform.asmartbear.com/drudgery/"
-pubDate: "Tue, 12 Apr 2016 00:00:00 +0000"
+published_date: "Tue, 12 Apr 2016 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Having skipped to the last page of other people's books, we forget the rest of the journey.  And, that we have to take that journey, too."
-summary_ar: "Having skipped to the last page of other people's books, we forget the rest of the journey.  And, that we have to take that journey, too."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Invention is Drudgery'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Invention is Drudgery
+# الابتكار الحقيقي هو عمل روتيني شاق وليس ومضة إلهام سحرية
 ### Invention is Drudgery
 
-> **الملخص التنفيذي:** Having skipped to the last page of other people's books, we forget the rest of the journey.  And, that we have to take that journey, too.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Invention is Drudgery'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/drudgery/](https://longform.asmartbear.com/drudgery/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الابتكار الحقيقي هو عمل روتيني شاق وليس ومضة إلهام سحرية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Invention is Drudgery
+
+> **Executive Summary:** Having skipped to the last page of other people's books, we forget the rest of the journey.  And, that we have to take that journey, too.
+> **Original URL:** [https://longform.asmartbear.com/drudgery/](https://longform.asmartbear.com/drudgery/)
 
 ![youve got boring at 11 00 pointless at 1 00 and interminable at 3 00?searchid=44787](https://public.asmartbear.com/books/anthology/chapters/drudgery/d7498print-simple.png)
 

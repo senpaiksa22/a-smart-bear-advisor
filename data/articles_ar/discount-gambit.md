@@ -1,22 +1,37 @@
 ---
 id: 207
 title_en: "Discount gambit"
-title_ar: "Discount gambit"
+title_ar: "مناورة تقديم الخصومات: متى تفيدك ومتى تدمر قيمة علامتك التجارية؟"
 slug: "discount-gambit"
 url: "https://longform.asmartbear.com/discount-gambit/"
-pubDate: "Sat, 22 Mar 2008 00:00:00 +0000"
+published_date: "Sat, 22 Mar 2008 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Discounting is the typical sales technique, but refusing to discount can lead to a much better business, even in the Enterprise."
-summary_ar: "Discounting is the typical sales technique, but refusing to discount can lead to a much better business, even in the Enterprise."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'مناورة تقديم الخصومات: متى تفيدك ومتى تدمر قيمة علامتك التجارية؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Discount gambit
+# مناورة تقديم الخصومات: متى تفيدك ومتى تدمر قيمة علامتك التجارية؟
 ### Discount gambit
 
-> **الملخص التنفيذي:** Discounting is the typical sales technique, but refusing to discount can lead to a much better business, even in the Enterprise.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'مناورة تقديم الخصومات: متى تفيدك ومتى تدمر قيمة علامتك التجارية؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/discount-gambit/](https://longform.asmartbear.com/discount-gambit/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** مناورة تقديم الخصومات: متى تفيدك ومتى تدمر قيمة علامتك التجارية؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Discount gambit
+
+> **Executive Summary:** Discounting is the typical sales technique, but refusing to discount can lead to a much better business, even in the Enterprise.
+> **Original URL:** [https://longform.asmartbear.com/discount-gambit/](https://longform.asmartbear.com/discount-gambit/)
 
 ![No, it's fine, I've just never seen coupons used in an acquisition.](https://public.asmartbear.com/books/anthology/chapters/discount-gambit/d3719print-simple.png)
 

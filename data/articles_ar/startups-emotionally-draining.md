@@ -1,22 +1,37 @@
 ---
 id: 152
 title_en: "When you want to quit because it's just not worth it"
-title_ar: "When you want to quit because it's just not worth it"
+title_ar: "عندما ترغب في الانسحاب لأن الأمر لم يعد يستحق العناء"
 slug: "startups-emotionally-draining"
 url: "https://longform.asmartbear.com/startups-emotionally-draining/"
-pubDate: "Mon, 28 Feb 2011 00:00:00 +0000"
+published_date: "Mon, 28 Feb 2011 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Are you crying in the shower because you can't handle it anymore? Beyond Impostor Syndrome: Complete melt-down? Well, at least you're in good company."
-summary_ar: "Are you crying in the shower because you can't handle it anymore? Beyond Impostor Syndrome: Complete melt-down? Well, at least you're in good company."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'عندما ترغب في الانسحاب لأن الأمر لم يعد يستحق العناء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# When you want to quit because it's just not worth it
+# عندما ترغب في الانسحاب لأن الأمر لم يعد يستحق العناء
 ### When you want to quit because it's just not worth it
 
-> **الملخص التنفيذي:** Are you crying in the shower because you can't handle it anymore? Beyond Impostor Syndrome: Complete melt-down? Well, at least you're in good company.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'عندما ترغب في الانسحاب لأن الأمر لم يعد يستحق العناء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/startups-emotionally-draining/](https://longform.asmartbear.com/startups-emotionally-draining/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** عندما ترغب في الانسحاب لأن الأمر لم يعد يستحق العناء تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# When you want to quit because it's just not worth it
+
+> **Executive Summary:** Are you crying in the shower because you can't handle it anymore? Beyond Impostor Syndrome: Complete melt-down? Well, at least you're in good company.
+> **Original URL:** [https://longform.asmartbear.com/startups-emotionally-draining/](https://longform.asmartbear.com/startups-emotionally-draining/)
 
 ![T-Shirt that says "I never finish anyth"](https://public.asmartbear.com/books/anthology/chapters/startups-emotionally-draining/never-finish-anything-simple.png)
 

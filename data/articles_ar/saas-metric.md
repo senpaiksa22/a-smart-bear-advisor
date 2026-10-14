@@ -1,22 +1,37 @@
 ---
 id: 24
 title_en: "No wait, of course THAT is the single most important SaaS metric"
-title_ar: "No wait, of course THAT is the single most important SaaS metric"
+title_ar: "المقياس الأوحد والأهم لشركات البرمجيات السحابية SaaS"
 slug: "saas-metric"
 url: "https://longform.asmartbear.com/saas-metric/"
-pubDate: "Sun, 03 Nov 2024 00:00:00 +0000"
+published_date: "Sun, 03 Nov 2024 00:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "Is it LTV? Retention? NRR? Magic Number? Rule of 40?  Or: Do you need to un-ask the question."
-summary_ar: "Is it LTV? Retention? NRR? Magic Number? Rule of 40?  Or: Do you need to un-ask the question."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'المقياس الأوحد والأهم لشركات البرمجيات السحابية SaaS'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# No wait, of course THAT is the single most important SaaS metric
+# المقياس الأوحد والأهم لشركات البرمجيات السحابية SaaS
 ### No wait, of course THAT is the single most important SaaS metric
 
-> **الملخص التنفيذي:** Is it LTV? Retention? NRR? Magic Number? Rule of 40?  Or: Do you need to un-ask the question.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'المقياس الأوحد والأهم لشركات البرمجيات السحابية SaaS'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/saas-metric/](https://longform.asmartbear.com/saas-metric/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** المقياس الأوحد والأهم لشركات البرمجيات السحابية SaaS تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# No wait, of course THAT is the single most important SaaS metric
+
+> **Executive Summary:** Is it LTV? Retention? NRR? Magic Number? Rule of 40?  Or: Do you need to un-ask the question.
+> **Original URL:** [https://longform.asmartbear.com/saas-metric/](https://longform.asmartbear.com/saas-metric/)
 
 ![Reaction to the news was mixed, largely because we asked more than one person.](https://public.asmartbear.com/books/anthology/chapters/saas-metric/d4033print-simple.png)
 

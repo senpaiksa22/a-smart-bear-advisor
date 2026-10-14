@@ -1,22 +1,37 @@
 ---
 id: 56
 title_en: "Using the Needs Stack for competitive strategy"
-title_ar: "Using the Needs Stack for competitive strategy"
+title_ar: "استخدام هرم الاحتياجات (Needs Stack) في بناء الاستراتيجية التنافسية"
 slug: "needs-stack"
 url: "https://longform.asmartbear.com/needs-stack/"
-pubDate: "Sun, 04 Jun 2023 00:00:00 +0000"
+published_date: "Sun, 04 Jun 2023 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "This simple method positions your product to be more valuable, especially against competitors who aim to disrupt you, or you them."
-summary_ar: "This simple method positions your product to be more valuable, especially against competitors who aim to disrupt you, or you them."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Using the Needs Stack for competitive strategy'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Using the Needs Stack for competitive strategy
+# استخدام هرم الاحتياجات (Needs Stack) في بناء الاستراتيجية التنافسية
 ### Using the Needs Stack for competitive strategy
 
-> **الملخص التنفيذي:** This simple method positions your product to be more valuable, especially against competitors who aim to disrupt you, or you them.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Using the Needs Stack for competitive strategy'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/needs-stack/](https://longform.asmartbear.com/needs-stack/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** استخدام هرم الاحتياجات (Needs Stack) في بناء الاستراتيجية التنافسية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Using the Needs Stack for competitive strategy
+
+> **Executive Summary:** This simple method positions your product to be more valuable, especially against competitors who aim to disrupt you, or you them.
+> **Original URL:** [https://longform.asmartbear.com/needs-stack/](https://longform.asmartbear.com/needs-stack/)
 
 ![knew it was bad stopped wanting cracker started needing one](https://public.asmartbear.com/books/anthology/chapters/needs-stack/d7353print-simple.png)
 

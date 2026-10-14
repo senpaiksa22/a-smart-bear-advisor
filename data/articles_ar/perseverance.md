@@ -1,22 +1,37 @@
 ---
 id: 37
 title_en: "Stubborn Visionaries & Pigheaded Fools"
-title_ar: "Stubborn Visionaries & Pigheaded Fools"
+title_ar: "بين أصحاب الرؤى الثاقبة والحمقى المتعنتين: كيف تميز بين الإصرار والغباء؟"
 slug: "perseverance"
 url: "https://longform.asmartbear.com/perseverance/"
-pubDate: "Sun, 17 Mar 2024 00:00:00 +0000"
+published_date: "Sun, 17 Mar 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "How do you know when to stop, versus when to push through? You don't, not even in hindsight. But these guiding questions can help."
-summary_ar: "How do you know when to stop, versus when to push through? You don't, not even in hindsight. But these guiding questions can help."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Stubborn Visionaries & Pigheaded Fools'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Stubborn Visionaries & Pigheaded Fools
+# بين أصحاب الرؤى الثاقبة والحمقى المتعنتين: كيف تميز بين الإصرار والغباء؟
 ### Stubborn Visionaries & Pigheaded Fools
 
-> **الملخص التنفيذي:** How do you know when to stop, versus when to push through? You don't, not even in hindsight. But these guiding questions can help.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Stubborn Visionaries & Pigheaded Fools'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/perseverance/](https://longform.asmartbear.com/perseverance/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** بين أصحاب الرؤى الثاقبة والحمقى المتعنتين: كيف تميز بين الإصرار والغباء؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Stubborn Visionaries & Pigheaded Fools
+
+> **Executive Summary:** How do you know when to stop, versus when to push through? You don't, not even in hindsight. But these guiding questions can help.
+> **Original URL:** [https://longform.asmartbear.com/perseverance/](https://longform.asmartbear.com/perseverance/)
 
 ![son comes time in life when need to decide news to believe](https://public.asmartbear.com/books/anthology/chapters/perseverance/d6605print-simple.png)
 

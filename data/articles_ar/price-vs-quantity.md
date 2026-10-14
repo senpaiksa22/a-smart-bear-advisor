@@ -1,22 +1,37 @@
 ---
 id: 132
 title_en: "Which is better: Many customers at low price-point or few at high price?"
-title_ar: "Which is better: Many customers at low price-point or few at high price?"
+title_ar: "أيهما أفضل لشركتك: عملاء كُثر بسعر منخفض أم عملاء قليلون بسعر مرتفع؟"
 slug: "price-vs-quantity"
 url: "https://longform.asmartbear.com/price-vs-quantity/"
-pubDate: "Tue, 01 May 2012 00:00:00 +0000"
+published_date: "Tue, 01 May 2012 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Which is better: Two companies have the same revenue, one from a few large customers and the other from many little customers"
-summary_ar: "Which is better: Two companies have the same revenue, one from a few large customers and the other from many little customers"
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Which is better: Many customers at low price-point or few at high price?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Which is better: Many customers at low price-point or few at high price?
+# أيهما أفضل لشركتك: عملاء كُثر بسعر منخفض أم عملاء قليلون بسعر مرتفع؟
 ### Which is better: Many customers at low price-point or few at high price?
 
-> **الملخص التنفيذي:** Which is better: Two companies have the same revenue, one from a few large customers and the other from many little customers
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Which is better: Many customers at low price-point or few at high price?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/price-vs-quantity/](https://longform.asmartbear.com/price-vs-quantity/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** أيهما أفضل لشركتك: عملاء كُثر بسعر منخفض أم عملاء قليلون بسعر مرتفع؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Which is better: Many customers at low price-point or few at high price?
+
+> **Executive Summary:** Which is better: Two companies have the same revenue, one from a few large customers and the other from many little customers
+> **Original URL:** [https://longform.asmartbear.com/price-vs-quantity/](https://longform.asmartbear.com/price-vs-quantity/)
 
 The results of a serendipitous live experiment were recently published as guest posts on this blog. [Sacha demonstrated](https://blog.asmartbear.com/perfect-pricing.html) the benefits of selling many copies of an eBook at a low price, while [Jarrod pointed out](https://blog.asmartbear.com/higher-pricing.html) the advantages of higher prices, bringing in more revenue with 1/6th the number of units sold.
 

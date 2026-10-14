@@ -1,25 +1,41 @@
 ---
 id: 139
 title_en: "Easy to criticize, hard to create"
-title_ar: "Easy to criticize, hard to create"
+title_ar: "النقد سهل ورخيص، بينما البناء والخلق هو التحدي الحقيقي"
 slug: "criticize-create"
 url: "https://longform.asmartbear.com/criticize-create/"
-pubDate: "Mon, 05 Dec 2011 08:00:00 +0000"
+published_date: "Mon, 05 Dec 2011 08:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "It's easy to explain why any given business will fail. So what? But neither is it wise to totally ignore the critics."
-summary_ar: "It's easy to explain why any given business will fail. So what? But neither is it wise to totally ignore the critics."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'النقد سهل ورخيص، بينما البناء والخلق هو التحدي الحقيقي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Easy to criticize, hard to create
+# النقد سهل ورخيص، بينما البناء والخلق هو التحدي الحقيقي
 ### Easy to criticize, hard to create
 
-> **الملخص التنفيذي:** It's easy to explain why any given business will fail. So what? But neither is it wise to totally ignore the critics.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'النقد سهل ورخيص، بينما البناء والخلق هو التحدي الحقيقي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/criticize-create/](https://longform.asmartbear.com/criticize-create/)
 
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** النقد سهل ورخيص، بينما البناء والخلق هو التحدي الحقيقي تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Easy to criticize, hard to create
+
+> **Executive Summary:** It's easy to explain why any given business will fail. So what? But neither is it wise to totally ignore the critics.
+> **Original URL:** [https://longform.asmartbear.com/criticize-create/](https://longform.asmartbear.com/criticize-create/)
+
 ![Cartoon 379eb7c6](https://longform.asmartbear.com/criticize-create/fb8dfbda.png)
 
+ 
 I can rip any business idea to shreds.
 
 Take Netflix[^1]: The costs of inventory logistics, millions of non-technical customers, the Postal Service, and loss from wear and delivery will make profit impossible if you keep retail prices reasonable. Movie-watchers are accustomed to the immediate gratification of browsing and selecting. People will duplicate movies, pissing off the publishers. Blockbuster will duplicate the model and undercut the price, combining the convenience of home delivery with the equally convenient option of store browsing and returns.

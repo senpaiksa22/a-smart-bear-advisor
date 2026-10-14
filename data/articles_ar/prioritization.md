@@ -1,145 +1,160 @@
 ---
 id: 9
 title_en: "Ruthless prioritization while the dog pees on the floor"
-title_ar: "تحديد الأولويات بلا رحمة بينما يتبول الكلب على الأرض"
+title_ar: "تحديد الأولويات بحزم لا يرحم وسط الفوضى اليومية العارمة"
 slug: "prioritization"
 url: "https://longform.asmartbear.com/prioritization/"
-pubDate: "Sun, 22 Jun 2025 00:00:00 +0000"
+published_date: "Sun, 22 Jun 2025 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Because time is zero-sum, prioritization is mandatory. This is an index of purpose-built prioritization frameworks, and an overarching one to optimize your life."
 summary_ar: "لأن الوقت محصلته صفر، فإن تحديد الأولويات أمر إلزامي. يعد هذا فهرسًا لأطر تحديد الأولويات المصممة لهذا الغرض، وهو فهرس شامل لتحسين حياتك."
 ---
 
-# تحديد الأولويات بلا رحمة بينما يتبول الكلب على الأرض
+# تحديد الأولويات بحزم لا يرحم وسط الفوضى اليومية العارمة
 ### Ruthless prioritization while the dog pees on the floor
 
 > **الملخص التنفيذي:** لأن الوقت محصلته صفر، فإن تحديد الأولويات أمر إلزامي. يعد هذا فهرسًا لأطر تحديد الأولويات المصممة لهذا الغرض، وهو فهرس شامل لتحسين حياتك.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/prioritization/](https://longform.asmartbear.com/prioritization/)
 
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** تحديد الأولويات بحزم لا يرحم وسط الفوضى اليومية العارمة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Ruthless prioritization while the dog pees on the floor
+
+> **Executive Summary:** Because time is zero-sum, prioritization is mandatory. This is an index of purpose-built prioritization frameworks, and an overarching one to optimize your life.
+> **Original URL:** [https://longform.asmartbear.com/prioritization/](https://longform.asmartbear.com/prioritization/)
+
 ![Remember that thing we thought was a thing? It's not a thing. But here's the thing, that other thing? Totally a thing!](https://public.asmartbear.com/books/anthology/chapters/prioritization/d7053print-simple.png)
 
-## ولاية تحديد الأولويات
+## The prioritization mandate
 
-الوقت مورد محصلته صفر: إن قضاء ساعة في شيء واحد يعني بالضرورة عدم قضاء ساعة في الكون بأكمله من الأشياء البديلة. كل دقيقة هي الاختيار. كل خيار هو مقايضة.
+Time is a zero-sum resource: An hour spent on one thing necessarily means _not_ spending an hour on the entire universe of alternative things. Every minute is a choice. Every choice is a trade-off.
 
-الوقت هو الحد الصعب. يمكننا تعظيم الوقت *الإنتاجي* من خلال عادات أفضل: النوم الجيد، والنظام الغذائي المعقول، والتمارين الرياضية المعقولة، والراحة التصالحية، وقراءة الكتب بدلاً من تويتر، وإدارة المهام بشكل أكثر أناقة، واجتماعات أقل، واجتماعات أقصر. ولكن حتى هنا، فإننا نحدد أولوياتنا خلال 24 ساعة كل يوم، ونختار كيفية العمل والراحة لتحقيق أقصى قدر من الفعالية. لا يوجد [وقت كافٍ لأكثر من شيئين كبيرين](https://longform.asmartbear.com/two-big-things/) في حياتك.
+Time is a hard limit. We can maximize *productive* time through better habits: good sleep, sensible diet, reasonable exercise, restorative rest, reading books instead of doom-scrolling Twitter, sleeker task-management, fewer meetings, shorter meetings. But even here we're prioritizing within 24 hours each day, choosing how we labor and rest to maximize our effectiveness. There [isn't enough time for more than two big things](https://longform.asmartbear.com/two-big-things/) in your life.
 
-> "كل ما يتعين علينا أن نقرره هو ما سنفعله بالوقت المتاح لنا."  
-> - غاندالف الساحر
+> "All we have to decide is what to do with the time that is given us."  
+> --Gandalf the Wizard
 
-نحن بحاجة الى مزيد من الوقت. ليس 30% أكثر، بل 3000% أكثر.
+We need more time. Not 30% more, but 3000% more.
 
-تثبت كل شركة هذا البيان من خلال مستودع بيانات يسمى "متتبع المشكلات". لقد قمنا بتجميع الآلاف من العناصر الصالحة على مر السنين: أفكار صغيرة سيكون من الجيد القيام بها؛ ميزات كبيرة من شأنها [إنشاء تمايز](https://longform.asmartbear.com/talk-vs-walk/)؛ الأخطاء التي يواجهها العملاء الذين يدفعون بالفعل؛ [تعديلات التصميم](https://longform.asmartbear.com/design/) التي تجعل الفريق فخورًا بمهارته. لن تكمل كل هذه الأمور أبدًا؛ إن إكمال 10% حتى سيكون بمثابة معجزة، حيث تزداد النسبة سوءًا كل أسبوع حيث تتم إضافة المزيد من العناصر بدلاً من إزالتها. كلما استمعت إلى العملاء بشكل أفضل وكلما كان فريقك أكثر إبداعًا، كلما أصبحت النسبة أسوأ. أنت تقوم بتعيين المزيد من الأشخاص لإنجاز المزيد من المهام، لكن المواهب الجديدة لديها أفكار جديدة، وتزداد النسبة سوءًا مرة أخرى. الملهمة، والجنون.
+Every company proves that statement with a data repository called "the issue tracker". We accumulate thousands of valid items over the years: Little ideas that would be nice to do; big features that would [create differentiation](https://longform.asmartbear.com/talk-vs-walk/); bugs that paying customers actually experience; [design tweaks](https://longform.asmartbear.com/design/) that make the team proud of their craft. You will never complete all these; completing even 10% would be a miracle, the ratio worsening every week as more items are added than removed. The better you listen to customers and the more creative your teams, the worse the ratio becomes. You hire more people to get more done, but new talent have new ideas, and the ratio worsens again. Inspiring, and maddening.
 
-لذا، فإن الوقت يمثل قيدًا ثابتًا يحدنا من 1% إلى 10% مما "نحتاجه" للتنفيذ. وبشكل غير متوقع، يتضاءل الكسر مع الحجم؛ لن نهزمه أبدًا.
+So, time is a fixed constraint that limits us to 1%-10% of what we "need" to execute. Unintuitively, the fraction diminishes with scale; we will never defeat it.
 
-الاستنتاج الذي لا مفر منه هو العبارة المبتذلة التي تقول "يجب علينا تحديد الأولويات" - أي تحديد الأشياء الثمينة القليلة التي سنقوم بها بذكاء.
+The inescapable conclusion is the trite statement that "We must prioritize"--intelligently determining which precious few things we will actually do.
 
-في الواقع، لا يسعنا إلا أن نحدد الأولويات، حتى لو كان ذلك دون تفكير. وبما أننا لا نستطيع أن نفعل سوى شيء واحد في كل مرة، فإن كل ما نفعله الآن هو بالتأكيد "أولويتنا القصوى". قراءة هذه الجملة هي أولويتك القصوى حاليًا. في حين أن "تحديد الأولويات" لتمرير الهلاك يعد بمثابة اتخاذ قرار خاطئ بشكل واضح، إلا أن هناك حالات أكثر خبثًا تتمثل في تحديد أولويات الأشياء الممتعة ولكنها مفيدة إلى حد ما، أو إعطاء الأولوية للأشياء بسبب الضرورة ولكن ليس الأهمية (على سبيل المثال، دفع الضرائب في الوقت المحدد). في الواقع، الشكوى الشائعة من تحديد الأولويات هي أننا نقوم فقط بالأشياء التي لها مواعيد نهائية، بدلاً من الأشياء ذات الأهمية. تميل عبارة "عاجل، ولكن ليس مهمًا" إلى التغلب على عبارة "مهم، ولكن ليس عاجلًا"، إذا لم نكن منتبهين.
+In fact we can't help but prioritize, even if mindlessly. Since we can only do one thing at a time, whatever we're doing now is definitionally our "highest priority." Reading this sentence is currently your highest priority. While "prioritizing" doom-scrolling is obviously faulty decision-making, there's the more insidious cases of prioritizing things that are fun but only somewhat useful, or of prioritizing things due to necessity but not importance (e.g. paying taxes on time). Indeed, a common complaint of prioritization is that we're only doing things that happen to have deadlines, instead of things that matter. "Urgent, but not important" tends to win over "Important, but not urgent," if we're not paying attention.
 
-تحديد الأولويات هو اختيار، وفي أغلب الأحيان، مما نود أن نعترف به، كان الاختيار طائشًا. لقد أضعنا جميعًا بضع ساعات في مشاهدة فيلم الموت أو YouTube أو التلفزيون (إذا كنت قد ولدت قبل عام 1990). ربما كان هذا النشاط مفيدًا لـ "الراحة التصالحية". ربما كان مجرد اختيار سيئ. ربما ينبغي لنا أن نمنح أنفسنا النعمة. ربما.
+Prioritization is a choice, and more often than we'd like to admit, the choice was thoughtless. We've all lost a few hours to doom-scrolling or YouTube or TV (if you were born before 1990). Maybe that activity was useful for "restorative rest." Maybe it was just a poor choice. Maybe we should give ourselves grace. Maybe.
 
-### الفن السابق
+### Prior art
 
-هناك، بطبيعة الحال، عدد لا يحصى من أطر تحديد الأولويات. في هذا الموقع وحده قمت بتفصيل الكثير من أعمالي:
+There are, of course, myriad prioritization frameworks. On this site alone I've detailed many of my own:
 
-* [Fermi ROI](https://longform.asmartbear.com/roi-rubric/): استبدال العناوين، وخاصة نمط "ROI"
-* [Binstack](https://longform.asmartbear.com/maximized-decision/): اتخاذ خيارات مهمة بأبعاد لا تضاهى
-* [مصفوفة الجوار](https://longform.asmartbear.com/adjacency/): كيفية توسيع منتج حالي
-* [معايير الاستثمار](https://longform.asmartbear.com/investment/): متى تستثمر الكثير من الوقت والمال
-* [الصخور والحصى والرمال](https://longform.asmartbear.com/rocks-pebbles-sand/): تحليل ثلاثة _أحجام_ من العمل وتحديد أولوياتها
-* [الرضا مقابل التعظيم](https://longform.asmartbear.com/maximizing/): إعطاء الأولوية [لبعض الأشياء](https://longform.asmartbear.com/product-metrics/) على أنها "جيدة بما فيه الكفاية"، والبعض الآخر على أنها "ليست جيدة بما فيه الكفاية"
-* [الانقسام](https://longform.asmartbear.com/complex-decisions/): فصل الجانب العلوي عن الجانب السلبي، ومعالجة كل منهما بشكل مختلف
-* [التخطيط الفصلي الخيالي](https://longform.asmartbear.com/strategic-planning/): تحديد أولويات العمل مقابل الأهداف الإستراتيجية والعقبات التي تمنعنا من الفوز
-* [تدفقات JIT](https://longform.asmartbear.com/jit-backlogs/): التعامل مع مدخلات متعددة لا تضاهى، وفصل تحديد الأولويات عن تخطيط العمل
+* [Fermi ROI](https://longform.asmartbear.com/roi-rubric/): Replacing rubrics, especially "ROI"-style
+* [Binstack](https://longform.asmartbear.com/maximized-decision/): Making significant choices with incomparable dimensions
+* [Adjacency Matrix](https://longform.asmartbear.com/adjacency/): How to expand an existing product
+* [Investment Criteria](https://longform.asmartbear.com/investment/): When to invest significant time and money
+* [Rocks, Pebbles, Sand](https://longform.asmartbear.com/rocks-pebbles-sand/): Analyzing and prioritizing three _sizes_ of work
+* [Satisficing vs Maximizing](https://longform.asmartbear.com/maximizing/): Prioritizing [some things](https://longform.asmartbear.com/product-metrics/) as "good enough," others as "never good enough"
+* [Cleaving](https://longform.asmartbear.com/complex-decisions/): Separating upside from downside, treating each differently
+* [Fairytale Quarterly Planning](https://longform.asmartbear.com/strategic-planning/): Prioritizing work against strategic objectives and the obstacles that are preventing us from winning
+* [JIT streams](https://longform.asmartbear.com/jit-backlogs/): Handling multiple, incomparable inputs, separating prioritization from work-planning
 
-لا أحب أي شيء يحتوي على نموذج تقييم أو نتيجة محسوبة ([لهذا السبب](https://longform.asmartbear.com/roi-rubric/)). لا أحب أي شيء يتمتع "بمستوى ثقة" (لأنك [نتائج ثقتك هراء](https://longform.asmartbear.com/confidence/)). لا أحب أي شيء [مصمم لإنتاج التماثل] (https://longform.asmartbear.com/models/) لشرائح الاستشاريين بدلاً من أن يعكس فوضى العالم الحقيقي. لا أحب أي شيء يهدف إلى مقارنة أشياء لا تضاهى (على سبيل المثال، تسجيل "مزيد من النمو" بنفس الرقم المركب الذي نحرزه "لا ينفد المال" أو "اجعل الموظفين سعداء").
+I don't like anything with a rubric or a computed score ([this is why](https://longform.asmartbear.com/roi-rubric/)). I don't like anything with a "confidence level" (because you [your confidence scores are bullshit](https://longform.asmartbear.com/confidence/)). I don't like anything that is [built to produce symmetry](https://longform.asmartbear.com/models/) for consultants' slides rather than reflecting the messiness of the real world. I don't like anything that purports to compare incomparable things (e.g. scoring "more growth" with the same made-up number as we score "don't run out of money" or "make employees happy").
 
-إلى جانب الأطر المبنية خصيصًا لهذا الغرض أعلاه، هناك إطار شامل بسيط ينطبق على كل أنواع الأولويات، والتي تم فرضها علينا من خلال ملاحظة أن لدينا الوقت لأقل من 10% مما نرغب في تحقيقه.
+Beyond the built-for-purpose frameworks above, there's a simple overarching framework that applies to every type of prioritization, foisted upon us through the observation that we have time for less than 10% of what we'd like to accomplish.
 
-وهنا هذا الإطار.
+Here is that framework.
 
-## 10x / 0.<wbr/>1x تحديد الأولويات
+## 10x / 0.<wbr/>1x Prioritization
 
-### 10x المهام
+### 10x tasks
 
-على الرغم من أهمية الوقت، فإن بعض المهام تكون ذات قيمة كبيرة ومؤثرة جدًا، بحيث يكون العائد على استثمارك أكبر بكثير مما تستثمره، حتى لو كنت تقدر وقتك (على سبيل المثال) [1000 دولار/ساعة](https://longform.asmartbear.com/value-time/).
+Despite how precious time is, some tasks are so valuable, so impactful, that the return on your investment is an order of magnitude more than what you put in, even if you valued your time at (say) [$1000/hour](https://longform.asmartbear.com/value-time/).
 
-يجب عليك البحث عن هذه "[الأشياء العشرة](https://longform.asmartbear.com/10x/)" التي يمكنها تحويل الشركة. أمثلة:
+You must seek out these "[10x things](https://longform.asmartbear.com/10x/)" that can transform the company. Examples:
 
-* الميزات القليلة التي تفوز بأغلبية المبيعات، سواء من خلال [البهجة] الخالصة(https://longform.asmartbear.com/willingness-to-pay/) أو بسبب مزيج من المنفعة والتفرد بين المنافسين. القاعدة الأساسية: يتم استخدام الميزات المؤثرة بشكل نشط من قبل 40% على الأقل من العملاء، أو تكون سببًا حاسمًا للشراء أو سببًا للبقاء بالنسبة لـ 15% على الأقل.
-* العثور على [الموضع التسويقي] المثالي (https://longform.asmartbear.com/more-value-not-save-money/) و[الصياغة](https://longform.asmartbear.com/authentic-is-dead/) حيث يتم تحويل الإعلانات أعلى بمقدار الضعف ويشتري الأشخاص الذين يهبطون على الصفحة الرئيسية مرتين أكثر. (ليس أعلى بنسبة 10% - [لا يمكنك قياس ذلك فعليًا](https://longform.asmartbear.com/p-hacking/).)
-* العثور على [نموذج التسعير](https://longform.asmartbear.com/pricing-determines-your-business-model/) الذي يعمل على زيادة النمو المربح إلى أقصى حد مع الحفاظ على العدالة للعملاء.
-* أخذ الوقت الكافي [لتحديد الهدف الاستراتيجي التالي أو أكبر عقبة بشكل صحيح](https://longform.asmartbear.com/strategic-planning/)، حتى يتمكن الجميع من تحديد أولويات وقتهم تجاه هذا الشيء الأكثر أهمية؛ إن العمل على الشيء الخطأ هو مضيعة للوقت بنسبة 100%، حتى لو تم تنفيذه بكفاءة وإتقان.
-* توظيف الموظف المهم التالي الذي يزيد بشكل كبير من إنتاجية الشركة وجودة العمل وجودة اتخاذ القرار، مع إضافة مجموعة مهارات كانت مفقودة سابقًا، وهي مجموعة مهارات مطلوبة للتغلب على العقبة الحالية أو الهدف الاستراتيجي التالي.
-* تطبيق الطاقة على منطقة يكون فيها حتى التغييرات الصغيرة تأثير كبير على النمو أو الربحية.
-* معالجة [العائق الأكبر أمام النمو](https://longform.asmartbear.com/growth-asymptote/).
-* تحديد كيفية [توسيع نطاق العمل إلى المنطقة المجاورة التالية](https://longform.asmartbear.com/adjacency/).
+* The few features that win the majority of sales, whether through pure [delight](https://longform.asmartbear.com/willingness-to-pay/) or because of a combination of utility and uniqueness among the competition. Rule of thumb: Impactful features are actively used by at least 40% of customers, or are a critical reason-to-buy or reason-to-stay for at least 15%.
+* Finding the ideal [marketing positioning](https://longform.asmartbear.com/more-value-not-save-money/) and [wording](https://longform.asmartbear.com/authentic-is-dead/) where advertisements convert 2x higher and people landing on the home page buy 2x more often. (Not 10% higher--[you can't actually measure that](https://longform.asmartbear.com/p-hacking/).)
+* Finding the [pricing model](https://longform.asmartbear.com/pricing-determines-your-business-model/) that maximizes profitable growth while maintaining fairness for customers.
+* Taking the time to [correctly identify the next strategic objective or biggest obstacle](https://longform.asmartbear.com/strategic-planning/), so everyone can prioritize their own time towards this most-important thing; working on the wrong thing is a 100% waste of time, even if efficiently- and perfectly-executed.
+* Hiring the next critical employee who dramatically increases the company's throughput and work-quality and decision-making-quality, while adding a skill-set that was previously missing, a skill-set needed to overcome the current obstacle or the next strategic objective.
+* Applying energy to an area where even small changes have a large impact on growth or profitability.
+* Addressing the [single biggest drag on growth](https://longform.asmartbear.com/growth-asymptote/).
+* Deciding how to [expand the business into the next adjacency](https://longform.asmartbear.com/adjacency/).
 
-إذا كنت لا تعرف ما هي المهمة أو المهمتان العشرة التي يجب أن تعمل عليهما، فإن *تحديد تلك المهام هو أولويتك القصوى*. وإلا فإنك بالتأكيد لا تحدد الأولويات بشكل صحيح؛ الشركة بأكملها تسيء استخدام وقتها. [هذه هي طريقتي](https://longform.asmartbear.com/strategic-planning/) لتحديد ماهية هذه الأشياء.
+If you don't know what one or two 10x tasks you should be working on, then *identifying that is your highest priority*. Otherwise you are certainly not prioritizing properly; the entire company is misusing their time. [This is my method](https://longform.asmartbear.com/strategic-planning/) for determining what those things are.
 
-إذا كان لديك عدد كبير جدًا من خيارات 10x، فإن [إطار عمل تحديد أولويات Binstack](https://longform.asmartbear.com/maximized-decision/) مصمم لهذا النوع من القرارات، حيث تكون المدخلات غير قابلة للمقارنة، وتريد تحقيق أقصى قدر من التأثير.
+If you have too many 10x choices, the [Binstack prioritization framework](https://longform.asmartbear.com/maximized-decision/) is designed for this type of decision, where the inputs are incomparable, and you want to maximal impact.
 
-ومع ذلك، فمن النادر أن يكون لديك بالفعل عدد كبير جدًا من احتمالات 10x. إذا كنت تعتقد أنك تفعل ذلك، فمن المحتمل أنك كنت سخيًا جدًا في إعلان الأشياء "10x". إنهم بحاجة إلى "10x" حرفيًا كمقياس رئيسي، أو أن يكونوا الفارق بين البقاء أو الإفلاس. يجب أن يكون الجانب الإيجابي منها هائلاً للغاية، حتى عندما يستغرق تنفيذها حتمًا وقتًا أطول بمقدار الضعف ويكون $\frac{1}{2}$ مؤثرًا كما كنت تعتقد، إلا أن الأمر لا يزال يستحق ذلك. للحصول على هذه الضربة 4x والحصول على نتيجة رائعة، يتطلب الأمر البدء بـ 10x.
+It's rare, however, to actually have too many 10x possibilities. If you think you do, it's likely that you are being too generous in declaring things "10x". They need to literally "10x" a key metric, or be the difference between survival or bankruptcy. Their upside must be so massive, that even when it inevitably takes 2x longer to implement and is $\frac{1}{2}$ as impactful as you thought, it was still worth it. To take that 4x hit and still have a great outcome requires starting at 10x.
 
-لتحسين تفكيرك بشكل أكبر، تعامل مع هذه الأمور على أنها *استثمارات* - أي. قضاء وقت طويل، وتوقع عائد كبير الحجم، ولكن مع عدم اليقين. [إليك دليل للقيام باستثمارات جيدة](https://longform.asmartbear.com/investment/).
+To further refine your thinking, treat these as *investments*--i.e. applying significant time, expecting an out-sized return, but with uncertainty. [Here is a guide for making good investments](https://longform.asmartbear.com/investment/).
 
-### 0.1x المهام
+### 0.1x tasks
 
-تبلغ قيمة معظم الأنشطة أقل بكثير من 1000 دولار في الساعة، حتى لو كانت إلزامية. هذه هي "المهام 0.1x." يجب عليك تقليل هذه من خلال عدة استراتيجيات:
+Most activities are worth far less than $1000/hour, even if they are mandatory. These are the "0.1x tasks." You must minimize these through several strategies:
 
-* قم بإزالتها تمامًا من خلال تنظيم حياتك أو منتجك أو [target-customer-selection](https://longform.asmartbear.com/icp-ideal-customer-persona/) أو [استراتيجية الشركة](https://longform.asmartbear.com/great-strategy/) لتجنبها. [إليك دليل](https://longform.asmartbear.com/pivot-points/) لاختراع طرق لتجنبها.
-* [تفويض](https://longform.asmartbear.com/delegation/)، حتى لو كانت النتيجة أسوأ مما كنت ستفعله بنفسك (على سبيل المثال، ارتفاع تكلفة توصيل البقالة وعدم اختيار نفس التفاح الذي كنت ستقطفه). لا يستحق الأمر الوقت للقيام بكل شيء (التعريف الخاص بك) "مثالي". يجب أن تكون [في القيادة بدلاً من أن تكون في السيطرة](https://longform.asmartbear.com/in-command/).
-* [الدفعة أو الأتمتة](https://longform.asmartbear.com/stop-chopping-to-pieces/)، وقبول العقوبات البسيطة (على سبيل المثال، دفع الفواتير مرة واحدة فقط شهريًا والمخاطرة برسوم متأخرة في بعض الأحيان، أو تجميع تصحيحات الأمان، حيث لا يمكنك تجاهلها إلى الأبد ولكن من غير المرجح أن يتم استغلال كل واحدة منها في الأسابيع القليلة المقبلة).
-* أرشفة التذاكر السائبة التي مضى عليها أكثر من 100 يوم. بسبب القاعدة التي تقول إن أكثر من 90% من أفكارنا لن يتم تنفيذها أبدًا، عليك أن تدرك أن هذه الأفكار موجودة بالفعل بين تلك الـ 90%؛ سيساعدك حذفها على تحديد أولويات الباقي. إذا كان هناك شيء مهم حقًا، فسوف يظهر مرة أخرى في المستقبل. (ومن هنا جاءت كلمة "أرشفة"، وليس "حذف".)
+* Eliminate them completely by structuring your life, product, [target-customer-selection](https://longform.asmartbear.com/icp-ideal-customer-persona/), or [company strategy](https://longform.asmartbear.com/great-strategy/) to avoid them. [Here is a guide](https://longform.asmartbear.com/pivot-points/) for inventing ways to avoid them.
+* [Delegate](https://longform.asmartbear.com/delegation/), even if the result is worse than what you'd do yourself (e.g. grocery delivery being both more expensive, and not picking the same apples you would have picked). It's not worth the time to do everything (your definition of) "perfect." You need to be [in command instead of in control](https://longform.asmartbear.com/in-command/).
+* [Batch or automate](https://longform.asmartbear.com/stop-chopping-to-pieces/), accepting minor penalties (e.g. paying bills only once per month and risking occasional late fees, or batching security patches, since you can't ignore them forever but each one is unlikely to be exploited in the next few weeks).
+* Archive loose tickets that are older than 100 days. Because of the rule that more than 90% of our ideas will never be done, realize that these are already among that 90%; deleting them will help you prioritize the remainder. If something is truly important, it will come up again in future. (Hence "archive", not "delete".)
 
-من المغري افتراض أن المهام الصغيرة والسهلة هي مهام تبلغ 0.1x تلقائيًا، ولكن هذه مغالطة الخلط بين "التأثير" و"الجهد". يمكن أن يكون للأشياء السهلة تأثير كبير (مما يجعلها 10 أضعاف تقريبًا)، والأشياء المعقدة لا يمكن أن يكون لها أي تأثير على الإيرادات أو سعادة الموظفين.
+It's tempting to assume that small, easy tasks are automatically 0.1x tasks, but that is a fallacy of conflating "impact" with "effort". Easy things can have a large impact (making them 10x almost definitionally), and complex things can have no impact on revenue or employee happiness.
 
-في بعض الأنظمة، يصل تأثير العديد من المهام الصغيرة إلى 10 أضعاف؛ أسمي هذا "الحياة بألف شرارة".[^1] أحد الأمثلة الشائعة هو "التصميم الرائع". على الرغم من أن [التصميم المذهل ليس مطلوبًا لتحقيق النجاح](https://longform.asmartbear.com/design/)، إلا أن هناك العديد من الأمثلة على المنتجات التي فازت في المقام الأول بسبب التصميم المحبوب. ومع ذلك، فإن التصميم الرائع ليس "شيئًا واحدًا". هناك قرارات معمارية واسعة النطاق، ولكنها تنبثق أيضًا من آلاف التفاصيل: اختيارات الألوان الدقيقة، والتخطيط المثالي للبيكسل، واختيار الخط والكلمة، ونسب العرض إلى الارتفاع، والتلاعب بالمساحة البيضاء، والتفاعل السريع المُرضي، ونظام تصميم للاتساق الشامل، وإصلاح كل خطأ أخير يكون جماليًا وليس وظيفيًا، والانسجام بين موقع الويب، والمنتج، ورسائل البريد الإلكتروني، والمواد اللازمة للتسويق والمبيعات والدعم. لا ينبغي تجاهل هذه المهام التي لا تعد ولا تحصى باعتبارها 0.1x بشكل فردي، *إذا* كانت تخدم على وجه التحديد مفهوم 10x الذي يعد أيضًا الطريقة الأساسية لكسب العملاء في سوق تنافسية.
+In some regimes, many small tasks add up to a 10x impact; I call this "life by a thousand sparks".[^1] A common example is "great design". While [amazing design is not required for success](https://longform.asmartbear.com/design/), there are many examples of products winning primarily because of beloved design. Great design is not "one thing," however. There are macro-scale architectural decisions, but also it emerges from thousand details: subtle color choices, pixel-perfect layout, font and word selection, aspect ratios, play of white space, satisfyingly snappy interactivity, a design system for comprehensive consistency, fixing every last bug that is aesthetic rather than functional, and harmony between the website, the product, the emails, and the material for marketing, sales, and support. These myriad tasks should not be dismissed as individually 0.1x, *if* they are specifically in service to a 10x concept that is also the primary way you win customers in a competitive market.
 
-[^1]: معكوس مضحك لـ "الموت بألف جرح".
+[^1]: A facetious inverse of "death by a thousand cuts".
 
 ![I am multi-tasking! I've done this report three or four times already!](https://public.asmartbear.com/books/anthology/chapters/prioritization/d3501print-simple.png)
 
-### ماذا لو لم تكن هناك مهام 1x؟
+### What if there were no 1x tasks?
 
-تحديد الأولويات ليس انقسامًا، لكنني أشجعك على التصرف إذا كان الأمر كذلك، مما يجبر نفسك على اتخاذ قرارات أكثر وضوحًا. وفرة الأفكار أمر جميل، لكن يجب أن نكون قاسيين، نهائيين، وثمينين في وقتنا.
+Prioritization isn't a dichotomy, but I encourage you to act is if it were, forcing yourself to make clearer decisions. Idea-abundance is beautiful, but we must be ruthless, final, and precious with our time.
 
-سوف تقوم حتماً بتسمية الأشياء على أنها "10x" والتي هي في الحقيقة 1x. سوف تقضي الكثير من الوقت في أشياء 0.1x؛ بعد كل شيء، هناك الكثير. إن فرض هذا الاختيار الثنائي أمر اختزالي، ولكنه يساعدنا على أن نكون عديمي الرحمة.
+You will inevitably label things as "10x" which are really 1x. You will spend too much time on 0.1x things; after all, there are so many. Forcing this binary choice is reductive, but helps us be ruthless.
 
-بالطبع، في الواقع هناك مجموعة واسعة من الأفكار والأحجام والتأثيرات والمخاطر والثقة. إن قدرتنا على [قياس أي من ذلك حتى بعد وقوعه](https://longform.asmartbear.com/unmeasurable-metrics/) ضعيفة بشكل مثير للضحك، و[قدرتنا على التنبؤ بأي منها](https://longform.asmartbear.com/confidence/) أكثر إثارة للشفقة. إذا كنت تصر على وجود مهام 1x،[^2] فاستخدم [Rocks, Pebbles, Sand Framework](https://longform.asmartbear.com/rocks-pebbles-sand/) الذي يشرح كيفية التقسيم حسب الحجم، وكيفية تحديد أولويات كل حجم بشكل مختلف، وكيفية حل التعارضات الشائعة التي تنشأ أثناء جدولة العمل في العالم الحقيقي الفوضوي.
+Of course in reality there is a spectrum of ideas, sizes, impacts, risks, and confidence. Our ability to [measure any of that even _post facto_](https://longform.asmartbear.com/unmeasurable-metrics/) is laughably poor, and [our ability to predict any of them](https://longform.asmartbear.com/confidence/) is even more pitiful. If you insist on the existence of 1x tasks,[^2] use the [Rocks, Pebbles, Sand Framework](https://longform.asmartbear.com/rocks-pebbles-sand/) which explains how to segment by size, how to prioritize each size differently, and how to resolve the common conflicts that arise as you schedule work in the messy real world.
 
-[^2]: الأس الآخر لـ 10x / 1x / 0.1x هو المعلم الرائع [إدارة المنتجات](https://longform.asmartbear.com/great-product-manager/) [شرياس دوشي](https://linktr.ee/shreyasdoshi) مع [LNO] الممتاز الإطار](https://twitter.com/shreyas/status/1223816226918453253?s=20).
+[^2]: Another exponent of 10x / 1x / 0.1x is the great [Product Management](https://longform.asmartbear.com/great-product-manager/) teacher [Shreyas Doshi](https://linktr.ee/shreyasdoshi) with his excellent [LNO framework](https://twitter.com/shreyas/status/1223816226918453253?s=20).
 
-## التعامل مع التداعيات: تبول الكلاب على الأرض
+## Dealing with the fallout: Dogs peeing on the floor
 
-في غرفة معيشة مضاءة جيدًا، يتبول كلب على الأرض بينما يجلس رجل على كرسي يقرأ كتابًا. الرجل لا يتفاعل. أنت تراقب من النافذة، وتخلص إلى أن هذا الرجل لا بد أن يكون جاهلا، أو مجنونا، أو على الأقل صاحب قرار ضعيف. ضع الكتاب جانباً وخذ هذا الكلب في نزهة، أيها الغبي!
+In a well-lit living room, a dog is peeing on the floor while a man sits in a chair, reading a book. The man doesn't react. You're watching from a window, concluding that this man must be ignorant, crazy, or at least a poor decision-maker. Put down the book and take that dog for a walk, idiot!
 
-باستثناء أنك لا تعرف القصة كاملة.
+Except, you don't know the full story.
 
-في ساعة واحدة، يعقد الرجل أهم اجتماع في حياته. أدائه في هذا الاجتماع سيحدد السنوات العشر القادمة من حياته المهنية. كل ما يحتاج إلى معرفته ليكون ناجحًا في هذا الاجتماع موجود في هذا الكتاب. نعم، كان ينبغي أخذ الكلب في نزهة على الأقدام، ولكن عقوبة الاضطرار إلى تنظيف البول تستحق العناء، لأن المكالمة *هذا* مهم.
+In one hour, the man has the most important meeting of his life. His performance in this meeting will dictate the next ten years of his career. Everything he needs to know to be successful in this meeting, is in that book. Yes the dog should have been taken for a walk, but the penalty of having to clean up the pee is worth it, because the call is *that* important.
 
-القرار عقلاني. ومع ذلك فإن المراقب لا يرى إلا اللاعقلانية. ويعود ذلك إلى أمرين:
+The decision is rational. Yet the observer sees only irrationality. This is caused by two things:
 
-1. المراقب لا يعرف القصة كاملة.
-2. يجد المراقب صعوبة في قبول أن شيئًا سيئًا/غبيًا يمكن أن يكون القرار الصحيح، لأن البديل أسوأ.
+1. The observer doesn't know the complete story.
+2. The observer has trouble accepting that something bad/stupid can nevertheless be the right decision, because the alternative is even worse.
 
-يحدث هذا حتمًا في شركتك عندما تقوم بتحديد الأولويات بلا رحمة. نظرًا لأنك [تركز على الشيء الأكثر أهمية](https://longform.asmartbear.com/focus/)، فإن الأشياء الأخرى تبقى بور. أشياء مهمة. الحرائق المشتعلة التي تتجاهلها عمدًا، لأنها على الرغم من أنها نيران، إلا أنها لا تزال ليست بنفس أهمية الشيء الأكثر أهمية. الكلاب تتبول على الأرض. عن قصد.
+This inevitably happens at your company when you ruthlessly prioritize. Because you're so [focused on the _most_ important thing](https://longform.asmartbear.com/focus/), other things lay fallow. Important things. Fires burning that you're intentionally ignoring because although they _are_ fires, they still aren't as important as the Most Important Thing. Dogs peeing on the floor. On purpose.
 
 ![bear working while fire burns](https://public.asmartbear.com/books/anthology/chapters/prioritization/bear-working-while-fire-cropped-simple.png)
 
-لكن آخرين يرون النيران مشتعلة، والكلاب تتبول لعدة أشهر، لسنوات، ثم يفقدون الثقة في القيادة. إنهم يشكون - بشكل مفهوم ودقيق - ويفقدون الروح المعنوية. والأسوأ من ذلك أنهم بدأوا في الاعتقاد بأن أصحاب القرار يجب أن يكونوا مجانين، تمامًا كما اعتقد مراقب النافذة. يؤدي فقدان الثقة والاحترام إلى رحيل المواهب، مما يؤدي إلى موت المنظمة.
+But others see the fires burning, the dogs peeing, for months, for years, and then lose faith in leadership. They complain--understandably, and accurately--and lose morale. Worse, they start believing that The Deciders must be crazy, just as the window-peeker believed. Loss of trust and respect leads to talent leaving, which leads to the death of an organization.
 
-"إنهم لا يستمعون أبدًا إلى أفكاري"، هذا ما يشتكي منه صانعو الأفكار الأكثر إنتاجًا. وهم على حق أيضا. ففي نهاية المطاف، من الناحية الرياضية، لا يمكنك أبدًا تنفيذ أكثر من نسبة قليلة من هذه الأفكار. ليس لأنك "لا تستمع"، ولكن بسبب الرياضيات التي لا هوادة فيها. يجب عليك التركيز على الكلاب التي تتبول، ولا يمكنك القيام بمعظم الأشياء الأخرى.
+"They never listen to my ideas," the most prolific idea-creators complain. They're right, too; after all, mathematically you could never implement more than a few percent of those ideas. Not because you're "not listening," but because of inexorable math. You have to focus on the peeing dogs, and you can't do most other things.
 
-الطريقة التي تقاوم بها هذا التقدم الطبيعي هي معالجة النقطتين أعلاه. عليك أن تنقل القصة كاملة، ليس فقط الأولويات القليلة، ولكن أيضًا *لماذا* هي الأولوية. عليك أن تعترف بالأشياء العشرين الأخرى التي تستحق الاهتمام أيضًا، موضحًا سبب تركنا لتلك الحرائق مشتعلة عمدًا، وتلك الكلاب تتبول، لأن الأولويات القصوى أكثر أهمية. ولهذا السبب تعتبر قائمة "عدم التنفيذ" جزءًا مهمًا من الخطة.
+The way you combat this natural progression is to address the two points above. You have to transmit the complete story, not just the few priorities, but also *why* they are the top ones. You have to acknowledge the twenty things other that also deserve attention, explaining why we're intentionally letting those fires burn, those dogs pee, because the top priorities are even more important. This is why the "not doing" list is such an important part of the plan.
 
-ويمكنك إعادة سرد قصة تبول الكلب على الأرض، والاعتراف بأنه أمر سيء عند مشاهدة الكلاب تتبول، خاصة عندما تعرف كيفية منع ذلك. لا أتذكر أصل هذا المثل بالتحديد، لكنني أعدت سرده عدة مرات في WP Engine، وقد ظل ثابتًا. إنها تعمل.
+And you can retell the story of the dog peeing on the floor, acknowledging that it feels bad watching the dogs pee, especially when you know how to prevent it. I don't remember the origin of this particular parable, but I've retold it many times at WP Engine, and it sticks. It works.
 
-هذا هو ما يبدو عليه ترتيب الأولويات في الواقع. الصورة الكاملة، وليس فقط تحذيرات وسائل التواصل الاجتماعي بأنك "[يجب أن تركز!](https://longform.asmartbear.com/focus/)".
+This is what prioritization actually looks like. The full picture, not just the social media admonitions that you "[have to focus!](https://longform.asmartbear.com/focus/)".
 
-تتطلب القصة الكاملة تواصلًا مستمرًا ومتكررًا. لأنه من السيئ رؤية البول؛ لا يمكننا تبرير ذلك إلا عندما نرى أن البول يمنحنا الوقت للقيام بالأشياء الأكثر أهمية - الأشياء التي تستفيد من وقتنا الثمين والمحدود للغاية لتحقيق نتائج كبيرة الحجم.
+The full story requires constant, repetitive communication. Because it _is_ bad to see the pee; we can rationalize it only when we see that the pee buys us time to do the most important things--the things that leverage our precious, woefully limited time, for out-sized results.
 
-لم يقل أحد أن الأمر سيكون سهلاً. حظ سعيد.
+No one said it would be easy. Good luck.

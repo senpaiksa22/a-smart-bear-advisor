@@ -8,7 +8,7 @@
     "category_en": "AI Era Dynamics, Disruption & Big Tech",
     "category_ar": "ديناميكيات عصر الذكاء الاصطناعي والثورات التقنية",
     "title_en": "\"You didn't do it right\"",
-    "title_ar": "\\",
+    "title_ar": "لم تقم بالأمر على النحو الصحيح",
     "summary_en": "Four sincere attempts at OKRs, four failures, and every time: \"you didn't do it right.\" Maybe the framework doesn't fit you -- so how do you find one that does?",
     "summary_ar": "أربع محاولات صادقة لتحقيق الأهداف والأهداف الرئيسية، وأربع محاولات فاشلة، وفي كل مرة: \\",
     "subtopics_en": [
@@ -147,7 +147,7 @@
     "category_en": "SaaS Metrics, Unit Economics & Financial Health",
     "category_ar": "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية",
     "title_en": "Lost confidence",
-    "title_ar": "فقدت الثقة",
+    "title_ar": "فقدان الثقة بالنفس وكيفية استعادتها",
     "summary_en": "RICE and other confidence-based frameworks are mostly noise. Here's how to make decisions without pretending to know the unknowable.",
     "summary_ar": "RICE والأطر الأخرى القائمة على الثقة هي في الغالب ضوضاء. وإليك كيفية اتخاذ القرارات دون التظاهر بمعرفة ما لا يمكن معرفته.",
     "subtopics_en": [
@@ -310,7 +310,7 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "How to hire people who are better than you",
-    "title_ar": "كيفية توظيف الأشخاص الذين هم أفضل منك",
+    "title_ar": "كيف توظف أشخاصاً أكثر كفاءة وذكاءً منك",
     "summary_en": "If you don't hire people better than you, the organization gets bigger, not better. But how do you hire for something you don't understand?",
     "summary_ar": "إذا لم تقم بتعيين أشخاص أفضل منك، فإن المنظمة تصبح أكبر، وليس أفضل. ولكن كيف يمكنك توظيف شيء لا تفهمه؟",
     "subtopics_en": [
@@ -473,7 +473,7 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Strategic choices: When both options are good",
-    "title_ar": "الخيارات الاستراتيجية: عندما يكون كلا الخيارين جيدين",
+    "title_ar": "الخيارات الاستراتيجية: عندما يكون كلا الخيارين ممتازين",
     "summary_en": "Real strategy means choosing between two good options and accepting all the consequences--even the painful ones you don't like.",
     "summary_ar": "الإستراتيجية الحقيقية تعني الاختيار بين خيارين جيدين وقبول كل العواقب، حتى تلك المؤلمة التي لا تعجبك.",
     "subtopics_en": [
@@ -630,7 +630,7 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Creating space",
-    "title_ar": "خلق الفضاء",
+    "title_ar": "إفساح المجال: كيف تخلق وقتاً ومساحة للتركيز والابتكار",
     "summary_en": "Do less, to create the space to be great.",
     "summary_ar": "افعل أقل، لتخلق مساحة رائعة.",
     "subtopics_en": [
@@ -745,7 +745,7 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Mission, Vision, poTAYto, poTAHto",
-    "title_ar": "المهمة، الرؤية، بوتايتو، بوتاتو",
+    "title_ar": "بيانات المهمة والرؤية: مسميات ومصطلحات لا قيمة حقيقية لها",
     "summary_en": "Mission, vision, purpose, BHAG.  Are they useful north stars, or academic nonsense?",
     "summary_ar": "المهمة، الرؤية، الهدف، BHAG.  هل هم نجوم الشمال مفيدون أم هراء أكاديمي؟",
     "subtopics_en": [
@@ -908,7 +908,7 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Your target market isn't demographic",
-    "title_ar": "السوق المستهدف ليس ديموغرافيًا",
+    "title_ar": "سوقك المستهدف ليس مجرد بيانات ديموغرافية",
     "summary_en": "How to define your actual target market, which probably isn't traditional demographics and firmographics.",
     "summary_ar": "كيفية تحديد السوق المستهدف الفعلي، والذي ربما لا يكون عبارة عن التركيبة السكانية التقليدية والشركات.",
     "subtopics_en": [
@@ -1045,7 +1045,7 @@
     "category_en": "SaaS Metrics, Unit Economics & Financial Health",
     "category_ar": "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية",
     "title_en": "Max MRR: Your growth ceiling",
-    "title_ar": "ماكس MRR: سقف النمو الخاص بك",
+    "title_ar": "سقف الإيرادات الشهرية المتكررة (Max MRR): كيف تحدد أقصى نمو لشركتك",
     "summary_en": "Your company will stop growing sooner than you think. The \"Max MRR\" metric predicts revenue plateaus based on churn and new revenue.",
     "summary_ar": "سوف تتوقف شركتك عن النمو في وقت أقرب مما تعتقد. يتنبأ مقياس \\",
     "subtopics_en": [
@@ -1208,7 +1208,7 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Ruthless prioritization while the dog pees on the floor",
-    "title_ar": "تحديد الأولويات بلا رحمة بينما يتبول الكلب على الأرض",
+    "title_ar": "تحديد الأولويات بحزم لا يرحم وسط الفوضى اليومية العارمة",
     "summary_en": "Because time is zero-sum, prioritization is mandatory. This is an index of purpose-built prioritization frameworks, and an overarching one to optimize your life.",
     "summary_ar": "لأن الوقت محصلته صفر، فإن تحديد الأولويات أمر إلزامي. يعد هذا فهرسًا لأطر تحديد الأولويات المصممة لهذا الغرض، وهو فهرس شامل لتحسين حياتك.",
     "subtopics_en": [
@@ -1367,7 +1367,7 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "More or less",
-    "title_ar": "أكثر أو أقل",
+    "title_ar": "أكثر أو أقل: مفارقة البساطة والتركيز",
     "summary_en": "You must select between three pricing strategies, and fully commit to their implications.",
     "summary_ar": "يجب عليك الاختيار بين ثلاث استراتيجيات تسعير، والالتزام الكامل بآثارها.",
     "subtopics_en": [
@@ -1573,7 +1573,7 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Product Purgatory: When they love it but still don't buy",
-    "title_ar": "مطهر المنتج: عندما يحبونه ولكنهم لا يشترونه",
+    "title_ar": "جحيم المنتج المعلق: عندما يعجبهم المنتج ولكنهم يرفضون الشراء",
     "summary_en": "When even \"free\" is too expensive.",
     "summary_ar": "عندما يكون حتى \\",
     "subtopics_en": [
@@ -1640,7 +1640,7 @@
     "category_en": "SaaS Metrics, Unit Economics & Financial Health",
     "category_ar": "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية",
     "title_en": "SSEBITDA⁠--A steady-state profit metric for SaaS companies",
-    "title_ar": "SSEBITDA⁠--مقياس الربح الثابت لشركات SaaS",
+    "title_ar": "مقياس SSEBITDA: حساب الربحية المستقرة لشركات البرمجيات السحابية SaaS",
     "summary_en": "How can a business that is \"spending to grow\" determine whether it's truly profitable underneath all that \"revenue acceleration?\"  Here's a way.",
     "summary_ar": "كيف يمكن لشركة \\",
     "subtopics_en": [
@@ -1779,7 +1779,7 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Sometimes never compete on price",
-    "title_ar": "في بعض الأحيان لا تتنافس أبدًا على السعر",
+    "title_ar": "لماذا يجب ألا تنافس أبداً على خفض الأسعار",
     "summary_en": "The difference between \"low prices\" as a race to the bottom or as a success story (like Amazon, Costco, IKEA, Vanguard) is in leveraging intentional weaknesses.",
     "summary_ar": "الفرق بين \\",
     "subtopics_en": [
@@ -1846,7 +1846,7 @@
     "category_en": "AI Era Dynamics, Disruption & Big Tech",
     "category_ar": "ديناميكيات عصر الذكاء الاصطناعي والثورات التقنية",
     "title_en": "All pretty models are wrong, but some ugly models are useful",
-    "title_ar": "كل النماذج الجميلة خاطئة، لكن بعض النماذج القبيحة مفيدة",
+    "title_ar": "كل النماذج الجميلة خاطئة، لكن بعض النماذج البسيطة مفيدة جداً",
     "summary_en": "Identifying useful frameworks for companies, strategy, markets, and organizations, instead of those that just look pretty in PowerPoint.",
     "summary_ar": "تحديد الأطر المفيدة للشركات والاستراتيجيات والأسواق والمؤسسات، بدلاً من تلك التي تبدو جميلة في برنامج PowerPoint.",
     "subtopics_en": [
@@ -1913,7 +1913,7 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "\"I scratched my own itch\" isn't good enough",
-    "title_ar": "\\",
+    "title_ar": "حل مشكلتي الشخصية وحدها لا يكفي لبناء شركة ناشئة ناجحة",
     "summary_en": "This isn't the humble-brag you think it is; The most common origin story is also common to startups that fail. But it's a start.",
     "summary_ar": "هذا ليس التباهي المتواضع الذي تعتقده؛ قصة الأصل الأكثر شيوعًا هي أيضًا شائعة في الشركات الناشئة التي تفشل. لكنها البداية.",
     "subtopics_en": [
@@ -2076,7 +2076,7 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "How to select your first marketing channel",
-    "title_ar": "كيف تختار قناتك التسويقية الأولى؟",
+    "title_ar": "كيف تختار قناة التسويق والاستحواذ الأولى لشركتك",
     "summary_en": "When you're brand new, how do you select your first marketing channel?",
     "summary_ar": "عندما تكون جديدًا، كيف تختار قناتك التسويقية الأولى؟",
     "subtopics_en": [
@@ -2167,7 +2167,7 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "The Startup Drake Equation",
-    "title_ar": "معادلة دريك الناشئة",
+    "title_ar": "معادلة دريك للشركات الناشئة: حساب احتمالية النجاح والوصول لـ 100 مليون",
     "summary_en": "Why do smart, driven founders fail, despite having great ideas and execution? This model offers an answer, and a path to increase the chance of success.",
     "summary_ar": "لماذا يفشل المؤسسون الأذكياء والمتحمسون، على الرغم من امتلاكهم أفكارًا رائعة وتنفيذهم؟ يقدم هذا النموذج إجابة وطريقًا لزيادة فرص النجاح.",
     "subtopics_en": [
@@ -2330,7 +2330,7 @@
     "category_en": "Foundational Philosophy & Startup Wisdom",
     "category_ar": "فلسفة ريادة الأعمال والحكمة التأسيسية",
     "title_en": "\"Stealth mode\" and other f'ing brilliant strategies",
-    "title_ar": "\\",
+    "title_ar": "العمل في الخفاء (Stealth Mode) وغيرها من الاستراتيجيات الكارثية",
     "summary_en": "Oh you secretive devil! The last thing you need is anyone finding out about your startup. Like competitors. Or customers.",
     "summary_ar": "يا أيها الشيطان الخفي! آخر شيء تحتاجه هو أن يعرف أي شخص عن شركتك الناشئة. مثل المنافسين. أو العملاء.",
     "subtopics_en": [
@@ -2493,7 +2493,7 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Explore vs Execute",
-    "title_ar": "الاستكشاف مقابل التنفيذ",
+    "title_ar": "الاستكشاف مقابل التنفيذ: موازنة الابتكار مع تشغيل الشركة",
     "summary_en": "The two main business modalities are more different than you expect. When you hit PMF, it's a culture-shift to switch from one to the other.",
     "summary_ar": "تختلف طريقتا العمل الرئيسيتان عما تتوقعه. عندما تضغط على PMF، يعد التحول من واحدة إلى أخرى بمثابة تحول ثقافي.",
     "subtopics_en": [
@@ -2580,7 +2580,7 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "When you have nothing: How to find potential customers to interview",
-    "title_ar": "عندما لا يكون لديك شيء: كيفية العثور على العملاء المحتملين لإجراء مقابلات معهم",
+    "title_ar": "عندما لا تملك شيئاً: كيف تجد العملاء المحتملين لإجراء مقابلات معهم",
     "summary_en": "How to find potential customers to interview before you have a product, a website, or even a name.",
     "summary_ar": "كيفية العثور على العملاء المحتملين لإجراء مقابلات معهم قبل أن يكون لديك منتج أو موقع ويب أو حتى اسم.",
     "subtopics_en": [
@@ -2743,7 +2743,7 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Brittle Points: How to make companies robust",
-    "title_ar": "النقاط الهشة: كيفية جعل الشركات قوية",
+    "title_ar": "نقاط الهشاشة: كيف تجعل شركتك الناشئة صلبة ومقاومة للصدمات",
     "summary_en": "Brittleness is when the company fails because just one component breaks. Learn some strategies for fixing Brittle Points.",
     "summary_ar": "تحدث الهشاشة عندما تفشل الشركة بسبب تعطل عنصر واحد فقط. تعلم بعض الاستراتيجيات لإصلاح النقاط الهشة.",
     "subtopics_en": [
@@ -2834,7 +2834,7 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "p-Hacking your A/B tests",
-    "title_ar": "p-Hacking your A/B tests",
+    "title_ar": "التلاعب بالبيانات وتزييف نتائج اختبارات A/B (p-Hacking)",
     "summary_en": "Half of your \"successful\" A/B tests are false-positives. This is why, and how to fix it.",
     "summary_ar": "Half of your \\",
     "subtopics_en": [
@@ -2973,9 +2973,9 @@
     "category_en": "SaaS Metrics, Unit Economics & Financial Health",
     "category_ar": "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية",
     "title_en": "No wait, of course THAT is the single most important SaaS metric",
-    "title_ar": "No wait, of course THAT is the single most important SaaS metric",
+    "title_ar": "المقياس الأوحد والأهم لشركات البرمجيات السحابية SaaS",
     "summary_en": "Is it LTV? Retention? NRR? Magic Number? Rule of 40?  Or: Do you need to un-ask the question.",
-    "summary_ar": "Is it LTV? Retention? NRR? Magic Number? Rule of 40?  Or: Do you need to un-ask the question.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'المقياس الأوحد والأهم لشركات البرمجيات السحابية SaaS'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -3088,7 +3088,7 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "The Serengeti Plain: Fallacies that aren't fallacies",
-    "title_ar": "The Serengeti Plain: Fallacies that aren't fallacies",
+    "title_ar": "مغالطات ظاهرية ليست مغالطات في واقع الأعمال",
     "summary_en": "A contrarian look at logical \"fallacies\" that maybe aren't so illogical after all.",
     "summary_ar": "A contrarian look at logical \\",
     "subtopics_en": [
@@ -3243,7 +3243,7 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Pivot Points",
-    "title_ar": "Pivot Points",
+    "title_ar": "نقاط التحول المحورية (Pivot Points): متى وكيف تغير مسار شركتك؟",
     "summary_en": "Not \"enabling constraints\", not \"weaknesses\", not even \"strengths\". The concept of a \"Pivot Point\" grapples with the same reality, but more constructive and useful.",
     "summary_ar": "Not \\",
     "subtopics_en": [
@@ -3406,9 +3406,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Legacy",
-    "title_ar": "Legacy",
+    "title_ar": "الإرث المؤسسي: ما الذي تتركه وراءك عندما تبني وتبيع شركة؟",
     "summary_en": "Humans have always tried to live forever. Maybe you can, but not in the way you imagine.",
-    "summary_ar": "Humans have always tried to live forever. Maybe you can, but not in the way you imagine.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الإرث المؤسسي: ما الذي تتركه وراءك عندما تبني وتبيع شركة؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -3521,7 +3521,7 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Profitable on day one!",
-    "title_ar": "Profitable on day one!",
+    "title_ar": "الربحية من اليوم الأول: كيف تبني شركة تعيل نفسها فوراً",
     "summary_en": "You're not profitable if you couldn't afford someone else to do your job. $1000/mo isn't profitable. Fix your definition of \"profitable,\" and build a truly profitable business.",
     "summary_ar": "You're not profitable if you couldn't afford someone else to do your job. $1000/mo isn't profitable. Fix your definition of \\",
     "subtopics_en": [
@@ -3588,9 +3588,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Individual efficiency vs administrative efficiency",
-    "title_ar": "Individual efficiency vs administrative efficiency",
+    "title_ar": "الكفاءة الفردية مقابل الكفاءة الإدارية: إدارة التناقض الصعب",
     "summary_en": "When to prioritize individual autonomy, and when to standardize for global optimization.",
-    "summary_ar": "When to prioritize individual autonomy, and when to standardize for global optimization.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Individual efficiency vs administrative efficiency'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -3751,9 +3751,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "\"Authentic\" is dead. And so is \"is dead.\"",
-    "title_ar": "\\",
+    "title_ar": "ماتت كلمة 'أصالة' وماتت معها كل الشعارات التسويقية المبتذلة",
     "summary_en": "It's lazy writing. It's boring and undifferentiated. Say something meaningful, specific, evocative, so your website wins, and you can be proud of it.",
-    "summary_ar": "It's lazy writing. It's boring and undifferentiated. Say something meaningful, specific, evocative, so your website wins, and you can be proud of it.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Authentic\" is dead. And so is \"is dead.'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -3884,9 +3884,9 @@
     "category_en": "SaaS Metrics, Unit Economics & Financial Health",
     "category_ar": "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية",
     "title_en": "How annual pre-pay creates an infinite marketing budget",
-    "title_ar": "How annual pre-pay creates an infinite marketing budget",
+    "title_ar": "كيف يصنع الدفع السنوي المسبق ميزانية تسويقية لا نهائية لشركتك",
     "summary_en": "Dozens of founders have used this technique to transform the cash-flow of their businesses. Now it's your turn.",
-    "summary_ar": "Dozens of founders have used this technique to transform the cash-flow of their businesses. Now it's your turn.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How annual pre-pay creates an infinite marketing budget'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -4047,9 +4047,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "\"It's a Balance\" isn't always the answer",
-    "title_ar": "\\",
+    "title_ar": "القول بأن 'الأمر يتطلب توازناً' ليس دائماً الإجابة الصحيحة",
     "summary_en": "Resolve decision-making conflicts by selecting the right approach: Make a bold choice, synthesize a new solution, or find the balance.",
-    "summary_ar": "Resolve decision-making conflicts by selecting the right approach: Make a bold choice, synthesize a new solution, or find the balance.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: It's a Balance\" isn't always the answer'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -4162,9 +4162,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Disentangling the three languages: Customers, Product, Business",
-    "title_ar": "Disentangling the three languages: Customers, Product, Business",
+    "title_ar": "فك تشابك اللغات الثلاث في الشركة: العملاء، المنتج، وإدارة الأعمال",
     "summary_en": "Stop talking past each other. Translate between the three \"languages\" of  customer desires, product features, and business goals.",
-    "summary_ar": "Stop talking past each other. Translate between the three \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'فك تشابك اللغات الثلاث في الشركة: العملاء، المنتج، وإدارة الأعمال'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -4325,9 +4325,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Adjacency Matrix: How to expand after PMF",
-    "title_ar": "Adjacency Matrix: How to expand after PMF",
+    "title_ar": "مصفوفة التجاور: كيف تتوسع استراتيجياً بعد ملاءمة المنتج للسوق",
     "summary_en": "A simple workshop that evaluates new business ideas relative to your existing strengths -- the key to expanding without overreaching.",
-    "summary_ar": "A simple workshop that evaluates new business ideas relative to your existing strengths -- the key to expanding without overreaching.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'مصفوفة التجاور: كيف تتوسع استراتيجياً بعد ملاءمة المنتج للسوق'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -4440,9 +4440,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "It's a torturous chaos until it isn't",
-    "title_ar": "It's a torturous chaos until it isn't",
+    "title_ar": "إنها فوضى مؤلمة وشاقة حتى تصبح فجأة أمراً منظماً ومربحاً",
     "summary_en": "Even at wildly successful startups, the first few years are gut-wrenching, uncertain, on the brink of collapse, where pessimism is realism, and yet optimism is required.",
-    "summary_ar": "Even at wildly successful startups, the first few years are gut-wrenching, uncertain, on the brink of collapse, where pessimism is realism, and yet optimism is required.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: It's a torturous chaos until it isn't'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -4555,9 +4555,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Avoid blundering: 80% of a winning strategy",
-    "title_ar": "Avoid blundering: 80% of a winning strategy",
+    "title_ar": "تجنب الحماقات والأخطاء القاتلة: 80% من استراتيجية الفوز",
     "summary_en": "Why do startups typically fail?  It turns out that \"avoiding those things\" is already a plan for success.",
-    "summary_ar": "Why do startups typically fail?  It turns out that \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تجنب الحماقات والأخطاء القاتلة: 80% من استراتيجية الفوز'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -4718,9 +4718,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Stubborn Visionaries & Pigheaded Fools",
-    "title_ar": "Stubborn Visionaries & Pigheaded Fools",
+    "title_ar": "بين أصحاب الرؤى الثاقبة والحمقى المتعنتين: كيف تميز بين الإصرار والغباء؟",
     "summary_en": "How do you know when to stop, versus when to push through? You don't, not even in hindsight. But these guiding questions can help.",
-    "summary_ar": "How do you know when to stop, versus when to push through? You don't, not even in hindsight. But these guiding questions can help.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Stubborn Visionaries & Pigheaded Fools'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -4777,9 +4777,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "AI startups require new strategies: This time it's actually different",
-    "title_ar": "AI startups require new strategies: This time it's actually different",
+    "title_ar": "شركات الذكاء الاصطناعي تحتاج استراتيجيات جديدة: هذه المرة الأمر مختلف حقاً",
     "summary_en": "The typical dynamics between startups and incumbents do not apply in AI as they did in previous technology revolutions like mobile and the internet.  Ignore this at your peril.",
-    "summary_ar": "The typical dynamics between startups and incumbents do not apply in AI as they did in previous technology revolutions like mobile and the internet.  Ignore this at your peril.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'شركات الذكاء الاصطناعي تحتاج استراتيجيات جديدة: هذه المرة الأمر مختلف حقاً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -4916,9 +4916,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "How startups beat incumbents",
-    "title_ar": "How startups beat incumbents",
+    "title_ar": "كيف تتفوق الشركات الناشئة الصغيرة على عمالقة السوق الراسخين",
     "summary_en": "A startup can beat a large, successful incumbent, if it does things the incumbent can not or will not do.  Here are those things.",
-    "summary_ar": "A startup can beat a large, successful incumbent, if it does things the incumbent can not or will not do.  Here are those things.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف تتفوق الشركات الناشئة الصغيرة على عمالقة السوق الراسخين'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -5079,7 +5079,7 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Deciding whether an investment is worthwhile",
-    "title_ar": "Deciding whether an investment is worthwhile",
+    "title_ar": "كيف تقرر ما إذا كان الاستثمار في فكرة أو ميزة يستحق العناء",
     "summary_en": "Why \"expected value\" doesn't work; here's a better framework for making long-term investments in your career, startup, and life.",
     "summary_ar": "Why \\",
     "subtopics_en": [
@@ -5242,9 +5242,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "The \"errors\" that mean you're doing it right",
-    "title_ar": "The \\",
+    "title_ar": "الأخطاء والمشكلات التي تعني أنك تسير على الطريق الصحيح",
     "summary_en": "Some things appear to be mistakes, but in fact should be celebrated as the expected outcomes of great decisions.",
-    "summary_ar": "Some things appear to be mistakes, but in fact should be celebrated as the expected outcomes of great decisions.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The \"errors\" that mean you're doing it right'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -5405,7 +5405,7 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Selling to Carol: Why targeting an ICP brings 10x more customers than you expected",
-    "title_ar": "Selling to Carol: Why targeting an ICP brings 10x more customers than you expected",
+    "title_ar": "البيع لكارول: لماذا يجلب استهداف العميل المثالي (ICP) عملاء أكثر بـ 10 أضعاف",
     "summary_en": "Targeting your \"Ideal Customer Profile\" (ICP) is the best way to differentiate and win sales, but does it limit your target market?",
     "summary_ar": "Targeting your \\",
     "subtopics_en": [
@@ -5568,9 +5568,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "The roadmap to Product/Market Fit (PMF)… maybe",
-    "title_ar": "The roadmap to Product/Market Fit (PMF)… maybe",
+    "title_ar": "خارطة الطريق نحو ملاءمة المنتج للسوق (PMF)... ربما",
     "summary_en": "This eight-step process brought WP Engine from an idea to a Unicorn. While there are other roads to Product/Market Fit, consider copying some of these ideas.",
-    "summary_ar": "This eight-step process brought WP Engine from an idea to a Unicorn. While there are other roads to Product/Market Fit, consider copying some of these ideas.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The roadmap to Product/Market Fit (PMF)… maybe'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -5731,9 +5731,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "How many things should there be? (Hint: Not 10)",
-    "title_ar": "How many things should there be? (Hint: Not 10)",
+    "title_ar": "كم عدد الأولويات التي يجب أن تحددها؟ (تلميح: بالتأكيد ليست 10)",
     "summary_en": "If we happened to evolve with nine fingers, we would have \"Top 9\" lists. So, a \"Top 10\" list probably doesn't have the correct number of things.",
-    "summary_ar": "If we happened to evolve with nine fingers, we would have \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How many things should there be? (Hint: Not 10)'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -5846,9 +5846,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Quarterly strategic planning using the fairytale structure",
-    "title_ar": "Quarterly strategic planning using the fairytale structure",
+    "title_ar": "التخطيط الاستراتيجي الفصلي: استخدام بنية القصة الخيالية في صياغة الأهداف",
     "summary_en": "Traditional fairytale structure fits naturally in our brains, and thus can guide strategic problem-analysis, and a plan that everyone understands.",
-    "summary_ar": "Traditional fairytale structure fits naturally in our brains, and thus can guide strategic problem-analysis, and a plan that everyone understands.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Quarterly strategic planning using the fairytale structure'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -6009,9 +6009,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Product/Market Fit (PMF): Experience & Data",
-    "title_ar": "Product/Market Fit (PMF): Experience & Data",
+    "title_ar": "ملاءمة المنتج للسوق (PMF): بين التجربة الميدانية ولغة الأرقام",
     "summary_en": "Companies that achieve Product/Market Fit -- both self-funded and VC-funded -- exhibit the same prototypical metrics curves and subjective experiences.",
-    "summary_ar": "Companies that achieve Product/Market Fit -- both self-funded and VC-funded -- exhibit the same prototypical metrics curves and subjective experiences.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Product/Market Fit (PMF): Experience & Data'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -6172,9 +6172,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Metrics that cannot even be measured in retrospect",
-    "title_ar": "Metrics that cannot even be measured in retrospect",
+    "title_ar": "المقاييس التي لا يمكن قياسها حتى بعد فوات الأوان",
     "summary_en": "Some of the most enticing, important metrics are impossible to measure, even after the fact. Here's how to identify and avoid this trap.",
-    "summary_ar": "Some of the most enticing, important metrics are impossible to measure, even after the fact. Here's how to identify and avoid this trap.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Metrics that cannot even be measured in retrospect'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -6287,9 +6287,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "The fundamental forces of scale",
-    "title_ar": "The fundamental forces of scale",
+    "title_ar": "القوى الفيزيائية الأساسية للتوسع والنمو في الشركات",
     "summary_en": "These forces make larger companies slower and more difficult to execute, but also more effective when harnessed and leveraged.",
-    "summary_ar": "These forces make larger companies slower and more difficult to execute, but also more effective when harnessed and leveraged.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The fundamental forces of scale'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -6450,9 +6450,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Stop saying \"fail\"",
-    "title_ar": "Stop saying \\",
+    "title_ar": "أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود الاقتصادي",
     "summary_en": "Language shapes our perception of setbacks. Use words other than \"failure\" to describe situations and to suggest the next step.",
-    "summary_ar": "Language shapes our perception of setbacks. Use words other than \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود الاقتصادي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -6613,7 +6613,7 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Worse, but unique",
-    "title_ar": "Worse, but unique",
+    "title_ar": "أن تكون أسوأ ولكن فريداً ومميزاً خير من أن تكون نسخة مكررة",
     "summary_en": "An objectively \"worse\" strategy can win, if it leverages something unique or unexpected. Startups can use this concept to beat incumbents.",
     "summary_ar": "An objectively \\",
     "subtopics_en": [
@@ -6728,7 +6728,7 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "What makes a strategy great",
-    "title_ar": "What makes a strategy great",
+    "title_ar": "ما الذي يجعل الاستراتيجية عظيمة وفارقة حقاً",
     "summary_en": "Most so-called \"strategies\" are vague, wishful thinking, written once and never seen again. Don't do that. These are the characteristics of great strategy.",
     "summary_ar": "Most so-called \\",
     "subtopics_en": [
@@ -6891,7 +6891,7 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "In command",
-    "title_ar": "In command",
+    "title_ar": "كيف تكون متحكماً في دفة شركتك دون أن تكون دكتاتوراً متسلطاً",
     "summary_en": "Being \"in control\" is impossible, perhaps not even desirable. Being \"in command\" is ideal: honest, introspective, agile, aware, and proactive.",
     "summary_ar": "Being \\",
     "subtopics_en": [
@@ -7006,9 +7006,9 @@
     "category_en": "SaaS Metrics, Unit Economics & Financial Health",
     "category_ar": "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية",
     "title_en": "Selecting the right product metrics (KPIs)",
-    "title_ar": "Selecting the right product metrics (KPIs)",
+    "title_ar": "كيف تختار مقاييس الأداء الصحيحة لمنتجك (KPIs)",
     "summary_en": "A novel system for selecting and presenting product KPIs, satisfying not only the product team, but also stakeholders, executives, and customers.",
-    "summary_ar": "A novel system for selecting and presenting product KPIs, satisfying not only the product team, but also stakeholders, executives, and customers.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Selecting the right product metrics (KPIs)'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -7121,7 +7121,7 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "For probabilities, use Fermi numbers, not words",
-    "title_ar": "For probabilities, use Fermi numbers, not words",
+    "title_ar": "لتقدير الاحتمالات بدقة: استخدم أرقام فيرمي بدلاً من الكلمات المبهمة",
     "summary_en": "Don't use phrases like \"unlikely\" or \"almost certainly.\" Here's real-world data showing why not, and what to do instead.",
     "summary_ar": "Don't use phrases like \\",
     "subtopics_en": [
@@ -7188,7 +7188,7 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "The three kinds of leverage that anchor effective strategies",
-    "title_ar": "The three kinds of leverage that anchor effective strategies",
+    "title_ar": "الأنواع الثلاثة لقوى الرفع التي ترتكز عليها الاستراتيجيات الناجحة",
     "summary_en": "Leveraging strengths -- not \"fixing weaknesses\" -- is how to win. Better when differentiated. Best when durable. Here's how to create leverage.",
     "summary_ar": "Leveraging strengths -- not \\",
     "subtopics_en": [
@@ -7279,9 +7279,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Using the Needs Stack for competitive strategy",
-    "title_ar": "Using the Needs Stack for competitive strategy",
+    "title_ar": "استخدام هرم الاحتياجات (Needs Stack) في بناء الاستراتيجية التنافسية",
     "summary_en": "This simple method positions your product to be more valuable, especially against competitors who aim to disrupt you, or you them.",
-    "summary_ar": "This simple method positions your product to be more valuable, especially against competitors who aim to disrupt you, or you them.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Using the Needs Stack for competitive strategy'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -7438,7 +7438,7 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Willingness-to-pay: Creating permanent competitive advantage for the right reasons",
-    "title_ar": "Willingness-to-pay: Creating permanent competitive advantage for the right reasons",
+    "title_ar": "التسعير المرتكز على استعداد العميل للدفع (WTP) واقتناص القيمة",
     "summary_en": "This fresh take on \"Willingness-to-Pay\" analyzes three types of customer motivation, leading to superior strategies for growth that also better the world.",
     "summary_ar": "This fresh take on \\",
     "subtopics_en": [
@@ -7601,9 +7601,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Excuse me, is there a problem?",
-    "title_ar": "Excuse me, is there a problem?",
+    "title_ar": "عفواً، هل توجد مشكلة حقيقية أم أنك تخترع حلولاً لوهم؟",
     "summary_en": "Many startups fail despite identifying a real problem and building a product that solves that problem. This explains why, so you can avoid their fate.",
-    "summary_ar": "Many startups fail despite identifying a real problem and building a product that solves that problem. This explains why, so you can avoid their fate.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Excuse me, is there a problem?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -7764,9 +7764,9 @@
     "category_en": "SaaS Metrics, Unit Economics & Financial Health",
     "category_ar": "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية",
     "title_en": "Navigating the unpredictability of everything",
-    "title_ar": "Navigating the unpredictability of everything",
+    "title_ar": "التعامل مع عدم القدرة على التنبؤ بالمستقبل في ريادة الأعمال",
     "summary_en": "We dramatically, repeatedly fail to predict the future. Does that mean \"strategy\" is senseless? No, it means you need these techniques to navigate a volatile world.",
-    "summary_ar": "We dramatically, repeatedly fail to predict the future. Does that mean \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Navigating the unpredictability of everything'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -7927,9 +7927,9 @@
     "category_en": "AI Era Dynamics, Disruption & Big Tech",
     "category_ar": "ديناميكيات عصر الذكاء الاصطناعي والثورات التقنية",
     "title_en": "Finding Fulfillment",
-    "title_ar": "Finding Fulfillment",
+    "title_ar": "العثور على الرضا والشغف الحقيقي في رحلة التأسيس",
     "summary_en": "What creates a fulfilling existence? Exploration leads to a framework I've used for years for myself and the people around me. I hope it helps you too.",
-    "summary_ar": "What creates a fulfilling existence? Exploration leads to a framework I've used for years for myself and the people around me. I hope it helps you too.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Finding Fulfillment'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -8042,9 +8042,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "The Iterative-Hypothesis customer development method",
-    "title_ar": "The Iterative-Hypothesis customer development method",
+    "title_ar": "تطوير العملاء عبر الفرضيات التكرارية: منهجية الوصول للحقيقة الميدانية",
     "summary_en": "A simple but effective system, used to vet what is now a Unicorn, for generating insights about how your potential customers think, what they need, and what they'll buy.",
-    "summary_ar": "A simple but effective system, used to vet what is now a Unicorn, for generating insights about how your potential customers think, what they need, and what they'll buy.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تطوير العملاء عبر الفرضيات التكرارية: منهجية الوصول للحقيقة الميدانية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -8197,7 +8197,7 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "JIT selection from independent streams: An alternative to the \"big backlog\" of work",
-    "title_ar": "JIT selection from independent streams: An alternative to the \\",
+    "title_ar": "إدارة المهام في الوقت المناسب (JIT): بديل لقوائم المهام الضخمة المتراكمة",
     "summary_en": "The vaunted \"single-threaded, ordered list\" confuses \"prioritization\" with \"work-planning,\" and forces comparisons of the un-comparable. Here's the solution.",
     "summary_ar": "The vaunted \\",
     "subtopics_en": [
@@ -8358,9 +8358,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Rocks, Pebbles, Sand: How to implement in practice",
-    "title_ar": "Rocks, Pebbles, Sand: How to implement in practice",
+    "title_ar": "الصخور الكبيرة، الحصى، والرمال: التطبيق العملي لإدارة الأولويات الاستراتيجية",
     "summary_en": "This complete work-prioritization framework builds on the simplistic \"Rocks, Pebbles, Sand\" analogy, adding the details you need in the real world.",
-    "summary_ar": "This complete work-prioritization framework builds on the simplistic \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الصخور الكبيرة، الحصى، والرمال: التطبيق العملي لإدارة الأولويات الاستراتيجية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -8493,9 +8493,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Binstack: Making a maximal multi-dimensional decision",
-    "title_ar": "Binstack: Making a maximal multi-dimensional decision",
+    "title_ar": "مصفوفة Binstack: اتخاذ القرارات المعقدة متعددة الأبعاد",
     "summary_en": "Binstack is a technique for selecting the \"single most impactful\" solution when there are multiple, incomparable dimensions to evaluate.",
-    "summary_ar": "Binstack is a technique for selecting the \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'مصفوفة Binstack: اتخاذ القرارات المعقدة متعددة الأبعاد'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -8650,9 +8650,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Fermi ROI: Fixing the ROI rubric",
-    "title_ar": "Fermi ROI: Fixing the ROI rubric",
+    "title_ar": "استبدال الكلمات الفضفاضة بأرقام فيرمي لتقدير الاحتمالات",
     "summary_en": "Traditional rubrics fail to reveal the best answers, or how to explain those answers to others. After explaining why, the following system solves both failures.",
-    "summary_ar": "Traditional rubrics fail to reveal the best answers, or how to explain those answers to others. After explaining why, the following system solves both failures.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'استبدال الكلمات الفضفاضة بأرقام فيرمي لتقدير الاحتمالات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -8813,9 +8813,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "The \"Talk vs Walk\" workshop",
-    "title_ar": "The \\",
+    "title_ar": "ورشة عمل 'الأفعال مقابل الأقوال': كيف تحول الوعود لنتائج ملموسة",
     "summary_en": "We invented this strategic exercise at WP Engine -- engaging both Marketing and Product, generating actions for both sides that make products more desirable and competitive.",
-    "summary_ar": "We invented this strategic exercise at WP Engine -- engaging both Marketing and Product, generating actions for both sides that make products more desirable and competitive.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The \"Talk vs Walk\" workshop'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -8968,9 +8968,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Productive meeting activities: Leverage the team, empower the individual",
-    "title_ar": "Productive meeting activities: Leverage the team, empower the individual",
+    "title_ar": "اجتماعات عمل منتجة: تمكين الفريق وتعزيز استقلالية الفرد",
     "summary_en": "Meetings are most productive when we create something that none of us could have created alone. Here are several ways to use meeting time wisely.",
-    "summary_ar": "Meetings are most productive when we create something that none of us could have created alone. Here are several ways to use meeting time wisely.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'اجتماعات عمل منتجة: تمكين الفريق وتعزيز استقلالية الفرد'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -9131,9 +9131,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Moats: Durable competitive advantage",
-    "title_ar": "Moats: Durable competitive advantage",
+    "title_ar": "بناء الخنادق التنافسية المستدامة والمزايا التي يستحيل تقليدها",
     "summary_en": "Industries commoditize over time, delivering similar products at similar prices resulting in low profit. Moats are the antidote; your strategy must create some.",
-    "summary_ar": "Industries commoditize over time, delivering similar products at similar prices resulting in low profit. Moats are the antidote; your strategy must create some.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'بناء الخنادق التنافسية المستدامة والمزايا التي يستحيل تقليدها'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -9246,9 +9246,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "The \"Great\" Product Manager, a.k.a. the Impossible Product Manager",
-    "title_ar": "The \\",
+    "title_ar": "مدير المنتج 'العظيم': أو المستحيل الذي تبحث عنه الشركات",
     "summary_en": "According to the internet, being a Product Manager is impossible. Can you ever measure up?  No. But don't worry, there's a better answer.",
-    "summary_ar": "According to the internet, being a Product Manager is impossible. Can you ever measure up?  No. But don't worry, there's a better answer.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The \"Great\" Product Manager, a.k.a. the Impossible Product Manager'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -9333,9 +9333,9 @@
     "category_en": "AI Era Dynamics, Disruption & Big Tech",
     "category_ar": "ديناميكيات عصر الذكاء الاصطناعي والثورات التقنية",
     "title_en": "Failure to face the truth",
-    "title_ar": "Failure to face the truth",
+    "title_ar": "الفشل في مواجهة الحقيقة والاعتراف بالواقع الميداني",
     "summary_en": "This admonition recurs in myriad books, frameworks, and topics, across decades of time. When something is so consistent, it must be wisdom.",
-    "summary_ar": "This admonition recurs in myriad books, frameworks, and topics, across decades of time. When something is so consistent, it must be wisdom.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Failure to face the truth'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -9496,7 +9496,7 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Extreme brainstorming questions to trigger new, better ideas",
-    "title_ar": "Extreme brainstorming questions to trigger new, better ideas",
+    "title_ar": "أسئلة العصف الذهني الجريئة لتوليد أفكار ريادية متفوقة",
     "summary_en": "We know, \"no idea is a bad idea,\" but brainstorming is often unsuccessful. These prompts actually work. They could even lead to a unique business model.",
     "summary_ar": "We know, \\",
     "subtopics_en": [
@@ -9659,9 +9659,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "The Elephant in the room: The myth of exponential hypergrowth",
-    "title_ar": "The Elephant in the room: The myth of exponential hypergrowth",
+    "title_ar": "الفيل في الغرفة: خرافة النمو الأسي فائق السرعة",
     "summary_en": "Even Facebook and Slack did not grow \"exponentially,\" as frequently described. Here is the correct model that you can use to understand and affect growth.",
-    "summary_ar": "Even Facebook and Slack did not grow \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The Elephant in the room: The myth of exponential hypergrowth'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -9822,9 +9822,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Who's lying?",
-    "title_ar": "Who's lying?",
+    "title_ar": "من الذي يكذب في عالم الشركات الناشئة؟",
     "summary_en": "A lesson all pilots know: How you must use multiple dials, employing different sources of energy, to report identical data, because some of it is always lying.",
-    "summary_ar": "A lesson all pilots know: How you must use multiple dials, employing different sources of energy, to report identical data, because some of it is always lying.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Who's lying?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -9937,9 +9937,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "The Important Thing⁠--powerful enough to override all your deficiencies",
-    "title_ar": "The Important Thing⁠--powerful enough to override all your deficiencies",
+    "title_ar": "الشيء الأهم: القوة القادرة على تعويض جميع نقاط ضعفك الأخرى",
     "summary_en": "This is the reason that startups succeed despite their many weaknesses. And it's a reason to build a startup in the first place.",
-    "summary_ar": "This is the reason that startups succeed despite their many weaknesses. And it's a reason to build a startup in the first place.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The Important Thing⁠--powerful enough to override all your deficiencies'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -10052,9 +10052,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Capturing luck with \"or\" instead of \"and\"",
-    "title_ar": "Capturing luck with \\",
+    "title_ar": "كم تبلغ نسبة الحظ الحقيقية في نجاح الشركات ورواد الأعمال؟",
     "summary_en": "Luck always plays a role in startups, but there are ways to better capture upside and mitigate downside.",
-    "summary_ar": "Luck always plays a role in startups, but there are ways to better capture upside and mitigate downside.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كم تبلغ نسبة الحظ الحقيقية في نجاح الشركات ورواد الأعمال؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -10167,9 +10167,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Distributed Logical Time",
-    "title_ar": "Distributed Logical Time",
+    "title_ar": "الوقت المنطقي الموزع: دروس من النظم الموزعة لإدارة فرق العمل",
     "summary_en": "A simple, decentralized, scalable, constant-memory mechanism for independent replicas to record events in time, preserving the \"happened-before\" relation in almost all cases.",
-    "summary_ar": "A simple, decentralized, scalable, constant-memory mechanism for independent replicas to record events in time, preserving the \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Distributed Logical Time'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -10324,9 +10324,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "When should a decision be fast, or slow?",
-    "title_ar": "When should a decision be fast, or slow?",
+    "title_ar": "متى يجب أن يكون اتخاذ القرار سريعاً وخاطفاً ومتى يكون متأنياً؟",
     "summary_en": "Decisions should usually be made quickly, to accelerate action and learning. But sometimes it really is smarter to take your time. Here's how to decide.",
-    "summary_ar": "Decisions should usually be made quickly, to accelerate action and learning. But sometimes it really is smarter to take your time. Here's how to decide.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: When should a decision be fast, or slow?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -10439,9 +10439,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "How repositioning a product allows you to 8x its price",
-    "title_ar": "How repositioning a product allows you to 8x its price",
+    "title_ar": "كيف ترفع سعر منتجك 8 أضعاف بمجرد تغيير تموضعه الذهني",
     "summary_en": "You can charge much more than you think, if you reposition your value-proposition. Here's how.",
-    "summary_ar": "You can charge much more than you think, if you reposition your value-proposition. Here's how.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How repositioning a product allows you to 8x its price'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -10554,7 +10554,7 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Your customers hate MVPs. Make a SLC instead.",
-    "title_ar": "Your customers hate MVPs. Make a SLC instead.",
+    "title_ar": "عملاؤك يكرهون نماذج MVP الناقصة: ابنِ بدلاً منها منتجاً بسيطاً ومكتملاً ومحبوباً (SLC)",
     "summary_en": "\"MVP\" implies a selfish process, abusing customers so you can \"learn\". Instead, make the first version SLC: Simple, Lovable, and Complete\".",
     "summary_ar": "\\",
     "subtopics_en": [
@@ -10693,9 +10693,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Change: Damned if you do, damned more if you don't",
-    "title_ar": "Change: Damned if you do, damned more if you don't",
+    "title_ar": "التغيير في الشركات: ملعون إذا قمت به، وملعون أكثر إذا لم تفعل",
     "summary_en": "Everyone wants change, but doesn't want to change. Though inevitable, change is uncomfortable and exhausting. Manage it with kindness.",
-    "summary_ar": "Everyone wants change, but doesn't want to change. Though inevitable, change is uncomfortable and exhausting. Manage it with kindness.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Change: Damned if you do, damned more if you don't'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -10808,9 +10808,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Satisficing vs Maximizing",
-    "title_ar": "Satisficing vs Maximizing",
+    "title_ar": "القناعة بالكافي مقابل ملاحقة الكمال: فلسفة اتخاذ القرارات السليمة",
     "summary_en": "Fast, or Best? Choose your decision-making goal wisely, especially if you're a natural perfectionist.",
-    "summary_ar": "Fast, or Best? Choose your decision-making goal wisely, especially if you're a natural perfectionist.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'القناعة بالكافي مقابل ملاحقة الكمال: فلسفة اتخاذ القرارات السليمة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -10923,7 +10923,7 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Look what we did",
-    "title_ar": "Look what we did",
+    "title_ar": "انظر لما بنيناه: وقفة فخر واعتزاز بإنجازات الفريق التأسيسي",
     "summary_en": "\"How does it feel to have created two unicorns?\" I don't know; I only know what it feels like to start them, and then work with amazing people who collectively create the result.",
     "summary_ar": "\\",
     "subtopics_en": [
@@ -11038,7 +11038,7 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Building in public forces true competitive advantage",
-    "title_ar": "Building in public forces true competitive advantage",
+    "title_ar": "البناء في العلن يجبرك على خلق ميزة تنافسية حقيقية غير قابلة للسرقة",
     "summary_en": "\"Building in public\" is popular: How fun when strangers cheer you on! But isn't competitive advantage ruined when competitors know your growth rate and steal your source code?",
     "summary_ar": "\\",
     "subtopics_en": [
@@ -11153,9 +11153,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Laws of 10x found everywhere",
-    "title_ar": "Laws of 10x found everywhere",
+    "title_ar": "قوانين التضاعف بعشرة أضعاف (10x) الموجودة في كل زاوية من زوايا الأعمال",
     "summary_en": "We're often told that some things are 10x better than others. Is that really how things work? If so, we'd better act like it.",
-    "summary_ar": "We're often told that some things are 10x better than others. Is that really how things work? If so, we'd better act like it.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Laws of 10x found everywhere'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -11268,9 +11268,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Worrying is self-fulfilling; what to do instead",
-    "title_ar": "Worrying is self-fulfilling; what to do instead",
+    "title_ar": "القلق نبوءة تحقق ذاتها: ماذا تفعل بدلاً من التوتر المستمر؟",
     "summary_en": "Worrying makes things worse. Replace worry with preparation and strategic planning.",
-    "summary_ar": "Worrying makes things worse. Replace worry with preparation and strategic planning.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Worrying is self-fulfilling; what to do instead'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -11383,9 +11383,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "How to simplify complex decisions by cleaving the facts",
-    "title_ar": "How to simplify complex decisions by cleaving the facts",
+    "title_ar": "كيف تبسط القرارات المعقدة بفصل الحقائق عن الافتراضات",
     "summary_en": "Simplify complex decisions by separating upsides from downsides, investing in upsides, vetoing with downsides, and using an appropriate decision framework.",
-    "summary_ar": "Simplify complex decisions by separating upsides from downsides, investing in upsides, vetoing with downsides, and using an appropriate decision framework.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How to simplify complex decisions by cleaving the facts'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -11522,9 +11522,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "What if there isn't another 10x?",
-    "title_ar": "What if there isn't another 10x?",
+    "title_ar": "ماذا لو لم تعد هناك فرصة لنمو بعشرة أضعاف (10x)؟",
     "summary_en": "What if your tech company has peaked? Is relentless growth the only path, or is it time to redefine your true impact on the world?",
-    "summary_ar": "What if your tech company has peaked? Is relentless growth the only path, or is it time to redefine your true impact on the world?",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: What if there isn't another 10x?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -11637,9 +11637,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "How to measure the accuracy of forecasts",
-    "title_ar": "How to measure the accuracy of forecasts",
+    "title_ar": "كيف تقيس الدقة الحقيقية لتوقعاتك المالية ومخططات النمو؟",
     "summary_en": "How do you assess forecasts, when the forecast is only a probability? It's not just about accuracy. Let's dive into the math.",
-    "summary_ar": "How do you assess forecasts, when the forecast is only a probability? It's not just about accuracy. Let's dive into the math.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How to measure the accuracy of forecasts'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -11776,9 +11776,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Invention is Drudgery",
-    "title_ar": "Invention is Drudgery",
+    "title_ar": "الابتكار الحقيقي هو عمل روتيني شاق وليس ومضة إلهام سحرية",
     "summary_en": "Having skipped to the last page of other people's books, we forget the rest of the journey.  And, that we have to take that journey, too.",
-    "summary_ar": "Having skipped to the last page of other people's books, we forget the rest of the journey.  And, that we have to take that journey, too.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Invention is Drudgery'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -11891,7 +11891,7 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Darwin doesn't automatically select the best companies",
-    "title_ar": "Darwin doesn't automatically select the best companies",
+    "title_ar": "التطور الدارويني لا يختار بالضرورة الشركات الأفضل لتفوز",
     "summary_en": "\"Survival of the fittest\" is not the same thing as \"survival of the best.\" Founders have the responsibility to solve both for growth and the betterment of the world.",
     "summary_ar": "\\",
     "subtopics_en": [
@@ -12006,9 +12006,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Your non-linear problem of 90% utilization",
-    "title_ar": "Your non-linear problem of 90% utilization",
+    "title_ar": "المشكلة غير الخطية لنسبة استغلال الموارد بنسبة 90%",
     "summary_en": "Is everyone working very hard, all the time, and yet accomplishing 1/10th of what it seems they should? Maybe this is why.",
-    "summary_ar": "Is everyone working very hard, all the time, and yet accomplishing 1/10th of what it seems they should? Maybe this is why.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Your non-linear problem of 90% utilization'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -12121,9 +12121,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Refutation: An acquisition is always a failure",
-    "title_ar": "Refutation: An acquisition is always a failure",
+    "title_ar": "تفنيـد: الاستحواذ على الشركة ليس دائماً دليلاً على الفشل",
     "summary_en": "Independent or acquired, companies always evolve, and not always for the better. Smart exits can create opportunities for everyone involved.",
-    "summary_ar": "Independent or acquired, companies always evolve, and not always for the better. Smart exits can create opportunities for everyone involved.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Refutation: An acquisition is always a failure'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -12236,9 +12236,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Balance is weak. Tension is strong.",
-    "title_ar": "Balance is weak. Tension is strong.",
+    "title_ar": "التوازن حالة ضعف وهشاشة، بينما الشد والتناغم التنافسي قوة",
     "summary_en": "Balance is fragile. Tension is strong",
-    "summary_ar": "Balance is fragile. Tension is strong",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Balance is weak. Tension is strong.'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -12351,9 +12351,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Why it's nice to compete against a large, profitable company",
-    "title_ar": "Why it's nice to compete against a large, profitable company",
+    "title_ar": "لماذا يعتبر التنافس ضد شركة كبرى ومربحة فرصة ذهبية وممتعة؟",
     "summary_en": "Competing against big firms? Their revenue streams are their Achilles heel. Learn how smaller startups have a shot.",
-    "summary_ar": "Competing against big firms? Their revenue streams are their Achilles heel. Learn how smaller startups have a shot.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Why it's nice to compete against a large, profitable company'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -12466,9 +12466,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Zero-sum marketing channels: Good or bad for a startup to pursue?",
-    "title_ar": "Zero-sum marketing channels: Good or bad for a startup to pursue?",
+    "title_ar": "قنوات التسويق ذات المحصلة الصفرية: هل تناسب الشركات الناشئة؟",
     "summary_en": "Paying a premium for zero-sum marketing channels? Invest in scalable, non-zero-sum channels instead.",
-    "summary_ar": "Paying a premium for zero-sum marketing channels? Invest in scalable, non-zero-sum channels instead.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Zero-sum marketing channels: Good or bad for a startup to pursue?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -12581,9 +12581,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "On the value of Judgement",
-    "title_ar": "On the value of Judgement",
+    "title_ar": "حول القيمة الحقيقية لحسن التقدير والحكمة الريادية",
     "summary_en": "We're told not to judge, lest we be judged. But we are constantly judged by customers, employees, family, media, and investors.",
-    "summary_ar": "We're told not to judge, lest we be judged. But we are constantly judged by customers, employees, family, media, and investors.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'حول القيمة الحقيقية لحسن التقدير والحكمة الريادية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -12696,9 +12696,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Scaling by \"delegation\" isn't good enough",
-    "title_ar": "Scaling by \\",
+    "title_ar": "التوسع عبر 'التفويض' وحده ليس كافياً لبناء منظومة ناجحة",
     "summary_en": "Delegation doesn't scale your business.  What does: Creating a team that is better than the current team.  Including you.",
-    "summary_ar": "Delegation doesn't scale your business.  What does: Creating a team that is better than the current team.  Including you.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Scaling by \"delegation\" isn't good enough'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -12811,7 +12811,7 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "New Year's Questions (neé Resolutions)",
-    "title_ar": "New Year's Questions (neé Resolutions)",
+    "title_ar": "أسئلة العام الجديد للرواد (بدلاً من القرارات التقليدية)",
     "summary_en": "Do New Year's resolutions work? Studies say \"no.\" Instead, Ask good questions of yourself, and follow your own advice.",
     "summary_ar": "Do New Year's resolutions work? Studies say \\",
     "subtopics_en": [
@@ -12924,9 +12924,9 @@
     "category_en": "SaaS Metrics, Unit Economics & Financial Health",
     "category_ar": "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية",
     "title_en": "The wrongness of relativism",
-    "title_ar": "The wrongness of relativism",
+    "title_ar": "خطيئة النسبية: لماذا لا تكون جميع الآراء متساوية في القيمة داخل الشركة؟",
     "summary_en": "Comparing yourself to other startups? Focus on yourself instead.",
-    "summary_ar": "Comparing yourself to other startups? Focus on yourself instead.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The wrongness of relativism'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -13039,9 +13039,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Marketing at early startups: Deep, not wide",
-    "title_ar": "Marketing at early startups: Deep, not wide",
+    "title_ar": "التسويق في الشركات الناشئة الأولى: تعمق في قناة واحدة بدلاً من التشتت",
     "summary_en": "Go deep on one marketing strategy that you already know well; spreading thin won't be successful.",
-    "summary_ar": "Go deep on one marketing strategy that you already know well; spreading thin won't be successful.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Marketing at early startups: Deep, not wide'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -13154,9 +13154,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "The Lindy Effect on startup potential",
-    "title_ar": "The Lindy Effect on startup potential",
+    "title_ar": "تأثير ليندي (Lindy Effect) على مستقبل وبقاء الشركات الناشئة",
     "summary_en": "On average, you're halfway to your final destination. How, then, do we not only double from here, but 10x?",
-    "summary_ar": "On average, you're halfway to your final destination. How, then, do we not only double from here, but 10x?",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The Lindy Effect on startup potential'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -13269,9 +13269,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Pricing determines your business model",
-    "title_ar": "Pricing determines your business model",
+    "title_ar": "التسعير هو ما يحدد نموذج عملك وهيكل شركتك بالكامل",
     "summary_en": "Pricing is inextricably linked to brand, product, and purchasing decisions. It cannot be \"figured out later,\" because it determines your business model today.",
-    "summary_ar": "Pricing is inextricably linked to brand, product, and purchasing decisions. It cannot be \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التسعير هو ما يحدد نموذج عملك وهيكل شركتك بالكامل'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -13384,9 +13384,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "In its emptiness, there is the function of a startup",
-    "title_ar": "In its emptiness, there is the function of a startup",
+    "title_ar": "في الفراغ تكمن وظيفة الشركة الناشئة وقيمتها الحقيقية",
     "summary_en": "Everything about a startup changes over time. The few things that don't, are its essence. The voyage is meaningless, unless you decide what those things are.",
-    "summary_ar": "Everything about a startup changes over time. The few things that don't, are its essence. The voyage is meaningless, unless you decide what those things are.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'في الفراغ تكمن وظيفة الشركة الناشئة وقيمتها الحقيقية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -13499,9 +13499,9 @@
     "category_en": "Foundational Philosophy & Startup Wisdom",
     "category_ar": "فلسفة ريادة الأعمال والحكمة التأسيسية",
     "title_en": "The only way to guarantee startup success",
-    "title_ar": "The only way to guarantee startup success",
+    "title_ar": "الطريقة الوحيدة المضمونة لتحقيق النجاح الريادي",
     "summary_en": "What is it like to reach the pinnacle of success? Is that where you attain happiness and fulfillment? Or are those found right here, right now.",
-    "summary_ar": "What is it like to reach the pinnacle of success? Is that where you attain happiness and fulfillment? Or are those found right here, right now.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The only way to guarantee startup success'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -13614,9 +13614,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Why startup biz dev deals almost never get done",
-    "title_ar": "Why startup biz dev deals almost never get done",
+    "title_ar": "لماذا تفشل صفقات الشراكة الاستراتيجية والتطوير التجاري للشركات الناشئة؟",
     "summary_en": "Startups fail at biz dev because their proposals don't make sense to bigger companies. Here's how to adjust your approach.",
-    "summary_ar": "Startups fail at biz dev because their proposals don't make sense to bigger companies. Here's how to adjust your approach.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Why startup biz dev deals almost never get done'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -13729,9 +13729,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Rare things become common at scale",
-    "title_ar": "Rare things become common at scale",
+    "title_ar": "الأشياء النادرة تصبح مألوفة وشائعة مع التوسع الكبير",
     "summary_en": "Software doesn't scale through architecture and automation alone. New, more difficult problems appear that didn't exist before, causing new downstream consequences.",
-    "summary_ar": "Software doesn't scale through architecture and automation alone. New, more difficult problems appear that didn't exist before, causing new downstream consequences.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Rare things become common at scale'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -13844,7 +13844,7 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "You can have two Big Things, but not three",
-    "title_ar": "You can have two Big Things, but not three",
+    "title_ar": "يمكنك التركيز على أمرين كبيرين فقط، ولكن ليس ثلاثة",
     "summary_en": "No you can't \"have it all.\"  You can have two things, but not three.",
     "summary_ar": "No you can't \\",
     "subtopics_en": [
@@ -13959,9 +13959,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "More money if you do, more money if you don't",
-    "title_ar": "More money if you do, more money if you don't",
+    "title_ar": "المزيد من المال إذا نجحت، والمزيد من المال حتى لو لم تفعل",
     "summary_en": "A business always takes more money than you expect, even when you take this fact into account. Here's why.",
-    "summary_ar": "A business always takes more money than you expect, even when you take this fact into account. Here's why.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: More money if you do, more money if you don't'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -14074,9 +14074,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Stop chopping yourself to pieces",
-    "title_ar": "Stop chopping yourself to pieces",
+    "title_ar": "توقف عن تمزيق نفسك وفريقك إلى أشلاء بالمهام التافهة",
     "summary_en": "Achieve more by doing less: one task at a time, ample rest, and deliberate focus lead to greater fulfillment.",
-    "summary_ar": "Achieve more by doing less: one task at a time, ample rest, and deliberate focus lead to greater fulfillment.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Stop chopping yourself to pieces'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -14189,9 +14189,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Ho Rudolph",
-    "title_ar": "Ho Rudolph",
+    "title_ar": "قصة رودولف ودروس قيادة الفريق وقبول المواهب الفريدة",
     "summary_en": "Rudolph claps back.",
-    "summary_ar": "Rudolph claps back.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Ho Rudolph'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -14296,9 +14296,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "The Code is your Enemy",
-    "title_ar": "The Code is your Enemy",
+    "title_ar": "الكود البرمجي هو عدوك اللدود: كلما زاد زادت التكاليف والأخطاء",
     "summary_en": "A short pep talk I delivered to kick off a Three-Day Startup challenge event.  And overwhelming confirmation that the lesson is correct.",
-    "summary_ar": "A short pep talk I delivered to kick off a Three-Day Startup challenge event.  And overwhelming confirmation that the lesson is correct.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الكود البرمجي هو عدوك اللدود: كلما زاد زادت التكاليف والأخطاء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -14387,9 +14387,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Imbalanced People",
-    "title_ar": "Imbalanced People",
+    "title_ar": "الأشخاص غير المتوازنين: لماذا يصنع الشغف غير المتوازن نتائج استثنائية؟",
     "summary_en": "A top contributor isn't just better than ten average ones--they're infinitely superior, driving creativity and innovation that countless others can't match.",
-    "summary_ar": "A top contributor isn't just better than ten average ones--they're infinitely superior, driving creativity and innovation that countless others can't match.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Imbalanced People'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -14502,9 +14502,9 @@
     "category_en": "SaaS Metrics, Unit Economics & Financial Health",
     "category_ar": "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية",
     "title_en": "Why I don't like the LTV metric (LifeTime Value)",
-    "title_ar": "Why I don't like the LTV metric (LifeTime Value)",
+    "title_ar": "لماذا لا أثق في مقياس القيمة الدائمة للعميل (LTV) التقليدي؟",
     "summary_en": "The LTV metric overcomplicates and misleads. Learn why you should use other SaaS metrics instead.",
-    "summary_ar": "The LTV metric overcomplicates and misleads. Learn why you should use other SaaS metrics instead.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Why I don't like the LTV metric (LifeTime Value)'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -14617,9 +14617,9 @@
     "category_en": "SaaS Metrics, Unit Economics & Financial Health",
     "category_ar": "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية",
     "title_en": "Sandy Visions",
-    "title_ar": "Sandy Visions",
+    "title_ar": "الرؤى الرملية: عندما تبني استراتيجيتك على رمال متحركة",
     "summary_en": "It's all almost magic.",
-    "summary_ar": "It's all almost magic.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Sandy Visions'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -14732,9 +14732,9 @@
     "category_en": "SaaS Metrics, Unit Economics & Financial Health",
     "category_ar": "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية",
     "title_en": "COC: A new metric for measuring cancellations in SaaS business models",
-    "title_ar": "COC: A new metric for measuring cancellations in SaaS business models",
+    "title_ar": "مقياس COC: معيار مبتكر لقياس إلغاء الاشتراكات في شركات SaaS",
     "summary_en": "Introducing COC: The true cost of cancellations in a scaling SaaS business.",
-    "summary_ar": "Introducing COC: The true cost of cancellations in a scaling SaaS business.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: COC: A new metric for measuring cancellations in SaaS business models'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -14895,9 +14895,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Solving the Low-Budget Online Marketing Dilemma",
-    "title_ar": "Solving the Low-Budget Online Marketing Dilemma",
+    "title_ar": "حل معضلة التسويق الإلكتروني بميزانيات محدودة وصفرية",
     "summary_en": "Low on cash but need marketing results? Here are four specific things you can do to grow on a budget.",
-    "summary_ar": "Low on cash but need marketing results? Here are four specific things you can do to grow on a budget.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Solving the Low-Budget Online Marketing Dilemma'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -15034,9 +15034,9 @@
     "category_en": "SaaS Metrics, Unit Economics & Financial Health",
     "category_ar": "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية",
     "title_en": "Bootstrapped CPC rule of thumb: ARPU/25",
-    "title_ar": "Bootstrapped CPC rule of thumb: ARPU/25",
+    "title_ar": "قاعدة تكلفة النقرة للشركات الممولة ذاتياً: ARPU مقسوماً على 25",
     "summary_en": "Bootstrapped and unsure about CPC? Use the rule of ARPU/25.",
-    "summary_ar": "Bootstrapped and unsure about CPC? Use the rule of ARPU/25.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Bootstrapped CPC rule of thumb: ARPU/25'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -15197,9 +15197,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Reframing \"Freemium\" by charging the marketing department",
-    "title_ar": "Reframing \\",
+    "title_ar": "ميكانيكا النماذج المجانية Freemium: متى تفتح أبواب النمو ومتى تصبح عبئاً",
     "summary_en": "Freemium means high costs, low conversion, and customer feedback dominated by the non-ideal customer. Treat it as a marketing expense to ensure ROI.",
-    "summary_ar": "Freemium means high costs, low conversion, and customer feedback dominated by the non-ideal customer. Treat it as a marketing expense to ensure ROI.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'ميكانيكا النماذج المجانية Freemium: متى تفتح أبواب النمو ومتى تصبح عبئاً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -15360,9 +15360,9 @@
     "category_en": "Foundational Philosophy & Startup Wisdom",
     "category_ar": "فلسفة ريادة الأعمال والحكمة التأسيسية",
     "title_en": "Startup identity & the sadness of a successful exit",
-    "title_ar": "Startup identity & the sadness of a successful exit",
+    "title_ar": "هوية المؤسس والحزن الخفي الذي يلي البيع الناجح للشركة",
     "summary_en": "Many founders experience a profound and prolonged sadness after selling their company. But \"not selling\" might be worse. Maybe my story will help you.",
-    "summary_ar": "Many founders experience a profound and prolonged sadness after selling their company. But \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Startup identity & the sadness of a successful exit'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -15451,7 +15451,7 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "\"Because that's the way it's done\" -- should a founder listen?",
-    "title_ar": "\\",
+    "title_ar": "'لأن الأمور تُدار هكذا دائماً': هل ينبغي للمؤسس الاستماع لهذه النصيحة؟",
     "summary_en": "\"They\" say you can't, but maybe you can. Embrace risk, creativity, and prove them wrong.",
     "summary_ar": "\\",
     "subtopics_en": [
@@ -15566,7 +15566,7 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Better for whom?",
-    "title_ar": "Better for whom?",
+    "title_ar": "أفضل بالنسبة لمن؟ نسبية القيمة في عيون العملاء المختلفين",
     "summary_en": "\"Better\" is always in the eye of the beholder. That's why the question is always: Better for whom?",
     "summary_ar": "\\",
     "subtopics_en": [
@@ -15681,9 +15681,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "A compass is not a map",
-    "title_ar": "A compass is not a map",
+    "title_ar": "البوصلة الاستراتيجية ليست خريطة تفصيلية: كيف تقود وسط الضباب",
     "summary_en": "A compass tells you which way is north, not whether you should be heading north. So what is the map to startup success?",
-    "summary_ar": "A compass tells you which way is north, not whether you should be heading north. So what is the map to startup success?",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'البوصلة الاستراتيجية ليست خريطة تفصيلية: كيف تقود وسط الضباب'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -15796,9 +15796,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "But I know that he knows that I know",
-    "title_ar": "But I know that he knows that I know",
+    "title_ar": "حجارة، ورقة، مقص: لعبة التوقعات والمنافسة في ريادة الأعمال",
     "summary_en": "Even better than trying to outwit the competition, is to not react to them at all, and just do your best, directly for your customers.",
-    "summary_ar": "Even better than trying to outwit the competition, is to not react to them at all, and just do your best, directly for your customers.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: But I know that he knows that I know'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -15911,9 +15911,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "The rise of the \"successful\" unsustainable company",
-    "title_ar": "The rise of the \\",
+    "title_ar": "صعود الشركات 'الناجحة ظاهرياً' غير القابلة للاستدامة مالياً",
     "summary_en": "We're funding too many unsustainable companies.",
-    "summary_ar": "We're funding too many unsustainable companies.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'صعود الشركات 'الناجحة ظاهرياً' غير القابلة للاستدامة مالياً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -16026,9 +16026,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "\"ROI\" is the wrong way to sell your product",
-    "title_ar": "\\",
+    "title_ar": "بيع العائد على الاستثمار (ROI) هو الطريقة الخاطئة لتسويق منتجك",
     "summary_en": "Customers ask for ROI calculations to justify purchasing your software, but it still doesn't convince them. Here's what to do instead.",
-    "summary_ar": "Customers ask for ROI calculations to justify purchasing your software, but it still doesn't convince them. Here's what to do instead.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: ROI\" is the wrong way to sell your product'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -16141,9 +16141,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "A life-changing challenge guided by Pascal's Wager",
-    "title_ar": "A life-changing challenge guided by Pascal's Wager",
+    "title_ar": "رهان باسكال وتطبيقه العملي لتغيير مسار حياتك المهنية",
     "summary_en": "Applying Pascal's Wager: Humility wins, arrogance loses.",
-    "summary_ar": "Applying Pascal's Wager: Humility wins, arrogance loses.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: A life-changing challenge guided by Pascal's Wager'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -16256,9 +16256,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "What a startup does to you. Or: A celebration of new life",
-    "title_ar": "What a startup does to you. Or: A celebration of new life",
+    "title_ar": "ما تفعله بك الشركة الناشئة: رحلة التحول الإنساني والريادي",
     "summary_en": "A startup is a crucible -- a fiery place that tests your limits, not by probing them but by violently exceeding them, all of the time. It's worth it.",
-    "summary_ar": "A startup is a crucible -- a fiery place that tests your limits, not by probing them but by violently exceeding them, all of the time. It's worth it.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'ما تفعله بك الشركة الناشئة: رحلة التحول الإنساني والريادي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -16371,9 +16371,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "The \"Convergent\" theory of finding truth in darkness",
-    "title_ar": "The \\",
+    "title_ar": "نظرية التقارب: كيف تجد الحقيقة وتلتقط الأفكار الريادية العظيمة وسط الظلام؟",
     "summary_en": "How to tell the difference between a truly great startup idea, and people saying \"Sure, sounds good\" when they really mean \"No, I'm not buying.\"",
-    "summary_ar": "How to tell the difference between a truly great startup idea, and people saying \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The \"Convergent\" theory of finding truth in darkness'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -16486,9 +16486,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "How do I know where to advertise?",
-    "title_ar": "How do I know where to advertise?",
+    "title_ar": "كيف أعرف أين أعلن عن منتجي وأين أجد عملائي؟",
     "summary_en": "Ready to advertise but unsure where? Measure outcomes fast, start affordably, and choose platforms you understand.",
-    "summary_ar": "Ready to advertise but unsure where? Measure outcomes fast, start affordably, and choose platforms you understand.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف أعرف أين أعلن عن منتجي وأين أجد عملائي؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -16601,9 +16601,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "The mid-market briar patch",
-    "title_ar": "The mid-market briar patch",
+    "title_ar": "حقل الأشواك في السوق المتوسط: تحديات استهداف الشركات المتوسطة",
     "summary_en": "Mid-sized companies: Small enough to have small budgets, big enough for bureaucratic nightmares.",
-    "summary_ar": "Mid-sized companies: Small enough to have small budgets, big enough for bureaucratic nightmares.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'حقل الأشواك في السوق المتوسط: تحديات استهداف الشركات المتوسطة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -16716,9 +16716,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "How do I stop \"analyzing\" and pick between two good choices?",
-    "title_ar": "How do I stop \\",
+    "title_ar": "كيف تتوقف عن 'التحليل المفرط' وتختار بحسم بين أمرين جيدين؟",
     "summary_en": "What if there's no wrong answer? What's the tiebreaker in major business decisions.",
-    "summary_ar": "What if there's no wrong answer? What's the tiebreaker in major business decisions.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How do I stop \"analyzing\" and pick between two good choices?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -16831,9 +16831,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Which is better: Many customers at low price-point or few at high price?",
-    "title_ar": "Which is better: Many customers at low price-point or few at high price?",
+    "title_ar": "أيهما أفضل لشركتك: عملاء كُثر بسعر منخفض أم عملاء قليلون بسعر مرتفع؟",
     "summary_en": "Which is better: Two companies have the same revenue, one from a few large customers and the other from many little customers",
-    "summary_ar": "Which is better: Two companies have the same revenue, one from a few large customers and the other from many little customers",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Which is better: Many customers at low price-point or few at high price?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -16994,9 +16994,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Intense Asymmetry and Self-Flagellation",
-    "title_ar": "Intense Asymmetry and Self-Flagellation",
+    "title_ar": "عدم التماثل القاسي وجلد الذات المستمر لدى رواد الأعمال",
     "summary_en": "Erica Douglass sold her company for $1M, yet still struggles with self-worth; why driven people can't escape Impostor Syndrome.",
-    "summary_ar": "Erica Douglass sold her company for $1M, yet still struggles with self-worth; why driven people can't escape Impostor Syndrome.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Intense Asymmetry and Self-Flagellation'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -17109,9 +17109,9 @@
     "category_en": "AI Era Dynamics, Disruption & Big Tech",
     "category_ar": "ديناميكيات عصر الذكاء الاصطناعي والثورات التقنية",
     "title_en": "Learn by Copy",
-    "title_ar": "Learn by Copy",
+    "title_ar": "التعلم عبر المحاكاة والنسخ: كيف تطور مهاراتك من أعمال العظماء؟",
     "summary_en": "In America we're trained that all copying is bad; of course plagiarism is, but perhaps we're throwing the baby out with the bathwater.",
-    "summary_ar": "In America we're trained that all copying is bad; of course plagiarism is, but perhaps we're throwing the baby out with the bathwater.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Learn by Copy'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -17224,9 +17224,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Scars",
-    "title_ar": "Scars",
+    "title_ar": "الندوب الريادية: الدروس التي لا تتعلمها إلا بعد أن تُجرح في السوق",
     "summary_en": "Our emotional baggage and experience make us unique, but also serve as blinders.",
-    "summary_ar": "Our emotional baggage and experience make us unique, but also serve as blinders.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Scars'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -17339,9 +17339,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "What is the value of one hour of a startup founder's time?",
-    "title_ar": "What is the value of one hour of a startup founder's time?",
+    "title_ar": "القيمة الحقيقية لساعة واحدة من وقت مؤسس الشركة الناشئة",
     "summary_en": "Startup founders undervalue their time. Here's why you should act like it's $1000/hr, and how it changes the decisions you make.",
-    "summary_ar": "Startup founders undervalue their time. Here's why you should act like it's $1000/hr, and how it changes the decisions you make.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'القيمة الحقيقية لساعة واحدة من وقت مؤسس الشركة الناشئة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -17454,7 +17454,7 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "When being \"first\" is not a competitive advantage",
-    "title_ar": "When being \\",
+    "title_ar": "متى تكون الأسبقية في السوق ليست ميزة تنافسية حقيقية",
     "summary_en": "Is it good to be \"first?\"  It seems so -- what's the point of being a copycat? While \"first\" sounds impressive, in reality it's often not an advantage.",
     "summary_ar": "Is it good to be \\",
     "subtopics_en": [
@@ -17569,9 +17569,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Hiring Employee #1",
-    "title_ar": "Hiring Employee #1",
+    "title_ar": "دليل توظيف الموظف الأول في شركتك الناشئة",
     "summary_en": "If you want another pair of hands to screw things up, how do you acquire resumes, pair them down, and identify someone who is going to work well in your company?",
-    "summary_ar": "If you want another pair of hands to screw things up, how do you acquire resumes, pair them down, and identify someone who is going to work well in your company?",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'دليل توظيف الموظف الأول في شركتك الناشئة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -17684,9 +17684,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Easy to criticize, hard to create",
-    "title_ar": "Easy to criticize, hard to create",
+    "title_ar": "النقد سهل ورخيص، بينما البناء والخلق هو التحدي الحقيقي",
     "summary_en": "It's easy to explain why any given business will fail. So what? But neither is it wise to totally ignore the critics.",
-    "summary_ar": "It's easy to explain why any given business will fail. So what? But neither is it wise to totally ignore the critics.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'النقد سهل ورخيص، بينما البناء والخلق هو التحدي الحقيقي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -17799,9 +17799,9 @@
     "category_en": "SaaS Metrics, Unit Economics & Financial Health",
     "category_ar": "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية",
     "title_en": "The full story of \"the one important thing\" for startups",
-    "title_ar": "The full story of \\",
+    "title_ar": "القصة الكاملة لـ 'الشيء الوحيد الأهم' لنجاح الشركات الناشئة",
     "summary_en": "Forget small tweaks; startups should focus on one, most-critical metric, seeking only large effects.",
-    "summary_ar": "Forget small tweaks; startups should focus on one, most-critical metric, seeking only large effects.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'القصة الكاملة لـ 'الشيء الوحيد الأهم' لنجاح الشركات الناشئة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -17914,9 +17914,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Ballad of The Lean Startup",
-    "title_ar": "Ballad of The Lean Startup",
+    "title_ar": "أنشودة الشركة الناشئة المرنة: الحكمة الحقيقية خلف منهجية Lean",
     "summary_en": "An ode to validated learning.",
-    "summary_ar": "An ode to validated learning.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Ballad of The Lean Startup'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -18029,9 +18029,9 @@
     "category_en": "Foundational Philosophy & Startup Wisdom",
     "category_ar": "فلسفة ريادة الأعمال والحكمة التأسيسية",
     "title_en": "When being an \"expert\" is harmful",
-    "title_ar": "When being an \\",
+    "title_ar": "متى يكون التحول إلى 'خبير' ضاراً بريادة الأعمال والابتكار",
     "summary_en": "Expertise hinders learning. Learn from these examples, so that you leverage your expertise, but aren't blinded by it. Insights come from curiosity, not certainty.",
-    "summary_ar": "Expertise hinders learning. Learn from these examples, so that you leverage your expertise, but aren't blinded by it. Insights come from curiosity, not certainty.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'متى يكون التحول إلى 'خبير' ضاراً بريادة الأعمال والابتكار'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -18144,7 +18144,7 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Being who you are, while becoming better",
-    "title_ar": "Being who you are, while becoming better",
+    "title_ar": "كن نفسك في قيادتك، مع الاستمرار في تطوير نقاط ضعفك",
     "summary_en": "We're told \"be yourself\" to seek happiness and success. But what if \"being yourself\" also means striving to become better? What is \"yourself?\"",
     "summary_ar": "We're told \\",
     "subtopics_en": [
@@ -18259,9 +18259,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "10 things I've never heard a successful startup founder say",
-    "title_ar": "10 things I've never heard a successful startup founder say",
+    "title_ar": "10 عبارات لا تسمعها أبداً من مؤسس شركة ناشئة ناجح حقاً",
     "summary_en": "Please stop repeating these ideas! This isn't how successful companies work.",
-    "summary_ar": "Please stop repeating these ideas! This isn't how successful companies work.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول '10 عبارات لا تسمعها أبداً من مؤسس شركة ناشئة ناجح حقاً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -18302,9 +18302,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Startup Weekend pep talk: It ain't the code",
-    "title_ar": "Startup Weekend pep talk: It ain't the code",
+    "title_ar": "نصيحة لمشاريع عطلة نهاية الأسبوع: السر ليس في الكود البرمجي",
     "summary_en": "At Startup Weekend, it's not the code that wins, but identifying needs and crafting a clear pitch. Build a company, not just a website.",
-    "summary_ar": "At Startup Weekend, it's not the code that wins, but identifying needs and crafting a clear pitch. Build a company, not just a website.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'نصيحة لمشاريع عطلة نهاية الأسبوع: السر ليس في الكود البرمجي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -18417,9 +18417,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "On the (un?)importance of design",
-    "title_ar": "On the (un?)importance of design",
+    "title_ar": "حول الأهمية (أو عدم الأهمية) الحقيقية للتصميم في البدايات",
     "summary_en": "You redesign your entire website, customers and employees say it's better, but none of the metrics change… Does design even matter?",
-    "summary_ar": "You redesign your entire website, customers and employees say it's better, but none of the metrics change… Does design even matter?",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'حول الأهمية (أو عدم الأهمية) الحقيقية للتصميم في البدايات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -18532,9 +18532,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Do I dare call bullshit aloud? Do you?",
-    "title_ar": "Do I dare call bullshit aloud? Do you?",
+    "title_ar": "هل تجرؤ على فضح الهراء الإداري والتسويقي بصوت عالٍ؟",
     "summary_en": "A side-effect of my moderate, only-in-bubble fame is a barrage of \"special\" offers, guest-post requests, pleas for attention, and modest, tasteful bribery.",
-    "summary_ar": "A side-effect of my moderate, only-in-bubble fame is a barrage of \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'هل تجرؤ على فضح الهراء الإداري والتسويقي بصوت عالٍ؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -18647,7 +18647,7 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Never say \"no,\" but rarely say \"yes.\"",
-    "title_ar": "Never say \\",
+    "title_ar": "إياك أن تقول 'لا' لعملائك، ولكن نادراً جداً ما تقول 'نعم'",
     "summary_en": "\"Focus\" requires saying \"no\" to most things, but there's a way to do it that allows you to say \"yes\" exactly when it matters most.",
     "summary_ar": "\\",
     "subtopics_en": [
@@ -18762,7 +18762,7 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Our unhealthy fixation with emulating #1",
-    "title_ar": "Our unhealthy fixation with emulating #1",
+    "title_ar": "التضحية بصحتك من أجل شركتك الناشئة: الوهم القاتل الذي يجب تجنبه",
     "summary_en": "Being \"undefeated\" or \"number 1\" might be more luck than you know.",
     "summary_ar": "Being \\",
     "subtopics_en": [
@@ -18877,9 +18877,9 @@
     "category_en": "Foundational Philosophy & Startup Wisdom",
     "category_ar": "فلسفة ريادة الأعمال والحكمة التأسيسية",
     "title_en": "Specificity: A weapon of mass effectiveness",
-    "title_ar": "Specificity: A weapon of mass effectiveness",
+    "title_ar": "التحديد والدقة الفائقة: سلاحك الفعال للإنجاز والإقناع",
     "summary_en": "Want to write better? Swap generic words for specifics to make your text clear, powerful, engaging, and even funny.",
-    "summary_ar": "Want to write better? Swap generic words for specifics to make your text clear, powerful, engaging, and even funny.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التحديد والدقة الفائقة: سلاحك الفعال للإنجاز والإقناع'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -19040,9 +19040,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Startup Exercise: What can't be solved with money?",
-    "title_ar": "Startup Exercise: What can't be solved with money?",
+    "title_ar": "تمرين ريادي: ما هي المشكلات التي لا يستطيع المال حلها في شركتك؟",
     "summary_en": "What can't be solved with money, are the most valuable things.",
-    "summary_ar": "What can't be solved with money, are the most valuable things.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Startup Exercise: What can't be solved with money?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -19155,9 +19155,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "When you want to quit because it's just not worth it",
-    "title_ar": "When you want to quit because it's just not worth it",
+    "title_ar": "عندما ترغب في الانسحاب لأن الأمر لم يعد يستحق العناء",
     "summary_en": "Are you crying in the shower because you can't handle it anymore? Beyond Impostor Syndrome: Complete melt-down? Well, at least you're in good company.",
-    "summary_ar": "Are you crying in the shower because you can't handle it anymore? Beyond Impostor Syndrome: Complete melt-down? Well, at least you're in good company.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'عندما ترغب في الانسحاب لأن الأمر لم يعد يستحق العناء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -19270,9 +19270,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "The unfortunate math behind consulting companies",
-    "title_ar": "The unfortunate math behind consulting companies",
+    "title_ar": "الحسابات الرياضية المؤسفة وراء شركات الاستشارات والخدمات",
     "summary_en": "Hiring even one person creates a lot less profit than you'd think, and launching a product rarely works out. Here are some tips for consulting companies.",
-    "summary_ar": "Hiring even one person creates a lot less profit than you'd think, and launching a product rarely works out. Here are some tips for consulting companies.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الحسابات الرياضية المؤسفة وراء شركات الاستشارات والخدمات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -19433,9 +19433,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Color Wheels are wrong? How color vision actually works",
-    "title_ar": "Color Wheels are wrong? How color vision actually works",
+    "title_ar": "عجلة الألوان التقليدية خاطئة: كيف تعمل الرؤية البشرية للألوان فعلياً",
     "summary_en": "Artists say all colors are a mixture of red, yellow, and blue. But physics and TV screens and printers disagree. How does color really work?",
-    "summary_ar": "Artists say all colors are a mixture of red, yellow, and blue. But physics and TV screens and printers disagree. How does color really work?",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'عجلة الألوان التقليدية خاطئة: كيف تعمل الرؤية البشرية للألوان فعلياً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -19596,9 +19596,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Marketing Platform Independence",
-    "title_ar": "Marketing Platform Independence",
+    "title_ar": "الاستقلال التسويقي: كيف تبني حضورك دون الاعتماد كلياً على منصة واحدة",
     "summary_en": "Basing your startup on a volatile platform is risky. Choose platforms with this in mind, or diversify.",
-    "summary_ar": "Basing your startup on a volatile platform is risky. Choose platforms with this in mind, or diversify.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الاستقلال التسويقي: كيف تبني حضورك دون الاعتماد كلياً على منصة واحدة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -19709,9 +19709,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Reputation isn't as powerful as you imagine",
-    "title_ar": "Reputation isn't as powerful as you imagine",
+    "title_ar": "السمعة وحدها ليست بالقوة التي تتخيلها لضمان المبيعات",
     "summary_en": "Blogger with tens of thousands of subscribers launches a new venture… and gets only 2 signups. Not the advantage you thought it was.",
-    "summary_ar": "Blogger with tens of thousands of subscribers launches a new venture… and gets only 2 signups. Not the advantage you thought it was.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'السمعة وحدها ليست بالقوة التي تتخيلها لضمان المبيعات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -19824,7 +19824,7 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "If you build it, they won't come, unless…",
-    "title_ar": "If you build it, they won't come, unless…",
+    "title_ar": "إذا بنيت المنتج فلن يأتوا بمفردهم، إلا إذا امتلكت خطة توزيع حقيقية",
     "summary_en": "A/B tests and accumulating Twitter followers is not a marketing strategy, just as \"we'll use salt and cheese\" isn't a recipe.",
     "summary_ar": "A/B tests and accumulating Twitter followers is not a marketing strategy, just as \\",
     "subtopics_en": [
@@ -19963,9 +19963,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Yes, but who said they'd actually BUY the damn thing?",
-    "title_ar": "Yes, but who said they'd actually BUY the damn thing?",
+    "title_ar": "نعم، ولكن من قال إنهم سيدفعون أموالاً حقيقية لشراء هذا الشيء؟",
     "summary_en": "Have a great idea? Prove it by finding ten customers ready to hand over cash. Everything else is avoiding the truth.",
-    "summary_ar": "Have a great idea? Prove it by finding ten customers ready to hand over cash. Everything else is avoiding the truth.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'نعم، ولكن من قال إنهم سيدفعون أموالاً حقيقية لشراء هذا الشيء؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -20126,9 +20126,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Real Unfair Advantages",
-    "title_ar": "Real Unfair Advantages",
+    "title_ar": "المزايا التنافسية غير العادلة الحقيقية التي لا يمكن للمنافسين نسخها",
     "summary_en": "It's not a question of if someone copies your business idea, it's when.",
-    "summary_ar": "It's not a question of if someone copies your business idea, it's when.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'المزايا التنافسية غير العادلة الحقيقية التي لا يمكن للمنافسين نسخها'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -20289,9 +20289,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Human + Fallible = Love; Corporate + Sterile = Refund",
-    "title_ar": "Human + Fallible = Love; Corporate + Sterile = Refund",
+    "title_ar": "توقف عن استخدام كلمة 'أصيل' أو 'حقيقي' كشعار تسويقي",
     "summary_en": "People love and forgive humans, not corporations. Expose your humanity to earn loyal, happy customers, even when you mess up.",
-    "summary_ar": "People love and forgive humans, not corporations. Expose your humanity to earn loyal, happy customers, even when you mess up.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'توقف عن استخدام كلمة 'أصيل' أو 'حقيقي' كشعار تسويقي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -20404,9 +20404,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Out of the cesspool and into the sewer: A/B testing trap",
-    "title_ar": "Out of the cesspool and into the sewer: A/B testing trap",
+    "title_ar": "فخ القاع المحلي: كيف توقعك اختبارات A/B في تحسينات تافهة وتبعدك عن الثورات الكبرى؟",
     "summary_en": "Don't get caught in a cycle of incremental A/B testing. Sometimes you need to try something radically different.",
-    "summary_ar": "Don't get caught in a cycle of incremental A/B testing. Sometimes you need to try something radically different.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Out of the cesspool and into the sewer: A/B testing trap'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -20519,9 +20519,9 @@
     "category_en": "AI Era Dynamics, Disruption & Big Tech",
     "category_ar": "ديناميكيات عصر الذكاء الاصطناعي والثورات التقنية",
     "title_en": "The Pattern-Seeking Fallacy",
-    "title_ar": "The Pattern-Seeking Fallacy",
+    "title_ar": "مغالطة البحث عن أنماط وهمية في فوضى البيانات الريادية",
     "summary_en": "We humans are terrible at discerning patterns from randomness, and in marketing data we unwittingly find \"insights\" that are actually noise. Here's how to fix that.",
-    "summary_ar": "We humans are terrible at discerning patterns from randomness, and in marketing data we unwittingly find \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'مغالطة البحث عن أنماط وهمية في فوضى البيانات الريادية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -20658,9 +20658,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Telling the 800-lb Gorilla to Shove it up his Ass",
-    "title_ar": "Telling the 800-lb Gorilla to Shove it up his Ass",
+    "title_ar": "كيف تقف في وجه الشركات العملاقة المسيطرة دون خوف وتنتزع حصتك",
     "summary_en": "You worry about competition from the big, brand-name, deep-pocketed company. But there are better things to worry about and ways to avoid running into gorillas in the first place.",
-    "summary_ar": "You worry about competition from the big, brand-name, deep-pocketed company. But there are better things to worry about and ways to avoid running into gorillas in the first place.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف تقف في وجه الشركات العملاقة المسيطرة دون خوف وتنتزع حصتك'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -20797,9 +20797,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Tech Support is sales",
-    "title_ar": "Tech Support is sales",
+    "title_ar": "الدعم الفني هو جوهر عملية المبيعات وبناء الولاء",
     "summary_en": "Tech support isn't just troubleshooting; it's the face of your company.  Which means it's your brand, your positioning, and when it's excellent, it is sales.",
-    "summary_ar": "Tech support isn't just troubleshooting; it's the face of your company.  Which means it's your brand, your positioning, and when it's excellent, it is sales.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الدعم الفني هو جوهر عملية المبيعات وبناء الولاء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -20912,7 +20912,7 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Not disruptive, and proud of it",
-    "title_ar": "Not disruptive, and proud of it",
+    "title_ar": "لسنا شركة ثورية تقلب الموازين، وفخورون بذلك تماماً",
     "summary_en": "I remember \"disruptive\" when it was called a \"paradigm shift.\" You should be worrying more about making something people want to buy, and less about disrupting everything.",
     "summary_ar": "I remember \\",
     "subtopics_en": [
@@ -21051,9 +21051,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Maybe not so much with the \"optimization\"",
-    "title_ar": "Maybe not so much with the \\",
+    "title_ar": "ربما حان الوقت للتوقف عن 'التحسين المفرط' والتركيز على الإبداع",
     "summary_en": "In the quest for optimization, A/B tests, metrics, and funnels, we're in danger of losing the fun and value of creative work.",
-    "summary_ar": "In the quest for optimization, A/B tests, metrics, and funnels, we're in danger of losing the fun and value of creative work.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'ربما حان الوقت للتوقف عن 'التحسين المفرط' والتركيز على الإبداع'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -21166,9 +21166,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "A butterfly flaps its wings and you make a sale",
-    "title_ar": "A butterfly flaps its wings and you make a sale",
+    "title_ar": "أثر الفراشة في المبيعات: كيف تقود تفصيلة صغيرة لصفقة كبرى",
     "summary_en": "It is true that small changes can have enormous effects? Or is this just what optimization consultants want us to believe?",
-    "summary_ar": "It is true that small changes can have enormous effects? Or is this just what optimization consultants want us to believe?",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'أثر الفراشة في المبيعات: كيف تقود تفصيلة صغيرة لصفقة كبرى'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -21281,9 +21281,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "The true meaning of common idioms",
-    "title_ar": "The true meaning of common idioms",
+    "title_ar": "المعنى الحقيقي الكامن وراء الأمثال والمصطلحات الشائعة في الأعمال",
     "summary_en": "Struggling to understand American business vernacular?  Here's a convenient reference.",
-    "summary_ar": "Struggling to understand American business vernacular?  Here's a convenient reference.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'المعنى الحقيقي الكامن وراء الأمثال والمصطلحات الشائعة في الأعمال'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -21394,9 +21394,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Employed with a side of startup",
-    "title_ar": "Employed with a side of startup",
+    "title_ar": "الجمع بين الوظيفة الثابتة وبناء شركة ناشئة على الهامش",
     "summary_en": "Starting a side gig during your 9-to-5: Avoid legal issues and maximize success.",
-    "summary_ar": "Starting a side gig during your 9-to-5: Avoid legal issues and maximize success.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الجمع بين الوظيفة الثابتة وبناء شركة ناشئة على الهامش'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -21557,9 +21557,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Pick one and own it",
-    "title_ar": "Pick one and own it",
+    "title_ar": "اختر ميزة واحدة أساسية وامتلكها بالكامل في ذهن العميل",
     "summary_en": "What if your company could have only one single advantage over the competition? This exercise will make your positioning and strategy stronger.",
-    "summary_ar": "What if your company could have only one single advantage over the competition? This exercise will make your positioning and strategy stronger.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Pick one and own it'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -21648,7 +21648,7 @@
     "category_en": "Foundational Philosophy & Startup Wisdom",
     "category_ar": "فلسفة ريادة الأعمال والحكمة التأسيسية",
     "title_en": "Enough with the \"expert\" guilt",
-    "title_ar": "Enough with the \\",
+    "title_ar": "كفى شعوراً بالذنب لعدم كونك خبيراً في كل المجالات",
     "summary_en": "Tired of being told you need \"10,000 hours\" before you can call yourself an \"expert,\" and maybe become a \"success?\"  Maybe you don't.",
     "summary_ar": "Tired of being told you need \\",
     "subtopics_en": [
@@ -21763,9 +21763,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Sunk Costs: An invisible, pervasive peril",
-    "title_ar": "Sunk Costs: An invisible, pervasive peril",
+    "title_ar": "التكاليف الغارقة (Sunk Costs): الخطر الخفي الدائم الذي يستنزف الشركات",
     "summary_en": "From blown budgets to failed features, sunk costs result in irrational choices.",
-    "summary_ar": "From blown budgets to failed features, sunk costs result in irrational choices.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التكاليف الغارقة (Sunk Costs): الخطر الخفي الدائم الذي يستنزف الشركات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -21878,9 +21878,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Rude Q&A: The constructive devil's advocate",
-    "title_ar": "Rude Q&A: The constructive devil's advocate",
+    "title_ar": "جلسات محامي الشيطان البنّاءة: تفكيك القرارات قبل ارتكاب الكوارث",
     "summary_en": "Nothing clarifies things quite like a hyperactive, all-knowing, all-seeing, real asshole of a devil's advocate beating the living crap out of you.",
-    "summary_ar": "Nothing clarifies things quite like a hyperactive, all-knowing, all-seeing, real asshole of a devil's advocate beating the living crap out of you.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'جلسات محامي الشيطان البنّاءة: تفكيك القرارات قبل ارتكاب الكوارث'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -21993,9 +21993,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "A Tradeshow Checklist, born of experience",
-    "title_ar": "A Tradeshow Checklist, born of experience",
+    "title_ar": "قائمة مرجعية واقعية للمشاركة في المعارض التجارية مبنية على التجربة",
     "summary_en": "My tips from running booths at dozens of tradeshows.",
-    "summary_ar": "My tips from running booths at dozens of tradeshows.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'قائمة مرجعية واقعية للمشاركة في المعارض التجارية مبنية على التجربة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -22108,9 +22108,9 @@
     "category_en": "Foundational Philosophy & Startup Wisdom",
     "category_ar": "فلسفة ريادة الأعمال والحكمة التأسيسية",
     "title_en": "Impostor Syndrome: Why I felt like a fraud, and how I overcame it",
-    "title_ar": "Impostor Syndrome: Why I felt like a fraud, and how I overcame it",
+    "title_ar": "متلازمة المحتال: لماذا شعرت بأني مخادع، وكيف تغلبت عليها تماماً",
     "summary_en": "Most high-performing people experience Impostor Syndrome. I did too. When you understand the cause, you can defeat it.",
-    "summary_ar": "Most high-performing people experience Impostor Syndrome. I did too. When you understand the cause, you can defeat it.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'متلازمة المحتال: لماذا شعرت بأني مخادع، وكيف تغلبت عليها تماماً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -22223,9 +22223,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Rich vs. King in the Real World: Why I sold my company",
-    "title_ar": "Rich vs. King in the Real World: Why I sold my company",
+    "title_ar": "أن تكون ثرياً أم ملكاً في العالم الواقعي: لماذا قررت بيع شركتي؟",
     "summary_en": "Reflecting on selling Smart Bear in 2007, offering insights for entrepreneurs facing similar decisions.",
-    "summary_ar": "Reflecting on selling Smart Bear in 2007, offering insights for entrepreneurs facing similar decisions.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'أن تكون ثرياً أم ملكاً في العالم الواقعي: لماذا قررت بيع شركتي؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -22338,9 +22338,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Discover what's blocking sales with less than a day of work",
-    "title_ar": "Discover what's blocking sales with less than a day of work",
+    "title_ar": "اكتشف ما يعطل مبيعاتك في أقل من يوم عمل واحد عبر ملاحظات العملاء",
     "summary_en": "Uncover sales blockers in 24 hours with these 11 strategies.",
-    "summary_ar": "Uncover sales blockers in 24 hours with these 11 strategies.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'اكتشف ما يعطل مبيعاتك في أقل من يوم عمل واحد عبر ملاحظات العملاء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -22499,9 +22499,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Put down the compiler until you learn why they're not buying",
-    "title_ar": "Put down the compiler until you learn why they're not buying",
+    "title_ar": "توقف عن كتابة الكود حتى تعرف بدقة لماذا يرفض العملاء الشراء",
     "summary_en": "Technical founders, step away from the code. Gather insights from non-buyers, rather than just adding more features.",
-    "summary_ar": "Technical founders, step away from the code. Gather insights from non-buyers, rather than just adding more features.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'توقف عن كتابة الكود حتى تعرف بدقة لماذا يرفض العملاء الشراء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -22614,9 +22614,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "If Kindergarten were like Social Media Marketing",
-    "title_ar": "If Kindergarten were like Social Media Marketing",
+    "title_ar": "لو كان التسويق عبر وسائل التواصل الاجتماعي مثل فصول رياض الأطفال",
     "summary_en": "What if we ran kindergarten classes with the same rules as social media marketing?",
-    "summary_ar": "What if we ran kindergarten classes with the same rules as social media marketing?",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'لو كان التسويق عبر وسائل التواصل الاجتماعي مثل فصول رياض الأطفال'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -22657,9 +22657,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "You're a little company, now act like one",
-    "title_ar": "You're a little company, now act like one",
+    "title_ar": "أنت شركة صغيرة، تصرف بذكاء وخفة الشركات الصغيرة",
     "summary_en": "You're afraid that looking like being a small company means you'll lose sales. It's actually the opposite -- you're alienating your best customers.",
-    "summary_ar": "You're afraid that looking like being a small company means you'll lose sales. It's actually the opposite -- you're alienating your best customers.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'أنت شركة صغيرة، تصرف بذكاء وخفة الشركات الصغيرة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -22772,7 +22772,7 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Business Advice Plagued by Survivor Bias",
-    "title_ar": "Business Advice Plagued by Survivor Bias",
+    "title_ar": "نصائح رواد الأعمال الملوثة بانحياز البقاء (Survivor Bias)",
     "summary_en": "Advice from \"successful entrepreneurs\" might be unreliable due to Survivor Bias. What's real, and what's random?",
     "summary_ar": "Advice from \\",
     "subtopics_en": [
@@ -22911,7 +22911,7 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Darwinian advice for \"Going Viral\"",
-    "title_ar": "Darwinian advice for \\",
+    "title_ar": "نصائح داروينية حول الانتشار الفيروسي الحقيقي للمنتجات",
     "summary_en": "Some of my articles have \"gone viral.\" While you can't force it to happen, this is my Darwinian Theory of how to \"go viral.\"",
     "summary_ar": "Some of my articles have \\",
     "subtopics_en": [
@@ -23026,9 +23026,9 @@
     "category_en": "Foundational Philosophy & Startup Wisdom",
     "category_ar": "فلسفة ريادة الأعمال والحكمة التأسيسية",
     "title_en": "Sacrifice your health for your startup",
-    "title_ar": "Sacrifice your health for your startup",
+    "title_ar": "التضحية بصحتك من أجل شركتك الناشئة: الوهم القاتل الذي يجب تجنبه",
     "summary_en": "Maximizing your chance for success means sacrificing health and family. This sounds controversial, but it's not just me.",
-    "summary_ar": "Maximizing your chance for success means sacrificing health and family. This sounds controversial, but it's not just me.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التضحية بصحتك من أجل شركتك الناشئة: الوهم القاتل الذي يجب تجنبه'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -23141,9 +23141,9 @@
     "category_en": "AI Era Dynamics, Disruption & Big Tech",
     "category_ar": "ديناميكيات عصر الذكاء الاصطناعي والثورات التقنية",
     "title_en": "Letters to Joel Spolsky",
-    "title_ar": "Letters to Joel Spolsky",
+    "title_ar": "رسائل مفتوحة إلى جويل سبولسكي حول فنون هندسة البرمجيات وإدارتها",
     "summary_en": "I regret to inform you…",
-    "summary_ar": "I regret to inform you…",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'رسائل مفتوحة إلى جويل سبولسكي حول فنون هندسة البرمجيات وإدارتها'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -23256,9 +23256,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Too small to fail: How startups can grow in recessions",
-    "title_ar": "Too small to fail: How startups can grow in recessions",
+    "title_ar": "أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود",
     "summary_en": "These two little startups are exploding in sales, even in recession. Here's how they're doing it, and how you can too.",
-    "summary_ar": "These two little startups are exploding in sales, even in recession. Here's how they're doing it, and how you can too.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -23371,9 +23371,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Communicating Values: Show, don't Tell",
-    "title_ar": "Communicating Values: Show, don't Tell",
+    "title_ar": "إيصال القيم الحقيقية لشركتك: أثبتها بالأفعال بدلاً من الثرثرة التسويقية",
     "summary_en": "Authentic values shine through actions, not marketing buzzwords.",
-    "summary_ar": "Authentic values shine through actions, not marketing buzzwords.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'إيصال القيم الحقيقية لشركتك: أثبتها بالأفعال بدلاً من الثرثرة التسويقية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -23486,9 +23486,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "How to get customers who love you even when you screw up",
-    "title_ar": "How to get customers who love you even when you screw up",
+    "title_ar": "كيف تكسب عملاء يحبون شركتك حتى عندما ترتكب أخطاء برمجية",
     "summary_en": "Customers love you when you're honest, even about your foibles. We forgive honest mistakes from earnest people, not stolid, cold, inhuman corporations.",
-    "summary_ar": "Customers love you when you're honest, even about your foibles. We forgive honest mistakes from earnest people, not stolid, cold, inhuman corporations.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف تكسب عملاء يحبون شركتك حتى عندما ترتكب أخطاء برمجية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -23601,7 +23601,7 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Easy statistics for A/B testing and hamsters",
-    "title_ar": "Easy statistics for A/B testing and hamsters",
+    "title_ar": "إحصاءات مبسطة لاختبارات A/B دون تعقيدات رياضية",
     "summary_en": "A/B testing tools often lie about whether something is \"statistically significant.\" Here's an extremely simple, mathematically sound formula to compute it for yourself.",
     "summary_ar": "A/B testing tools often lie about whether something is \\",
     "subtopics_en": [
@@ -23668,7 +23668,7 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "How much of success is luck?",
-    "title_ar": "How much of success is luck?",
+    "title_ar": "كم تبلغ نسبة الحظ الحقيقية في نجاح الشركات ورواد الأعمال؟",
     "summary_en": "\"You're so lucky.\"  That's true.  There's also decades of sacrifice, emotional turmoil, long hours, perseverance.  So… is it lucky?",
     "summary_ar": "\\",
     "subtopics_en": [
@@ -23783,9 +23783,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Double your productivity without more work or stress",
-    "title_ar": "Double your productivity without more work or stress",
+    "title_ar": "ضاعف إنتاجيتك دون مضاعفة ساعات العمل أو التوتر",
     "summary_en": "People love to say that getting \"1% better per day\" makes you 37x better after a year, but this obviously makes no sense.  But 2x better is possible.",
-    "summary_ar": "People love to say that getting \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'ضاعف إنتاجيتك دون مضاعفة ساعات العمل أو التوتر'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -23898,9 +23898,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "High-concept pitches are not your friend",
-    "title_ar": "High-concept pitches are not your friend",
+    "title_ar": "عروض الأفكار التسويقية المعقدة والفلسفية ليست صديقتك في المبيعات",
     "summary_en": "High-concept pitches are too brief, and too ambiguous. Opt instead for clarity, and define yourself on your own terms.",
-    "summary_ar": "High-concept pitches are too brief, and too ambiguous. Opt instead for clarity, and define yourself on your own terms.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'عروض الأفكار التسويقية المعقدة والفلسفية ليست صديقتك في المبيعات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -24013,9 +24013,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Ignoring the Wisdom of Crowds",
-    "title_ar": "Ignoring the Wisdom of Crowds",
+    "title_ar": "متى يجب عليك تجاهل حكمة الجماهير والتمسك بحدسك الريادي",
     "summary_en": "Discover how to leverage the wisdom of the crowds, but also when to avoid it, as it can easily lead you astray.",
-    "summary_ar": "Discover how to leverage the wisdom of the crowds, but also when to avoid it, as it can easily lead you astray.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'متى يجب عليك تجاهل حكمة الجماهير والتمسك بحدسك الريادي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -24176,9 +24176,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Distinguishing constructive criticism from bad business advice",
-    "title_ar": "Distinguishing constructive criticism from bad business advice",
+    "title_ar": "كيف تميز بين النقد البنّاء والنصائح التجارية السيئة والمضللة",
     "summary_en": "Beware of advice that tries to change who you are. True wisdom guides you to a better version of yourself.",
-    "summary_ar": "Beware of advice that tries to change who you are. True wisdom guides you to a better version of yourself.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف تميز بين النقد البنّاء والنصائح التجارية السيئة والمضللة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -24265,9 +24265,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Your idea sucks, now go do it anyway",
-    "title_ar": "Your idea sucks, now go do it anyway",
+    "title_ar": "فكرتك سيئة في نظر الجميع، ابدأ في تنفيذها وأثبت العكس على أي حال",
     "summary_en": "Your idea probably sucks, and it doesn't matter because your business will probably turn out to be something completely different.",
-    "summary_ar": "Your idea probably sucks, and it doesn't matter because your business will probably turn out to be something completely different.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'فكرتك سيئة في نظر الجميع، ابدأ في تنفيذها وأثبت العكس على أي حال'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -24356,9 +24356,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Breaking the Rules",
-    "title_ar": "Breaking the Rules",
+    "title_ar": "كسر القواعد التقليدية: متى يكون التمرد هو الطريق الأوحد للنجاح",
     "summary_en": "When you know the rules, then you can break the rules.",
-    "summary_ar": "When you know the rules, then you can break the rules.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كسر القواعد التقليدية: متى يكون التمرد هو الطريق الأوحد للنجاح'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -24471,9 +24471,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Standing out from the noise",
-    "title_ar": "Standing out from the noise",
+    "title_ar": "كيف تبرز وتلفت الأنظار وسط الضجيج التسويقي الصاخب",
     "summary_en": "Ensure your pitch works even in our noisy, distracting, multi-tasking world.",
-    "summary_ar": "Ensure your pitch works even in our noisy, distracting, multi-tasking world.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف تبرز وتلفت الأنظار وسط الضجيج التسويقي الصاخب'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -24586,7 +24586,7 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Bed, Bath, Linens, Things, Beyond, and More!",
-    "title_ar": "Bed, Bath, Linens, Things, Beyond, and More!",
+    "title_ar": "فخ إضافة 'المزيد والمزيد': لماذا تقتل كثرة الخيارات وضوح المنتج",
     "summary_en": "\"And more!\" is lazy marketing. Be specific, be passionate, and make people care.",
     "summary_ar": "\\",
     "subtopics_en": [
@@ -24695,9 +24695,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Strong opinions, somewhat weakly held",
-    "title_ar": "Strong opinions, somewhat weakly held",
+    "title_ar": "آراء قاطعة وقوية، متمسك بها بمرونة واستعداد للتغيير",
     "summary_en": "A strategy that changes all the time cannot be executed, but a strategy that never changes is definitely incorrect.",
-    "summary_ar": "A strategy that changes all the time cannot be executed, but a strategy that never changes is definitely incorrect.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'آراء قاطعة وقوية، متمسك بها بمرونة واستعداد للتغيير'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -24810,9 +24810,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "The leading provider of meaningless marketing solutions",
-    "title_ar": "The leading provider of meaningless marketing solutions",
+    "title_ar": "المزود الرائد لحلول تسويقية لا معنى لها: السخرية من لغة الشركات الجوفاء",
     "summary_en": "Marketing buzzwords and generic phrases hurts your brand. Use clear messaging instead of meaningless jargon.",
-    "summary_ar": "Marketing buzzwords and generic phrases hurts your brand. Use clear messaging instead of meaningless jargon.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'المزود الرائد لحلول تسويقية لا معنى لها: السخرية من لغة الشركات الجوفاء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -24925,9 +24925,9 @@
     "category_en": "Competitive Advantage, Moats & Defense",
     "category_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
     "title_en": "Love the messenger",
-    "title_ar": "Love the messenger",
+    "title_ar": "أحبب حامل الأخبار السيئة: لماذا يعتبر نقد العملاء أثمن هدية لشركتك",
     "summary_en": "Being obsessively and genuinely excited about something is contagious. And good sales. In any industry, with any product.",
-    "summary_ar": "Being obsessively and genuinely excited about something is contagious. And good sales. In any industry, with any product.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'أحبب حامل الأخبار السيئة: لماذا يعتبر نقد العملاء أثمن هدية لشركتك'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -25040,9 +25040,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Is it OK to Sucks?",
-    "title_ar": "Is it OK to Sucks?",
+    "title_ar": "هل من المقبول أن يكون منتجك سيئاً في بعض الجوانب غير الجوهرية؟",
     "summary_en": "Using humor or edgy language works. It's risky, and may alienate some potential customers, but it wins you more customers and shows differentiated personality.",
-    "summary_ar": "Using humor or edgy language works. It's risky, and may alienate some potential customers, but it wins you more customers and shows differentiated personality.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'هل من المقبول أن يكون منتجك سيئاً في بعض الجوانب غير الجوهرية؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -25155,9 +25155,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Procrastinate for Success!",
-    "title_ar": "Procrastinate for Success!",
+    "title_ar": "التسويف المدروس من أجل النجاح: تأجيل القرارات حتى اكتمال البيانات",
     "summary_en": "Procrastination can be a useful tool.  You can't do everything.  So don't.",
-    "summary_ar": "Procrastination can be a useful tool.  You can't do everything.  So don't.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التسويف المدروس من أجل النجاح: تأجيل القرارات حتى اكتمال البيانات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -25270,9 +25270,9 @@
     "category_en": "Product/Market Fit & Product Strategy",
     "category_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
     "title_en": "Software Quality Mortgage",
-    "title_ar": "Software Quality Mortgage",
+    "title_ar": "رهن جودة البرمجيات: الديون التقنية وكيف تدفع فوائدها لاحقاً",
     "summary_en": "Quick software releases have long-term costs. Stakeholders and engineers alike must be prepared to repay the mortgage known as \"tech debt.\"",
-    "summary_ar": "Quick software releases have long-term costs. Stakeholders and engineers alike must be prepared to repay the mortgage known as \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'رهن جودة البرمجيات: الديون التقنية وكيف تدفع فوائدها لاحقاً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -25385,7 +25385,7 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Hello, I'm 1074018628",
-    "title_ar": "Hello, I'm 1074018628",
+    "title_ar": "مرحباً، أنا الموظف رقم 1074018628: خطر تجريد خدمة العملاء من طابعها الإنساني",
     "summary_en": "Is \"customer service\" a genuine service? Or is it a shield so that most people at your company never have to speak to one of those pesky customers?",
     "summary_ar": "Is \\",
     "subtopics_en": [
@@ -25500,9 +25500,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Limiting Options",
-    "title_ar": "Limiting Options",
+    "title_ar": "تقليص الخيارات المتاحة: كيف يؤدي تقييد البدائل لقرارات أسرع وأفضل",
     "summary_en": "The winning strategy in Othello is to minimize your opponent's options, rather than maximizing your own. The same principle applies to competitive strategy.",
-    "summary_ar": "The winning strategy in Othello is to minimize your opponent's options, rather than maximizing your own. The same principle applies to competitive strategy.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تقليص الخيارات المتاحة: كيف يؤدي تقييد البدائل لقرارات أسرع وأفضل'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -25615,9 +25615,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "The \"Opposite Test\"",
-    "title_ar": "The \\",
+    "title_ar": "اختبار العكس: الطريقة الذهبية لمعرفة هل استراتيجيتك حقيقية أم مجرد بديهيات",
     "summary_en": "Elevate your product marketing: Use the Opposite Test to avoid generic bullet points and craft compelling, unique features.",
-    "summary_ar": "Elevate your product marketing: Use the Opposite Test to avoid generic bullet points and craft compelling, unique features.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'اختبار العكس: الطريقة الذهبية لمعرفة هل استراتيجيتك حقيقية أم مجرد بديهيات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -25730,9 +25730,9 @@
     "category_en": "Pricing Strategy & Monetization",
     "category_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
     "title_en": "Discount gambit",
-    "title_ar": "Discount gambit",
+    "title_ar": "مناورة تقديم الخصومات: متى تفيدك ومتى تدمر قيمة علامتك التجارية؟",
     "summary_en": "Discounting is the typical sales technique, but refusing to discount can lead to a much better business, even in the Enterprise.",
-    "summary_ar": "Discounting is the typical sales technique, but refusing to discount can lead to a much better business, even in the Enterprise.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'مناورة تقديم الخصومات: متى تفيدك ومتى تدمر قيمة علامتك التجارية؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -25843,9 +25843,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Tell me a story",
-    "title_ar": "Tell me a story",
+    "title_ar": "اروِ لي قصة: قوة السرد القصصي في إقناع المستثمرين والعملاء",
     "summary_en": "Why do we love Malcolm Gladwell even if his theories are debunked? We love a  great story.",
-    "summary_ar": "Why do we love Malcolm Gladwell even if his theories are debunked? We love a  great story.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'اروِ لي قصة: قوة السرد القصصي في إقناع المستثمرين والعملاء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -25958,9 +25958,9 @@
     "category_en": "Customer Discovery, Interviews & ICP",
     "category_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
     "title_en": "Outside-In",
-    "title_ar": "Outside-In",
+    "title_ar": "من الخارج إلى الداخل: انظر لشركتك بعيون العميل وليس بعيون المبرمج",
     "summary_en": "Actions speak louder than slogans: Great support, quality, service, is best sold through demonstration.",
-    "summary_ar": "Actions speak louder than slogans: Great support, quality, service, is best sold through demonstration.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'من الخارج إلى الداخل: انظر لشركتك بعيون العميل وليس بعيون المبرمج'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -26073,9 +26073,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "You're a real company when…",
-    "title_ar": "You're a real company when…",
+    "title_ar": "تصبح شركتك شركة حقيقية بالفعل عندما تبدأ هذه المؤشرات بالظهور",
     "summary_en": "What marks the moment when you become a \"real\" company?",
-    "summary_ar": "What marks the moment when you become a \\",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تصبح شركتك شركة حقيقية بالفعل عندما تبدأ هذه المؤشرات بالظهور'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -26188,9 +26188,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Guy in a bear suit",
-    "title_ar": "Guy in a bear suit",
+    "title_ar": "رجل في زي دب: كسر الجليد واستخدام المرح لخلق هوية تسويقية تعلق بالذهن",
     "summary_en": "Tradeshow booths need something to help them stand out.  A guy in a bear suit is one way to do it.",
-    "summary_ar": "Tradeshow booths need something to help them stand out.  A guy in a bear suit is one way to do it.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'رجل في زي دب: كسر الجليد واستخدام المرح لخلق هوية تسويقية تعلق بالذهن'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,
@@ -26303,7 +26303,7 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Selling to the Bottom",
-    "title_ar": "Selling to the Bottom",
+    "title_ar": "البيع للطبقات الأقل سعراً في السوق: مخاطر استهداف العملاء الأرخص",
     "summary_en": "More than a decade before \"Product-Led Growth\" became a thing, I was selling non-recurring-revenue-software to Fortune 500 companies from the bottom up.",
     "summary_ar": "More than a decade before \\",
     "subtopics_en": [
@@ -26418,9 +26418,9 @@
     "category_en": "Marketing Channels, Positioning & Distribution",
     "category_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
     "title_en": "Idiot! Buying SmartBear.com",
-    "title_ar": "Idiot! Buying SmartBear.com",
+    "title_ar": "يا للغباء! قصة شرائي لنطاق SmartBear.com والدروس القاسية المستفادة",
     "summary_en": "How my hesitation on SmartBear.com led to a $2000 expense. A lesson in acting fast.",
-    "summary_ar": "How my hesitation on SmartBear.com led to a $2000 expense. A lesson in acting fast.",
+    "summary_ar": "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'يا للغباء! قصة شرائي لنطاق SmartBear.com والدروس القاسية المستفادة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.",
     "subtopics_en": [
       {
         "num": 1,

@@ -1,22 +1,37 @@
 ---
 id: 74
 title_en: "The Important Thing⁠--powerful enough to override all your deficiencies"
-title_ar: "The Important Thing⁠--powerful enough to override all your deficiencies"
+title_ar: "الشيء الأهم: القوة القادرة على تعويض جميع نقاط ضعفك الأخرى"
 slug: "the-important-thing"
 url: "https://longform.asmartbear.com/the-important-thing/"
-pubDate: "Mon, 04 Nov 2019 00:00:00 +0000"
+published_date: "Mon, 04 Nov 2019 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "This is the reason that startups succeed despite their many weaknesses. And it's a reason to build a startup in the first place."
-summary_ar: "This is the reason that startups succeed despite their many weaknesses. And it's a reason to build a startup in the first place."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The Important Thing⁠--powerful enough to override all your deficiencies'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The Important Thing⁠--powerful enough to override all your deficiencies
+# الشيء الأهم: القوة القادرة على تعويض جميع نقاط ضعفك الأخرى
 ### The Important Thing⁠--powerful enough to override all your deficiencies
 
-> **الملخص التنفيذي:** This is the reason that startups succeed despite their many weaknesses. And it's a reason to build a startup in the first place.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The Important Thing⁠--powerful enough to override all your deficiencies'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/the-important-thing/](https://longform.asmartbear.com/the-important-thing/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الشيء الأهم: القوة القادرة على تعويض جميع نقاط ضعفك الأخرى تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The Important Thing⁠--powerful enough to override all your deficiencies
+
+> **Executive Summary:** This is the reason that startups succeed despite their many weaknesses. And it's a reason to build a startup in the first place.
+> **Original URL:** [https://longform.asmartbear.com/the-important-thing/](https://longform.asmartbear.com/the-important-thing/)
 
 ![I don't care whose time it is, we're going to have a nice dinner for once!](https://public.asmartbear.com/books/anthology/chapters/the-important-thing/d7817print-simple.png)
 

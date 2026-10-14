@@ -1,22 +1,37 @@
 ---
 id: 188
 title_en: "Easy statistics for A/B testing and hamsters"
-title_ar: "Easy statistics for A/B testing and hamsters"
+title_ar: "إحصاءات مبسطة لاختبارات A/B دون تعقيدات رياضية"
 slug: "ab-testing-statistics"
 url: "https://longform.asmartbear.com/ab-testing-statistics/"
-pubDate: "Mon, 06 Apr 2009 08:00:00 +0000"
+published_date: "Mon, 06 Apr 2009 08:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "A/B testing tools often lie about whether something is \"statistically significant.\" Here's an extremely simple, mathematically sound formula to compute it for yourself."
-summary_ar: "A/B testing tools often lie about whether something is \"statistically significant.\" Here's an extremely simple, mathematically sound formula to compute it for yourself."
+summary_ar: "A/B testing tools often lie about whether something is \"
 ---
 
-# Easy statistics for A/B testing and hamsters
+# إحصاءات مبسطة لاختبارات A/B دون تعقيدات رياضية
 ### Easy statistics for A/B testing and hamsters
 
-> **الملخص التنفيذي:** A/B testing tools often lie about whether something is "statistically significant." Here's an extremely simple, mathematically sound formula to compute it for yourself.
+> **الملخص التنفيذي:** A/B testing tools often lie about whether something is \
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/ab-testing-statistics/](https://longform.asmartbear.com/ab-testing-statistics/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** إحصاءات مبسطة لاختبارات A/B دون تعقيدات رياضية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Easy statistics for A/B testing and hamsters
+
+> **Executive Summary:** A/B testing tools often lie about whether something is "statistically significant." Here's an extremely simple, mathematically sound formula to compute it for yourself.
+> **Original URL:** [https://longform.asmartbear.com/ab-testing-statistics/](https://longform.asmartbear.com/ab-testing-statistics/)
 
 {{<youtube id="FaUO2-AQmr0">}}
 

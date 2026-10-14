@@ -1,22 +1,37 @@
 ---
 id: 127
 title_en: "What a startup does to you. Or: A celebration of new life"
-title_ar: "What a startup does to you. Or: A celebration of new life"
+title_ar: "ما تفعله بك الشركة الناشئة: رحلة التحول الإنساني والريادي"
 slug: "startup-life"
 url: "https://longform.asmartbear.com/startup-life/"
-pubDate: "Tue, 17 Jul 2012 08:00:00 +0000"
+published_date: "Tue, 17 Jul 2012 08:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "A startup is a crucible -- a fiery place that tests your limits, not by probing them but by violently exceeding them, all of the time. It's worth it."
-summary_ar: "A startup is a crucible -- a fiery place that tests your limits, not by probing them but by violently exceeding them, all of the time. It's worth it."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'ما تفعله بك الشركة الناشئة: رحلة التحول الإنساني والريادي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# What a startup does to you. Or: A celebration of new life
+# ما تفعله بك الشركة الناشئة: رحلة التحول الإنساني والريادي
 ### What a startup does to you. Or: A celebration of new life
 
-> **الملخص التنفيذي:** A startup is a crucible -- a fiery place that tests your limits, not by probing them but by violently exceeding them, all of the time. It's worth it.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'ما تفعله بك الشركة الناشئة: رحلة التحول الإنساني والريادي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/startup-life/](https://longform.asmartbear.com/startup-life/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** ما تفعله بك الشركة الناشئة: رحلة التحول الإنساني والريادي تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# What a startup does to you. Or: A celebration of new life
+
+> **Executive Summary:** A startup is a crucible -- a fiery place that tests your limits, not by probing them but by violently exceeding them, all of the time. It's worth it.
+> **Original URL:** [https://longform.asmartbear.com/startup-life/](https://longform.asmartbear.com/startup-life/)
 
 What was *supposed* to happen is that a curious pair of scissors would be offered me, designed for a singular purpose: to sever the life-line of an infant.
 
@@ -85,5 +100,5 @@ What's your crucible?  Where's your child-like combination of wonder and determi
 Because that's how you really live a life, instead of watching life elapse.
 
 > "Awake my little ones, and fill the cup,
-> before life's liquor in its cup be dry."
+before life's liquor in its cup be dry."
 > Omar Khayyám

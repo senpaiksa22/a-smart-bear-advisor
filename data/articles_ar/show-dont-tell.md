@@ -1,22 +1,37 @@
 ---
 id: 186
 title_en: "Communicating Values: Show, don't Tell"
-title_ar: "Communicating Values: Show, don't Tell"
+title_ar: "إيصال القيم الحقيقية لشركتك: أثبتها بالأفعال بدلاً من الثرثرة التسويقية"
 slug: "show-dont-tell"
 url: "https://longform.asmartbear.com/show-dont-tell/"
-pubDate: "Mon, 18 May 2009 08:00:00 +0000"
+published_date: "Mon, 18 May 2009 08:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Authentic values shine through actions, not marketing buzzwords."
-summary_ar: "Authentic values shine through actions, not marketing buzzwords."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'إيصال القيم الحقيقية لشركتك: أثبتها بالأفعال بدلاً من الثرثرة التسويقية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Communicating Values: Show, don't Tell
+# إيصال القيم الحقيقية لشركتك: أثبتها بالأفعال بدلاً من الثرثرة التسويقية
 ### Communicating Values: Show, don't Tell
 
-> **الملخص التنفيذي:** Authentic values shine through actions, not marketing buzzwords.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'إيصال القيم الحقيقية لشركتك: أثبتها بالأفعال بدلاً من الثرثرة التسويقية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/show-dont-tell/](https://longform.asmartbear.com/show-dont-tell/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** إيصال القيم الحقيقية لشركتك: أثبتها بالأفعال بدلاً من الثرثرة التسويقية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Communicating Values: Show, don't Tell
+
+> **Executive Summary:** Authentic values shine through actions, not marketing buzzwords.
+> **Original URL:** [https://longform.asmartbear.com/show-dont-tell/](https://longform.asmartbear.com/show-dont-tell/)
 
 A common marketing exercise tells us to [list all the adjectives](http://www.smallbusinessadvocate.com/small-business-articles/modify-your-business-with-adjectives-195) we want customers to associate with our company or product. The result often looks like this (real slide, source withheld to protect the guilty):
 

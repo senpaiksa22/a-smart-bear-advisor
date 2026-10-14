@@ -1,22 +1,37 @@
 ---
 id: 35
 title_en: "It's a torturous chaos until it isn't"
-title_ar: "It's a torturous chaos until it isn't"
+title_ar: "إنها فوضى مؤلمة وشاقة حتى تصبح فجأة أمراً منظماً ومربحاً"
 slug: "chaos-at-start"
 url: "https://longform.asmartbear.com/chaos-at-start/"
-pubDate: "Sun, 21 Apr 2024 00:00:00 +0000"
+published_date: "Sun, 21 Apr 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Even at wildly successful startups, the first few years are gut-wrenching, uncertain, on the brink of collapse, where pessimism is realism, and yet optimism is required."
-summary_ar: "Even at wildly successful startups, the first few years are gut-wrenching, uncertain, on the brink of collapse, where pessimism is realism, and yet optimism is required."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: It's a torturous chaos until it isn't'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# It's a torturous chaos until it isn't
+# إنها فوضى مؤلمة وشاقة حتى تصبح فجأة أمراً منظماً ومربحاً
 ### It's a torturous chaos until it isn't
 
-> **الملخص التنفيذي:** Even at wildly successful startups, the first few years are gut-wrenching, uncertain, on the brink of collapse, where pessimism is realism, and yet optimism is required.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: It's a torturous chaos until it isn't'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/chaos-at-start/](https://longform.asmartbear.com/chaos-at-start/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** إنها فوضى مؤلمة وشاقة حتى تصبح فجأة أمراً منظماً ومربحاً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# It's a torturous chaos until it isn't
+
+> **Executive Summary:** Even at wildly successful startups, the first few years are gut-wrenching, uncertain, on the brink of collapse, where pessimism is realism, and yet optimism is required.
+> **Original URL:** [https://longform.asmartbear.com/chaos-at-start/](https://longform.asmartbear.com/chaos-at-start/)
 
 When you hear "explosive startup growth," a few darlings come to mind. Facebook, Slack, now OpenAI (Figure 1).
 

@@ -1,22 +1,37 @@
 ---
 id: 107
 title_en: "You can have two Big Things, but not three"
-title_ar: "You can have two Big Things, but not three"
+title_ar: "يمكنك التركيز على أمرين كبيرين فقط، ولكن ليس ثلاثة"
 slug: "two-big-things"
 url: "https://longform.asmartbear.com/two-big-things/"
-pubDate: "Tue, 07 Jan 2014 00:00:00 +0000"
+published_date: "Tue, 07 Jan 2014 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "No you can't \"have it all.\"  You can have two things, but not three."
-summary_ar: "No you can't \"have it all.\"  You can have two things, but not three."
+summary_ar: "No you can't \"
 ---
 
-# You can have two Big Things, but not three
+# يمكنك التركيز على أمرين كبيرين فقط، ولكن ليس ثلاثة
 ### You can have two Big Things, but not three
 
-> **الملخص التنفيذي:** No you can't "have it all."  You can have two things, but not three.
+> **الملخص التنفيذي:** No you can't \
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/two-big-things/](https://longform.asmartbear.com/two-big-things/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** يمكنك التركيز على أمرين كبيرين فقط، ولكن ليس ثلاثة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# You can have two Big Things, but not three
+
+> **Executive Summary:** No you can't "have it all."  You can have two things, but not three.
+> **Original URL:** [https://longform.asmartbear.com/two-big-things/](https://longform.asmartbear.com/two-big-things/)
 
 ![stolen identity living best life](https://public.asmartbear.com/books/anthology/chapters/two-big-things/d9091print-simple.png)
 

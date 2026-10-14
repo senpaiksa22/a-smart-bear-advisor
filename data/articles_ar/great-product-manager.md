@@ -1,22 +1,37 @@
 ---
 id: 69
 title_en: "The \"Great\" Product Manager, a.k.a. the Impossible Product Manager"
-title_ar: "The \"Great\" Product Manager, a.k.a. the Impossible Product Manager"
+title_ar: "مدير المنتج 'العظيم': أو المستحيل الذي تبحث عنه الشركات"
 slug: "great-product-manager"
 url: "https://longform.asmartbear.com/great-product-manager/"
-pubDate: "Sat, 23 Apr 2022 00:00:00 +0000"
+published_date: "Sat, 23 Apr 2022 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "According to the internet, being a Product Manager is impossible. Can you ever measure up?  No. But don't worry, there's a better answer."
-summary_ar: "According to the internet, being a Product Manager is impossible. Can you ever measure up?  No. But don't worry, there's a better answer."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The \"Great\" Product Manager, a.k.a. the Impossible Product Manager'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The "Great" Product Manager, a.k.a. the Impossible Product Manager
+# مدير المنتج 'العظيم': أو المستحيل الذي تبحث عنه الشركات
 ### The "Great" Product Manager, a.k.a. the Impossible Product Manager
 
-> **الملخص التنفيذي:** According to the internet, being a Product Manager is impossible. Can you ever measure up?  No. But don't worry, there's a better answer.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The "Great" Product Manager, a.k.a. the Impossible Product Manager'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/great-product-manager/](https://longform.asmartbear.com/great-product-manager/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** مدير المنتج 'العظيم': أو المستحيل الذي تبحث عنه الشركات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The "Great" Product Manager, a.k.a. the Impossible Product Manager
+
+> **Executive Summary:** According to the internet, being a Product Manager is impossible. Can you ever measure up?  No. But don't worry, there's a better answer.
+> **Original URL:** [https://longform.asmartbear.com/great-product-manager/](https://longform.asmartbear.com/great-product-manager/)
 
 ![culmination suggestions employees focus consultants its terrible](https://public.asmartbear.com/books/anthology/chapters/great-product-manager/d6637print-simple.png)
 
@@ -46,7 +61,9 @@ Haha, that last one is funny. Don't be overwhelmed, but also "learn a lot more a
 These recitals always include a little "out," an opportunity for the writer to wriggle out of responsibility for commanding the impossible. Something like, "The final rule is: You can break any rule, if you know what you're doing." In this case, the 31st tweet:
 
 > Naturally, very few PMs are Great.  
+>   
 > And I don't know any Great PM who does all of the above, all of the time.  
+>   
 > That's because Great PMs know that these ideas should be viewed as signposts, not as commandments.
 
 So you *could* be super-human at two dozen different things. Now what?
@@ -91,11 +108,11 @@ In fact, exactly the opposite.
 
 In my experience, echoed by a few people I've chatted with, there is a general rule of thumb vis-a-vis the categories of work above:
 
-<br/>
+ <br/> 
 
 *A "Great PM" is <br/> **excellent** in one area, <br/> **good** in at least one other, <br/> and doesn't have time for more than two.*
 
-<br/>
+ <br/> 
 
 Using "Great PM" language, you should strive to be "Great," as superlative as possible, in one of those four areas, and pretty darn good at a second.
 

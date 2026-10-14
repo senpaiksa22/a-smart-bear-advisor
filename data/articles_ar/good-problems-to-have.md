@@ -1,22 +1,37 @@
 ---
 id: 41
 title_en: "The \"errors\" that mean you're doing it right"
-title_ar: "The \"errors\" that mean you're doing it right"
+title_ar: "الأخطاء والمشكلات التي تعني أنك تسير على الطريق الصحيح"
 slug: "good-problems-to-have"
 url: "https://longform.asmartbear.com/good-problems-to-have/"
-pubDate: "Sun, 21 Jan 2024 00:00:00 +0000"
+published_date: "Sun, 21 Jan 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Some things appear to be mistakes, but in fact should be celebrated as the expected outcomes of great decisions."
-summary_ar: "Some things appear to be mistakes, but in fact should be celebrated as the expected outcomes of great decisions."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The \"errors\" that mean you're doing it right'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The "errors" that mean you're doing it right
+# الأخطاء والمشكلات التي تعني أنك تسير على الطريق الصحيح
 ### The "errors" that mean you're doing it right
 
-> **الملخص التنفيذي:** Some things appear to be mistakes, but in fact should be celebrated as the expected outcomes of great decisions.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The "errors" that mean you're doing it right'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/good-problems-to-have/](https://longform.asmartbear.com/good-problems-to-have/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الأخطاء والمشكلات التي تعني أنك تسير على الطريق الصحيح تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The "errors" that mean you're doing it right
+
+> **Executive Summary:** Some things appear to be mistakes, but in fact should be celebrated as the expected outcomes of great decisions.
+> **Original URL:** [https://longform.asmartbear.com/good-problems-to-have/](https://longform.asmartbear.com/good-problems-to-have/)
 
 > "If you don't make mistakes, you're not working on hard enough problems."  
 > --Frank Wilczek, 2004 winner of Nobel for Physics

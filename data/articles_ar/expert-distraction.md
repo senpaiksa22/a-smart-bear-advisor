@@ -1,22 +1,37 @@
 ---
 id: 171
 title_en: "Enough with the \"expert\" guilt"
-title_ar: "Enough with the \"expert\" guilt"
+title_ar: "كفى شعوراً بالذنب لعدم كونك خبيراً في كل المجالات"
 slug: "expert-distraction"
 url: "https://longform.asmartbear.com/expert-distraction/"
-pubDate: "Mon, 22 Feb 2010 00:00:00 +0000"
+published_date: "Mon, 22 Feb 2010 00:00:00 +0000"
 category_en: "Foundational Philosophy & Startup Wisdom"
 category_ar: "فلسفة ريادة الأعمال والحكمة التأسيسية"
 summary_en: "Tired of being told you need \"10,000 hours\" before you can call yourself an \"expert,\" and maybe become a \"success?\"  Maybe you don't."
-summary_ar: "Tired of being told you need \"10,000 hours\" before you can call yourself an \"expert,\" and maybe become a \"success?\"  Maybe you don't."
+summary_ar: "Tired of being told you need \"
 ---
 
-# Enough with the "expert" guilt
+# كفى شعوراً بالذنب لعدم كونك خبيراً في كل المجالات
 ### Enough with the "expert" guilt
 
-> **الملخص التنفيذي:** Tired of being told you need "10,000 hours" before you can call yourself an "expert," and maybe become a "success?"  Maybe you don't.
+> **الملخص التنفيذي:** Tired of being told you need \
 > **المحور التصنيفي:** فلسفة ريادة الأعمال والحكمة التأسيسية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/expert-distraction/](https://longform.asmartbear.com/expert-distraction/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كفى شعوراً بالذنب لعدم كونك خبيراً في كل المجالات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Enough with the "expert" guilt
+
+> **Executive Summary:** Tired of being told you need "10,000 hours" before you can call yourself an "expert," and maybe become a "success?"  Maybe you don't.
+> **Original URL:** [https://longform.asmartbear.com/expert-distraction/](https://longform.asmartbear.com/expert-distraction/)
 
 ![you see any next generation leadership you call me](https://public.asmartbear.com/books/anthology/chapters/expert-distraction/d6018print-simple.png)
 

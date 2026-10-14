@@ -1,22 +1,37 @@
 ---
 id: 164
 title_en: "Tech Support is sales"
-title_ar: "Tech Support is sales"
+title_ar: "الدعم الفني هو جوهر عملية المبيعات وبناء الولاء"
 slug: "tech-support-is-sales"
 url: "https://longform.asmartbear.com/tech-support-is-sales/"
-pubDate: "Mon, 17 May 2010 00:00:00 +0000"
+published_date: "Mon, 17 May 2010 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Tech support isn't just troubleshooting; it's the face of your company.  Which means it's your brand, your positioning, and when it's excellent, it is sales."
-summary_ar: "Tech support isn't just troubleshooting; it's the face of your company.  Which means it's your brand, your positioning, and when it's excellent, it is sales."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الدعم الفني هو جوهر عملية المبيعات وبناء الولاء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Tech Support is sales
+# الدعم الفني هو جوهر عملية المبيعات وبناء الولاء
 ### Tech Support is sales
 
-> **الملخص التنفيذي:** Tech support isn't just troubleshooting; it's the face of your company.  Which means it's your brand, your positioning, and when it's excellent, it is sales.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الدعم الفني هو جوهر عملية المبيعات وبناء الولاء'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/tech-support-is-sales/](https://longform.asmartbear.com/tech-support-is-sales/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الدعم الفني هو جوهر عملية المبيعات وبناء الولاء تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Tech Support is sales
+
+> **Executive Summary:** Tech support isn't just troubleshooting; it's the face of your company.  Which means it's your brand, your positioning, and when it's excellent, it is sales.
+> **Original URL:** [https://longform.asmartbear.com/tech-support-is-sales/](https://longform.asmartbear.com/tech-support-is-sales/)
 
 ![David Beckham](https://public.asmartbear.com/books/anthology/chapters/tech-support-is-sales/david-beckham-shirtless-simple.png)
 

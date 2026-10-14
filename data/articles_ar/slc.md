@@ -1,22 +1,37 @@
 ---
 id: 79
 title_en: "Your customers hate MVPs. Make a SLC instead."
-title_ar: "Your customers hate MVPs. Make a SLC instead."
+title_ar: "عملاؤك يكرهون نماذج MVP الناقصة: ابنِ بدلاً منها منتجاً بسيطاً ومكتملاً ومحبوباً (SLC)"
 slug: "slc"
 url: "https://longform.asmartbear.com/slc/"
-pubDate: "Tue, 22 Aug 2017 00:00:00 +0000"
+published_date: "Tue, 22 Aug 2017 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "\"MVP\" implies a selfish process, abusing customers so you can \"learn\". Instead, make the first version SLC: Simple, Lovable, and Complete\"."
-summary_ar: "\"MVP\" implies a selfish process, abusing customers so you can \"learn\". Instead, make the first version SLC: Simple, Lovable, and Complete\"."
+summary_ar: "\"
 ---
 
-# Your customers hate MVPs. Make a SLC instead.
+# عملاؤك يكرهون نماذج MVP الناقصة: ابنِ بدلاً منها منتجاً بسيطاً ومكتملاً ومحبوباً (SLC)
 ### Your customers hate MVPs. Make a SLC instead.
 
-> **الملخص التنفيذي:** "MVP" implies a selfish process, abusing customers so you can "learn". Instead, make the first version SLC: Simple, Lovable, and Complete".
+> **الملخص التنفيذي:** \
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/slc/](https://longform.asmartbear.com/slc/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** عملاؤك يكرهون نماذج MVP الناقصة: ابنِ بدلاً منها منتجاً بسيطاً ومكتملاً ومحبوباً (SLC) تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Your customers hate MVPs. Make a SLC instead.
+
+> **Executive Summary:** "MVP" implies a selfish process, abusing customers so you can "learn". Instead, make the first version SLC: Simple, Lovable, and Complete".
+> **Original URL:** [https://longform.asmartbear.com/slc/](https://longform.asmartbear.com/slc/)
 
 ![easy follow rules more difficult implement than youd think](https://public.asmartbear.com/books/anthology/chapters/slc/d7670print-simple.png)
 

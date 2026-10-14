@@ -1,22 +1,37 @@
 ---
 id: 44
 title_en: "How many things should there be? (Hint: Not 10)"
-title_ar: "How many things should there be? (Hint: Not 10)"
+title_ar: "كم عدد الأولويات التي يجب أن تحددها؟ (تلميح: بالتأكيد ليست 10)"
 slug: "top-10"
 url: "https://longform.asmartbear.com/top-10/"
-pubDate: "Sun, 10 Dec 2023 00:00:00 +0000"
+published_date: "Sun, 10 Dec 2023 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "If we happened to evolve with nine fingers, we would have \"Top 9\" lists. So, a \"Top 10\" list probably doesn't have the correct number of things."
-summary_ar: "If we happened to evolve with nine fingers, we would have \"Top 9\" lists. So, a \"Top 10\" list probably doesn't have the correct number of things."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How many things should there be? (Hint: Not 10)'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# How many things should there be? (Hint: Not 10)
+# كم عدد الأولويات التي يجب أن تحددها؟ (تلميح: بالتأكيد ليست 10)
 ### How many things should there be? (Hint: Not 10)
 
-> **الملخص التنفيذي:** If we happened to evolve with nine fingers, we would have "Top 9" lists. So, a "Top 10" list probably doesn't have the correct number of things.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How many things should there be? (Hint: Not 10)'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/top-10/](https://longform.asmartbear.com/top-10/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كم عدد الأولويات التي يجب أن تحددها؟ (تلميح: بالتأكيد ليست 10) تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# How many things should there be? (Hint: Not 10)
+
+> **Executive Summary:** If we happened to evolve with nine fingers, we would have "Top 9" lists. So, a "Top 10" list probably doesn't have the correct number of things.
+> **Original URL:** [https://longform.asmartbear.com/top-10/](https://longform.asmartbear.com/top-10/)
 
 How many things should there be on the list?
 

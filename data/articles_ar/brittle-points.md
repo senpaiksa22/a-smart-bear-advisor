@@ -1,30 +1,45 @@
 ---
 id: 22
 title_en: "Brittle Points: How to make companies robust"
-title_ar: "النقاط الهشة: كيفية جعل الشركات قوية"
+title_ar: "نقاط الهشاشة: كيف تجعل شركتك الناشئة صلبة ومقاومة للصدمات"
 slug: "brittle-points"
 url: "https://longform.asmartbear.com/brittle-points/"
-pubDate: "Sun, 08 Dec 2024 00:00:00 +0000"
+published_date: "Sun, 08 Dec 2024 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "Brittleness is when the company fails because just one component breaks. Learn some strategies for fixing Brittle Points."
 summary_ar: "تحدث الهشاشة عندما تفشل الشركة بسبب تعطل عنصر واحد فقط. تعلم بعض الاستراتيجيات لإصلاح النقاط الهشة."
 ---
 
-# النقاط الهشة: كيفية جعل الشركات قوية
+# نقاط الهشاشة: كيف تجعل شركتك الناشئة صلبة ومقاومة للصدمات
 ### Brittle Points: How to make companies robust
 
 > **الملخص التنفيذي:** تحدث الهشاشة عندما تفشل الشركة بسبب تعطل عنصر واحد فقط. تعلم بعض الاستراتيجيات لإصلاح النقاط الهشة.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/brittle-points/](https://longform.asmartbear.com/brittle-points/)
 
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** نقاط الهشاشة: كيف تجعل شركتك الناشئة صلبة ومقاومة للصدمات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Brittle Points: How to make companies robust
+
+> **Executive Summary:** Brittleness is when the company fails because just one component breaks. Learn some strategies for fixing Brittle Points.
+> **Original URL:** [https://longform.asmartbear.com/brittle-points/](https://longform.asmartbear.com/brittle-points/)
+
 ![not interested putting together concerned about giant chicken](https://public.asmartbear.com/books/anthology/chapters/brittle-points/d6898print-simple.png)
 
-[تفشل الشركات لأسباب عديدة](https://longform.asmartbear.com/avoid-blundering/). في بعض الأحيان لا نتفاجأ، كما لو أن المنتج لم يعمل مطلقًا أو لم يرغب عدد كافٍ من الأشخاص في الدفع لحل المشكلة المعنية.
+[Companies fail for all sorts of reasons](https://longform.asmartbear.com/avoid-blundering/). Sometimes we're not surprised, like if the product never worked or not enough people wanted to pay to solve the problem in question.
 
-لكن في بعض الأحيان نجح المنتج، وكان الناس يدفعون لحل المشكلة، وبدأت المبيعات في الارتفاع، ثم تعطل شيء ما، وانتهى الأمر. كيف يحدث ذلك؟
+But sometimes the product did work, people were paying to solve the problem, sales were starting to pick up, and then something broke, and it was all over. How does that happen?
 
-* تم إنشاء المنتج [على منصة](https://longform.asmartbear.com/marketing-platform-independence/)، وتم تغيير النظام الأساسي. ينخفض ​​أحد التطبيقات الشائعة إلى الصفر بعد أن قامت Apple بدمجه في نظام التشغيل iOS؛ تنخفض مبيعات وظيفة Google Workspace الإضافية إلى الصفر بعد أن تقوم Google بإنشاء هذه الميزة في المستندات؛ تتعطل أداة إدارة Twitter عندما يزيل Twitter الوظيفة من واجهة برمجة التطبيقات العامة الخاصة بها.
+* The product was [built on a platform](https://longform.asmartbear.com/marketing-platform-independence/), and the platform changed. A popular app drops to zero downloads after Apple builds it into iOS; a Google Workspace add-on drops to zero sales after Google builds that feature into Docs; a Twitter management tool breaks when Twitter removes functionality from their public API.
 * The initial marketing channel [quickly saturated](https://longform.asmartbear.com/low-budget-marketing/), so [growth stalled](https://longform.asmartbear.com/growth-asymptote/) at a non-zero but unsustainably-low rate.
 * The initial marketing channel [was sustainable for a while](https://longform.asmartbear.com/one-channel/), but got wiped by external forces: large bidders tripled the [cost per click](https://longform.asmartbear.com/bootstrapped-cpc/), Google's SEO algorithm changed, the big industry event stopped happening, the link-sharing site became irrelevant, the hot blog lost its traffic, the magazine running the ads finally closed.
 * [One big customer](https://blog.asmartbear.com/find-first-big-customer.html), representing 80% of total revenue, left. It wasn't a mistake to sign that customer--it funded the company.

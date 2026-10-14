@@ -1,22 +1,37 @@
 ---
 id: 206
 title_en: "The \"Opposite Test\""
-title_ar: "The \"Opposite Test\""
+title_ar: "اختبار العكس: الطريقة الذهبية لمعرفة هل استراتيجيتك حقيقية أم مجرد بديهيات"
 slug: "opposite-test"
 url: "https://longform.asmartbear.com/opposite-test/"
-pubDate: "Sun, 06 Apr 2008 00:00:00 +0000"
+published_date: "Sun, 06 Apr 2008 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Elevate your product marketing: Use the Opposite Test to avoid generic bullet points and craft compelling, unique features."
-summary_ar: "Elevate your product marketing: Use the Opposite Test to avoid generic bullet points and craft compelling, unique features."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'اختبار العكس: الطريقة الذهبية لمعرفة هل استراتيجيتك حقيقية أم مجرد بديهيات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The "Opposite Test"
+# اختبار العكس: الطريقة الذهبية لمعرفة هل استراتيجيتك حقيقية أم مجرد بديهيات
 ### The "Opposite Test"
 
-> **الملخص التنفيذي:** Elevate your product marketing: Use the Opposite Test to avoid generic bullet points and craft compelling, unique features.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'اختبار العكس: الطريقة الذهبية لمعرفة هل استراتيجيتك حقيقية أم مجرد بديهيات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/opposite-test/](https://longform.asmartbear.com/opposite-test/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** اختبار العكس: الطريقة الذهبية لمعرفة هل استراتيجيتك حقيقية أم مجرد بديهيات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The "Opposite Test"
+
+> **Executive Summary:** Elevate your product marketing: Use the Opposite Test to avoid generic bullet points and craft compelling, unique features.
+> **Original URL:** [https://longform.asmartbear.com/opposite-test/](https://longform.asmartbear.com/opposite-test/)
 
 ![Trays on desk - 'Actions.' and 'Equal & Opposite Reactions.'](https://public.asmartbear.com/books/anthology/chapters/opposite-test/d7897print-simple.png)
 

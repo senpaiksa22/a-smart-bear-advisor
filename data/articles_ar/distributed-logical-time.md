@@ -1,22 +1,37 @@
 ---
 id: 76
 title_en: "Distributed Logical Time"
-title_ar: "Distributed Logical Time"
+title_ar: "الوقت المنطقي الموزع: دروس من النظم الموزعة لإدارة فرق العمل"
 slug: "distributed-logical-time"
 url: "https://longform.asmartbear.com/distributed-logical-time/"
-pubDate: "Sat, 23 Feb 2019 00:00:00 +0000"
+published_date: "Sat, 23 Feb 2019 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "A simple, decentralized, scalable, constant-memory mechanism for independent replicas to record events in time, preserving the \"happened-before\" relation in almost all cases."
-summary_ar: "A simple, decentralized, scalable, constant-memory mechanism for independent replicas to record events in time, preserving the \"happened-before\" relation in almost all cases."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Distributed Logical Time'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Distributed Logical Time
+# الوقت المنطقي الموزع: دروس من النظم الموزعة لإدارة فرق العمل
 ### Distributed Logical Time
 
-> **الملخص التنفيذي:** A simple, decentralized, scalable, constant-memory mechanism for independent replicas to record events in time, preserving the "happened-before" relation in almost all cases.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Distributed Logical Time'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/distributed-logical-time/](https://longform.asmartbear.com/distributed-logical-time/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الوقت المنطقي الموزع: دروس من النظم الموزعة لإدارة فرق العمل تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Distributed Logical Time
+
+> **Executive Summary:** A simple, decentralized, scalable, constant-memory mechanism for independent replicas to record events in time, preserving the "happened-before" relation in almost all cases.
+> **Original URL:** [https://longform.asmartbear.com/distributed-logical-time/](https://longform.asmartbear.com/distributed-logical-time/)
 
 ![We're behind schedule on the time machine, but we'll catch up once it's finished.](https://public.asmartbear.com/books/anthology/chapters/distributed-logical-time/d7579print-simple.png)
 

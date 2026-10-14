@@ -1,22 +1,37 @@
 ---
 id: 39
 title_en: "How startups beat incumbents"
-title_ar: "How startups beat incumbents"
+title_ar: "كيف تتفوق الشركات الناشئة الصغيرة على عمالقة السوق الراسخين"
 slug: "startup-beats-incumbent"
 url: "https://longform.asmartbear.com/startup-beats-incumbent/"
-pubDate: "Sun, 25 Feb 2024 00:00:00 +0000"
+published_date: "Sun, 25 Feb 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "A startup can beat a large, successful incumbent, if it does things the incumbent can not or will not do.  Here are those things."
-summary_ar: "A startup can beat a large, successful incumbent, if it does things the incumbent can not or will not do.  Here are those things."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف تتفوق الشركات الناشئة الصغيرة على عمالقة السوق الراسخين'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# How startups beat incumbents
+# كيف تتفوق الشركات الناشئة الصغيرة على عمالقة السوق الراسخين
 ### How startups beat incumbents
 
-> **الملخص التنفيذي:** A startup can beat a large, successful incumbent, if it does things the incumbent can not or will not do.  Here are those things.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'كيف تتفوق الشركات الناشئة الصغيرة على عمالقة السوق الراسخين'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/startup-beats-incumbent/](https://longform.asmartbear.com/startup-beats-incumbent/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كيف تتفوق الشركات الناشئة الصغيرة على عمالقة السوق الراسخين تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# How startups beat incumbents
+
+> **Executive Summary:** A startup can beat a large, successful incumbent, if it does things the incumbent can not or will not do.  Here are those things.
+> **Original URL:** [https://longform.asmartbear.com/startup-beats-incumbent/](https://longform.asmartbear.com/startup-beats-incumbent/)
 
 ![Reaction to the news was mixed, largely because we asked more than one person.](https://public.asmartbear.com/books/anthology/chapters/startup-beats-incumbent/d7904print-simple.png)
 

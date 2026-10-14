@@ -1,22 +1,37 @@
 ---
 id: 192
 title_en: "Ignoring the Wisdom of Crowds"
-title_ar: "Ignoring the Wisdom of Crowds"
+title_ar: "متى يجب عليك تجاهل حكمة الجماهير والتمسك بحدسك الريادي"
 slug: "wisdom-of-crowds"
 url: "https://longform.asmartbear.com/wisdom-of-crowds/"
-pubDate: "Sun, 11 Jan 2009 00:00:00 +0000"
+published_date: "Sun, 11 Jan 2009 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Discover how to leverage the wisdom of the crowds, but also when to avoid it, as it can easily lead you astray."
-summary_ar: "Discover how to leverage the wisdom of the crowds, but also when to avoid it, as it can easily lead you astray."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'متى يجب عليك تجاهل حكمة الجماهير والتمسك بحدسك الريادي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Ignoring the Wisdom of Crowds
+# متى يجب عليك تجاهل حكمة الجماهير والتمسك بحدسك الريادي
 ### Ignoring the Wisdom of Crowds
 
-> **الملخص التنفيذي:** Discover how to leverage the wisdom of the crowds, but also when to avoid it, as it can easily lead you astray.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'متى يجب عليك تجاهل حكمة الجماهير والتمسك بحدسك الريادي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/wisdom-of-crowds/](https://longform.asmartbear.com/wisdom-of-crowds/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** متى يجب عليك تجاهل حكمة الجماهير والتمسك بحدسك الريادي تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Ignoring the Wisdom of Crowds
+
+> **Executive Summary:** Discover how to leverage the wisdom of the crowds, but also when to avoid it, as it can easily lead you astray.
+> **Original URL:** [https://longform.asmartbear.com/wisdom-of-crowds/](https://longform.asmartbear.com/wisdom-of-crowds/)
 
 ![Another unanimous vote! Man I love the herd mentality!](https://public.asmartbear.com/books/anthology/chapters/wisdom-of-crowds/d8608print-simple.png)
 

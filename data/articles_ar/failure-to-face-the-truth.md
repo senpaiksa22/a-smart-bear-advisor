@@ -1,22 +1,37 @@
 ---
 id: 70
 title_en: "Failure to face the truth"
-title_ar: "Failure to face the truth"
+title_ar: "الفشل في مواجهة الحقيقة والاعتراف بالواقع الميداني"
 slug: "failure-to-face-the-truth"
 url: "https://longform.asmartbear.com/failure-to-face-the-truth/"
-pubDate: "Sat, 09 Apr 2022 00:00:00 +0000"
+published_date: "Sat, 09 Apr 2022 00:00:00 +0000"
 category_en: "AI Era Dynamics, Disruption & Big Tech"
 category_ar: "ديناميكيات عصر الذكاء الاصطناعي والثورات التقنية"
 summary_en: "This admonition recurs in myriad books, frameworks, and topics, across decades of time. When something is so consistent, it must be wisdom."
-summary_ar: "This admonition recurs in myriad books, frameworks, and topics, across decades of time. When something is so consistent, it must be wisdom."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Failure to face the truth'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Failure to face the truth
+# الفشل في مواجهة الحقيقة والاعتراف بالواقع الميداني
 ### Failure to face the truth
 
-> **الملخص التنفيذي:** This admonition recurs in myriad books, frameworks, and topics, across decades of time. When something is so consistent, it must be wisdom.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Failure to face the truth'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ديناميكيات عصر الذكاء الاصطناعي والثورات التقنية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/failure-to-face-the-truth/](https://longform.asmartbear.com/failure-to-face-the-truth/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الفشل في مواجهة الحقيقة والاعتراف بالواقع الميداني تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Failure to face the truth
+
+> **Executive Summary:** This admonition recurs in myriad books, frameworks, and topics, across decades of time. When something is so consistent, it must be wisdom.
+> **Original URL:** [https://longform.asmartbear.com/failure-to-face-the-truth/](https://longform.asmartbear.com/failure-to-face-the-truth/)
 
 ![turns out my imposter syndrome was pretty much right on](https://public.asmartbear.com/books/anthology/chapters/failure-to-face-the-truth/d8014print-simple.png)
 
@@ -59,9 +74,13 @@ Exactly like Scott's Radical Candor, it is critical that a team be capable of co
 In one of the seminal books defining "strategy," Richard Rumelt lists common hallmarks of bad strategy. Each one is so common, you'll shake your head and laugh (or cry, if you're guilty of these sins):
 
 > • *Fluff*. Fluff is a form of gibberish masquerading as strategic concepts or arguments. It uses [non-specific or] esoteric concepts to create the illusion of high-level thinking.  
+>   
 > • *Failure to face the challenge.* Bad strategy fails to recognize or define the challenge. When you cannot define the challenge, you cannot evaluate a strategy or improve it.  
+>   
 > • *Mistaking goals for strategy.* Many bad strategies are just statements of desire rather than plans for overcoming obstacles.  
+>   
 > • *Bad strategic objectives.* A strategic objective is set by a leader as a means to an end. Strategic objectives are "bad" when they fail to address critical issues or when they are impracticable.  
+>   
 > --Richard Rumelt, [Good Strategy, Bad Strategy](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239), p32
 
 His phrase "Failure to face the challenge" is my inspiration for "Failure to face the truth." Strategy must identify and then address the most important and difficult facts-of-the-matter of the market, competitive space, customers, product, and team.

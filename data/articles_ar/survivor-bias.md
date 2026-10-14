@@ -1,22 +1,37 @@
 ---
 id: 181
 title_en: "Business Advice Plagued by Survivor Bias"
-title_ar: "Business Advice Plagued by Survivor Bias"
+title_ar: "نصائح رواد الأعمال الملوثة بانحياز البقاء (Survivor Bias)"
 slug: "survivor-bias"
 url: "https://longform.asmartbear.com/survivor-bias/"
-pubDate: "Mon, 17 Aug 2009 00:00:00 +0000"
+published_date: "Mon, 17 Aug 2009 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Advice from \"successful entrepreneurs\" might be unreliable due to Survivor Bias. What's real, and what's random?"
-summary_ar: "Advice from \"successful entrepreneurs\" might be unreliable due to Survivor Bias. What's real, and what's random?"
+summary_ar: "Advice from \"
 ---
 
-# Business Advice Plagued by Survivor Bias
+# نصائح رواد الأعمال الملوثة بانحياز البقاء (Survivor Bias)
 ### Business Advice Plagued by Survivor Bias
 
-> **الملخص التنفيذي:** Advice from "successful entrepreneurs" might be unreliable due to Survivor Bias. What's real, and what's random?
+> **الملخص التنفيذي:** Advice from \
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/survivor-bias/](https://longform.asmartbear.com/survivor-bias/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** نصائح رواد الأعمال الملوثة بانحياز البقاء (Survivor Bias) تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Business Advice Plagued by Survivor Bias
+
+> **Executive Summary:** Advice from "successful entrepreneurs" might be unreliable due to Survivor Bias. What's real, and what's random?
+> **Original URL:** [https://longform.asmartbear.com/survivor-bias/](https://longform.asmartbear.com/survivor-bias/)
 
 ![zener cards of business google](https://public.asmartbear.com/books/anthology/chapters/survivor-bias/d6354d6d1-aa4f-4865-8a16-bb5c09903a58-simple.png)
 

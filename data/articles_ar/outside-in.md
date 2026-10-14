@@ -1,22 +1,37 @@
 ---
 id: 209
 title_en: "Outside-In"
-title_ar: "Outside-In"
+title_ar: "من الخارج إلى الداخل: انظر لشركتك بعيون العميل وليس بعيون المبرمج"
 slug: "outside-in"
 url: "https://longform.asmartbear.com/outside-in/"
-pubDate: "Tue, 25 Dec 2007 08:00:00 +0000"
+published_date: "Tue, 25 Dec 2007 08:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Actions speak louder than slogans: Great support, quality, service, is best sold through demonstration."
-summary_ar: "Actions speak louder than slogans: Great support, quality, service, is best sold through demonstration."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'من الخارج إلى الداخل: انظر لشركتك بعيون العميل وليس بعيون المبرمج'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Outside-In
+# من الخارج إلى الداخل: انظر لشركتك بعيون العميل وليس بعيون المبرمج
 ### Outside-In
 
-> **الملخص التنفيذي:** Actions speak louder than slogans: Great support, quality, service, is best sold through demonstration.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'من الخارج إلى الداخل: انظر لشركتك بعيون العميل وليس بعيون المبرمج'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/outside-in/](https://longform.asmartbear.com/outside-in/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** من الخارج إلى الداخل: انظر لشركتك بعيون العميل وليس بعيون المبرمج تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Outside-In
+
+> **Executive Summary:** Actions speak louder than slogans: Great support, quality, service, is best sold through demonstration.
+> **Original URL:** [https://longform.asmartbear.com/outside-in/](https://longform.asmartbear.com/outside-in/)
 
 ![Smucker's Simply Fruit Spread](https://longform.asmartbear.com/outside-in/3fb1297d.png)
 

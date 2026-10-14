@@ -1,22 +1,37 @@
 ---
 id: 63
 title_en: "Rocks, Pebbles, Sand: How to implement in practice"
-title_ar: "Rocks, Pebbles, Sand: How to implement in practice"
+title_ar: "الصخور الكبيرة، الحصى، والرمال: التطبيق العملي لإدارة الأولويات الاستراتيجية"
 slug: "rocks-pebbles-sand"
 url: "https://longform.asmartbear.com/rocks-pebbles-sand/"
-pubDate: "Sun, 17 Jul 2022 00:00:00 +0000"
+published_date: "Sun, 17 Jul 2022 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "This complete work-prioritization framework builds on the simplistic \"Rocks, Pebbles, Sand\" analogy, adding the details you need in the real world."
-summary_ar: "This complete work-prioritization framework builds on the simplistic \"Rocks, Pebbles, Sand\" analogy, adding the details you need in the real world."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الصخور الكبيرة، الحصى، والرمال: التطبيق العملي لإدارة الأولويات الاستراتيجية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Rocks, Pebbles, Sand: How to implement in practice
+# الصخور الكبيرة، الحصى، والرمال: التطبيق العملي لإدارة الأولويات الاستراتيجية
 ### Rocks, Pebbles, Sand: How to implement in practice
 
-> **الملخص التنفيذي:** This complete work-prioritization framework builds on the simplistic "Rocks, Pebbles, Sand" analogy, adding the details you need in the real world.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الصخور الكبيرة، الحصى، والرمال: التطبيق العملي لإدارة الأولويات الاستراتيجية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/rocks-pebbles-sand/](https://longform.asmartbear.com/rocks-pebbles-sand/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الصخور الكبيرة، الحصى، والرمال: التطبيق العملي لإدارة الأولويات الاستراتيجية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Rocks, Pebbles, Sand: How to implement in practice
+
+> **Executive Summary:** This complete work-prioritization framework builds on the simplistic "Rocks, Pebbles, Sand" analogy, adding the details you need in the real world.
+> **Original URL:** [https://longform.asmartbear.com/rocks-pebbles-sand/](https://longform.asmartbear.com/rocks-pebbles-sand/)
 
 You know the geology-in-a-jar lesson [from Stephen Covey](https://resources.franklincovey.com/the-8th-habit/big-rocks-stephen-r-covey): Schedule big things first, otherwise you run out of time (Figure 1 & Figure 2).
 
@@ -59,8 +74,8 @@ Now we'll justify and explain how to use this to maximum effect, each stone in t
 
 Rocks take the most time; let's call it 3-6 months. Long projects are not only expensive, they're also most likely to over-run, because they're the most complex, contain the most unknowns, and have the most dependencies. So it's really 3-12 months.
 
-> **قانون هوفستاتر**  
-> يستغرق الأمر دائمًا وقتًا أطول مما تتوقع، حتى عندما تأخذ قانون هوفستاتر في الاعتبار.
+> **Hofstadter's Law**  
+> It always takes longer than you expect, even when you take Hofstadter's Law into account.
 
 Well-oiled agile teams will point out they can hit earlier deadlines by adjusting scope and pushing less-urgent items past the deadline. That's wonderful for learning and customer-delight. But the leftover work still needs to be done, even if rearranged, so this doesn't change the magnitude of the effort required to achieve the full effect of the idea. And anyway, [there are good reasons](https://twitter.com/housecor/status/1552324251876593664?s=21) why we're consistently incapable of estimating big projects.
 

@@ -1,22 +1,37 @@
 ---
 id: 170
 title_en: "Pick one and own it"
-title_ar: "Pick one and own it"
+title_ar: "اختر ميزة واحدة أساسية وامتلكها بالكامل في ذهن العميل"
 slug: "one-benefit"
 url: "https://longform.asmartbear.com/one-benefit/"
-pubDate: "Mon, 01 Mar 2010 08:00:00 +0000"
+published_date: "Mon, 01 Mar 2010 08:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "What if your company could have only one single advantage over the competition? This exercise will make your positioning and strategy stronger."
-summary_ar: "What if your company could have only one single advantage over the competition? This exercise will make your positioning and strategy stronger."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Pick one and own it'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Pick one and own it
+# اختر ميزة واحدة أساسية وامتلكها بالكامل في ذهن العميل
 ### Pick one and own it
 
-> **الملخص التنفيذي:** What if your company could have only one single advantage over the competition? This exercise will make your positioning and strategy stronger.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Pick one and own it'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/one-benefit/](https://longform.asmartbear.com/one-benefit/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** اختر ميزة واحدة أساسية وامتلكها بالكامل في ذهن العميل تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Pick one and own it
+
+> **Executive Summary:** What if your company could have only one single advantage over the competition? This exercise will make your positioning and strategy stronger.
+> **Original URL:** [https://longform.asmartbear.com/one-benefit/](https://longform.asmartbear.com/one-benefit/)
 
 ![Cartoon 22f27a96](https://longform.asmartbear.com/one-benefit/94a693e5.png)
 

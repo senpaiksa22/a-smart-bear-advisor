@@ -1,32 +1,47 @@
 ---
 id: 66
 title_en: "The \"Talk vs Walk\" workshop"
-title_ar: "The \"Talk vs Walk\" workshop"
+title_ar: "ورشة عمل 'الأفعال مقابل الأقوال': كيف تحول الوعود لنتائج ملموسة"
 slug: "talk-vs-walk"
 url: "https://longform.asmartbear.com/talk-vs-walk/"
-pubDate: "Wed, 08 Jun 2022 00:00:00 +0000"
+published_date: "Wed, 08 Jun 2022 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "We invented this strategic exercise at WP Engine -- engaging both Marketing and Product, generating actions for both sides that make products more desirable and competitive."
-summary_ar: "We invented this strategic exercise at WP Engine -- engaging both Marketing and Product, generating actions for both sides that make products more desirable and competitive."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The \"Talk vs Walk\" workshop'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The "Talk vs Walk" workshop
+# ورشة عمل 'الأفعال مقابل الأقوال': كيف تحول الوعود لنتائج ملموسة
 ### The "Talk vs Walk" workshop
 
-> **الملخص التنفيذي:** We invented this strategic exercise at WP Engine -- engaging both Marketing and Product, generating actions for both sides that make products more desirable and competitive.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The "Talk vs Walk" workshop'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/talk-vs-walk/](https://longform.asmartbear.com/talk-vs-walk/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** ورشة عمل 'الأفعال مقابل الأقوال': كيف تحول الوعود لنتائج ملموسة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The "Talk vs Walk" workshop
+
+> **Executive Summary:** We invented this strategic exercise at WP Engine -- engaging both Marketing and Product, generating actions for both sides that make products more desirable and competitive.
+> **Original URL:** [https://longform.asmartbear.com/talk-vs-walk/](https://longform.asmartbear.com/talk-vs-walk/)
 
 ![go back and give that part little more oomph really make me believe](https://public.asmartbear.com/books/anthology/chapters/talk-vs-walk/d5328print-simple.png)
 
 Despite the insipid rhyming, it's a surprisingly useful question to analyze:
 
-<br/>
+ <br/> 
 
 _You talk the talk, but do you walk the walk?_
 
-<br/>
+ <br/> 
 
 Whether it's the early-stage company, understandably exaggerating its product's qualities on the home page in a lived experience of "Fake it 'till you make it,"[^1] or the venerable company whose marketing department isn't taking enough credit for legitimately world-class qualities, because they've become so second-nature that it doesn't occur to them to brag about it.
 

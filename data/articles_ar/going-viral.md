@@ -1,22 +1,37 @@
 ---
 id: 182
 title_en: "Darwinian advice for \"Going Viral\""
-title_ar: "Darwinian advice for \"Going Viral\""
+title_ar: "نصائح داروينية حول الانتشار الفيروسي الحقيقي للمنتجات"
 slug: "going-viral"
 url: "https://longform.asmartbear.com/going-viral/"
-pubDate: "Mon, 03 Aug 2009 08:00:00 +0000"
+published_date: "Mon, 03 Aug 2009 08:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Some of my articles have \"gone viral.\" While you can't force it to happen, this is my Darwinian Theory of how to \"go viral.\""
-summary_ar: "Some of my articles have \"gone viral.\" While you can't force it to happen, this is my Darwinian Theory of how to \"go viral.\""
+summary_ar: "Some of my articles have \"
 ---
 
-# Darwinian advice for "Going Viral"
+# نصائح داروينية حول الانتشار الفيروسي الحقيقي للمنتجات
 ### Darwinian advice for "Going Viral"
 
-> **الملخص التنفيذي:** Some of my articles have "gone viral." While you can't force it to happen, this is my Darwinian Theory of how to "go viral."
+> **الملخص التنفيذي:** Some of my articles have \
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/going-viral/](https://longform.asmartbear.com/going-viral/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** نصائح داروينية حول الانتشار الفيروسي الحقيقي للمنتجات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Darwinian advice for "Going Viral"
+
+> **Executive Summary:** Some of my articles have "gone viral." While you can't force it to happen, this is my Darwinian Theory of how to "go viral."
+> **Original URL:** [https://longform.asmartbear.com/going-viral/](https://longform.asmartbear.com/going-viral/)
 
 ![It's just some viral marketing; you'll be fine.](https://longform.asmartbear.com/going-viral/41757040.png)
 

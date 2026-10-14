@@ -1,22 +1,37 @@
 ---
 id: 166
 title_en: "Maybe not so much with the \"optimization\""
-title_ar: "Maybe not so much with the \"optimization\""
+title_ar: "ربما حان الوقت للتوقف عن 'التحسين المفرط' والتركيز على الإبداع"
 slug: "creativity-over-optimization"
 url: "https://longform.asmartbear.com/creativity-over-optimization/"
-pubDate: "Mon, 05 Apr 2010 00:00:00 +0000"
+published_date: "Mon, 05 Apr 2010 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "In the quest for optimization, A/B tests, metrics, and funnels, we're in danger of losing the fun and value of creative work."
-summary_ar: "In the quest for optimization, A/B tests, metrics, and funnels, we're in danger of losing the fun and value of creative work."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'ربما حان الوقت للتوقف عن 'التحسين المفرط' والتركيز على الإبداع'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Maybe not so much with the "optimization"
+# ربما حان الوقت للتوقف عن 'التحسين المفرط' والتركيز على الإبداع
 ### Maybe not so much with the "optimization"
 
-> **الملخص التنفيذي:** In the quest for optimization, A/B tests, metrics, and funnels, we're in danger of losing the fun and value of creative work.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'ربما حان الوقت للتوقف عن 'التحسين المفرط' والتركيز على الإبداع'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/creativity-over-optimization/](https://longform.asmartbear.com/creativity-over-optimization/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** ربما حان الوقت للتوقف عن 'التحسين المفرط' والتركيز على الإبداع تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Maybe not so much with the "optimization"
+
+> **Executive Summary:** In the quest for optimization, A/B tests, metrics, and funnels, we're in danger of losing the fun and value of creative work.
+> **Original URL:** [https://longform.asmartbear.com/creativity-over-optimization/](https://longform.asmartbear.com/creativity-over-optimization/)
 
 ![This weird-looking thing is a result of discontinuous innovation, not incremental improvement.](https://public.asmartbear.com/books/anthology/chapters/creativity-over-optimization/miniviewer-sidebar-simple.png)
 

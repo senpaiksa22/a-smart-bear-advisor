@@ -1,22 +1,37 @@
 ---
 id: 106
 title_en: "Rare things become common at scale"
-title_ar: "Rare things become common at scale"
+title_ar: "الأشياء النادرة تصبح مألوفة وشائعة مع التوسع الكبير"
 slug: "scale-rare"
 url: "https://longform.asmartbear.com/scale-rare/"
-pubDate: "Tue, 28 Jan 2014 00:00:00 +0000"
+published_date: "Tue, 28 Jan 2014 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Software doesn't scale through architecture and automation alone. New, more difficult problems appear that didn't exist before, causing new downstream consequences."
-summary_ar: "Software doesn't scale through architecture and automation alone. New, more difficult problems appear that didn't exist before, causing new downstream consequences."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Rare things become common at scale'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Rare things become common at scale
+# الأشياء النادرة تصبح مألوفة وشائعة مع التوسع الكبير
 ### Rare things become common at scale
 
-> **الملخص التنفيذي:** Software doesn't scale through architecture and automation alone. New, more difficult problems appear that didn't exist before, causing new downstream consequences.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Rare things become common at scale'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/scale-rare/](https://longform.asmartbear.com/scale-rare/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الأشياء النادرة تصبح مألوفة وشائعة مع التوسع الكبير تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Rare things become common at scale
+
+> **Executive Summary:** Software doesn't scale through architecture and automation alone. New, more difficult problems appear that didn't exist before, causing new downstream consequences.
+> **Original URL:** [https://longform.asmartbear.com/scale-rare/](https://longform.asmartbear.com/scale-rare/)
 
 ![idea not only grow piece of pie but expand into other pastries](https://public.asmartbear.com/books/anthology/chapters/scale-rare/d6497print-simple.png)
 

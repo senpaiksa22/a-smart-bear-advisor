@@ -1,22 +1,37 @@
 ---
 id: 99
 title_en: "The wrongness of relativism"
-title_ar: "The wrongness of relativism"
+title_ar: "خطيئة النسبية: لماذا لا تكون جميع الآراء متساوية في القيمة داخل الشركة؟"
 slug: "relativism"
 url: "https://longform.asmartbear.com/relativism/"
-pubDate: "Tue, 16 Dec 2014 00:00:00 +0000"
+published_date: "Tue, 16 Dec 2014 00:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "Comparing yourself to other startups? Focus on yourself instead."
-summary_ar: "Comparing yourself to other startups? Focus on yourself instead."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The wrongness of relativism'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# The wrongness of relativism
+# خطيئة النسبية: لماذا لا تكون جميع الآراء متساوية في القيمة داخل الشركة؟
 ### The wrongness of relativism
 
-> **الملخص التنفيذي:** Comparing yourself to other startups? Focus on yourself instead.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The wrongness of relativism'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/relativism/](https://longform.asmartbear.com/relativism/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** خطيئة النسبية: لماذا لا تكون جميع الآراء متساوية في القيمة داخل الشركة؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The wrongness of relativism
+
+> **Executive Summary:** Comparing yourself to other startups? Focus on yourself instead.
+> **Original URL:** [https://longform.asmartbear.com/relativism/](https://longform.asmartbear.com/relativism/)
 
 ![But, to be fair, there's no business like show business.](https://public.asmartbear.com/books/anthology/chapters/relativism/d2315print-simple.png)
 

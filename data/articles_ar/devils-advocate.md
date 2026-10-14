@@ -1,22 +1,37 @@
 ---
 id: 173
 title_en: "Rude Q&A: The constructive devil's advocate"
-title_ar: "Rude Q&A: The constructive devil's advocate"
+title_ar: "جلسات محامي الشيطان البنّاءة: تفكيك القرارات قبل ارتكاب الكوارث"
 slug: "devils-advocate"
 url: "https://longform.asmartbear.com/devils-advocate/"
-pubDate: "Mon, 01 Feb 2010 00:00:00 +0000"
+published_date: "Mon, 01 Feb 2010 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Nothing clarifies things quite like a hyperactive, all-knowing, all-seeing, real asshole of a devil's advocate beating the living crap out of you."
-summary_ar: "Nothing clarifies things quite like a hyperactive, all-knowing, all-seeing, real asshole of a devil's advocate beating the living crap out of you."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'جلسات محامي الشيطان البنّاءة: تفكيك القرارات قبل ارتكاب الكوارث'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Rude Q&A: The constructive devil's advocate
+# جلسات محامي الشيطان البنّاءة: تفكيك القرارات قبل ارتكاب الكوارث
 ### Rude Q&A: The constructive devil's advocate
 
-> **الملخص التنفيذي:** Nothing clarifies things quite like a hyperactive, all-knowing, all-seeing, real asshole of a devil's advocate beating the living crap out of you.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'جلسات محامي الشيطان البنّاءة: تفكيك القرارات قبل ارتكاب الكوارث'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/devils-advocate/](https://longform.asmartbear.com/devils-advocate/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** جلسات محامي الشيطان البنّاءة: تفكيك القرارات قبل ارتكاب الكوارث تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Rude Q&A: The constructive devil's advocate
+
+> **Executive Summary:** Nothing clarifies things quite like a hyperactive, all-knowing, all-seeing, real asshole of a devil's advocate beating the living crap out of you.
+> **Original URL:** [https://longform.asmartbear.com/devils-advocate/](https://longform.asmartbear.com/devils-advocate/)
 
 Nothing clarifies things quite like a hyperactive, all-knowing, all-seeing, real asshole of a devil's advocate beating the living crap out of you.
 

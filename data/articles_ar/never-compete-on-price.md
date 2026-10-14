@@ -1,139 +1,154 @@
 ---
 id: 14
 title_en: "Sometimes never compete on price"
-title_ar: "في بعض الأحيان لا تتنافس أبدًا على السعر"
+title_ar: "لماذا يجب ألا تنافس أبداً على خفض الأسعار"
 slug: "never-compete-on-price"
 url: "https://longform.asmartbear.com/never-compete-on-price/"
-pubDate: "Sun, 06 Apr 2025 00:00:00 +0000"
+published_date: "Sun, 06 Apr 2025 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "The difference between \"low prices\" as a race to the bottom or as a success story (like Amazon, Costco, IKEA, Vanguard) is in leveraging intentional weaknesses."
-summary_ar: "الفرق بين \"الأسعار المنخفضة\" كسباق نحو القاع أو كقصة نجاح (مثل أمازون، وكوستكو، وإيكيا، وفانغارد) يكمن في الاستفادة من نقاط الضعف المتعمدة."
+summary_ar: "الفرق بين \"
 ---
 
-# في بعض الأحيان لا تتنافس أبدًا على السعر
+# لماذا يجب ألا تنافس أبداً على خفض الأسعار
 ### Sometimes never compete on price
 
-> **الملخص التنفيذي:** الفرق بين "الأسعار المنخفضة" كسباق نحو القاع أو كقصة نجاح (مثل أمازون، وكوستكو، وإيكيا، وفانغارد) يكمن في الاستفادة من نقاط الضعف المتعمدة.
+> **الملخص التنفيذي:** الفرق بين \
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/never-compete-on-price/](https://longform.asmartbear.com/never-compete-on-price/)
 
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** لماذا يجب ألا تنافس أبداً على خفض الأسعار تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Sometimes never compete on price
+
+> **Executive Summary:** The difference between "low prices" as a race to the bottom or as a success story (like Amazon, Costco, IKEA, Vanguard) is in leveraging intentional weaknesses.
+> **Original URL:** [https://longform.asmartbear.com/never-compete-on-price/](https://longform.asmartbear.com/never-compete-on-price/)
+
 ![Due to recent economic conditions, picture worth has dropped to an all time low of 842 words.](https://public.asmartbear.com/books/anthology/chapters/never-compete-on-price/d3502print-simple.png)
 
-*"لا تنافس أبدًا على السعر."*
+*"Never compete on price."*
 
-هكذا قيل لنا. لكن العملاء يريدون أسعارًا منخفضة، وقد نجح هذا الأمر مع كوستكو، وخطوط ساوث ويست الجوية، وفانغارد، وإيكيا، وأمازون، وول مارت، وماكدونالدز، وإتش آند إم، ودولار جنرال، وتي جيه ماكس، وغيرها الكثير. فلماذا يُطلب منا عدم استخدام الأسعار المنخفضة للفوز؟
+So we are told. But customers want low prices, and it worked for Costco, Southwest Airlines, Vanguard, IKEA, Amazon, Walmart, McDonald's, H&M, Dollar General, TJ Maxx, and many others. So why are we told not to use a low-prices to win?
 
-عندما يكون هناك منتجان مختلفان بشكل أساسي - في الميزات والتكامل والتعقيد - فغالبًا ما لا يكون لدى العملاء خيار حقيقي بينهما. يجب أن تستخدم المؤسسة الكبيرة برنامجًا مزودًا بتسجيل الدخول الأحادي وضوابط الأمان وميزات الامتثال والقدرة على التوسع ليشمل عشرات الآلاف من المستخدمين بأدوار وأذونات وعمليات تكامل مع أنظمة الشركة.
+When two products are fundamentally different--in features, integrations, complexity--customers often have no real choice between them. A large enterprise must use software with single-sign-on, security controls, compliance features, and the ability to scale to tens of thousands of users with roles and permissions and integrations with corporate systems.
 
-بالنسبة للشركات الصغيرة، تجعل هذه الميزات البرنامج أكثر صعوبة في الاستخدام. ولا أحد يريد أن يدفع ثمن الأشياء التي لا يحتاجها. لذا، فإن المنتجات التي تستهدف المؤسسات والشركات الصغيرة والمتوسطة تفرق من حيث القدرات وتجربة المستخدم، وليس من حيث السعر.
+For a small business, those features make the software harder to use. And no one wants to pay for things they don't need. So, Enterprise- and SMB-targeted products differentiate on capabilities and user-experience, not on price.
 
 ![bear with loss](https://public.asmartbear.com/books/anthology/chapters/never-compete-on-price/image-simple.png)
 
-لكن فكر في منتجين يحلان نفس المشكلة لنفس شريحة العملاء بنفس الطريقة إلى حد كبير، مع نفس الميزات إلى حد كبير. يسلط فريق المبيعات الضوء على الاختلافات البسيطة التي قد تهم 10% من المستخدمين. كل مؤسس على يقين من أن طريقته هي الطريق الصحيح الوحيد، لكن الجميع يجدون صعوبة في التمييز بينهم. السعر إذن هو آخر شيء متبق يمكنهم التنافس عليه. إنهما محطتان للوقود عبر الشارع من بعضهما البعض؛ والفرق الرئيسي هو الرقم الموجود على العلامة الكبيرة.
+But consider two products that solve the same problem for the same customer segment in largely the same way, with largely the same features. The sales team highlights minor differences that matter to maybe 10% of users. Each founder is certain that theirs is the Only True Way, but everyone else has a hard time distinguishing them. Price, then, is the last remaining thing they can compete on. They are two gas stations across the street from one another; the main difference is the number on the big sign.
 
-لذلك، تقوم إحدى الشركات بتخفيض سعرها بنسبة 20%، وتبدأ في الفوز بحصة في السوق. والآخر، الذي ليس لديه طريقة أخرى للمنافسة، يفعل الشيء نفسه. ويستمر هذا من خلال "العروض الخاصة" والتخفيضات الدائمة و"العلامات التجارية" والعمولات المقدمة إلى أصحاب النفوذ حتى لا يتبقى أي ربح. ينتهي الأمر بالشركتين إلى الفقر، وإذا كان ردك "جيدًا! الشركات شريرة ولا تستحق الأرباح!"، فتذكر أن هذا يعني أيضًا أنهم غير قادرين على الاستثمار في تطوير المنتج أو خدمة العملاء؛ وبالتالي تصاب المنتجات والشركات بالركود ومن ثم التدهور، مما يؤدي بدوره إلى إفساد تجربة العملاء. السعر المنخفض له ثمن بالنسبة للمستهلك والشركة على حد سواء.
+So, one company drops its price by 20%, and starts winning market share. The other, having no other way to compete, does the same. This continues through "special offers" and permanent cuts and "branding" and kick-backs to influencers until there's no profit left. Both companies end up poor, and in case your response is "Good! Companies are evil and don't deserve profits!", remember this also means they're unable to invest in product development or customer service; thus the products and companies stagnate and then deteriorate, which in turn ruins the customers' experience. Low price comes at a price, to consumer and company alike.
 
-الرياضيات أسوأ من ذلك. يتطلب خفض الأسعار بنسبة 20% زيادة بنسبة 25% في عدد العملاء للحفاظ على نفس المبلغ من الإيرادات.[^1] ويكون الأمر أسوأ مرة أخرى مع الأرباح؛ حتى التخفيض الذي يبدو طفيفًا بنسبة 10% في السعر يمكن أن يعني بسهولة انخفاضًا في الأرباح بنسبة 50%[^2]--أمر رهيب!
+The math is even worse. A 20% price cut needs a 25% increase in number-of-customers to maintain the same amount revenue.[^1] It's worse again with profit; even a seemingly-minor 10% price reduction can easily mean a 50% profit reduction[^2]--terrible!
 
-[^1]: تحصيل 80% من السعر مقابل 120% من حجم الشراء يتضاعف إلى 96% من الإيرادات التي حصلت عليها. تتطلب خسائر النسبة المئوية دائمًا مكاسب بنسبة أكبر حتى تتمكن من العودة إلى حيث كنت. يظهر هذا التأثير غير المتماثل أيضًا في [حسابات زيادة الإنتاجية](https://longform.asmartbear.com/double-your-productivity/).
+[^1]: Charging 80% of the price at 120% purchase volume multiplies to 96% of the revenue you had. Percentage losses always require even-larger-percentage gains just to get back to where you were. This asymmetric effect also appears in [the math of becoming more productive](https://longform.asmartbear.com/double-your-productivity/).
 
-[^2]: لنفترض أن الشركة تتقاضى 100 دولار أمريكي مقابل منتج ما وتحقق ربحًا قدره 20 دولارًا أمريكيًا بعد كل التكاليف. يؤدي خفض السعر إلى 90 دولارًا (تخفيض السعر بنسبة 10%) إلى تقليل الربح إلى 10 دولارات (تخفيض بنسبة 50% من 20 دولارًا). وهذا هو بالضبط السبب وراء عدم قدرة [الشركات القائمة على التنافس على السعر](https://longform.asmartbear.com/compete-on-profit/) على منتجها الرئيسي، وبالتالي يمثل كعب أخيل بالنسبة إلى [الشركات الناشئة التي يجب استغلالها](https://longform.asmartbear.com/startup-beats-incumbent/).
+[^2]: Suppose the company charges $100 for a product and makes $20 profit after all costs. Reducing the price to $90 (a 10% price reduction) reduces profit to $10 (a 50% reduction from $20). This is exactly why [established companies cannot compete on price](https://longform.asmartbear.com/compete-on-profit/) on their main product, and thus is an Achilles' heel for [startups to exploit](https://longform.asmartbear.com/startup-beats-incumbent/).
 
-هذه الحسابات هي السبب الذي يجعل النقاد (وأنا من بينهم) يوجهون اللوم باستمرار للمؤسسين الذين لا يملكون سوى القليل من المال لكي "يرفعوا أسعارهم". الأسعار المنخفضة لا تترك مجالاً لإعادة الاستثمار أو الربح. يقوم المؤسسون الجدد بتسعير منتجاتهم بسعر منخفض لسبب خاطئ: إنهم لا يعرفون كيفية تحديد الأسعار، ويعلمون أن منتجهم الأولي ليس جيدًا جدًا، فبدلاً من جعله [بسيطًا ومحبوبًا](https://longform.asmartbear.com/slc/) والفوز بسعر معقول من [عملائهم المثاليين](https://longform.asmartbear.com/icp-ideal-customer-persona/) الذين سيكونون [سعداء بالدفع it](https://longform.asmartbear.com/willingness-to-pay/)، فهم يتقاضون سعرًا منخفضًا بخجل، ويجتذبون أسوأ أنواع العملاء (أولئك الذين لا يستطيعون تحمل تكلفة الحل المناسب، ولكنهم يشغلون أكبر قدر من الوقت في الدعم الفني)، ويزيدون بشكل كبير عدد العملاء الذين يجب عليهم جمعهم قبل أن يتمكنوا من ترك وظائفهم اليومية، وكل ذلك بدون أموال إضافية للتسويق أو المبيعات أو التصميم أو تطوير المنتج. وهذا قرار خاطئ، اتخذ بالخوف والجهل.
+This math is why pundits (including me) constantly admonish bootstrapped founders to "raise your prices." Low prices leave room for neither reinvestment nor profit. New founders price their products low for the wrong reason: They don't know how to set prices, and they know their initial product isn't very good, so instead of making it [simple and lovable](https://longform.asmartbear.com/slc/) and winning a reasonable price from their [ideal customers](https://longform.asmartbear.com/icp-ideal-customer-persona/) who would be [happy to pay it](https://longform.asmartbear.com/willingness-to-pay/), they sheepishly charge a low price, attracting the worst kinds of customers (the ones who can't afford a proper solution, but occupy the greatest amount of time in tech support), and dramatically increasing the number of customers they must accumulate before they can quit their day job, all with no extra money for marketing or sales or design or product development. This is the wrong decision, made in fear and ignorance.
 
-فهل هذا صحيح؟ "لا تتنافس أبدًا على السعر؟"
+So, is it true? "Never compete on price?"
 
-حسنا، لا. بالطبع *بالطبع* يمكن أن يكون الحصول على أقل الأسعار استراتيجية ممتازة.
+Well, no. Of *course* it can be an excellent strategy to have the lowest prices.
 
-هناك العديد من الأمثلة على الشركات الرائعة، التي تقدم منتجات مذهلة وعملاء سعداء، بل وحتى مساهمين سعداء، وتتمتع بأرباح ونمو وطول عمر، حيث تشكل "الأسعار المنخفضة" عنصراً استراتيجياً بالغ الأهمية.
+There are many examples of wonderful companies, with amazing products and happy customers, and even happy shareholders, with profits, growth, and longevity, where "low prices" is a critical strategic component.
 
-قال جيف بيزوس ساخرًا: "هامشك هو فرصتي". المعنى: بينما يقوم أحد المنافسين باستخلاص الربح من بعض المنتجات، فإن أمازون ستبيع المنتج بسعر أرخص، وهو ما يعني إما سرقة حصة السوق (إذا حافظ ذلك المنافس على سعره بعناد) أو تدمير ربح المنافس (إذا كان هذا المنافس يطابق سعر أمازون).
+Jeff Bezos famously quipped: "Your margin is my opportunity." Meaning: While a competitor is extracting profit from some product, Amazon will sell the product cheaper, which either means stealing market share (if that competitor stubbornly maintains its price) or destroying the competitor's profit (if that competitor matches Amazon's price).
 
-ولكن لماذا لا يواجه هذا المشاكل التي ذكرناها للتو؟ لماذا يعد هذا أمرًا ذكيًا بالنسبة لشركة أمازون، لكنه غبي في مثالنا الافتراضي للسوق السلعية؟
+But why doesn't this run into the problems we just outlined? Why is this smart for Amazon, but dumb in our hypothetical commoditized-market example?
 
-## السعر المنخفض كاستراتيجية كاملة
+## Low price as a complete strategy
 
-والفرق هو أن استراتيجيات السعر المنخفض الناجحة تتعامل مع السعر باعتباره **مجرد عنصر واحد من استراتيجية شاملة لتحقيق الفوز**. استراتيجية ذات قرارات فريدة ومتشابكة ومعززة ذاتيًا، حيث كان "أدنى سعر" هو *نتيجة* *القرارات*، وليس تكتيكًا فرضته عليهم المنافسة، وليس جهدهم الأخير للفوز بالبيع.
+The difference is that successful low-price strategies treat price as **just one component of a comprehensive strategy to win**. A strategy with unique, interlocking, self-reinforcing decisions, where "lowest price" was an *outcome* of the *decisions*, not a tactic thrust upon them by the competition, not their last-ditch effort to win a sale.
 
-وقد خلقت هذه القرارات **عواقب سلبية** أيضًا، **يكرهها العديد من العملاء المحتملين**. تتطلب الإستراتيجية العظيمة قرارات قوية، وهو ما يعني المقايضات. لقد خلقوا العظمة في بعض المجالات من خلال الاستفادة من نقاط ضعف معينة في مجالات أخرى. ومن خلال القيام بذلك، أنشأوا استراتيجية لن يقلدها (ولم يقلدها) الآخرون، ليس لأن لا أحد يريد تقليد نقاط قوتهم، ولكن لأنهم لم يكونوا على استعداد لتقليد نقاط ضعفهم، التي مكنت نقاط القوة هذه.
+Those decisions created **negative consequences** also, that **many potential customers hate**. Great strategy requires strong decisions, which means trade-offs. They created greatness in some areas _by leveraging specific weaknesses_ in others. In doing so, they created a strategy that others wouldn't (and didn't) copy, not because no one wanted to copy their strengths, but because they weren't willing to copy their weaknesses, which enabled those strengths.
 
-أدت هذه المقايضات الفريدة إلى منتج فريد من نوعه، وعلى الرغم من أن بعض المستهلكين يكرهونه، إلا أن الكثيرين يحبونه. بالنسبة للبعض، هو المنتج المثالي. مقابل 100 مرة أكثر، فهو ليس مثاليًا، لكنه يمثل مجموعة من المقايضات أفضل من البديل. عندما تجرؤ على المقايضة، فإنك تجرؤ على البيع لمجموعة فرعية من السوق، ولكن بعد ذلك تفوز، و[تربح أكثر من المجموعة الفرعية الصغيرة "المثالية"](https://longform.asmartbear.com/icp-ideal-customer-persona/) التي استهدفتها.
+These unique trade-offs resulted in a unique product, and although some consumers hate it, many love it. For some, it is the ideal product; for 100x more, it is not ideal, but it is a better set of trade-offs than the alternative. When you dare to trade off, you dare to sell to a subset of the market, but then you win, and [you win more than the small "ideal" subset](https://longform.asmartbear.com/icp-ideal-customer-persona/) that you targeted.
 
-دعونا نفحص بعض الأمثلة على الاستراتيجيات المنخفضة السعر المتشابكة التي تؤدي إلى الضعف والقوة الخاصة.
+Let's examine some examples of interlocking, weakness-leading-to-special-strength low-price strategies.
 
 ![Costco logo](https://public.asmartbear.com/books/anthology/chapters/never-compete-on-price/image-2-simple.png)
 
-#### كوستكو
-ومن خلال الجمع بين المنتجات عالية الجودة والكميات الأعلى في كل حزمة قابلة للشراء، يكون سعر الوحدة في كوستكو أقل من سعر متاجر البقالة. يشعر المستهلكون بسعادة غامرة للحصول على صفقة لشيء "بهذه الجودة". يمكن أيضًا للمتجر الذي يلبي احتياجات الشراء بالجملة أن يفلت من الشعور "بالمستودع"، مما يعني إنفاق أقل على التصميم الداخلي. الشراء بالجملة يعني أيضًا أنهم لا يحتاجون إلى تخزين جميع السلع التي يحتاجها متجر البقالة اليومي؛ وهذا يمنحهم مرونة المخزون. تؤدي هذه التكاليف المنخفضة إلى انخفاض الأسعار مع تحقيق الربح أيضًا. ونظرًا لأن متاجر البقالة الأخرى لا يمكنها مطابقة هذه الصفات، تظل متاجر كوستكو فريدة من نوعها.
+#### Costco
+By coupling higher quality products together with higher quantities in each purchasable package, Costco's _unit price_ is lower than grocery stores. Consumers are thrilled to get a deal for something "this good." A store that caters to bulk-buying can also get away with a "warehouse" feel, which means spending less on the interior. Bulk-buying also means they don't need to stock all the goods that a daily grocery store must; this gives them inventory flexibility. These lower costs yield lower prices while also yielding profit. Because other grocery stores can't match these qualities, Costco stores remain unique.
 
-لاحظ العيوب: التصميم الداخلي غير الجذاب، ونطاق المخزون المحدود، علاوة على ذلك، فهي تتطلب رسوم عضوية سنوية! الرسوم، بالمناسبة، هي ربح خالص، وتزيد من عدد المرات التي يعود فيها المستهلك إلى المتجر.
+Notice the drawbacks: Unappealing interior, limited scope of inventory, and on top of that, they require an annual membership fee! The fee, by the way, is pure profit, and increases how often a consumer comes back to the store.
 
-علاوة على ذلك، وللحفاظ على علامتهم التجارية باعتبارها الشركة الرائدة في مجال المنتجات منخفضة التكلفة، يضع المتجر حدًا صارمًا لهامش الربح بنسبة 14% على جميع المنتجات. وهذه عقوبة مالية واضحة، خاصة عندما يكون العملاء على استعداد لدفع المزيد - ولكن مرة أخرى يتعارض هذا مع وعد علامتهم التجارية.
+Furthermore, to maintain their brand as the low-cost leader, the store has a strict 14% margin cap on all products. This is a clear financial penalty, especially when customers would be willing to pay more--but again this interlocks with their brand promise.
 
-في تحدي المزيد من "حكمة" الصناعة، تشتهر كوستكو بمعاملة الموظفين بشكل جيد، بما في ذلك متوسط ​​أجر يبلغ 24 دولارًا في الساعة وهو عادةً ضعف ما تدفعه البقالة والتجزئة في نفس المدن. يؤدي هذا إلى تقليل معدل الدوران وزيادة الإنتاجية، مما يساهم مرة أخرى في تحقيق الأرباح وتوفير تجربة رائعة للعملاء. لو أدركت جميع محلات البقالة حكمة هذه الإستراتيجية.
+Defying more industry "wisdom," Costco is well-known for treating employees particularly well, including an average $24/hr wage that is typically double what grocery and retail pay in the same cities. This decreases turnover and increases productivity, which again contributes to profits and a great customer experience. If only all grocery stores would realize the wisdom of this strategy.
 
-وعلى هذا فإن القرارات المتشابكة بشأن التوظيف، والجودة، وأحجام العبوات، والمخزون، وإنشاء المتاجر، والعضوية، تؤدي إلى "أسعار منخفضة" كنتيجة.
+Thus, interlocking decisions about employment, quality, package-sizes, inventory, store-constructions, and membership, yields "low prices" as an outcome.
 
 ![Southwest logo](https://public.asmartbear.com/books/anthology/chapters/never-compete-on-price/image-3-simple.png)
 
-#### خطوط ساوثويست الجوية
-كانت شركة طيران ساوثويست شركة رائدة في مجال الرحلات المنخفضة الأسعار لمدة خمسين عاما، ولكنها ظلت مربحة حتى أثناء الهجمات الإرهابية التي وقعت في الولايات المتحدة في سبتمبر/أيلول 2001 والركود في عام 2008. وأشهرت كل شركات الطيران الأميركية الكبرى الأخرى إفلاسها مرة واحدة على الأقل، ولكن ليس شركة ساوثويست. ومع ذلك، فإن ساوثويست لديها دائمًا تذاكر رخيصة للغاية.
+#### Southwest Airlines
+Southwest Airlines has been a low-fare powerhouse for 50 years, yet remained profitable even during the US terrorists attacks of September 2001 and the recession of 2008. Every other major US airline filed for bankruptcy at least once, but not Southwest. Yet Southwest consistently has extremely cheap tickets.
 
-مثل كوستكو، اتخذوا قرارات متشابكة بشأن المنتج والتشغيل أدت إلى هذه النتيجة. إنهم يتنقلون ذهابًا وإيابًا عدة مرات يوميًا على نفس الطرق القصيرة القليلة. هناك بالفعل مقايضة سلبية - لا رحلات طويلة، ولا رحلات دولية - ولكن أيضًا إيجابية - الرحلات الجوية المتكررة تعني أن المستهلكين لديهم جداول زمنية أفضل وأنه من الأسهل "الحاق بالرحلة التالية" إذا لزم الأمر. إنهم لا يتواصلون مع شركات الطيران الأخرى، ولن ينقلوا حقائبك، ويطيرون إلى المطارات الثانوية حيث لا تعمل شركات النقل الكبرى - المزيد من المقايضات السلبية، ولكن المطارات الثانوية أرخص، لذلك يمكن أن تكون الأسعار أقل. تمتلك شركات الطيران الأخرى أنواعًا كثيرة من الطائرات لدعم العديد من أنواع المسارات، لكن شركة Southwest تستخدم نوعًا واحدًا فقط من الطائرات؛ وهذا يمنحهم قوة تسعير على المورد (بسبب الطلبات الكبيرة)، كما أن صيانته أرخص (يحتاج الميكانيكيون فقط إلى مجموعة واحدة من الأدوات، ومجموعة واحدة من قطع الغيار، وبرنامج تدريبي واحد)، مما يقلل التكاليف مرة أخرى. ليس لديهم وسائل الراحة - لا مقاعد من الدرجة الأولى، ولا وجبات، ولا دعم لوكالات السفر - وهو ما يمثل مرة أخرى مقايضة سلبية لبعض المستهلكين، ولكنه يخفض التكاليف وبالتالي يدعم انخفاض الأسعار.
+Like Costco, they made interlocking product and operational decisions that generated this result. They shuttle back and forth many times per day along the same few, short routes. Already there's a negative trade-off--no long hauls, no international--but also positive ones--frequent flights means consumers have better schedules and it's easier to "catch the next flight" if needed. They don't interconnect with other airlines, won't transfer your bags, and they fly into secondary airports where major carriers don't operate--more negative trade-offs, but secondary airports are cheaper, so fares can be lower. Other airlines have many kinds of airplanes to support many kinds of routes, but Southwest uses only one type of airplane; this gives them pricing power over the supplier (due to large orders), and is cheaper to maintain (mechanics need only a single set of tools, single set of spare parts, and single training program), reducing costs again. They have no amenities--no 1st-class seating, no meals, no support for travel agencies--which again is a negative trade-off for some consumers, but lowers costs and therefore supports lower prices.
 
-وكانت هذه الإستراتيجية فعالة جدًا - ومدروسة جيدًا - لدرجة أنها أدت إلى ظهور فئة فرعية كاملة - ما يسمى بـ "شركات النقل منخفضة التكلفة" التي تشمل JetBlue وSpirit وFrontier. لم يكن أي منها ناجحًا، وأفلست اثنتان من الشركات الثلاثة، ولم يؤثر أي منها على أرباح Southwest، مما يدل على أن الإستراتيجية العظيمة تعمل حتى في مواجهة المنافسة التي "تقلدك" صراحةً لتكرار نجاحك.
+This strategy was so effective--and so well-studied--that it gave rise to a whole sub-category--the so-called "low-cost carriers" that includes JetBlue, Spirit, and Frontier. None were as successful, two of the three went bankrupt, and none impinged on Southwest's profits, demonstrating that great strategy works even in the face of competition that is expressly "copying you" to replicate your success.
 
 ![Vanguard logo](https://public.asmartbear.com/books/anthology/chapters/never-compete-on-price/image-4-simple.png)
 
-#### صناديق الطليعة
-كانت كل مجموعة كبيرة من صناديق الاستثمار المشتركة في أواخر السبعينيات تتضمن رسوم تشغيل ضخمة دفعت رواتب مديري الصناديق والمحللين الذين بحثوا في الأسهم وقرروا متى يتم الشراء والبيع. يدفع المستهلكون حوالي 2% سنويًا ليقوم هؤلاء المديرون بيقظة بتوليد الأفكار واتخاذ الإجراءات نيابة عنهم. إذا زادت قيمة الصندوق بنسبة 5٪، فإن المستهلك سيحصل على زيادة بنسبة 3٪ فقط. إنه أمر مؤلم حقًا إذا انخفضت قيمة الصندوق. ولا تزال معظم الصناديق تعمل بهذه الطريقة حتى اليوم؛ حتى صناديق رأس المال الاستثماري والأسهم الخاصة عادةً ما يكون لها رسوم إدارية سنوية تبلغ 2%.
+#### Vanguard Funds
+Every large mutual fund conglomerate in the late 1970s included hefty operational fees that paid the salaries of fund managers and analysts who researched stocks and decided when to buy and sell. Consumers paid around 2% per year to have these managers vigilantly generating insights and taking actions on their behalf. If the fund increased in value by 5%, the consumer would receive only a 3% increase. It really hurts if the fund decreases in value. Most funds still operate this way today; even VC and PE funds typically have a 2% annual management fee.
 
-أدركت فانجارد أن العديد من الأشخاص قد يريدون منتجًا مختلفًا تمامًا: منتج يتتبع ببساطة المؤشرات مثل مؤشر S&P 500، أو يتتبع تلقائيًا (أي بدون حكم بشري) مجموعات محددة جيدًا من الأسهم مثل "الشركات الأمريكية الكبيرة". وبدون فرق من البشر، كان بإمكانهم إلغاء الرسوم الإدارية ونسب النفقات البالغة 2%، واستبدالها برسوم الحد الأدنى من الصفقات التلقائية. بالنسبة للمستهلكين الذين يعتقدون أن مديري الصناديق يتفوقون على السوق، كان هذا المنتج الجديد سخيفا. لكن بالنسبة للمستهلكين الذين يعتقدون أن المديرين لا يتفوقون في الأداء على السوق على المدى الطويل - خاصة بعد إزالة التأثير المضاعف للرسوم - كانت صناديق فانجارد منخفضة التكلفة بشكل فريد. مرة أخرى، كانت "التكلفة المنخفضة" نتيجة لمنتج فريد من نوعه، أدى إلى مقايضات مختلفة، ولم يكن جذابًا إلا لمجموعة فرعية من السوق.
+Vanguard realized that many people might want a completely different product: One that simply tracks indexes like the S&P 500, or automatically (i.e. without human judgment) tracks well-defined sets of stocks like "Large American companies." Without teams of human beings, they could eliminate the 2% management fees and expense ratios, replacing it with _de minimus_ fees from automatic trades. For consumers who believe that fund managers outperform the market, this new product was silly. But for consumers who believe that managers don't out-perform the market in the long run--especially after removing the compounding effect of fees--the Vanguard funds were uniquely low-cost. Again, "low cost" was an outcome of a unique product, that made different trade-offs, that was appealing only to a subset of the market.
 
 ![IKEA logo](https://public.asmartbear.com/books/anthology/chapters/never-compete-on-price/image-5-simple.png)
 
-#### ايكيا
-أحدثت ايكيا ثورة في تجارة التجزئة للأثاث من خلال استراتيجية شاملة حيث يؤدي كل قرار إلى تعزيز الأسعار المنخفضة. الأساس: إجبار العملاء على تجميع الأثاث الخاص بهم. في كثير من الأحيان سيئة، والإحباط، والشكوى.
+#### IKEA
+IKEA revolutionized furniture retail with a comprehensive strategy where every decision reinforces low prices. The foundation: Forcing customers to assemble their own furniture. Often poorly, frustrated, and complaining.
 
-أدى هذا القرار الذي يبدو بسيطًا إلى إنشاء سلسلة من المزايا - حيث يقلل الأثاث المعبأ بشكل كبير من تكاليف الشحن والتخزين، ويسمح بتخطيطات أكثر كفاءة للمتجر، ويقلل من الضرر أثناء النقل. إن التدفق الفريد من صالة العرض إلى المستودع، حيث يتنقل العملاء في مسار واحد من خلال إعدادات الغرفة الملهمة قبل جمع العناصر الخاصة بهم، يعزز تجربة التسوق ويقلل تكاليف التوظيف. يعني خط الإنتاج الموحد عالميًا أنهم لا يقومون بإنشاء منتجات مخصصة لكل سوق. تأتي هذه القرارات مع مقايضات واضحة - أثاث ليس من نوعية الإرث، وتجربة التجميع سيئة السمعة، والاختيار المحدود ضمن الفئات - ولكن بالنسبة للمستهلكين المهتمين بالسعر الذين يقومون بتأثيث شقتهم الأولى أو غرفة النوم أو غرفة النوم الاحتياطية، فإن نظام ايكيا يقدم قيمة رائعة. السعر المنخفض ليس تكتيكا. إنها النتيجة الطبيعية لنظام مصمم بدقة.
+This seemingly simple decision created a cascade of advantages--flat-pack furniture dramatically reduces shipping and storage costs, allows for more efficient store layouts, and minimizes damage during transport. Their unique showroom-to-warehouse flow, where customers navigate a single path through inspirational room setups before collecting their own items, both enhances the shopping experience and reduces staffing costs. The globally standardized product line means they're not creating custom products for each market. These decisions come with clear trade-offs--furniture that isn't heirloom quality, the notorious assembly experience, limited selection within categories--but for price-conscious consumers furnishing their first apartment or dorm room or spare bedroom, IKEA's system delivers remarkable value. The low price isn't a tactic; it's the natural outcome of a thoroughly designed system.
 
-## لا تتطلب الاستراتيجيات منخفضة التكلفة دائمًا تمويلًا كبيرًا
+## Low-cost strategies don't always require significant financing
 
-يفرض دليل SaaS الحديث أن استراتيجيات "السعر المنخفض" تتطلب جمع عشرات أو مئات الملايين من رأس المال الاستثماري. إن قواعد اللعبة منطقية: نماذج الأعمال منخفضة السعر لا تكون مربحة إلا على نطاق واسع - عندما تتجاوز الإيرادات أخيرًا النفقات العامة للأشخاص، يبدأ الموردون في تقديم خصومات كبيرة، ويتم استهلاك تكاليف المبيعات والتسويق على عدد كافٍ من العملاء، وما إلى ذلك.
+The modern SaaS playbook dictates that "low price" strategies require raising tens or hundreds of millions in venture capital. The playbook is logical: Low-price business models are profitable only at scale--when revenue finally outgrows the overhead of people, suppliers start providing bulk discounts, sales and marketing costs amortize over enough customers, and so on.
 
-وعلى الرغم من أنه قد يكون منطقيًا، إلا أنه ليس دليل اللعب الوحيد. لقد ازدهر هؤلاء القادة الأربعة الأيقونيون الذين تبلغ رأسمالهم مليارات الدولارات ومنخفضة الأسعار بتمويل أولي متواضع بشكل ملحوظ.
+Logical though it may be, it is not the only playbook. All four of these iconic, multi-billion-dollar low-price leaders thrived with remarkably modest initial financing.
 
-تم افتتاح أول مستودع لشركة كوستكو في عام 1983 بتكلفة قدرها 5 ملايين دولار، وتم طرحه للاكتتاب العام في عام 1985 بعرض صغير بقيمة 30 مليون دولار. كان نموذج كوستكو مربحًا على الفور تقريبًا - فقد غطت إيرادات رسوم العضوية معظم التكاليف الثابتة، مما سمح لها بالعمل على هوامش إنتاجية ضئيلة للغاية منذ البداية. وقد تم تمويل توسعها إلى حد كبير من خلال التدفق النقدي التشغيلي بدلاً من جولات التمويل الخارجية الضخمة.
+Costco's first warehouse opened in 1983 at a cost of $5M, and went public in 1985 with a small $30M offering. Costco's model was profitable almost immediately--the membership fee revenue covered most of the fixed costs, allowing them to operate on razor-thin product-margins from the beginning. Their expansion was largely funded through operational cash flow rather than massive external financing rounds.
 
-كان التمويل الأولي لشركة Southwest متواضعًا بشكل ملحوظ بالنسبة لشركة طيران. تأسست في عام 1967، وبدأت برأس مال أولي قدره 560 ألف دولار. بدأت عملياتها في عام 1971 بثلاث طائرات فقط تخدم ثلاث مدن. إن قدرة شركة Southwest على تحقيق الربح بسرعة سمحت لها بتمويل معظم توسعاتها من خلال الأرباح بدلاً من التمويل الخارجي الثقيل.
+Southwest's initial financing was remarkably modest for an airline. Founded in 1967, they started with $560,000 in initial capital. They began operations in 1971 with just three aircraft serving three cities. Southwest's ability to turn a profit quickly allowed it to fund most of its expansion through earnings rather than heavy external financing.
 
-تم إنشاء Vanguard في عام 1975 برأس مال أولي يبلغ حوالي 2 مليون دولار. ويعني هيكل الملكية الفريد "المملوك للعملاء" أنها لا تحتاج إلى إرضاء المستثمرين الخارجيين الذين يبحثون عن عوائد عالية. تتطلب استراتيجية صندوق المؤشرات الحد الأدنى من النفقات التشغيلية منذ البداية - لا توجد فرق من المحللين، ولا عمليات تداول باهظة الثمن. كان نمو Vanguard طبيعيًا ولم يتطلب جولات تمويل خارجية كبيرة.
+Vanguard was created in 1975 with an initial capitalization around $2M. Their unique "client-owned" ownership structure meant that it didn't need to satisfy external investors seeking high returns. The index fund strategy required minimal operational overhead from the beginning--no teams of analysts, no expensive trading operations. Vanguard's growth was organic and didn't require substantial external financing rounds.
 
 ![bear scale](https://public.asmartbear.com/books/anthology/chapters/never-compete-on-price/bear-scales-simple.png)
 
-كانت ايكيا تمول نفسها بالكامل تقريبًا من خلال التدفق النقدي التشغيلي. بدأ إنغفار كامبراد بقرض صغير من والده لإطلاق شركة الطلب عبر البريد في عام 1943. وافتتحت أول صالة عرض للأثاث في عام 1953، بتمويل كامل من أرباح تجارة الطلب عبر البريد. تم تمويل توسع ايكيا السريع عالميًا بشكل أساسي من خلال الأرباح المعاد استثمارها.
+IKEA was almost entirely self-funded through operational cash flow. Ingvar Kamprad started with a small loan from his father to launch a mail-order business in 1943. The first furniture showroom opened in 1953, funded entirely from the profits of the mail-order business. IKEA's rapid expansion globally was financed primarily through reinvested profits.
 
-تذكر أن هذه شركات فعلية لديها مواد وسلاسل توريد ومخزون ومباني. يجب أن تكون شركات البرمجيات قادرة على فعل الشيء نفسه دون أي استثمار أكثر من هذا.
-
----
-
-المواضيع المشتركة التي سمحت لهذه الشركات بالتغلب على المنافسين لعقود عديدة في الأسواق السلعية المتنازع عليها بشدة، مع زيادة الأرباح، مع القليل من التمويل، وكل ذلك بأقل الأسعار:
-
-1. تتضمن استراتيجيتهم المقايضات التي يجدها العديد من العملاء مقيتة أو "تفسد الصفقة". ومن خلال استهداف مجموعة فرعية من السوق، وقبول حقيقة أن المقايضات كانت خاطئة بالنسبة للعديد من العملاء، فقد هيمنوا على تلك المجموعة الفرعية.
-2. وكانت نقاط الضعف في استراتيجيتهم حاسمة لمنع المقلدين، سواء من المنافسين الحاليين أو الداخلين الجدد. يريد الآخرون تقليد نقاط القوة، لكنهم لن يقلدوا نقاط الضعف. ولأن نقاط الضعف كانت إلزامية لإنتاج نقاط قوتها، فلم يتم تكرارها أبدًا.
-3. وكانت نماذج أعمالهم مربحة بعد متجر واحد فقط أو مع عدد قليل من المنتجات، وليس مرة واحدة فقط على نطاق واسع. <br/> _(في SaaS، نقول: اقتصاديات الوحدة المربحة، مع GPM أعلى من 70%، مع [فترة استرداد CAC](https://longform.asmartbear.com/bootstrapped-cpc/) أقل من عام.)_
-4. لقد أعادوا استثمار الأرباح في التوسع، ولم يستخرجوها كأرباح. <br/> _(هذا هو المجال الذي غالبًا ما تختلف فيه الشركات ذات التمويل التمهيدي عن الشركات الممولة، أو المؤسسين الذين لديهم طموح لإنشاء مؤسسة أكبر.)_
-5. لقد ابتكروا في العمليات - وليس فقط في المنتجات والميزات التي تتعامل مع العملاء - لتحقيق مزاياهم الفريدة وفعالية التكلفة التي مكنت الربح على الرغم من انخفاض الأسعار.
-6. لقد بدأوا بعروض أضيق في مناطق جغرافية ضيقة و[توسعوا] (https://longform.asmartbear.com/adjacency/) تدريجيًا.
-7. لقد كانت لديهم رؤية طويلة المدى وتمسكوا بـ [قيم لا يجوز انتهاكها](https://longform.asmartbear.com/emptiness/)، ولم يتخذوا أبدًا طرقًا مختصرة أو تنازلات على المدى القصير.
-
-وهذا من شأنه أن يعطي الأمل لمقدمي المشاريع في كل مكان، أو للأشخاص الذين يرغبون في جمع جولات صغيرة مستدامة من المستثمرين والمستشارين الاستراتيجيين.
+Remember, these are physical companies with materials, supply chains, inventory, and buildings. Software companies should be able to do the same with no more investment than this.
 
 ---
 
-عندما يكون الاختلاف الوحيد الذي يمكن أن يتباهى به المنتج هو أنه "أرخص"، فهذه ليست استراتيجية على الإطلاق. والنتيجة هي التسليع والسباق نحو القاع، هذا إذا ما انطلقت من الأرض على الإطلاق. ولهذا السبب لا يجب عليك التنافس على السعر فقط.
+The common themes which allowed these companies to beat competitors for many decades in heavily-contested, commoditized markets, with increasing profits, with little financing, all with the lowest prices:
 
-وهذا يعني أنه _رخيص_، وليس _بأسعار معقولة_. وهذا افتقار إلى الرؤية، وليس استراتيجية شاملة.
+1. Their strategy including trade-offs that many customers find distasteful or a "deal-breaker." By targeting a subset of the market, accepting that for many customers the trade-offs were wrong, they dominated that subset.
+2. The weaknesses in their strategy were critical to preventing copycats, whether from existing competitors or new entrants. Others want to copy strengths, but won't copy weaknesses. Because the weaknesses were mandatory to produce their strengths, they were never replicated.
+3. Their business models were profitable after just one store or with few products, not only once at scale. <br/> _(In SaaS, we would say: Profitable unit economics, with GPM above 70%, with a [CAC payback period](https://longform.asmartbear.com/bootstrapped-cpc/) of less than a year.)_
+4. They reinvested profits into expansion, not extracted as dividends. <br/> _(This is an area where bootstrapped companies often diverge from funded ones, or founders with ambition to create a larger enterprise.)_
+5. They innovated in operations--not just in customer-facing products and features--to achieve their unique advantages and cost-effectiveness that enabled profit despite having lower prices.
+6. They started with narrower offerings in narrow geographic footprints and [expanded](https://longform.asmartbear.com/adjacency/) gradually.
+7. They had a long-term vision and held [inviolable values](https://longform.asmartbear.com/emptiness/), never taking short-term short-cuts or compromises.
 
-عندما يكون انخفاض الأسعار نتيجة لاستراتيجية - هيكل الأعمال، وهيكل التكلفة، ومقايضات المنتجات (التي يحبها [ICPs](https://longform.asmartbear.com/icp-ideal-customer-persona/ ولكن الآخرين يكرهونها)، والقرارات الأخرى التي لا يستطيع المنافسون اتخاذها أو لا يريدون اتخاذها، فإن الأسعار المنخفضة هي استراتيجية قوية وفائزة.
+This should give hope to bootstrappers everywhere, or to folks wanting to raise sustainably-small rounds from strategic investors and advisors.
+
+---
+
+When the only differentiation a product can boast is that "it's cheaper," that's not a strategy at all. The result is commoditization and a race to the bottom--if it gets off the ground at all. That's why you mustn't compete _only_ on price.
+
+That's being _cheap_, not _affordable_. That's a lack of vision, not a comprehensive strategy.
+
+When lower prices are _a result_ of strategy--business structure, cost structure, product trade-offs (that [ICPs](https://longform.asmartbear.com/icp-ideal-customer-persona/) love but others hate), and other decisions that competitors can't or won't make, then low prices are a powerful, winning strategy.

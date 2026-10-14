@@ -1,22 +1,37 @@
 ---
 id: 119
 title_en: "Startup identity & the sadness of a successful exit"
-title_ar: "Startup identity & the sadness of a successful exit"
+title_ar: "هوية المؤسس والحزن الخفي الذي يلي البيع الناجح للشركة"
 slug: "identity-selling-sadness"
 url: "https://longform.asmartbear.com/identity-selling-sadness/"
-pubDate: "Tue, 26 Feb 2013 00:00:00 +0000"
+published_date: "Tue, 26 Feb 2013 00:00:00 +0000"
 category_en: "Foundational Philosophy & Startup Wisdom"
 category_ar: "فلسفة ريادة الأعمال والحكمة التأسيسية"
 summary_en: "Many founders experience a profound and prolonged sadness after selling their company. But \"not selling\" might be worse. Maybe my story will help you."
-summary_ar: "Many founders experience a profound and prolonged sadness after selling their company. But \"not selling\" might be worse. Maybe my story will help you."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Startup identity & the sadness of a successful exit'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Startup identity & the sadness of a successful exit
+# هوية المؤسس والحزن الخفي الذي يلي البيع الناجح للشركة
 ### Startup identity & the sadness of a successful exit
 
-> **الملخص التنفيذي:** Many founders experience a profound and prolonged sadness after selling their company. But "not selling" might be worse. Maybe my story will help you.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Startup identity & the sadness of a successful exit'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** فلسفة ريادة الأعمال والحكمة التأسيسية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/identity-selling-sadness/](https://longform.asmartbear.com/identity-selling-sadness/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** هوية المؤسس والحزن الخفي الذي يلي البيع الناجح للشركة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Startup identity & the sadness of a successful exit
+
+> **Executive Summary:** Many founders experience a profound and prolonged sadness after selling their company. But "not selling" might be worse. Maybe my story will help you.
+> **Original URL:** [https://longform.asmartbear.com/identity-selling-sadness/](https://longform.asmartbear.com/identity-selling-sadness/)
 
 ![No, it's fine, I've just never seen coupons used in an acquisition.](https://public.asmartbear.com/books/anthology/chapters/identity-selling-sadness/d3719print-simple.png)
 

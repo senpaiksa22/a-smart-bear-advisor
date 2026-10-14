@@ -1,22 +1,37 @@
 ---
 id: 100
 title_en: "Marketing at early startups: Deep, not wide"
-title_ar: "Marketing at early startups: Deep, not wide"
+title_ar: "التسويق في الشركات الناشئة الأولى: تعمق في قناة واحدة بدلاً من التشتت"
 slug: "one-channel"
 url: "https://longform.asmartbear.com/one-channel/"
-pubDate: "Tue, 09 Dec 2014 08:00:00 +0000"
+published_date: "Tue, 09 Dec 2014 08:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "Go deep on one marketing strategy that you already know well; spreading thin won't be successful."
-summary_ar: "Go deep on one marketing strategy that you already know well; spreading thin won't be successful."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Marketing at early startups: Deep, not wide'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Marketing at early startups: Deep, not wide
+# التسويق في الشركات الناشئة الأولى: تعمق في قناة واحدة بدلاً من التشتت
 ### Marketing at early startups: Deep, not wide
 
-> **الملخص التنفيذي:** Go deep on one marketing strategy that you already know well; spreading thin won't be successful.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Marketing at early startups: Deep, not wide'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/one-channel/](https://longform.asmartbear.com/one-channel/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التسويق في الشركات الناشئة الأولى: تعمق في قناة واحدة بدلاً من التشتت تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Marketing at early startups: Deep, not wide
+
+> **Executive Summary:** Go deep on one marketing strategy that you already know well; spreading thin won't be successful.
+> **Original URL:** [https://longform.asmartbear.com/one-channel/](https://longform.asmartbear.com/one-channel/)
 
 ![Cartoon e1db5b25](https://longform.asmartbear.com/one-channel/7fba807f.png)
 

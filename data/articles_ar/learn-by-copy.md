@@ -1,22 +1,37 @@
 ---
 id: 134
 title_en: "Learn by Copy"
-title_ar: "Learn by Copy"
+title_ar: "التعلم عبر المحاكاة والنسخ: كيف تطور مهاراتك من أعمال العظماء؟"
 slug: "learn-by-copy"
 url: "https://longform.asmartbear.com/learn-by-copy/"
-pubDate: "Tue, 28 Feb 2012 00:00:00 +0000"
+published_date: "Tue, 28 Feb 2012 00:00:00 +0000"
 category_en: "AI Era Dynamics, Disruption & Big Tech"
 category_ar: "ديناميكيات عصر الذكاء الاصطناعي والثورات التقنية"
 summary_en: "In America we're trained that all copying is bad; of course plagiarism is, but perhaps we're throwing the baby out with the bathwater."
-summary_ar: "In America we're trained that all copying is bad; of course plagiarism is, but perhaps we're throwing the baby out with the bathwater."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Learn by Copy'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Learn by Copy
+# التعلم عبر المحاكاة والنسخ: كيف تطور مهاراتك من أعمال العظماء؟
 ### Learn by Copy
 
-> **الملخص التنفيذي:** In America we're trained that all copying is bad; of course plagiarism is, but perhaps we're throwing the baby out with the bathwater.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Learn by Copy'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ديناميكيات عصر الذكاء الاصطناعي والثورات التقنية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/learn-by-copy/](https://longform.asmartbear.com/learn-by-copy/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التعلم عبر المحاكاة والنسخ: كيف تطور مهاراتك من أعمال العظماء؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Learn by Copy
+
+> **Executive Summary:** In America we're trained that all copying is bad; of course plagiarism is, but perhaps we're throwing the baby out with the bathwater.
+> **Original URL:** [https://longform.asmartbear.com/learn-by-copy/](https://longform.asmartbear.com/learn-by-copy/)
 
 ![my wife my duplicate](https://public.asmartbear.com/books/anthology/chapters/learn-by-copy/d5912print-simple.png)
 

@@ -1,97 +1,112 @@
 ---
 id: 5
 title_en: "Creating space"
-title_ar: "خلق الفضاء"
+title_ar: "إفساح المجال: كيف تخلق وقتاً ومساحة للتركيز والابتكار"
 slug: "focus"
 url: "https://longform.asmartbear.com/focus/"
-pubDate: "Sun, 04 Jan 2026 00:00:00 +0000"
+published_date: "Sun, 04 Jan 2026 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "Do less, to create the space to be great."
 summary_ar: "افعل أقل، لتخلق مساحة رائعة."
 ---
 
-# خلق الفضاء
+# إفساح المجال: كيف تخلق وقتاً ومساحة للتركيز والابتكار
 ### Creating space
 
 > **الملخص التنفيذي:** افعل أقل، لتخلق مساحة رائعة.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/focus/](https://longform.asmartbear.com/focus/)
 
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** إفساح المجال: كيف تخلق وقتاً ومساحة للتركيز والابتكار تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Creating space
+
+> **Executive Summary:** Do less, to create the space to be great.
+> **Original URL:** [https://longform.asmartbear.com/focus/](https://longform.asmartbear.com/focus/)
+
 ![With this humble tennis ball, Phil, we shall forever change the status quo.](https://public.asmartbear.com/books/anthology/chapters/focus/d8415print-simple.png)
 
-كلمة واحدة موجهة لجميع الشركات الناشئة، وللرؤساء التنفيذيين للشركات الكبرى، وهم بدورهم لفريق عملهم:
+A single word of advice, given to all startups, and to CEOs of large companies, and they in turn to their teams:
 
-**"التركيز!"**
+**"Focus!"**
 
-لكن ماذا يعني ذلك بالتحديد؟ وعلى أية حال، أليست الكمية في بعض الأحيان أفضل من الجودة؟ ألا نحتاج إلى اختبار مجموعة من الأشياء بدلاً من محاولة إنجاح شيء واحد؟
+But what does that mean, precisely? And anyway isn't quantity sometimes in fact better than quality? Don't we need to test a bunch of stuff instead of trying to make one thing work?
 
-فقط عندما نتوقف عن القيام بمعظم الأشياء، يكون لدينا الوقت والطاقة لتنفيذ الأشياء الأكثر أهمية بشكل كامل وعميق. والأشياء المهمة هي الفرق بين الازدهار والهلاك.
-
----
-
-"رأيت نفسي جالسًا بين فجوات شجرة التين هذه، أتضور جوعًا حتى الموت، فقط لأنني لم أتمكن من اتخاذ قرار بشأن أي من التين سأختار. كنت أرغب في كل واحدة منها، لكن اختيار واحدة يعني خسارة الباقي، وبينما جلست هناك، غير قادر على اتخاذ القرار، بدأت حبات التين تتجعد وتتحول إلى اللون الأسود، وسقطت على الأرض عند قدمي واحدة تلو الأخرى."  
-> --سيلفيا بلاث، *[الجرس الجرسي](https://bookfinder.com/isbn/9780060837020)*
+Only when we stop doing most things, do we have the time and energy to fully, deeply execute the most important things. And the important things are the difference between thriving and perishing.
 
 ---
 
-عندما تتوقف عن محاولة بيع الأشخاص الذين [ليسوا مناسبين](https://longform.asmartbear.com/purgatory/)، فإنك توفر مساحة لعروض مبيعات أكثر بثلاثة أضعاف، كل منها بمعدل إغلاق يصل إلى ثلاثة أضعاف.
-
-عندما [تساعد العملاء المستنزفين على الخروج من النشاط التجاري](https://www.youtube.com/watch?v=g9-TVWNu4Aw&list=PLgZuj5WdK69GiFlqdgo04LvV7RdiEVg_F)، فإنك توفر مساحة لقضاء بعض الوقت مع الأشخاص السهلين والسعداء الذين يرغبون في إنفاق المزيد كل عام مع إعطائك طاقة إيجابية.
-
-عندما تتوقف عن محاولة كسب الجميع، فإنك تخلق مساحة لكسب [الأشخاص المناسبين](https://longform.asmartbear.com/icp-ideal-customer-persona/).
-
-عندما تتوقف عن محاولة دعم كل نقاط ضعفك، فإنك تخلق مساحة [للاستفادة](https://longform.asmartbear.com/leverage/) من نقاط قوتك.
-
-عندما تتوقف عن محاولة جدولة جميع الأعمال، فإنك تقوم بإنشاء مساحة لـ [العمل المؤثر](https://longform.asmartbear.com/rocks-pebbles-sand/).
-
-عندما تتوقف عن محاولة القيام بكل شيء بطريقة جديدة (تجربة المستخدم، والبرمجة، والتسعير، والهيكل التنظيمي)، فإنك تخلق مساحة لعدد قليل من أنماط التمايز المؤثرة حقًا.
-
-عندما تتوقف عن استخدام الكلمات العامة البطيئة في التسويق، فإنك تنشئ مساحة على الصفحة لتوصيل [ما تفعله فعليًا](https://longform.asmartbear.com/specity/)، أو [من أنت فعليًا](https://longform.asmartbear.com/authentic-is-dead/)، أو [لماذا يجب على أي شخص أن يهتم](https://longform.asmartbear.com/mission-vision/).
-
-عندما تنهي العلاقات السامة، فإنك تخلق مساحة لعلاقات صحية. شخصية أو مهنية. لك وللفرق من حولك.
-
-عندما تتوقف عن محاولة التحكم في كل التفاصيل الأخيرة، فإنك تخلق مساحة لـ [الفرق المُمكّنة لتزدهر](https://longform.asmartbear.com/in-command/)، ولكي تعمل على الأشياء التي يمكنك أنت فقط القيام بها، أو التي يجب عليك فقط القيام بها.
-
-عندما تتوقف عن قراءة القمامة، فإنك تخلق مساحة لقراءة شيء ذي معنى، أو مفيد، أو ممتع، أو ملهم، أو منعش.
-
-عندما تتوقف عن مطاردة كل مقياس، فإنك تخلق مساحة لمهاجمة [المقياس الوحيد الذي سيغير الشركة](https://longform.asmartbear.com/one-priority/).
-
-عندما تتوقف عن محاولة تحسين كل شيء بنسبة 1%، فإنك تخلق مساحة [لتحسين أكبر شيء بنسبة 30%](https://longform.asmartbear.com/double-your-productivity/).
-
-عندما تتوقف عن محاولة إرضاء كل عميل غير مناسب، فإنك تخلق مساحة لتحويل العملاء "الراضين" إلى "[متعصبين](https://longform.asmartbear.com/customer-love/)" الذين يزيدون من نمو الكلام الشفهي، ويتركون تعليقات إيجابية، ولا يلغون أبدًا حتى لو حدث شيء سيء.
-
-عندما تتوقف عن التحقق من البريد الإلكتروني ووسائل التواصل الاجتماعي كل 11 دقيقة، فإنك تخلق مساحة لتصبح محاطًا بتدفق الإبداع والإنتاجية.
-
-عندما تتوقف عن محاولة [تعظيم كل مقياس](https://longform.asmartbear.com/maximizing/)، فإنك تقوم بإنشاء مساحة لتعظيم [عدد قليل من المقاييس الأكثر أهمية](https://longform.asmartbear.com/product-metrics/).
-
-عندما تتوقف عن متابعة كل فرصة، فإنك تخلق مساحة للاستفادة الكاملة من الفرصة التي تحتوي على [أسمك تقاطع](https://longform.asmartbear.com/investment/) من الإمكانات الصعودية والقدرة على التنفيذ.
-
-عندما تتوقف عن إنشاء علاقات سطحية مع كل شخص غريب على وسائل التواصل الاجتماعي، فإنك تخلق مساحة لإنشاء علاقات عميقة ومتبادلة ومهتمة.
-
-عندما تتوقف عن محاولة الفوز في كل معركة مع كل منافس، فإنك تخلق مساحة للفوز بالمنافسين الأكثر أهمية للأشخاص في سوقك المثالي.
-
-عندما تتوقف عن محاولة "إيجاد التوازن" في كل شيء، فإنك تخلق مساحة [لتعظيم الاختيار الواحد](https://longform.asmartbear.com/conflicting-choices/) مما يخلق الوضوح والقوة.
-
-عندما تتوقف عن محاولة "[الحصول على كل شيء](https://longform.asmartbear.com/two-big-things/)،" فإنك تخلق مساحة لتجربة الأشياء القليلة الأكثر أهمية بعمق.
+> "I saw myself sitting in the crotch of this fig tree, starving to death, just because I couldn't make up my mind which of the figs I would choose. I wanted each and every one of them, but choosing one meant losing all the rest, and, as I sat there, unable to decide, the figs began to wrinkle and go black, and, one by one, they plopped to the ground at my feet."  
+> --Sylvia Plath, *[The Bell Jar](https://bookfinder.com/isbn/9780060837020)*
 
 ---
 
-ليس لدينا وقت أو طاقة غير محدودة، ولكن يمكننا [قضاء الوقت المحدود الذي لدينا بشكل أفضل](https://longform.asmartbear.com/prioritization/).
+When you stop trying to sell people who [aren't a good fit](https://longform.asmartbear.com/purgatory/), you create space for 3x more sales pitches, each with 3x the close-rate.
 
-لهذا السبب: *التركيز.*
+When you [help draining customers exit the business](https://www.youtube.com/watch?v=g9-TVWNu4Aw&list=PLgZuj5WdK69GiFlqdgo04LvV7RdiEVg_F), you create space to spend time with easy, happy ones, who want to spend more every year while giving you positive energy.
+
+When you stop trying to win over everyone, you create space to win over [the right ones](https://longform.asmartbear.com/icp-ideal-customer-persona/).
+
+When you stop trying to shore up every weakness, you create space to [leverage](https://longform.asmartbear.com/leverage/) your strengths.
+
+When you stop trying to schedule all work, you create space for [impactful work](https://longform.asmartbear.com/rocks-pebbles-sand/).
+
+When you stop trying to do everything in a novel way (UX, coding, pricing, org structure), you create space for a few truly impactful modes of differentiation.
+
+When you stop using lazy, generic words in marketing, you create space on the page to communicate [what you actually do](https://longform.asmartbear.com/specificity/), or [who you actually are](https://longform.asmartbear.com/authentic-is-dead/), or [why anyone should care](https://longform.asmartbear.com/mission-vision/).
+
+When you end toxic relationships, you create space for healthy ones. Personal or professional. For you and the teams around you.
+
+When you stop trying to control every last detail, you create space for [empowered teams to flourish](https://longform.asmartbear.com/in-command/), and for you to work on things that only you can do, or only you ought to do.
+
+When you stop reading garbage, you create space to read something meaningful, or useful, or enjoyable, or inspiring, or refreshing.
+
+When you stop chasing every metric, you create space to attack the [one metric that will transform the company](https://longform.asmartbear.com/one-priority/).
+
+When you stop trying to improve everything by 1%, you create space to [improve the biggest thing by 30%](https://longform.asmartbear.com/double-your-productivity/).
+
+When you stop trying to please every ill-fitting customer, you create space to convert "satisfied" customers into "[fanatics](https://longform.asmartbear.com/customer-love/)" who increase word-of-mouth growth, leave positive reviews, and never cancel even if something bad happens.
+
+When you stop checking email and social media every 11 minutes, you create space to become enveloped in the flow of creativity and productivity.
+
+When you stop trying to [maximize every metric](https://longform.asmartbear.com/maximizing/), you create space to maximize the [few metrics that matter most](https://longform.asmartbear.com/product-metrics/).
+
+When you stop pursuing every opportunity, you create space to fully capitalize on the one with the [thickest intersection](https://longform.asmartbear.com/investment/) of upside potential and ability to execute.
+
+When you stop creating superficial relationships with every stranger on social media, you create space to create deep, mutual, caring relationships.
+
+When you stop trying to win every battle with every competitor, you create space to win the ones that matter most to the people in your ideal market.
+
+When you stop trying to "find the balance" in everything, you create space to [maximize the one choice](https://longform.asmartbear.com/conflicting-choices/) that creates clarity and strength.
+
+When you stop trying to "[have it all](https://longform.asmartbear.com/two-big-things/)," you create the space to deeply experience the few things that are most important.
 
 ---
 
-> تكون القرارات سهلة عندما تكون لديك أولوية واحدة فقط.  
-> وجهتك هي قمة جبلية ضخمة في الأفق.  
-> يمكنك رؤيته من كل مكان.  
-> نعم لذلك الجبل، ولا لكل شيء آخر.  
-> ستعرف دائمًا إلى أين أنت ذاهب، وما ستفعله بعد ذلك.  
-> كل الطرق تذهب إما نحو ذلك الجبل أو بعيدا عنه.  
+We don't have unlimited time or energy, but we can [better spend the limited time that we have](https://longform.asmartbear.com/prioritization/).
+
+That's why: *Focus.*
+
+---
+
+> Decisions are easy when you have only one priority.  
+> Your destination is a huge mountain peak on the horizon.  
+> You can see it from everywhere.  
+> Yes to that mountain, and no to everything else.  
+> You'll always know where you're going, and what you're doing next.  
+> All paths go either towards that mountain or away from it.  
 >   
-> وبسبب هذا المنظور، فإن المشاكل لن تردعك.  
-> معظم الناس ينظرون إلى الأرض منزعجين من كل عقبة.  
-> وعيناك في الأفق، سوف تتخطى العقبات،  
-> دون رادع.  
-> --ديريك سيفرز، _[الجحيم نعم أو لا](https://sive.rs/n)_
+> Because of this perspective, problems won't deter you.  
+> Most people look down at the ground, upset by every obstacle.  
+> With your eyes on the horizon, you'll step over obstacles,  
+> undeterred.  
+> --Derek Sivers, _[Hell Yeah or No](https://sive.rs/n)_

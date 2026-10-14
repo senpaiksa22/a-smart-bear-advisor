@@ -1,125 +1,140 @@
 ---
 id: 3
 title_en: "How to hire people who are better than you"
-title_ar: "كيفية توظيف الأشخاص الذين هم أفضل منك"
+title_ar: "كيف توظف أشخاصاً أكثر كفاءة وذكاءً منك"
 slug: "hire-better-than-you"
 url: "https://longform.asmartbear.com/hire-better-than-you/"
-pubDate: "Sun, 19 Apr 2026 00:00:00 +0000"
+published_date: "Sun, 19 Apr 2026 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "If you don't hire people better than you, the organization gets bigger, not better. But how do you hire for something you don't understand?"
 summary_ar: "إذا لم تقم بتعيين أشخاص أفضل منك، فإن المنظمة تصبح أكبر، وليس أفضل. ولكن كيف يمكنك توظيف شيء لا تفهمه؟"
 ---
 
-# كيفية توظيف الأشخاص الذين هم أفضل منك
+# كيف توظف أشخاصاً أكثر كفاءة وذكاءً منك
 ### How to hire people who are better than you
 
 > **الملخص التنفيذي:** إذا لم تقم بتعيين أشخاص أفضل منك، فإن المنظمة تصبح أكبر، وليس أفضل. ولكن كيف يمكنك توظيف شيء لا تفهمه؟
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/hire-better-than-you/](https://longform.asmartbear.com/hire-better-than-you/)
 
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كيف توظف أشخاصاً أكثر كفاءة وذكاءً منك تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# How to hire people who are better than you
+
+> **Executive Summary:** If you don't hire people better than you, the organization gets bigger, not better. But how do you hire for something you don't understand?
+> **Original URL:** [https://longform.asmartbear.com/hire-better-than-you/](https://longform.asmartbear.com/hire-better-than-you/)
+
 ![Thanks for coming in, but we're looking for less of a sales manager, and more of a leader of the pack.](https://public.asmartbear.com/books/anthology/chapters/hire-better-than-you/d5940print-simple.png)
 
-من المحتمل أن نائب الرئيس للتسويق الذي تجري المقابلة معه مليء بالهراء. أعني أنهم يعملون في مجال التسويق، وهذا ما يجيدونه، أليس كذلك؟ باستثناء، إذا كان هذا هو ما يفترض بهم أن يجيدوه، فربما يكون من الجيد أنهم يفعلون ذلك؟ ولكن أيضًا، ربما لا تكون مليئة بالهراء. ليس لديك أي فكرة، لأنه ليس لديك أي فكرة عن كيفية تعيين نائب الرئيس للتسويق.
+Probably this VP of Marketing you're interviewing is full of shit. I mean, they're in marketing, that's what they're good at, right? Except, if that's what they're supposed to be good at, maybe it's good that they're doing that? But also, maybe they're _not_ full of shit. You have no idea, because you have no idea how to hire a VP of Marketing.
 
-لأنك مهندس تتمثل خبرتك التسويقية بأكملها في حملات AdWords غير المتقنة التي لم تعلمك شيئًا سوى مدى سرعة اختفاء الأموال عندما لا تعرف ما تفعله. لكنك الرئيس التنفيذي، وقررت (بشكل صحيح) أن الوقت قد حان لتوظيف شخص يمكنه بالفعل إنشاء قسم تسويق ومن ثم تحميله المسؤولية عن وظيفة لا تفهمها. أنت بحاجة إلى هذا التوظيف على وجه التحديد لأنك لا تستطيع أن تفعل ما يفعلونه. ولكن هذا يعني أيضًا أنه لا يمكنك معرفة ما إذا كان بإمكانهم القيام بذلك.
+Because you're an engineer whose entire marketing experience is some half-assed AdWords campaigns that taught you nothing except how fast money disappears when you don't know what you're doing. But you're the CEO, and you (correctly) decided it's time to hire someone who can actually build a marketing department and then hold them accountable for a job you don't understand. You need this hire precisely because you can't do what they do. But that also means you can't tell whether they can do it.
 
-إنه مثل تقييم جراح البنكرياس. ماذا تسأل؟ ماذا تفعل بالإجابة؟
+It's like evaluating a pancreatic surgeon. What do you ask? What do you do with the answer?
 
-لكن ليس أمامك خيار: يجب عليك توظيف أشخاص أفضل منك في كل منصب - فهذه هي الطريقة الوحيدة التي تصبح بها المنظمة أقوى وأكثر ذكاءً وأفضل بدلاً من أن تنمو بشكل أكبر. وبدون ذلك، تصبح المنظمات أسوأ مع حجمها - المزيد من النفقات العامة، والمزيد من الاجتماعات، والمزيد من تكاليف الاتصالات، دون تحسين متناسب في القدرات الفردية. والشخص العظيم ليس أفضل بعشر مرات من الشخص العادي - فهو [أفضل بلا حدود](https://longform.asmartbear.com/imbalanced-people/)، لأنه يأتي بأفكار وتطبيقات لا يمكن أن يصل إليها مائة شخص عادي أبدًا.
+But you have no choice: you _must_ hire people who are better than you at every position--that's the only way the organization grows stronger and smarter and better rather than just growing larger. Without it, organizations get worse with size--more overhead, more meetings, more communication cost, without commensurate improvement in individual capability. And a great person isn't ten times better than an average one--they're [infinitely better](https://longform.asmartbear.com/imbalanced-people/), because they come up with ideas and implementations that a hundred average people never would.
 
-في وقت مبكر، كان المدير التنفيذي هو أفضل شخص في الشركة في بعض الأشياء - ربما المبيعات من العاطفة، وربما المنتج من الرؤية. ولكن من وجهة نظر مائة شخص، إذا كان الرئيس التنفيذي لا يزال أفضل من الجميع في *أي شيء*، فإن تعيينات الرئيس التنفيذي سيئة، والشركة تعاني. لقد كتبت بالفعل عن [لماذا يجب عليك التوظيف](https://longform.asmartbear.com/delegation/)--لماذا ينتج التفويض وحده فريقًا ليس أفضل من المؤسس على الإطلاق. هذه هي القطعة المصاحبة: *كيف* تقوم بتقييم المرشحين الذين يعرفون أكثر منك، في المجالات التي لا تفهمها.
+Early on, the CEO is the best person at the company at *some* things--maybe sales from passion, maybe product from vision. But by a hundred people, if the CEO is still better than everyone at *anything*, the CEO has hired poorly, and the company is suffering. I've already written about [why you must hire up](https://longform.asmartbear.com/delegation/)--why delegation alone produces a team that's never better than the founder. This is the companion piece: *how* you evaluate candidates who know more than you, in areas you don't understand.
 
-نظرًا لأنه لا يمكنك تقييم خبرتهم في هذا المجال، فإليك ما تبحث عنه بدلاً من ذلك.
+Since you can't assess their domain expertise, here's what you're looking for instead.
 
-##تترك الرغبة في تنفيذ أفكارهم
+## You leave wanting to implement their ideas
 
-بعد المحادثة، هل تجد نفسك تفكر: "حتى لو لم نوظفهم، علينا أن نفعل نصف الأشياء التي قالوا عنها". ربما تكون متحمسًا جدًا لبدء العمل عليه على الفور.
+After the conversation, do you find yourself thinking: "Even if we don't hire them, we've got to do half of the things they said." Maybe you're so excited you start working on it right away.
 
-لا يمكنك التحقق مما إذا كانت نصيحتهم حكيمة *في الواقع*. لكن هذا الشعور يعني أن أفكارهم مرتبطة بك على مستوى عميق؛ وهذا يعني أنه على الأقل يتناسب مع الثقافة، وهو بالفعل اكتشاف جوهري. تكون الأفكار منطقية في موقفك، وفي ظل القيود التي تواجهك، لذا فهي على الأقل معقولة. الإثارة الخاصة بك هي أكثر أهمية مما تعطيه الفضل فيه.
+You can't verify whether their advice is *actually* wise. But this feeling means their ideas connected with you on a deep level; this means that at minimum it's a culture fit, which is already a substantial finding. The ideas make sense in your situation, with your constraints, so at least they are plausible. Your excitement is more meaningful than you give it credit for.
 
-تنتج الخبرة الحقيقية أفكارًا محددة وقابلة للتنفيذ تبدو وكأنها مصممة خصيصًا للسياق الخاص بك. الأشخاص الذين يتحدثون بشكل جيد سيقولون أشياء تبدو مثيرة للإعجاب - وربما تكون صحيحة بالمعنى الواسع - ولكنهم سوف يتركونك تفكر "هل هذا حقًا هو التسويق للبالغين؟" وليس "الجحيم، نعم هذا ما أريد أن تكون عليه هذه الشركة."
+Genuine expertise produces specific, actionable ideas that feel tailor-made to your context. People who just talk a good game will say things that sound impressive--and might even be true in a broad sense--but will leave you thinking "is that really what grown-up Marketing is?" and not "Hell yes that's what I want this company to be like."
 
-إذا غيروا طريقة تفكيرك في شركتك خلال ساعة، فتخيل ما يمكنهم فعله خلال عام.
+If they change how you think about your own company in an hour, imagine what they could do in a year.
 
-العكس هو مجرد قول. إن المرشح الذي يتحدث بطلاقة عن أطر التسويق ولكنه لا يربطها مطلقًا بالتحديات المحددة التي وصفتها قبل خمس دقائق هو مجرد ترديد للأشياء التي رأوها وسمعها. يمكن لـ ChatGPT أن يفعل ذلك أيضًا، ولديك ثقة قليلة في أنه مناسب لك. أنت تبحث عن شخص وُلد من أجل هذه الوظيفة، وليس شخصًا يؤدي النسخة العامة منها. الفرق لا لبس فيه بمجرد أن تشعر به، ولا تحتاج إلى معرفة المجال لتشعر به.
+The inverse is just as telling. A candidate who speaks fluently about marketing frameworks but never connects them to the specific challenges you described five minutes ago is just parroting stuff they've seen and heard. ChatGPT can do that too, and you have just as little confidence that it's right for you. You're looking for someone who was born for *this* job, not someone performing the generic version of it. The difference is unmistakable once you've felt it, and you don't need domain knowledge to feel it.
 
-اسأل نفسك هذا: إذا ذهبوا بدلاً من ذلك للعمل لدى منافسك، فهل سيقلقك ذلك؟ هل تعتقد: اه أوه، الآن نحن ميتون؟ أو هل تعتقد: لست متأكدًا من ماذا سيفعلون لهذا المنافس؟
+Ask yourself this: If they instead went to work for your competitor, would that worry you? Do you think: Uh oh, now we're dead? Or do you think: I'm not sure _what_ they would do for that competitor?
 
-## أنت تتعلم منهم بالفعل، وكذلك يفعل الآخرون
+## You're already learning from them--and so would everyone else
 
-زوكربيرج [مشهور] (https://www.cnbc.com/2018/08/06/mark-zuckerbergs-top-rule-for-hiring-great-employees-at-facebook.html) قاعدة تعيينه للمديرين التنفيذيين:
+Zuckerberg [is famous for](https://www.cnbc.com/2018/08/06/mark-zuckerbergs-top-rule-for-hiring-great-employees-at-facebook.html) his hiring rule for executives:
 
-> "أقول دائمًا للناس أنه يجب عليك توظيف الأشخاص ليكونوا في فريقك فقط إذا كنت ستعمل معهم."
+> "I always tell people that you should only hire people to be on your team if you would work for them."
 
-قد يبدو الأمر رائعًا ولكنه ليس صحيحًا بالمعنى الحرفي للكلمة - فزوكربيرج لم يسبق له أبدًا أن عمل لصالح أي شخص آخر. ولكن إذا أخذنا روح فكرته وطبقناها على الأشياء التي تحدث بالفعل - الأشياء التي يمكنك البحث عنها - يصبح ذلك اختبارًا ممتازًا.
+It sounds great but it's not true literally--Zuckerberg would never, and has never, worked for anyone else. But if we take the spirit of his idea and apply it to things that actually happen--things you can look for--it becomes an excellent test.
 
-النسخة الأضعف هي: إذا لم تكن تشعر بالارتياح للعمل لدى هذا الشخص، فأنت تقوم بالتوظيف بدافع المنفعة، وليس الجودة.
+The weakest version is: If you wouldn't be comfortable working for this person, you're hiring out of expediency, not quality.
 
-الأفضل بكثير هو: هل ستتعلم من هذا الشخص؟ هل سيتعلم الآخرون في الشركة؟ من خلال تجربتي، لا ينطبق هذا على كل مدير تنفيذي عظيم فحسب، بل إنه صحيح بشكل واضح بحيث يمكنك معرفة ذلك من خلال المقابلة. يمكنك أن تقول ذلك، لأنه حدث بالفعل. لقد قالوا بالفعل شيئًا لم تكن تعرفه، مما أثار اهتمامك. لقد تحققت منه بعد ذلك، وسقطت في جحر الأرانب الذي لم تكن تعلم بوجوده من قبل. لكنهم فعلوا ذلك، وكان هذا المرشح يعرف عنهم بالفعل. هذه هي الإشارة.
+Much better is: Would you learn from this person? Would others at the company learn? In my experience this is not only true of every great executive, but it's so clearly true that you can tell from the interview. You can tell, because it's already happened. They've already said something you didn't know, that piqued your interest. You checked it afterwards, and you fell down rabbit holes you never knew existed. But they did, and this candidate already knew about them. That's the signal.
 
-الاختبار الحقيقي - وواجب وظيفي تنفيذي فعلي، حتى لو لم ينص الوصف الوظيفي على ذلك - إذا حصلت على إجازة لمدة ستة أشهر ولم تقم بالتسجيل مطلقًا، عند عودتك هل سيكون القسم *أفضل بشكل ملموس* تحت قيادتهم؟ وهذا يعني: تحسين العمليات، وفريق أقوى، وإنتاج أعلى؟
+The real test--and an actual executive job duty, even if the job description doesn't say so--if you took a six-month sabbatical and never checked in, when you returned would the department be *measurably better* under their leadership? That means: Processes improved, team stronger, output higher?
 
-هذا ما يبدو عليه "الرفع": تعيين شخص يأخذ منك العمل، وينشئ قسمًا أفضل مما كنت تنشئه، حيث تتحسن الشركة من حولك لأنك وظفت أشخاصًا يعرفون كيفية القيام بذلك. هذه هي الوظيفة. مهمتك ليست أن تعرف كل هذه الأشياء أيضًا؛ إنها توظيف الأشخاص الذين يقومون بذلك، مما يعني توظيف الأشخاص الذين تتعلم منهم بالفعل.
+That's what "lift" looks like: Hiring someone who takes work away from you, who creates a better department than you were creating, where the company is improving all around you because you hired people who know how to do that. That's the job. Your job isn't to also know all those things; it's to hire people who do, which means hiring people who you're already learning from.
 
-## سوف يرفعون مستوى المنظمة بأكملها
+## They will elevate the whole organization
 
-لا يقوم القادة العظماء بتحسين صوامعهم فحسب، بل إنهم أفضل في قضايا الأشخاص، والتواصل، وصنع القرار، وتحديد الأهداف، والتخطيط السنوي، والهيكل التنظيمي، وهي الأشياء المفيدة في كل مكان في الشركة، وليس فقط في قسمهم. لن يتمكن نائب رئيس التسويق العظيم أبدًا من المساهمة في "CLAUDE.md"، الخاص بـ TypeScript، ولكن سيكون لديه نظريات حول كيفية النمو من ثلاثة إلى ثلاثين فريقًا، أو كيفية تحديد أهداف سنوية مع إبقاء الأشخاص يركزون على ما يحدث الآن، أو كيفية توصيل الأخبار الصعبة إلى الشركة بأكملها، أو كيفية معرفة متى حان الوقت أخيرًا لتنفيذ بعض سياسات "الشركة الكبيرة"، أو كيفية تنظيم معتكف استراتيجي لمدة يومين، أو كيفية التعامل مع موقف صعب بين اثنين من الموظفين، أو كيفية إدارة الموارد البشرية. إدارة الأداء بموضوعية وإنسانية قدر الإمكان.
+Great leaders don't improve their silo only--they're better at people issues, communication, decision-making, goal-setting, annual planning, org structure--things that are useful everywhere in the company, not just in their department. A great VP Marketing will never be able to contribute to your TypeScript-specific `CLAUDE.md`, but they will have theories about how to grow from three to thirty teams, or how to set annual goals but keep people focused on what's happening now, or how to communicate difficult news to the entire company, or how to know when it's finally time to implement certain "big company" policies, or how to structure a two-day strategic retreat, or how to handle a difficult situation between two employees, or how to run human performance management as objectively and humanely as possible.
 
-هذه كلها أشياء يمكنك اختبارها أثناء المقابلة، من خلال السؤال عن كيفية تعاملهم مع هذه المواقف. أي المواقف بالضبط؟ استخدم بعض ما تواجهه اليوم، أو واجهته للتو، أو سمعت عنه في أحد المنتديات والذي تخشى أن يحدث لك قريبًا. ليس كمجال خبرتهم، ولكن كقائد في الشركة.
+These are all things you can test for during the interview, by asking how they handle these situations. Which situations exactly? Use some that you're facing today, or just faced, or heard about on a forum that you're scared will happen to you soon. Not as their domain of expertise, but as a leader in a company.
 
-## اطلب منهم حل مشكلة حقيقية تواجهها
+## Ask them to solve a real problem you face
 
-امنحهم تحديًا حقيقيًا من شركتك. إذا كنت تواجه صعوبة في تحديد الأهداف، اسأل كيف سيتم تنفيذ ذلك في ثقافة لم يكن لها أهداف على الإطلاق؛ إذا كان لديك اضطراب شديد، اسأل كيف سيتم تشخيص السبب؛ إذا كان معدل دوران الموظفين مرتفعًا، اسأل كيف يمكنهم معرفة ما يحدث عندما يتردد الناس في شرح أنفسهم.
+Give them an actual challenge from your company. If you're struggling with goal-setting, ask how they'd implement that in a culture that's never had goals; if you have high churn, ask how they'd diagnose the cause; if employee turnover is high, ask how they'd figure out what's going on when people are reluctant to explain themselves.
 
-أنت لا تقوم بتقييم تفاصيل الإجابة - ولا تعرف كيف - بل تراقب كيف يفكرون، وما هي الخبرة المباشرة التي لديهم. هل يطرحون عليك أسئلة واضحة وواضحة تجعلك تشعر وكأنهم يفهمون بعمق ما تمر به؟ فهل يعترفون بما لم يعرفوه بعد؟ هل لا يقومون بتسمية إطار العمل فحسب، بل يشرحون كيفية تطبيقه؟ هل هناك أي إشارة إلى أنهم فعلوا أيًا من ذلك بأنفسهم، أم أنهم مجرد يرددون منشورات المدونة؟
+You're not evaluating the details of the answer--you don't know how--you're watching how they think, and what direct experience they have. Do they ask incisive, clarifying questions that make you feel like they deeply understand what you're going through? Do they acknowledge what they don't yet know? Do they not only name a framework but explain how they applied it? Is there any indication they actually did any of that themselves, or are they just parroting blog posts?
 
-## استخدم الفحوصات المرجعية لتقييم التوافق الثقافي، وليس الخبرة
+## Use reference checks to evaluate culture fit, not expertise
 
-إن الفحوصات المرجعية القياسية غير مجدية لتقييم الخبرة - فالمرشحون يقدمون لك مباريات ودية على استعداد لقول أشياء لطيفة، وليس هناك قيمة في التأييد المطهر. لكن الفحوصات المرجعية فعالة في تقييم ما إذا كان هذا الشخص سيزدهر *هنا*، في *هذه* الشركة، في *هذه* المرحلة - وهو ما يهم بالنسبة لتوظيف القيادة حيث لا يمكنك تقييم خبرة المجال على أي حال.
+Standard reference checks are useless for evaluating expertise--candidates hand you friendlies primed to say nice things, and there's no value in sanitized endorsements. But reference checks are powerful for evaluating whether this person will thrive *here*, in *this* company, at *this* stage--which is what matters for a leadership hire where you can't evaluate domain expertise anyway.
 
-وبدلاً من الأسئلة المعتادة، أطرح هذا السؤال:
+Instead of the usual questions, I ask this:
 
-> ما هو السيناريو المثالي الذي في ظله يزدهر هذا الشخص؟  
+> What is the ideal scenario under which this person thrives?  
 >   
-وهذا يعني: بناء مجموعة مثالية تمامًا من الظروف - الموضوع، الهدف، الفريق (أو عدمه)، التوجيه (أو عدمه)، الحوافز، وما إلى ذلك - حيث يقتل هذا الشخص كل شيء، ويكون فعالًا، ومنتجًا، وسعيدًا، ويجعل كل من حوله سعداء.
+> That is: Construct the absolutely perfect set of circumstances--subject matter, goal, team (or lack thereof), direction (or lack thereof), incentives, etc.--where this person absolutely kills it, is efficient, is productive, is happy, and makes everyone around them happy.
 
-إذا قالوا "أوه، نعم، هذا الشخص يحتاج إلى هدف لأنه يريد أن يعرف كيف يبدو" النجاح "، ولكن بعد ذلك ابتعد عن طريقه لأنه مبدع ويستكشف بسرعة،" فأنت تستخرج سمات شخصية مثل "موجهة نحو الهدف" و "متعطش للاستكشاف". في هذه الحالة، قد يكون العمل على منتج ناضج أمرًا سيئًا، لكن البدء في مرحلة مبكرة قد يكون مثاليًا.
+If they say "Oh yeah, that person needs a goal because they want to know what 'success' looks like, but then get out of their way because they're creative and they explore quickly," then you extract personal attributes like "goal-oriented" and "craves exploration." In that case, working on a mature product might be a bad fit, but an early-stage startup might be ideal.
 
-ثم اسأل العكس:
+Then ask the opposite:
 
-> قم ببناء السيناريو الذي يموتون فيه بالداخل، ويفسدون كل شيء، ويثيرون غضب الجميع.
+> Construct the scenario where they die inside, mess everything up, and piss everyone off.
 
-من المضحك أن نطرح السؤال ومن السهل على الشخص الآخر الإجابة عليه، لكن الأمر لا يبدو سلبيًا - فبعد كل شيء، لدينا جميعًا جحيم شخصي.
+It's funny to ask and easy for the other person to answer, but it doesn't feel like negativity--after all, we all have a personal hell.
 
-واحد آخر:
+One more:
 
-> ما هي نقاط قوتهم التي لا يدركونها لأنها تأتي إليهم بشكل طبيعي؟ حيث لا يدركون أن الآخرين ليسوا كذلك أيضًا؟
+> What are their strengths that they're unaware of because they come so naturally to them? Where they don't realize other people aren't like that too?
 
-هذه هي القدرات الأكثر طبيعية وقوة لدى أي شخص - لا يسعه إلا أن يكون رائعًا فيها، ومع ذلك فهي مميزة. لا يستطيع الشخص رؤيتها، بحكم التعريف، لأنه لا يدرك مدى غرابتها. آخرون يعرفون. إنها بعض من أكثر صفاتهم المزعجة والمحببة. ولأغراضك، تخبرك هذه الإجابات ما إذا كان هذا الشخص سوف يزدهر في بيئتك المحددة - وتيرتك، والفوضى، وثقافتك - أفضل من أي دراسة اعتماد أو دراسة حالة على الإطلاق.
+These are a person's most natural, powerful abilities--they can't help but be great at them, yet they're special. The person can't see them, by definition, because they don't realize how unusual they are. Others know. They are some of their most annoying and endearing qualities. And for your purposes, these answers tell you whether this person will thrive in your specific environment--your pace, your chaos, your culture--better than any credential or case study ever could.
 
-لماذا هذا التركيز على نقاط القوة؟ لأن كل شخص لديه نقاط ضعف؛ أنت لا تبحث عن شخص بدون نقاط ضعف. بل أنت بحاجة إلى شخص يتمتع ببعض نقاط القوة الخاصة _التي تحتاجها شركتك الآن_. ليس فقط الكفاءة، بل القوى العظمى. هذا ما سيحدث الفرق بين "ملء المقعد" وإحداث تأثير.
+Why this focus on strengths? Because everyone has weaknesses; you're not looking for someone without weaknesses. Rather, you need someone who has a few special strengths _that your company needs right now_. Not just competence, but superpowers. That's what's going to make the difference between "filling the seat" and making an impact.
 
-## ستظل تخطئ في بعض الأحيان
+## You'll still get it wrong sometimes
 
-مثل أي شخص آخر، قمت بتعيين أشخاص كانوا رائعين في المقابلات ولم يتمكنوا حقًا من القيام بالمهمة، وأشخاصًا لم يكونوا مثيرين للإعجاب في المقابلات وسحقوها لمدة عشر سنوات. خطأ واحد فقط من هذه الأخطاء مكلف. النتيجة السلبية الكاذبة تكلفك البحث المستمر. إن النتيجة الإيجابية الكاذبة تؤذي الفريق، وتؤخر تعيين الشخص المناسب، كما أنها سيئة للغاية بالنسبة للشخص الذي قمت بتعيينه - فقد يكون قد ترك وظيفته؛ كم من الوقت سيستغرق بحثهم التالي؟ إذا حدث هذا كثيرًا، عليك إصلاح نفسك.
+Like everyone else, I've hired people who were great in interviews and couldn't really do the job, and people who were unimpressive in interviews and crushed it for ten years. Only one of those errors is costly. A false negative costs you a continued search. A false positive hurts the team, delays getting the right person in, and is terrible for the person you hired--they might have quit a job; how long will their next search take? If this happens a lot, you have to fix yourself.
 
-ومع ذلك، ما هو الخيار الذي لديك؟ عليك أن تأخذ الرهان.
+Still, what choice do you have? You have to take a bet.
 
-ما يمكنك التحكم فيه هو ما يحدث بعد سوء التوظيف. عليك أن تقرر ما إذا كنت ستترك هذا الأمر لمدة عام، مما يثير غضب أفضل الأشخاص لديك - الذين هم الأكثر قدرة على العثور على وظيفة أخرى - مما يؤخر تطوير هذا القسم، ولا يحل أي شيء قمت بتعيينهم لحله.
+What you do control is what happens after a mis-hire. You decide whether you let that linger for a year, pissing off your best people--who are most capable of finding another job--delaying the development of that department, not solving whatever it is you hired them to solve.
 
-إذا كنت تشعر أنه من الأسهل القيام بذلك بنفسك، فقد قمت بتعيينه بشكل غير صحيح. إذا كان أفضل الأشخاص لديك يتذمرون طوال الوقت بدلاً من الإلهام، فهذا يعني أنك قمت بتعيينه بشكل غير صحيح. إذا لم تبدأ الأمور في التحسن على الفور، فقد قمت بتعيين بشكل غير صحيح.
+If you feel like it's easier to just do it yourself, you hired incorrectly. If your best people are complaining all the time instead of being inspired, you hired incorrectly. If things don't start improving immediately, you hired incorrectly.
 
-كل شخص آخر في الفريق يعرف ذلك - أسرع منك، لأنهم يختبرونه بشكل أكثر حدة منك - ومع ذلك فأنت الشخص الوحيد الذي يمكنه إصلاحه. اجعل الاستراحة نظيفة. التصرف على الفور؛ لقد تأخرت بالفعل ثلاثة أشهر.
+Everyone else on the team knows it--sooner than you, because they are experiencing it more acutely than you--and yet you are the only one who can fix it. Make the break cleanly. Act immediately; you're already three months late.
 
-## المقابلة تدور حول الشخص وليس التفاصيل
+## The interview is about the person, not the details
 
-لقد ذهبت إلى المقابلة مع نائب رئيس التسويق محاولًا معرفة ما إذا كانوا جيدين في التسويق. لكن لا يمكنك تقييم ذلك.
+You went into the interview with the VP of Marketing trying to figure out whether they're good at marketing. But you can't evaluate that.
 
-حتى بعد مرور عام من الآن، [لن تعرف بعد](https://longform.asmartbear.com/unmeasurable-metrics/) ما إذا كانت استراتيجية توليد الطلب لديهم هي الأمثل أم أن موظفًا مختلفًا كان سيحقق نموًا في الإيرادات بشكل أسرع. لن تحصل أبدًا على الواقع المضاد.
+Even a year from now, [you still won't know](https://longform.asmartbear.com/unmeasurable-metrics/) if their demand-gen strategy was optimal or if a different hire would have grown revenue faster. You will never have the counterfactual.
 
-ما ستعرفه هو ما إذا كانوا قد غيروا الطريقة التي ترى بها شركتك، وما إذا كانوا قد وجدوا مشاكل لم تكن تعلم بوجودها، وقاموا ببناء أشياء لم تفكر في بنائها، وجعلوا الأشخاص من حولهم، بما فيهم أنت، أكثر حدة من ذي قبل.
+What you *will* know is whether they changed how you see your own company--whether they found problems you didn't know were there, built things you didn't think to build, and made the people around them, including you, sharper than before.
 
-وكانت هذه القرائن متاحة لك أثناء المقابلة. كان التوافق الثقافي متاحًا لك في الفحوصات المرجعية.
+Those clues were available to you during the interview. The culture fit was available to you in the reference checks.
 
-إنها ليست مثالية، ولكن هذا ما تفعله.
+It's not perfect, but that's what you do.

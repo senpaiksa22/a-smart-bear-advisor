@@ -1,22 +1,37 @@
 ---
 id: 59
 title_en: "Navigating the unpredictability of everything"
-title_ar: "Navigating the unpredictability of everything"
+title_ar: "التعامل مع عدم القدرة على التنبؤ بالمستقبل في ريادة الأعمال"
 slug: "predict-the-future"
 url: "https://longform.asmartbear.com/predict-the-future/"
-pubDate: "Sun, 19 Mar 2023 00:00:00 +0000"
+published_date: "Sun, 19 Mar 2023 00:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "We dramatically, repeatedly fail to predict the future. Does that mean \"strategy\" is senseless? No, it means you need these techniques to navigate a volatile world."
-summary_ar: "We dramatically, repeatedly fail to predict the future. Does that mean \"strategy\" is senseless? No, it means you need these techniques to navigate a volatile world."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Navigating the unpredictability of everything'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Navigating the unpredictability of everything
+# التعامل مع عدم القدرة على التنبؤ بالمستقبل في ريادة الأعمال
 ### Navigating the unpredictability of everything
 
-> **الملخص التنفيذي:** We dramatically, repeatedly fail to predict the future. Does that mean "strategy" is senseless? No, it means you need these techniques to navigate a volatile world.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Navigating the unpredictability of everything'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/predict-the-future/](https://longform.asmartbear.com/predict-the-future/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التعامل مع عدم القدرة على التنبؤ بالمستقبل في ريادة الأعمال تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Navigating the unpredictability of everything
+
+> **Executive Summary:** We dramatically, repeatedly fail to predict the future. Does that mean "strategy" is senseless? No, it means you need these techniques to navigate a volatile world.
+> **Original URL:** [https://longform.asmartbear.com/predict-the-future/](https://longform.asmartbear.com/predict-the-future/)
 
 ![Reaction to the news was mixed, largely because we asked more than one person.](https://public.asmartbear.com/books/anthology/chapters/predict-the-future/d4033print-simple.png)
 
@@ -54,6 +69,7 @@ Mauboussin and Callahan suggest that one way to increase the accuracy of predict
 Does this method work? They illustrate:
 
 > Here's an example of how the base rate approach can figure into your judgment of TAM. During a conference call in February 2015, Elon Musk, the chairman and chief executive officer (CEO) of Tesla Motors, suggested the company might be able to achieve a **50 percent compound annual growth rate of sales** for the next decade ...  
+>   
 > ... The base rate method ... simply asks: "What happened to other companies when they were in a comparable position?" [Figure 4] shows the distribution of 10-year sales growth rates for more than **1,200 instances of companies of a similar size as Tesla is now**, measured by sales. The average growth rate, adjusted for inflation, is **less than three percent**, with a standard deviation below eight percent. Further, **no companies achieved a compound annual growth rate (CAGR) in excess of 40 percent** ... We have placed a star at the growth rate Musk mentions.  
 > --Michael Mauboussin & Dan Callahan in *Total Addressable Market*, Credit Suisse 2015 *(my emphasis)*
 
@@ -118,6 +134,7 @@ Still not "chat," but rather a "searchable log of knowledge." It's too hard, But
 Butterfield was certain that merely "building yet another chat system" was a bad strategy, whereas "transforming communications" was a good strategy:
 
 > We are unlikely to be able to sell "a group chat system" very well: there are just not enough people shopping for group chat.  
+>   
 > That's why what we're selling is organizational transformation.  
 > --Stewart Butterfield, Slack founder, [in 2014](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 

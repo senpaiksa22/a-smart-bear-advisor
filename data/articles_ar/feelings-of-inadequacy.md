@@ -1,22 +1,37 @@
 ---
 id: 133
 title_en: "Intense Asymmetry and Self-Flagellation"
-title_ar: "Intense Asymmetry and Self-Flagellation"
+title_ar: "عدم التماثل القاسي وجلد الذات المستمر لدى رواد الأعمال"
 slug: "feelings-of-inadequacy"
 url: "https://longform.asmartbear.com/feelings-of-inadequacy/"
-pubDate: "Tue, 20 Mar 2012 00:00:00 +0000"
+published_date: "Tue, 20 Mar 2012 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Erica Douglass sold her company for $1M, yet still struggles with self-worth; why driven people can't escape Impostor Syndrome."
-summary_ar: "Erica Douglass sold her company for $1M, yet still struggles with self-worth; why driven people can't escape Impostor Syndrome."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Intense Asymmetry and Self-Flagellation'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Intense Asymmetry and Self-Flagellation
+# عدم التماثل القاسي وجلد الذات المستمر لدى رواد الأعمال
 ### Intense Asymmetry and Self-Flagellation
 
-> **الملخص التنفيذي:** Erica Douglass sold her company for $1M, yet still struggles with self-worth; why driven people can't escape Impostor Syndrome.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Intense Asymmetry and Self-Flagellation'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/feelings-of-inadequacy/](https://longform.asmartbear.com/feelings-of-inadequacy/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** عدم التماثل القاسي وجلد الذات المستمر لدى رواد الأعمال تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Intense Asymmetry and Self-Flagellation
+
+> **Executive Summary:** Erica Douglass sold her company for $1M, yet still struggles with self-worth; why driven people can't escape Impostor Syndrome.
+> **Original URL:** [https://longform.asmartbear.com/feelings-of-inadequacy/](https://longform.asmartbear.com/feelings-of-inadequacy/)
 
 ![only picture high definition shows are as bad as always](https://public.asmartbear.com/books/anthology/chapters/feelings-of-inadequacy/d5713print-simple.png)
 

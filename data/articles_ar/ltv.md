@@ -1,22 +1,37 @@
 ---
 id: 113
 title_en: "Why I don't like the LTV metric (LifeTime Value)"
-title_ar: "Why I don't like the LTV metric (LifeTime Value)"
+title_ar: "لماذا لا أثق في مقياس القيمة الدائمة للعميل (LTV) التقليدي؟"
 slug: "ltv"
 url: "https://longform.asmartbear.com/ltv/"
-pubDate: "Mon, 07 Oct 2013 00:00:00 +0000"
+published_date: "Mon, 07 Oct 2013 00:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "The LTV metric overcomplicates and misleads. Learn why you should use other SaaS metrics instead."
-summary_ar: "The LTV metric overcomplicates and misleads. Learn why you should use other SaaS metrics instead."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Why I don't like the LTV metric (LifeTime Value)'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Why I don't like the LTV metric (LifeTime Value)
+# لماذا لا أثق في مقياس القيمة الدائمة للعميل (LTV) التقليدي؟
 ### Why I don't like the LTV metric (LifeTime Value)
 
-> **الملخص التنفيذي:** The LTV metric overcomplicates and misleads. Learn why you should use other SaaS metrics instead.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Why I don't like the LTV metric (LifeTime Value)'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/ltv/](https://longform.asmartbear.com/ltv/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** لماذا لا أثق في مقياس القيمة الدائمة للعميل (LTV) التقليدي؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Why I don't like the LTV metric (LifeTime Value)
+
+> **Executive Summary:** The LTV metric overcomplicates and misleads. Learn why you should use other SaaS metrics instead.
+> **Original URL:** [https://longform.asmartbear.com/ltv/](https://longform.asmartbear.com/ltv/)
 
 ![What's really exciting is if you extend this out five years, we own around 400% of the market!](https://public.asmartbear.com/books/anthology/chapters/ltv/d6965print-simple.png)
 

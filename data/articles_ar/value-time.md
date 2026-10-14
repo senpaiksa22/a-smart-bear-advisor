@@ -1,22 +1,37 @@
 ---
 id: 136
 title_en: "What is the value of one hour of a startup founder's time?"
-title_ar: "What is the value of one hour of a startup founder's time?"
+title_ar: "القيمة الحقيقية لساعة واحدة من وقت مؤسس الشركة الناشئة"
 slug: "value-time"
 url: "https://longform.asmartbear.com/value-time/"
-pubDate: "Tue, 10 Jan 2012 00:00:00 +0000"
+published_date: "Tue, 10 Jan 2012 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Startup founders undervalue their time. Here's why you should act like it's $1000/hr, and how it changes the decisions you make."
-summary_ar: "Startup founders undervalue their time. Here's why you should act like it's $1000/hr, and how it changes the decisions you make."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'القيمة الحقيقية لساعة واحدة من وقت مؤسس الشركة الناشئة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# What is the value of one hour of a startup founder's time?
+# القيمة الحقيقية لساعة واحدة من وقت مؤسس الشركة الناشئة
 ### What is the value of one hour of a startup founder's time?
 
-> **الملخص التنفيذي:** Startup founders undervalue their time. Here's why you should act like it's $1000/hr, and how it changes the decisions you make.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'القيمة الحقيقية لساعة واحدة من وقت مؤسس الشركة الناشئة'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/value-time/](https://longform.asmartbear.com/value-time/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** القيمة الحقيقية لساعة واحدة من وقت مؤسس الشركة الناشئة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# What is the value of one hour of a startup founder's time?
+
+> **Executive Summary:** Startup founders undervalue their time. Here's why you should act like it's $1000/hr, and how it changes the decisions you make.
+> **Original URL:** [https://longform.asmartbear.com/value-time/](https://longform.asmartbear.com/value-time/)
 
 ![due to recent economic conditions picture worth has dropped to an all time low of 842 words](https://public.asmartbear.com/books/anthology/chapters/value-time/d3502print-simple.png)
 

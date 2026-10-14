@@ -1,22 +1,37 @@
 ---
 id: 160
 title_en: "Human + Fallible = Love; Corporate + Sterile = Refund"
-title_ar: "Human + Fallible = Love; Corporate + Sterile = Refund"
+title_ar: "توقف عن استخدام كلمة 'أصيل' أو 'حقيقي' كشعار تسويقي"
 slug: "authentic"
 url: "https://longform.asmartbear.com/authentic/"
-pubDate: "Mon, 28 Jun 2010 00:00:00 +0000"
+published_date: "Mon, 28 Jun 2010 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "People love and forgive humans, not corporations. Expose your humanity to earn loyal, happy customers, even when you mess up."
-summary_ar: "People love and forgive humans, not corporations. Expose your humanity to earn loyal, happy customers, even when you mess up."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'توقف عن استخدام كلمة 'أصيل' أو 'حقيقي' كشعار تسويقي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Human + Fallible = Love; Corporate + Sterile = Refund
+# توقف عن استخدام كلمة 'أصيل' أو 'حقيقي' كشعار تسويقي
 ### Human + Fallible = Love; Corporate + Sterile = Refund
 
-> **الملخص التنفيذي:** People love and forgive humans, not corporations. Expose your humanity to earn loyal, happy customers, even when you mess up.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'توقف عن استخدام كلمة 'أصيل' أو 'حقيقي' كشعار تسويقي'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/authentic/](https://longform.asmartbear.com/authentic/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** توقف عن استخدام كلمة 'أصيل' أو 'حقيقي' كشعار تسويقي تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Human + Fallible = Love; Corporate + Sterile = Refund
+
+> **Executive Summary:** People love and forgive humans, not corporations. Expose your humanity to earn loyal, happy customers, even when you mess up.
+> **Original URL:** [https://longform.asmartbear.com/authentic/](https://longform.asmartbear.com/authentic/)
 
 ![hit her with lower expectations first](https://public.asmartbear.com/books/anthology/chapters/authentic/d9174print-simple.png)
 

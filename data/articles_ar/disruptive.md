@@ -1,22 +1,37 @@
 ---
 id: 165
 title_en: "Not disruptive, and proud of it"
-title_ar: "Not disruptive, and proud of it"
+title_ar: "لسنا شركة ثورية تقلب الموازين، وفخورون بذلك تماماً"
 slug: "disruptive"
 url: "https://longform.asmartbear.com/disruptive/"
-pubDate: "Mon, 12 Apr 2010 00:00:00 +0000"
+published_date: "Mon, 12 Apr 2010 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "I remember \"disruptive\" when it was called a \"paradigm shift.\" You should be worrying more about making something people want to buy, and less about disrupting everything."
-summary_ar: "I remember \"disruptive\" when it was called a \"paradigm shift.\" You should be worrying more about making something people want to buy, and less about disrupting everything."
+summary_ar: "I remember \"
 ---
 
-# Not disruptive, and proud of it
+# لسنا شركة ثورية تقلب الموازين، وفخورون بذلك تماماً
 ### Not disruptive, and proud of it
 
-> **الملخص التنفيذي:** I remember "disruptive" when it was called a "paradigm shift." You should be worrying more about making something people want to buy, and less about disrupting everything.
+> **الملخص التنفيذي:** I remember \
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/disruptive/](https://longform.asmartbear.com/disruptive/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** لسنا شركة ثورية تقلب الموازين، وفخورون بذلك تماماً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Not disruptive, and proud of it
+
+> **Executive Summary:** I remember "disruptive" when it was called a "paradigm shift." You should be worrying more about making something people want to buy, and less about disrupting everything.
+> **Original URL:** [https://longform.asmartbear.com/disruptive/](https://longform.asmartbear.com/disruptive/)
 
 The phrase "paradigm shift" died during the 2000s tech-bubble along with "portal" and "think outside the box," and yet the underlying concept never died. For the past ten years it's been called "being disruptive."
 

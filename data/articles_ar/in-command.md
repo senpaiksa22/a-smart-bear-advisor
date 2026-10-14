@@ -1,22 +1,37 @@
 ---
 id: 52
 title_en: "In command"
-title_ar: "In command"
+title_ar: "كيف تكون متحكماً في دفة شركتك دون أن تكون دكتاتوراً متسلطاً"
 slug: "in-command"
 url: "https://longform.asmartbear.com/in-command/"
-pubDate: "Sun, 30 Jul 2023 00:00:00 +0000"
+published_date: "Sun, 30 Jul 2023 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Being \"in control\" is impossible, perhaps not even desirable. Being \"in command\" is ideal: honest, introspective, agile, aware, and proactive."
-summary_ar: "Being \"in control\" is impossible, perhaps not even desirable. Being \"in command\" is ideal: honest, introspective, agile, aware, and proactive."
+summary_ar: "Being \"
 ---
 
-# In command
+# كيف تكون متحكماً في دفة شركتك دون أن تكون دكتاتوراً متسلطاً
 ### In command
 
-> **الملخص التنفيذي:** Being "in control" is impossible, perhaps not even desirable. Being "in command" is ideal: honest, introspective, agile, aware, and proactive.
+> **الملخص التنفيذي:** Being \
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/in-command/](https://longform.asmartbear.com/in-command/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كيف تكون متحكماً في دفة شركتك دون أن تكون دكتاتوراً متسلطاً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# In command
+
+> **Executive Summary:** Being "in control" is impossible, perhaps not even desirable. Being "in command" is ideal: honest, introspective, agile, aware, and proactive.
+> **Original URL:** [https://longform.asmartbear.com/in-command/](https://longform.asmartbear.com/in-command/)
 
 ![stocks rose slightly in early trading then plummeted on news that stocks rose slightly in early trading](https://public.asmartbear.com/books/anthology/chapters/in-command/d0710print-simple.png)
 

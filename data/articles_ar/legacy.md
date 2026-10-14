@@ -1,22 +1,37 @@
 ---
 id: 27
 title_en: "Legacy"
-title_ar: "Legacy"
+title_ar: "الإرث المؤسسي: ما الذي تتركه وراءك عندما تبني وتبيع شركة؟"
 slug: "legacy"
 url: "https://longform.asmartbear.com/legacy/"
-pubDate: "Sun, 08 Sep 2024 00:00:00 +0000"
+published_date: "Sun, 08 Sep 2024 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "Humans have always tried to live forever. Maybe you can, but not in the way you imagine."
-summary_ar: "Humans have always tried to live forever. Maybe you can, but not in the way you imagine."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الإرث المؤسسي: ما الذي تتركه وراءك عندما تبني وتبيع شركة؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Legacy
+# الإرث المؤسسي: ما الذي تتركه وراءك عندما تبني وتبيع شركة؟
 ### Legacy
 
-> **الملخص التنفيذي:** Humans have always tried to live forever. Maybe you can, but not in the way you imagine.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'الإرث المؤسسي: ما الذي تتركه وراءك عندما تبني وتبيع شركة؟'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/legacy/](https://longform.asmartbear.com/legacy/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الإرث المؤسسي: ما الذي تتركه وراءك عندما تبني وتبيع شركة؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Legacy
+
+> **Executive Summary:** Humans have always tried to live forever. Maybe you can, but not in the way you imagine.
+> **Original URL:** [https://longform.asmartbear.com/legacy/](https://longform.asmartbear.com/legacy/)
 
 The first time you die is when your heart stops beating.
 

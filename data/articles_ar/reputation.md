@@ -1,22 +1,37 @@
 ---
 id: 156
 title_en: "Reputation isn't as powerful as you imagine"
-title_ar: "Reputation isn't as powerful as you imagine"
+title_ar: "السمعة وحدها ليست بالقوة التي تتخيلها لضمان المبيعات"
 slug: "reputation"
 url: "https://longform.asmartbear.com/reputation/"
-pubDate: "Mon, 25 Oct 2010 00:00:00 +0000"
+published_date: "Mon, 25 Oct 2010 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Blogger with tens of thousands of subscribers launches a new venture… and gets only 2 signups. Not the advantage you thought it was."
-summary_ar: "Blogger with tens of thousands of subscribers launches a new venture… and gets only 2 signups. Not the advantage you thought it was."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'السمعة وحدها ليست بالقوة التي تتخيلها لضمان المبيعات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Reputation isn't as powerful as you imagine
+# السمعة وحدها ليست بالقوة التي تتخيلها لضمان المبيعات
 ### Reputation isn't as powerful as you imagine
 
-> **الملخص التنفيذي:** Blogger with tens of thousands of subscribers launches a new venture… and gets only 2 signups. Not the advantage you thought it was.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'السمعة وحدها ليست بالقوة التي تتخيلها لضمان المبيعات'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/reputation/](https://longform.asmartbear.com/reputation/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** السمعة وحدها ليست بالقوة التي تتخيلها لضمان المبيعات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Reputation isn't as powerful as you imagine
+
+> **Executive Summary:** Blogger with tens of thousands of subscribers launches a new venture… and gets only 2 signups. Not the advantage you thought it was.
+> **Original URL:** [https://longform.asmartbear.com/reputation/](https://longform.asmartbear.com/reputation/)
 
 ![the fame fine and moneys great but sometimes i miss plumbing](https://public.asmartbear.com/books/anthology/chapters/reputation/d5952print-simple.png)
 

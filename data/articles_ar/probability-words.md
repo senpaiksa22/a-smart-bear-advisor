@@ -1,22 +1,37 @@
 ---
 id: 54
 title_en: "For probabilities, use Fermi numbers, not words"
-title_ar: "For probabilities, use Fermi numbers, not words"
+title_ar: "لتقدير الاحتمالات بدقة: استخدم أرقام فيرمي بدلاً من الكلمات المبهمة"
 slug: "probability-words"
 url: "https://longform.asmartbear.com/probability-words/"
-pubDate: "Sun, 02 Jul 2023 00:00:00 +0000"
+published_date: "Sun, 02 Jul 2023 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Don't use phrases like \"unlikely\" or \"almost certainly.\" Here's real-world data showing why not, and what to do instead."
-summary_ar: "Don't use phrases like \"unlikely\" or \"almost certainly.\" Here's real-world data showing why not, and what to do instead."
+summary_ar: "Don't use phrases like \"
 ---
 
-# For probabilities, use Fermi numbers, not words
+# لتقدير الاحتمالات بدقة: استخدم أرقام فيرمي بدلاً من الكلمات المبهمة
 ### For probabilities, use Fermi numbers, not words
 
-> **الملخص التنفيذي:** Don't use phrases like "unlikely" or "almost certainly." Here's real-world data showing why not, and what to do instead.
+> **الملخص التنفيذي:** Don't use phrases like \
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/probability-words/](https://longform.asmartbear.com/probability-words/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** لتقدير الاحتمالات بدقة: استخدم أرقام فيرمي بدلاً من الكلمات المبهمة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# For probabilities, use Fermi numbers, not words
+
+> **Executive Summary:** Don't use phrases like "unlikely" or "almost certainly." Here's real-world data showing why not, and what to do instead.
+> **Original URL:** [https://longform.asmartbear.com/probability-words/](https://longform.asmartbear.com/probability-words/)
 
 ![Study: Distribution of numeric probabilities implied by probability-words](https://public.asmartbear.com/books/anthology/chapters/probability-words/fwwsqodxgaax-ff-simple.png)
 

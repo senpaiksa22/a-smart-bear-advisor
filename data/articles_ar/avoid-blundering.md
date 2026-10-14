@@ -1,22 +1,37 @@
 ---
 id: 36
 title_en: "Avoid blundering: 80% of a winning strategy"
-title_ar: "Avoid blundering: 80% of a winning strategy"
+title_ar: "تجنب الحماقات والأخطاء القاتلة: 80% من استراتيجية الفوز"
 slug: "avoid-blundering"
 url: "https://longform.asmartbear.com/avoid-blundering/"
-pubDate: "Sun, 31 Mar 2024 00:00:00 +0000"
+published_date: "Sun, 31 Mar 2024 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "Why do startups typically fail?  It turns out that \"avoiding those things\" is already a plan for success."
-summary_ar: "Why do startups typically fail?  It turns out that \"avoiding those things\" is already a plan for success."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تجنب الحماقات والأخطاء القاتلة: 80% من استراتيجية الفوز'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Avoid blundering: 80% of a winning strategy
+# تجنب الحماقات والأخطاء القاتلة: 80% من استراتيجية الفوز
 ### Avoid blundering: 80% of a winning strategy
 
-> **الملخص التنفيذي:** Why do startups typically fail?  It turns out that "avoiding those things" is already a plan for success.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تجنب الحماقات والأخطاء القاتلة: 80% من استراتيجية الفوز'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/avoid-blundering/](https://longform.asmartbear.com/avoid-blundering/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** تجنب الحماقات والأخطاء القاتلة: 80% من استراتيجية الفوز تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Avoid blundering: 80% of a winning strategy
+
+> **Executive Summary:** Why do startups typically fail?  It turns out that "avoiding those things" is already a plan for success.
+> **Original URL:** [https://longform.asmartbear.com/avoid-blundering/](https://longform.asmartbear.com/avoid-blundering/)
 
 ![pooh way pas oh bother](https://public.asmartbear.com/books/anthology/chapters/avoid-blundering/d8781print-simple.png)
 
@@ -38,8 +53,11 @@ What if 80% of winning comes from: Not blundering.
 Chess Grandmaster and chess-world-famous teacher / coach Ben Finegold has a simple explanation for who wins amateur chess games:
 
 > What most people say is: "That guy is better than that guy, so that guy won."  
+>   
 > But that's *not* why that guy won. Normally the game is very close, and then someone blunders and now it's over.  
+>   
 > If you look at it with a computer, it will say "no one's winning" and then "white's winning" and then "black's winning" and then "no one's winning again" and then someone blunders and they lose.  
+>   
 > --Ben Finegold, [YouTube](https://youtu.be/EDgRR7SGf0M?si=aVoR9dcmmvd6zgbZ&t=282) _(with light editing)_
 
 Not strategy, not memorizing opening lines, not practicing your end-game technique, not studying the Great Games of History, not drilling with puzzles to get better at tactics, ... just *blundering*. Yes, _good_ chess players need to do all that stuff, but we scrubs just need to "not blunder."

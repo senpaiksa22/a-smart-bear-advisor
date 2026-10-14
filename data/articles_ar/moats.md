@@ -1,22 +1,37 @@
 ---
 id: 68
 title_en: "Moats: Durable competitive advantage"
-title_ar: "Moats: Durable competitive advantage"
+title_ar: "بناء الخنادق التنافسية المستدامة والمزايا التي يستحيل تقليدها"
 slug: "moats"
 url: "https://longform.asmartbear.com/moats/"
-pubDate: "Sat, 07 May 2022 00:00:00 +0000"
+published_date: "Sat, 07 May 2022 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Industries commoditize over time, delivering similar products at similar prices resulting in low profit. Moats are the antidote; your strategy must create some."
-summary_ar: "Industries commoditize over time, delivering similar products at similar prices resulting in low profit. Moats are the antidote; your strategy must create some."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'بناء الخنادق التنافسية المستدامة والمزايا التي يستحيل تقليدها'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Moats: Durable competitive advantage
+# بناء الخنادق التنافسية المستدامة والمزايا التي يستحيل تقليدها
 ### Moats: Durable competitive advantage
 
-> **الملخص التنفيذي:** Industries commoditize over time, delivering similar products at similar prices resulting in low profit. Moats are the antidote; your strategy must create some.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'بناء الخنادق التنافسية المستدامة والمزايا التي يستحيل تقليدها'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/moats/](https://longform.asmartbear.com/moats/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** بناء الخنادق التنافسية المستدامة والمزايا التي يستحيل تقليدها تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Moats: Durable competitive advantage
+
+> **Executive Summary:** Industries commoditize over time, delivering similar products at similar prices resulting in low profit. Moats are the antidote; your strategy must create some.
+> **Original URL:** [https://longform.asmartbear.com/moats/](https://longform.asmartbear.com/moats/)
 
 ![location separates from competition](https://public.asmartbear.com/books/anthology/chapters/moats/d8416print-simple.png)
 

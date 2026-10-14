@@ -1,22 +1,37 @@
 ---
 id: 183
 title_en: "Sacrifice your health for your startup"
-title_ar: "Sacrifice your health for your startup"
+title_ar: "التضحية بصحتك من أجل شركتك الناشئة: الوهم القاتل الذي يجب تجنبه"
 slug: "sacrifice-your-health-for-your-startup"
 url: "https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/"
-pubDate: "Mon, 29 Jun 2009 00:00:00 +0000"
+published_date: "Mon, 29 Jun 2009 00:00:00 +0000"
 category_en: "Foundational Philosophy & Startup Wisdom"
 category_ar: "فلسفة ريادة الأعمال والحكمة التأسيسية"
 summary_en: "Maximizing your chance for success means sacrificing health and family. This sounds controversial, but it's not just me."
-summary_ar: "Maximizing your chance for success means sacrificing health and family. This sounds controversial, but it's not just me."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التضحية بصحتك من أجل شركتك الناشئة: الوهم القاتل الذي يجب تجنبه'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Sacrifice your health for your startup
+# التضحية بصحتك من أجل شركتك الناشئة: الوهم القاتل الذي يجب تجنبه
 ### Sacrifice your health for your startup
 
-> **الملخص التنفيذي:** Maximizing your chance for success means sacrificing health and family. This sounds controversial, but it's not just me.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'التضحية بصحتك من أجل شركتك الناشئة: الوهم القاتل الذي يجب تجنبه'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** فلسفة ريادة الأعمال والحكمة التأسيسية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** التضحية بصحتك من أجل شركتك الناشئة: الوهم القاتل الذي يجب تجنبه تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Sacrifice your health for your startup
+
+> **Executive Summary:** Maximizing your chance for success means sacrificing health and family. This sounds controversial, but it's not just me.
+> **Original URL:** [https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/)
 
 ![cassette surgery pencil](https://public.asmartbear.com/books/anthology/chapters/sacrifice-your-health-for-your-startup/d8328print-simple.png)
 

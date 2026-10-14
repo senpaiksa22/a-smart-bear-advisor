@@ -1,22 +1,37 @@
 ---
 id: 108
 title_en: "More money if you do, more money if you don't"
-title_ar: "More money if you do, more money if you don't"
+title_ar: "المزيد من المال إذا نجحت، والمزيد من المال حتى لو لم تفعل"
 slug: "more-money"
 url: "https://longform.asmartbear.com/more-money/"
-pubDate: "Tue, 07 Jan 2014 00:00:00 +0000"
+published_date: "Tue, 07 Jan 2014 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "A business always takes more money than you expect, even when you take this fact into account. Here's why."
-summary_ar: "A business always takes more money than you expect, even when you take this fact into account. Here's why."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: More money if you do, more money if you don't'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# More money if you do, more money if you don't
+# المزيد من المال إذا نجحت، والمزيد من المال حتى لو لم تفعل
 ### More money if you do, more money if you don't
 
-> **الملخص التنفيذي:** A business always takes more money than you expect, even when you take this fact into account. Here's why.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: More money if you do, more money if you don't'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/more-money/](https://longform.asmartbear.com/more-money/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** المزيد من المال إذا نجحت، والمزيد من المال حتى لو لم تفعل تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# More money if you do, more money if you don't
+
+> **Executive Summary:** A business always takes more money than you expect, even when you take this fact into account. Here's why.
+> **Original URL:** [https://longform.asmartbear.com/more-money/](https://longform.asmartbear.com/more-money/)
 
 ![our investments allowed sustain momentum then larry messed up](https://public.asmartbear.com/books/anthology/chapters/more-money/d6614print-simple.png)
 

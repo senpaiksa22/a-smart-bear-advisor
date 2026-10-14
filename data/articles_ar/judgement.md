@@ -1,22 +1,37 @@
 ---
 id: 96
 title_en: "On the value of Judgement"
-title_ar: "On the value of Judgement"
+title_ar: "حول القيمة الحقيقية لحسن التقدير والحكمة الريادية"
 slug: "judgement"
 url: "https://longform.asmartbear.com/judgement/"
-pubDate: "Mon, 08 Jun 2015 08:00:00 +0000"
+published_date: "Mon, 08 Jun 2015 08:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "We're told not to judge, lest we be judged. But we are constantly judged by customers, employees, family, media, and investors."
-summary_ar: "We're told not to judge, lest we be judged. But we are constantly judged by customers, employees, family, media, and investors."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'حول القيمة الحقيقية لحسن التقدير والحكمة الريادية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# On the value of Judgement
+# حول القيمة الحقيقية لحسن التقدير والحكمة الريادية
 ### On the value of Judgement
 
-> **الملخص التنفيذي:** We're told not to judge, lest we be judged. But we are constantly judged by customers, employees, family, media, and investors.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'حول القيمة الحقيقية لحسن التقدير والحكمة الريادية'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/judgement/](https://longform.asmartbear.com/judgement/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** حول القيمة الحقيقية لحسن التقدير والحكمة الريادية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# On the value of Judgement
+
+> **Executive Summary:** We're told not to judge, lest we be judged. But we are constantly judged by customers, employees, family, media, and investors.
+> **Original URL:** [https://longform.asmartbear.com/judgement/](https://longform.asmartbear.com/judgement/)
 
 ![Contempt? I wish. The judge just said he was very disappointed in me.](https://longform.asmartbear.com/judgement/e74aff52.png)
 

@@ -1,22 +1,37 @@
 ---
 id: 212
 title_en: "Selling to the Bottom"
-title_ar: "Selling to the Bottom"
+title_ar: "البيع للطبقات الأقل سعراً في السوق: مخاطر استهداف العملاء الأرخص"
 slug: "selling-to-the-bottom"
 url: "https://longform.asmartbear.com/selling-to-the-bottom/"
-pubDate: "Thu, 25 Jan 2007 08:00:00 +0000"
+published_date: "Thu, 25 Jan 2007 08:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "More than a decade before \"Product-Led Growth\" became a thing, I was selling non-recurring-revenue-software to Fortune 500 companies from the bottom up."
-summary_ar: "More than a decade before \"Product-Led Growth\" became a thing, I was selling non-recurring-revenue-software to Fortune 500 companies from the bottom up."
+summary_ar: "More than a decade before \"
 ---
 
-# Selling to the Bottom
+# البيع للطبقات الأقل سعراً في السوق: مخاطر استهداف العملاء الأرخص
 ### Selling to the Bottom
 
-> **الملخص التنفيذي:** More than a decade before "Product-Led Growth" became a thing, I was selling non-recurring-revenue-software to Fortune 500 companies from the bottom up.
+> **الملخص التنفيذي:** More than a decade before \
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/selling-to-the-bottom/](https://longform.asmartbear.com/selling-to-the-bottom/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** البيع للطبقات الأقل سعراً في السوق: مخاطر استهداف العملاء الأرخص تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Selling to the Bottom
+
+> **Executive Summary:** More than a decade before "Product-Led Growth" became a thing, I was selling non-recurring-revenue-software to Fortune 500 companies from the bottom up.
+> **Original URL:** [https://longform.asmartbear.com/selling-to-the-bottom/](https://longform.asmartbear.com/selling-to-the-bottom/)
 
 ![non-dairy creamer packet with trash ingredients](https://longform.asmartbear.com/selling-to-the-bottom/be77da18.png)
 

@@ -1,22 +1,37 @@
 ---
 id: 42
 title_en: "Selling to Carol: Why targeting an ICP brings 10x more customers than you expected"
-title_ar: "Selling to Carol: Why targeting an ICP brings 10x more customers than you expected"
+title_ar: "البيع لكارول: لماذا يجلب استهداف العميل المثالي (ICP) عملاء أكثر بـ 10 أضعاف"
 slug: "icp-ideal-customer-persona"
 url: "https://longform.asmartbear.com/icp-ideal-customer-persona/"
-pubDate: "Sun, 07 Jan 2024 00:00:00 +0000"
+published_date: "Sun, 07 Jan 2024 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Targeting your \"Ideal Customer Profile\" (ICP) is the best way to differentiate and win sales, but does it limit your target market?"
-summary_ar: "Targeting your \"Ideal Customer Profile\" (ICP) is the best way to differentiate and win sales, but does it limit your target market?"
+summary_ar: "Targeting your \"
 ---
 
-# Selling to Carol: Why targeting an ICP brings 10x more customers than you expected
+# البيع لكارول: لماذا يجلب استهداف العميل المثالي (ICP) عملاء أكثر بـ 10 أضعاف
 ### Selling to Carol: Why targeting an ICP brings 10x more customers than you expected
 
-> **الملخص التنفيذي:** Targeting your "Ideal Customer Profile" (ICP) is the best way to differentiate and win sales, but does it limit your target market?
+> **الملخص التنفيذي:** Targeting your \
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/icp-ideal-customer-persona/](https://longform.asmartbear.com/icp-ideal-customer-persona/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** البيع لكارول: لماذا يجلب استهداف العميل المثالي (ICP) عملاء أكثر بـ 10 أضعاف تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Selling to Carol: Why targeting an ICP brings 10x more customers than you expected
+
+> **Executive Summary:** Targeting your "Ideal Customer Profile" (ICP) is the best way to differentiate and win sales, but does it limit your target market?
+> **Original URL:** [https://longform.asmartbear.com/icp-ideal-customer-persona/](https://longform.asmartbear.com/icp-ideal-customer-persona/)
 
 ![its not that i dont like you ted you just dont fit my target demographic](https://public.asmartbear.com/books/anthology/chapters/icp-ideal-customer-persona/d0106print-2-simple.png)
 

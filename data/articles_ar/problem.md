@@ -1,22 +1,37 @@
 ---
 id: 58
 title_en: "Excuse me, is there a problem?"
-title_ar: "Excuse me, is there a problem?"
+title_ar: "عفواً، هل توجد مشكلة حقيقية أم أنك تخترع حلولاً لوهم؟"
 slug: "problem"
 url: "https://longform.asmartbear.com/problem/"
-pubDate: "Sun, 16 Apr 2023 00:00:00 +0000"
+published_date: "Sun, 16 Apr 2023 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Many startups fail despite identifying a real problem and building a product that solves that problem. This explains why, so you can avoid their fate."
-summary_ar: "Many startups fail despite identifying a real problem and building a product that solves that problem. This explains why, so you can avoid their fate."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Excuse me, is there a problem?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Excuse me, is there a problem?
+# عفواً، هل توجد مشكلة حقيقية أم أنك تخترع حلولاً لوهم؟
 ### Excuse me, is there a problem?
 
-> **الملخص التنفيذي:** Many startups fail despite identifying a real problem and building a product that solves that problem. This explains why, so you can avoid their fate.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Excuse me, is there a problem?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/problem/](https://longform.asmartbear.com/problem/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** عفواً، هل توجد مشكلة حقيقية أم أنك تخترع حلولاً لوهم؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Excuse me, is there a problem?
+
+> **Executive Summary:** Many startups fail despite identifying a real problem and building a product that solves that problem. This explains why, so you can avoid their fate.
+> **Original URL:** [https://longform.asmartbear.com/problem/](https://longform.asmartbear.com/problem/)
 
 ![Tweet: Dude the PTSD hit me so hard while reading this. I've heard all those excuses and make all those mistakes!](https://public.asmartbear.com/books/anthology/chapters/problem/tweet-simple.png)
 
@@ -90,6 +105,7 @@ If a person does not already believe they have a problem, they will not be surfi
 Sam Altman is the co-founder and CEO of OpenAI, and before that ran the Y-Combinator accelerator, and is therefore one of the world's most experienced experts on startups. He previously co-founded Loopt--a location-based, mobile social-network app. Oh look, those are *all* the keywords of 2005, when it was founded. It raised $30M and failed. When asked what happened, he said:
 
 > The market wasn't there. You can't force a market. You can have an idea, and as a startup part of your job is to be ahead of it, and sometimes you're right about that, and sometimes you're not.  
+>   
 > Sometimes you make Loopt, and sometimes you make OpenAI. You just keep trying.  
 > --Sam Altman, [interviewed by Kara Swisher](https://podcasts.apple.com/us/podcast/on-with-kara-swisher/id1643307527?i=1000605522804)
 

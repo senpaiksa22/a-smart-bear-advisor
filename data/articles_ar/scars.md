@@ -1,22 +1,37 @@
 ---
 id: 135
 title_en: "Scars"
-title_ar: "Scars"
+title_ar: "الندوب الريادية: الدروس التي لا تتعلمها إلا بعد أن تُجرح في السوق"
 slug: "scars"
 url: "https://longform.asmartbear.com/scars/"
-pubDate: "Tue, 31 Jan 2012 00:00:00 +0000"
+published_date: "Tue, 31 Jan 2012 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Our emotional baggage and experience make us unique, but also serve as blinders."
-summary_ar: "Our emotional baggage and experience make us unique, but also serve as blinders."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Scars'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Scars
+# الندوب الريادية: الدروس التي لا تتعلمها إلا بعد أن تُجرح في السوق
 ### Scars
 
-> **الملخص التنفيذي:** Our emotional baggage and experience make us unique, but also serve as blinders.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Scars'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/scars/](https://longform.asmartbear.com/scars/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الندوب الريادية: الدروس التي لا تتعلمها إلا بعد أن تُجرح في السوق تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Scars
+
+> **Executive Summary:** Our emotional baggage and experience make us unique, but also serve as blinders.
+> **Original URL:** [https://longform.asmartbear.com/scars/](https://longform.asmartbear.com/scars/)
 
 ![insecurity desk](https://public.asmartbear.com/books/anthology/chapters/scars/d1505print-simple.png)
 

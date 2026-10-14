@@ -1,22 +1,37 @@
 ---
 id: 64
 title_en: "Binstack: Making a maximal multi-dimensional decision"
-title_ar: "Binstack: Making a maximal multi-dimensional decision"
+title_ar: "مصفوفة Binstack: اتخاذ القرارات المعقدة متعددة الأبعاد"
 slug: "maximized-decision"
 url: "https://longform.asmartbear.com/maximized-decision/"
-pubDate: "Sat, 02 Jul 2022 00:00:00 +0000"
+published_date: "Sat, 02 Jul 2022 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Binstack is a technique for selecting the \"single most impactful\" solution when there are multiple, incomparable dimensions to evaluate."
-summary_ar: "Binstack is a technique for selecting the \"single most impactful\" solution when there are multiple, incomparable dimensions to evaluate."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'مصفوفة Binstack: اتخاذ القرارات المعقدة متعددة الأبعاد'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Binstack: Making a maximal multi-dimensional decision
+# مصفوفة Binstack: اتخاذ القرارات المعقدة متعددة الأبعاد
 ### Binstack: Making a maximal multi-dimensional decision
 
-> **الملخص التنفيذي:** Binstack is a technique for selecting the "single most impactful" solution when there are multiple, incomparable dimensions to evaluate.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'مصفوفة Binstack: اتخاذ القرارات المعقدة متعددة الأبعاد'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/maximized-decision/](https://longform.asmartbear.com/maximized-decision/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** مصفوفة Binstack: اتخاذ القرارات المعقدة متعددة الأبعاد تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Binstack: Making a maximal multi-dimensional decision
+
+> **Executive Summary:** Binstack is a technique for selecting the "single most impactful" solution when there are multiple, incomparable dimensions to evaluate.
+> **Original URL:** [https://longform.asmartbear.com/maximized-decision/](https://longform.asmartbear.com/maximized-decision/)
 
 ![do it dont do it we dont care anymore](https://public.asmartbear.com/books/anthology/chapters/maximized-decision/d6618print-simple.png)
 
@@ -163,8 +178,11 @@ With a standard rubric, the fact that all attributes are not equally important d
 "Simply order them" is easy to say but not easy to accomplish, because people get stuck in circular debates:
 
 > "Growth is more important than profit, because it's possible to optimize our costs later."  
+>   
 > "Yeah, but if we're unprofitable on a unit basis we'll cause a cash-crunch, so we have to be profitable first."  
+>   
 > "Yeah, but if it's only about profit, the best thing to do is just 10x prices, and whichever customers stay are super profitable, but that would be wrong."  
+>   
 > "Yeah, but if it's only about revenue, the best thing to do is to sell $1 bills for $0.80, and that would be wrong."
 
 This conflict highlights the "smaller decisions" that still need to be made.

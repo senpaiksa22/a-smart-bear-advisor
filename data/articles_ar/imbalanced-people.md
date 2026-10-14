@@ -1,22 +1,37 @@
 ---
 id: 112
 title_en: "Imbalanced People"
-title_ar: "Imbalanced People"
+title_ar: "الأشخاص غير المتوازنين: لماذا يصنع الشغف غير المتوازن نتائج استثنائية؟"
 slug: "imbalanced-people"
 url: "https://longform.asmartbear.com/imbalanced-people/"
-pubDate: "Tue, 22 Oct 2013 08:00:00 +0000"
+published_date: "Tue, 22 Oct 2013 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "A top contributor isn't just better than ten average ones--they're infinitely superior, driving creativity and innovation that countless others can't match."
-summary_ar: "A top contributor isn't just better than ten average ones--they're infinitely superior, driving creativity and innovation that countless others can't match."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Imbalanced People'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Imbalanced People
+# الأشخاص غير المتوازنين: لماذا يصنع الشغف غير المتوازن نتائج استثنائية؟
 ### Imbalanced People
 
-> **الملخص التنفيذي:** A top contributor isn't just better than ten average ones--they're infinitely superior, driving creativity and innovation that countless others can't match.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Imbalanced People'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/imbalanced-people/](https://longform.asmartbear.com/imbalanced-people/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** الأشخاص غير المتوازنين: لماذا يصنع الشغف غير المتوازن نتائج استثنائية؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Imbalanced People
+
+> **Executive Summary:** A top contributor isn't just better than ten average ones--they're infinitely superior, driving creativity and innovation that countless others can't match.
+> **Original URL:** [https://longform.asmartbear.com/imbalanced-people/](https://longform.asmartbear.com/imbalanced-people/)
 
 ![Cartoon 318ac40c](https://longform.asmartbear.com/imbalanced-people/c3409256.png)
 

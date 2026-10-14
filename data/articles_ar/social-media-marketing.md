@@ -1,22 +1,37 @@
 ---
 id: 179
 title_en: "If Kindergarten were like Social Media Marketing"
-title_ar: "If Kindergarten were like Social Media Marketing"
+title_ar: "لو كان التسويق عبر وسائل التواصل الاجتماعي مثل فصول رياض الأطفال"
 slug: "social-media-marketing"
 url: "https://longform.asmartbear.com/social-media-marketing/"
-pubDate: "Mon, 07 Sep 2009 08:00:00 +0000"
+published_date: "Mon, 07 Sep 2009 08:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "What if we ran kindergarten classes with the same rules as social media marketing?"
-summary_ar: "What if we ran kindergarten classes with the same rules as social media marketing?"
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'لو كان التسويق عبر وسائل التواصل الاجتماعي مثل فصول رياض الأطفال'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# If Kindergarten were like Social Media Marketing
+# لو كان التسويق عبر وسائل التواصل الاجتماعي مثل فصول رياض الأطفال
 ### If Kindergarten were like Social Media Marketing
 
-> **الملخص التنفيذي:** What if we ran kindergarten classes with the same rules as social media marketing?
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'لو كان التسويق عبر وسائل التواصل الاجتماعي مثل فصول رياض الأطفال'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/social-media-marketing/](https://longform.asmartbear.com/social-media-marketing/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** لو كان التسويق عبر وسائل التواصل الاجتماعي مثل فصول رياض الأطفال تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# If Kindergarten were like Social Media Marketing
+
+> **Executive Summary:** What if we ran kindergarten classes with the same rules as social media marketing?
+> **Original URL:** [https://longform.asmartbear.com/social-media-marketing/](https://longform.asmartbear.com/social-media-marketing/)
 
 ![Before you see my grades, I'd like to remind you that I lowered expectations for the fourth quarter some time ago.](https://longform.asmartbear.com/social-media-marketing/271a0f11.png)
 

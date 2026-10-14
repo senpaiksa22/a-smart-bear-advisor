@@ -1,22 +1,37 @@
 ---
 id: 38
 title_en: "AI startups require new strategies: This time it's actually different"
-title_ar: "AI startups require new strategies: This time it's actually different"
+title_ar: "شركات الذكاء الاصطناعي تحتاج استراتيجيات جديدة: هذه المرة الأمر مختلف حقاً"
 slug: "ai-startups"
 url: "https://longform.asmartbear.com/ai-startups/"
-pubDate: "Sun, 03 Mar 2024 00:00:00 +0000"
+published_date: "Sun, 03 Mar 2024 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "The typical dynamics between startups and incumbents do not apply in AI as they did in previous technology revolutions like mobile and the internet.  Ignore this at your peril."
-summary_ar: "The typical dynamics between startups and incumbents do not apply in AI as they did in previous technology revolutions like mobile and the internet.  Ignore this at your peril."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'شركات الذكاء الاصطناعي تحتاج استراتيجيات جديدة: هذه المرة الأمر مختلف حقاً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# AI startups require new strategies: This time it's actually different
+# شركات الذكاء الاصطناعي تحتاج استراتيجيات جديدة: هذه المرة الأمر مختلف حقاً
 ### AI startups require new strategies: This time it's actually different
 
-> **الملخص التنفيذي:** The typical dynamics between startups and incumbents do not apply in AI as they did in previous technology revolutions like mobile and the internet.  Ignore this at your peril.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'شركات الذكاء الاصطناعي تحتاج استراتيجيات جديدة: هذه المرة الأمر مختلف حقاً'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/ai-startups/](https://longform.asmartbear.com/ai-startups/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** شركات الذكاء الاصطناعي تحتاج استراتيجيات جديدة: هذه المرة الأمر مختلف حقاً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# AI startups require new strategies: This time it's actually different
+
+> **Executive Summary:** The typical dynamics between startups and incumbents do not apply in AI as they did in previous technology revolutions like mobile and the internet.  Ignore this at your peril.
+> **Original URL:** [https://longform.asmartbear.com/ai-startups/](https://longform.asmartbear.com/ai-startups/)
 
 ![uprising calendar friday](https://public.asmartbear.com/books/anthology/chapters/ai-startups/d8802print-simple.png)
 

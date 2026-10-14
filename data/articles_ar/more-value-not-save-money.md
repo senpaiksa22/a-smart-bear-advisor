@@ -1,22 +1,37 @@
 ---
 id: 78
 title_en: "How repositioning a product allows you to 8x its price"
-title_ar: "How repositioning a product allows you to 8x its price"
+title_ar: "كيف ترفع سعر منتجك 8 أضعاف بمجرد تغيير تموضعه الذهني"
 slug: "more-value-not-save-money"
 url: "https://longform.asmartbear.com/more-value-not-save-money/"
-pubDate: "Tue, 05 Jun 2018 00:00:00 +0000"
+published_date: "Tue, 05 Jun 2018 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "You can charge much more than you think, if you reposition your value-proposition. Here's how."
-summary_ar: "You can charge much more than you think, if you reposition your value-proposition. Here's how."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How repositioning a product allows you to 8x its price'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# How repositioning a product allows you to 8x its price
+# كيف ترفع سعر منتجك 8 أضعاف بمجرد تغيير تموضعه الذهني
 ### How repositioning a product allows you to 8x its price
 
-> **الملخص التنفيذي:** You can charge much more than you think, if you reposition your value-proposition. Here's how.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How repositioning a product allows you to 8x its price'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/more-value-not-save-money/](https://longform.asmartbear.com/more-value-not-save-money/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** كيف ترفع سعر منتجك 8 أضعاف بمجرد تغيير تموضعه الذهني تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# How repositioning a product allows you to 8x its price
+
+> **Executive Summary:** You can charge much more than you think, if you reposition your value-proposition. Here's how.
+> **Original URL:** [https://longform.asmartbear.com/more-value-not-save-money/](https://longform.asmartbear.com/more-value-not-save-money/)
 
 ![i like it but im looking for more of status symbol any way you can double price](https://public.asmartbear.com/books/anthology/chapters/more-value-not-save-money/d3220print-simple.png)
 
@@ -40,7 +55,7 @@ Marketers have a paramount goal: Growth. Even indirect marketing like brand, eve
 
 **Increasing growth is much more valuable than decreasing cost.** To see why, consider the following two scenarios:
 
-1. CMO reports to the CEO: **I was able to reduce costs 20% this year.** <br/> *The CEO is happy. The CEO's follow-up question is: How will we use those savings to grow faster?* <br/>  <br/>
+1. CMO reports to the CEO: **I was able to reduce costs 20% this year.** <br/> *The CEO is happy. The CEO's follow-up question is: How will we use those savings to grow faster?* <br/>  <br/> 
 2. CMO reports to the CEO: **I was able to increase growth by 20% this year, but it also cost us 20% more to achieve.** <br/> *The CEO pumps her fists, releasing peals of joyous laughter. The value of the company increases non-linearly. The additional revenue growth more than pays for the additional marketing cost that generated it. The CEO's follow-up question is: Can we spend even more? How can we ensure this happens again next year?*
 
 It's always 10x more valuable for a business to *grow faster* than it is for the business to *save money*.

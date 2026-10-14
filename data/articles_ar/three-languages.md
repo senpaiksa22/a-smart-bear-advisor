@@ -1,22 +1,37 @@
 ---
 id: 33
 title_en: "Disentangling the three languages: Customers, Product, Business"
-title_ar: "Disentangling the three languages: Customers, Product, Business"
+title_ar: "فك تشابك اللغات الثلاث في الشركة: العملاء، المنتج، وإدارة الأعمال"
 slug: "three-languages"
 url: "https://longform.asmartbear.com/three-languages/"
-pubDate: "Sun, 26 May 2024 00:00:00 +0000"
+published_date: "Sun, 26 May 2024 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Stop talking past each other. Translate between the three \"languages\" of  customer desires, product features, and business goals."
-summary_ar: "Stop talking past each other. Translate between the three \"languages\" of  customer desires, product features, and business goals."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'فك تشابك اللغات الثلاث في الشركة: العملاء، المنتج، وإدارة الأعمال'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Disentangling the three languages: Customers, Product, Business
+# فك تشابك اللغات الثلاث في الشركة: العملاء، المنتج، وإدارة الأعمال
 ### Disentangling the three languages: Customers, Product, Business
 
-> **الملخص التنفيذي:** Stop talking past each other. Translate between the three "languages" of  customer desires, product features, and business goals.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'فك تشابك اللغات الثلاث في الشركة: العملاء، المنتج، وإدارة الأعمال'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/three-languages/](https://longform.asmartbear.com/three-languages/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** فك تشابك اللغات الثلاث في الشركة: العملاء، المنتج، وإدارة الأعمال تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Disentangling the three languages: Customers, Product, Business
+
+> **Executive Summary:** Stop talking past each other. Translate between the three "languages" of  customer desires, product features, and business goals.
+> **Original URL:** [https://longform.asmartbear.com/three-languages/](https://longform.asmartbear.com/three-languages/)
 
 ![today were going to start with league building exercises](https://public.asmartbear.com/books/anthology/chapters/three-languages/d7776print-simple.png)
 

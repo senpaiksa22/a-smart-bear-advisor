@@ -1,22 +1,37 @@
 ---
 id: 77
 title_en: "When should a decision be fast, or slow?"
-title_ar: "When should a decision be fast, or slow?"
+title_ar: "متى يجب أن يكون اتخاذ القرار سريعاً وخاطفاً ومتى يكون متأنياً؟"
 slug: "decisions-fast-slow"
 url: "https://longform.asmartbear.com/decisions-fast-slow/"
-pubDate: "Wed, 05 Sep 2018 00:00:00 +0000"
+published_date: "Wed, 05 Sep 2018 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Decisions should usually be made quickly, to accelerate action and learning. But sometimes it really is smarter to take your time. Here's how to decide."
-summary_ar: "Decisions should usually be made quickly, to accelerate action and learning. But sometimes it really is smarter to take your time. Here's how to decide."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: When should a decision be fast, or slow?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# When should a decision be fast, or slow?
+# متى يجب أن يكون اتخاذ القرار سريعاً وخاطفاً ومتى يكون متأنياً؟
 ### When should a decision be fast, or slow?
 
-> **الملخص التنفيذي:** Decisions should usually be made quickly, to accelerate action and learning. But sometimes it really is smarter to take your time. Here's how to decide.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: When should a decision be fast, or slow?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/decisions-fast-slow/](https://longform.asmartbear.com/decisions-fast-slow/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** متى يجب أن يكون اتخاذ القرار سريعاً وخاطفاً ومتى يكون متأنياً؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# When should a decision be fast, or slow?
+
+> **Executive Summary:** Decisions should usually be made quickly, to accelerate action and learning. But sometimes it really is smarter to take your time. Here's how to decide.
+> **Original URL:** [https://longform.asmartbear.com/decisions-fast-slow/](https://longform.asmartbear.com/decisions-fast-slow/)
 
 ![d8066print](https://public.asmartbear.com/books/anthology/chapters/decisions-fast-slow/d8066print-simple.png)
 

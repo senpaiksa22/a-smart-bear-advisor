@@ -1,22 +1,37 @@
 ---
 id: 71
 title_en: "Extreme brainstorming questions to trigger new, better ideas"
-title_ar: "Extreme brainstorming questions to trigger new, better ideas"
+title_ar: "أسئلة العصف الذهني الجريئة لتوليد أفكار ريادية متفوقة"
 slug: "extreme-questions"
 url: "https://longform.asmartbear.com/extreme-questions/"
-pubDate: "Sat, 26 Mar 2022 00:00:00 +0000"
+published_date: "Sat, 26 Mar 2022 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "We know, \"no idea is a bad idea,\" but brainstorming is often unsuccessful. These prompts actually work. They could even lead to a unique business model."
-summary_ar: "We know, \"no idea is a bad idea,\" but brainstorming is often unsuccessful. These prompts actually work. They could even lead to a unique business model."
+summary_ar: "We know, \"
 ---
 
-# Extreme brainstorming questions to trigger new, better ideas
+# أسئلة العصف الذهني الجريئة لتوليد أفكار ريادية متفوقة
 ### Extreme brainstorming questions to trigger new, better ideas
 
-> **الملخص التنفيذي:** We know, "no idea is a bad idea," but brainstorming is often unsuccessful. These prompts actually work. They could even lead to a unique business model.
+> **الملخص التنفيذي:** We know, \
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/extreme-questions/](https://longform.asmartbear.com/extreme-questions/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** أسئلة العصف الذهني الجريئة لتوليد أفكار ريادية متفوقة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Extreme brainstorming questions to trigger new, better ideas
+
+> **Executive Summary:** We know, "no idea is a bad idea," but brainstorming is often unsuccessful. These prompts actually work. They could even lead to a unique business model.
+> **Original URL:** [https://longform.asmartbear.com/extreme-questions/](https://longform.asmartbear.com/extreme-questions/)
 
 ![boy what day huh](https://public.asmartbear.com/books/anthology/chapters/extreme-questions/d6064print-simple.png)
 

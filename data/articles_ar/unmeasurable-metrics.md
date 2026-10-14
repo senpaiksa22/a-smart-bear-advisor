@@ -1,22 +1,37 @@
 ---
 id: 47
 title_en: "Metrics that cannot even be measured in retrospect"
-title_ar: "Metrics that cannot even be measured in retrospect"
+title_ar: "المقاييس التي لا يمكن قياسها حتى بعد فوات الأوان"
 slug: "unmeasurable-metrics"
 url: "https://longform.asmartbear.com/unmeasurable-metrics/"
-pubDate: "Sun, 22 Oct 2023 00:00:00 +0000"
+published_date: "Sun, 22 Oct 2023 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Some of the most enticing, important metrics are impossible to measure, even after the fact. Here's how to identify and avoid this trap."
-summary_ar: "Some of the most enticing, important metrics are impossible to measure, even after the fact. Here's how to identify and avoid this trap."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Metrics that cannot even be measured in retrospect'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Metrics that cannot even be measured in retrospect
+# المقاييس التي لا يمكن قياسها حتى بعد فوات الأوان
 ### Metrics that cannot even be measured in retrospect
 
-> **الملخص التنفيذي:** Some of the most enticing, important metrics are impossible to measure, even after the fact. Here's how to identify and avoid this trap.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Metrics that cannot even be measured in retrospect'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/unmeasurable-metrics/](https://longform.asmartbear.com/unmeasurable-metrics/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** المقاييس التي لا يمكن قياسها حتى بعد فوات الأوان تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Metrics that cannot even be measured in retrospect
+
+> **Executive Summary:** Some of the most enticing, important metrics are impossible to measure, even after the fact. Here's how to identify and avoid this trap.
+> **Original URL:** [https://longform.asmartbear.com/unmeasurable-metrics/](https://longform.asmartbear.com/unmeasurable-metrics/)
 
 ![where do see myself five years](https://public.asmartbear.com/books/anthology/chapters/unmeasurable-metrics/d9215print-simple.png)
 

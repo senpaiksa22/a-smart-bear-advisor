@@ -1,22 +1,37 @@
 ---
 id: 151
 title_en: "Startup Exercise: What can't be solved with money?"
-title_ar: "Startup Exercise: What can't be solved with money?"
+title_ar: "تمرين ريادي: ما هي المشكلات التي لا يستطيع المال حلها في شركتك؟"
 slug: "startup-money"
 url: "https://longform.asmartbear.com/startup-money/"
-pubDate: "Mon, 21 Mar 2011 00:00:00 +0000"
+published_date: "Mon, 21 Mar 2011 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "What can't be solved with money, are the most valuable things."
-summary_ar: "What can't be solved with money, are the most valuable things."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Startup Exercise: What can't be solved with money?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Startup Exercise: What can't be solved with money?
+# تمرين ريادي: ما هي المشكلات التي لا يستطيع المال حلها في شركتك؟
 ### Startup Exercise: What can't be solved with money?
 
-> **الملخص التنفيذي:** What can't be solved with money, are the most valuable things.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Startup Exercise: What can't be solved with money?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/startup-money/](https://longform.asmartbear.com/startup-money/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** تمرين ريادي: ما هي المشكلات التي لا يستطيع المال حلها في شركتك؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Startup Exercise: What can't be solved with money?
+
+> **Executive Summary:** What can't be solved with money, are the most valuable things.
+> **Original URL:** [https://longform.asmartbear.com/startup-money/](https://longform.asmartbear.com/startup-money/)
 
 ![mom and dad are my primary funding but i get plenty of soft money from my grandparents](https://public.asmartbear.com/books/anthology/chapters/startup-money/d4818print-simple.png)
 

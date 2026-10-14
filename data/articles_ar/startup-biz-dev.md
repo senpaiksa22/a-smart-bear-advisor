@@ -1,22 +1,37 @@
 ---
 id: 105
 title_en: "Why startup biz dev deals almost never get done"
-title_ar: "Why startup biz dev deals almost never get done"
+title_ar: "لماذا تفشل صفقات الشراكة الاستراتيجية والتطوير التجاري للشركات الناشئة؟"
 slug: "startup-biz-dev"
 url: "https://longform.asmartbear.com/startup-biz-dev/"
-pubDate: "Mon, 28 Apr 2014 08:00:00 +0000"
+published_date: "Mon, 28 Apr 2014 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Startups fail at biz dev because their proposals don't make sense to bigger companies. Here's how to adjust your approach."
-summary_ar: "Startups fail at biz dev because their proposals don't make sense to bigger companies. Here's how to adjust your approach."
+summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Why startup biz dev deals almost never get done'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
-# Why startup biz dev deals almost never get done
+# لماذا تفشل صفقات الشراكة الاستراتيجية والتطوير التجاري للشركات الناشئة؟
 ### Why startup biz dev deals almost never get done
 
-> **الملخص التنفيذي:** Startups fail at biz dev because their proposals don't make sense to bigger companies. Here's how to adjust your approach.
+> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Why startup biz dev deals almost never get done'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/startup-biz-dev/](https://longform.asmartbear.com/startup-biz-dev/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** لماذا تفشل صفقات الشراكة الاستراتيجية والتطوير التجاري للشركات الناشئة؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# Why startup biz dev deals almost never get done
+
+> **Executive Summary:** Startups fail at biz dev because their proposals don't make sense to bigger companies. Here's how to adjust your approach.
+> **Original URL:** [https://longform.asmartbear.com/startup-biz-dev/](https://longform.asmartbear.com/startup-biz-dev/)
 
 ![Cartoon 33333d58](https://longform.asmartbear.com/startup-biz-dev/71128fbf.png)
 

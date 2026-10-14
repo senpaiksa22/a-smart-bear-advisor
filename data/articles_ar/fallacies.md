@@ -1,22 +1,37 @@
 ---
 id: 25
 title_en: "The Serengeti Plain: Fallacies that aren't fallacies"
-title_ar: "The Serengeti Plain: Fallacies that aren't fallacies"
+title_ar: "مغالطات ظاهرية ليست مغالطات في واقع الأعمال"
 slug: "fallacies"
 url: "https://longform.asmartbear.com/fallacies/"
-pubDate: "Sun, 20 Oct 2024 00:00:00 +0000"
+published_date: "Sun, 20 Oct 2024 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "A contrarian look at logical \"fallacies\" that maybe aren't so illogical after all."
-summary_ar: "A contrarian look at logical \"fallacies\" that maybe aren't so illogical after all."
+summary_ar: "A contrarian look at logical \"
 ---
 
-# The Serengeti Plain: Fallacies that aren't fallacies
+# مغالطات ظاهرية ليست مغالطات في واقع الأعمال
 ### The Serengeti Plain: Fallacies that aren't fallacies
 
-> **الملخص التنفيذي:** A contrarian look at logical "fallacies" that maybe aren't so illogical after all.
+> **الملخص التنفيذي:** A contrarian look at logical \
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/fallacies/](https://longform.asmartbear.com/fallacies/)
+
+---
+
+### المحاور والأفكار الجوهرية للمقال:
+1. **الفكرة الأساسية:** مغالطات ظاهرية ليست مغالطات في واقع الأعمال تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
+2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
+3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+
+---
+
+### النص المرجعي للمقال (Original Reference):
+# The Serengeti Plain: Fallacies that aren't fallacies
+
+> **Executive Summary:** A contrarian look at logical "fallacies" that maybe aren't so illogical after all.
+> **Original URL:** [https://longform.asmartbear.com/fallacies/](https://longform.asmartbear.com/fallacies/)
 
 ![What do you have that's sick or injured?](https://public.asmartbear.com/books/anthology/chapters/fallacies/d8997print-simple.png)
 
