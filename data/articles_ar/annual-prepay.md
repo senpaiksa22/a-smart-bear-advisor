@@ -20,117 +20,104 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كيف يصنع الدفع السنوي المسبق ميزانية تسويقية لا نهائية لشركتك تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# How annual pre-pay creates an infinite marketing budget
-
-> **Executive Summary:** Dozens of founders have used this technique to transform the cash-flow of their businesses. Now it's your turn.
-> **Original URL:** [https://longform.asmartbear.com/annual-prepay/](https://longform.asmartbear.com/annual-prepay/)
-
 ![Something's clicking. I want you to find out what, and click the holy hell out of it.](https://public.asmartbear.com/books/anthology/chapters/annual-prepay/d6026print-simple.png)
 
-Multiple founders have told me the ideas in this article were responsible for the financial success of their startup.
+أخبرني العديد من المؤسسين أن الأفكار الواردة في هذا المقال كانت مسؤولة عن النجاح المالي لشركتهم الناشئة.
 
-They might be exaggerating out of kindness, but if it's even 10% as useful for you, it will have been worth your time.
+ربما يبالغون من باب اللطف، ولكن إذا كان الأمر مفيدًا لك بنسبة 10%، فسيكون الأمر يستحق وقتك.
 
-We'll explore how growth affects cash-flow, and conclude with several techniques that can transform the cash-flow of your business.
+سنستكشف كيف يؤثر النمو على التدفق النقدي، ونختتم بالعديد من التقنيات التي يمكنها تحويل التدفق النقدي لشركتك.
 
-## The cost of a dollar of MRR
+## تكلفة الدولار MRR
 
-What does it cost a SaaS company to add $1 of new monthly recurring revenue?
+ما هي تكلفة شركة SaaS لإضافة دولار واحد من الإيرادات الشهرية المتكررة الجديدة؟
 
-Using the typical acronyms:
+باستخدام الاختصارات النموذجية:
 
-`CAC` (**C**ost to **A**cquire a **C**ustomer) is the total cost to get one new paying customer--Marketing and Sales costs, including fully-loaded salaries.[^1] The simplest way to compute it is "total spend in a month" divided by "total new customers added during that month."
+`CAC` (**C**ost to **A**cquire a **C**ustomer) هي التكلفة الإجمالية للحصول على عميل جديد يدفع - تكاليف التسويق والمبيعات، بما في ذلك الرواتب المحملة بالكامل.[^1] إن أبسط طريقة لحسابها هي "إجمالي الإنفاق في الشهر" مقسومًا على "إجمالي العملاء الجدد الذين تمت إضافتهم خلال ذلك الشهر".
 
-`ARPC` (**A**verage **R**evenue **p**er **Customer**) is the average monthly-recurring revenue you get from a customer. The simplest way to compute it in aggregate is "total recurring-revenue in a month (`MRR`)" divided by "total number of paying customers during that month (`N`)".
+`ARPC` (**A**verage **R**evenue **p**er **Customer**) هو متوسط ​​الإيرادات الشهرية المتكررة التي تحصل عليها من العميل. إن أبسط طريقة لحسابها بشكل إجمالي هي "إجمالي الإيرادات المتكررة في الشهر ('MRR`)" مقسومًا على "إجمالي عدد العملاء الذين يدفعون خلال ذلك الشهر ('N`)".
 
-[^1]: In smaller companies, typically the founder and others are spending time on marketing and sales activities as well; include the fraction of their time, or the salary that you would have to pay someone else to do those same tasks. Also include commissions.
+[^1]: في الشركات الصغيرة، عادةً ما يقضي المؤسس والآخرون الوقت في أنشطة التسويق والمبيعات أيضًا؛ قم بتضمين جزء من وقتهم، أو الراتب الذي يتعين عليك دفعه لشخص آخر للقيام بنفس المهام. تشمل أيضا العمولات.
 
-Since it costs `CAC` dollars to get `ARPC` new dollars of recurring-revenue:
+نظرًا لأن الحصول على دولارات "ARPC" الجديدة من الإيرادات المتكررة يكلف دولارًا "CAC":
 
-The cost to create one more dollar of `MRR` = `CAC / ARPC`
+تكلفة إنشاء دولار إضافي واحد من `MRR` = `CAC / ARPC`
 
-If you haven't done it before, computing this metric will be eye-opening.
+إذا لم تكن قد فعلت ذلك من قبل، فإن حساب هذا المقياس سيكون أمرًا مدهشًا.
 
-Let's posit a hypothetical company with a $10/mo consumer-targeted SaaS product, where they pay $1.60/click for Google Ads; that traffic converts at 5% to a free trial, and those trials convert at 40% to a paid customer. Their `CAC` is $80,[^2] and their `ARPC` is $10, therefore we would say "it costs them $8 to create $1 of MRR."
+لنفترض أن شركة افتراضية لديها منتج SaaS يستهدف المستهلك بقيمة 10 دولارات شهريًا، حيث يدفعون 1.60 دولارًا لكل نقرة مقابل إعلانات Google؛ تتحول حركة المرور هذه بنسبة 5% إلى نسخة تجريبية مجانية، وتتحول تلك التجارب بنسبة 40% إلى عميل مدفوع الأجر. تبلغ تكلفة `CAC` الخاصة بهم 80 دولارًا أمريكيًا،[^2] وقيمة `ARPC` الخاصة بهم 10 دولارات أمريكية، لذلك يمكننا القول "إن إنشاء 1 دولار أمريكي من MRR يكلفهم 8 دولارات أمريكية."
 
-[^2]: `$1.60 / 0.05 / 0.4 = $80`
+[^2]: `1.60 دولار / 0.05 / 0.4 = 80 دولار`
 
-It's tempting to conclude that "It takes 8 months of customer revenue to 'pay us back' for the marketing and sales costs of getting that customer. That customer is unprofitable before then, and becomes more and more profitable after." (Figure 1)
+من المغري أن نستنتج أن "الأمر يستغرق 8 أشهر من إيرادات العملاء حتى يتم سداد تكاليف التسويق والمبيعات للحصول على هذا العميل. وهذا العميل لا يكون مربحًا قبل ذلك الوقت، ويصبح أكثر ربحية بعد ذلك." (الشكل 1)
 
 ![diagram of 8-month payback period](https://public.asmartbear.com/books/anthology/chapters/annual-prepay/simple-simple.png)
 
-But, unfortunately, it's worse than that.
+لكن للأسف الأمر أسوأ من ذلك.
 
-## Revenue we can spend
+## الإيرادات التي يمكننا إنفاقها
 
 ![bear accountant](https://public.asmartbear.com/books/anthology/chapters/annual-prepay/bear-accountant-glow-simple.png)
 
-All companies have mandatory expenses associated with delivering the entire product to the customer. Not just the product itself, but everything else the customer expects, like being able to pay with a credit card or call tech support:
+جميع الشركات لديها نفقات إلزامية مرتبطة بتسليم المنتج بالكامل للعميل. ليس فقط المنتج نفسه، ولكن كل شيء آخر يتوقعه العميل، مثل القدرة على الدفع ببطاقة الائتمان أو الاتصال بالدعم الفني:
 
-* credit card processing fees
-* tech support[^3]
-* infrastructure (if SaaS)
-* professional services (if consulting)
-* bill of materials (if physical goods)
-* _Anything else which, if missing, the customer would say "You're not delivering the product I paid for."_
+* رسوم معالجة بطاقات الائتمان
+* الدعم الفني[^3]
+* البنية التحتية (إذا SaaS)
+* الخدمات المهنية (في حالة الاستشارة)
+* فاتورة المواد (إذا كانت السلع المادية)
+* _أي شيء آخر، في حالة فقدانه، سيقول العميل "أنت لا تقوم بتسليم المنتج الذي دفعت مقابله."_
 
-[^3]: Even if you're a solopreneur, doing support yourself, wanting to claim that therefore "support costs me nothing," the opposite is true: Your time is valuable; you could have used that time for anything else, such as marketing or building a new feature. How should you account for this? Use whatever it would have cost to hire someone else to do the service for you, and remember that low-wage people who aren't fluent in your language, can't provide the level of service you're currently providing!
+[^3]: حتى لو كنت رائد أعمال منفردًا، وتدعم نفسك، وتريد الادعاء بأن "الدعم لا يكلفني شيئًا"، فإن العكس هو الصحيح: وقتك ثمين؛ كان بإمكانك استغلال هذا الوقت في أي شيء آخر، مثل التسويق أو إنشاء ميزة جديدة. كيف يجب عليك حساب هذا؟ استخدم أي تكلفة لتوظيف شخص آخر للقيام بالخدمة نيابةً عنك، وتذكر أن الأشخاص ذوي الأجور المنخفضة الذين لا يجيدون لغتك، لا يمكنهم تقديم مستوى الخدمة التي تقدمها حاليًا!
 
-In finance we measure these costs relative to revenue:
+في مجال التمويل، نقيس هذه التكاليف مقارنة بالإيرادات:
 
-`GPM` (**G**ross **P**rofit **M**argin) is the percentage of revenue remaining, after subtracting these "expenses required to deliver the whole product and experience."
+`GPM` (**G**ross **P**rofit **M**argin) هي النسبة المئوية للإيرادات المتبقية، بعد طرح هذه "النفقات المطلوبة لتقديم المنتج والخبرة بالكامل".
 
-Continuing our example, suppose credit card fees are 3% of revenue, infrastructure costs are 5%, and tech support is 25%. Then `GPM = 67%`, i.e. after fulfilling our promises to our customers, we're left with 67% of the money they gave us.
+استمرارًا لمثالنا، لنفترض أن رسوم بطاقة الائتمان تبلغ 3% من الإيرادات، وتكاليف البنية التحتية 5%، والدعم الفني 25%. ثم `GPM = 67%`، أي بعد الوفاء بوعودنا لعملائنا، يتبقى لدينا 67% من الأموال التي قدموها لنا.
 
-## Payback period (p)
+## فترة الاسترداد (ع)
 
-Now we're prepared to compute the _actual_ pay-back period: The amount of time needed to recover `CAC` expenses, which is the number of months of revenue *we can spend*:
+نحن الآن على استعداد لحساب فترة الاسترداد _الفعلية_: مقدار الوقت اللازم لاسترداد نفقات "CAC"، وهو عدد أشهر الإيرادات *التي يمكننا إنفاقها*:
 
-`p` = "payback period" = `CAC / (MRR ✕ GPM)`
+`p` = "فترة الاسترداد" = `CAC / (MRR ✕ GPM)`
 
-In our example, `p = 80 / (10 ✕ 0.67) =` 12 months. (Figure 2)
+في مثالنا، `ع = 80 / (10 ✕ 0.67) =` 12 شهرًا. (الشكل 2)
 
 ![diagram of 12-month payback period with GPM](https://public.asmartbear.com/books/anthology/chapters/annual-prepay/gpm-simple.png)
 
-The cash-flow implications are harsh. Consider:
+إن الآثار المترتبة على التدفق النقدي قاسية. يعتبر:
 
-You're bootstrapped. You scrape together $1000 from life savings or credit card debt. You spend it on ads. Happily, it works! With the numbers in our example, you now have $125 in MRR, but expenses are $42/mo, so it's going to be a whole year before you get that $1000 back. Meanwhile, you're just _out_ that cash.
+أنت مقيد. يمكنك جمع 1000 دولار من مدخرات الحياة أو ديون بطاقة الائتمان. أنت تنفقه على الإعلانات. لحسن الحظ، فإنه يعمل! باستخدام الأرقام الموجودة في مثالنا، لديك الآن 125 دولارًا أمريكيًا في MRR، لكن النفقات تبلغ 42 دولارًا أمريكيًا شهريًا، لذلك سوف يستغرق الأمر عامًا كاملاً قبل أن تحصل على 1000 دولار أمريكي مرة أخرى. في هذه الأثناء، لم يعد أمامك سوى هذا المبلغ النقدي.
 
-So... how do you get more customers? Another $1000... but how many times can you do that before you run out of savings? Now you can see why people raise money...
+إذًا... كيف يمكنك الحصول على المزيد من العملاء؟ 1000 دولار أخرى... ولكن كم مرة يمكنك القيام بذلك قبل نفاد مدخراتك؟ الآن يمكنك أن ترى لماذا يجمع الناس الأموال...
 
-And **the faster you grow the more cash it takes**, because no matter how much you spend, it still takes a year to get it back. Now you see why people raise money for companies that are designed to grow quickly, and why it [always takes more money than you think](https://longform.asmartbear.com/more-money/).
+و**كلما زادت سرعة النمو، زادت الأموال المطلوبة**، لأنه بغض النظر عن المبلغ الذي تنفقه، لا يزال الأمر يستغرق عامًا لاستعادته. الآن ترى لماذا يجمع الأشخاص الأموال للشركات المصممة للنمو بسرعة، ولماذا [تتطلب دائمًا أموالاً أكثر مما تعتقد](https://longform.asmartbear.com/more-money/).
 
-## A few optimizations
+## بعض التحسينات
 
-Your mind immediately jumps to the question: How can I improve the metrics in this equation, so that my pay-back period is reduced, so I can grow more quickly with less cash?
+يقفز عقلك على الفور إلى السؤال التالي: كيف يمكنني تحسين المقاييس في هذه المعادلة، بحيث يتم تقليل فترة الاسترداد الخاصة بي، حتى أتمكن من النمو بسرعة أكبر بأموال أقل؟
 
-### Reduce CAC
+### تقليل CAC
 
-Of course you'll [optimize advertising](https://longform.asmartbear.com/local-minimum/). However, everyone does this, and most advertising is an auction model, which means it's difficult to find spaces that simultaneously (1) get enough traffic to matter and (2) are low-cost. It's still worthwhile to optimize, or to try to find less-expensive channels, but this is incremental; it won't transform your business. In fact, `CAC` _increases_ as a company scales (because low-hanging fruit is already plucked) and _increases_ as a market matures (because of auctions from more and more competitors, who have more and more budget), as [I've documented](https://longform.asmartbear.com/exponential-growth/).
+بالطبع ستقوم بـ [تحسين الإعلانات](https://longform.asmartbear.com/local-minimum/). ومع ذلك، الجميع يفعل ذلك، ومعظم الإعلانات عبارة عن نموذج مزاد، مما يعني أنه من الصعب العثور على مساحات (1) تحصل في نفس الوقت على عدد كافٍ من الزيارات المهمة و(2) منخفضة التكلفة. لا يزال من المفيد إجراء التحسين، أو محاولة العثور على قنوات أقل تكلفة، ولكن هذا أمر تدريجي؛ لن يغير عملك. في الواقع، "CAC" _يزداد_ مع توسع الشركة (لأن الثمار الدانية قد تم قطفها بالفعل) و_يزداد_ مع نضوج السوق (بسبب المزادات من المزيد والمزيد من المنافسين، الذين لديهم المزيد والمزيد من الميزانية)، كما [لقد وثقت](https://longform.asmartbear.com/exponential-growth/).
 
-Some people scream "Social media is free! SEO is free! Content marketing is free!" It's not free--you have to write, manage, jockey for attention, follow Google's whims, Twitter's whims, YouTube's whims, Instagram's whims, TikTok's whims, even though they don't tell you what the whims are, and the whims change, optimize site layout as well as content, post often "for the algorithm," and so on. These might indeed be great channels for you, but let's not pretend that they are "free," any more than you are "[profitable on day one](https://longform.asmartbear.com/ramen-profitable/)."
+يصرخ بعض الناس "وسائل التواصل الاجتماعي مجانية! تحسين محركات البحث مجاني! تسويق المحتوى مجاني!" إنه ليس مجانيًا - عليك أن تكتب، وتدير، وتتنافس على الاهتمام، وتتبع أهواء جوجل، وأهواء تويتر، وأهواء يوتيوب، وأهواء إنستجرام، وأهواء تيك توك، على الرغم من أنها لا تخبرك ما هي الأهواء، وتتغير الأهواء، وتحسين تخطيط الموقع بالإضافة إلى المحتوى، والنشر كثيرًا "من أجل الخوارزمية"، وما إلى ذلك. قد تكون هذه قنوات رائعة بالفعل بالنسبة لك، ولكن دعونا لا نتظاهر بأنها "مجانية"، مثلما أنك "[مربحة في اليوم الأول](https://longform.asmartbear.com/ramen-profitable/)."
 
 ![I miss the old days when we could just tout things.](https://public.asmartbear.com/books/anthology/chapters/annual-prepay/d7220print-simple.png)
 
-### Increase MRR
+### زيادة MRR
 
-This is one of the main reasons why so many startup pundits (including myself) are always telling you to "raise your price." The difference between $39/mo and $19/mo might not matter to your customers,[^4] but can cut your payback period to 1/3 of what it currently is.[^5]
+وهذا هو أحد الأسباب الرئيسية التي تجعل الكثير من خبراء الشركات الناشئة (بما فيهم أنا) يطلبون منك دائمًا "رفع سعرك". قد لا يكون الفرق بين 39 دولارًا أمريكيًا/شهريًا و19 دولارًا أمريكيًا/شهريًا مهمًا لعملائك،[^4] ولكنه يمكن أن يقلل فترة الاسترداد إلى 1/3 ما هي عليه حاليًا.[^5]
 
-[^4]: I know it sounds like doubling your price would dramatically reduce how many people sign up. However: (a) If sign-ups halve, you still have the same-sized business, except far more profit, and higher-quality customers, and (b) my experience and many others' is that signups don't halve; they might even go up. Examples below.
+[^4]: أعلم أنه يبدو أن مضاعفة السعر ستؤدي إلى تقليل عدد الأشخاص الذين يقومون بالتسجيل بشكل كبير. ومع ذلك: (أ) إذا انخفضت عمليات الاشتراك إلى النصف، فلا يزال لديك نفس الحجم من الأعمال، باستثناء المزيد من الأرباح والعملاء ذوي الجودة الأعلى، و (ب) تجربتي وخبرة العديد من الآخرين هي أن عمليات الاشتراك لا تنخفض إلى النصف؛ بل قد يرتفعون. الأمثلة أدناه.
 
-[^5]: Cut into a third, not a half, because `MRR` doubles but the costs behind `GPM` do not, which means `GPM` also increases, so you get double-benefit.
+[^5]: قسّمها إلى الثلث، وليس النصف، لأن `MRR` يتضاعف ولكن التكاليف وراء `GPM` لا تتضاعف، وهو ما يعني أن `GPM` يزيد أيضًا، لذا تحصل على فائدة مضاعفة.
 
-You're also probably not positioning the product properly. [Here's how you can 8x the price](https://longform.asmartbear.com/more-value-not-save-money/) through better positioning, or [how you can increase willingness-to-pay](https://longform.asmartbear.com/willingness-to-pay/), which then allows you to increase price and growth and get word-of-mouth (which means lower CAC!).
+من المحتمل أيضًا أنك لا تضع المنتج بشكل صحيح. [إليك كيف يمكنك زيادة السعر بمقدار 8 أضعاف](https://longform.asmartbear.com/more-value-not-save-money/) من خلال تحديد موضع أفضل، أو [كيف يمكنك زيادة الرغبة في الدفع](https://longform.asmartbear.com/willingness-to-pay/)، مما يتيح لك بعد ذلك زيادة السعر والنمو والحصول على تناقل كلامي (مما يعني انخفاض تكلفة تكلفة العمل!).
 
-You probably need more encouragement to summon the courage to try higher prices, so here's a bunch.
+ربما تحتاج إلى المزيد من التشجيع لتستجمع شجاعتك لتجربة أسعار أعلى، لذا إليك مجموعة من النصائح.
 
 ![raised prices and people were happy](https://public.asmartbear.com/books/anthology/chapters/annual-prepay/image-2-simple.png)
 
@@ -144,96 +131,92 @@ You probably need more encouragement to summon the courage to try higher prices,
 
 ![One of the lessons from data from 4200 founders is that you should raise your price](https://public.asmartbear.com/books/anthology/chapters/annual-prepay/image-simple.png)
 
-It doesn't always work, but typically, startups are under-charging.
+لا ينجح هذا الأمر دائمًا، ولكن عادةً ما تكون تكلفة الشركات الناشئة منخفضة.
 
-### Increase GPM (by cutting costs)
+### زيادة GPM (عن طريق خفض التكاليف)
 
-This is tempting, because it's easier to cut costs than to raise prices, and easier to automate some tech support tickets or infrastructure rather than finding a new advertising channel. Especially for Engineers, who constantly fall into the trap of [doing engineering stuff](https://longform.asmartbear.com/code-is-your-enemy/) rather than what [the business actually needs done](https://longform.asmartbear.com/put-down-the-compiler/).
+يعد هذا أمرًا مغريًا، لأنه من الأسهل خفض التكاليف بدلاً من رفع الأسعار، ومن الأسهل أتمتة بعض تذاكر الدعم الفني أو البنية التحتية بدلاً من العثور على قناة إعلانية جديدة. خاصة بالنسبة للمهندسين، الذين يقعون باستمرار في فخ [القيام بالأشياء الهندسية](https://longform.asmartbear.com/code-is-your-enemy/) بدلاً من ما [يحتاج العمل فعليًا إلى إنجازه](https://longform.asmartbear.com/put-down-the-compiler/).
 
-Of course this _is_ valuable work, and if it's easy to cut support-time in half with a few days of keyboard macros or better documentation or an AI first-line-of-defense, then do it. Just be warned that your natural tendency will be to file the rough edges off of costs--which isn't impactful--rather than work on pricing and marketing--which have the power to transform the trajectory of the company.
+بالطبع يعد هذا عملاً قيمًا، وإذا كان من السهل تقليل وقت الدعم إلى النصف باستخدام وحدات ماكرو لوحة المفاتيح لبضعة أيام أو وثائق أفضل أو خط دفاع أول يعمل بالذكاء الاصطناعي، فقم بذلك. فقط كن حذرًا من أن ميلك الطبيعي سيكون خفض التكاليف - وهو أمر غير مؤثر - بدلاً من العمل على التسعير والتسويق - والذي لديه القدرة على تغيير مسار الشركة.
 
-Remember, you can only cut costs so much, but the potential upside of better marketing or pricing is uncapped. This is one of several reasons why better [marketing](https://longform.asmartbear.com/needs-stack/) and [pricing](https://longform.asmartbear.com/pricing-determines-your-business-model/) is [strategic](https://longform.asmartbear.com/great-strategy/), while cutting costs isn't.
+تذكر أنه لا يمكنك خفض التكاليف إلا بشكل كبير، ولكن الجانب الإيجابي المحتمل للتسويق أو التسعير الأفضل لا حدود له. وهذا هو أحد الأسباب العديدة التي تجعل [التسويق](https://longform.asmartbear.com/needs-stack/) و[التسعير](https://longform.asmartbear.com/pricing-determines-your-business-model/) أفضل [إستراتيجيًا](https://longform.asmartbear.com/great-strategy/)، في حين أن خفض التكاليف ليس كذلك.
 
-## The transformation: Annual billing
+## التحول: الفواتير السنوية
 
-There's another thing we can try: Billing plans where the customer pays annually instead of monthly.
+هناك شيء آخر يمكننا تجربته: خطط الفوترة حيث يدفع العميل سنويًا بدلاً من شهريًا.
 
 ![bear with a calendar](https://public.asmartbear.com/books/anthology/chapters/annual-prepay/bear-calendar-2-simple.png)
 
-How much should they pay? Typically you reward the customer for their up-front payment with a discount. In our example, the product is $10/mo; you might offer a plan at $100/year, exclaiming "get two months free!" on the pricing page.
+كم يجب أن يدفعوا؟ عادةً ما تقوم بمكافأة العميل على دفعته المقدمة بخصم. في مثالنا، سعر المنتج هو 10 دولارات شهريًا؛ قد تقدم خطة بقيمة 100 دولار سنويًا، وتطلب "احصل على شهرين مجانًا!" على صفحة التسعير.
 
-This is a great excuse to raise prices slightly: Offer the annual plan at 12 times the _current_ monthly price, then increase the month-to-month price by something like 20% (i.e. the "2 months free" amount). Existing customers can be grandfathered in, or ask them to switch to annual to preserve their monthly rate.
+يعد هذا عذرًا رائعًا لرفع الأسعار قليلاً: اعرض الخطة السنوية بمعدل 12 ضعف السعر الشهري الحالي، ثم قم بزيادة السعر الشهري بنسبة 20% تقريبًا (أي مبلغ "شهرين مجانيين"). يمكن استحضار العملاء الحاليين أو مطالبتهم بالتبديل إلى السعر السنوي للحفاظ على معدلهم الشهري.
 
-What does this do to our payback period?
+ماذا يفعل هذا لفترة الاسترداد لدينا؟
 
-In terms of cash:
+من الناحية النقدية:
 
-* Before: We paid $80 to get $10 of MRR, which is $120/year.
-* Now: We paid $80 and also got $120/year, **but we got the $120 today.**
+* قبل: لقد دفعنا 80 دولارًا للحصول على 10 دولارات من MRR، أي 120 دولارًا سنويًا.
+* الآن: لقد دفعنا 80 دولارًا وحصلنا أيضًا على 120 دولارًا سنويًا، **لكننا حصلنا على 120 دولارًا اليوم.**
 
-**This gives us an infinite marketing budget.** To see why:
+**يمنحنا هذا ميزانية تسويقية لا نهائية.** لمعرفة السبب:
 
-* We spend $80 on ads. But *not* in cash; it's on our credit card.
-* We get $120 in our bank account, _in cash_. We mentally set aside the `GPM` costs that we will incur, that this income will need to cover. Those costs are $40, which leaves us with $80 that we're free to spend.
-* _Later_, our credit card bill comes due, and finally the $80 ad cost leaves our bank account.
-* **Which means we never actually lost the $80, in terms of cash!** <br/> We received the $80 from the customer _before_ we sent away the $80 for the ad, even after setting aside `GPM` costs.
+* نحن ننفق 80 دولارًا على الإعلانات. ولكن *ليس* نقدًا؛ انها على بطاقة الائتمان لدينا.
+* حصلنا على 120 دولارًا في حسابنا البنكي، _نقدًا_. نحن نضع جانبًا تكاليف "GPM" التي سنتكبدها، والتي سيتعين على هذا الدخل تغطيتها. تبلغ هذه التكاليف 40 دولارًا، مما يترك لنا 80 دولارًا يمكننا إنفاقها مجانًا.
+* _في وقت لاحق_، يحين موعد استحقاق فاتورة بطاقتنا الائتمانية، وأخيرًا تغادر تكلفة الإعلان البالغة 80 دولارًا حسابنا البنكي.
+* **مما يعني أننا لم نخسر أبدًا مبلغ الـ 80 دولارًا نقدًا!** <br/> لقد تلقينا مبلغ الـ 80 دولارًا من العميل _قبل_ أن نرسل مبلغ الـ 80 دولارًا للإعلان، حتى بعد تجنيب تكاليف "GPM".
 
 ![diagram of annual-plan payback period](https://public.asmartbear.com/books/anthology/chapters/annual-prepay/annual-billing-simple.png)
 
-This completely transforms the growth potential of the business, without raising money.
+يؤدي هذا إلى تحويل إمكانات نمو الأعمال بالكامل، دون جمع الأموال.
 
-In real life, not all customers select annual plans. However, this is still transformative because:
+في الحياة الواقعية، لا يختار جميع العملاء الخطط السنوية. ومع ذلك، لا يزال هذا الأمر بمثابة تحول للأسباب التالية:
 
-1. Even if only a third of customers select an annual plan, it's still a huge impact to cash-flow.
-2. You could raise prices on the monthly plans even further, which both (a) increases selection of the annual plan and (b) decreases the pay-back period of the monthly plan.
-3. You could offer an annual plan only. (However an "even more expensive monthly plan" is typically a better way of [saying yes instead of no](https://longform.asmartbear.com/say-yes/), as it retains optionality for the customer and is very profitable for you.)
+1. حتى لو اختار ثلث العملاء فقط خطة سنوية، فلا يزال لها تأثير كبير على التدفق النقدي.
+2. يمكنك رفع الأسعار على الخطط الشهرية بشكل أكبر، مما يؤدي إلى (أ) زيادة اختيار الخطة السنوية و(ب) تقليل فترة الاسترداد للخطة الشهرية.
+3. يمكنك تقديم خطة سنوية فقط. (ومع ذلك، فإن "الخطة الشهرية الأكثر تكلفة" عادةً ما تكون طريقة أفضل [لقول نعم بدلاً من لا](https://longform.asmartbear.com/say-yes/)، حيث أنها تحتفظ بخيار العميل وهي مربحة جدًا بالنسبة لك.)
 
-## Commonly-asked questions
+## الأسئلة الشائعة
 
-After espousing this policy for more than a decade, here are the common questions and conversations:
+وبعد تبني هذه السياسة لأكثر من عقد من الزمان، إليكم الأسئلة والأحاديث الشائعة:
 
-#### I hear that annual-plan customers cancel less often. So, will encouraging annual plans also decrease my cancellation rate?
-No, but it is useful in cancellation analysis.
+#### سمعت أن عملاء الخطة السنوية يقومون بالإلغاء بشكل أقل. إذًا، هل ستؤدي الخطط السنوية المشجعة أيضًا إلى تقليل معدل الإلغاء الخاص بي؟
+لا، لكنه مفيد في تحليل الإلغاء.
 
-The reason people on annual plans have a higher retention rate, is that they self-select into those plans. What type of person does that? A person who is already intending to stay. So, offering annual doesn't change your overall cancellation rate, but it does segregate customers in a useful way: Those more likely to cancel are now identifying themselves.
+السبب وراء ارتفاع معدل الاحتفاظ بالأشخاص المشتركين في الخطط السنوية هو أنهم يختارون الانضمام إلى تلك الخطط بأنفسهم. أي نوع من الأشخاص يفعل ذلك؟ الشخص الذي ينوي البقاء بالفعل. لذا، فإن العرض السنوي لا يغير معدل الإلغاء الإجمالي، ولكنه يفصل العملاء بطريقة مفيدة: فالأشخاص الذين من المرجح أن يقوموا بالإلغاء يقومون الآن بتعريف أنفسهم.
 
-Which means, you can contact them and learn more about why they feel that way, and possibly then do something to improve cancellations, which is likely one of the [most valuable things](https://longform.asmartbear.com/growth-asymptote/) you can do. You can also compare their behavior and responses with those on annual plans, to tease out what's actually different between the cohorts.
+مما يعني أنه يمكنك الاتصال بهم ومعرفة المزيد حول سبب شعورهم بهذه الطريقة، وربما بعد ذلك القيام بشيء لتحسين عمليات الإلغاء، وهو على الأرجح أحد [الأشياء الأكثر قيمة](https://longform.asmartbear.com/growth-asymptote/) التي يمكنك القيام بها. يمكنك أيضًا مقارنة سلوكهم واستجاباتهم مع سلوكهم واستجاباتهم لتلك الواردة في الخطط السنوية، لاستخلاص أوجه الاختلاف الفعلية بين المجموعات.
 
 ![It's not just a raise in my allowance, it's also a boost for consumer confidence!](https://public.asmartbear.com/books/anthology/chapters/annual-prepay/d3130print-simple.png)
 
-#### When someone on an annual plan cancels after, say, seven months, should I refund them the remainder of the term?
-You can pick anything along this scale of generosity:
+#### عندما يقوم شخص ما بإلغاء الاشتراك في خطة سنوية بعد سبعة أشهر على سبيل المثال، فهل يجب أن أعيد له المبلغ المتبقي من المدة؟
+يمكنك اختيار أي شيء على هذا النطاق من الكرم:
 
-*Refund pro-rata.*
-If they cancel after seven months, then refund $\frac{5}{12}$ of their original payment. This has the benefit of simplicity and promoting your reputation as being generous.
+*استرداد الأموال بشكل تناسبي.* إذا قاموا بالإلغاء بعد سبعة أشهر، فقم برد مبلغ $\frac{5}{12}$ من الدفعة الأصلية. وهذا له فائدة البساطة وتعزيز سمعتك كشخص كريم.
 
-*Refund as if monthly.*
-In retrospect, the customer is acting like they are on a monthly plan, so compute what they _would_ have paid in that case, and refund them the difference. For example, if the annual plan is $100/year, and the monthly plan is $10/mo, and they cancelled after 7 months, then they would have paid $7 \times \$10 = \$70$, therefore you refund them $\$100 - \$70 = \$30$, which is less than if you refunded 5 months of their annual price, i.e. $\frac{5}{12} \times \$100 = \$42$. This also means if they cancel very late in the year you don't refund them at all, as a monthly plan would have been even more expensive.
+*استرداد المبلغ كما لو كان شهريًا.* بالنظر إلى الماضي، يتصرف العميل كما لو كان مشتركًا في خطة شهرية، لذا احسب المبلغ الذي كان سيدفعه في هذه الحالة، وأعد له الفرق. على سبيل المثال، إذا كانت الخطة السنوية هي 100 دولار أمريكي في السنة، والخطة الشهرية هي 10 دولارات أمريكية في الشهر، وتم الإلغاء بعد 7 أشهر، فسيكونون قد دفعوا $7 \times \$10 = \$70$، وبالتالي تقوم برد الأموال لهم $\$100 - \$70 = \$30$، وهو أقل مما لو قمت باسترداد 5 أشهر من سعرهم السنوي، أي $\frac{5}{12} \times \$100 = \$42$. ويعني هذا أيضًا أنه إذا قاموا بالإلغاء في وقت متأخر جدًا من العام، فلن تتمكن من رد أموالهم على الإطلاق، لأن الخطة الشهرية ستكون أكثر تكلفة.
 
-*Credits.*
-Rather than refunding cash, provide credit on the customer's account. Perhaps they'll buy something else in future, or they want to switch to a less expensive plan, or switch to monthly billing.
+*الائتمانات.* بدلاً من رد الأموال النقدية، قم بتوفير الائتمان على حساب العميل. ربما سيشترون شيئًا آخر في المستقبل، أو يريدون التبديل إلى خطة أقل تكلفة، أو التبديل إلى الفواتير الشهرية.
 
-*No refunds.*
-We have all experienced this with contracted services like our phone bill or corporate services. This is of course the least-generous approach, so you have to decide whether this policy adheres to your [cultural values](https://longform.asmartbear.com/emptiness/), your sense of business ethics, and whether you want to employ this tool as a [type of coercive relationship](https://longform.asmartbear.com/willingness-to-pay/).
+*لا يجوز استرداد المبالغ.* لقد مررنا جميعًا بذلك مع الخدمات المتعاقد عليها مثل فاتورة الهاتف أو خدمات الشركة. وهذا بالطبع هو النهج الأقل سخاءً، لذا عليك أن تقرر ما إذا كانت هذه السياسة تلتزم بـ [قيمك الثقافية](https://longform.asmartbear.com/emptiness/)، وإحساسك بأخلاقيات العمل، وما إذا كنت تريد استخدام هذه الأداة باعتبارها [نوعًا من العلاقة القسرية](https://longform.asmartbear.com/willingness-to-pay/).
 
-#### What if the customer cancels before the payback period elapses?
-Astute readers will notice that the "payback period" model didn't include cancellations.
+#### ماذا لو قام العميل بالإلغاء قبل انتهاء فترة الاسترداد؟
+سوف يلاحظ القراء الأذكياء أن نموذج "فترة الاسترداد" لم يتضمن عمليات الإلغاء.
 
-Clearly, not all customers who sign up on day 1 will still be here on day 30, much less day 300 or day 3000. In particular, if they cancel before the payback period, that's a net-loss for the business. Don't we need to account for that somehow?
+من الواضح أنه لن يظل جميع العملاء الذين قاموا بالتسجيل في اليوم الأول موجودين هنا في اليوم 30، ناهيك عن اليوم 300 أو اليوم 3000. وعلى وجه الخصوص، إذا قاموا بالإلغاء قبل فترة الاسترداد، فهذا يمثل خسارة صافية للشركة. ألا نحتاج إلى حساب ذلك بطريقة أو بأخرى؟
 
-Yes! Cancellations were omitted here for simplicity, but in practice you cannot ignore them. A simple way to account for them, is to first calculate your retention rate across the nominal payback period. For example, if payback is 12 months, what is your 12-month retention (`r`)? Excellent for Enterprise software is `r = 95%`; for SMB is `75%`; Shopify is just `50%`.
+نعم! تم حذف عمليات الإلغاء هنا للتبسيط، ولكن من الناحية العملية لا يمكنك تجاهلها. هناك طريقة بسيطة لحسابها، وهي أن تقوم أولاً بحساب معدل الاحتفاظ الخاص بك عبر فترة الاسترداد الاسمية. على سبيل المثال، إذا كان الاسترداد هو 12 شهرًا، فما هو الاحتفاظ لمدة 12 شهرًا ('r`)؟ ممتاز لبرامج المؤسسات هو `r = 95%`؛ للشركات الصغيرة والمتوسطة هي `75%`؛ Shopify هو فقط 50%.
 
-Then, we declare that the customers who *stay*, must make up the costs for the customers who *leave*. Therefore if the nominal payback period is `p` (as defined earlier), we actually need to wait `p / r` to get paid back.
+بعد ذلك، نعلن أن العملاء الذين *يبقون* يجب عليهم تعويض التكاليف للعملاء الذين *يغادرون*. لذلك، إذا كانت فترة الاسترداد الاسمية هي `p` (كما تم تعريفها سابقًا)، فإننا نحتاج في الواقع إلى الانتظار `p / r` للحصول على أموالنا.
 
-This formula is not exactly right either, but it's a simple method that gets you to the right vicinity.
+هذه الصيغة ليست صحيحة تمامًا أيضًا، ولكنها طريقة بسيطة توصلك إلى المنطقة المجاورة الصحيحة.
 
-#### What about all the other expenses at the company? CAC isn't the only cost.
-That's right, saying "infinite budget" is artistic license to make the point, which is that it's transformative for cash flow.
+#### ماذا عن جميع النفقات الأخرى في الشركة؟ CAC ليست التكلفة الوحيدة.
+هذا صحيح، فقول "ميزانية لا نهائية" هو رخصة فنية لتوضيح النقطة، وهي أنها تحول في التدفق النقدي.
 
 ---
 
-I hope you can use annual plans to dramatically change your cash-flow!
+آمل أن تتمكن من استخدام الخطط السنوية لتغيير التدفق النقدي الخاص بك بشكل كبير!
 
 ---
 
-*Many thanks to [Fabio Caravita](https://twitter.com/fabcaravita) for the idea of providing credits instead of cash refunds.*
+*شكرًا جزيلا لـ [فابيو كارافيتا](https://twitter.com/fabcaravita) على فكرة تقديم الأرصدة بدلاً من المبالغ المستردة نقدًا.*

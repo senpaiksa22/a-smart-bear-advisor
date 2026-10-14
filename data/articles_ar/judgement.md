@@ -20,31 +20,18 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** حول القيمة الحقيقية لحسن التقدير والحكمة الريادية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# On the value of Judgement
-
-> **Executive Summary:** We're told not to judge, lest we be judged. But we are constantly judged by customers, employees, family, media, and investors.
-> **Original URL:** [https://longform.asmartbear.com/judgement/](https://longform.asmartbear.com/judgement/)
-
 ![Contempt? I wish. The judge just said he was very disappointed in me.](https://longform.asmartbear.com/judgement/e74aff52.png)
 
-We're told not to judge, lest we be judged.
+قيل لنا ألا نحكم، حتى لا يُحكم علينا.
 
-But we *are* judged, by our customers choosing between us and a competitor, by our employees choosing whether to entwine their careers with our fate, and by our peers, allies, and passive-aggressive antagonists on social media.
+ولكن يتم الحكم علينا من خلال اختيار عملائنا بيننا وبين منافس، ومن خلال اختيار موظفينا لربط حياتهم المهنية بمصيرنا، ومن خلال أقراننا وحلفائنا وخصومنا العدوانيين السلبيين على وسائل التواصل الاجتماعي.
 
-We're instructed to respect others, especially other cultures. Indeed, new perspectives yield new insights. We are plagued by a bias against the unfamiliar, especially when it's convenient for our egos to deny that a new idea is superior to our own. But battling our emotional distain of the alien does not automatically imply respect for all other cultures and ideas. "Respecting" female mutilation because "it's a sin to judge," is unacceptable.
+لقد تعلمنا أن نحترم الآخرين، وخاصة الثقافات الأخرى. وفي الواقع، فإن وجهات النظر الجديدة تنتج رؤى جديدة. نحن مبتلون بالتحيز ضد ما هو غير مألوف، خاصة عندما يكون من المناسب لغرورنا أن ينكر أن فكرة جديدة تتفوق على فكرتنا. لكن محاربة اختلافنا العاطفي مع الكائن الفضائي لا يعني تلقائيًا احترام جميع الثقافات والأفكار الأخرى. إن "احترام" ختان الإناث لأن "الحكم عليه خطيئة" أمر غير مقبول.
 
-Judgement is essential. Judgements carve out the important from the incidental, a necessary component of focus. Judgement declares an idea victorious among alternatives, not as a determinant of universal truth, but to [cease dithering](https://longform.asmartbear.com/decisions-fast-slow/), and thus enable progress.
+الحكم ضروري. الأحكام تقتطع المهم من العرضي، وهو عنصر ضروري للتركيز. يعلن الحكم انتصار الفكرة بين البدائل، ليس كمحدد للحقيقة العالمية، ولكن [لوقف التردد](https://longform.asmartbear.com/decisions-fast-slow/)، وبالتالي تمكين التقدم.
 
-Rather than avoid judgement as a sin, we should invest in it as a skill. Rather than damn the act of judgement for the sake of avoiding incorrect judgments, we should celebrate the component skills of great judgement such as [bias-avoidance](https://longform.asmartbear.com/fallacies/), [clarifying the essential](https://longform.asmartbear.com/great-strategy/), combining data with vision, reasoning from first-principals, and [prioritization of apparently uncomparable options](https://longform.asmartbear.com/maximized-decision/).
+بدلًا من تجنب الحكم على الآخرين باعتباره خطيئة، يجب أن نستثمر فيه باعتباره مهارة. بدلاً من إدانة فعل الحكم من أجل تجنب الأحكام غير الصحيحة، يجب أن نحتفل بالمهارات المكونة للحكم العظيم مثل [التحيز](https://longform.asmartbear.com/fallologies/)، [توضيح الأساسي](https://longform.asmartbear.com/great-strategy/)، والجمع بين البيانات والرؤية، والتفكير من المبادئ الأولى، و [تحديد أولويات ما يبدو أنه لا يمكن مقارنته. الخيارات](https://longform.asmartbear.com/maximized-decision/).
 
-Observing the world with dispassionate equanimity is not a recipe for progress, nor insight, nor strategy. Great products, great design, great companies, great cultures, great strategy, great writing, great religions, all depend on a set of strong, clear judgments.
+إن مراقبة العالم برباطة جأش لا تمثل وصفة للتقدم، ولا البصيرة، ولا الاستراتيجية. إن المنتجات الرائعة، والتصميم الرائع، والشركات العظيمة، والثقافات العظيمة، والاستراتيجية العظيمة، والكتابة الرائعة، والأديان العظيمة، كلها تعتمد على مجموعة من الأحكام القوية والواضحة.
 
-Thus, avoiding judgement means avoiding greatness.
+وبالتالي فإن تجنب الحكم يعني تجنب العظمة.

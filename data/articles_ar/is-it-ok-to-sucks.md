@@ -20,43 +20,30 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** هل من المقبول أن يكون منتجك سيئاً في بعض الجوانب غير الجوهرية؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Is it OK to Sucks?
-
-> **Executive Summary:** Using humor or edgy language works. It's risky, and may alienate some potential customers, but it wins you more customers and shows differentiated personality.
-> **Original URL:** [https://longform.asmartbear.com/is-it-ok-to-sucks/](https://longform.asmartbear.com/is-it-ok-to-sucks/)
-
 ![Code Review Sucks advertisement](https://longform.asmartbear.com/is-it-ok-to-sucks/e87ef350.png)
 
- I first read that bizarre phrase--"Is it OK to sucks?"--in [a Slashdot article](http://slashdot.org/yro/01/02/07/0631201.shtml) seven years ago. Companies like Lockheed Martin were suing people who registered `LockheedMartinSucks.com` and a battle ensued over the boundary between free speech and trademark violation.
+قرأت لأول مرة هذه العبارة الغريبة - "هل من المقبول أن تكون سيئًا؟" - في [مقالة Slashdot](http://slashdot.org/yro/01/02/07/0631201.shtml) منذ سبع سنوات. كانت شركات مثل لوكهيد مارتن ترفع دعوى قضائية ضد الأشخاص الذين سجلوا موقع "LockheedMartinSucks.com"، واندلعت معركة حول الحدود بين حرية التعبير وانتهاك العلامات التجارية.
 
-I had that phrase in mind when I suggested that the title on our full page advertisement should read:
+لقد وضعت هذه العبارة في ذهني عندما اقترحت أن يكون العنوان الموجود في إعلان صفحتنا الكاملة كما يلي:
 
-**Peer code review doesn't have to SUCK.**
+**ليس من الضروري أن تكون مراجعة كود النظير غير ناجحة.**
 
-We were brainstorming.  There were other ideas.  I had to admit it might offend some readers.  I lost.  Fine.
+كنا العصف الذهني.  وكانت هناك أفكار أخرى.  كان علي أن أعترف أنه قد يسيء إلى بعض القراء.  أنا خسرت.  بخير.
 
-We went to press and the ad did really well.  We scored in the top 95 percentile on various measures in an independent test.  We got a surge in folks trying our stuff and asking questions.  So no regrets... but still... "suck" is funny...
+ذهبنا للصحافة وكان أداء الإعلان جيدًا حقًا.  لقد سجلنا أعلى 95 نسبة مئوية في مقاييس مختلفة في اختبار مستقل.  لقد حصلنا على زيادة كبيرة في عدد الأشخاص الذين يجربون منتجاتنا ويطرحون الأسئلة.  لذلك لا ندم...ولكن مع ذلك...كلمة "ممتص" مضحكة...
 
-Six months later I got the SD West 2007 Conference Guide.  On the inside front cover was a letter from the conference organizer entitled, "A Conference that Doesn't Suck."  Hey!
+وبعد ستة أشهر حصلت على دليل مؤتمر SD West 2007.  على الغلاف الأمامي الداخلي كانت هناك رسالة من منظم المؤتمر بعنوان "مؤتمر غير مقرف".  يا!
 
-Then I find David Platt is giving a talk called "Why Software Sucks."  The work "suck" appears three times in the course description.  In fact he even [wrote a book](http://www.whysoftwaresucks.com/) with that title.
+ثم وجدت أن ديفيد بلات يلقي محاضرة بعنوان "لماذا البرمجيات سيئة".  يظهر العمل "سيء" ثلاث مرات في وصف المقرر الدراسي.  في الواقع، حتى أنه [كتب كتابًا] (http://www.whysoftwaresucks.com/) بهذا العنوان.
 
-Nowadays it seems like every day I see a company with big-name customers who [uses the word "suck"](http://getsatisfaction.com/) on their front page.
+في هذه الأيام، يبدو أنني أرى كل يوم شركة لديها عملاء مشهورون [يستخدمون كلمة "سيء"](http://getsatisfaction.com/) على صفحتهم الأولى.
 
-Turns out it is OK to sucks!
+تبين أنه لا بأس أن تمتص!
 
-**It's better than OK.**  Small businesses have to get noticed with no money.  The least you can do is give yourself a notable phrase.  Or image:
+**إنه أفضل من موافق.** يجب أن يتم ملاحظة الشركات الصغيرة بدون أموال.  أقل ما يمكنك فعله هو أن تعطي لنفسك عبارة ملحوظة.  أو الصورة:
 
 ![Plumber with his pants down](https://longform.asmartbear.com/is-it-ok-to-sucks/369b87cc.png)
 
-Take a chance.  Risk offending.  If you don't offend some people, you're not saying anything worth hearing.  Being notable beats being forgotten.  For every person who is offended there's another who just fell in love.
+اغتنم الفرصة.  خطر الإساءة.  إذا لم تسيء إلى بعض الناس، فأنت لا تقول شيئًا يستحق الاستماع إليه.  يجري النسيان يدق ملحوظة.  مقابل كل شخص يشعر بالإهانة هناك شخص آخر وقع في الحب.
 
-(But maybe find another word--["sucks" is worn out.](https://longform.asmartbear.com/authentic-is-dead/))
+(ولكن ربما تجد كلمة أخرى - [لقد أصبحت كلمة "sucks" مهترئة.](https://longform.asmartbear.com/authentic-is-dead/))

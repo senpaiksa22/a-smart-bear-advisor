@@ -20,152 +20,139 @@ summary_ar: "كيف يمكن لشركة \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** مقياس SSEBITDA: حساب الربحية المستقرة لشركات البرمجيات السحابية SaaS تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# SSEBITDA⁠--A steady-state profit metric for SaaS companies
-
-> **Executive Summary:** How can a business that is "spending to grow" determine whether it's truly profitable underneath all that "revenue acceleration?"  Here's a way.
-> **Original URL:** [https://longform.asmartbear.com/ssebitda/](https://longform.asmartbear.com/ssebitda/)
-
 ![i understand that part but then where do storks come from](https://public.asmartbear.com/books/anthology/chapters/ssebitda/d1202print-simple.png)
 
-Your company is unprofitable because you're "spending to grow"--pumping money into sales and marketing faster than you're collecting revenue, resulting in accelerated but unprofitable growth. This is what you're _supposed_ to do--so they say--to build a large enterprise.
+شركتك غير مربحة لأنك "تنفق من أجل النمو" - أي ضخ الأموال في المبيعات والتسويق بشكل أسرع من جمع الإيرادات، مما يؤدي إلى نمو متسارع ولكنه غير مربح. هذا هو ما يُفترض أن تفعله — كما يقولون — لبناء مشروع كبير.
 
-Is this smart, or are you just creating a permanently-unprofitable company? How do you objectively measure whether you're strategically trading dollars-today for profit-tomorrow, or whether your business model is broken?
+هل هذا ذكاء أم أنك تقوم فقط بإنشاء شركة غير مربحة بشكل دائم؟ كيف يمكنك قياس ما إذا كنت تتداول بالدولار بشكل استراتيجي اليوم لتحقيق الربح في الغد، أو ما إذا كان نموذج عملك معطلاً؟
 
-## EBITDASM: Rackspace's attempt
+## EBITDASM: محاولة Rackspace
 
-When [Rackspace](https://en.wikipedia.org/wiki/Rackspace_Technology) was rapidly scaling, they answered this question using a metric they called EBITDASM. Here was their logic:
+عندما كان [Rackspace](https://en.wikipedia.org/wiki/Rackspace_Technology) يتوسع بسرعة، أجابوا على هذا السؤال باستخدام مقياس أطلقوا عليه اسم EBITDASM. وهنا كان منطقهم:
 
-> Rackspace is efficient at acquiring customers. Specifically, our CAC[^1] is small compared to our LTV.[^2]  
->   
-> Therefore, we spend as much as possible on growth. We take market share cost-effectively; we burn cash in the short-run, but we're profitable in the long-run.  
->   
-> However, we know other companies _claim_ this was true for them, but they never actually get profitable! We don't want to become one of those. What can we _objectively_ measure that would tell us whether we're being smart?  
->   
-> Well, growth primarily comes from S&M[^3] spend. So, what if we stopped S&M spend? We'd stop growing, but what would happen to the rest of our finances?  
->   
-> Specifically: Would we be profitable? If the answer is "no," then our core business model isn't profitable. But if the answer is "yes," then we really are justified in saying that our underlying business is profitable, and our additional spent beyond that is indeed "to grow."
+> تعتبر شركة Rackspace فعالة في جذب العملاء. وعلى وجه التحديد، فإن تكلفة تكلفة الوصول (CAC)[^1] لدينا صغيرة مقارنةً بالقيمة الدائمة (LTV).[^2]
+> 
+> ولذلك، فإننا ننفق أكبر قدر ممكن على النمو. نحن نأخذ حصة السوق بطريقة فعالة من حيث التكلفة؛ نحن نحرق الأموال النقدية على المدى القصير، ولكننا نحقق أرباحًا على المدى الطويل.
+> 
+> ومع ذلك، فإننا نعلم أن شركات أخرى تدعي أن هذا كان صحيحًا بالنسبة لها، لكنها لم تحقق أرباحًا أبدًا! لا نريد أن نصبح واحدًا من هؤلاء. ما الذي يمكننا قياسه بموضوعية والذي من شأنه أن يخبرنا ما إذا كنا أذكياء؟
+> 
+> حسنًا، يأتي النمو بشكل أساسي من الإنفاق على S&M[^3]. إذن، ماذا لو أوقفنا إنفاق S&M؟ سوف نتوقف عن النمو، ولكن ماذا سيحدث لبقية مواردنا المالية؟
+> 
+> على وجه التحديد: هل سنكون مربحين؟ إذا كانت الإجابة "لا"، فإن نموذج أعمالنا الأساسي ليس مربحًا. ولكن إذا كانت الإجابة "نعم"، فمن حقنا أن نقول إن أعمالنا الأساسية مربحة، وأن إنفاقنا الإضافي بعد ذلك هو في الواقع "للنمو".
 
-They called the resulting metric **EBITDASM**--an extension of the typical American accounting metric of EBITDA,[^4] where in addition to the usual exclusions, we also exclude Sales and Marketing.
+وقد أطلقوا على المقياس الناتج **قبل الفوائد والضرائب والإهلاك والاستهلاك**--امتدادًا لمقياس المحاسبة الأمريكي النموذجي للأرباح قبل الفوائد والضرائب والإهلاك والاستهلاك،[^4] حيث، بالإضافة إلى الاستثناءات المعتادة، نستبعد أيضًا المبيعات والتسويق.
 
-[^1]: CAC is the Cost to Acquire a Customer, defined as all Sales and Marketing expenses, divided by the number of customers yielded by those activities.
+[^1]: CAC هي تكلفة اكتساب العميل، والتي يتم تعريفها على أنها جميع نفقات المبيعات والتسويق، مقسومة على عدد العملاء الناتج عن تلك الأنشطة.
 
-[^2]: LTV is the LifeTime Value of a customer, meaning the total gross revenue the customer will generate over the years it remains a customer. Side-note: [I don't believe in LTV](https://longform.asmartbear.com/ltv/).
+[^2]: القيمة الدائمة هي القيمة الدائمة للعميل، مما يعني إجمالي الإيرادات التي سيحققها العميل على مدار السنوات التي يظل فيها عميلاً. ملاحظة جانبية: [لا أؤمن بالقيمة الدائمة](https://longform.asmartbear.com/ltv/).
 
-[^3]: S&M is Sales and Marketing. Why, what did _you_ think that stood for?
+[^3]: S&M هو المبيعات والتسويق. لماذا، ما الذي تعتقد أنه يمثله؟
 
-[^4]: [EBITDA](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation_and_amortization) is Earnings Before Interest, Taxes, Depreciation, and Amortization. It measures a company's normal business operations by stripping away non-operational expenses. It's useful for comparing operational profitability across companies with different capital structures, tax situations, and accounting practices.
+[^4]: [EBITDA](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation_and_amortization) هي الأرباح قبل الفوائد والضرائب والإهلاك والإطفاء. وهو يقيس العمليات التجارية العادية للشركة عن طريق إزالة النفقات غير التشغيلية. إنه مفيد لمقارنة الربحية التشغيلية عبر الشركات ذات هياكل رأس المال المختلفة والمواقف الضريبية والممارسات المحاسبية.
 
-Computing using the usual metrics:
+الحوسبة باستخدام المقاييس المعتادة:
 
 `EBITDASM = EBITDA + SM`
 
-For small software companies who don't have purchases to amortize, don't have assets to depreciate, and don't have interest on loans, an even simpler version is just:
+بالنسبة لشركات البرمجيات الصغيرة التي ليس لديها مشتريات لإطفاءها، وليس لديها أصول يمكن استهلاكها، وليس لديها فوائد على القروض، فإن الإصدار الأبسط هو فقط:
 
-`EBITDASM = [your definition of "profit"] + SM`
+`EBITDASM = [تعريفك لـ "الربح"] + SM`
 
-I like this model, and ten years ago we were using it at WP Engine.
+يعجبني هذا النموذج، ومنذ عشر سنوات كنا نستخدمه في WP Engine.
 
-## Two flaws in EBITDASM
+## عيبان في الأرباح قبل الفوائد والضرائب والإهلاك والاستهلاك
 
-While EBITDASM is a good start, it suffers from two flaws:
+في حين أن الأرباح قبل الفوائد والضرائب والإهلاك والاستهلاك هي بداية جيدة، إلا أنها تعاني من عيبين:
 
-#### (1) Halting Sales & Marketing does not mean revenue remains flat.
-An assumption above was: If we stop S&M spend, the company will be static, with revenue neither growing nor shrinking. But that's not true, because revenue will fall (due to cancellations and downgrades) or grow (due to upgrades).
+#### (1) توقف المبيعات والتسويق لا يعني بقاء الإيرادات ثابتة.
+كان الافتراض أعلاه هو: إذا أوقفنا إنفاق S&M، فستكون الشركة ثابتة، ولن تنمو الإيرادات أو تتقلص. لكن هذا ليس صحيحًا، لأن الإيرادات ستنخفض (بسبب الإلغاءات وتخفيض التصنيف) أو ستنمو (بسبب الترقيات).
 
-The intent was correct--measuring profitability assuming the company is neither growing nor shrinking[^5]--so we need a metric that actually measures that.
+كان القصد صحيحًا -- قياس الربحية على افتراض أن الشركة لا تنمو ولا تتقلص[^5] -- لذا نحتاج إلى مقياس يقيس ذلك فعليًا.
 
-#### (2) What if marketing and sales isn't efficient?
-Another assumption was: Because we're efficient at acquiring customers, it's logical to spend as much as possible. But what about companies where that assumption is false or unclear?
+#### (2) ماذا لو لم يكن التسويق والمبيعات فعالين؟
+وكان الافتراض الآخر هو: نظرًا لأننا نتمتع بالكفاءة في اكتساب العملاء، فمن المنطقي أن ننفق أكبر قدر ممكن. ولكن ماذا عن الشركات التي يكون فيها هذا الافتراض خاطئًا أو غير واضح؟
 
-How efficient does customer-acquisition have to be[^6] before we're allowed to use this metric? We shouldn't have to debate that; the metric should apply to all companies.
+ما مدى كفاءة اكتساب العملاء[^6] قبل أن يُسمح لنا باستخدام هذا المقياس؟ لا ينبغي لنا أن نناقش ذلك؛ يجب أن ينطبق المقياس على جميع الشركات.
 
-Of course Sales and Marketing cost-effectiveness is important! But it's a separate metric which, by the way, you can already compute. Let's not cram multiple ideas into a single metric.
+بالطبع فعالية المبيعات والتسويق من حيث التكلفة أمر مهم! لكنه مقياس منفصل، وبالمناسبة، يمكنك حسابه بالفعل. دعونا لا نجمع أفكارًا متعددة في مقياس واحد.
 
-[^5]: To see why: Consider a company that's "profitable" in the sense that revenue is greater than costs, but it's shrinking every month. That's a company that will soon be dead, and sooner will be unprofitable. This is not what we mean by "profitable."
+[^5]: لمعرفة السبب: فكر في شركة "مربحة" بمعنى أن إيراداتها أكبر من التكاليف، ولكنها تتقلص كل شهر. هذه شركة سوف تموت قريبًا، وعاجلا سوف تصبح غير مربحة. وهذا ليس ما نعنيه بكلمة "مربحة".
 
-[^6]: There is prior art on this question, e.g. some say the threshold is an LTV/CAC of 3, because of [one blog post by David Skok](https://www.forentrepreneurs.com/saas-metrics-2/) more than ten years ago. But others say 5 while others say 1, and [I say that LTV isn't the right way to think about it anyway](https://longform.asmartbear.com/ltv/), and that you ought to use "payback period" instead.
+[^6]: هناك حالة فنية سابقة حول هذا السؤال، على سبيل المثال: يقول البعض أن الحد الأدنى هو LTV/CAC بقيمة 3، وذلك بسبب [منشور مدونة بواسطة David Skok](https://www.forentrepreneurs.com/saas-metrics-2/) منذ أكثر من عشر سنوات. لكن آخرين يقولون 5 بينما يقول آخرون 1، و[أقول أن القيمة الدائمة ليست الطريقة الصحيحة للتفكير في الأمر على أي حال](https://longform.asmartbear.com/ltv/)، وأنه يجب عليك استخدام "فترة الاسترداد" بدلاً من ذلك.
 
-Is there a way of measuring whether the company is "fundamentally profitable" while avoiding these two flaws?
+هل هناك طريقة لقياس ما إذا كانت الشركة "مربحة بشكل أساسي" مع تجنب هذين العيبين؟
 
-Long-time readers might at this moment have the flash of realization that I had when first considering these flaws--it involves the same set of SaaS metrics that come together neatly in the definition of [COC (Cost of Cancellation)](https://longform.asmartbear.com/coc/).[^7] It turns out that **COC is the key** to this metric of "underlying profitability."
+قد يكون لدى القراء القدامى في هذه اللحظة ومضة الإدراك التي كانت لدي عندما فكرت لأول مرة في هذه العيوب - فهي تتضمن نفس مجموعة مقاييس SaaS التي يتم تجميعها معًا بدقة في تعريف [COC (تكلفة الإلغاء)](https://longform.asmartbear.com/coc/).[^7] اتضح أن **COC هو المفتاح** لمقياس "الربحية الأساسية".
 
-[^7]: Briefly: COC is defined as the cost of replacing customers that cancel, and thus the cost to remain at this "steady-state." Most simply it is: `CAC ✕ C`, where `C` is the number of customers that cancel in a month. See the article for the formula, derivation, and discussion.
+[^7]: باختصار: يتم تعريف COC على أنها تكلفة استبدال العملاء الذين يقومون بالإلغاء، وبالتالي تكلفة البقاء في هذه "الحالة المستقرة". والأكثر بساطة هو: `CAC ✕ C`، حيث `C` هو عدد العملاء الذين يقومون بالإلغاء خلال شهر واحد. راجع المقالة للتعرف على الصيغة والاشتقاق والمناقشة.
 
-## SSEBITDA: Steady-State profitability
+## SSEBITDA: ربحية الحالة الثابتة
 
-Reframing the question leads us to a simple conclusion.
+إعادة صياغة السؤال تقودنا إلى نتيجة بسيطة.
 
-Let's define a metric closer to our original intent: "Steady-state profitability," which I abbreviate as **SSEBITDA**. Longer: *How profitable would we be, if we were spending only enough to maintain the current state of the company, neither growing nor shrinking?*
+دعونا نحدد مقياسًا أقرب إلى هدفنا الأصلي: "ربحية الحالة الثابتة"، والتي أختصرها بـ **SSEBITDA**. أطول: *ما مدى ربحيتنا إذا كنا ننفق ما يكفي فقط للحفاظ على الوضع الحالي للشركة، لا تنمو ولا تتقلص؟*
 
-Having read the previous article on COC, the formula is simple:
+بعد قراءة المقال السابق عن COC، فإن الصيغة بسيطة:
 
-`SSEBITDA = EBITDA + SM − COC`
+`SSEBITDA = الأرباح قبل الفوائد والضرائب والإهلاك والاستهلاك + SM − COC`
 
-In short, including the S&M costs needed to replace cancelled customers, but no additional S&M costs.
+باختصار، بما في ذلك تكاليف S&M اللازمة لاستبدال العملاء الملغاين، ولكن لا توجد تكاليف S&M إضافية.
 
-This solves both flaws because:
+هذا يحل كلا العيوب للأسباب التالية:
 
-1. We've added back the cost of maintaining flat revenue ("steady-state").
-2. COC includes sales-efficiency, so it works for all companies.
+1. لقد أضفنا مرة أخرى تكلفة الحفاظ على الإيرادات الثابتة ("الحالة المستقرة").
+2. يتضمن COC كفاءة المبيعات، لذلك فهو مناسب لجميع الشركات.
 
-Thus it is the formula for "profit if we maintain the company as it exists today."
+وبالتالي فهي صيغة "الربح إذا حافظنا على الشركة كما هي اليوم".
 
-## Corollary: Profitable Growth Rate
+## النتيجة الطبيعية: معدل النمو المربح
 
-Another interesting metric falls directly out of SSEBITDA--"Profitable Growth Rate," i.e. the rate of revenue growth the company can self-fund while still being profitable.
+مقياس آخر مثير للاهتمام يندرج مباشرة من SSEBITDA - "معدل النمو المربح"، أي معدل نمو الإيرادات الذي يمكن للشركة تمويله ذاتيًا بينما لا تزال مربحة.
 
-Where `p` is the cost of a dollar of revenue (also defined in the [COC article](https://longform.asmartbear.com/coc/)):
+حيث `p` هي تكلفة الإيرادات بالدولار (المحددة أيضًا في [مقالة مدونة قواعد السلوك](https://longform.asmartbear.com/coc/)):
 
-`Profitable Growth Rate = SSEBITDA / p`
+`معدل النمو المربح = SSEBITDA / p`
 
-Justification: If we recycle 100% of the funds from steady-state profitability back into growth, we spend `p` dollars to earn each dollar of new recurring revenue.
+المبررات: إذا قمنا بإعادة تدوير 100% من الأموال من الربحية الثابتة إلى النمو، فإننا ننفق دولارات لكسب كل دولار من الإيرادات المتكررة الجديدة.
 
-Any growth larger than that will require being unprofitable, by a known amount. This is handy, because **now we can justify "spend to grow" with precision**.
+وأي نمو أكبر من ذلك سيتطلب أن يكون غير مربح، بمقدار معروف. وهذا مفيد، لأنه ** الآن يمكننا تبرير "الإنفاق من أجل النمو" بدقة **.
 
-For example, if SSEBITDA is 12% and `p` is 4, the company can grow at 3%/mo using its own money. Supposing the company is willing and able to spend more to grow at 8%/mo, it will be unprofitable by 20%.[^8] A company in exactly this situation is indeed "spending to grow" in a responsible manner, and will result a profitable business once the dust settles.
+على سبيل المثال، إذا كانت SSEBITDA تبلغ 12% و"p" تساوي 4، فيمكن للشركة أن تنمو بمعدل 3% شهريًا باستخدام أموالها الخاصة. لنفترض أن الشركة مستعدة وقادرة على إنفاق المزيد لتحقيق النمو بمعدل 8% شهريًا، فستكون غير مربحة بنسبة 20%.[^8] الشركة في هذا الموقف بالضبط هي في الواقع "تنفق من أجل النمو" بطريقة مسؤولة، وسوف تؤدي إلى عمل تجاري مربح بمجرد أن يهدأ الوضع.
 
-[^8]: Because 8% is 5% more than we could grow based on our own profits, and that 5% is bought at a cost of `p`=4 dollars to earn every 1 dollar of revenue, so 5% × 4 = 20%.
+[^8]: لأن 8% تزيد بنسبة 5% عما يمكن أن ننموه استنادًا إلى أرباحنا الخاصة، ويتم شراء 5% بتكلفة `p`=4 دولارات لكسب كل دولار واحد من الإيرادات، لذا 5% × 4 = 20%.
 
-## Additional thoughts on SSEBITDA
+## أفكار إضافية حول SSEBITDA
 
-Having used SSEBITDA for some years now, here are some assorted additional thoughts:
+بعد استخدام SSEBITDA لعدة سنوات، إليك بعض الأفكار الإضافية المتنوعة:
 
-#### Negative SSEBITDA
+#### SSEBITDA سلبية
 
-A negative SSEBITDA isn't necessarily a problem. It depends on the context and goals of the company.
+لا يمثل SSEBITDA السلبي مشكلة بالضرورة. ذلك يعتمد على سياق وأهداف الشركة.
 
-For example, an early-stage high-tech SaaS company will be spending much more in R&D *as a percentage of revenue* than a later-stage company. Or a mid-stage company (like WP Engine) might have higher G&A spend (office space, finance, legal, HR) *as a percentage of revenue,* until it grows into those services. Those are expenses that eat into EBITDA and thus SSEBITDA, but that doesn't mean the company won't be profitable with larger scale.
+على سبيل المثال، ستنفق شركة SaaS عالية التقنية في مرحلة مبكرة أكثر بكثير على البحث والتطوير *كنسبة مئوية من الإيرادات* مقارنة بشركة في مرحلة لاحقة. أو قد يكون لدى شركة في المرحلة المتوسطة (مثل WP Engine) إنفاق أعلى على النفقات العامة والإدارية (المساحات المكتبية، والمالية، والقانونية، والموارد البشرية) *كنسبة مئوية من الإيرادات،* حتى تنمو إلى تلك الخدمات. هذه هي النفقات التي تستهلك الأرباح قبل الفوائد والضرائب والإهلاك والاستهلاك وبالتالي SSEBITDA، لكن هذا لا يعني أن الشركة لن تكون مربحة على نطاق أوسع.
 
-#### Removing other costs for a more precise "steady-state"
+#### إزالة التكاليف الأخرى من أجل "حالة مستقرة" أكثر دقة
 
-Or: Why _not_ to do that.
+أو: لماذا _لا_ تفعل ذلك.
 
-It's tempting to point out that not all engineers are working on maintenance; perhaps in steady-state we wouldn't need to add so many new features, and thus engineering expenses would be lower too. And we might do away with some of that overhead expense.
+من المغري الإشارة إلى أنه ليس كل المهندسين يعملون على الصيانة؛ ربما في الحالة المستقرة لن نحتاج إلى إضافة الكثير من الميزات الجديدة، وبالتالي ستكون النفقات الهندسية أقل أيضًا. وقد نتخلص من بعض هذه النفقات العامة.
 
-This seems logical, but I don't think it's actually correct, nor worth your time to calculate. First, it's a lot of work to figure out in detail, and this is supposed to be quick and helpful. Second, it's not really true. A product that never adds a new feature is _not_ in a "steady-state," because the market is changing around it--customer needs, competitive pressures, the rise of new technologies and trends [like AI](https://longform.asmartbear.com/ai-startups/). So, exactly how much new-feature development is needed for "steady-state?" No one knows, and it's not worth your time to try to invent an answer.
+يبدو هذا منطقيًا، لكنني لا أعتقد أنه صحيح بالفعل، ولا يستحق وقتك في حسابه. أولاً، يتطلب الأمر الكثير من العمل لمعرفة التفاصيل، ومن المفترض أن يكون هذا سريعًا ومفيدًا. ثانيا، هذا ليس صحيحا حقا. المنتج الذي لا يضيف ميزة جديدة أبدًا لا يكون في "حالة ثابتة"، لأن السوق يتغير من حوله - احتياجات العملاء، والضغوط التنافسية، وظهور تقنيات واتجاهات جديدة [مثل الذكاء الاصطناعي](https://longform.asmartbear.com/ai-startups/). إذًا، ما مقدار تطوير الميزات الجديدة المطلوب بالضبط لتحقيق "الحالة المستقرة"؟ لا أحد يعرف، ولا يستحق وقتك أن تحاول اختراع إجابة.
 
-#### Actionable idea arise from components of SSEBITDA.
+#### تنشأ فكرة قابلة للتنفيذ من مكونات SSEBITDA.
 
-If SSEBITDA is negative because GPM is low or COC is high, that's an unprofitable model, and you need to address the root causes. If it's especially low due to cancellations or high CAC, those are actionable. If you have intentionally high R&D costs because you're investing in product, and a bump in G&A because you just moved into a new office space, you know those will correct themselves over time. You might even calculate an "expected SSEBITDA after scale" where e.g R&D plus G&A costs total 30% of revenue and see how you're doing.
+إذا كانت قيمة SSEBITDA سالبة لأن GPM منخفض أو COC مرتفع، فهذا نموذج غير مربح، وتحتاج إلى معالجة الأسباب الجذرية. إذا كانت منخفضة بشكل خاص بسبب عمليات الإلغاء أو ارتفاع تكلفة تكلفة الوصول (CAC)، فهذه قابلة للتنفيذ. إذا كانت لديك تكاليف بحث وتطوير مرتفعة عن عمد لأنك تستثمر في المنتج، وتضخم في النفقات العامة والإدارية لأنك انتقلت للتو إلى مساحة مكتبية جديدة، فأنت تعلم أن هذه التكاليف ستصحح نفسها بمرور الوقت. يمكنك أيضًا حساب "SSEBITDA المتوقع بعد النطاق" حيث تبلغ تكاليف البحث والتطوير بالإضافة إلى تكاليف G&A على سبيل المثال 30% من الإيرادات وترى كيف تسير الأمور.
 
-The overall number is useful as a sort of combined north-star metric, but all the insights and actions come from backing out of the inputs to the number, seeing which of those are worth changing, and acting on those inputs.
+يعد الرقم الإجمالي مفيدًا كنوع من مقياس نجم الشمال المدمج، ولكن كل الأفكار والإجراءات تأتي من التراجع عن المدخلات إلى الرقم، ومعرفة أي منها يستحق التغيير، والتصرف بناءً على تلك المدخلات.
 
-#### Watch it directionally more than absolutely.
+#### مشاهدته بشكل مباشر أكثر من المطلق.
 
-This is good advice for [most metrics](https://longform.asmartbear.com/product-metrics/). At WP Engine we watched it move month over month from negative to positive and then continue to grow. While you're seeing a positive trend, not just in the overall metric but in the component inputs, and when you have a roadmap designed to continue to improve those metrics, that's a healthy path regardless of the absolute value of the metric today. After all, your goal is not to actually be in a steady state!
+هذه نصيحة جيدة لـ [معظم المقاييس](https://longform.asmartbear.com/product-metrics/). في WP Engine، شاهدناه يتحرك شهرًا بعد شهر من السلبي إلى الإيجابي ثم يستمر في النمو. بينما ترى اتجاهًا إيجابيًا، ليس فقط في المقياس الإجمالي ولكن في مدخلات المكونات، وعندما يكون لديك خريطة طريق مصممة لمواصلة تحسين تلك المقاييس، يعد هذا مسارًا صحيًا بغض النظر عن القيمة المطلقة للمقياس اليوم. ففي النهاية، هدفك ليس أن تكون في حالة مستقرة بالفعل!
 
-#### Once positive, growing *as a percentage of revenue* could be less important.
+#### بمجرد أن تكون النتيجة إيجابية، قد يكون النمو *كنسبة مئوية من الإيرادات* أقل أهمية.
 
-Consider that if SSEBITDA is steady 10% of revenue, *and the company is growing*, then in absolute dollars SSEBITDA is growing. Of course it's always great to see improvement in this metric as a percentage of revenue, but certainly it's logical for a company to invest some of it back into the business for de-risking and further growth rather than maniacally increasing this metric.
+ضع في اعتبارك أنه إذا كانت SSEBITDA ثابتة بنسبة 10% من الإيرادات، *والشركة تنمو*، فإن SSEBITDA تنمو بالدولار المطلق. بالطبع من الرائع دائمًا رؤية تحسن في هذا المقياس كنسبة مئوية من الإيرادات، ولكن من المؤكد أنه من المنطقي لشركة ما أن تستثمر بعضًا منه مرة أخرى في العمل من أجل تقليل المخاطر وتحقيق المزيد من النمو بدلاً من زيادة هذا المقياس بشكل جنوني.
 
 ---
 
-Now, go get profitable. (Eventually!)
+الآن، اذهب لتحقيق الربح. (مؤخراً!)

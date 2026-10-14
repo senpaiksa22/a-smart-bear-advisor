@@ -20,54 +20,41 @@ summary_ar: "\"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** أفضل بالنسبة لمن؟ نسبية القيمة في عيون العملاء المختلفين تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+> لقد نظرنا إلى جميع المنتجات الموجودة في المكان وفكرنا، "يمكننا أن نفعل ذلك بشكل أفضل." هكذا فعلنا.
+> *--معظم المؤسسين*
 
----
-
-### النص المرجعي للمقال (Original Reference):
-# Better for whom?
-
-> **Executive Summary:** "Better" is always in the eye of the beholder. That's why the question is always: Better for whom?
-> **Original URL:** [https://longform.asmartbear.com/better-for-whom/](https://longform.asmartbear.com/better-for-whom/)
-
-> We looked at all the products in the space and thought, "We can do it better." So we did.
-> *--most founders*
-
-It's a common refrain, and I suppose this is what all founders *should* think! After all, if your product is inferior in every way to even *one* [incumbent](https://longform.asmartbear.com/startup-beats-incumbent/) product, why do it at all?
+إنها لازمة شائعة، وأعتقد أن هذا ما يجب أن يفكر فيه جميع المؤسسين! بعد كل شيء، إذا كان منتجك أقل جودة في كل شيء حتى من منتج واحد* [شاغل الوظيفة](https://longform.asmartbear.com/startup-beats-incumbent/)، فلماذا تفعل ذلك على الإطلاق؟
 
 ![better living](https://longform.asmartbear.com/better-for-whom/d445b5de.png)
 
-Still, **this is always an invalid "idea" for a business.**
+ومع ذلك، **فإن هذه دائمًا "فكرة" غير صالحة لنشاط تجاري.**
 
-To see why, consider a home builder who says "I looked at all the other houses in this city and thought, 'I can do better.'"
+لمعرفة السبب، فكر في بناء منزل يقول: "لقد نظرت إلى جميع المنازل الأخرى في هذه المدينة وفكرت: "يمكنني أن أفعل ما هو أفضل".
 
-Better for whom? A 19-year-old bachelor who never cooks, skipped college, and has no money?  A millionaire with a wine collection?  A family of six?  A family of rats?
+أفضل لمن؟ عازب يبلغ من العمر 19 عامًا ولم يطبخ أبدًا، وتغيب عن الكلية، وليس لديه مال؟  مليونير مع مجموعة النبيذ؟  عائلة مكونة من ستة أفراد؟  عائلة من الفئران؟
 
-So when someone says their product is "better," my next question is always: "Better for whom?"
+لذلك عندما يقول شخص ما أن منتجه "أفضل"، فإن سؤالي التالي دائمًا هو: "أفضل لمن؟"
 
-You quickly realize there's no such thing as "better."  There's only such thing as "better for a specific market segment."
+ستدرك بسرعة أنه لا يوجد شيء اسمه "أفضل".  لا يوجد سوى شيء مثل "الأفضل لقطاع معين من السوق".
 
-What spurred this blog post was someone who wrote exactly what I quoted above, in the space of project-management (PM) tools. It makes sense--almost everyone dislikes *some* aspect of their PM tool (which might also explain the proliferation of such tools).
+إن ما دفع إلى نشر هذه المدونة هو شخص كتب بالضبط ما نقلته أعلاه، في مجال أدوات إدارة المشاريع (PM). هذا أمر منطقي - الجميع تقريبًا يكرهون * بعض * جوانب أداة PM الخاصة بهم (وهو ما قد يفسر أيضًا انتشار مثل هذه الأدوات).
 
-You can already imagine the pitch, a variant of the generic "it's better" like "All the things you love about Microsoft Project, but none of the things you hate." Uh-huh. Who's "you?"
+يمكنك بالفعل أن تتخيل العرض التقديمي، وهو بديل للجملة العامة "إنه أفضل" مثل "كل الأشياء التي تحبها في Microsoft Project، ولكن لا شيء من الأشياء التي تكرهها". اه هاه. من هو "أنت؟"
 
-Here's some examples of pitches which *would* make sense.  Who knows if they're good ideas, but at least they are *actual ideas,* actual proposals, in that they *define* "better:"
+فيما يلي بعض الأمثلة على العروض التقديمية التي *قد* تكون منطقية.  من يدري ما إذا كانت أفكارًا جيدة، لكنها على الأقل *أفكار فعلية،* مقترحات فعلية، من حيث *تعريف* "الأفضل:"
 
-* PM tools assume you already know about project management.  My PM tool is best for people who have been thrust into a PM position but need help on nomenclature, process, best practices, and how to get the most from their tool and their team.
-* Modern PM tools are too simplistic because they follow the 37signals and Lean Startup mantra of building the simplest possible thing. But that means they're no good for large, complex, distributed, multi-user projects. Older PM tools understood that use-case, but they're clunky install-only implementations where online collaboration, mobile and even the Mac is a bolt-on afterthought.  My PM tool is best for large, complex projects with modern technology requirements.
-* PM tools were built in the installed- or web-based-eras. My PM tool was built from the start for the iPad only. It's the best if you need to manage projects from meetings and on the go.
-* PM tools are built for a small, fixed set of workers.  My PM tool is best for distributed, open projects with thousands of members but which still require central management.
-* PM tools assume your set of tasks, goals, and projects are relatively fixed.  My PM tool is best for open-ended projects where requirements change constantly and the tool should change with it and even measure the change.
+* تفترض أدوات PM أنك تعرف بالفعل إدارة المشروع.  تُعد أداة PM الخاصة بي هي الأفضل للأشخاص الذين تم دفعهم إلى منصب PM ولكنهم بحاجة إلى مساعدة بشأن التسميات والعملية وأفضل الممارسات وكيفية تحقيق أقصى استفادة من أداتهم وفريقهم.
+* تعتبر أدوات إدارة المشاريع الحديثة مبسطة للغاية لأنها تتبع 37 إشارة وشعار Lean Startup لبناء أبسط شيء ممكن. ولكن هذا يعني أنها ليست جيدة للمشاريع الكبيرة والمعقدة والموزعة ومتعددة المستخدمين. لقد فهمت أدوات إدارة المشاريع الأقدم حالة الاستخدام هذه، ولكنها عبارة عن تطبيقات قديمة للتثبيت فقط حيث يكون التعاون عبر الإنترنت والهاتف المحمول وحتى جهاز Mac بمثابة فكرة لاحقة.  تعد أداة PM الخاصة بي هي الأفضل للمشاريع الكبيرة والمعقدة ذات متطلبات التكنولوجيا الحديثة.
+* تم إنشاء أدوات PM في العصور المثبتة أو المستندة إلى الويب. تم إنشاء أداة My PM منذ البداية لجهاز iPad فقط. إنه الأفضل إذا كنت بحاجة إلى إدارة المشاريع من الاجتماعات وأثناء التنقل.
+* تم تصميم أدوات PM لمجموعة صغيرة وثابتة من العمال.  تُعد أداة PM الخاصة بي هي الأفضل للمشاريع الموزعة والمفتوحة التي تضم آلاف الأعضاء ولكنها لا تزال تتطلب إدارة مركزية.
+* تفترض أدوات PM أن مجموعة المهام والأهداف والمشاريع الخاصة بك ثابتة نسبيًا.  تعد أداة PM الخاصة بي هي الأفضل للمشاريع المفتوحة حيث تتغير المتطلبات باستمرار ويجب أن تتغير الأداة معها وحتى قياس التغيير.
 
-The other thing you should notice about these "better for whom" statements is that they naturally point the way to the next steps in the business:
+الشيء الآخر الذي يجب أن تلاحظه بشأن عبارات "الأفضل لمن" هو أنها تشير بطبيعة الحال إلى الطريق إلى الخطوات التالية في العمل:
 
-If you know your audience, you can create targeted advertisements, go to specific conferences, and even cold-call them on LinkedIn. You know what words to put on your homepage. You know which features will especially tickle their fancy. You know what to highlight to differentiate from competition.  This is all the usual benefits of [identifying your perfect customer](https://longform.asmartbear.com/icp-ideal-customer-persona/), applied to the product instead of the customer's identity.
+إذا كنت تعرف جمهورك، فيمكنك إنشاء إعلانات مستهدفة، والانتقال إلى مؤتمرات محددة، وحتى الاتصال بهم على LinkedIn. أنت تعرف ما هي الكلمات التي يجب وضعها على صفحتك الرئيسية. أنت تعرف ما هي الميزات التي ستثير إعجابهم بشكل خاص. أنت تعرف ما يجب تسليط الضوء عليه للتمييز عن المنافسة.  هذه هي جميع المزايا المعتادة لـ [تحديد عميلك المثالي](https://longform.asmartbear.com/icp-ideal-customer-persona/)، والتي يتم تطبيقها على المنتج بدلاً من هوية العميل.
 
-Or if you're still in the ideation stage, it gives you the basis for [customer development](https://longform.asmartbear.com/customer-development/), both in finding potential customers to call, and what you're verifying when you get them on the phone.
+أو إذا كنت لا تزال في مرحلة التفكير، فهذا يمنحك الأساس [لتطوير العملاء](https://longform.asmartbear.com/customer-development/)، سواء في العثور على العملاء المحتملين للاتصال بهم، أو ما تتحقق منه عندما تتصل بهم عبر الهاتف.
 
-Surely your product is "better" than the rest... for someone. 
+من المؤكد أن منتجك "أفضل" من الباقي... بالنسبة لشخص ما.
 
-Whom?
+مَن؟

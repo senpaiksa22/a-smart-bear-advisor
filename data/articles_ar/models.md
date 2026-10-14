@@ -20,100 +20,84 @@ summary_ar: "تحديد الأطر المفيدة للشركات والاستر�
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كل النماذج الجميلة خاطئة، لكن بعض النماذج البسيطة مفيدة جداً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# All pretty models are wrong, but some ugly models are useful
-
-> **Executive Summary:** Identifying useful frameworks for companies, strategy, markets, and organizations, instead of those that just look pretty in PowerPoint.
-> **Original URL:** [https://longform.asmartbear.com/models/](https://longform.asmartbear.com/models/)
-
 !["Study hard what interests you the most in the most undisciplined, irreverent and original manner possible!" --Richard Feynman](https://public.asmartbear.com/books/anthology/chapters/models/image-3-simple.png)
 
-## Wrong, but useful
+## خطأ ولكنه مفيد
 
-Contrary to our intuition, a theory of physics can be **useful**--making accurate predictions--and yet simultaneously **incorrect**--not accurately describing how the universe actually works.
+وخلافًا لحدسنا، يمكن لنظرية الفيزياء أن تكون **مفيدة** — حيث تقوم بتنبؤات دقيقة — ولكنها في الوقت نفسه **غير صحيحة** — ولا تصف بدقة كيفية عمل الكون فعليًا.
 
-The Mayans' conception of the Earth, moon, sun, planets, and stars, was as ludicrous as every other ancient civilization, yet their priests routinely predicted the timing of eclipses with impressive accuracy. The priests leveraged this accuracy as evidence that their religion was correct, and that their exalted position in society was justified.
+كان تصور شعب المايا للأرض والقمر والشمس والكواكب والنجوم مثيرًا للسخرية مثل أي حضارة قديمة أخرى، ومع ذلك كان كهنتهم يتنبأون بشكل روتيني بتوقيت الكسوف بدقة مثيرة للإعجاب. واستغل الكهنة هذه الدقة كدليل على صحة دينهم، وأن مكانتهم السامية في المجتمع لها ما يبررها.
 
-Their religion--and therefore their explanation of how the universe worked--is laughable to the modern reader: The Earth in the center (of course), with thirteen tiers of heaven whirling above and nine levels of underworld threatening from below. Eclipses are not caused by a physical object blocking the light of the sun, but rather spiritual beings temporarily consuming the sun or moon (Figure 1). Even the most fervently religious person today would classify these ideas as fanciful mythology, though the Mayans were no less certain of the veracity of their religion than modern-day humans are of theirs.
+إن دينهم - وبالتالي تفسيرهم لكيفية عمل الكون - مثير للضحك للقارئ الحديث: الأرض في المركز (بالطبع)، مع ثلاثة عشر طبقة من السماء تدور في الأعلى وتسعة مستويات من العالم السفلي تهدد من الأسفل. لا يحدث الكسوف بسبب كائن مادي يحجب ضوء الشمس، بل كائنات روحية تستهلك الشمس أو القمر مؤقتًا (الشكل 1). حتى أكثر الأشخاص تدينًا اليوم قد يصنف هذه الأفكار على أنها أساطير خيالية، على الرغم من أن شعب المايا لم يكونوا أقل يقينًا بصدق دينهم من يقين البشر المعاصرين بصدقهم.
 
 ![Recolorized segment of the Dresden Codex, a Mayan text from around 1200 AD which, among other things, predicts eclipses to within a few days.](https://public.asmartbear.com/books/anthology/chapters/models/mayan-simple.png)
 
-Nevertheless, they were careful observers and meticulous calculators. They understood that eclipses happened roughly every 173 days, adjusted by a 405-month cycle and additional smaller corrections. They tracked these cycles and updated their model over the centuries, and as a result **their theory yielded accurate predictions, even though the theory's explanation of _why_ was entirely incorrect**.
+ومع ذلك، فقد كانوا مراقبين دقيقين وآلات حاسبة دقيقة. لقد أدركوا أن الكسوف يحدث كل 173 يومًا تقريبًا، ويتم تعديله بدورة مدتها 405 أشهر وتصحيحات إضافية أصغر. لقد تتبعوا هذه الدورات وقاموا بتحديث نموذجهم على مر القرون، ونتيجة لذلك ** أنتجت نظريتهم تنبؤات دقيقة، على الرغم من أن تفسير النظرية لـ _لماذا_ كان غير صحيح تمامًا **.
 
-This is a striking example of the common bromide: All models are wrong, but some models are useful. Their model was _wrong_ in describing the universe, but _useful_ in predicting eclipses.
+وهذا مثال صارخ على البروميد الشائع: جميع النماذج خاطئة، ولكن بعض النماذج مفيدة. لقد كان نموذجهم خاطئًا في وصف الكون، لكنه كان مفيدًا في التنبؤ بالكسوف.
 
 ---
 
-A thousand years later, modern physicists still wrestle with the question of whether their models explain how the universe actually works, or are merely useful. Physicist Richard Feynman illustrated this point using the Mayan example above. Quantum Mechanics (QM) is so weird and counter-intuitive, Feynman says, that "nobody understands quantum mechanics."[^1] And this is from someone who won a Nobel Prize for creating an accurate and useful model for how some of it works.[^2]
+وبعد مرور ألف عام، لا يزال الفيزيائيون المعاصرون يتصارعون مع مسألة ما إذا كانت نماذجهم تفسر كيفية عمل الكون فعليًا، أم أنها مجرد مفيدة. أوضح الفيزيائي ريتشارد فاينمان هذه النقطة باستخدام مثال المايا أعلاه. يقول فاينمان إن ميكانيكا الكم (QM) غريبة للغاية وغير بديهية، لدرجة أنه "لا أحد يفهم ميكانيكا الكم".[^1] وهذا من شخص فاز بجائزة نوبل لأنه ابتكر نموذجًا دقيقًا ومفيدًا لكيفية عمل بعض هذه الميكانيكا.[^2]
 
-Feynman (jointly) won the prize for modeling how particles interact with each other. The model sounds as crazy as Mayan mythology: It says that *all possible interactions happen simultaneously*[^3] (yes, "everything, all the time"), with every interaction-possibility reinforcing or cancelling-out other possibilities, and with each interaction weighted by the probability of its occurrence. When we make a measurement in the lab, the cosmic dice are thrown, and one of those interactions is observed to have occurred in actual fact.
+فاز فاينمان (بالاشتراك) بالجائزة لنمذجة كيفية تفاعل الجسيمات مع بعضها البعض. يبدو هذا النموذج مجنونًا مثل أساطير المايا: فهو يقول إن *كل التفاعلات الممكنة تحدث في وقت واحد*[^3] (نعم، "كل شيء، طوال الوقت")، مع كل احتمال للتفاعل يعزز أو يلغي الاحتمالات الأخرى، ومع كل تفاعل مرجح باحتمال حدوثه. عندما نقوم بإجراء قياس في المختبر، يتم إلقاء النرد الكوني، ونلاحظ أن أحد هذه التفاعلات قد حدث في الواقع الفعلي.
 
-[^1]: From _The Character of Physical Law_. This is sometimes erroneous quoted as: "If you think you understand quantum mechanics, you don't understand quantum mechanics." That's a cute paraphrase, but he didn't postulate that someone would even *believe* they understood it!
+[^1]: من _شخصية القانون الفيزيائي_. يتم اقتباس هذا بشكل خاطئ في بعض الأحيان على النحو التالي: "إذا كنت تعتقد أنك تفهم ميكانيكا الكم، فأنت لا تفهم ميكانيكا الكم." هذه إعادة صياغة لطيفة، لكنه لم يفترض أن شخصًا ما قد *يصدق* أنه يفهمها!
 
-[^2]: Electrons and photons specifically, but it turns out to be the right model for all types of subatomic particles.
+[^2]: الإلكترونات والفوتونات على وجه التحديد، ولكن تبين أنه النموذج الصحيح لجميع أنواع الجسيمات دون الذرية.
 
-[^3]: The precise description is: Sum the probability amplitudes and phases over all paths the particles could have taken, including an infinite hierarchy of virtual particle interactions. I ask the pedantic reader to forgive my evocative simplification.
+[^3]: الوصف الدقيق هو: جمع السعات والأطوار الاحتمالية على جميع المسارات التي يمكن أن تسلكها الجسيمات، بما في ذلك التسلسل الهرمي اللانهائي لتفاعلات الجسيمات الافتراضية. أطلب من القارئ المتحذلق أن يغفر لي تبسيطي المثير للذكريات.
 
-This, of course, makes no sense. This sounds like Mayan cycles that miraculously spit out the correct answer, not how the universe could really work. Albert Einstein thought as much, famously trolling "God does not play dice with the universe." To prove his point he, along with [Boris Podolsky](https://en.wikipedia.org/wiki/Boris_Podolsky) and [Nathan Rosen](https://en.wikipedia.org/wiki/Nathan_Rosen), described the "[EPR Paradox](https://en.wikipedia.org/wiki/EPR_paradox)"--an experiment where the QM model predicts an even more "absurd, impossible" result, therefore (they felt) "proving" that the QM model is a more sophisticated kind of Mayan cycle computation, and might even be downright incorrect. Unfortunately for Einstein, physicists have run the EPR experiment many times in the subsequent decades, and the model-nobody-understands has always been correct in every detail.
+هذا، بطبيعة الحال، لا معنى له. يبدو هذا مثل دورات المايا التي تقدم الإجابة الصحيحة بأعجوبة، وليس كيف يمكن للكون أن يعمل حقًا. كان ألبرت أينشتاين يعتقد ذلك كثيرًا، حيث قال عبارته الشهيرة: "إن الله لا يلعب النرد مع الكون". ولإثبات وجهة نظره، وصف، جنبًا إلى جنب مع [بوريس بودولسكي](https://en.wikipedia.org/wiki/Boris_Podolsky) و[ناثان روزين](https://en.wikipedia.org/wiki/Nathan_Rosen)، "[EPR Paradox](https://en.wikipedia.org/wiki/EPR_paradox)" - وهي تجربة يتنبأ فيها نموذج إدارة الجودة بمزيد من النتائج. نتيجة "سخيفة، مستحيلة"، لذلك (شعروا) "تثبت" أن نموذج إدارة الجودة هو نوع أكثر تعقيدًا من حسابات دورة المايا، وربما يكون غير صحيح تمامًا. لسوء الحظ بالنسبة لأينشتاين، أجرى الفيزيائيون تجربة EPR عدة مرات في العقود اللاحقة، وكان النموذج الذي لا يفهمه أحد دائمًا صحيحًا في كل تفاصيله.
 
 ![Erwin Schrö­dinger in 1933](https://public.asmartbear.com/books/anthology/chapters/models/erwin-schro-dinger-narodowe-archiwum-cyfrowe-1-e-939-simple.png)
 
-Erwin Schrödinger was also personally entangled with the apparent problem that the QM model was absurd, yet useful. His [Schrödinger Equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) is the center-piece of QM: It dictates how the entire universe evolves over time. Nearly every QM calculation runs through this equation. And yet, like Einstein, Schrödinger agreed that although the model is successful, its description of how the world works is ludicrous, quipping "I don't like it, and I'm sorry I ever had anything to do with it."[^4] He invented the famous [Schrödinger's Cat](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat) (Figure 2) thought-experiment to prove that QM must not be describing how the universe "actually" works, just as Einstein attempted with EPR. And, like Einstein, his attempt failed; physicists have run this experiment dozens of ways over nearly a hundred years, and the model has always been correct.
+كان إروين شرودنجر أيضًا متورطًا شخصيًا في المشكلة الواضحة المتمثلة في أن نموذج إدارة الجودة كان سخيفًا ولكنه مفيد. تُعد [معادلة شرودنغر](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) محور إدارة الجودة: فهي تحدد كيفية تطور الكون بأكمله بمرور الوقت. تقريبًا كل حسابات إدارة الجودة تمر عبر هذه المعادلة. ومع ذلك، مثل أينشتاين، وافق شرودنغر على أنه على الرغم من نجاح النموذج، إلا أن وصفه لكيفية عمل العالم مثير للسخرية، قائلاً مازحًا "أنا لا أحب هذا النموذج، وأنا آسف لأني لم يكن لي أي علاقة به".[^4] اخترع [قطة شرودنغر] الشهيرة (https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat) (الشكل 2) تجربة فكرية لإثبات أن إدارة الجودة لا يجب أن تصف كيفية عمل الكون "في الواقع"، تمامًا كما حاول أينشتاين مع EPR. ومثل أينشتاين، فشلت محاولته؛ لقد أجرى الفيزيائيون هذه التجربة بعشرات الطرق على مدار ما يقرب من مائة عام، وكان النموذج دائمًا صحيحًا.
 
-[^4]: Here "it" refers specifically to the Copenhagen interpretation of the collapse of the wave function when an observer observes it; another facet of QM that obviously makes no sense as soon as you ask "What do you mean by 'observer' and why isn't that just another physical system?"
+[^4]: تشير كلمة "it" هنا على وجه التحديد إلى تفسير كوبنهاجن لانهيار الدالة الموجية عندما يلاحظها المراقب؛ جانب آخر من جوانب إدارة الجودة والذي من الواضح أنه لا معنى له بمجرد أن تسأل "ماذا تقصد بـ "المراقب" ولماذا ليس هذا مجرد نظام مادي آخر؟"
 
 ![The QM model says that Schrödinger's cat is simultaneously alive and dead until you look inside the box; another example of "everything happens, but with probability, resolved when you observe it." Both the "simultaneously" and "when you observe it" are nonsensical concepts (how does the cat-system "know" that some human-system "observed" it?), yet hundreds of experiments have confirmed the predictions of the model.](https://public.asmartbear.com/books/anthology/chapters/models/qm-simple.png)
 
-## Beautiful, but wrong
+## جميلة، ولكن خاطئة
 
-And so we come to models of companies, markets, and people.
+وهكذا نأتي إلى نماذج الشركات والأسواق والأشخاص.
 
-Economics, modeling how companies operate in isolated, simple paradigms (micro) or in bulk (macro). Management theory, modeling how information and control and human behavior flows across organizations. [Strategy theory](https://longform.asmartbear.com/great-strategy/), modeling a company's most important constraints and levers, strongest [capabilities and assets](https://longform.asmartbear.com/pivot-points/), modeling competitors and the market at large, resulting in the top-level decisions that we hope will bring success. [Product Management](https://longform.asmartbear.com/great-product-manager/), modeling customers' whims, incentives, "pain-points," "delighters," "JTBD," and [willingness-to-pay](https://longform.asmartbear.com/willingness-to-pay/). Startup theory, giving frameworks for methodically [transforming an idea into profit](https://longform.asmartbear.com/product-market-fit-formula/) while [avoiding failure](https://longform.asmartbear.com/avoid-blundering/).
+الاقتصاد، نمذجة كيفية عمل الشركات في نماذج معزولة وبسيطة (جزئية) أو بكميات كبيرة (كلية). نظرية الإدارة، ونمذجة كيفية تدفق المعلومات والتحكم والسلوك البشري عبر المنظمات. [نظرية الإستراتيجية](https://longform.asmartbear.com/great-strategy/)، ونمذجة أهم القيود والأدوات التي تمتلكها الشركة، وأقوى [القدرات والأصول](https://longform.asmartbear.com/pivot-points/)، ونمذجة المنافسين والسوق ككل، مما يؤدي إلى اتخاذ قرارات عالية المستوى نأمل أن تحقق النجاح. [إدارة المنتجات](https://longform.asmartbear.com/great-product-manager/)، ونمذجة أهواء العملاء، والحوافز، و"نقاط الضعف"، و"المسرات"، و"JTBD"، و[الاستعداد للدفع](https://longform.asmartbear.com/willingness-to-pay/). نظرية الشركات الناشئة، تعطي أطر عمل [لتحويل الفكرة إلى ربح](https://longform.asmartbear.com/product-market-fit-formula/) بشكل منهجي مع [تجنب الفشل](https://longform.asmartbear.com/avoid-blundering/).
 
-All of these models work some of the time. All explain the past retroactively but often fail to predict the future, and thus none are on par with theories of physics, and arguably shouldn't be called "theories" at all. A company is not [an experiment](https://longform.asmartbear.com/p-hacking/) with controlled variables and many trial-runs. Even using the term ["expected value" is a fallacy](https://longform.asmartbear.com/fallacies/).
+كل هذه النماذج تعمل في بعض الأحيان. جميعها تفسر الماضي بأثر رجعي ولكنها غالبا ما تفشل في التنبؤ بالمستقبل، وبالتالي لا يوجد أي منها على قدم المساواة مع نظريات الفيزياء، ويمكن القول أنه لا ينبغي أن يطلق عليها "نظريات" على الإطلاق. الشركة ليست [تجربة](https://longform.asmartbear.com/p-hacking/) مع متغيرات خاضعة للرقابة والعديد من عمليات التشغيل التجريبية. حتى استخدام مصطلح ["القيمة المتوقعة" هو مغالطة](https://longform.asmartbear.com/fallacy/).
 
-Are these models more like the Mayans or more like QM? Are they occasionally useful but not representative of how the world actually works, or do they indeed model how the world operates, where their outputs are incorrect not because they are intrinsically flawed, but because of noisy environments, faulty inputs, missing inputs, or human operators who are more interested in selling consulting services off their own HBR articles and books than they are in acknowledging the limits of our simplistic models in the presence of an irreducibly complex world?
+هل هذه النماذج أشبه بنماذج المايا أم أشبه بإدارة الجودة؟ هل هي مفيدة في بعض الأحيان ولكنها لا تمثل الطريقة التي يعمل بها العالم فعليًا، أم أنها في الواقع نموذج لكيفية عمل العالم، حيث تكون مخرجاتها غير صحيحة ليس لأنها معيبة في جوهرها، ولكن بسبب البيئات الصاخبة، أو المدخلات الخاطئة، أو المدخلات المفقودة، أو المشغلين البشريين الذين يهتمون أكثر ببيع الخدمات الاستشارية من خلال مقالاتهم وكتبهم في هارفارد بزنس ريفيو أكثر من اهتمامهم بالاعتراف بحدود نماذجنا التبسيطية في ظل عالم معقد غير قابل للاختزال؟
 
-**This is partly how I judge frameworks: Does the framework attempt to model the messy real world, or does it seem like a pretty fantasy that looks nice in presentations, HBR articles, and consultants' sales materials?**
+**هذه هي الطريقة التي أحكم بها على أطر العمل جزئيًا: هل يحاول إطار العمل وضع نموذج للعالم الحقيقي الفوضوي، أم أنه يبدو وكأنه خيال جميل يبدو جميلًا في العروض التقديمية، ومقالات هارفارد بزنس ريفيو، ومواد مبيعات المستشارين؟**
 
-For example, I immediately disbelieve any framework about human beings that comes packaged in a nice, symmetric diagram, with identical quantities of bullets and sub-categories:
+على سبيل المثال، لا أصدق على الفور أي إطار يتعلق بالبشر يأتي مغلفًا في رسم تخطيطي متماثل لطيف، مع كميات متطابقة من الرصاص والفئات الفرعية:
 
 ![The DISC personality assessment](https://public.asmartbear.com/books/anthology/chapters/models/image-simple.png)
 
-Human beings are more complex than saying "there are four categories, and each of the four have exactly six subcategories of descriptors, and each of _those_ have an identical number of components." No, that's never how it is with people. If you had said there are five major categories, and some don't subdivide, while others are complex, and some are fairly well-understood, while others are still a mystery, I'd believe that you were trying to model reality instead of ensuring some picture had 90° rotational symmetry.
+البشر أكثر تعقيدًا من قول "هناك أربع فئات، وكل فئة من الفئات الأربع لها بالضبط ستة فئات فرعية من الأوصاف، ولكل منها عدد مماثل من المكونات." لا، هذا ليس هو الحال مع الناس أبدًا. إذا قلت أن هناك خمس فئات رئيسية، وبعضها لا ينقسم إلى أقسام فرعية، في حين أن البعض الآخر معقد، وبعضها مفهوم جيدًا إلى حد ما، بينما لا يزال البعض الآخر لغزًا، فأعتقد أنك كنت تحاول وضع نموذج للواقع بدلاً من التأكد من أن بعض الصور لها تناظر دوراني بزاوية 90 درجة.
 
-A more accurate model of human activity is seen in Craigslist, where they have "however many" categories containing "however many" subcategories:
+يوجد نموذج أكثر دقة للنشاط البشري في Craigslist، حيث لديهم فئات فرعية "مهما كان عددها" تحتوي على فئات فرعية "مهما كان عددها":
 
 ![Craigslist listings for Austin, TX](https://public.asmartbear.com/books/anthology/chapters/models/image-6-simple.png)
 
-Human emotion had better *not* be modeled as a perfectly-symmetrical list. In 1980 Dr. Robert Plutchik created a better model, designed to help his patients identify their feelings--quite useful! It is suspicious in that every second-level category contains exactly two third-level emotions, but at least the first-level categories vary in quantity:
+من الأفضل عدم صياغة المشاعر الإنسانية على شكل قائمة متماثلة تمامًا. في عام 1980، أنشأ الدكتور روبرت بلوتشيك نموذجًا أفضل، مصممًا لمساعدة مرضاه على التعرف على مشاعرهم - وهو مفيد جدًا! من المثير للريبة أن كل فئة من فئات المستوى الثاني تحتوي بالضبط على عاطفتين من المستوى الثالث، ولكن على الأقل تختلف فئات المستوى الأول من حيث الكمية:
 
-!["Feelings Wheel"
-Plutchik, Robert. "A General Psychoevolutionary Theory of Emotion." Theories of Emotion, edited by Robert Plutchik and Henry Kellerman, Academic Press, 1980, pp. 3–33.](https://public.asmartbear.com/books/anthology/chapters/models/image-7-simple.png)
+!["Feelings Wheel" Plutchik, Robert. "A General Psychoevolutionary Theory of Emotion." Theories of Emotion, edited by Robert Plutchik and Henry Kellerman, Academic Press, 1980, pp. 3–33.](https://public.asmartbear.com/books/anthology/chapters/models/image-7-simple.png)
 
-Another red flag is any [list with exactly 10 items](https://longform.asmartbear.com/top-10/). That's how many fingers we have, not how many things should probably be on that list. Instead, my lists of things like [what goes into a great strategy](https://longform.asmartbear.com/great-strategy/) or [deciding whether an investment is worthwhile](https://longform.asmartbear.com/investment/) contain however many items make sense. Or in this analysis of [why startups fail](https://longform.asmartbear.com/avoid-blundering/), the categories and quantity of bullets under each category are imbalanced. Or my [system for PMF](https://longform.asmartbear.com/product-market-fit-formula/) has steps of varying length and detail, and even gives counter-examples to show how it's an interesting guide but not a law.
+علامة حمراء أخرى هي أي [قائمة تحتوي على 10 عناصر بالضبط](https://longform.asmartbear.com/top-10/). هذا هو عدد الأصابع التي لدينا، وليس عدد الأشياء التي من المحتمل أن تكون في تلك القائمة. بدلاً من ذلك، فإن قوائمي بأشياء مثل [ما يدخل في استراتيجية رائعة](https://longform.asmartbear.com/great-strategy/) أو [تحديد ما إذا كان الاستثمار جديرًا بالاهتمام](https://longform.asmartbear.com/investment/) تحتوي على العديد من العناصر المنطقية. أو في هذا التحليل لـ [لماذا تفشل الشركات الناشئة](https://longform.asmartbear.com/avoid-blundering/)، فإن فئات وكمية الرصاصات ضمن كل فئة غير متوازنة. أو يحتوي [نظام PMF](https://longform.asmartbear.com/product-market-fit-formula/) الخاص بي على خطوات متفاوتة الطول والتفاصيل، كما أنه يقدم أمثلة مضادة لإظهار مدى كونه دليلًا مثيرًا للاهتمام ولكنه ليس قانونًا.
 
-And so on with other models. If you're modeling human organization, does it reflect the complexity and capriciousness of real humans, the good and bad incentives and emotions, the different personalities and ways those react to the world, or is it modeled as if people are fungible worker-units with predictable responses to stimuli, built by a professor who has never managed a team beyond six sycophantic grad students?
+وهكذا مع النماذج الأخرى. إذا كنت تصمم نموذجًا للتنظيم البشري، فهل يعكس تعقيد وأهواء البشر الحقيقيين، والحوافز والعواطف الجيدة والسيئة، والشخصيات المختلفة وطرق تفاعل هؤلاء مع العالم، أم أنه تم تصميمه كما لو كان الناس عبارة عن وحدات عاملة قابلة للاستبدال مع استجابات يمكن التنبؤ بها للمحفزات، أنشأها أستاذ لم يسبق له أن أدار فريقًا يتجاوز ستة طلاب دراسات عليا متملقين؟
 
 ![Obviously "marketing" does not have exactly these quantities of these things, that just so happens to perfectly fit the periodic table of elements.](https://public.asmartbear.com/books/anthology/chapters/models/image-2-simple.png)
 
-Does the model of strategy fit into 2x2s and symmetric diagrams, with rubric scoring, with the same questions for all companies of all stages in all industries in all markets? Or does it grapple with the complexity of interacting systems of markets, customers, competitors, alternatives, employees, technology, products, and global trends, each of them dynamic, each affecting the others, each unknowable and unquantifiable in some of their most important dimensions?
+هل يتناسب نموذج الاستراتيجية مع الرسوم البيانية 2×2 والرسوم البيانية المتماثلة، مع تسجيل نقاط التقييم، مع نفس الأسئلة لجميع الشركات في جميع المراحل وفي جميع الصناعات وفي جميع الأسواق؟ أم أنها تتصارع مع تعقيد الأنظمة المتفاعلة للأسواق والعملاء والمنافسين والبدائل والموظفين والتكنولوجيا والمنتجات والاتجاهات العالمية، كل منها ديناميكي، يؤثر كل منها على الآخر، وكل منها غير معروف وغير قابل للقياس في بعض أبعادها الأكثر أهمية؟
 
-I trust more in diagrams that are imbalanced, asymmetrical, or even ugly, because perhaps they're primarily interested in modeling the messy truth of the world, like in Figure 7 and Figure 8.
+أنا أثق أكثر في الرسوم البيانية غير المتوازنة، أو غير المتماثلة، أو حتى القبيحة، لأنها ربما تكون مهتمة في المقام الأول بنمذجة الحقيقة الفوضوية للعالم، كما هو الحال في الشكل 7 والشكل 8.
 
 ![Wardley diagram, sussing out which activities support growth and differentiation, versus which are necessary but commoditized, so that teams can respond with appropriate investment and action.](https://public.asmartbear.com/books/anthology/chapters/models/d1-hq1rwzqtceittnk16fue5g-simple.png)
 
 ![Though Roger L. Martin's slide has "five boxes," the instructions have "however many questions are useful," and the order-of-operations is non-linear.](https://public.asmartbear.com/books/anthology/chapters/models/image-5-simple.png)
 
-All models are wrong, but some are useful. The most useful are the ones that genuinely attempt to model the real, complex, ugly, asymmetric world, not the ones made to look pretty on brochures for consulting services.
+جميع النماذج خاطئة، ولكن بعضها مفيد. والأكثر فائدة هي تلك التي تحاول بصدق أن تصمم نموذجًا للعالم الحقيقي، المعقد، القبيح، غير المتماثل، وليس تلك التي يتم تصميمها لتبدو جميلة في كتيبات الخدمات الاستشارية.
 
-![Feynmann's blackboard when he died. The boxed statements at top-left are:
-"What I cannot create, I do not understand" and
-"Know how to solve every problem that has been solved"](https://public.asmartbear.com/books/anthology/chapters/models/blackboard-simple.png)
+![Feynmann's blackboard when he died. The boxed statements at top-left are: "What I cannot create, I do not understand" and "Know how to solve every problem that has been solved"](https://public.asmartbear.com/books/anthology/chapters/models/blackboard-simple.png)

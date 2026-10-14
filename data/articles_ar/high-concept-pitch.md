@@ -20,71 +20,52 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** عروض الأفكار التسويقية المعقدة والفلسفية ليست صديقتك في المبيعات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+![It's like "Read my lips" meets "I'm not talking to you."](https://longform.asmartbear.com/high-concept-pitch/3cf3081f.png)
 
----
+أنت تعرف بالفعل أن [العرض التقديمي المعزز](http://www.elevatorpitchessentials.com/essays/ElevatorPitch.html) أمر بالغ الأهمية لنشاطك التجاري، ليس فقط للترويج ولكن لبلورة أهداف الشركة في عقلك.
 
-### النص المرجعي للمقال (Original Reference):
-# High-concept pitches are not your friend
+ربما تكون قد قمت أيضًا بتطوير بيان تحديد الموقع من سطر واحد - جملة واحدة تحدد الشركة في جملة بسيطة وواضحة.  ليس شيئًا تستخدمه مع العملاء، بل هو شيء يمكنك وضعه على الحائط الخاص بك، شيء يجب أن تعمل جميع عمليات التسويق والاتصالات على تحقيقه.
 
-> **Executive Summary:** High-concept pitches are too brief, and too ambiguous. Opt instead for clarity, and define yourself on your own terms.
-> **Original URL:** [https://longform.asmartbear.com/high-concept-pitch/](https://longform.asmartbear.com/high-concept-pitch/)
+تعلمنا [مدونة Venture Hacks](http://venturehacks.com/) عن شيء أصغر وأكثر إحكامًا - [العرض التقديمي عالي المفهوم](http://venturehacks.com/articles/high-concept-pitch). تكمن الفكرة في تلخيص رسالتك في عبارة قصيرة تشير إلى المنتجات الحالية والناجحة. أمثلة:
 
-![It's like 
- "Read my lips" 
- meets 
- "I'm not talking to you."](https://longform.asmartbear.com/high-concept-pitch/3cf3081f.png)
+* "يوتيوب هو فليكر للفيديو."
+* "LinkedIn هو فيسبوك للأعمال."
+* "Twitter هو Blogger لاضطراب نقص الانتباه."
 
-You already know the [elevator pitch](http://www.elevatorpitchessentials.com/essays/ElevatorPitch.html) is critical to your business, not just for pitching but to crystallize the goals of the company in your own mind.
+أحب الإيجاز، لكني لا أحب الفكرة العالية. إنه يحذف الكثير حتى يصبح غامضًا، ربما مع عواقب غير مقصودة.
 
-You might also have developed a one-line positioning statement--a single sentence that defines the company in a simple, clear, sentence.  Not one you'd use on customers, but rather something to tack on your wall, something that all marketing and communication should be working towards.
+ويعرّفك على أنك نسخة من شيء آخر.
 
-The [Venture Hacks blog](http://venturehacks.com/) teaches us about something even smaller and tighter--the [high-concept pitch](http://venturehacks.com/articles/high-concept-pitch). The idea is to boil your message down to a short phrase that references existing, successful products. Examples:
+دعونا نجعل هذا ملموسا. لنفترض أنني اخترعت جهاز عرض محمولًا وصغير الحجم:
 
-* "YouTube is Flickr for video."
-* "LinkedIn is Facebook for business."
-* "Twitter is Blogger for Attention Deficit Disorder."
+> يزن جهاز العرض هذا أقل من رطل وهو بحجم هاتف محمول. يستخدم مصابيح LED ساطعة حتى لا تنطفئ لمبة بقيمة 100 دولار. لن يضطر مندوبو المبيعات لديك إلى نقل المعدات أو توصيل أجهزة عرض تفتقر إلى اللون الأصفر والتي لا يمكن تشغيلها بدقة الكمبيوتر المحمول الخاصة بهم. يعمل جهاز العرض هذا بنسبة 100% من الوقت وهو صغير بما يكفي لتجاوز إجراءات أمن المطار وهو موجود في جيب سترتك.
 
-I like brevity, but I don't like the high-concept pitch. It omits so much it becomes ambiguous, possibly with unintended consequences.
+هذا هو العرض الترويجي لمنتجي، ويحتوي على كافة التفاصيل وأسباب شرائه. الآن لبيان تحديد المواقع:
 
-And it defines you as a copy of something else.
+> جهاز عرض صغير الحجم ومحمول ومتين يزيل المفاجآت على الطريق.
 
-Let's make this concrete. Say I've invented a new compact, portable projector:
+قصير وحلو، ولا يزال يتضمن الميزات والفوائد الأساسية.
 
-> This projector weighs less than a pound and it's the size of a cell phone. It uses bright LEDs so you never blow out a $100 bulb. Your sales people don't have to haul equipment or plug into projectors missing "yellow" that can't run at their laptop's resolution. This projector works 100% of the time and is small enough to get through airport security in your jacket pocket.
+الآن حان وقت العرض التقديمي عالي المفهوم.
 
-That's my product pitch--contains all the details and reasons to buy it. Now for the positioning statement:
+![It's like "iPhone" meets "The mouth-hand girl."](https://longform.asmartbear.com/high-concept-pitch/6b1373e4.png)
 
-> A compact, portable, rugged projector that eliminates surprises on the road.
+إليك فكرة منسوخة تمامًا تقريبًا من مقالة Venture Hacks:
 
-Short and sweet, still including the primary features and benefits.
+> آيفون لأجهزة العرض
 
-Now it's time for the high-concept pitch. 
+هذا يبدو جيدا للوهلة الأولى. تشتهر أجهزة iPhone بكونها سهلة الاستخدام وجميلة ومرغوبة وناجحة تجاريًا. يمتد القياس أيضًا إلى الحجم وقابلية النقل. جيد!
 
-![It's like 
- "iPhone" 
- meets 
- "The mouth-hand girl."](https://longform.asmartbear.com/high-concept-pitch/6b1373e4.png)
+لكن هذه ليست السمات الوحيدة لجهاز iPhone. تتمتع أجهزة iPhone بسمعة عدم العمل بشكل جيد مع Microsoft Office، وهو أمر مثير للقلق بشكل خاص بالنسبة لمندوب المبيعات المتنقل. من المرجح أن يستخدم قراء هذه المدونة GMail وOpen Office، لكن مندوب المبيعات النموذجي يتبع نظامًا صارمًا لبرنامج PowerPoint وOutlook. لقد تحدثت بالأمس فقط مع مسافر عمل تجنب استخدام iPhone على وجه التحديد بسبب افتقاره إلى التكامل مع Exchange (منذ إصلاحه).
 
-Here's an idea, copied almost exactly from the Venture Hacks article:
+من المعروف أن أجهزة iPhone غير مرنة وغير قابلة للتخصيص. إنهم [يضعونك في ثقافة ما](http://bucspot.com/index.php?option=com_content&view=article&id=313:i-hate-qsmugq-mac-users&catid=38:catfaketech). ومع [كارثة برنامج الإصدار 2.0](http://www.product-reviews.net/2008/07/21/iphone-3g-software-20-fix-in-3-weeks/)، كان بإمكاني أيضًا تضمين كلمة "buggy".
 
-> iPhone for projectors
+**عندما تستخدم ثلاث كلمات فقط وعندما تستدعي شيئًا معروفًا ومعقدًا، فليس من الواضح ما هي الرسالة التي سيتم تلقيها. ** أنا من أشد المعجبين بالإيجاز، ولكن هناك شيء مثل "مختصر جدًا".
 
-This sounds good at first blush. iPhones are known for being easy to use, pretty, coveted, and commercially successful. Also the analogy extends to size and portability. Good!
+لا، سألتزم بتعريف إريك سينك لبيان تحديد المواقع باعتباره الجسيم الأساسي في عالم التسويق الخاص بي.
 
-But these aren't the only attributes of the iPhone. iPhones have a reputation of not working well with Microsoft Office, something particularly troubling for the traveling salesperson. Readers of this blog are likely to use GMail and Open Office, but your typical salesperson is on a strict diet of PowerPoint and Outlook. Just yesterday I spoke with a business traveler who has avoided the iPhone specifically because of its lack of integration with Exchange (since fixed).
+ملاحظة: اقتباس غريب آخر من تلك المقالة هو أنه "بالنسبة للمستثمرين، المنتج لا شيء". لقد فهمت النقطة - أن استراتيجية المنتج ≠ و[استراتيجية المنتج] (https://longform.asmartbear.com/great-strategy/) أكثر إثارة للاهتمام بالنسبة للمستثمرين من النقاط المميزة. ولكن لا يزال... "*لا شيء*؟" ربما يكون هذا مبالغًا فيه عمدًا لتوضيح نقطة ما، ولكن إذا وجدت مستثمرًا ينطبق عليه هذا الأمر حرفيًا (وأنا كذلك!)، فابتعد عنه. الإستراتيجية التي لا تفهم المنتج مطلقًا ليست إستراتيجية.
 
-iPhones are notoriously inflexible and not customizable. They [bucket you in a culture](http://bucspot.com/index.php?option=com_content&view=article&id=313:i-hate-qsmugq-mac-users&catid=38:catfaketech). With the [v2.0 software debacle](http://www.product-reviews.net/2008/07/21/iphone-3g-software-20-fix-in-3-weeks/), I could even include "buggy."
+P.S. على الرغم من الخلافات الصحية، فإن [Venture Hacks] (http://venturehacks.com/) هو كتاب يجب قراءته إذا كنت مهتمًا بتمويل شركة أو بيعها.
 
-**When you use only three words and when you invoke something well-known and complicated, it's not clear what message will be received.** I'm brevity's biggest fan, but there's such a thing as "too brief."
-
-No, I'll stick with Eric Sink's definition of positioning statement as the fundamental particle in my marketing universe.
-
-P.S. Another weird quote from that article is that "for investors, the product is nothing." I get the point--that product ≠ strategy, and [product strategy](https://longform.asmartbear.com/great-strategy/) is more interesting to investors than feature bullets. But still... "is *nothing*?" Perhaps intentionally exaggerated to make a point, but if you find an investor for whom this is literally true (and I have!), steer clear. Strategy with zero product understanding isn't strategy.
-
-P.P.S. Healthy disagreements notwithstanding, [Venture Hacks](http://venturehacks.com/) is a must-read if you're interested in funding or selling a company.
-
-P.P.P.S. Someone should make that projector!
+P.P.S. يجب على شخص ما أن يصنع جهاز العرض هذا!

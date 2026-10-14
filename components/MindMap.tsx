@@ -177,11 +177,11 @@ export default function MindMap({
       {/* ==================================================================== */}
       <div className="sticky top-16 z-30 w-full bg-white/95 dark:bg-[#12141e]/95 backdrop-blur-md border-b border-stone-200/80 dark:border-stone-800/80 shadow-sm">
         <div className="w-full max-w-[1600px] mx-auto px-3 sm:px-6 py-2.5 flex items-center justify-between gap-3">
-          {/* Scroll Left Button */}
+          {/* Scroll Left Button (Moves toward previous themes) */}
           <button
             onClick={() => scrollThemes('left')}
             className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-500 hover:text-stone-900 dark:hover:text-white shrink-0 hidden sm:flex items-center justify-center transition-colors"
-            title={isAr ? 'تمرير للخلف' : 'Scroll Left'}
+            title={isAr ? 'المحاور السابقة' : 'Previous Themes'}
           >
             <ChevronLeft className="w-4 h-4" />
           </button>
@@ -247,17 +247,48 @@ export default function MindMap({
             })}
           </div>
 
-          {/* Scroll Right Button */}
+          {/* Scroll Right Button (Moves toward next themes) */}
           <button
             onClick={() => scrollThemes('right')}
             className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-500 hover:text-stone-900 dark:hover:text-white shrink-0 hidden sm:flex items-center justify-center transition-colors"
-            title={isAr ? 'تمرير للأمام' : 'Scroll Right'}
+            title={isAr ? 'المحاور التالية' : 'Next Themes'}
           >
             <ChevronRight className="w-4 h-4" />
           </button>
 
-          {/* Zoom Controls */}
+          {/* View Mode & Zoom Controls */}
           <div className="flex items-center gap-1 shrink-0 border-inline-start border-stone-200 dark:border-stone-800 ps-2 ms-1">
+            {/* Real Compact vs Cards View Toggle */}
+            <button
+              onClick={() => setDisplayMode(displayMode === 'cards' ? 'compact' : 'cards')}
+              className={`flex items-center gap-1 px-2.5 py-1.5 rounded-lg text-xs font-bold transition-all border ${
+                displayMode === 'compact'
+                  ? 'bg-bear-50 dark:bg-bear-950 text-bear-700 dark:text-bear-300 border-bear-500/40 shadow-2xs'
+                  : 'bg-stone-100 dark:bg-stone-800 text-stone-700 dark:text-stone-300 border-transparent hover:bg-stone-200 dark:hover:bg-stone-700'
+              }`}
+              title={
+                displayMode === 'cards'
+                  ? isAr
+                    ? 'التحويل إلى العرض المدمج السريع'
+                    : 'Switch to Compact List'
+                  : isAr
+                  ? 'التحويل إلى عرض الكروت التفصيلي'
+                  : 'Switch to Rich Cards'
+              }
+            >
+              {displayMode === 'cards' ? (
+                <>
+                  <List className="w-3.5 h-3.5 text-bear-600" />
+                  <span className="hidden sm:inline">{isAr ? 'عرض مدمج' : 'Compact'}</span>
+                </>
+              ) : (
+                <>
+                  <LayoutGrid className="w-3.5 h-3.5 text-bear-600" />
+                  <span className="hidden sm:inline">{isAr ? 'عرض كروت' : 'Cards'}</span>
+                </>
+              )}
+            </button>
+
             <button
               onClick={() => setZoomLevel((z) => Math.min(z + 0.1, 1.2))}
               className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-600 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors"
@@ -344,69 +375,103 @@ export default function MindMap({
               </div>
             </div>
 
-            {/* Articles Grid for Active Cluster */}
-            <div
-              className={`grid gap-4 ${
-                displayMode === 'compact'
-                  ? 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-3'
-                  : 'grid-cols-1 md:grid-cols-2 lg:grid-cols-3'
-              }`}
-            >
-              {(articlesByCluster[activeCluster.id] || []).map((art) => {
-                const title = isAr ? art.title_ar || art.title_en : art.title_en;
-                const summary = isAr ? art.summary_ar || art.summary_en : art.summary_en;
-                const isSelected = selectedArticleSlug === art.slug;
+            {/* Articles Grid or Compact List for Active Cluster */}
+            {displayMode === 'compact' ? (
+              <div className="space-y-2.5">
+                {(articlesByCluster[activeCluster.id] || []).map((art) => {
+                  const title = isAr ? art.title_ar || art.title_en : art.title_en;
+                  const isSelected = selectedArticleSlug === art.slug;
 
-                return (
-                  <div
-                    key={art.slug}
-                    onClick={() => onSelectArticle(art)}
-                    className={`group p-5 rounded-2xl cursor-pointer transition-all border flex flex-col justify-between gap-3 ${
-                      isSelected
-                        ? 'bg-bear-50 dark:bg-bear-950/60 border-bear-500 shadow-md ring-2 ring-bear-500/20'
-                        : 'bg-white dark:bg-[#151722] hover:bg-stone-50 dark:hover:bg-[#1a1d2c] border-stone-200/90 dark:border-stone-800 shadow-sm hover:shadow-md hover:border-bear-500/40'
-                    }`}
-                  >
-                    <div className="space-y-2.5">
-                      <div className="flex items-center justify-between gap-2">
-                        <span className="text-[11px] font-mono font-bold text-stone-400 dark:text-stone-500">
+                  return (
+                    <div
+                      key={art.slug}
+                      onClick={() => onSelectArticle(art)}
+                      className={`group px-4 py-3 rounded-xl cursor-pointer transition-all border flex items-center justify-between gap-4 ${
+                        isSelected
+                          ? 'bg-bear-50 dark:bg-bear-950/60 border-bear-500 shadow-sm ring-2 ring-bear-500/20'
+                          : 'bg-white dark:bg-[#151722] hover:bg-stone-50 dark:hover:bg-[#1a1d2c] border-stone-200/90 dark:border-stone-800 shadow-2xs hover:border-bear-500/40'
+                      }`}
+                    >
+                      <div className="flex items-center gap-3 min-w-0 flex-1">
+                        <span className="text-xs font-mono font-bold text-stone-400 dark:text-stone-500 w-10 shrink-0">
                           #{art.id}
                         </span>
-                        <span className="text-[11px] font-semibold text-bear-700 dark:text-bear-400 bg-bear-50 dark:bg-bear-950/80 px-2 py-0.5 rounded-md border border-bear-500/20">
-                          {isAr ? 'مبدأ تطبيقي' : 'Practical Rule'}
-                        </span>
+                        <h3 className="font-bold text-sm text-stone-900 dark:text-white truncate group-hover:text-bear-600 dark:group-hover:text-bear-400 transition-colors">
+                          {title}
+                        </h3>
+                        {isAr && art.title_en !== title && (
+                          <span className="hidden md:inline text-xs text-stone-400 dark:text-stone-500 italic truncate max-w-sm shrink-0">
+                            ({art.title_en})
+                          </span>
+                        )}
                       </div>
 
-                      <h3 className="font-bold text-sm sm:text-base text-stone-900 dark:text-white leading-snug group-hover:text-bear-600 dark:group-hover:text-bear-400 transition-colors">
-                        {title}
-                      </h3>
+                      <div className="flex items-center gap-2 shrink-0">
+                        <span className="text-xs font-bold text-bear-700 dark:text-bear-400 bg-bear-50 dark:bg-bear-950/80 px-3 py-1.5 rounded-lg border border-bear-500/20 flex items-center gap-1.5 group-hover:bg-bear-600 group-hover:text-white transition-all">
+                          <BookOpen className="w-3.5 h-3.5" />
+                          <span>{isAr ? 'قراءة واستشارة' : 'Read & Consult'}</span>
+                        </span>
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            ) : (
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                {(articlesByCluster[activeCluster.id] || []).map((art) => {
+                  const title = isAr ? art.title_ar || art.title_en : art.title_en;
+                  const summary = isAr ? art.summary_ar || art.summary_en : art.summary_en;
+                  const isSelected = selectedArticleSlug === art.slug;
 
-                      {isAr && art.title_en !== title && (
-                        <p className="text-[11px] font-medium text-stone-400 dark:text-stone-500 italic line-clamp-1">
-                          {art.title_en}
-                        </p>
-                      )}
+                  return (
+                    <div
+                      key={art.slug}
+                      onClick={() => onSelectArticle(art)}
+                      className={`group p-5 rounded-2xl cursor-pointer transition-all border flex flex-col justify-between gap-3 ${
+                        isSelected
+                          ? 'bg-bear-50 dark:bg-bear-950/60 border-bear-500 shadow-md ring-2 ring-bear-500/20'
+                          : 'bg-white dark:bg-[#151722] hover:bg-stone-50 dark:hover:bg-[#1a1d2c] border-stone-200/90 dark:border-stone-800 shadow-sm hover:shadow-md hover:border-bear-500/40'
+                      }`}
+                    >
+                      <div className="space-y-2.5">
+                        <div className="flex items-center justify-between gap-2">
+                          <span className="text-[11px] font-mono font-bold text-stone-400 dark:text-stone-500">
+                            #{art.id}
+                          </span>
+                          <span className="text-[11px] font-semibold text-bear-700 dark:text-bear-400 bg-bear-50 dark:bg-bear-950/80 px-2 py-0.5 rounded-md border border-bear-500/20">
+                            {isAr ? 'مبدأ تطبيقي' : 'Practical Rule'}
+                          </span>
+                        </div>
 
-                      {displayMode === 'cards' && (
+                        <h3 className="font-bold text-sm sm:text-base text-stone-900 dark:text-white leading-snug group-hover:text-bear-600 dark:group-hover:text-bear-400 transition-colors">
+                          {title}
+                        </h3>
+
+                        {isAr && art.title_en !== title && (
+                          <p className="text-[11px] font-medium text-stone-400 dark:text-stone-500 italic line-clamp-1">
+                            {art.title_en}
+                          </p>
+                        )}
+
                         <p className="text-xs text-stone-600 dark:text-stone-400 leading-relaxed line-clamp-3">
                           {summary}
                         </p>
-                      )}
-                    </div>
+                      </div>
 
-                    <div className="pt-3 border-t border-stone-100 dark:border-stone-800/80 flex items-center justify-between text-xs font-semibold text-bear-600 dark:text-bear-400">
-                      <span className="flex items-center gap-1.5 group-hover:underline">
-                        <BookOpen className="w-3.5 h-3.5" />
-                        {isAr ? 'قراءة واستشارة جيسون' : 'Read & Consult Jason'}
-                      </span>
-                      <span className="opacity-0 group-hover:opacity-100 transition-opacity">
-                        {isAr ? '←' : '→'}
-                      </span>
+                      <div className="pt-3 border-t border-stone-100 dark:border-stone-800/80 flex items-center justify-between text-xs font-semibold text-bear-600 dark:text-bear-400">
+                        <span className="flex items-center gap-1.5 group-hover:underline">
+                          <BookOpen className="w-3.5 h-3.5" />
+                          {isAr ? 'قراءة واستشارة جيسون' : 'Read & Consult Jason'}
+                        </span>
+                        <span className="opacity-0 group-hover:opacity-100 transition-opacity">
+                          {isAr ? '←' : '→'}
+                        </span>
+                      </div>
                     </div>
-                  </div>
-                );
-              })}
-            </div>
+                  );
+                })}
+              </div>
+            )}
           </div>
         ) : (
           /* ==================================================================== */
@@ -436,12 +501,14 @@ export default function MindMap({
                 const theme = CLUSTER_THEMES[cIdx % CLUSTER_THEMES.length];
                 const cName = isAr ? cluster.name_ar : cluster.name_en;
                 const cDesc = isAr ? cluster.description_ar : cluster.description_en;
-                const previewArticles = clusterArticles.slice(0, 4);
+                const previewArticles = clusterArticles.slice(0, displayMode === 'compact' ? 6 : 4);
 
                 return (
                   <div
                     key={cluster.id}
-                    className={`rounded-2xl border ${theme.border} ${theme.bg} p-5 sm:p-6 shadow-sm transition-all hover:shadow-md flex flex-col justify-between`}
+                    className={`rounded-2xl border ${theme.border} ${theme.bg} ${
+                      displayMode === 'compact' ? 'p-4 sm:p-5' : 'p-5 sm:p-6'
+                    } shadow-sm transition-all hover:shadow-md flex flex-col justify-between`}
                   >
                     {/* Cluster Header */}
                     <div className="space-y-2.5">
@@ -457,7 +524,7 @@ export default function MindMap({
                         </span>
                       </div>
 
-                      {cDesc && (
+                      {displayMode === 'cards' && cDesc && (
                         <p className="text-xs text-stone-600 dark:text-stone-400 line-clamp-2 leading-relaxed">
                           {cDesc}
                         </p>

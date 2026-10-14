@@ -20,86 +20,73 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود الاقتصادي تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Stop saying "fail"
-
-> **Executive Summary:** Language shapes our perception of setbacks. Use words other than "failure" to describe situations and to suggest the next step.
-> **Original URL:** [https://longform.asmartbear.com/fail/](https://longform.asmartbear.com/fail/)
-
 ![instead failure rebrand dark gritty reboot previous profits](https://public.asmartbear.com/books/anthology/chapters/fail/d7618print-simple.png)
 
-It's not fail fast. It's not fail forward. It's not "fail" at all.
+انها لا تفشل بسرعة. انها ليست الفشل إلى الأمام. إنه ليس "فشل" على الإطلاق.
 
-"Fail" is almost never the right word for what is happening. It's so final, so negative, and it's a dead end: What do you do after a failure? Mope?
+"الفشل" لا يكاد يكون الكلمة الصحيحة لما يحدث. إنه نهائي للغاية، وسلبي للغاية، وهو طريق مسدود: ماذا تفعل بعد الفشل؟ كآبة؟
 
-Words have meaning. They can explain what's really going on, and suggest what should be done next. The word "fail" accomplishes neither.
+الكلمات لها معنى. يمكنهم شرح ما يحدث بالفعل، واقتراح ما يجب القيام به بعد ذلك. وكلمة "فشل" لا تحقق أياً منهما.
 
-## Exploring new territory
+## استكشاف مناطق جديدة
 
-If you're solving a maze, and a path doesn't work out, you haven't "failed," you've only backtracked. This is a necessary and natural aspect of exploration and creating businesses and products; in fact it's even called the [idea maze](https://cdixon.org/2013/08/04/the-idea-maze). It often comes in the form of an experiment. The result of an experiment is evidence supporting or rejecting the hypothesis. Neither result is a "failure." A/B testing is a good practice, even though most of the time you will not have stumbled upon an improvement.
+إذا كنت تحل متاهة، ولم ينجح المسار، فأنت لم "تفشل"، بل تراجعت فقط. وهذا جانب ضروري وطبيعي للاستكشاف وإنشاء الأعمال والمنتجات؛ في الواقع يُطلق عليها اسم [متاهة الأفكار](https://cdixon.org/2013/08/04/the-idea-maze). وغالبا ما يأتي في شكل تجربة. نتيجة التجربة هي دليل يدعم أو يرفض الفرضية. ولا تعتبر أي من النتيجتين "فشلاً". يعد اختبار A/B ممارسة جيدة، على الرغم من أنك لن تتعثر في معظم الأحيان في التحسين.
 
-Words you could use instead of "fail" include: *experiment, test, bet, learning, investigate, trial, retry, probe*.
+الكلمات التي يمكنك استخدامها بدلاً من "الفشل" تشمل: *التجربة، الاختبار، الرهان، التعلم، التحقيق، التجربة، إعادة المحاولة، التحقيق*.
 
-> "There are two possible outcomes: if the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery"  
-> --Enrico Fermi
+> "هناك نتيجتان محتملتان: إذا كانت النتيجة تؤكد الفرضية، فقد قمت بالقياس. وإذا كانت النتيجة مخالفة للفرضية، فقد قمت باكتشاف"
+> --إنريكو فيرمي
 
-## Revolutionizing
+## إحداث ثورة
 
-If you're creating something new, never accomplished by anyone before, and it doesn't immediately revolutionize the industry, you haven't "failed," you've just not yet found the breakthrough. Often innovations require many trials before the right solution is uncovered. If the right answer were obvious, it wouldn't be an innovation.
+إذا كنت تقوم بإنشاء شيء جديد، لم ينجزه أي شخص من قبل، ولم يحدث ثورة فورية في الصناعة، فأنت لم "تفشل"، ولكنك لم تصل إلى الإنجاز بعد. في كثير من الأحيان، تتطلب الابتكارات العديد من التجارب قبل اكتشاف الحل الصحيح. لو كانت الإجابة الصحيحة واضحة، فلن يكون ذلك ابتكارا.
 
-Words you could use instead of "fail" include: *backtrack, iterate, trial, attempt, step, miss*.
+الكلمات التي يمكنك استخدامها بدلاً من "فشل" تشمل: *backtrack، iterate، محاكمة، محاولة، خطوة، Miss*.
 
-> "I have not failed. I've just found 10,000 ways that won't work."  
-> --Thomas A. Edison
+> "أنا لم أفشل. لقد وجدت للتو 10000 طريقة لن تنجح."
+> --توماس أ. إديسون
 
-## Learning
+## تعلُّم
 
-If you're learning a new skill, and you stumble, get confused, get lost, or think you've mastered it only to find there's still a long road ahead, you haven't "failed," you're growing. No good teacher would get mad at a student for not learning a skill instantly, or even sliding backward. The learning curve is well-understood, and it is not a straight line.
+إذا كنت تتعلم مهارة جديدة، وتعثرت، أو شعرت بالارتباك، أو تائه، أو اعتقدت أنك أتقنتها لتجد أنه لا يزال هناك طريق طويل أمامك، فأنت لم "تفشل"، بل أنت تنمو. لن يغضب أي معلم جيد من الطالب لأنه لم يتعلم مهارة ما على الفور، أو حتى تراجع إلى الوراء. منحنى التعلم مفهوم جيدًا، وهو ليس خطًا مستقيمًا.
 
-Words you could use instead of "fail" include: *practice, cultivate, acquire, develop, learning curve, learning moment, trial, progression, evolve*.
+الكلمات التي يمكنك استخدامها بدلًا من "الفشل" تشمل: *الممارسة، الغرس، الاكتساب، التطوير، منحنى التعلم، لحظة التعلم، التجربة، التقدم، التطور*.
 
-> "I am always doing that which I can not do, in order that I may learn how to do it."  
-> --Vincent van Gogh
+> "إنني أفعل دائمًا ما لا أستطيع فعله، حتى أتعلم كيفية القيام به."
+> - فنسنت فان جوخ
 
-## Iterating
+## التكرار
 
-Are you iterating on something that is fundamentally working, just making it better? This is optimization. Not all attempts at improvement will work, or have as much effect as hoped, but surely we shouldn't call ourselves "failures" when things are basically fine as they are.
+هل تكرر شيئًا يعمل بشكل أساسي، فقط تجعله أفضل؟ هذا هو التحسين. لن تنجح كل محاولات التحسين، ولن يكون لها التأثير المطلوب، ولكن بالتأكيد لا ينبغي لنا أن نطلق على أنفسنا اسم "الفاشلين" عندما تكون الأمور على ما يرام في الأساس كما هي.
 
-Words you could use instead of "fail" include: *refine, calibrate, optimize, polish, hone, correct, fine-tune, dial-in*.
+تتضمن الكلمات التي يمكنك استخدامها بدلاً من "فشل" ما يلي: *التحسين، والمعايرة، والتحسين، والتلميع، والصقل، والتصحيح، والضبط الدقيق، والاتصال الهاتفي*.
 
-> "The only real mistake is the one from which we learn nothing."  
-> --Henry Ford
+> "الخطأ الحقيقي الوحيد هو الخطأ الذي لا نتعلم منه شيئا."
+> --هنري فورد
 
-## Solving problems
+## حل المشاكل
 
-Are you solving a problem, but a minor one, particular to your current circumstance, where your high-level strategy and plan is still correct? Problem-solving in a complex space--whether a one-person startup or a thousand-person organization--cannot possibly proceed with innovation and speed and yet also no setbacks, no complications, no false-starts.
+هل تحل مشكلة، ولكنها مشكلة بسيطة، خاصة بظروفك الحالية، حيث لا تزال إستراتيجيتك وخطتك عالية المستوى صحيحة؟ إن حل المشكلات في مجال معقد - سواء كان ذلك في شركة ناشئة مكونة من شخص واحد أو مؤسسة مكونة من ألف شخص - لا يمكن أن يستمر مع الابتكار والسرعة، ومع ذلك لا يمكن أيضًا أن يحدث أي انتكاسات أو تعقيدات أو بدايات خاطئة.
 
-Words you could use instead of "fail" include: *iterate, adapt, adjust, course-correct, tweak, revise, morph, refactor, amend, fix*.
+تتضمن الكلمات التي يمكنك استخدامها بدلاً من "الفشل" ما يلي: *التكرار، والتكيف، والضبط، وتصحيح المسار، والتعديل، والمراجعة، والتحويل، وإعادة البناء، والتعديل، والإصلاح*.
 
-> "Success is not final, failure is not fatal: It is the courage to continue that counts."  
-> --Winston Churchill
+> "النجاح ليس نهائيا، والفشل ليس قاتلا: الشجاعة للاستمرار هي التي تهم."
+> - ونستون تشرشل
 
-## Major errors
+## أخطاء كبيرة
 
-Have you made a major error, perhaps a complete misjudgment, incorrect strategic decision, or a project where months of effort by dozens of people has proved useless? That is indeed a big deal, and perhaps you're even justified in saying "we failed." Still, that doesn't explain its nature, and doesn't point towards a solution, which would be the constructive thing to do.
+هل ارتكبت خطأً فادحًا، ربما سوء تقدير كامل، أو قرارًا استراتيجيًا غير صحيح، أو مشروعًا أثبتت شهور من الجهد الذي بذله العشرات من الأشخاص عدم جدواه؟ وهذا بالفعل أمر كبير، وربما يكون لديك ما يبرر قولك "لقد فشلنا". ومع ذلك، فإن ذلك لا يفسر طبيعته، ولا يشير إلى حل، وهو ما يجب القيام به.
 
-Words you could use instead of "fail" include: *Pivot, evolve, migrate, overhaul, revamp, transform, reconstruct, repurpose, reimagine, redesign, recreate, reinvent, reengineer, remodel, rebrand, realign*.
+تتضمن الكلمات التي يمكنك استخدامها بدلاً من "الفشل" ما يلي: *التمحور، التطور، الترحيل، الإصلاح الشامل، التجديد، التحويل، إعادة البناء، إعادة الاستخدام، إعادة التصور، إعادة التصميم، إعادة الإنشاء، إعادة الاختراع، إعادة الهندسة، إعادة التصميم، إعادة التصميم، إعادة التنظيم*.
 
-> "Success is not built on success. It's built on failure. It's built on frustration. Sometimes it's built on catastrophe."  
-> --Sumner Redstone
+> "النجاح لا يُبنى على النجاح. إنه مبني على الفشل. إنه مبني على الإحباط. وفي بعض الأحيان يُبنى على الكارثة."
+> - سمنر ريدستون
 
 ---
 
-There are moments when we've truly, irrevocably, fatally failed, and we should say so. If a company has to shut down, especially before it achieved some meaningful success, then okay, we failed.
+هناك لحظات فشلنا فيها فشلًا فادحًا، ولا رجعة فيه، وعلينا أن نقول ذلك. إذا اضطرت شركة ما إلى الإغلاق، خاصة قبل أن تحقق بعض النجاح الهادف، فهذا يعني أننا فشلنا.
 
-Otherwise, find a better way to describe what's happening, so we understand the situation better, and are pointed in the direction of what we should do next.
+بخلاف ذلك، ابحث عن طريقة أفضل لوصف ما يحدث، حتى نفهم الموقف بشكل أفضل، ونوجهنا في اتجاه ما يجب علينا فعله بعد ذلك.
 
-> "Success is stumbling from failure to failure with no loss of enthusiasm."  
-> --Winston Churchill
+> "النجاح هو التعثر من فشل إلى فشل دون فقدان الحماس."
+> - ونستون تشرشل

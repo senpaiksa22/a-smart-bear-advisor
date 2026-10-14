@@ -20,71 +20,58 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الشيء الأهم: القوة القادرة على تعويض جميع نقاط ضعفك الأخرى تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The Important Thing⁠--powerful enough to override all your deficiencies
-
-> **Executive Summary:** This is the reason that startups succeed despite their many weaknesses. And it's a reason to build a startup in the first place.
-> **Original URL:** [https://longform.asmartbear.com/the-important-thing/](https://longform.asmartbear.com/the-important-thing/)
-
 ![I don't care whose time it is, we're going to have a nice dinner for once!](https://public.asmartbear.com/books/anthology/chapters/the-important-thing/d7817print-simple.png)
 
-Do you feel the crushing weight of the disadvantages facing every new company? No brand, no features, no customers, no money, no distribution, no search engine rankings, no efficient advertising, no incredible executive team, no NPS, no strategy.
+هل تشعر بالثقل الساحق للعيوب التي تواجه كل شركة جديدة؟ لا توجد علامة تجارية، ولا ميزات، ولا عملاء، ولا مال، ولا توزيع، ولا تصنيفات على محرك البحث، ولا إعلانات فعالة، ولا فريق تنفيذي مذهل، ولا NPS، ولا استراتيجية.
 
-How do the successful startups win anyway? Do they solve all those problems at once, or at least quickly?
+كيف تفوز الشركات الناشئة الناجحة على أية حال؟ هل يحلون كل هذه المشاكل مرة واحدة، أو على الأقل بسرعة؟
 
-No.
+لا.
 
-One answer is they pick their battles where they have [advantages over incumbents](https://longform.asmartbear.com/startup-beats-incumbent/).
+إحدى الإجابات هي أنهم يختارون معاركهم حيث يكون لديهم [مزايا على شاغلي المناصب](https://longform.asmartbear.com/startup-beats-incumbent/).
 
-The other answer is that they need one thing to go really _really_ right, to overcome the torrent of things that are going wrong.
+والإجابة الأخرى هي أنهم بحاجة إلى شيء واحد حتى يسيروا على الطريق الصحيح، للتغلب على سيل الأمور التي تسير على نحو خاطئ.
 
 ---
 
 ![First iPhone](https://public.asmartbear.com/books/anthology/chapters/the-important-thing/image-simple.png)
 
-I apologize in advance for using the dang iPhone as an example but... The iPhone is one of the most successful and important products of the past few decades. But the first version launched with a mountain of issues. It was a terrible phone, ironically. The whole idea was that it was a "smart *phone*," yet everyone agreed their cheap-o Nokia flip-phone was ten times better at being, you know, a *phone*. Also, imagine launching an operating system that didn't include "copy/paste." Terrible!
+أعتذر مقدمًا عن استخدام هاتف iPhone الدانغ كمثال ولكن... يعد جهاز iPhone أحد أكثر المنتجات نجاحًا وأهمية في العقود القليلة الماضية. لكن الإصدار الأول تم إطلاقه مع جبل من المشكلات. ومن المفارقات أنه كان هاتفًا فظيعًا. كانت الفكرة برمتها هي أنه كان "هاتفًا ذكيًا"، ومع ذلك اتفق الجميع على أن هاتف Nokia القابل للطي الرخيص كان أفضل بعشر مرات في كونه هاتفًا. تخيل أيضًا إطلاق نظام تشغيل لا يتضمن "النسخ/اللصق". رهيب!
 
-But, the iPhone did something so well, that people wanted so badly, they would put up with all the other crap: You could use the internet. The *real* Internet with full websites and everything. The web actually *worked* (even if slowly). Email actually worked. In your pocket. It's hard to explain the magic and excitement to a Gen-Z'er who takes it for granted. This was so compelling, all the other problems didn't matter.
+لكن الآيفون قام بشيء جيد جدًا، حيث أراده الناس بشدة، وكانوا سيتحملون كل حماقة أخرى: يمكنك استخدام الإنترنت. الإنترنت *الحقيقي* مع مواقع الويب الكاملة وكل شيء. لقد كان الويب يعمل بالفعل (حتى لو كان بطيئًا). البريد الإلكتروني يعمل فعلا. في جيبك. من الصعب شرح السحر والإثارة لجيل Z'er الذي يعتبر ذلك أمرا مفروغا منه. كان هذا مقنعًا للغاية، ولم تكن جميع المشكلات الأخرى مهمة.
 
 ---
 
 ![Screenshot of Heroku home page with command-line commands](https://public.asmartbear.com/books/anthology/chapters/the-important-thing/herokuscreenshot-500x424-simple.png)
 
-For more than ten years--an eon in tech--Heroku has been the dominate way that Ruby on Rails developers launch public applications. When it first came out, it was rife with "deal-breakers" that developers continually winged about. "What do you mean I have to use Bundler--it's broken half the time!" "What do you mean I can't change the filesystem at run-time--I'll have to change my algorithms!" "What do you mean it doesn't support MySQL--everyone uses MySQL! My queries are going to break." "Wow these websites are really slow." On and on with the complaints, and all quite valid.
+لأكثر من عشر سنوات - عصر في مجال التكنولوجيا - كانت Heroku هي الطريقة المهيمنة التي يستخدمها مطورو Ruby on Rails لإطلاق التطبيقات العامة. عندما تم طرحه لأول مرة، كان مليئًا بـ "مفسدي الصفقات" الذين ظل المطورون يتجولون حولهم باستمرار. "ماذا تقصد بأنه يجب علي استخدام Bundler - إنه معطل نصف الوقت!" "ماذا تقصد بأنني لا أستطيع تغيير نظام الملفات في وقت التشغيل -- سأضطر إلى تغيير الخوارزميات الخاصة بي!" "ماذا تقصد بأنه لا يدعم MySQL - الجميع يستخدم MySQL! سوف تنقطع استعلاماتي." "واو، هذه المواقع بطيئة حقًا." على وعلى مع الشكاوى، وكلها صحيحة تماما.
 
-But, Heroku did something so well, that people wanted to badly, they would put up with all the other crap. You could type `git push production` and your site went live. You could use a knob on a web page to determine how scalable the site was. (Don't worry, that knob is also connected to your wallet.) You never saw a server. You never thought about backups. You never worried how to securely stash your API keys. You always had a staging area to test things in a real server environment before pushing code live. DevOps became a thing of the past for a large class of applications. This was a revolution so important, so compelling, all the other problems didn't matter. Developers changed their workflows and their code around Heroku and "[12-Factor](https://www.12factor.net/)" apps; Heroku did not change to suit developers.
+لكن، هيروكو فعل شيئًا جيدًا جدًا، لدرجة أن الناس أرادوا ذلك بشدة، وكانوا سيتحملون كل الهراء الآخر. يمكنك كتابة "git Push production" وسيتم نشر موقعك. يمكنك استخدام المقبض الموجود على صفحة الويب لتحديد مدى قابلية تطوير الموقع. (لا تقلق، هذا المقبض متصل أيضًا بمحفظتك.) لم تشاهد خادمًا مطلقًا. لم تفكر أبدًا في النسخ الاحتياطية. لن تقلق أبدًا بشأن كيفية تخزين مفاتيح API الخاصة بك بشكل آمن. كان لديك دائمًا منطقة مرحلية لاختبار الأشياء في بيئة خادم حقيقية قبل نشر التعليمات البرمجية مباشرة. أصبحت DevOps شيئًا من الماضي بالنسبة لفئة كبيرة من التطبيقات. لقد كانت هذه ثورة مهمة للغاية، ومقنعة للغاية، ولم تكن جميع المشكلات الأخرى ذات أهمية. قام المطورون بتغيير سير العمل والتعليمات البرمجية الخاصة بهم حول تطبيقات Heroku و"[12-Factor](https://www.12factor.net/)"؛ لم يتغير Heroku ليناسب المطورين.
 
 ---
 
-This is a universal pattern I call **The Important Thing**.
+هذا هو النمط العالمي الذي أسميه **الشيء المهم**.
 
-Break-out products deliver something so fantastic, so game-changing, so important to the customer, that this one thing is sufficient to override the otherwise-overwhelming deficiencies of the rest of the product and company. So great that people tell their friends or force their colleagues to use it too (defeating the lack of marketing). So great that they'll use it even if support is slow and releases have bugs (defeating the lack of operational excellence). So great that they're excited to support a promising new company instead of worried about creating a dependency on a wobbly new company (defeating the lack of brand).
+تقدم المنتجات المتميزة شيئًا رائعًا للغاية، ومغيرًا لقواعد اللعبة، ومهمًا جدًا للعميل، لدرجة أن هذا الشيء الوحيد يكفي لتجاوز أوجه القصور الساحقة في بقية المنتج والشركة. من الرائع أن يخبر الناس أصدقاءهم أو يجبروا زملائهم على استخدامه أيضًا (التغلب على نقص التسويق). من الرائع جدًا أن يستخدموه حتى لو كان الدعم بطيئًا وكانت الإصدارات تحتوي على أخطاء (متغلبًا على الافتقار إلى التميز التشغيلي). من الرائع أنهم متحمسون لدعم شركة جديدة واعدة بدلاً من القلق بشأن إنشاء تبعية لشركة جديدة متذبذبة (التغلب على نقص العلامة التجارية).
 
-In short, despite the startup not having the positive attributes of large companies (brand, service, features, stability, integrations, social proof), [the startup can still win](https://longform.asmartbear.com/startup-beats-incumbent/) because their Important Thing is so compelling.
+باختصار، على الرغم من عدم امتلاك الشركة الناشئة للسمات الإيجابية للشركات الكبيرة (العلامة التجارية، الخدمة، الميزات، الاستقرار، التكامل، الدليل الاجتماعي)، [لا يزال بإمكان الشركة الناشئة الفوز](https://longform.asmartbear.com/startup-beats-incumbent/) لأن الشيء المهم لديها مقنع للغاية.
 
-The Important Thing isn't always a feature or technology. Fogbugz was never the leading bug-tracking system, but I employed it for most of the 2000s because I was a huge fan of [Joel Spolsky's blog](https://longform.asmartbear.com/letters-to-joel-spolsky/), so it felt good to use a product made by a company whose values and behaviors I respected and learned from. The same happened with Basecamp and the [37signals blog](https://m.signalvnoise.com/).[^1]
+الشيء المهم ليس دائمًا ميزة أو تقنية. لم يكن Fogbugz أبدًا هو النظام الرائد لتتبع الأخطاء، لكنني استخدمته في معظم العقد الأول من القرن الحادي والعشرين لأنني كنت من أشد المعجبين بـ [مدونة Joel Spolsky](https://longform.asmartbear.com/letters-to-joel-spolsky/)، لذلك كان من الجيد استخدام منتج صنعته شركة كنت أحترم قيمها وسلوكياتها وتعلمت منها. حدث الشيء نفسه مع Basecamp و[مدونة 37signals](https://m.signalvnoise.com/).[^1]
 
-[^1]: You might be tempted to say Basecamp was successful because the work-style espoused by 37signals leads to successful products, but the contrary evidence is that all of their many subsequent products--built with the same work-style, by the same people, and even with the same code base--were all dramatically less successful, to the point that all of them have now been discontinued, and the company has been renamed "Basecamp" to emphasize that only the first of those experiments was ultimately successful. _Editor's Note:_ Now in 2024, they seem to be successful with hey.com.
+[^1]: قد تميل إلى القول بأن Basecamp كان ناجحًا لأن أسلوب العمل الذي تتبناه 37signals يؤدي إلى منتجات ناجحة، لكن الدليل المعاكس هو أن جميع منتجاتها اللاحقة - التي تم إنشاؤها بنفس أسلوب العمل، بواسطة نفس الأشخاص، وحتى باستخدام نفس قاعدة التعليمات البرمجية - كانت جميعها أقل نجاحًا بشكل كبير، لدرجة أنه تم إيقافها جميعًا الآن، وتمت إعادة تسمية الشركة إلى "Basecamp" للتأكيد على أن أول تلك التجارب فقط هي التي كانت ناجحة. ناجحة في نهاية المطاف. _ملاحظة المحرر:_ الآن في عام 2024، يبدو أنهم حققوا نجاحًا مع موقع hey.com.
 
-Here's how to apply this to your own business:
+وإليك كيفية تطبيق ذلك على عملك الخاص:
 
-It's easy to get overwhelmed by the myriad of inadequacies you undoubtedly have. It's tempting to attack them all, but worrying about everything and attacking simultaneously on all fronts with no weapons just leads to burn-out, and does not result in a company that is excellent on any front. Fortunately, you don't need to solve all those problems. You need to solve almost none of them.
+من السهل أن تغمرك أعداد لا حصر لها من أوجه القصور التي تعاني منها بلا شك. من المغري مهاجمتهم جميعًا، لكن القلق بشأن كل شيء والهجوم في وقت واحد على جميع الجبهات بدون أسلحة يؤدي فقط إلى الإرهاق، ولا ينتج عنه شركة ممتازة على أي جبهة. ولحسن الحظ، لا تحتاج إلى حل كل هذه المشاكل. لا تحتاج إلى حل أي منها تقريبًا.
 
-Instead, you need to focus on the one thing (maybe two) which is your Important Thing. The thing where, if you're extraordinarily good at it, customers will overlook everything else.
+بدلاً من ذلك، تحتاج إلى التركيز على شيء واحد (وربما اثنين) وهو الشيء المهم لديك. الشيء الذي، إذا كنت جيدًا بشكل غير عادي في ذلك، فإن العملاء سوف يتجاهلون كل شيء آخر.
 
-It could be a feature (e.g. disappearing messages with Snapchat), but you can look beyond features. It could be enabling a lifestyle (such as remote-work or with-kids-work). It could be your online reputation (e.g. Joel Spolsky for me). It could be that you're solving a problem in an industry that others overlook; having "any solution, even with problems" is better than having no solution. It could be that your culture resonates with an audience (e.g. 37signals), maybe due to an informal voice in an otherwise formal market, or because you have a cause--a higher purpose--so that people aren't just buying a shirt or some software but rather they are supporting a movement (e.g. Patagonia who cares so much about the environment that there's a company policy that they will bail employees out of jail if they're arrested for peaceful protest, and by the way one of the results is that they have only 4% annual employee turn-over).
+يمكن أن تكون ميزة (على سبيل المثال، اختفاء الرسائل باستخدام Snapchat)، ولكن يمكنك النظر إلى ما هو أبعد من الميزات. يمكن أن يكون تمكين نمط حياة (مثل العمل عن بعد أو العمل مع الأطفال). يمكن أن تكون سمعتك على الإنترنت (على سبيل المثال، جويل سبولسكي بالنسبة لي). من الممكن أنك تحل مشكلة في صناعة يتجاهلها الآخرون؛ إن وجود "أي حل، حتى مع وجود المشاكل" أفضل من عدم وجود حل. من الممكن أن يكون لثقافتك صدى لدى الجمهور (على سبيل المثال 37signals)، ربما بسبب صوت غير رسمي في سوق رسمي، أو لأن لديك سببًا - هدفًا أسمى - بحيث لا يقوم الناس بشراء قميص أو بعض البرامج فحسب، بل يدعمون حركة ما (على سبيل المثال، باتاغونيا التي تهتم كثيرًا بالبيئة لدرجة أن هناك سياسة للشركة تقضي بإخراج الموظفين من السجن بكفالة إذا تم القبض عليهم بسبب احتجاج سلمي، وبالمناسبة، إحدى النتائج هي أن لديهم 4٪ فقط من معدل دوران الموظفين السنوي).
 
-You should select something that you *want* to obsess over for the next five to ten years, that gets your customers excited, and which you at least have a possibility of executing. And then do that. Maybe *only* that. If you let all the other fires burn, maybe you have a shot at actually being excellent at that Important Thing.
+يجب عليك اختيار شيء *تريد* أن تستحوذ عليه على مدى السنوات الخمس إلى العشر القادمة، والذي يثير حماسة عملائك، والذي لديك على الأقل إمكانية تنفيذه. ثم افعل ذلك. ربما *فقط* ذلك. إذا تركت كل النيران الأخرى تشتعل، فربما يكون لديك فرصة لتكون ممتازًا في هذا الشيء المهم.
 
-If you do, all those other disadvantages exist, but aren't fatal. That's all you can hope for, [at the beginning](https://longform.asmartbear.com/chaos-at-start/).
+إذا قمت بذلك، فإن كل تلك العيوب الأخرى موجودة، ولكنها ليست قاتلة. هذا كل ما يمكن أن تتمناه [في البداية](https://longform.asmartbear.com/chaos-at-start/).
 
-And all you need.
+وكل ما تحتاجه.
 
 ![Any way we can hurry this up?](https://public.asmartbear.com/books/anthology/chapters/the-important-thing/d1705print-simple.png)

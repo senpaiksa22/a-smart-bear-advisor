@@ -20,72 +20,59 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** التوسع عبر 'التفويض' وحده ليس كافياً لبناء منظومة ناجحة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Scaling by "delegation" isn't good enough
-
-> **Executive Summary:** Delegation doesn't scale your business.  What does: Creating a team that is better than the current team.  Including you.
-> **Original URL:** [https://longform.asmartbear.com/delegation/](https://longform.asmartbear.com/delegation/)
-
 ![ventriloquist dummy reading book entitled ventriloquism for dummies](https://public.asmartbear.com/books/anthology/chapters/delegation/d4820print-simple.png)
 
-Founding a company is a selfish act. It will consume every waking moment for the next 1-10 years. It's an act of defiance and irreverence towards competitors and the status quo. This matches the life of a 20-something--fueled by the energy of youth, too young to be jaded, without financial or social dependents. Not all selfish acts are bad ones!
+إن تأسيس شركة هو عمل أناني. سوف يستهلك كل لحظة استيقاظ لمدة 1-10 سنوات القادمة. إنه عمل من أعمال التحدي وعدم الاحترام تجاه المنافسين والوضع الراهن. يتطابق هذا مع حياة شخص في العشرينيات من عمره - تغذيها طاقة الشباب، أصغر من أن يكون منهكًا، دون معالين ماليين أو اجتماعيين. ليست كل الأفعال الأنانية سيئة!
 
-Young founders may fancy themselves wizards of [coding](https://longform.asmartbear.com/code-is-your-enemy/), [design](https://longform.asmartbear.com/design/), and [salesmanship](https://longform.asmartbear.com/startups-emotionally-draining/); I did! Maybe they're even right. They're probably [right enough](https://longform.asmartbear.com/the-important-thing/).
+قد يتخيل المؤسسون الشباب أنفسهم خبراء في [البرمجة](https://longform.asmartbear.com/code-is-your-enemy/)، و[التصميم](https://longform.asmartbear.com/design/)، و[فن البيع](https://longform.asmartbear.com/startups-emotionally-draining/)؛ فعلتُ! ربما هم على حق. من المحتمل أنهم [على حق بما فيه الكفاية](https://longform.asmartbear.com/the-important-thing/).
 
-But those skills don't help them build a team of 100 engineers that balance quality with speed, or assemble and manage an international sales team guided by principles other than overwhelming exuberance, or develop a consistent global brand with a voice and adherents, or manage cash flows once the P&L becomes abbreviated "(in millions)".
+لكن هذه المهارات لا تساعدهم في بناء فريق من 100 مهندس يوازن بين الجودة والسرعة، أو تجميع وإدارة فريق مبيعات دولي يسترشد بمبادئ أخرى غير الوفرة الساحقة، أو تطوير علامة تجارية عالمية متسقة لها صوت وأتباع، أو إدارة التدفقات النقدية بمجرد اختصار الربح والخسارة "(بالملايين)".
 
-Introspective young founders appreciate this, and often the stated solution is "delegation," as defined by:
+المؤسسون الشباب المتأملون يقدرون ذلك، وغالبًا ما يكون الحل المعلن هو "التفويض"، كما هو محدد بواسطة:
 
-1. First I'll do it myself.
-2. Then I'll understand it.
-3. Then I'll have the experience to hire and instruct a new person to do it the right way (i.e. my way)
+1. أولا سأفعل ذلك بنفسي.
+2. ثم سأفهم ذلك.
+3. ثم سأكتسب الخبرة اللازمة لتوظيف وتوجيه شخص جديد للقيام بذلك بالطريقة الصحيحة (أي طريقتي)
 
-This is how I did it when I was young and naïve, and I see the pattern repeated all the time.
+هكذا فعلت ذلك عندما كنت صغيرًا وساذجًا، وأرى النمط يتكرر طوال الوقت.
 
-And it's wrong.
+وهذا خطأ.
 
-The trouble with this form of delegation is **it results in a team that is not materially better than the founder**, at anything. Which means the company is never very good at more than one or two things. Which is bad for the company, bad for employees, bad for customers, and therefore ultimately bad for the founder.
+المشكلة في هذا النوع من التفويض هي **أنه يؤدي إلى فريق ليس أفضل ماديًا من المؤسس**، في أي شيء. مما يعني أن الشركة ليست جيدة أبدًا في أكثر من شيئ أو شيئين. وهو أمر سيئ للشركة، وسيئ للموظفين، وسيئ للعملاء، وبالتالي سيئ في النهاية للمؤسس.
 
-This is a variant of the rule that: If you think a certain position at the company isn't useful, it's because [you've never worked with greatness](https://longform.asmartbear.com/imbalanced-people/) at that position. When you're looking for someone who knows what you know, and works like you work, you're not finding greatness, you're finding a substitute for your already-not-world-class performance. You're lucky if you hire even that; you might hire even worse.
+هذا هو البديل للقاعدة التالية: إذا كنت تعتقد أن منصبًا معينًا في الشركة ليس مفيدًا، فذلك لأنك [لم تعمل أبدًا بعظمة](https://longform.asmartbear.com/imbalanced-people/) في هذا المنصب. عندما تبحث عن شخص يعرف ما تعرفه، ويعمل كما تعمل، فإنك لا تجد العظمة، بل تجد بديلاً لأدائك الذي ليس من الطراز العالمي بالفعل. أنت محظوظ إذا قمت بتعيين ذلك؛ قد تقوم بتوظيف ما هو أسوأ من ذلك.
 
-Whereas, as the job of the founder--or any manager--is the opposite: **To hire people who are better than you at every position**, because only then is your organization increasing its strength and abilities.
+في حين أن وظيفة المؤسس - أو أي مدير - هي عكس ذلك: **توظيف أشخاص أفضل منك في كل منصب**، لأنه عندها فقط تزيد مؤسستك من قوتها وقدراتها.
 
-If you hire and then [micromanage](https://longform.asmartbear.com/in-command/), or constantly have to "fix" what others are doing, you're a bad manager. Because if the person is in fact incapable, then you hired the wrong person. And if the person *is* capable, then you're getting in their way and wasting your time. If the person isn't better than you at the position, you're not making the organization better. If the person is better than you, then your micromanagement is destroying that improvement while also destroying their morale and your schedule.
+إذا كنت تقوم بالتوظيف ثم [الإدارة الدقيقة](https://longform.asmartbear.com/in-command/)، أو كنت مضطرًا باستمرار إلى "إصلاح" ما يفعله الآخرون، فأنت مدير سيء. لأنه إذا كان الشخص في الواقع غير قادر، فهذا يعني أنك قمت بتعيين الشخص الخطأ. وإذا كان الشخص قادرًا، فأنت تقف في طريقه وتضيع وقتك. إذا لم يكن الشخص أفضل منك في هذا المنصب، فأنت لا تجعل المنظمة أفضل. إذا كان الشخص أفضل منك، فإن إدارتك التفصيلية تدمر هذا التحسن بينما تدمر أيضًا معنوياتهم وجدولك الزمني.
 
-In every case, it's bad management, and it's your fault.
+في كل الأحوال، إنها إدارة سيئة، وهذا خطأك.
 
-> "It doesn't make sense to hire smart people and then tell them what to do.  
->   
-> "We hire smart people so they can tell *us* what to do."  
-> --Steve Jobs
+> "ليس من المنطقي توظيف أشخاص أذكياء ثم إخبارهم بما يجب عليهم فعله.
+> 
+> "نحن نوظف أشخاصًا أذكياء حتى يتمكنوا من إخبارنا بما يجب علينا فعله."
+> --ستيف جوبز
 
-This mistake compounds when you're building a larger organization, because then the goal stretches beyond individual excellence: Your job is to build *teams which themselves grow and create greatness.* This is a meta or recursive problem: Not the founder attracting, identifying, and retaining greatness, but the founder building teams who themselves are doing that. This is the best definition of "team-building."
+يتفاقم هذا الخطأ عندما تقوم ببناء مؤسسة أكبر، لأن الهدف يمتد إلى ما هو أبعد من التميز الفردي: وظيفتك هي بناء *فرق تعمل بنفسها على النمو وخلق العظمة.* هذه مشكلة وصفية أو متكررة: ليس المؤسس هو الذي يجذب العظمة ويحددها ويحتفظ بها، ولكن المؤسس يبني الفرق التي تفعل ذلك بنفسها. هذا هو أفضل تعريف لـ "بناء الفريق".
 
-**Delegation isn't team-building, and thus it doesn't lead to scale, nor to greatness.**
+**التفويض لا يعني بناء الفريق، وبالتالي فهو لا يؤدي إلى التوسع أو العظمة.**
 
-Rather, hiring "up" creates greatness, and the space for scale.
+وبدلاً من ذلك، فإن توظيف "أعلى" يخلق العظمة، ويخلق مساحة للتوسع.
 
-Scaling your business requires that you **convert your initial selfishness into the empowerment of others**. "Delegation" means you still own it but someone else does the work. "Team-building" means the team is trusted to own it, own its obligations, can figure out and execute the details, and is responsible not only for meeting initial expectations, but increasing their own expectations of themselves.
+يتطلب توسيع نطاق عملك أن **تحوّل أنانيتك الأولية إلى تمكين الآخرين**. "التفويض" يعني أنك لا تزال تملكه ولكن شخصًا آخر يقوم بالعمل. "بناء الفريق" يعني أن الفريق موثوق به لامتلاكه، والتزاماته، ويمكنه معرفة التفاصيل وتنفيذها، ويكون مسؤولاً ليس فقط عن تلبية التوقعات الأولية، ولكن أيضًا زيادة توقعاتهم الخاصة بأنفسهم.
 
-You're still in charge, but the team is [in command](https://longform.asmartbear.com/in-command/).
+أنت لا تزال مسؤولاً، ولكن الفريق [في موقع القيادة](https://longform.asmartbear.com/in-command/).
 
-This is where you achieve true scale in a company. Delegation is where you assign away lesser jobs so you can be even more heroic, because it's still about you. But you're still the bottleneck even if you've made that neck a little wider. Team-building means no bottleneck because the team can be as wide as needed. In fact the best teams measure their own necks and decide how and when to widen further.
+هذا هو المكان الذي تحقق فيه النطاق الحقيقي في الشركة. التفويض هو المكان الذي تقوم فيه بتعيين وظائف أقل حتى تتمكن من أن تكون أكثر بطولية، لأن الأمر لا يزال يتعلق بك. لكنك لا تزال تمثل عنق الزجاجة حتى لو قمت بجعل تلك الرقبة أوسع قليلاً. بناء الفريق يعني عدم وجود عنق الزجاجة لأن الفريق يمكن أن يكون واسعًا حسب الحاجة. في الواقع، تقوم أفضل الفرق بقياس أعناقها وتقرر كيف ومتى يجب أن تتوسع أكثر.
 
-This is where you derisk the company by [moving from brittle to resilient](https://longform.asmartbear.com/brittle-points/). Through delegation alone, if one person gets sick, a deadline is missed. Or if someone leaves the company, a strategy isn't executed. With team-building, you have group knowledge. Someone being sick or leaving the company gets baked into the plan.
+هذا هو المكان الذي تخاطر فيه بالشركة من خلال [الانتقال من الهشاشة إلى المرونة](https://longform.asmartbear.com/brittle-points/). من خلال التفويض وحده، إذا مرض شخص واحد، يتم تفويت الموعد النهائي. أو إذا ترك شخص ما الشركة، فلن يتم تنفيذ الإستراتيجية. مع بناء الفريق، لديك معرفة جماعية. يتم إدراج شخص ما مريضًا أو يغادر الشركة في الخطة.
 
-The moment where you truly understand and embrace this concept is when you can turn the gun on yourself and realize that no one is exempt from this rule. It's relatively easy for a technical founder to agree that she isn't the best person to build a global sales organization, but is she ready to agree that *even where she is excellent*, it's still her job to find people who are even more excellent, not just at individual tasks but at building entire teams?
+إن اللحظة التي تفهم فيها هذا المفهوم وتتبنيه حقًا هي عندما يمكنك توجيه البندقية إلى نفسك وتدرك أنه لا يوجد أحد معفى من هذه القاعدة. من السهل نسبيًا أن توافق المؤسس التقني على أنها ليست الشخص الأفضل لبناء مؤسسة مبيعات عالمية، ولكن هل هي مستعدة للموافقة على أنه *حتى عندما تكون ممتازة*، تظل وظيفتها هي العثور على أشخاص أكثر تميزًا، ليس فقط في المهام الفردية ولكن في بناء فرق بأكملها؟
 
-That's what I did at WP Engine, multiple times, including no longer being the CEO. [Here's exactly how](https://longform.asmartbear.com/fulfillment/) I figured out why that was the correct decision.
+هذا ما فعلته في WP Engine، عدة مرات، بما في ذلك أنني لم أعد الرئيس التنفيذي. [إليك بالضبط الطريقة](https://longform.asmartbear.com/fulfillment/) لقد اكتشفت سبب كون هذا هو القرار الصحيح.
 
-But doesn't this mean that ultimately **leaders are managing a set of people, all of whom are better-qualified than that leader to do those jobs**? And isn't that difficult to manage, after all how do you argue with those people, and how will you earn the respect and confidence of those people? Yes, that is what it means, and yes that is difficult. And it's your job, because anything less is by definition holding the company back.
+لكن ألا يعني هذا أن القادة في نهاية المطاف يديرون مجموعة من الأشخاص، وجميعهم مؤهلون بشكل أفضل من ذلك القائد للقيام بهذه المهام**؟ أليس من الصعب إدارة ذلك، ففي نهاية المطاف، كيف تتجادل مع هؤلاء الأشخاص، وكيف ستكسب احترام وثقة هؤلاء الأشخاص؟ نعم هذا ما يعنيه، ونعم هذا صعب. وهذه هي وظيفتك، لأن أي شيء أقل من ذلك يعتبر بمثابة عائق للشركة.
 
-If you can't handle that, don't be a manager, don't be a leader, and most of all, don't be the CEO. The company--and all its employees--deserve a real leader.
+إذا لم تتمكن من التعامل مع ذلك، فلا تكن مديرًا، ولا تكن قائدًا، والأهم من ذلك كله، لا تصبح الرئيس التنفيذي. تستحق الشركة - وجميع موظفيها - قائدًا حقيقيًا.
 
-So convert the selfishness and egocentrism of starting a company, needed initially to get the engine turning over, into an egoless, outward facing, empowering, team-growing organization, where your goal is for you to never be the most knowledgeable and experienced person in the room, because you've surrounded yourself with greatness, who each do the same.
+لذا، قم بتحويل الأنانية والتمركز حول الذات في تأسيس شركة، وهو أمر ضروري في البداية لقلب المحرك، إلى منظمة خالية من الأنانية، تواجه الخارج، وتمكن، وتنمي الفريق، حيث يكون هدفك هو ألا تكون أبدًا الشخص الأكثر معرفة وخبرة في الغرفة، لأنك أحاطت نفسك بالعظمة، وكل منكما يفعل نفس الشيء.

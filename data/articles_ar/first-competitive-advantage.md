@@ -20,67 +20,54 @@ summary_ar: "Is it good to be \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** متى تكون الأسبقية في السوق ليست ميزة تنافسية حقيقية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# When being "first" is not a competitive advantage
-
-> **Executive Summary:** Is it good to be "first?"  It seems so -- what's the point of being a copycat? While "first" sounds impressive, in reality it's often not an advantage.
-> **Original URL:** [https://longform.asmartbear.com/first-competitive-advantage/](https://longform.asmartbear.com/first-competitive-advantage/)
-
 ![Why being a first mover is disadvantageous](https://public.asmartbear.com/books/anthology/chapters/first-competitive-advantage/image-simple.png)
 
-*"We started the trend."*
+*"لقد بدأنا الاتجاه."*
 
-*"Wherever you hear companies talking about Managed WordPress Hosting, they are following our lead."*
+*"أينما سمعت الشركات تتحدث عن استضافة WordPress المُدارة، فإنها تحذو حذونا."*
 
-This is how one of our competitors attempts to differentiate and compete with us at WP Engine.[^1] **Is it effective?**
+هذه هي الطريقة التي يحاول بها أحد منافسينا التمييز والتنافس معنا في WP Engine.[^1] **هل هذا فعال؟**
 
-[^1]: Editor's note: This piece was written in 2011, when WP Engine was one and a half years old. As of this note in 2024, WP Engine is a Unicorn, while the competitor's growth leveled off many years ago at less than 1/30th our size, then folded into a much larger company. With the benefit of hindsight, the predictions in this article proved accurate.
+[^1]: ملاحظة المحرر: تمت كتابة هذه المقالة في عام 2011، عندما كان عمر محرك WP سنة ونصف. اعتبارًا من هذه المذكرة في عام 2024، أصبحت WP Engine شركة وحيدة القرن، في حين استقر نمو المنافس منذ سنوات عديدة بأقل من 1/30 من حجمنا، ثم اندمج في شركة أكبر بكثير. ومع الاستفادة من الإدراك المتأخر، أثبتت التوقعات الواردة في هذه المقالة دقتها.
 
-Many startups insist they're "first" at *something*. As well they should--what's the point of a starting a company that adds nothing new to the world? But is "first" a good thing? Does it make you better than your competition?
+تصر العديد من الشركات الناشئة على أنها "الأولى" في *شيء ما*. كما ينبغي عليهم ذلك - ما الفائدة من إنشاء شركة لا تضيف شيئًا جديدًا إلى العالم؟ لكن هل "الأول" شيء جيد؟ هل يجعلك أفضل من منافسيك؟
 
-**On the surface being "first" sounds impressive**, implying innovation and leadership. But upon reflection, it's not.
+**ظاهريًا، يبدو كونك "الأول" مثيرًا للإعجاب**، مما يعني الابتكار والقيادة. لكن عند التأمل، الأمر ليس كذلك.
 
-Google wasn't the first search engine, the iPod wasn't the first MP3 player, DropBox wasn't the first cloud filesystem, Excel wasn't the first spreadsheet, Dell wasn't the first PC manufacturer, Facebook wasn't the first social network, and Cisco didn't invent the router. Yet they're all the market leaders and their market's greatest innovators.
+لم يكن Google أول محرك بحث، ولم يكن iPod أول مشغل MP3، ولم يكن DropBox أول نظام ملفات سحابي، ولم يكن Excel أول جدول بيانات، ولم تكن Dell أول شركة مصنعة لأجهزة الكمبيوتر، ولم يكن Facebook أول شبكة اجتماعية، ولم تكن Cisco هي التي اخترعت جهاز التوجيه. ومع ذلك، فهم جميعًا قادة السوق وأعظم المبتكرين في السوق.
 
 ![oog like first two last one no get](https://public.asmartbear.com/books/anthology/chapters/first-competitive-advantage/d6208print-simple.png)
 
-Being first does imply innovation, but also implies the faults of "version one." The first electric car, while innovative, was pretty bad by most standards--short-range, sluggish, unattractive, and constantly in the repair shop.[^2]
+إن كونك الأول يعني الابتكار، ولكنه يتضمن أيضًا أخطاء "الإصدار الأول". على الرغم من أن السيارة الكهربائية الأولى كانت مبتكرة، إلا أنها كانت سيئة للغاية وفقًا لمعظم المعايير - فهي قصيرة المدى، وبطيئة، وغير جذابة، وتظل في ورشة الإصلاح باستمرار.[^2]
 
-[^2]: Tesla solved the first three of these four qualities, further demonstrating the point. Counter-point: Tesla *was* the first to create good-enough batteries, first to realize that "performance" was non-negotiable, and first to figure out how to leverage the different engineering constraints of EV to create the safest sedan ever made.
+[^2]: حل تسلا أول ثلاث من هذه الصفات الأربع، مما يوضح هذه النقطة بشكل أكبر. النقطة المضادة: كانت تسلا أول من صنع بطاريات جيدة بما فيه الكفاية، وأول من أدرك أن "الأداء" غير قابل للتفاوض، وأول من اكتشف كيفية الاستفادة من القيود الهندسية المختلفة للسيارات الكهربائية لإنشاء سيارة سيدان الأكثر أمانًا على الإطلاق.
 
-So too with software--"v1.0" might imply novelty, but it also implies "buggy" and "[incomplete](https://longform.asmartbear.com/slc/)." Who wants their business to depend on a v1.0 product?
+وينطبق هذا أيضًا على البرامج - قد يشير "الإصدار 1.0" إلى الحداثة، ولكنه يشير أيضًا إلى "عربات التي تجرها الدواب" و"[غير مكتمل](https://longform.asmartbear.com/slc/)." من يريد أن تعتمد أعماله على منتج الإصدار 1.0؟
 
-Even if you consider WP Engine to be nothing more than an imitator of this competitor (we're not, but that's a story for another time), the electric car analogy is apt, because in fact we're an improvement in almost every way. We're not the first electric car; instead we're Tesla.
+حتى لو كنت تعتبر WP Engine ليس أكثر من مجرد مقلد لهذا المنافس (نحن لسنا كذلك، ولكن هذه قصة لوقت آخر)، فإن تشبيه السيارة الكهربائية مناسب، لأننا في الواقع نشكل تحسنًا في كل شيء تقريبًا. نحن لسنا أول سيارة كهربائية. بدلا من ذلك نحن تسلا.
 
-This competitor had 40 minutes of downtime last month; we had 0 (according to Pingdom, an unaffiliated 3rd-party). We're 30% faster at delivering HTML (also Pingdom). Our security service is better--we *guarantee* cleanup of any hacks while this competitor simply claims they've never been hacked (though we've found malware in customers of theirs who switched to us). Our support is more responsive and knowledgable because we employ more WordPress experts per 1000 customers than anyone.
+حصل هذا المنافس على 40 دقيقة من التوقف الشهر الماضي؛ كان لدينا 0 (وفقًا لـ Pingdom، جهة خارجية غير تابعة). نحن أسرع بنسبة 30% في تقديم HTML (أيضًا Pingdom). خدمة الأمان لدينا أفضل - نحن *نضمن* تنظيف أي اختراقات بينما يدعي هذا المنافس ببساطة أنه لم يتم اختراقه مطلقًا (على الرغم من أننا وجدنا برامج ضارة لدى عملائه الذين تحولوا إلينا). يعد دعمنا أكثر استجابة ومعرفة لأننا نوظف عددًا أكبر من خبراء WordPress لكل 1000 عميل أكثر من أي شخص آخر.
 
-**Those are tangible competitive advantages; being "first" isn't.**
+**تلك مزايا تنافسية ملموسة؛ كونك "الأول" ليس كذلك.**
 
-In fact, being first can be a shackle because you're stuck with supporting the legacy of that first version--[features you thought were important but aren't now](https://longform.asmartbear.com/good-problems-to-have/) (and maybe never were, a journey that new competitors will skip), grandfathered customers who are no longer profitable, architectural choices you wish you could change (and competitors were able to avoid), and a reputation that's hard to revamp even if your company has in fact changed.
+في الواقع، يمكن أن يكون كونك الأول مكبلًا لأنك عالق في دعم إرث هذا الإصدار الأول - [الميزات التي اعتقدت أنها مهمة ولكنها ليست الآن] (https://longform.asmartbear.com/good-problems-to-have/) (وربما لم تكن كذلك أبدًا، وهي رحلة سيتخطاها المنافسون الجدد)، والعملاء الأجداد الذين لم يعودوا مربحين، والخيارات المعمارية التي ترغب في تغييرها (وتمكن المنافسون من تجنبها)، والسمعة التي يصعب تجديدها حتى إذا تغيرت شركتك بالفعل.
 
-Worse, being first means you made all the mistakes in public. New competitors get to swoop in afterwards with the hindsight that you created--in pricing,[^3] positioning, marketing, features, design, ... everything. They get a running start without all your baggage. Thanks to *you*.
+والأسوأ من ذلك، أن كونك الأول يعني أنك ارتكبت كل الأخطاء علنًا. سيتمكن المنافسون الجدد من الانقضاض بعد ذلك من خلال الإدراك المتأخر الذي أنشأته - في التسعير،[^3] وتحديد المواقع، والتسويق، والميزات، والتصميم، ... كل شيء. إنهم يبدأون بدون كل أمتعتك. شكرا لك *أنت*.
 
-[^3]: Editor's note: Years later, speaking to founders of a different competitor who didn't yet exist at the time of original publishing, I asked how they determined their pricing. The answer: "We figured you'd already done the research and tested different things, so we just copied y'all."
+[^3]: ملاحظة المحرر: بعد سنوات، أثناء حديثي مع مؤسسي شركة منافسة مختلفة لم تكن موجودة بعد وقت النشر الأصلي، سألتهم عن كيفية تحديد أسعارهم. الجواب: "لقد اكتشفنا أنكم قد قمتم بالفعل بالبحث واختبرتم أشياء مختلفة، لذلك قمنا بتقليدكم جميعًا."
 
-Of course there are situations where being first is indeed a massive advantage. This arises when you're not only first, but also able to expand fast and continue to innovate, and when fast expansion creates a moat which prevents late-joining competitors from catching up. Early MP3 players didn't do this--they didn't get huge traction and weren't creative in hardware or design, which meant Apple had the space to innovate in design while the market was still largely up for grabs.
+بالطبع هناك حالات يكون فيها كونك الأول في الواقع ميزة كبيرة. وينشأ هذا عندما لا تكون الأول فحسب، بل أيضًا قادرًا على التوسع بسرعة والاستمرار في الابتكار، وعندما يخلق التوسع السريع خندقًا يمنع المنافسين الذين ينضمون متأخرًا من اللحاق بالركب. مشغلات MP3 الأوائل لم تفعل ذلك - لم تحصل على جذب كبير ولم تكن مبدعة في الأجهزة أو التصميم، مما يعني أن لدى Apple مساحة للابتكار في التصميم بينما كان السوق لا يزال مفتوحًا إلى حد كبير.
 
-But McDonalds and Ford were first and kept their leads, because they never stopped innovating in process and product, constantly driving down costs while adding new desirable features, using their lead to fund even stronger growth.
+لكن شركتي ماكدونالدز وفورد كانتا في المقدمة وحافظتا على تقدمهما، لأنهما لم تتوقفا قط عن الابتكار في العمليات والمنتجات، وعملتا باستمرار على خفض التكاليف في حين أضافتا ميزات جديدة مرغوبة، واستخدمتا تقدمهما لتمويل نمو أقوى.
 
-Amazon is the quintessential example of "first, but relentlessly innovative" in cloud infrastructure. They didn't just put "cloud computing" on the map, they've never stopped lowering prices while expanding both depth and breadth of service. If they keep it up--and there's currently no reason to think they won't--it's hard to see how anyone could overtake them. And so far no one has come close, though at least four multi-billion-dollar companies are trying.[^4]
+تُعد أمازون المثال الجوهري للبنية التحتية السحابية "الأولى ولكن المبتكرة بلا هوادة". لم يضعوا "الحوسبة السحابية" على الخريطة فحسب، بل لم يتوقفوا أبدًا عن خفض الأسعار مع توسيع عمق الخدمة واتساعها. إذا استمروا في ذلك - ولا يوجد حاليًا أي سبب للاعتقاد بأنهم لن يفعلوا ذلك - فمن الصعب أن نرى كيف يمكن لأي شخص أن يتفوق عليهم. وحتى الآن لم يقترب أحد من ذلك، على الرغم من أن أربع شركات على الأقل بمليارات الدولارات تحاول ذلك.[^4]
 
-[^4]: Editor's note: In 2024 this has not only held true, but more: They stopped lowering prices and still remain in the lead. [Here is the explanation](https://longform.asmartbear.com/moats/) of the strategic moats that constructed their success.
+[^4]: ملاحظة المحرر: في عام 2024، لم يكن هذا صحيحًا فحسب، بل أكثر من ذلك: لقد توقفوا عن خفض الأسعار وما زالوا في المقدمة. [هنا هو الشرح](https://longform.asmartbear.com/moats/) للخنادق الإستراتيجية التي شيدت نجاحهم.
 
-So yes it can work, and a well-funded startup combined with a stellar team and [bit of good fortune](https://longform.asmartbear.com/lucky/) can occasionally pull it off. But most little companies aren't in that position, and it's often not the best risk/reward anyway.
+لذا نعم يمكن أن ينجح الأمر، ويمكن لشركة ناشئة جيدة التمويل مع فريق ممتاز و[قليل من الحظ الجيد](https://longform.asmartbear.com/lucky/) أن تنجح في بعض الأحيان. لكن معظم الشركات الصغيرة ليست في هذا الوضع، وغالبًا ما لا يكون ذلك أفضل المخاطر/المكافآت على أي حال.
 
-**Being "first" isn't an end in itself**--it's not an advantage, not a feature, not a benefit the customer can experience. It can be a *means* to one of those ends--it can be levered into market dominance with persistence and the right strategy--or it can be a manacle that locks your company into a burden of legacy that allows newer competitors to accelerate past you.
+**أن تكون "الأول" ليس غاية في حد ذاته**--إنها ليست ميزة، وليست ميزة، وليست فائدة يمكن أن يختبرها العميل. يمكن أن يكون *وسيلة* لتحقيق إحدى هذه الغايات - يمكن الاستفادة منه في الهيمنة على السوق بالمثابرة والاستراتيجية الصحيحة - أو يمكن أن يكون قيدًا يحبس شركتك في عبء الإرث الذي يسمح للمنافسين الجدد بالتغلب عليك.
 
-You should be proud of being "first" at something. But like being "[disruptive](https://longform.asmartbear.com/disruptive/)," being "first" isn't necessarily desirable.
+يجب أن تفخر بكونك "الأول" في شيء ما. ولكن مثل كونك "[مدمرًا](https://longform.asmartbear.com/disruptive/)، فإن كونك "الأول" ليس أمرًا مرغوبًا بالضرورة.
 
-It's just history.
+إنه مجرد تاريخ.

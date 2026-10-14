@@ -20,43 +20,30 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** التسويف المدروس من أجل النجاح: تأجيل القرارات حتى اكتمال البيانات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Procrastinate for Success!
-
-> **Executive Summary:** Procrastination can be a useful tool.  You can't do everything.  So don't.
-> **Original URL:** [https://longform.asmartbear.com/procrastinate/](https://longform.asmartbear.com/procrastinate/)
-
 ![Cartoon 1066946f](https://longform.asmartbear.com/procrastinate/c8e1986c.png)
 
-I'm a habitual procrastinator. It's a fundamental component of my psyche. It's also an important factor in success at running a small business. Here's why.
+أنا المماطلة المعتادة. إنه عنصر أساسي في نفسيتي. إنه أيضًا عامل مهم في النجاح في إدارة الأعمال التجارية الصغيرة. هذا هو السبب.
 
-In a small company you're overwhelmed with things to do. At Smart Bear we still have a dense whiteboard full of marketing ideas we don't have time for, dozens of index cards with cool features we don't have time to implement, and 7,000 open issues and minor feature requests in Fogbugz we don't even have time to glance at.
+في شركة صغيرة، أنت غارق في الأشياء التي يجب القيام بها. في Smart Bear، لا يزال لدينا سبورة معلومات كثيفة مليئة بالأفكار التسويقية التي لا نملك الوقت لها، وعشرات بطاقات الفهرسة ذات الميزات الرائعة التي ليس لدينا الوقت لتنفيذها، و7000 مشكلة مفتوحة وطلبات ميزات بسيطة في Fogbugz ليس لدينا حتى الوقت لإلقاء نظرة عليها.
 
-And that's now, with five years of work and fifteen employees. It was hundred times worse at the beginning with just one person doing all the work.
+والآن، بعد خمس سنوات من العمل وخمسة عشر موظفًا. كان الأمر أسوأ مائة مرة في البداية حيث قام شخص واحد فقط بكل العمل.
 
-This one person must have [worked tirelessly](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/). (He did.) This person must have been willing to do every kind of job. (He was.) This person must have been hyper-organized, allowing nothing to slip through the cracks, aware of how to [advance the strategy while side-stepping obstacles](https://longform.asmartbear.com/strategic-planning/), spending precious time on only the [most high-valued tasks](https://longform.asmartbear.com/maximized-decision/), not just working on whatever this person felt like at the time. (Ummmmmm... [*looks sheepishly at toes*]... not so much.)
+يجب أن يكون هذا الشخص قد [عمل بلا كلل](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/). (لقد فعل ذلك). لا بد أن هذا الشخص كان على استعداد للقيام بكل أنواع الوظائف. (لقد كان كذلك). لا بد أن هذا الشخص كان شديد التنظيم، ولم يسمح لأي شيء بالمرور عبر الشقوق، وكان على دراية بكيفية [تطوير الإستراتيجية مع تجاوز العقبات](https://longform.asmartbear.com/strategic-planning/)، وقضاء وقت ثمين فقط في [المهام الأكثر قيمة](https://longform.asmartbear.com/maximized-decision/)، وليس فقط العمل على ما شعر به هذا الشخص في ذلك الوقت. (أممممم... [*ينظر بخجل إلى أصابع القدم*]... ليس كثيرًا.)
 
-"Don't put off 'till tomorrow what you can put off 'till the day after tomorrow." Thanks, [Mark](http://www.twainquotes.com/Procrastination.html), for guiding the overwhelmed.
+"لا تؤجل إلى الغد ما يمكنك تأجيله إلى بعد غد." شكرًا، [مارك](http://www.twainquotes.com/Procrastination.html)، على توجيه المثقلين.
 
-You really *do* have too much to do. [Prioritization](https://longform.asmartbear.com/rocks-pebbles-sand/) might be best in theory, but plain, gut-feel procrastination might be the right way to go. 
+أنت حقًا *تفعل* لديك الكثير لتفعله. قد يكون [تحديد الأولويات](https://longform.asmartbear.com/rocks-pebbles-sand/) هو الأفضل من الناحية النظرية، ولكن المماطلة البسيطة قد تكون هي الطريقة الصحيحة.
 
-Many things blow over if you just ignore them. The big feature you got worked up about yesterday seems unimportant in the cold light of today. A feature a customer says is vital turns out to be something suggested by their intern, not actually stopping the sale. An apparent fundamental bug turns out to be a misconfiguration. An important meeting [turns out to be unimportant](http://www.37signals.com/svn/posts/1056-will-your-next-meeting-pass-the-blizzard-goggles-test).  The email you didn't answer resolved itself.
+أشياء كثيرة تنفجر إذا تجاهلتها. الميزة الكبيرة التي اهتممت بها بالأمس تبدو غير مهمة في ضوء اليوم البارد. إن الميزة التي يقول العميل إنها حيوية تبين أنها شيء يقترحه المتدرب، ولا يؤدي في الواقع إلى إيقاف البيع. تبين أن الخطأ الأساسي الواضح هو خطأ في التكوين. اجتماع مهم [تبين أنه غير مهم](http://www.37signals.com/svn/posts/1056-will-your-next-meeting-pass-the-blizzard-goggles-test).  البريد الإلكتروني الذي لم ترد عليه تم حله من تلقاء نفسه.
 
-Besides, a lot of those tasks aren't as important as you think. Even something critical like accounting can be put off. Late fees, lost receipts, penalties from the IRS: financial burdens more than compensated by additional revenue gained by signing up one more customer.
+علاوة على ذلك، فإن الكثير من هذه المهام ليست مهمة كما تعتقد. حتى الأشياء المهمة مثل المحاسبة يمكن تأجيلها. الرسوم المتأخرة، والإيصالات المفقودة، والعقوبات من مصلحة الضرائب: يتم تعويض الأعباء المالية عن طريق الإيرادات الإضافية المكتسبة من خلال تسجيل عميل آخر.
 
-Financial tasks in particular also have the property of being faster to do in a big sweep rather than as they trickle in. It's faster to enter 100 receipts into Quickbooks once a month than to enter three a day. Little tasks like that still have context-switch overhead, plus you get fast at typing and keyboard shortcuts when you're doing the same action hundreds of times in a row.
+تتميز المهام المالية على وجه الخصوص أيضًا بكونها أسرع في القيام بعملية مسح كبيرة بدلاً من أن تتدفق. من الأسرع إدخال 100 إيصال في Quickbooks مرة واحدة في الشهر بدلاً من إدخال ثلاثة إيصالات يوميًا. لا تزال المهام الصغيرة مثل تلك تتطلب حملًا إضافيًا لتبديل السياق، بالإضافة إلى أنك تصبح سريعًا في الكتابة واختصارات لوحة المفاتيح عندما تقوم بنفس الإجراء مئات المرات على التوالي.
 
-Companies succeed because they got just a few things really right, not because they had no problems, no bugs, no design flaws, and perfect books.  By spending less time on those [time-sucking details](https://longform.asmartbear.com/double-your-productivity/), you can spend more time on those [1-2 most important things](https://longform.asmartbear.com/the-important-thing/).  Which is how you win.
+تنجح الشركات لأنها قامت ببعض الأشياء بشكل صحيح، وليس لأنها لم تكن لديها مشاكل، ولا أخطاء، ولا عيوب في التصميم، وكتب مثالية.  من خلال قضاء وقت أقل في هذه [التفاصيل التي تستغرق وقتًا طويلاً](https://longform.asmartbear.com/double-your-productivity/)، يمكنك قضاء المزيد من الوقت في [الأشياء الأكثر أهمية](https://longform.asmartbear.com/the-important-thing/).  وهذه هي الطريقة التي تفوز بها.
 
-Finally, sometimes you've got to let yourself do [fun stuff at the expense of priorities](http://www.joelonsoftware.com/articles/HowToShipAnything.html). Most of what you do in a little company isn't what you enjoy doing; it's easy to become [frustrated and burned-out](https://longform.asmartbear.com/fulfillment/). So sometimes you need to allow yourself to recover with plain fun. Whatever the cost of putting off duties, burn-out is even more costly.
+أخيرًا، في بعض الأحيان عليك أن تسمح لنفسك بالقيام [بالأشياء الممتعة على حساب الأولويات](http://www.joelonsoftware.com/articles/HowToShipAnything.html). معظم ما تفعله في شركة صغيرة ليس هو ما تستمتع بفعله؛ من السهل أن تصبح [محبطًا ومنهكًا](https://longform.asmartbear.com/fulfillment/). لذلك في بعض الأحيان تحتاج إلى السماح لنفسك بالتعافي من خلال متعة بسيطة. ومهما كانت تكلفة تأجيل الرسوم، فإن الإرهاق أكثر تكلفة.
 
-Yeah I know I'm rationalizing. But you can't do everything, so don't.
+نعم أعلم أنني أقوم بالتبرير. ولكن لا يمكنك أن تفعل كل شيء، لذلك لا تفعل.
 
-And don't beat yourself up over it.
+ولا تلوم نفسك على ذلك.

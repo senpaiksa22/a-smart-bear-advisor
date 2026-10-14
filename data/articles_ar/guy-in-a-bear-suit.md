@@ -20,38 +20,25 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** رجل في زي دب: كسر الجليد واستخدام المرح لخلق هوية تسويقية تعلق بالذهن تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Guy in a bear suit
-
-> **Executive Summary:** Tradeshow booths need something to help them stand out.  A guy in a bear suit is one way to do it.
-> **Original URL:** [https://longform.asmartbear.com/guy-in-a-bear-suit/](https://longform.asmartbear.com/guy-in-a-bear-suit/)
-
 ![Smart Bear tradeshow boothYou can tell he's a "smart" bear because of the glasses.](https://longform.asmartbear.com/guy-in-a-bear-suit/eb647c89.png)
 
-Does your company have a mascot? Ours does. And ours writes Eclipse plug-ins in addition to being a fearsome beast.
+هل شركتك لديها التميمة؟ لدينا يفعل. ويكتب برنامجنا مكونات Eclipse الإضافية بالإضافة إلى كونه وحشًا مخيفًا.
 
-Not that I'd normally call Roy fearsome. Formidable, yes, but not fearsome. He juggled flaming clubs on Brandon's wooden back porch ("Don't worry, it's just fire"). I once saw him fixing an obscure bug in our Subversion/Eclipse integration while wearing the complete bear outfit.
+لا يعني ذلك أنني عادةً ما أعتبر روي مخيفًا. هائلة، نعم، ولكن ليس مخيفا. قام بالتلاعب بالهراوات المشتعلة على شرفة براندون الخلفية الخشبية ("لا تقلق، إنها مجرد نار"). لقد رأيته ذات مرة وهو يصلح خطأً غامضًا في تكامل Subversion/Eclipse الخاص بنا أثناء ارتداء زي الدب الكامل.
 
-So what happens when an Eclipse developer eagerly jumps into a panda suit and stands in the aisle at SD West?
+فماذا يحدث عندما يقفز أحد مطوري Eclipse بفارغ الصبر إلى بدلة الباندا ويقف في الممر في SD West؟
 
-1. Everyone notices.
-2. Most people gravitate to the bear. Gotta see what this is all about. Usually they are smiling.
-3. A few people will do anything to avoid getting close to the bear or making "eye contact."
-4. People assume you've hired some poor high school student to stand around in the suit. So when the bear engages you in a discussion of peer code review you might be surprised enough to actually talk about it.
-5. The bear's position in the aisle in front of the booth was unintentionally brilliant because: (a) you have to walk around the bear--the suit plus personal space creates a significant no-fly zone, plus (b) there was always a crowd around the bear, checking it out, seeing if it could talk, which increases the no-fly zone, therefore (c) if you want to get past the bear you must swing all the way to one side of the aisle (where our booth was) or the other, so (d) you end up getting our pitch and seeing our stuff even if you avoid the bear, especially since (e) the leftover space between bear and booth was so small that it created a logjam so you'd be standing in front of the booth without ability to move so you might as well check out our movie and get a free book.
-6. At least 10 other vendors at the show commented that "That guy must have lost a bet."  Roy really wanted to be the bear, and he was really good at it. He spent a lot of time in the bear head back at the office to get used to where the ears and head and eyes and chin were.
-7. If you cup the vestigial ears and bend them forward and say "come again," no one considers that this activity doesn't actually allow the human to hear better, and they will crane their necks to talk towards the fluffy blobs.
-8. Not-so-clever [Stephen Colbert](http://www.wikiality.com/Bears) references abound.
-9. Once the bear was propositioned. A woman commented that it would be great to have a bear mow the lawn. Roy said the bear was not for sale, but I thought he should have at least heard her out. Everything can be had for a price, even a mowing bear. Maybe not for Roy.
-10. Bears [stand out](http://www.youtube.com/watch?v=Z-fLXZleCSA) at awards shows. Craig (as in, he has a List) mentioned the bear three times during the ceremony. Eric points out it worked because Roy was not jumping around, calling attention to himself. He was just calmly sitting there, as if it's normal that a bear would be attending the Jolt Award. Which, of course, it is.
+1. يلاحظ الجميع.
+2. ينجذب معظم الناس إلى الدب. يجب أن أرى ما هو كل هذا. عادة ما يبتسمون.
+3. سيفعل بعض الأشخاص أي شيء لتجنب الاقتراب من الدب أو "التواصل البصري".
+4. يفترض الناس أنك استأجرت بعض الطلاب الفقراء في المدرسة الثانوية للوقوف في البدلة. لذلك، عندما يشركك الدب في مناقشة حول مراجعة الكود النظير، قد تتفاجأ بما يكفي لتتحدث عنها فعليًا.
+5. كان وضع الدب في الممر أمام المقصورة رائعًا عن غير قصد للأسباب التالية: (أ) عليك أن تتجول حول الدب - فالبدلة بالإضافة إلى المساحة الشخصية تخلق منطقة حظر طيران كبيرة، بالإضافة إلى (ب) كان هناك دائمًا حشد من الناس حول الدب، يفحصونه، ويرون ما إذا كان يمكنه التحدث، مما يزيد من منطقة حظر الطيران، لذلك (ج) إذا كنت تريد تجاوز الدب، فيجب عليك التأرجح على طول الطريق إلى جانب واحد من الممر (حيث كان كشكنا) أو أخرى، لذلك (د) سينتهي بك الأمر بالحصول على عرضنا ورؤية أغراضنا حتى لو تجنبت الدب، خاصة وأن (هـ) كانت المساحة المتبقية بين الدب والكشك صغيرة جدًا لدرجة أنها خلقت ازدحامًا بحيث تقف أمام الكشك دون القدرة على التحرك، لذا يمكنك أيضًا مشاهدة الفيلم والحصول على كتاب مجاني.
+6. وعلق ما لا يقل عن 10 بائعين آخرين في المعرض قائلاً: "لا بد أن هذا الرجل قد خسر رهانه".  أراد روي حقًا أن يكون الدب، وكان جيدًا في ذلك. لقد أمضى الكثير من الوقت في رأس الدب في المكتب ليعتاد على مكان وجود الأذنين والرأس والعينين والذقن.
+7. إذا قمت بضم الأذنين الأثريتين وثنيتهما للأمام وقلت "تعال مرة أخرى"، فلا أحد يعتبر أن هذا النشاط لا يسمح للإنسان بالسمع بشكل أفضل، وسوف يرفع أعناقه للتحدث نحو النقط الرقيقة.
+8. المراجع غير الذكية [ستيفن كولبيرت] (http://www.wikiality.com/Bears) كثيرة.
+9. بمجرد اقتراح الدب. علقت إحدى النساء بأنه سيكون من الرائع أن يكون هناك دب يجز العشب. قال روي إن الدب ليس للبيع، لكنني اعتقدت أنه كان ينبغي عليه على الأقل أن يسمعها. كل شيء يمكن الحصول عليه مقابل ثمن، حتى دب القص. ربما ليس لروي.
+10. الدببة [تبرز](http://www.youtube.com/watch?v=Z-fLXZleCSA) في عروض الجوائز. ذكر كريج (كما في، لديه قائمة) الدب ثلاث مرات خلال الحفل. يشير إريك إلى أن الأمر نجح لأن روي لم يكن يقفز ويلفت الانتباه إلى نفسه. لقد كان يجلس هناك بهدوء، كما لو كان من الطبيعي أن يحضر الدب جائزة الهزازة. وهو بالطبع كذلك.
 
 ![Smart Bear just sitting there](https://longform.asmartbear.com/guy-in-a-bear-suit/3bcd810a.png)
 
-P.S. Before you put 2 and 2 together, it turned out to not be a juggling bear. Roy couldn't see well enough out of the... neck... to juggle. He actually got three balls going by throwing them back on his furry belly to reduce error, but it looked weird.
+ملاحظة: قبل أن تجمع 2 و 2 معًا، اتضح أنه ليس دبًا شعوذة. لم يتمكن روي من رؤية ما هو جيد بما فيه الكفاية من... الرقبة... للتلاعب. لقد حصل بالفعل على ثلاث كرات من خلال رميها مرة أخرى على بطنه المكسو بالفراء لتقليل الخطأ، لكن الأمر بدا غريبًا.

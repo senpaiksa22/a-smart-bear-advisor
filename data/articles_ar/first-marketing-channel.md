@@ -20,84 +20,71 @@ summary_ar: "عندما تكون جديدًا، كيف تختار قناتك ا�
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كيف تختار قناة التسويق والاستحواذ الأولى لشركتك تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# How to select your first marketing channel
-
-> **Executive Summary:** When you're brand new, how do you select your first marketing channel?
-> **Original URL:** [https://longform.asmartbear.com/first-marketing-channel/](https://longform.asmartbear.com/first-marketing-channel/)
-
 ![intersection of where your customers already are and what you are good at](https://public.asmartbear.com/books/anthology/chapters/first-marketing-channel/marketing-simple.png)
 
-You've built a product, and it even works! Mostly! Now, how do you select your first marketing channel?
+لقد قمت ببناء منتج، وهو يعمل أيضًا! في الغالب! الآن، كيف تختار قناتك التسويقية الأولى؟
 
-There are dozens to pick from, and hundreds of products and services to help you execute each one:
+هناك العشرات للاختيار من بينها، ومئات المنتجات والخدمات لمساعدتك في تنفيذ كل منها:
 
 ![Scott Brinker's Marketing Technology Landscape from 2018; that was the last year it was "small" enough to be displayed in this format.](https://public.asmartbear.com/books/anthology/chapters/first-marketing-channel/image-2-simple.png)
 
-But there *aren't* dozens of marketing channels that make sense *for you*, *right now*. At the beginning you are beset by constraints of time, money, brand, reach, and [specific knowledge about your customers](https://longform.asmartbear.com/customer-development/). These constraints eliminate most channels as non-viable.
+ولكن *لا توجد* العشرات من القنوات التسويقية التي تناسبك *في الوقت الحالي*. في البداية، ستواجه قيودًا تتعلق بالوقت والمال والعلامة التجارية ومدى الوصول و[المعرفة المحددة بعملائك](https://longform.asmartbear.com/customer-development/). تقضي هذه القيود على معظم القنوات باعتبارها غير قابلة للحياة.
 
-The bad news is: You have fewer options than you'd like. The good news is: You can leverage those same constraints to answer the question: Which marketing channel is right for me?
+الخبر السيئ هو: لديك خيارات أقل مما تريد. والخبر السار هو: يمكنك الاستفادة من نفس هذه القيود للإجابة على السؤال: ما هي قناة التسويق المناسبة لي؟
 
-There are two primary constraints relevant to this question:
+هناك نوعان من القيود الأساسية ذات الصلة بهذا السؤال:
 
-1. Where your customers already are.
-2. What comes naturally to you.
+1. أين يتواجد عملاؤك بالفعل؟
+2. ما يأتي بشكل طبيعي لك.
 
 ![I miss the old days when we could just tout things.](https://public.asmartbear.com/books/anthology/chapters/first-marketing-channel/d7220print-simple.png)
 
-## 1. Where your customers already are
+## 1. أين يتواجد عملاؤك بالفعل؟
 
-You don't control where your customers already go for industry news or to discover new software. You have to fish where the fish are.
+لا يمكنك التحكم في المكان الذي يذهب إليه عملاؤك بالفعل للحصول على أخبار الصناعة أو لاكتشاف برامج جديدة. عليك أن تصطاد السمك حيث توجد الأسماك.
 
 ![bear selling tools](https://public.asmartbear.com/books/anthology/chapters/first-marketing-channel/bear-selling-tools-glow-simple.png)
 
-For example, if you're selling accounting software, most of your customers will be on LinkedIn, some on Twitter, occasionally on Threads, maybe Facebook if it's for, let us say, a more mature connoisseur. But not Pinterest, not Snapchat, and not TikTok. Besides social channels, which keywords do they search for when they encounter the problem that you solve? Which podcasts do they listen to? Which YouTube channels do they subscribe to? Which consultants do they already pay to solve problems like these? (The answers to some of these will be "none".)
+على سبيل المثال، إذا كنت تبيع برامج محاسبة، فإن معظم عملائك سيكونون على LinkedIn، وبعضهم على Twitter، وأحيانًا على Threads، وربما Facebook إذا كان ذلك مخصصًا لمتذوق أكثر نضجًا. ولكن ليس Pinterest، وليس Snapchat، وليس TikTok. إلى جانب القنوات الاجتماعية، ما هي الكلمات الرئيسية التي يبحثون عنها عندما يواجهون المشكلة التي تحلها؟ ما هي ملفات البودكاست التي يستمعون إليها؟ ما هي قنوات اليوتيوب التي يشتركون فيها؟ من هم الاستشاريون الذين يدفعون لهم بالفعل لحل مشاكل كهذه؟ (الإجابة على بعض هذه الأسئلة ستكون "لا شيء".)
 
-On the other hand, if you're selling all-natural fair-trade miniature-alpaca yarn to weavers, they might be on Facebook, Pinterest, and possibly Threads.[^1] There might be weaving clubs that would be better targets than selling directly to consumers. There might be magazines (even in print!) and certainly some popular influencers.
+من ناحية أخرى، إذا كنت تبيع خيوط الألبكة المصغرة الطبيعية والمصنوعة وفق معايير التجارة العادلة إلى النساجين، فقد يكون ذلك متاحًا لهم على Facebook وPinterest وربما Threads.[^1] قد تكون هناك نوادي للنسيج تمثل أهدافًا أفضل من البيع المباشر للمستهلكين. قد تكون هناك مجلات (حتى مطبوعة!) وبالتأكيد بعض الشخصيات المؤثرة المشهورة.
 
-Because you don't control this, it is a constraint. You have to go where customers are already engaged.
+لأنك لا تتحكم في هذا، فهو قيد. عليك أن تذهب إلى حيث يشارك العملاء بالفعل.
 
-[^1]: I don't make the rules, I only make the puns.
+[^1]: أنا لا أضع القواعد، أنا فقط أضع التورية.
 
-## 2. What comes naturally to you
+## 2. ما يأتي إليك بشكل طبيعي
 
-This sounds self-indulgent, contrary to typical business advice. Aren't you supposed to get out of your comfort zone, learn new skills, dive into new media, and become an ["expert"](https://longform.asmartbear.com/expert-distraction/) in three months through a crucible of a hundred intense hours of coursework and enabling software?
+يبدو هذا من قبيل الانغماس في الذات، على عكس النصائح التجارية النموذجية. أليس من المفترض أن تخرج من منطقة الراحة الخاصة بك، وتتعلم مهارات جديدة، وتغوص في الوسائط الجديدة، وتصبح ["خبيرًا"](https://longform.asmartbear.com/expert-distraction/) في ثلاثة أشهر من خلال بوتقة مكونة من مائة ساعة مكثفة من الدورات الدراسية وتمكين البرامج؟
 
 ![bear cell phone](https://public.asmartbear.com/books/anthology/chapters/first-marketing-channel/image-simple.png)
 
-No. Doing something unnatural, that you despise, will fail. Think about the social network you do like. You instantly notice impostors--people who don't understand the medium, ham-handedly exploiting it for selfish marketing. It's awkward, it gets no engagement, and in fact you might not even see it as the algorithm silently buries their posts.
+لا، إن القيام بشيء غير طبيعي، والذي تحتقره، سوف يفشل. فكر في الشبكة الاجتماعية التي تفضلها. ستلاحظ على الفور المحتالين - الأشخاص الذين لا يفهمون الوسيلة، ويستغلونها بشكل غير لائق للتسويق الأناني. إنه أمر محرج، ولا يحظى بأي تفاعل، وفي الواقع قد لا تراه حتى بينما تدفن الخوارزمية منشوراتها بصمت.
 
-Plus, you're going to hate using a social media platform that you disdain. Taking myself as an example: I don't understand Pinterest. I don't understand collecting pictures on boards, I don't understand what happens with boards, I don't understand how you share things, I'm not even sure it's called a "board" and I don't care what it's actually called. If I tried to do it, not only would I be bad at it, I would hate doing it. My disdain would leak onto the page, making the whole effort even less effective. Ineffective and unhappy--is this why you started a company?
+بالإضافة إلى ذلك، سوف تكره استخدام منصة التواصل الاجتماعي التي تزدريها. أخذ نفسي كمثال: أنا لا أفهم موقع Pinterest. لا أفهم جمع الصور على اللوحات، ولا أفهم ما يحدث مع اللوحات، ولا أفهم كيف تشارك الأشياء، ولست متأكدًا حتى من اسمها "لوحة" ولا يهمني اسمها الفعلي. إذا حاولت القيام بذلك، فلن أكون سيئًا في ذلك فحسب، بل سأكره القيام بذلك. سوف يتسرب ازدرائي إلى الصفحة، مما يجعل الجهد برمته أقل فعالية. غير فعال وغير سعيد، هل هذا هو سبب تأسيس شركة؟
 
-So, take stock of your [Pivot Points](https://longform.asmartbear.com/pivot-points/), and consider only those marketing options that you're naturally good at, or genuinely wish to become great at; you will select your first marketing channel from that subset.
+لذا، قم بتقييم [النقاط المحورية](https://longform.asmartbear.com/pivot-points/)، وفكر فقط في خيارات التسويق التي تجيدها بشكل طبيعي، أو التي ترغب حقًا في أن تصبح رائعًا فيها؛ ستختار قناتك التسويقية الأولى من تلك المجموعة الفرعية.
 
-## But what if...
+## ولكن ماذا لو...
 
-So we've come to the obvious-in-hindsight conclusion that you should operate at the intersection of where the customers already are, and what comes to you naturally and joyfully. With practice, you'll move from being good to being great, which was unlikely to happen had you selected a channel that wasn't a good fit.
+لذا فقد توصلنا إلى استنتاج واضح بعد فوات الأوان وهو أنه يجب عليك العمل عند التقاطع بين المكان الذي يتواجد فيه العملاء بالفعل، وما يأتي إليك بشكل طبيعي ومبهج. ومع التدريب، ستنتقل من كونك جيدًا إلى كونك عظيمًا، وهو أمر لم يكن من المرجح أن يحدث إذا اخترت قناة لم تكن مناسبة لك.
 
-This is smart even if your chosen channel is low-volume. Suppose there's a small-but-vocal community on Threads, but you know that most of your customers are on LinkedIn. But you don't understand LinkedIn--it all looks like AI to you, you don't understand why anyone would read it, it all seems fake, you just can't get your head around it. It is better to be one of the top three creators on this topic on Threads than to be the 200th biggest creator on LinkedIn, even though LinkedIn has many more people. Algorithms don't like promoting the 200th-biggest thing; they do like promoting the 3rd-biggest thing. And you can be 10x or 100x more effective in your messaging. So even though you're talking to a smaller audience, you can be successful.
+يعد هذا أمرًا ذكيًا حتى لو كانت القناة التي اخترتها منخفضة الحجم. لنفترض أن هناك مجتمعًا صغيرًا ولكن صاخبًا على Threads، لكنك تعلم أن معظم عملائك موجودون على LinkedIn. لكنك لا تفهم LinkedIn - يبدو كل شيء مثل الذكاء الاصطناعي بالنسبة لك، ولا تفهم لماذا قد يقرأه أي شخص، يبدو كل شيء مزيفًا، ولا يمكنك فهمه. من الأفضل أن تكون واحدًا من أفضل ثلاثة منشئي محتوى في هذا الموضوع على Threads بدلاً من أن تكون في المرتبة 200 بين أكبر منشئي المحتوى على LinkedIn، على الرغم من أن LinkedIn تضم عددًا أكبر من الأشخاص. الخوارزميات لا تحب الترويج لأكبر 200 شيء؛ إنهم يحبون الترويج لثالث أكبر شيء. ويمكنك أن تكون أكثر فعالية بمقدار 10 مرات أو 100 مرة في رسائلك. لذلك، على الرغم من أنك تتحدث إلى جمهور أصغر، يمكنك أن تكون ناجحًا.
 
-And then, once you become [powerful on one medium](https://longform.asmartbear.com/marketing-platform-independence/), you can [expand to others](https://longform.asmartbear.com/adjacency/). With a foothold on Threads, and revenue that can pay for consulting or tools or hiring a part-time marketer, you can repurpose your content from Threads but in the style of LinkedIn. Now you're expanding into a second marketing channel from a position of strength.
+وبعد ذلك، بمجرد أن تصبح [قويًا على وسيط واحد](https://longform.asmartbear.com/marketing-platform-independence/)، يمكنك [التوسع إلى الآخرين](https://longform.asmartbear.com/adjacency/). من خلال وجود موطئ قدم على Threads، والإيرادات التي يمكن أن تدفع مقابل الاستشارات أو الأدوات أو التعاقد مع مسوق بدوام جزئي، يمكنك إعادة توظيف المحتوى الخاص بك من Threads ولكن بأسلوب LinkedIn. أنت الآن تتوسع إلى قناة تسويقية ثانية من موقع قوة.
 
 ---
 
-Another possibility is that the Venn diagram intersection is empty--your customers are only on Facebook and you absolutely despise Facebook with every fiber of your being. What do you do?
+الاحتمال الآخر هو أن يكون تقاطع مخطط Venn فارغًا - عملاؤك موجودون فقط على Facebook وأنت تحتقر Facebook تمامًا بكل ذرة من كيانك. ماذا تفعل؟
 
-One conclusion is that this is the wrong business for you. You just said that you're [so different from your customers](https://longform.asmartbear.com/scratched-my-own-itch/) that you can't relate to them. Perhaps that means you're not the right person to run this business. The business might be great, just for somebody else, not for you.
+أحد الاستنتاجات هو أن هذا هو العمل الخطأ بالنسبة لك. لقد قلت للتو أنك [مختلف تمامًا عن عملائك](https://longform.asmartbear.com/scratched-my-own-itch/) بحيث لا يمكنك التواصل معهم. ربما يعني هذا أنك لست الشخص المناسب لإدارة هذا العمل. قد يكون العمل رائعًا لشخص آخر فقط، وليس لك.
 
 ![bears shaking hands](https://public.asmartbear.com/books/anthology/chapters/first-marketing-channel/bear-shake-hands-simple.png)
 
-Another possibility is you need to partner with someone for whom this particular marketing channel is their superpower. Someone who's an absolute wizard at Facebook, accomplishing things everyone else says are impossible. What takes other people a year, they complete in a month. What takes other people two months, they did last weekend. Since you've stipulated this is the most important channel, and that you're going to be terrible at it, consider how powerful it would be if you focused on the areas of the business that are your superpowers, while this other person hauls in new customers every day. This could be exactly the team that maximizes the chance that this company is really going to work.
+الاحتمال الآخر هو أنك تحتاج إلى الشراكة مع شخص تعتبر هذه القناة التسويقية الخاصة قوته العظمى. شخص بارع تمامًا في فيسبوك، ينجز أشياء يقول الجميع إنها مستحيلة. ما يأخذه الآخرون في سنة، يكملونه في شهر. ما يستغرقه الآخرون شهرين، فعلوه في نهاية الأسبوع الماضي. نظرًا لأنك ذكرت أن هذه هي القناة الأكثر أهمية، وأنك ستكون سيئًا في ذلك، فكر في مدى القوة التي ستكون عليها إذا ركزت على مجالات العمل التي تمثل القوى العظمى لديك، بينما يجذب هذا الشخص الآخر عملاء جدد كل يوم. قد يكون هذا هو بالضبط الفريق الذي يزيد من فرصة نجاح هذه الشركة حقًا.
 
-In any case, you want to [pick one marketing channel and go deep](https://longform.asmartbear.com/one-channel/). Not spread yourself over several channels, none of which work well.
+على أية حال، أنت تريد [اختيار قناة تسويقية واحدة والتعمق فيها](https://longform.asmartbear.com/one-channel/). لا تنشر نفسك على عدة قنوات، ولا يعمل أي منها بشكل جيد.
 
-Notice that in all these cases, the answer isn't for you to force yourself to figure out Facebook. Of course you *could*. This is your life, this is your company, this is your idea; you can do whatever you want.
+لاحظ أنه في كل هذه الحالات، الجواب ليس أن تجبر نفسك على اكتشاف الفيسبوك. بالطبع *تستطيع*. هذه حياتك، هذه شركتك، هذه فكرتك؛ يمكنك أن تفعل ما تريد.
 
-You're just adding even more risk to [a venture that's already very risky](https://longform.asmartbear.com/startup-drake-equation/), and that's not the right way to solve the equation.
+أنت تضيف المزيد من المخاطر إلى [مشروع محفوف بالمخاطر بالفعل](https://longform.asmartbear.com/startup-drake-equation/)، وهذه ليست الطريقة الصحيحة لحل المعادلة.

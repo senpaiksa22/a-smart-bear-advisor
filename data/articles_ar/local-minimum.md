@@ -20,55 +20,42 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** فخ القاع المحلي: كيف توقعك اختبارات A/B في تحسينات تافهة وتبعدك عن الثورات الكبرى؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Out of the cesspool and into the sewer: A/B testing trap
-
-> **Executive Summary:** Don't get caught in a cycle of incremental A/B testing. Sometimes you need to try something radically different.
-> **Original URL:** [https://longform.asmartbear.com/local-minimum/](https://longform.asmartbear.com/local-minimum/)
-
 ![local minima](https://longform.asmartbear.com/local-minimum/d6e2ec9c.png)
 
-Your A/B tests are trapped in a cesspool when they should be in the sewer.﻿
+اختبارات A/B الخاصة بك عالقة في بالوعة في حين ينبغي أن تكون في المجاري.﻿
 
-Do you really care why A/B testing is analogous to unwanted liquids? Not yet, so I'd better get right to the point.
+هل تهتم حقًا لماذا يشبه اختبار A/B السوائل غير المرغوب فيها؟ ليس بعد، لذا من الأفضل أن أدخل في صلب الموضوع.
 
 ![water-logged](https://longform.asmartbear.com/local-minimum/59eeb270.png)
 
-On the rare occasion that it rains in Austin we get these deep puddles in the backyard. Of course it would be better if the water would flow out into the street and into the sewer, but that's not how gravity works.
+في المناسبات النادرة التي تهطل فيها الأمطار في أوستن، نحصل على هذه البرك العميقة في الفناء الخلفي. بالطبع سيكون من الأفضل أن تتدفق المياه إلى الشارع وإلى المجاري، لكن هذه ليست الطريقة التي تعمل بها الجاذبية.
 
-Water "seeks" the lowest point in the yard, but it's narrow-minded. It doesn't survey the environment, locate the lowest area, and head there. Rather, at each point along its path it chooses whatever direction is lowest *in the immediate vicinity*. Water doesn't "know" that if only it made the effort to hop over the fence, or go around the fence, it could get much lower. Like, into the sewer.
+"يبحث" الماء عن أدنى نقطة في الفناء، لكنه ضيق الأفق. فهو لا يقوم بمسح البيئة وتحديد المنطقة المنخفضة والتوجه إليها. بل إنه في كل نقطة على طول مساره يختار الاتجاه الأدنى *في المنطقة المجاورة مباشرة*. الماء لا "يعرف" أنه لو بذل جهدًا للقفز فوق السياج، أو الالتفاف حول السياج، فمن الممكن أن ينخفض ​​كثيرًا. مثل، في المجاري.
 
-In mathematical terms, water doesn't "globally optimize" for getting to the *lowest possible* point, but rather "locally optimizes" at each step. If you [enjoy clichés](https://longform.asmartbear.com/authentic-is-dead/), water misses the forest for the trees.
+من الناحية الرياضية، الماء لا "يعمل على تحسين المستوى العالمي" للوصول إلى *أدنى نقطة ممكنة*، بل "يتحسن محليًا" في كل خطوة. إذا كنت [تستمتع بالعبارات المبتذلة](https://longform.asmartbear.com/authentic-is-dead/)، فإن الماء يفتقد الغابة من أجل الأشجار.
 
-**Maybe your A/B tests are missing the forest for the trees too.**
+**ربما تفتقد اختبارات A/B مجموعة الأشجار أيضًا.**
 
-A typical A/B test looks like this: You start with a baseline, then you make a change. Maybe the title changes from "Souring on Sour Cream?" to "Don't know when Sour Cream Goes Bad?"  You test that for a while and one wins, and then you try another variation: "Is this Sour Cream Good or Bad?"
+يبدو اختبار A/B النموذجي كما يلي: تبدأ بخط الأساس، ثم تقوم بإجراء تغيير. ربما يتغير العنوان من "Souring on Sour Cream؟" إلى "لا أعرف متى تفسد القشدة الحامضة؟"  تختبر ذلك لفترة من الوقت ويفوز أحدهم، ثم تجرب صيغة أخرى: "هل هذه القشدة الحامضة جيدة أم سيئة؟"
 
-And so on, inching your way through *incremental improvements*. A little here, a little there, and--you believe--soon it adds up to real money.
+وهكذا، تشق طريقك ببطء من خلال *التحسينات الإضافية*. القليل هنا، والقليل هناك، و--كما تعتقد--سرعان ما يضيف ذلك إلى أموال حقيقية.
 
-Except, often it doesn't.
+باستثناء أنه في كثير من الأحيان لا يحدث ذلك.
 
-Often what happens is you get to a point where small changes aren't doing anything. It can be hard to recognize this effect which is why you need to (horrors!) [use math to decide empirically](https://longform.asmartbear.com/ab-testing-statistics/) whether anything's actually happening.
+ما يحدث غالبًا هو أنك تصل إلى نقطة لا تؤدي فيها التغييرات الصغيرة إلى أي شيء. قد يكون من الصعب التعرف على هذا التأثير ولهذا السبب تحتاج إلى (الرعب!) [استخدم الرياضيات لتقرر تجريبيًا](https://longform.asmartbear.com/ab-testing-statistics/) ما إذا كان هناك أي شيء يحدث بالفعل.
 
-**At this point you might be tempted to give up, but that's wrong too.**
+**في هذه المرحلة، قد تميل إلى الاستسلام، ولكن هذا خطأ أيضًا.**
 
-What's happened is that you've found what mathematicians call a "local minimum" and what I just called a "cesspool" (and what more tasteful writers call a "[watershed](http://bit-player.org/2009/long-division).") Your tests are the water in the backyard--you've flowed into the lowest point, but you're still in the backyard.
+ما حدث هو أنك وجدت ما يسميه علماء الرياضيات "الحد الأدنى المحلي" وما أسميه للتو "بالوعة" (وما يسميه الكتاب الأكثر ذوقًا "[مستجمعات المياه](http://bit-player.org/2009/long-division).") اختباراتك هي الماء الموجود في الفناء الخلفي - لقد تدفقت إلى أدنى نقطة، لكنك لا تزال في الفناء الخلفي.
 
-Completely changing your perspective, your message, your layout, your value proposition, your colors, or your target audience might reveal an entirely new, discontinuous, non-incremental change. The real fun is in the sewer; you need to jump over the backyard fence.
+إن التغيير الكامل لوجهة نظرك أو رسالتك أو تخطيطك أو عرض القيمة أو الألوان أو جمهورك المستهدف قد يكشف عن تغيير جديد تمامًا وغير مستمر وغير تدريجي. المتعة الحقيقية تكمن في المجاري؛ تحتاج إلى القفز فوق سياج الفناء الخلفي.
 
-In fact, because looking in completely new places has the potential to yield far more results than incremental improvement, **you need to be looking for discontinuous results from the start**.
+في الواقع، نظرًا لأن البحث في أماكن جديدة تمامًا لديه القدرة على تحقيق نتائج أكثر بكثير من التحسين التدريجي، **يجب أن تبحث عن نتائج متقطعة من البداية**.
 
-The best technique is to do both: Instead of just running A versus incremental-change A2, also run a B version that's radically different from A. Thus you reap the straightforward benefits of incremental improvements while also searching for something that could radically improve your revenue.
+أفضل أسلوب هو القيام بالأمرين معًا: بدلاً من مجرد تشغيل A مقابل التغيير التزايدي A2، قم أيضًا بتشغيل إصدار B الذي يختلف جذريًا عن A. وبالتالي فإنك تجني الفوائد المباشرة للتحسينات الإضافية بينما تبحث أيضًا عن شيء يمكن أن يحسن إيراداتك بشكل جذري.
 
-Better still, if a radically different message gets you massively better results, perhaps *all* your messaging should change accordingly. Maybe your idea of [what customers want](https://longform.asmartbear.com/customer-development/) should shift. Maybe your entire business can change for the better.
+والأفضل من ذلك، إذا حصلت رسالة مختلفة جذريًا على نتائج أفضل بشكل كبير، فربما يجب أن تتغير *كل* رسائلك وفقًا لذلك. ربما يجب أن تتغير فكرتك حول [ما يريده العملاء](https://longform.asmartbear.com/customer-development/). ربما يمكن أن يتغير عملك بالكامل نحو الأفضل.
 
-**Why poop along with minor variations when you could be toying with new ideas and new identities?**
+**لماذا تتغوط مع تغييرات طفيفة بينما يمكنك اللعب بأفكار جديدة وهويات جديدة؟**
 
-Play!
+يلعب!

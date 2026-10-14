@@ -20,98 +20,85 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** حل معضلة التسويق الإلكتروني بميزانيات محدودة وصفرية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Solving the Low-Budget Online Marketing Dilemma
-
-> **Executive Summary:** Low on cash but need marketing results? Here are four specific things you can do to grow on a budget.
-> **Original URL:** [https://longform.asmartbear.com/low-budget-marketing/](https://longform.asmartbear.com/low-budget-marketing/)
-
 ![Cartoon 0f8296f3](https://longform.asmartbear.com/low-budget-marketing/29bab408.png)
 
-Stop me if you've heard this one:
+أوقفني إذا سمعت هذا:
 
-Your bootstrapped startup is finally off the ground. You're able to spend $6000/mo on AdWords to drive leads. Sure the conversion rates could be better, and sure it's not the best ROI on Earth, but on the balance it's making money.
+أخيرًا، بدأت عملية بدء التشغيل التي تم تمهيدها. يمكنك إنفاق 6000 دولار شهريًا على AdWords لجذب العملاء المحتملين. من المؤكد أن معدلات التحويل يمكن أن تكون أفضل، ومن المؤكد أنها ليست أفضل عائد استثمار على وجه الأرض، ولكنها في المجمل تحقق المال.
 
-You don't have a huge budget, but you can plough some of your winnings back into advertising.
+ليس لديك ميزانية ضخمة، ولكن يمكنك استثمار بعض أرباحك في الإعلانات.
 
-You've heard banner ads don't work well, but they're cheap, so you start throwing $600/mo into an ad network and trust your web analytics to tell you whether it's working. The jury is still out, but it's not looking good--there's been only two signups in the first month. Maybe your ads suck?
+لقد سمعت أن إعلانات البانر لا تعمل بشكل جيد، ولكنها رخيصة الثمن، لذا تبدأ بإنفاق 600 دولار شهريًا على شبكة إعلانية وتثق في تحليلات الويب الخاصة بك لتخبرك ما إذا كانت تعمل أم لا. لم يتم اتخاذ قرار بعد بشأن لجنة التحكيم، لكن الأمر لا يبدو جيدًا، فقد تم الاشتراك مرتين فقط في الشهر الأول. ربما إعلاناتك سيئة؟
 
-You've heard affiliate programs can work wonders, so you sign up with an affiliate provider and figure you can afford to pay $50 per signup.  A hundred affiliates take the bait, but two months later, half of them haven't sold anything, and most of the others have sold only once. Two are producing five signups a month, and it's only cost you $1000 so far, so it's not all bad, but it's not moving the needle.
+لقد سمعت أن البرامج التابعة يمكن أن تعمل العجائب، لذلك قمت بالتسجيل مع أحد مقدمي البرامج التابعة وتعتقد أنه يمكنك دفع 50 دولارًا لكل اشتراك.  يبتلع مائة من الشركات التابعة الطعم، ولكن بعد مرور شهرين، نصفهم لم يبيعوا أي شيء، ومعظم الآخرين باعوا مرة واحدة فقط. يقوم اثنان منهما بإنتاج خمس اشتراكات شهريًا، ولم يكلفك ذلك سوى 1000 دولار حتى الآن، لذا فالأمر ليس سيئًا بالكامل، لكنه لا يغير الأمور.
 
-**So now what?** Should you work on optimizing AdWords since they're working, or optimizing banner ads since they're not working?  Should you cut off the affiliate program since it's a waste of time, or redouble your efforts in affiliate management? Should you optimize these existing channels or try to find a new, more productive channel?
+**فماذا الآن؟** هل يجب أن تعمل على تحسين AdWords نظرًا لأنها تعمل، أم تحسين إعلانات البانر نظرًا لأنها لا تعمل؟  هل يجب عليك قطع برنامج الشراكة لأنه مضيعة للوقت، أو مضاعفة جهودك في إدارة الشراكة؟ هل ينبغي عليك تحسين هذه القنوات الحالية أم محاولة العثور على قناة جديدة أكثر إنتاجية؟
 
-These aren't hypotheticals--I talked to no fewer than four startups in the past few months in exactly this position, with these advertising channels, with about the same costs. And my own company WP Engine wasn't dissimilar two years ago.
+هذه ليست افتراضات - لقد تحدثت مع ما لا يقل عن أربع شركات ناشئة في الأشهر القليلة الماضية في هذا الوضع بالضبط، مع هذه القنوات الإعلانية، بنفس التكاليف تقريبًا. ولم تكن شركتي WP Engine مختلفة منذ عامين.
 
-How can you tell what's eventually going to work?  [Maybe you can't](https://longform.asmartbear.com/perseverance/).
+كيف يمكنك معرفة ما الذي سينجح في النهاية؟  [ربما لا تستطيع ذلك](https://longform.asmartbear.com/perseverance/).
 
-Here's some tips:
+إليك بعض النصائح:
 
-## "Maximum inventory" is the answer to "Should I optimize?" 
-A common question is: "Should I spend more time optimizing AdWords? Or find more keywords? Or focus on another marketing campaign completely?"  A common--and unacceptable--answer is "It depends."
+## "الحد الأقصى للمخزون" هو الجواب على السؤال "هل يجب أن أقوم بالتحسين؟"
+والسؤال الشائع هو: "هل يجب أن أقضي المزيد من الوقت في تحسين AdWords؟ أم أبحث عن المزيد من الكلمات الرئيسية؟ أم أركز على حملة تسويقية أخرى بشكل كامل؟"  الإجابة الشائعة - وغير المقبولة - هي "الأمر يعتمد".
 
-I approach it as a matter of inventory. In advertising, "inventory" means "all of the available advertising space." In a magazine, that means the total square centimeters of space allocated to the adverts.
+أنا أتعامل مع الأمر كمسألة جرد. في الإعلان، تعني كلمة "المخزون" "كل المساحة الإعلانية المتاحة". في المجلة، يعني ذلك إجمالي السنتيمترات المربعة من المساحة المخصصة للإعلانات.
 
-In AdWords, that means the maximum clicks you can get across all relevant keywords.  If you're the #1 spot for a keyword, you're already getting the maximum number of clicks for that keyword, and therefore you're already at the maximum available inventory. (Of course there's more inventory for other advertisers, but AdWords allows *you* only one slot, so this is the maximum available to *you*.)
+في AdWords، يعني ذلك الحد الأقصى من النقرات التي يمكنك الحصول عليها عبر جميع الكلمات الرئيسية ذات الصلة.  إذا كنت في المركز الأول بالنسبة لكلمة رئيسية، فهذا يعني أنك تحصل بالفعل على أقصى عدد من النقرات لهذه الكلمة الرئيسية، وبالتالي فإنك وصلت بالفعل إلى الحد الأقصى من المخزون المتاح. (بالطبع هناك مخزون أكبر للمعلنين الآخرين، ولكن AdWords لا يسمح *لك* إلا بفتحة واحدة فقط، لذا فهذا هو الحد الأقصى المتاح لك.)
 
-So, how much additional inventory is available for you in AdWords?  If you're in lower spots for most keywords you care about, or if there are other keywords you're not yet bidding on, there's probably a lot more inventory you could be taking. That implies it's wise to optimize--there's more sales for you there, and it's easier and cheaper to optimize an existing campaign than to start up a new  one. You might even experience some cost savings (per signup) as part of your optimization--bonus!
+إذًا، ما مقدار المخزون الإضافي المتاح لك في AdWords؟  إذا كنت في مراكز منخفضة بالنسبة لمعظم الكلمات الرئيسية التي تهمك، أو إذا كانت هناك كلمات رئيسية أخرى لم تقم بالمزايدة عليها بعد، فمن المحتمل أن يكون هناك الكثير من المخزون الذي يمكنك الحصول عليه. وهذا يعني ضمنًا أنه من الحكمة إجراء التحسين - فهناك المزيد من المبيعات لك هناك، ومن الأسهل والأرخص تحسين حملة حالية بدلاً من بدء حملة جديدة. قد تواجه أيضًا بعض التوفير في التكاليف (لكل اشتراك) كجزء من مكافأة التحسين!
 
-If you think there's 2x or more inventory you could go get, I say go get it.
+إذا كنت تعتقد أن هناك مخزونًا مضاعفًا أو أكثر يمكنك الحصول عليه، فأنا أقول اذهب واحصل عليه.
 
-However, that's not the case for us at WP Engine.  At the instant of this writing, we're the #3 spot on AdWords and the #3 organic spot for "WordPress Hosting" which is one of our most important keywords, and #1 for "Managed WordPress Hosting" which is perhaps our most accurate keyword.  And traffic on related keywords diminishes quickly and therefore improving on those is even less interesting.
+ومع ذلك، هذا ليس هو الحال بالنسبة لنا في WP Engine.  في لحظة كتابة هذه السطور، نحن نحتل المركز الثالث في AdWords والمركز الثالث في "استضافة WordPress" التي تعد واحدة من أهم كلماتنا الرئيسية، والمركز الأول في "استضافة WordPress المُدارة" والتي ربما تكون الكلمة الرئيسية الأكثر دقة لدينا.  وتتضاءل حركة المرور على الكلمات الرئيسية ذات الصلة بسرعة، وبالتالي فإن تحسينها أقل إثارة للاهتمام.
 
-We don't have a lot of inventory left.  We believe less than 2x.  Therefore, even if we spent tons of money on human analysis and were willing to lose money on every sale, it still wouldn't be an area of significant growth for us.
+ليس لدينا الكثير من المخزون المتبقي.  نحن نؤمن بأقل من 2x.  لذلك، حتى لو أنفقنا الكثير من المال على التحليل البشري وكنا على استعداد لخسارة المال في كل عملية بيع، فلن يكون هذا مجالًا للنمو الكبير بالنسبة لنا.
 
-Once you approach inventory limits, you need to find other campaigns which can [double your business](https://longform.asmartbear.com/lindy-effect/).
+بمجرد اقترابك من حدود المخزون، ستحتاج إلى العثور على حملات أخرى يمكنها [مضاعفة أعمالك](https://longform.asmartbear.com/lindy-effect/).
 
-## No benefit of the doubt
-When you try a new campaign and it utterly fails, the temptation is to keep spend low and optimize. You think:
+## لا فائدة من الشك
+عندما تجرب حملة جديدة وتفشل تمامًا، فإن الإغراء هو إبقاء الإنفاق منخفضًا وتحسينه. كنت أعتقد:
 
-> I might be just a [clever turn of phrase](https://longform.asmartbear.com/authentic-is-dead/) or an [eye-catching design](https://longform.asmartbear.com/design/) away from changing that click-through rate from 0.1% to 1.0%, and then I can ramp up spending and have a new advertising channel.
+> قد أكون مجرد [تحويل ذكي للعبارة](https://longform.asmartbear.com/authentic-is-dead/) أو [تصميم ملفت للنظر](https://longform.asmartbear.com/design/) بعيدًا عن تغيير نسبة النقر إلى الظهور من 0.1% إلى 1.0%، وبعد ذلك يمكنني زيادة الإنفاق والحصول على قناة إعلانية جديدة.
 > 
-> After all, this same messaging worked great on AdWords, so I know it's reasonably well-tested. Something small is probably holding me back.
+> وفي نهاية المطاف، نجحت هذه الرسالة نفسها بشكل رائع في AdWords، لذا أعلم أنها خضعت للاختبار بشكل جيد إلى حد معقول. ربما هناك شيء صغير يعيقني.
 > 
-> And I recognize my marketing prowess with this company is nascent, so of *course* campaigns will suck at first but improve with iteration. So let's iterate!
+> وأنا أدرك أن براعتي التسويقية مع هذه الشركة لا تزال ناشئة، لذا فإن الحملات *بالطبع* ستكون سيئة في البداية ولكنها تتحسن مع التكرار. لذلك دعونا نكرر!
 
-I've found that this line of thought is usually wrong. I don't have data to give you, it's just been my experience.
+لقد وجدت أن هذا الخط من التفكير عادة ما يكون خاطئا. ليس لدي بيانات لأقدمها لك، إنها مجرد تجربتي.
 
-Thinking about the 100+ campaigns I've been a part of in the past 11 years at Smart Bear and WP Engine, the ones that were bad out of the gate tended to stay bad.
+بالتفكير في أكثر من 100 حملة كنت جزءًا منها خلال الـ 11 عامًا الماضية في Smart Bear وWP Engine، فإن تلك التي كانت سيئة خارج البوابة كانت تميل إلى البقاء سيئة.
 
-Maybe it's because by the time you get to the third campaign your messaging is pretty good, so an early failure means it's a bad channel rather than a bad message. Maybe it's because [iteration gets you incrementally better but not drastically better](https://longform.asmartbear.com/local-minimum/) and therefore can't save a fundamentally bad channel. Maybe it's because a failure is an indication that you don't understand the channel at all, a condition that simple iteration won't remedy.
+ربما يرجع ذلك إلى أنه بحلول الوقت الذي تصل فيه إلى الحملة الثالثة، تكون رسائلك جيدة جدًا، لذا فإن الفشل المبكر يعني أنها قناة سيئة وليست رسالة سيئة. ربما يكون السبب في ذلك هو أن [التكرار يجعلك أفضل بشكل تدريجي ولكن ليس بشكل أفضل بشكل كبير](https://longform.asmartbear.com/local-minimum/) وبالتالي لا يمكن حفظ قناة سيئة بشكل أساسي. ربما يكون السبب في ذلك هو أن الفشل هو إشارة إلى أنك لا تفهم القناة على الإطلاق، وهي حالة لن يعالجها التكرار البسيط.
 
-In any case, cut out early and go find another channel.
+على أية حال، توقف مبكرًا وابحث عن قناة أخرى.
 
-## Website trumps all
-Optimizations you do on your website are more valuable than those you do on individual marketing campaigns. The reason is obvious in retrospect: all marketing campaigns lead there!  So a 10% improvement in bounce-rate off your pricing page means 10% more revenue across all campaigns: paid, organic, and word-of-mouth.
+## موقع الويب يتفوق على الجميع
+تعد التحسينات التي تجريها على موقع الويب الخاص بك أكثر قيمة من تلك التي تجريها في الحملات التسويقية الفردية. السبب واضح بأثر رجعي: جميع الحملات التسويقية تؤدي إلى هناك!  لذا فإن التحسن بنسبة 10% في معدل الارتداد من صفحة التسعير الخاصة بك يعني زيادة بنسبة 10% في الإيرادات عبر جميع الحملات: المدفوعة، والعضوية، والشفوية.
 
-Landing-page optimizations can also be shared. The exact text can't, but often you can cross-apply a layout that increases click-through rate, a form that captures an email instead of signing up directly, or a message to one customer segment that happens to flow through multiple marketing campaigns.
+يمكن أيضًا مشاركة تحسينات الصفحة المقصودة. لا يمكن النص الدقيق لذلك، ولكن يمكنك في كثير من الأحيان تطبيق تخطيط يزيد من نسبة النقر إلى الظهور، أو نموذج يلتقط بريدًا إلكترونيًا بدلاً من الاشتراك مباشرة، أو رسالة إلى شريحة عميل واحدة تتدفق عبر حملات تسويقية متعددة.
 
-Often an early-stage startup has large-effect optimizations lurking all over its website. Maybe the testimonials or demo page is missing, or not compelling, or you realize testimonials need to be on all pages, or a long-scrolling, well-designed home page triples click-through rates, or you didn't have a strong call to action, or the pricing page was confusing, or your main hook and product description was turning people away.
+غالبًا ما تتمتع الشركات الناشئة في مرحلة مبكرة بتحسينات ذات تأثير كبير تكمن في جميع أنحاء موقعها الإلكتروني. ربما تكون الشهادات أو الصفحة التجريبية مفقودة، أو غير مقنعة، أو تدرك أن الشهادات يجب أن تكون في جميع الصفحات، أو أن الصفحة الرئيسية طويلة التمرير والمصممة جيدًا تضاعف معدلات النقر إلى الظهور ثلاث مرات، أو لم يكن لديك عبارة قوية تحث المستخدم على اتخاذ إجراء، أو كانت صفحة التسعير مربكة، أو أن خطافك الرئيسي ووصف المنتج كان يؤدي إلى إبعاد الناس.
 
-## Only look for large effects 
-When you're small, almost no data you have is statistically significant.  Therefore, most variation you see is due to random fluctuations, not real results, even if you're using one of those tools which supposedly helps you with the statistics.
+## ابحث فقط عن التأثيرات الكبيرة
+عندما تكون صغيرًا، لا تكون أي بيانات لديك تقريبًا ذات أهمية إحصائية.  ولذلك، فإن معظم الاختلافات التي تراها ترجع إلى تقلبات عشوائية، وليست نتائج حقيقية، حتى لو كنت تستخدم إحدى تلك الأدوات التي من المفترض أنها تساعدك في الإحصائيات.
 
-Here's a quick video I made, that explains why this is the case, including a fun puzzle (see if you can solve the puzzle before the video does):
+إليك مقطع فيديو سريع قمت بإنشائه، يشرح سبب حدوث ذلك، بما في ذلك لغز ممتع (انظر ما إذا كان بإمكانك حل اللغز قبل أن يفعل الفيديو):
 
 {{<youtube id="FaUO2-AQmr0">}}
 
-The punchline is that you should be seeking only large effects, not incremental improvements.
+النقطة المهمة هي أنه يجب عليك أن تسعى فقط للحصول على تأثيرات كبيرة، وليس تحسينات تدريجية.
 
-If you're getting one sign-up a day, a "10% improvement" still means one sign-up a day.  You need two signups a day.  You'll know if you get a change that drastic! Those are the only important changes.
+إذا كنت تحصل على اشتراك واحد يوميًا، فإن "التحسن بنسبة 10%" لا يزال يعني اشتراكًا واحدًا يوميًا.  أنت بحاجة إلى اشتراكين في اليوم.  ستعرف إذا حصلت على تغيير جذري! هذه هي التغييرات المهمة الوحيدة.
 
-Changes must be drastic, but also based on a theory, not "throwing shit at the wall."  Otherwise [your A/B tests will be wrong even with a positive result](https://longform.asmartbear.com/p-hacking/).
+يجب أن تكون التغييرات جذرية، ولكن يجب أن تكون مبنية أيضًا على نظرية، وليس "رمي القرف على الحائط".  وإلا [ستكون اختبارات A/B الخاصة بك خاطئة حتى مع وجود نتيجة إيجابية](https://longform.asmartbear.com/p-hacking/).
 
-## Low-budget advice only
-Finally, as the title suggests, this is advice for *low budget* online marketing. Large budget marketing is completely different. You try as many channels as possible, as fast as possible. You hire experts in the hope that it will accelerate or de-risk the effort.  You find the ones that work quickly, then immediately ramp to full inventory. For channels like affiliate programs where you can't just "write a big check" and make them work, you develop an entire team to extract as much value as possible. The fact that you burn a lot of cash on things that don't work out is *exactly* the trade-off you want.
+## نصيحة منخفضة الميزانية فقط
+أخيرًا، كما يوحي العنوان، هذه نصيحة للتسويق عبر الإنترنت *بميزانية منخفضة*. تسويق الميزانية الكبيرة مختلف تمامًا. يمكنك تجربة أكبر عدد ممكن من القنوات، في أسرع وقت ممكن. تقوم بتعيين خبراء على أمل أن يؤدي ذلك إلى تسريع الجهود أو إزالة المخاطر عنها.  يمكنك العثور على المنتجات التي تعمل بسرعة، ثم الانتقال فورًا إلى المخزون الكامل. بالنسبة للقنوات مثل البرامج التابعة حيث لا يمكنك فقط "كتابة شيك كبير" وجعلها تعمل، يمكنك تطوير فريق كامل لاستخراج أكبر قدر ممكن من القيمة. حقيقة أنك تنفق الكثير من المال على أشياء لا تنجح هي بالضبط المقايضة التي تريدها.
 
-Accelerated (cash) burning for accelerated learning. Good work if you can get it!
+حرق (نقدي) سريع للتعلم السريع. عمل جيد إذا كنت تستطيع الحصول عليه!
 
-VC-funded companies _should_ do this; it's a way to spend money to grow faster.  Even bootstrapped companies might be able to do this if they adopt [annual pricing](https://longform.asmartbear.com/annual-prepay/).
+يجب على الشركات الممولة من رأس المال الاستثماري القيام بذلك؛ إنها طريقة لإنفاق المال لتحقيق النمو بشكل أسرع.  حتى الشركات التي تم تمهيدها قد تكون قادرة على القيام بذلك إذا اعتمدت [التسعير السنوي](https://longform.asmartbear.com/annual-prepay/).
 
-But if you're cash-strapped, use inventory limits to decide whether to flog a channel, get out of bad channels quickly, optimize your website before optimizing channels, and don't get excited by tiny, immeasurable results.
+ولكن إذا كنت تعاني من ضائقة مالية، فاستخدم حدود المخزون لتقرر ما إذا كنت تريد إغلاق قناة ما، والخروج من القنوات السيئة بسرعة، وتحسين موقع الويب الخاص بك قبل تحسين القنوات، ولا تتحمّس للنتائج الصغيرة التي لا يمكن قياسها.

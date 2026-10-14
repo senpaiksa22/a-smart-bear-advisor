@@ -20,51 +20,38 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كم تبلغ نسبة الحظ الحقيقية في نجاح الشركات ورواد الأعمال؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Capturing luck with "or" instead of "and"
-
-> **Executive Summary:** Luck always plays a role in startups, but there are ways to better capture upside and mitigate downside.
-> **Original URL:** [https://longform.asmartbear.com/capturing-luck/](https://longform.asmartbear.com/capturing-luck/)
-
 ![stocks rose slightly in early trading then plummeted on news that stocks rose slightly in early trading](https://public.asmartbear.com/books/anthology/chapters/capturing-luck/d0710print-simple.png)
 
-I won a fake stock market competition in elementary school.
+لقد فزت في مسابقة سوق الأوراق المالية الوهمية في المدرسة الابتدائية.
 
-I put all my money in a few penny stocks--those are stocks whose prices are less than a dollar. Back then, stock prices could only be multiples of 1/8. Their small denomination meant that any fluctuation was a large (as a percentage) fluctuation in value. Some days I had the worst portfolio, other days I had the best. The competition happened to end on an up-day.
+لقد وضعت كل أموالي في بضعة أسهم قليلة القيمة، وهي الأسهم التي تقل أسعارها عن دولار واحد. في ذلك الوقت، كان من الممكن أن تكون أسعار الأسهم مضاعفات 1/8 فقط. كانت قيمتها الصغيرة تعني أن أي تقلب كان عبارة عن تقلب كبير (كنسبة مئوية) في القيمة. في بعض الأيام كان لدي أسوأ محفظة، وفي أيام أخرى كان لدي الأفضل. تصادف أن انتهت المنافسة في يوم صاعد.
 
-This was an example of "high risk, high reward." Like startups, but more random. (But are startups less random?)
+كان هذا مثالاً على "المخاطر العالية والمكافآت العالية". مثل الشركات الناشئة، ولكن أكثر عشوائية. (ولكن هل الشركات الناشئة أقل عشوائية؟)
 
-Startups need luck too, in [finding advertisement channels](https://longform.asmartbear.com/low-budget-marketing/) that work, in the right mix of [features](https://longform.asmartbear.com/your-idea-sucks-do-it-anyway/) and usability that [triggers product/market fit](https://longform.asmartbear.com/product-market-fit/), in cultivating a [useful social media presence](https://longform.asmartbear.com/startup-beats-incumbent/), on [employee number one](https://longform.asmartbear.com/startup-hiring-advice/) working out well, on a [competitor](https://blog.asmartbear.com/competitive-positioning.html) not making a fatal move, on there being enough money in the [market](https://longform.asmartbear.com/problem/), on [appropriate pricing](https://longform.asmartbear.com/pricing-determines-your-business-model/), on market forces not shifting the rules of the game, and the list goes on. And that's after the luck of where and when you were born, the color of your skin, your gender, and that list goes on too.
+تحتاج الشركات الناشئة إلى الحظ أيضًا، في [العثور على قنوات إعلانية](https://longform.asmartbear.com/low-budget-marketing/) التي تنجح، في المزيج الصحيح من [الميزات](https://longform.asmartbear.com/your-idea-sucks-do-it-anyway/) وسهولة الاستخدام التي [تحفز المنتج/السوق fit](https://longform.asmartbear.com/product-market-fit/)، في تنمية [وجود مفيد على وسائل التواصل الاجتماعي](https://longform.asmartbear.com/startup-beats-incumbent/)، على [الموظف رقم واحد](https://longform.asmartbear.com/startup-hiring-advice/) العمل بشكل جيد، على عدم قيام [المنافس](https://blog.asmartbear.com/competitive-positioning.html) باتخاذ خطوة قاتلة، أو وجود أموال كافية في [السوق](https://longform.asmartbear.com/problem/)، أو [التسعير المناسب](https://longform.asmartbear.com/pricing-determines-your-business-model/)، أو عدم تغيير قوى السوق لقواعد اللعبة، والقائمة تطول. على. وذلك بعد حظك في المكان والزمان الذي ولدت فيه، ولون بشرتك، وجنسك، وتلك القائمة تطول أيضًا.
 
-When you put it that way, it's obvious why startups fail so frequently! They need a lot of success in a lot of areas, which is [a lot of "good luck"](https://longform.asmartbear.com/lucky/) to string together.
+عندما تضع الأمر بهذه الطريقة، فمن الواضح لماذا تفشل الشركات الناشئة بشكل متكرر! إنهم بحاجة إلى الكثير من النجاح في الكثير من المجالات، وهو [الكثير من ""حظ سعيد"](https://longform.asmartbear.com/lucky/) للترابط معًا.
 
-How can you reduce this effect, and maybe even turn luck to work in your favor?
+كيف يمكنك تقليل هذا التأثير، وربما تحويل الحظ ليعمل لصالحك؟
 
 ![serendipity is up fluke doing well concerned about dumb luck](https://public.asmartbear.com/books/anthology/chapters/capturing-luck/d7231print-simple.png)
 
-The list above is a bunch of "and's." That is, you need a good marketing channel *and* you need a few killer features *and* you need great initial employees *and* you need a healthy market, etc.. **"And" is bad!** It's bad because each one has a probability of success, and you compute the total probability of success by multiplying them.
+القائمة أعلاه عبارة عن مجموعة من "و". أي أنك تحتاج إلى قناة تسويقية جيدة *و* تحتاج إلى بعض الميزات القاتلة *و* تحتاج إلى موظفين أوليين رائعين *و* تحتاج إلى سوق صحي، وما إلى ذلك. **"و" سيئة!** إنها سيئة لأن كل واحدة منها لديها احتمالية للنجاح، ويمكنك حساب إجمالي احتمالية النجاح عن طريق ضربها.
 
-No matter how optimistic you are about those probabilities, the end product is a small number.  70% multiplied by itself six times is only 12%; most of these things we're listing have a probability less than 70%, and there are more than six things that have to go right.
+بغض النظر عن مدى تفاؤلك بشأن هذه الاحتمالات، فإن المنتج النهائي هو رقم صغير.  70% مضروبة في نفسها ست مرات يساوي 12% فقط؛ معظم هذه الأشياء التي ندرجها لديها احتمالية أقل من 70%، وهناك أكثر من ستة أشياء يجب أن تسير بشكل صحيح.
 
-You can increase the chance that some of those things go right by making explicit choices. For example, you can pick a [large, growing, and healthy market](https://longform.asmartbear.com/problem/) so that the risk that "no one wants to solve this problem" goes to zero. You can compete in a [niche where incumbents don't care](https://longform.asmartbear.com/startup-beats-incumbent/) or cannot move quickly. You can hire someone you've worked with before, or build something sustainable without hiring. You can [generate Love](https://longform.asmartbear.com/willingness-to-pay/) rather than only Utility or Coercion to overcome your deficiencies.
+يمكنك زيادة فرصة أن تسير بعض هذه الأمور على ما يرام من خلال اتخاذ خيارات واضحة. على سبيل المثال، يمكنك اختيار [سوق كبيرة ومتنامية وصحية](https://longform.asmartbear.com/problem/) بحيث يصبح خطر "عدم رغبة أحد في حل هذه المشكلة" هو الصفر. يمكنك التنافس في [مكان لا يهتم فيه شاغلو الوظائف](https://longform.asmartbear.com/startup-beats-incumbent/) أو لا يمكنك التحرك بسرعة. يمكنك توظيف شخص عملت معه من قبل، أو بناء شيء مستدام دون توظيف. يمكنك [توليد الحب](https://longform.asmartbear.com/willingness-to-pay/) بدلاً من مجرد المنفعة أو الإكراه للتغلب على أوجه القصور لديك.
 
-Here's a [long list of those things and how to mitigate them](https://longform.asmartbear.com/avoid-blundering/).
+إليك [قائمة طويلة بهذه الأشياء وكيفية التخفيف منها](https://longform.asmartbear.com/avoid-blundering/).
 
-Even so, there will be plenty of challenges, so we need a second technique for boosting probability: **Leverage "or" instead of "and."**
+ومع ذلك، سيكون هناك الكثير من التحديات، لذلك نحن بحاجة إلى أسلوب ثانٍ لتعزيز الاحتمالية: **الرفع من "أو" بدلاً من "و".**
 
-Consider marketing channels. You could get your first few hundred customers through GoogleAds, or Facebook ads, or affiliate sales, or targeted outbound sales, or SEO, or guesting on podcasts and newsletters, or partnering with a high-profile reseller, or great press about your unique brand and message. Only one of these needs to work! So although the probability of success for each one of these is low, the probability that *something* will work is higher.
+فكر في قنوات التسويق. يمكنك الحصول على أول بضع مئات من عملائك من خلال إعلانات Google، أو إعلانات Facebook، أو المبيعات التابعة، أو المبيعات الخارجية المستهدفة، أو تحسين محركات البحث، أو استضافة ملفات البودكاست والنشرات الإخبارية، أو الشراكة مع مورد رفيع المستوى، أو الضغط الكبير حول علامتك التجارية ورسالتك الفريدة. واحد فقط من هذه يحتاج إلى العمل! لذا، على الرغم من أن احتمال نجاح كل واحد من هذه الأمور منخفض، إلا أن احتمال نجاح شيء ما يكون أعلى.
 
-This is true of everything from product features to website copy for conversions to avenues to exiting the company years from now. The general rule is **optionality is strength.** When there are lots of ways for things to go right, that is a strong position even if you haven't actualized one of those ways.
+وينطبق هذا على كل شيء بدءًا من ميزات المنتج وحتى نسخ موقع الويب للتحويلات إلى السبل وحتى الخروج من الشركة بعد سنوات من الآن. القاعدة العامة هي **الاختيار هو القوة.** عندما يكون هناك الكثير من الطرق لتسير الأمور على ما يرام، فهذا موقف قوي حتى لو لم تقم بتنفيذ إحدى هذه الطرق.
 
-The converse of this is a business that has extra "and" clauses--even more than usual. Marketplaces, for example, [almost never succeed](https://blog.asmartbear.com/marketplace-business-model.html). When they do succeed, they are often durable and profitable, which makes them a smart bet for a Venture Capitalist that can maintain a diversified portfolio of attempts, but [for the individual business it's a tough road](https://longform.asmartbear.com/investment/). A marketplace has to thrive both with the sellers *and* the buyers, *and* it can't be too expensive to build up both sides, *and* both sides need to realize value, *and* it must not be easier/<wbr/>cheaper/<wbr/>preferable to transact outside the marketplace, ... otherwise the marketplace fails. Also, many marketplaces often only deliver value once they are at scale; so another "and" is that they have to also "scale down" so the first 100 buyers and sellers also see value.
+والعكس من ذلك هو العمل الذي يحتوي على عبارات "و" إضافية - حتى أكثر من المعتاد. الأسواق، على سبيل المثال، [تكاد لا تنجح مطلقًا](https://blog.asmartbear.com/marketplace-business-model.html). عندما تنجح، غالبًا ما تكون متينة ومربحة، مما يجعلها رهانًا ذكيًا لصاحب رأس المال المغامر الذي يمكنه الحفاظ على مجموعة متنوعة من المحاولات، ولكن [بالنسبة للشركات الفردية، يكون الأمر صعبًا](https://longform.asmartbear.com/investment/). يجب أن يزدهر السوق مع كل من البائعين *و* المشترين، *و* لا يمكن أن يكون بناء كلا الجانبين مكلفًا للغاية، *و* يحتاج كلا الجانبين إلى إدراك القيمة، *و* يجب ألا يكون التعامل خارج السوق أسهل/<wbr/>أرخص/<wbr/>مفضلًا،... وإلا فسيفشل السوق. بالإضافة إلى ذلك، غالبًا ما تقدم العديد من الأسواق القيمة فقط عندما تكون على نطاق واسع؛ لذا فإن علامة "و" الأخرى هي أنه يتعين عليهم أيضًا "تقليص الحجم" حتى يرى أول 100 مشتري وبائع القيمة أيضًا.
 
-By accumulating "and" requirements, you are lowering the probability of success. By stringing together possible solutions with "or," you are increasing the number of ways that luck could smile upon you.
+من خلال تجميع متطلبات "و"، فإنك تقلل من احتمالية النجاح. من خلال ربط الحلول الممكنة مع "أو"، فإنك تزيد من عدد الطرق التي يمكن أن يبتسم لك بها الحظ.
 
-Set yourself up for luck!
+جهز نفسك للحظ!

@@ -20,53 +20,40 @@ summary_ar: "\"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** فخ إضافة 'المزيد والمزيد': لماذا تقتل كثرة الخيارات وضوح المنتج تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+هل هناك عبارة أكثر انتشارا وأقل معنى من:
 
----
+> *... وأكثر!*
 
-### النص المرجعي للمقال (Original Reference):
-# Bed, Bath, Linens, Things, Beyond, and More!
-
-> **Executive Summary:** "And more!" is lazy marketing. Be specific, be passionate, and make people care.
-> **Original URL:** [https://longform.asmartbear.com/and-more/](https://longform.asmartbear.com/and-more/)
-
-Is there a phrase more ubiquitous and less meaningful than:
-
->*... and more!*
-
-On car trips my wife and I play a game with road signs that offer "and more" or "and beyond" or "etc."  We replace the ambiguous suffix with whatever nouns we want:
+أثناء الرحلات بالسيارة، نلعب أنا وزوجتي لعبة باستخدام لافتات الطرق التي تقول "وأكثر" أو "وما بعده" أو "إلخ".  نستبدل اللاحقة المبهمة بما نريد من الأسماء:
 
 ![Bed, Bath, Bears, and more!](https://longform.asmartbear.com/and-more/e9a4f338.png)
 
-> Bed, Bath, and Robots! 
-> Bed, Bath, and Ratatouille!
-> Bed, Bath, and Velociraptors!
+> السرير والحمام والروبوتات!
+> السرير والحمام والراتاتوي!
+> السرير والحمام والفيلوسيرابتور!
 
-(Gee don't our road trips sound like [buckets-o-fun](http://www.buckets-o-fun.com/)?)
+(يا إلهي، ألا تبدو رحلاتنا البرية مثل [buckets-o-fun](http://www.buckets-o-fun.com/)؟)
 
-**I used to think "and more" was a waste of words, but harmless.  I was wrong.**
+**كنت أعتقد أن عبارة "وأكثر" مضيعة للكلمات، ولكنها غير ضارة.  لقد كنت مخطئا. **
 
-First of all, most uses of "and more" aren't even true. [Pumpkins and More](http://www.urbanext.uiuc.edu/pumpkins/) is a great website about pumpkins... and nothing else.  So why say "and more?" Instead of wasting time with a useless, incorrect phrase, why not punch up the enthusiasm?  Everything Pumpkin. Pumpkins Supreme. Nothin' but Pumpkin. Pumpkin Lovers. When I need information about pumpkins, I want someone fully committed to pumpkindom!
+أولًا، معظم استخدامات "وأكثر" ليست صحيحة. [Pumpkins and More] (http://www.urbanext.uiuc.edu/pumpkins/) هو موقع رائع عن القرع... ولا شيء غير ذلك.  فلماذا نقول "وأكثر؟" بدلاً من إضاعة الوقت بعبارات غير صحيحة وغير مجدية، لماذا لا نزيد من حماسنا؟  كل شيء اليقطين. القرع العليا. لا شيء سوى اليقطين. عشاق اليقطين. عندما أحتاج إلى معلومات حول القرع، أريد شخصًا ملتزمًا تمامًا باليقطين!
 
-[The German Way and More](http://www.german-way.com/) informs curious English-speakers about the life and culture of German-speakers.  Terrific, how about The German Way Explained or The German Way in English?
+[الطريقة الألمانية والمزيد] (http://www.german-way.com/) يُطلع المتحدثين باللغة الإنجليزية الفضوليين على حياة المتحدثين باللغة الألمانية وثقافتهم.  رائع، ماذا عن شرح الطريقة الألمانية أو الطريقة الألمانية باللغة الإنجليزية؟
 
-[Law and More](http://lawandmore.typepad.com/) is a great blog by and for lawyers... and no one else.  [Cooking and More](http://www.cookingandmore.com/) is about cooking, only.
+[Law and More](http://lawandmore.typepad.com/) هي مدونة رائعة أنشأها المحامون ومن أجلهم... وليس أي شخص آخر.  [الطبخ والمزيد](http://www.cookingandmore.com/) يتعلق بالطهي فقط.
 
-[Elves and More](http://s242835542.onlinehome.us/EMHomePage.shtm) is about distributing bikes to needy kids in Houston. Huh?
+[Elves and More] (http://s242835542.onlinehome.us/EMHomePage.shtm) يدور حول توزيع الدراجات على الأطفال المحتاجين في هيوستن. هاه؟
 
-[Tourism and More](http://www.tourismandmore.com/) is about Tourism and Security. "Security," not "more."  It's even on their company shield. (Ooo, we need a crest.  Seriously, Tracy are you listening?)
+[السياحة والمزيد](http://www.tourismandmore.com/) يدور حول السياحة والأمن. "الأمن" وليس "المزيد".  إنه حتى على درع شركتهم. (أوه، نحن بحاجة إلى شعار. على محمل الجد، تريسي، هل تستمع؟)
 
-[Just Riddles and More](http://www.justriddlesandmore.com/).  I hope that's supposed to be a joke.
+[فقط الألغاز والمزيد](http://www.justriddlesandmore.com/).  آمل أن يكون ذلك مزحة.
 
-[Rain barrels and More](http://www.midwestinternetsales.com/rainbarrels.htm) is about... just rain barrels! It's awesome that there's a company that *just makes rain barrels*. How much more do they know about rain barrels than anyone else? How many stories could they tell? **Look how the phrase "and more" dilutes this otherwise incredible message.** Who cares about "and more"--why are they dousing this singular passion with "and more?"  I want to buy a rain barrel from passionate rain barrel people!
+[براميل المطر والمزيد](http://www.midwestinternetsales.com/rainbarrels.htm) تدور حول... مجرد براميل المطر! من الرائع أن هناك شركة تصنع براميل المطر فقط. ما مقدار ما يعرفونه عن براميل المطر أكثر من أي شخص آخر؟ كم عدد القصص التي يمكنهم سردها؟ **انظر كيف أن عبارة "وأكثر" تضعف هذه الرسالة المذهلة.** من يهتم بـ "وأكثر"--لماذا يغمرون هذا الشغف الفريد بـ "وأكثر؟"  أريد شراء برميل مطر من أشخاص متحمسين لبرميل المطر!
 
-But sometimes there *is* more.  Bed, Bath, and Beyond really does have stuff other than bed stuff and bath stuff.  So "and Beyond" is informative. The specific items listed on the sign will attract some people, but what about those it doesn't entice?  "Oh sure you don't find bed or bath products appealing, but we have *more!* Interested *now*?"
+ولكن في بعض الأحيان يكون هناك المزيد.  يحتوي Bed وBath وBeyond بالفعل على أشياء أخرى غير مستلزمات السرير ومستلزمات الحمام.  لذا فإن "وما بعده" مفيد بالمعلومات. العناصر المحددة المدرجة في اللافتة ستجذب بعض الأشخاص، ولكن ماذا عن العناصر التي لا تجذبها؟  "من المؤكد أنك لا تجد منتجات السرير أو الحمام جذابة، ولكن لدينا *المزيد!* هل أنت مهتم *الآن*؟"
 
-Nah, I don't buy it.  The person who is completely uninterested in bed and bath products is unlikely to be interested in air fresheners and cutlery. Or at least, just saying "and beyond" won't stir them into action.
+ناه، أنا لا أشتريه.  من غير المرجح أن يهتم الشخص الذي لا يهتم تمامًا بمنتجات السرير والحمام بمعطرات الهواء وأدوات المائدة. أو على الأقل، مجرد قول "وما بعده" لن يدفعهم إلى العمل.
 
-In the end, "and more" is a weak declaration that your message is incomplete. Surely it's possible to convey the purpose of your business in a phrase without such ambiguity.  Now I grant you the alluring advantage of alliteration in Bed, Bath, and Beyond, so perhaps they get a pass, but non-committal phrases don't get me interested, don't get me excited, and don't get me in the door.
+وفي النهاية "وأكثر" هو إعلان ضعيف بأن رسالتك غير مكتملة. من المؤكد أنه من الممكن نقل الغرض من عملك في عبارة دون مثل هذا الغموض.  الآن أمنحك الميزة الجذابة المتمثلة في الجناس في السرير والحمام وما بعده، لذلك ربما يحصلون على تصريح، لكن العبارات غير الملتزمة لا تثير اهتمامي، ولا تثيرني، ولا تدخلني إلى الباب.
 
-So forget about "more."  Just say what you are.  Own it.  Make sure [Carol gets it](https://longform.asmartbear.com/icp-ideal-customer-persona/) and the rest will follow.
+لذا انسَ أمر "المزيد".  فقط قل ما أنت عليه.  امتلكها.  تأكد من أن [كارول حصلت عليها](https://longform.asmartbear.com/icp-ideal-customer-persona/) وسيتبع الباقي.

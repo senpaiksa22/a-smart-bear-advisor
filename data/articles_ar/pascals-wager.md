@@ -20,77 +20,64 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** رهان باسكال وتطبيقه العملي لتغيير مسار حياتك المهنية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# A life-changing challenge guided by Pascal's Wager
-
-> **Executive Summary:** Applying Pascal's Wager: Humility wins, arrogance loses.
-> **Original URL:** [https://longform.asmartbear.com/pascals-wager/](https://longform.asmartbear.com/pascals-wager/)
-
 ![oh thank god stacy its for you](https://public.asmartbear.com/books/anthology/chapters/pascals-wager/d7973print-simple.png)
 
-If the Gartner Group issued a *Recommendation on Behavior of Fortune 5000 Corporations with Respect to the Existence of PBRs (Power Beyond our Reckoning)*, surely they'd back up their ecclesiastical recommendation using a 2×2 diagram where the best place to be located is up and to the right.
+إذا أصدرت مجموعة جارتنر *توصية بشأن سلوك شركات Fortune 5000 فيما يتعلق بوجود PBRs (قوة تتجاوز حساباتنا)*، فمن المؤكد أنها ستدعم توصيتها الكنسية باستخدام مخطط 2×2 حيث يكون أفضل مكان يمكن تحديد موقعه هو الأعلى وإلى اليمين.
 
-Silly, and yet, that's precisely what genius mathematician/<wbr/>physicist/<wbr/>inventor/<wbr/>everything-else Blaise Pascal did hundreds of years ago in his pithy argument for the existence of God:
+سخيف، ومع ذلك، هذا بالضبط ما فعله عالم الرياضيات/الفيزيائي العبقري/<wbr/>المخترع/<wbr/>كل شيء آخر، بليز باسكال منذ مئات السنين في حجته البليغة عن وجود الله:
 
-> Let us weigh the gain and the loss in wagering that God is.  
-> If you gain, you gain all; if you lose, you lose nothing.  
-> Wager, then, without hesitation that He is.
+> دعونا نزن المكسب والخسارة في الرهان على أن الله هو.
+> إذا ربحت، فسوف تربح كل شيء؛ إذا خسرت، فلن تخسر شيئًا.
+> راهن إذن دون تردد على أنه كذلك.
 
-Or in modern lingo:
+أو في اللغة الحديثة:
 
-> If you act like God does *not* exist, but it turns out he *does* exist, you're eternal toast.  
->   
-> Whereas if you act like God *does* exist, you can't fail, because either (a) he in fact exists, good on you, and if (b) he doesn't, no biggie.  
->   
-> Thus the only logical strategy is the one where there's no significant downside: To believe in God.
+> إذا تصرفت وكأن الله *غير* موجود، ولكن اتضح أنه *موجود*، فأنت نخب أبدي.
+> 
+> بينما إذا تصرفت وكأن الله موجود، فلا يمكن أن تفشل، لأنه إما (أ) موجود بالفعل، فهذا جيد لك، وإذا (ب) لم يكن موجودًا، فلا مشكلة كبيرة.
+> 
+> وبالتالي فإن الإستراتيجية المنطقية الوحيدة هي تلك التي لا يوجد بها جانب سلبي كبير: الإيمان بالله.
 
-However, if I were drafting the Gartner PowerPoint slide, I would rip off Wikipedia's excessively-technical crowd-sourced analysis:
+ومع ذلك، إذا كنت أقوم بصياغة شريحة Gartner PowerPoint، فسأقوم بنسخ تحليل ويكيبيديا ذو المصادر التقنية المفرطة:
 
 ![wikipedia 2x2 for Pascal's wager](https://public.asmartbear.com/books/anthology/chapters/pascals-wager/image-simple.png)
 
-Actually this isn't a rational argument for the *existence* of God, it's a rational argument for *acting as if* God exists, because it's the bet with the [highest expected value](https://longform.asmartbear.com/fallacies/). (Although this isn't [how you should make large bets](https://longform.asmartbear.com/investment/) anyway).
+في الواقع هذه ليست حجة عقلانية لوجود *الله، إنها حجة عقلانية *للتصرف كما لو* أن الله موجود، لأنه الرهان مع [أعلى قيمة متوقعة](https://longform.asmartbear.com/fallacy/). (على الرغم من أن هذه ليست [الطريقة التي يجب أن تقوم بها بمراهنات كبيرة](https://longform.asmartbear.com/investment/) على أي حال).
 
-This argument is, of course, both invalid and irrational. To see why, notice that you can substitute "God" for any specific God that humans have ever worshipped, always arriving at the conclusion that the _only_ rational choice is to believe in _that_ God.
+وهذه الحجة بالطبع باطلة وغير عقلانية. لمعرفة السبب، لاحظ أنه يمكنك استبدال "الله" بأي إله محدد عبده البشر على الإطلاق، وتوصل دائمًا إلى استنتاج مفاده أن الاختيار العقلاني الوحيد هو الإيمان بهذا الإله.
 
-Still, the general idea behind Pascal's Wager can be usefully applied to other things in life.
+ومع ذلك، فإن الفكرة العامة وراء رهان باسكال يمكن تطبيقها بشكل مفيد على أشياء أخرى في الحياة.
 
-We react to most things from a position of [scant knowledge](https://longform.asmartbear.com/predict-the-future/), especially when we're running a startup where essentially [every decision is a guess](https://longform.asmartbear.com/perseverance/). An educated guess, but [not *terribly* educated](https://longform.asmartbear.com/chaos-at-start/).
+نحن نتفاعل مع معظم الأشياء من موقع [المعرفة الضئيلة](https://longform.asmartbear.com/predict-the-future/)، خاصة عندما ندير شركة ناشئة حيث [كل قرار هو في الأساس تخمين](https://longform.asmartbear.com/perseverance/). تخمين مدروس، ولكن [ليس *بشكل رهيب* متعلمًا](https://longform.asmartbear.com/chaos-at-start/).
 
-You have to make assumptions of course, but Pascal points out that some assumptions fare better in all eventualities, whereas other assumptions result in positive outcomes only sometimes. Surely we should choose the behavior that maximizes our expected value as Wikipedia suggests.
+عليك أن تضع افتراضات بالطبع، لكن باسكال يشير إلى أن بعض الافتراضات تكون أفضل في جميع الاحتمالات، في حين أن الافتراضات الأخرى تؤدي إلى نتائج إيجابية فقط في بعض الأحيان. بالتأكيد يجب علينا اختيار السلوك الذي يزيد من القيمة المتوقعة لدينا كما تقترح ويكيبيديا.
 
-Sounds obvious but we don't always do it. For example:
+يبدو الأمر واضحًا لكننا لا نفعل ذلك دائمًا. على سبيل المثال:
 
-Folks often contact WP Engine tech support from posture of accusation. They're blameless ("I didn't *do* anything!") so we must have screwed something up. Occasionally that's true, but most of the time it's either ignorance or someone else on their team messed it up, or they themselves actually did mess it up, hoping we'll come to their rescue. (Which we will.)
+غالبًا ما يتصل الأشخاص بالدعم الفني لـ WP Engine من موقف الاتهام. إنهم بلا لوم ("لم أفعل شيئًا!") لذلك لا بد أننا أفسدنا شيئًا ما. في بعض الأحيان يكون هذا صحيحًا، ولكن في معظم الأحيان يكون السبب إما الجهل أو أن شخصًا آخر في فريقهم قد أفسد الأمر، أو أنهم هم أنفسهم أفسدوا الأمر بالفعل، على أمل أن نأتي لإنقاذهم. (وهو ما سنفعله).
 
-Now, look. Support people are human beings. Not [mechanized automatons](https://longform.asmartbear.com/hello-support/) impervious to [rude language](https://longform.asmartbear.com/devils-advocate/) and assumption of incompetence. They've also chosen a field in which they help people.
+الآن، انظر. دعم الناس هم بشر. ليست [آلات آلية](https://longform.asmartbear.com/hello-support/) منيعة أمام [اللغة الوقحة](https://longform.asmartbear.com/devils-advocate/) وافتراض عدم الكفاءة. لقد اختاروا أيضًا مجالًا يساعدون فيه الناس.
 
-Meditate on that for a second. They've chosen to *help* people.... for a *living*. Is that how you'd define most of your day? Is that not a noble profession? And what thanks do they get, call after call, day in and day out?
+تأمل في ذلك لثانية واحدة. لقد اختاروا *مساعدة* الناس.... من أجل *العيش*. هل هذه هي الطريقة التي تحدد بها معظم يومك؟ أليست هذه مهنة نبيلة؟ وما هو الشكر الذي يتلقونه، مكالمة تلو الأخرى، يومًا بعد يوم؟
 
-So if you open up the conversation from a posture of helplessness or curiosity, they're inclined to help, even if it's your own fault. And if turns out *not* to be your fault, imagine how sympathetic they'll be to your cause--here's the nicest person on Earth, blaming themselves from the get-go, and yet it's *our fault*! Imagine how readily they'll personally fight to remedy the situation.
+لذلك، إذا فتحت المحادثة من موقف العجز أو الفضول، فسوف يميلون إلى المساعدة، حتى لو كان ذلك خطأك. وإذا تبين أن *ليس* خطأك، تخيل مدى تعاطفهم مع قضيتك - فها هو ألطف شخص على وجه الأرض، يلوم نفسه منذ البداية، ومع ذلك فهو *خطأنا*! تخيل مدى سهولة قتالهم شخصيًا لتصحيح الوضع.
 
-But that's not what you do when you're on the phone with tech support, is it? No, you're angry and frustrated because something is wrong, and you unfairly take it out on whomever you're talking to, even though they're also your only link to salvation. But then how do they feel about helping you? Of course it's their *job* to help you, and there's metrics and such which hopefully punishes them if they don't do their job. But still... **is that the way to get most out of other people?** Is that [the way to live your life](https://longform.asmartbear.com/fulfillment/)?
+ولكن هذا ليس ما تفعله عندما تكون على الهاتف مع الدعم الفني، أليس كذلك؟ لا، أنت غاضب ومحبط لأن هناك خطأ ما، وتنتقده بشكل غير عادل على من تتحدث إليه، على الرغم من أنه أيضًا رابطك الوحيد للخلاص. ولكن بعد ذلك ما هو شعورهم تجاه مساعدتك؟ بالطبع، *وظيفتهم* هي مساعدتك، وهناك مقاييس ومقاييس نأمل أن تعاقبهم إذا لم يقوموا بعملهم. لكن لا يزال... **هل هذه هي الطريقة للحصول على أقصى استفادة من الآخرين؟** هل هذه [الطريقة التي تعيش بها حياتك](https://longform.asmartbear.com/fulfillment/)؟
 
-You can't fail if you assume you're ignorant, that you're missing information, that you're ready to learn, that you need help to understand.
+لا يمكن أن تفشل إذا افترضت أنك جاهل، وأنك تفتقد معلومات، وأنك مستعد للتعلم، وأنك بحاجة إلى مساعدة لفهمها.
 
-It's just Pascal's Wager again: **Being humble cannot fail; being arrogant can**.
+إنه مجرد رهان باسكال مرة أخرى: **التواضع لا يمكن أن يفشل؛ يمكن أن يكون متعجرفًا **.
 
-This isn't specific to WP Engine's support, of course. It's everyone, any time, especially if you're communicating over email where emotions are hard to convey and text is misread. Tech support, [vetting a new idea](https://longform.asmartbear.com/customer-development/), arguing with your spouse, or exchanging emails or Tweets with a stranger.
+هذا لا يقتصر على دعم WP Engine بالطبع. إنه الجميع، في أي وقت، خاصة إذا كنت تتواصل عبر البريد الإلكتروني حيث يصعب نقل المشاعر ويتم إساءة قراءة النص. الدعم الفني، [فحص فكرة جديدة](https://longform.asmartbear.com/customer-development/)، أو الجدال مع زوجتك، أو تبادل رسائل البريد الإلكتروني أو التغريدات مع شخص غريب.
 
-But how often do you act like that?
+ولكن كم مرة تتصرف بهذه الطريقة؟
 
-**What would happen** if you always acted like that, in every situation? Would you discover you're wrong more often and about more things than you thought? That you misread, or read something that doesn't exist, in-between lines that aren't the lines you thought they were?
+**ماذا سيحدث** إذا تصرفت دائمًا بهذه الطريقة في كل موقف؟ هل ستكتشف أنك مخطئ في كثير من الأحيان وفي أشياء أكثر مما كنت تعتقد؟ أنك أخطأت في القراءة، أو قرأت شيئًا غير موجود، بين السطور التي ليست هي السطور التي كنت تعتقد أنها كذلك؟
 
-And, in the cases where you are in fact correct, perhaps people would respond in a more positive way, where they learn also, and where they go out of their way to make things better? **Could the simple act of being humble be life-altering?**
+وفي الحالات التي تكون فيها على صواب في الواقع، ربما يستجيب الناس بطريقة أكثر إيجابية، حيث يتعلمون أيضًا، وحيث يبذلون قصارى جهدهم لتحسين الأمور؟ **هل يمكن لفعل التواضع البسيط أن يغير حياتك؟**
 
-Try it for a week and just see.
+جربه لمدة أسبوع وانظر فقط.
 
-You have nothing to lose and everything to gain by trying.
+ليس لديك ما تخسره وستكسب كل شيء من خلال المحاولة.
 
-Like Pascal.
+مثل باسكال.

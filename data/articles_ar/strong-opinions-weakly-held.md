@@ -20,43 +20,30 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** آراء قاطعة وقوية، متمسك بها بمرونة واستعداد للتغيير تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Strong opinions, somewhat weakly held
-
-> **Executive Summary:** A strategy that changes all the time cannot be executed, but a strategy that never changes is definitely incorrect.
-> **Original URL:** [https://longform.asmartbear.com/strong-opinions-weakly-held/](https://longform.asmartbear.com/strong-opinions-weakly-held/)
-
 ![Cartoon 0c2a4781](https://longform.asmartbear.com/strong-opinions-weakly-held/bffb6b01.png)
 
-We finally have a dedicated, in-house AdWords pro. With algorithms, monitoring, and tools, each of which change regularly, it's a full-time job to do it right.
+لقد أصبح لدينا أخيرًا محترف AdWords مخصص داخليًا. مع الخوارزميات والمراقبة والأدوات، التي يتغير كل منها بانتظام، يعد القيام بذلك بشكل صحيح بمثابة وظيفة بدوام كامل.
 
-Part of a successful AdWords campaign is perfecting the landing page--the place you go when you click the ad. The landing page is tuned to match the ad text, not only to entice potential customers but also because your AdWord placement [depends on](http://searchenginewatch.com/showPage.html?page=3622950) the relevance of its content.
+يعد تحسين الصفحة المقصودة جزءًا من حملة AdWords الناجحة - وهو المكان الذي تنتقل إليه عند النقر على الإعلان. تم ضبط الصفحة المقصودة لتتوافق مع نص الإعلان، ليس فقط لجذب العملاء المحتملين ولكن أيضًا لأن موضعك في AdWords [يعتمد على](http://searchenginewatch.com/showPage.html?page=3622950) مدى ملاءمة محتواها.
 
-So our AdWords pro has been giving us advice on the messaging for the landing pages. Specifically, he's been asking us to **change our marketing message** that has worked so well for us on the web, in print, at [trade shows](https://longform.asmartbear.com/tradeshow-tips-checklist/), and in demos.
+ولذلك يقدم لنا محترف AdWords النصائح بشأن الرسائل الخاصة بالصفحات المقصودة. على وجه التحديد، كان يطلب منا **تغيير رسالتنا التسويقية** التي حققت نجاحًا كبيرًا بالنسبة لنا على الويب، وفي المطبوعات، وفي [المعارض التجارية](https://longform.asmartbear.com/tradeshow-tips-checklist/)، وفي العروض التوضيحية.
 
-I don't have a problem with criticism--the purpose of [our software](http://codecollab.com/) is to generate criticism--but do we allow an "outsider" with no context to change our proven text?
+ليست لدي مشكلة مع النقد - فالغرض من [برنامجنا] (http://codecollab.com/) هو إثارة النقد - ولكن هل نسمح "لشخص خارجي" بدون سياق بتغيير نصنا المثبت؟
 
-Maybe so. A fundamental tenant of Smart Bear and my life in general is to **have strong opinions, weakly held.** This phrase, [promulgated by Paul Saffo](https://www.educause.edu/apps/er/review/reviewArticles/33340.html) and echoed by [many](http://bobsutton.typepad.com/my_weblog/2006/07/strong_opinions.html) [others](http://www.codinghorror.com/blog/archives/001124.html), summarizes the attitude that conviction, while necessary for action, must be tempered with a constant search for disproof. Being wishy-washy is an impediment to inspiring people, working towards a goal, and getting things done, but turning a blind eye to contrary evidence is irresponsible and even dishonest.
+ربما كذلك. أحد العناصر الأساسية في Smart Bear وحياتي بشكل عام هو **أن يكون لدي آراء قوية ضعيفة.** هذه العبارة، [أصدرها Paul Saffo](https://www.educause.edu/apps/er/review/reviewArticles/33340.html) ورددها [كثير](http://bobsutton.typepad.com/my_weblog/2006/07/strong_opinions.html) [أخرى] (http://www.codinghorror.com/blog/archives/001124.html)، يلخص الموقف القائل بأن الإدانة، رغم أنها ضرورية للفعل، يجب أن تخفف من خلال البحث المستمر عن الدحض. إن التمني هو عائق أمام إلهام الناس، والعمل على تحقيق الهدف، وإنجاز الأمور، ولكن غض الطرف عن الأدلة المخالفة هو أمر غير مسؤول وحتى غير أمين.
 
-With this in mind, a stranger unencumbered by our history and biases might provide the insight we need to disprove some marketing assumptions and freshen our content! New perspectives add depth. We can only improve; we shouldn't cling to ideas just because they're venerable.
+مع أخذ ذلك في الاعتبار، قد يوفر لنا شخص غريب لا علاقة له بتاريخنا وتحيزاتنا الرؤية التي نحتاجها لدحض بعض الافتراضات التسويقية وتجديد المحتوى الخاص بنا! وجهات نظر جديدة تضيف عمقا. لا يمكننا إلا أن نتحسن؛ لا ينبغي لنا أن نتشبث بالأفكار لمجرد أنها مبجلة.
 
-**Or maybe we should.** [Ted Matthews argues](http://www.instinctbrandequity.com/newsletter/current/book_announcement.html) that branding doesn't work unless you stick to your guns. New hires are quick to suggest change without understanding the battle that went into the decision. It's just like wanting to [rewrite an application because of a little ugly code](http://www.joelonsoftware.com/articles/fog0000000069.html). Our messaging was honed by field tests, listening to customers, and hours of debate; how can we allow everything to change because of new person with almost no understanding of our product, customers, or competitors?
+**أو ربما ينبغي لنا ذلك.** [يجادل تيد ماثيوز](http://www.instinctbrandequity.com/newsletter/current/book_announcement.html) أن العلامة التجارية لا تنجح إلا إذا التزمت بموقفك. يسارع الموظفون الجدد إلى اقتراح التغيير دون فهم المعركة التي أدت إلى اتخاذ القرار. إنه مثل الرغبة في [إعادة كتابة تطبيق بسبب القليل من التعليمات البرمجية القبيحة](http://www.joelonsoftware.com/articles/fog0000000069.html). لقد تم صقل رسائلنا من خلال الاختبارات الميدانية، والاستماع إلى العملاء، وساعات من النقاش؛ كيف يمكننا أن نسمح لكل شيء بالتغيير بسبب ظهور شخص جديد لا يفهم تقريبًا منتجاتنا أو عملائنا أو منافسينا؟
 
-The way to reconcile these two forces is to see that "weakly" in "weakly held" can be modified depending on the origin of the original opinion.
+وطريقة التوفيق بين هاتين القوتين هي أن نرى أن كلمة "ضعيف" في "ضعيف" يمكن تعديلها حسب أصل الرأي الأصلي.
 
-On one end of the spectrum, some opinions were made without consideration. Why do we have a "Resources" web page separate from an "External Articles" page? No reason, it just ended up like that. So if someone else has a different idea and some rationale behind it, make the change.
+وعلى أحد طرفي الطيف، تم الإدلاء ببعض الآراء دون أي اعتبار. لماذا لدينا صفحة ويب "الموارد" منفصلة عن صفحة "المقالات الخارجية"؟ لا يوجد سبب، لقد انتهى الأمر هكذا. لذا، إذا كان لدى شخص آخر فكرة مختلفة وبعض الأسباب المنطقية وراءها، فقم بإجراء التغيير.
 
-On the other end, some opinions--like our marketing messages--were forged with a great deal of consideration. Everyone in the office (and [beyond](http://productprinciples.com/)) brainstormed ideas, vetoed concepts, defended theories, and crafted phrases over many years. We've gone through iterations, measuring success objectively (e.g. AdWords conversion rates) and subjectively (e.g. reactions when giving talks at conferences).
+وعلى الجانب الآخر، فإن بعض الآراء - مثل رسائلنا التسويقية - تم صياغتها بقدر كبير من الاعتبار. قام كل فرد في المكتب (و[خارجه](http://productprinciples.com/)) بتبادل الأفكار، واعترض على المفاهيم، ودافع عن النظريات، وصياغة العبارات على مدار سنوات عديدة. لقد مررنا بتكرارات، حيث قمنا بقياس النجاح بشكل موضوعي (على سبيل المثال، معدلات التحويل في AdWords) وبشكل شخصي (على سبيل المثال، ردود الفعل عند إلقاء المحادثات في المؤتمرات).
 
-This kind of opinion shouldn't be changed flippantly. If it deserved this much consideration before, it deserves the same consideration now. Perhaps more.
+لا ينبغي تغيير هذا النوع من الرأي باستخفاف. وإذا كانت تستحق هذا القدر من الاهتمام من قبل، فإنها تستحق نفس الاهتمام الآن. وربما أكثر.
 
-Still I disagree with Ted. You can't use "branding" as a shield against good ideas no matter how entrenched the old ones are. But when the existing ideas are proven, when great works have molded them, new ideas should be challenged with proportionally high standards.
+ما زلت لا أتفق مع تيد. لا يمكنك استخدام "العلامة التجارية" كدرع ضد الأفكار الجيدة بغض النظر عن مدى رسوخ الأفكار القديمة. ولكن عندما يتم إثبات الأفكار القائمة، وعندما تشكلها الأعمال العظيمة، فلابد من تحدي الأفكار الجديدة بمعايير عالية نسبيا.
 
-**Be ready to change with reason, but don't change for no reason.**
+**كن مستعدًا للتغيير بالسبب، لكن لا تتغير بدون سبب.**

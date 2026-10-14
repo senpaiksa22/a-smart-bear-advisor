@@ -20,56 +20,43 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** رهن جودة البرمجيات: الديون التقنية وكيف تدفع فوائدها لاحقاً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Software Quality Mortgage
-
-> **Executive Summary:** Quick software releases have long-term costs. Stakeholders and engineers alike must be prepared to repay the mortgage known as "tech debt."
-> **Original URL:** [https://longform.asmartbear.com/software-quality-mortgage/](https://longform.asmartbear.com/software-quality-mortgage/)
-
-Your code is a mess. Years of squeezing in "must-have" features for big customers have stretched the code beyond its [original design](https://longform.asmartbear.com/design/). Core modules are riddled with landmines; we're afraid to make any changes, even with unit tests. Tacit assumptions shared by the two founders aren't obvious to the next ten hires.
+الكود الخاص بك في حالة من الفوضى. أدت سنوات من الضغط على الميزات "الضرورية" للعملاء الكبار إلى توسيع نطاق الكود إلى ما هو أبعد من [التصميم الأصلي] (https://longform.asmartbear.com/design/). الوحدات الأساسية مليئة بالألغام الأرضية؛ نحن خائفون من إجراء أي تغييرات، حتى مع اختبارات الوحدة. الافتراضات الضمنية المشتركة بين المؤسسين ليست واضحة للموظفين العشرة التاليين.
 
 ![fake Windows error](https://longform.asmartbear.com/software-quality-mortgage/ddf2c48c.png)
 
-When companies are new and unknown, still seeking their [niche](https://longform.asmartbear.com/icp-ideal-customer-persona/), the [most important thing](https://longform.asmartbear.com/product-market-fit-formula/) is to get the software out the door fast, bugs and all.
+عندما تكون الشركات جديدة وغير معروفة، ولا تزال تسعى إلى الحصول على [مكانها الملائم](https://longform.asmartbear.com/icp-ideal-customer-persona/)، فإن [أهم شيء](https://longform.asmartbear.com/product-market-fit-formula/) هو طرح البرنامج بسرعة، وإزالة الأخطاء وكل شيء.
 
-It's the [right thing for the company](https://www.onstartups.com/tabid/3339/bid/5659/startup-business-strategy-for-the-simple-minded.aspx) and the [right thing for the software](http://www.joelonsoftware.com/articles/fog0000000014.html), but there [comes a day](https://longform.asmartbear.com/product-market-fit/) when your emphasis shifts from "time-to-market" to reducing tech support calls and not pissing off tens of thousands of existing users with a dud release.
+إنه [الشيء الصحيح للشركة](https://www.onstartups.com/tabid/3339/bid/5659/startup-business-strategy-for-the-simple-minating.aspx) و[الشيء الصحيح للبرنامج](http://www.joelonsoftware.com/articles/fog0000000014.html)، ولكن هناك [يأتي يومًا](https://longform.asmartbear.com/product-market-fit/) عندما يتحول تركيزك من "وقت الوصول إلى السوق" إلى تقليل مكالمات الدعم الفني وعدم إثارة غضب عشرات الآلاف من المستخدمين الحاليين بإصدار فاشل.
 
-But now you have all this crappy code.
+ولكن الآن لديك كل هذا الكود السيئ.
 
-I call this phenomenon the "Quality Mortgage." The analogy to a home mortgage is apt.
+أسمي هذه الظاهرة "الرهن العقاري عالي الجودة". إن التشبيه بالرهن العقاري مناسب.
 
-A responsible, hard-working person cannot afford to purchase a home outright and therefore enters into debt. If shippable, salable software is the house you want today, your debt is the quality and maintainability of your code. Sure you could build a close-enough-to-bug-free application if given ten years to work on it, but you're taking out a mortgage to build v1.0 in six months.
+لا يستطيع الشخص المسؤول الذي يعمل بجد شراء منزل بشكل مباشر، وبالتالي يدخل في الديون. إذا كان البرنامج القابل للشحن والقابل للبيع هو المنزل الذي تريده اليوم، فإن دينك هو جودة الكود الخاص بك وقابلية صيانته. من المؤكد أنه يمكنك إنشاء تطبيق خالٍ من الأخطاء إذا مُنحت عشر سنوات للعمل عليه، ولكنك تحصل على رهن عقاري لبناء الإصدار 1.0 في ستة أشهر.
 
-**But eventually you have to pay back the debt. With interest.** You pay interest in the form of bugs. Bugs everywhere, many preventable had you given time to have unit tests, good design, manual tests, and use-cases. And fixing those surface bugs doesn't fix the underlying problems in the code. This is perfectly analogous to those first years of the mortgage where you're paying interest without reducing the principal. But this is still the right choice at first--fix the most heinous bugs and keep going.
+** ولكن في النهاية عليك سداد الدين. مع الفائدة.** أنت تدفع الفائدة على شكل أخطاء. الأخطاء في كل مكان، العديد منها يمكن الوقاية منها إذا أعطيت الوقت لإجراء اختبارات الوحدة، والتصميم الجيد، والاختبارات اليدوية، وحالات الاستخدام. وإصلاح هذه الأخطاء السطحية لا يحل المشكلات الأساسية في الكود. وهذا مشابه تمامًا لتلك السنوات الأولى من الرهن العقاري حيث تدفع الفائدة دون تخفيض أصل المبلغ. ولكن هذا لا يزال هو الخيار الصحيح في البداية - أصلح الأخطاء الأكثر شناعة واستمر في العمل.
 
-Over time you can pay back the principal, slowly. You can refactor one file while adding a feature. You can add complete unit test coverage for a handful of core methods. You can write a manual test plan for a particularly complex dialog box. This is all good! But at this rate it's still going to [take ten years](http://www.joelonsoftware.com/articles/fog0000000017.html) to pay it back.
+بمرور الوقت، يمكنك سداد أصل القرض ببطء. يمكنك إعادة بناء ملف واحد أثناء إضافة ميزة. يمكنك إضافة تغطية كاملة لاختبار الوحدة لمجموعة من الطرق الأساسية. يمكنك كتابة خطة اختبار يدوية لمربع حوار معقد بشكل خاص. هذا كل شيء جيد! ولكن بهذا المعدل، سيستغرق الأمر [عشر سنوات](http://www.joelonsoftware.com/articles/fog0000000017.html) لسداد هذه المبالغ.
 
-Or maybe you'll never pay it back. Because unlike a house your software is constantly expanding with new features and reused for purposes beyond its original conception. Without fixing the underlying mess or the process that brought you that mess, you'll never catch up. It's more like an interest-only mortgage.
+أو ربما لن تسددها أبدًا. لأنه على عكس المنزل، يتوسع برنامجك باستمرار بميزات جديدة ويُعاد استخدامه لأغراض تتجاوز مفهومه الأصلي. بدون إصلاح الفوضى الأساسية أو العملية التي جلبت لك تلك الفوضى، فلن تتمكن أبدًا من اللحاق بالركب. إنه أشبه برهن عقاري بفائدة فقط.
 
-At some point you can't tolerate this anymore. It's time to pay down the principal in earnest. But this requires allocating time for major rework.
+في مرحلة ما، لا يمكنك تحمل هذا بعد الآن. لقد حان الوقت لسداد رأس المال بشكل جدي. لكن هذا يتطلب تخصيص الوقت لإعادة العمل الرئيسية.
 
-Winning the right to refactor can be tough politically, especially with non-technical stakeholders. Here's how to combat the common arguments against spending time refactoring:
+قد يكون الفوز بالحق في إعادة البناء أمرًا صعبًا من الناحية السياسية، خاصة مع أصحاب المصلحة غير التقنيين. فيما يلي كيفية التغلب على الحجج الشائعة ضد قضاء الوقت في إعادة الهيكلة:
 
-#### Clean-up is invisible to users; we need to add new features.
-The bugs constantly produced by messy code are visible to users too. Time spent fixing those bugs could have been spent adding features. The longer we stay in quality debt, the more time it takes to add each new feature.
+#### عملية التنظيف غير مرئية للمستخدمين؛ نحن بحاجة إلى إضافة ميزات جديدة.
+الأخطاء التي تنتجها التعليمات البرمجية الفوضوية باستمرار تكون مرئية للمستخدمين أيضًا. كان من الممكن قضاء الوقت المستغرق في إصلاح هذه الأخطاء في إضافة ميزات. كلما بقينا في ديون الجودة لفترة أطول، كلما استغرقنا وقتًا أطول لإضافة كل ميزة جديدة.
 
-#### We don't have time for clean-up.
-You'd rather spend your time fixing bugs *generated* by the problem rather than fixing the problem? That's like whacking weeds every weekend instead of pulling them up by the roots. Prevention is sixteen times[^1] more valuable than cure.
+#### ليس لدينا وقت للتنظيف.
+هل تفضل قضاء وقتك في إصلاح الأخطاء *التي تولدها* المشكلة بدلاً من إصلاح المشكلة؟ هذا مثل إزالة الأعشاب الضارة في نهاية كل أسبوع بدلاً من اقتلاعها من الجذور. الوقاية هي ستة عشر مرة[^1] أكثر قيمة من العلاج.
 
-[^1]:  "An ounce of prevention is worth a pound of cure."--Ben Franklin
+[^1]: "درهم وقاية خير من قنطار علاج." --بن فرانكلين
 
-#### Developers got themselves into this mess; they should get themselves out of it on their own time.
-Had developers not gotten releases out the door as fast as they did, had they not responded so swiftly to early adopter feedback, even when the product morphed into a beast quite different from its original conception, we wouldn't have our current customers and revenue. We'd be working for another company, not complaining about the software we built.
+#### لقد أدخل المطورون أنفسهم في هذه الفوضى؛ يجب عليهم أن يخرجوا أنفسهم منه في الوقت المناسب لهم.
+لو لم يحصل المطورون على إصدارات بالسرعة التي فعلوها، ولو لم يستجيبوا بسرعة لتعليقات المستخدمين المبكرة، حتى عندما تحول المنتج إلى وحش مختلف تمامًا عن مفهومه الأصلي، لما كان لدينا عملاءنا الحاليين وإيراداتنا. سنعمل لصالح شركة أخرى، ولن نشكو من البرامج التي بنيناها.
 
-:	Attention CEO's: Finger-pointing impedes resolution. Instead, challenge your developers to reduce bug reports. This is easily measured, so you can track time versus results. Remember, developers prefer implementing new features to fixing bugs, so if they're begging for time to fix bugs, it's serious.
+: انتبه أيها الرئيس التنفيذي: الإشارة بأصابع الاتهام تعيق الحل. بدلاً من ذلك، قم بتحدي المطورين لتقليل تقارير الأخطاء. ويتم قياس ذلك بسهولة، حتى تتمكن من تتبع الوقت مقابل النتائج. تذكر أن المطورين يفضلون تنفيذ ميزات جديدة لإصلاح الأخطاء، لذلك إذا كانوا يستجدون الوقت لإصلاح الأخطاء، فهذا أمر خطير.
 
-A fine line separates debt as a lever for acceleration and an insurmountable drag. The quality mortgage is a necessary evil in early software development, despite its eventual problems. Just plan on paying it back.
+هناك خط رفيع يفصل بين الديون كرافعة للتسارع وسحب لا يمكن التغلب عليه. إن الرهن العقاري عالي الجودة يشكل شراً لا بد منه في المراحل المبكرة من تطوير البرمجيات، على الرغم من مشاكله في نهاية المطاف. فقط خطط لسدادها.
 
-P.S. After writing this I found Martin Fowler [making the same point](http://www.martinfowler.com/bliki/TechnicalDebt.html).
+ملاحظة: بعد كتابة هذا وجدت مارتن فاولر [يوضح نفس النقطة](http://www.martinfowler.com/bliki/TechnicalDebt.html).

@@ -20,59 +20,46 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** التكاليف الغارقة (Sunk Costs): الخطر الخفي الدائم الذي يستنزف الشركات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Sunk Costs: An invisible, pervasive peril
-
-> **Executive Summary:** From blown budgets to failed features, sunk costs result in irrational choices.
-> **Original URL:** [https://longform.asmartbear.com/sunk-costs/](https://longform.asmartbear.com/sunk-costs/)
-
-Many of my mistakes can be traced back to a failure to recognize and appreciate "sunk cost."
+يمكن إرجاع العديد من أخطائي إلى الفشل في إدراك وتقدير "التكلفة الغارقة".
 
 ![Just because you've spend time and money doesn't mean you should keep at it.](https://longform.asmartbear.com/sunk-costs/f9fa8207.png)
 
-The term comes from economics: **"Sunk Cost" is money you've already spent and cannot get back.** A "[rational actor](http://en.wikipedia.org/wiki/Rational_choice_theory)," as economists say, will *completely ignore* sunk costs when making decisions because the money is gone no matter what action is taken next.
+المصطلح يأتي من علم الاقتصاد: **"التكلفة الغارقة" هي الأموال التي أنفقتها بالفعل ولا يمكنك استعادتها.** "[الفاعل العقلاني](http://en.wikipedia.org/wiki/Rational_choice_theory)"، كما يقول الاقتصاديون، سوف *يتجاهل تمامًا* التكاليف الغارقة عند اتخاذ القرارات لأن الأموال قد نفدت بغض النظر عن الإجراء الذي سيتم اتخاذه بعد ذلك.
 
-Of course we carbon-based life forms can [rarely be described as "rational,"](http://www.amazon.com/gp/product/006135323X?ie=UTF8&tag=asmbe-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=006135323X) especially when it comes to ignoring sunk costs. It's hard to abandon projects in which you've poured time and money, especially when you've also attached your ego and reputation.
+بالطبع، يمكن وصف أشكال الحياة المعتمدة على الكربون بأنها "عقلانية"](http://www.amazon.com/gp/product/006135323X?ie=UTF8&tag=asmbe-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=006135323X) خاصة عندما يتعلق الأمر بتجاهل التكاليف الغارقة. من الصعب أن تتخلى عن المشاريع التي أنفقت فيها الوقت والمال، خاصة عندما تكون قد ربطت غرورك وسمعتك أيضًا.
 
-Sometimes it's easy to do the right thing. For example, let's say you designed a banner ad for a certain website (cost: $1000) and paid to run the ad for three months (cost: $2000). At the end of the three months, you look at the results and they're *horrible*--barely anyone clicked the ad and none of those people made a purchase.
+في بعض الأحيان يكون من السهل القيام بالشيء الصحيح. على سبيل المثال، لنفترض أنك صممت إعلانًا بانر لموقع ويب معين (التكلفة: 1000 دولار أمريكي) ودفعت مقابل تشغيل الإعلان لمدة ثلاثة أشهر (التكلفة: 2000 دولار أمريكي). وفي نهاية الأشهر الثلاثة، تنظر إلى النتائج وتكون *مروعة* - بالكاد قام أي شخص بالنقر على الإعلان ولم يقم أي من هؤلاء الأشخاص بإجراء عملية شراء.
 
-Clearly you won't spend any more time or money on that ad. Yes you spent $3000, but that's a "sunk cost"--you cannot get that money back. Whether you had spent $30 or $30,000, it still wouldn't be worth continuing this project. Obvious!
+من الواضح أنك لن تنفق المزيد من الوقت أو المال على هذا الإعلان. نعم، لقد أنفقت 3000 دولار، ولكن هذه "تكلفة غارقة" - ولا يمكنك استرداد هذه الأموال. سواء كنت قد أنفقت 30 دولارًا أو 30 ألف دولار، فلا يزال الأمر لا يستحق الاستمرار في هذا المشروع. بديهي!
 
-And yet, throwing good money after bad is *exactly* what we do in many other situations. Here's a typical business example. A company is building a new $20 million manufacturing plant. They burn through the $20m, but it now it's clear that it will take another $10m to complete the project. In the meantime, an opportunity has appeared where they could take over and retrofit a different manufacturing plant for only $2m.
+ومع ذلك، فإن رمي الأموال الجيدة بعد الأموال السيئة هو *بالضبط* ما نفعله في العديد من المواقف الأخرى. إليك مثال تجاري نموذجي. تقوم إحدى الشركات ببناء مصنع جديد بقيمة 20 مليون دولار. لقد أنفقوا مبلغ الـ 20 مليون دولار، ولكن من الواضح الآن أن الأمر سيستغرق 10 ملايين دولار أخرى لإكمال المشروع. في غضون ذلك، ظهرت فرصة حيث يمكنهم تولي مسؤولية مصنع تصنيع مختلف وتحديثه مقابل مليوني دولار فقط.
 
-From a completely rational perspective, they should abandon the original project. The $20m they've spent can't be recovered (let's say), so it's now just a choice between spending $2m or $10m. Duh.
+ومن منظور عقلاني تمامًا، يجب عليهم التخلي عن المشروع الأصلي. لا يمكن استرداد مبلغ العشرين مليون دولار الذي أنفقوه (على سبيل المثال)، لذا أصبح الأمر الآن مجرد اختيار بين إنفاق مليوني دولار أو 10 ملايين دولار. دوه.
 
-Of course the correct decision probably won't be made. You can imagine the internal politics of someone standing up and staying "I'm responsible for this hugely wasteful endeavor, and now I want you to trust my judgment as I pull the plug and do something completely different."
+وبطبيعة الحال، ربما لن يتم اتخاذ القرار الصحيح. يمكنك أن تتخيل السياسة الداخلية لشخص ما يقف ويبقى "أنا مسؤول عن هذا المسعى المسرف للغاية، والآن أريدك أن تثق في حكمي وأنا أسحب القابس وأقوم بشيء مختلف تمامًا."
 
-Here's where you expect me to say how stupid big-business is and how little startups are smart and agile and never make mistakes like that, but that's crap.
+هذا هو المكان الذي تتوقع مني أن أقول فيه مدى غباء الشركات الكبيرة ومدى ضآلة ذكاء الشركات الناشئة ورشاقتها وعدم ارتكاب أخطاء كهذه أبدًا، لكن هذا هراء.
 
-**It's not just politics, it's human nature.** Depending on which way you approach it, the term is "[Loss Aversion](http://en.wikipedia.org/wiki/Loss_aversion)" or the "[Endowment Effect](http://en.wikipedia.org/wiki/Endowment_effect)," subtly different but close enough for our purposes.
+**الأمر لا يتعلق بالسياسة فحسب، بل إنها الطبيعة البشرية.** اعتمادًا على الطريقة التي تتعامل بها مع الأمر، فإن المصطلح هو "[تجنب الخسارة](http://en.wikipedia.org/wiki/Loss_aversion)" أو "[تأثير الوقف](http://en.wikipedia.org/wiki/Endowment_effect)،" مختلف تمامًا ولكنه قريب بدرجة كافية لأغراضنا.
 
-In short: **We place excessive value on that which we own, or which we perceive we own.** There's all sorts of fun experiments demonstrating this:
+باختصار: **نحن نعطي قيمة زائدة لما نملكه، أو ما نعتقد أننا نملكه. ** هناك كل أنواع التجارب الممتعة التي توضح ذلك:
 
-* At Duke University there are far more students wanting to attend games than there are tickets, so a complex lottery system determines who gets the precious few. Experimenters posing as scalpers determined that those who lost the lottery would on average pay $170 for a ticket. When they approached students who won the lottery, they were willing to part with the ticket for an average $2,400. Both students went through the same effort to get tickets, but those who own these (randomly-assigned) tickets ascribed a much larger value to them.
-* Horse bettors who have already placed their bets (a sunk cost, "owning" a particular outcome) are more optimistic about their chances of winning then those who are still in line to place bets.
-* Most people will not walk out of a movie they hate, because that would "waste money," even though the money cannot be recovered and they could be doing something more enjoyable.
-* Just *touching* an item in a store makes you [more likely to purchase it](http://www.marginalrevolution.com/marginalrevolution/2009/01/dont-touch-when-you-are-shopping.html).
+* يوجد في جامعة ديوك عدد أكبر بكثير من الطلاب الراغبين في حضور المباريات مقارنة بعدد التذاكر، لذلك يحدد نظام اليانصيب المعقد من سيحصل على القليل من التذاكر الثمينة. توصل المجربون الذين تظاهروا بأنهم مستغلون إلى أن أولئك الذين خسروا اليانصيب سيدفعون في المتوسط ​​170 دولارًا مقابل التذكرة. وعندما اقتربوا من الطلاب الذين فازوا باليانصيب، كانوا على استعداد للتخلي عن التذكرة مقابل متوسط ​​قدره 2400 دولار. لقد بذل كلا الطالبين نفس الجهد للحصول على التذاكر، لكن أولئك الذين يمتلكون هذه التذاكر (المخصصة عشوائيًا) أعطوها قيمة أكبر بكثير.
+* المراهنون على الخيول الذين وضعوا رهاناتهم بالفعل (تكلفة غارقة، "امتلاك" نتيجة معينة) هم أكثر تفاؤلاً بشأن فرصهم في الفوز مقارنة بأولئك الذين ما زالوا في الطابور لوضع الرهانات.
+* معظم الناس لن يغادروا فيلمًا يكرهونه، لأن ذلك من شأنه "إهدار المال"، على الرغم من أنه لا يمكن استرداد الأموال ويمكنهم القيام بشيء أكثر متعة.
+* مجرد *لمس* عنصر ما في أحد المتاجر يجعلك [أكثر عرضة لشرائه](http://www.marginalrevolution.com/marginalrevolution/2009/01/dont-touch-when-you-are-shopping.html).
 
-It's one of those things so deeply ingrained that it's hard to change your gut reaction even when you're aware of the problem. But that's exactly why you have to be especially vigilant.
+إنها واحدة من تلك الأشياء المتأصلة بعمق لدرجة أنه من الصعب تغيير رد فعلك الغريزي حتى عندما تكون على دراية بالمشكلة. ولكن لهذا السبب بالضبط عليك أن تكون يقظًا بشكل خاص.
 
-**So where in my life of startups has this crept up and bit me?** And possibly you too?
+** إذن، أين تسلل هذا الأمر في حياتي مع الشركات الناشئة وعضني؟ ** وربما أنت أيضًا؟
 
-* You've created an awesome feature. It was hard to implement and you're proud of it. Problem is, it turns out your customers don't care about it, and it's starting to create confusion and cause bugs. It's hard to kill your pet feature, especially after all this effort, and after all customer XYZ agrees that it's super neat-o. But that effort is sunk whether or not it's the right fit for your product; [kill the feature](https://longform.asmartbear.com/good-problems-to-have/).
-* After hours of brainstorming, arguing, and banana daiquiris, you've finally come up with a clever, fun, catchy marketing slogan. Problem is, it doesn't quite fit the business. You don't want to "waste" this great concept; surely you can use it somehow, somewhere? No. As with all writing, you have to learn how to throw things out.
-* Your newest hire isn't working out. You did everything you could during the interview; they passed all the tests. Still, they're not a culture fit, they're not picking things up as fast as you'd like, and everyone else is having to pick up the slack, which they resent. But, you think, it was so much work finding them and we've put all this effort into training them; maybe they'll change? But they won't, and deep down you know that. You can't get that time back, and yes this is one of the most expensive mistakes you can make, but even worse is prolonging the inevitable. (It's bad for the employee too--they deserves a chance to find a job where they *can* be successful.)
-* You try a marketing effort and it doesn't work. That's OK, that's what [A/B tests](https://longform.asmartbear.com/ab-testing-statistics/) are for! So you test a pair, and the second one is a *little* better but not much. And then you iterate again, and again, and .... again .... When will you stop and realize that sometimes [incremental iteration isn't enough](https://longform.asmartbear.com/creativity-over-optimization/), and sometimes [repeated experimentation leads to false-positives](https://longform.asmartbear.com/p-hacking/)?
-* You're trying to land a 500-seat sale with a big-name company. The trial has taken 9 months. They keep finding reasons they can't buy--"deal-breaker" features they need, "critical" bugs they can't work around, budget allocations that never materialize. But that sale would mean so much, and besides you've already spent hundreds of hours with them and added all these special features so surely they'll buy from you eventually! But in my experience they often won't, or they'll buy just 10 seats so you can't claim they're "still trialing." All this is just an indicator that you don't have a good fit; this time-suck isn't going to vanish once they buy. Let it go. You need *profitable* customers, and [advocates](https://longform.asmartbear.com/customer-love/), not only mere customers.
-* You went to school for Biology, so clearly you have to have a career in Biology! Nevermind that you made that career choice when you were a teenager and hadn't really discovered who you were, what makes you happy, or where your talents lie. Your friends and family expect you to get a job as a lab rat and regale them with stories about diseased bovine spleens while everyone's eating meatloaf. Should you really throw away all that work and all those expectations to follow your true dream of becoming a caterer?
+* لقد قمت بإنشاء ميزة رائعة. لقد كان تنفيذه صعبًا وأنت فخور به. المشكلة هي أنه اتضح أن عملائك لا يهتمون بهذا الأمر، وبدأ في خلق الارتباك والتسبب في الأخطاء. من الصعب القضاء على ميزة حيوانك الأليف، خاصة بعد كل هذا الجهد، وبعد موافقة العميل XYZ على أنها رائعة للغاية. لكن هذا الجهد يضيع سواء كان مناسبًا لمنتجك أم لا؛ [اقتل الميزة](https://longform.asmartbear.com/good-problems-to-have/).
+* بعد ساعات من العصف الذهني والجدل والنقاش، توصلت أخيرًا إلى شعار تسويقي ذكي وممتع وجذاب. المشكلة هي أنها لا تناسب العمل تمامًا. أنت لا تريد أن "تضيع" هذا المفهوم الرائع؛ بالتأكيد يمكنك استخدامه بطريقة أو بأخرى، في مكان ما؟ لا، كما هو الحال مع كل الكتابة، عليك أن تتعلم كيفية التخلص من الأشياء.
+* أحدث موظف لديك لا يعمل. لقد فعلت كل ما بوسعك خلال المقابلة؛ لقد اجتازوا جميع الاختبارات. ومع ذلك، فهم لا يتناسبون مع الثقافة، ولا يلتقطون الأشياء بالسرعة التي تريدها، وعلى الجميع أن يتحملوا الركود، وهو ما يستاءون منه. لكن، كما تعتقد، كان العثور عليهم يتطلب الكثير من العمل، وقد بذلنا كل هذا الجهد في تدريبهم؛ ربما سوف يتغيرون؟ لكنهم لن يفعلوا ذلك، وأنت تعلم ذلك في أعماقك. لا يمكنك استعادة ذلك الوقت، ونعم هذا أحد أغلى الأخطاء التي يمكن أن ترتكبها، ولكن الأسوأ من ذلك هو إطالة أمد ما لا مفر منه. (إنه أمر سيء بالنسبة للموظف أيضًا - فهو يستحق فرصة للعثور على وظيفة يمكن أن يحقق فيها النجاح.)
+* لقد حاولت جهدًا تسويقيًا ولم ينجح. حسنًا، هذا هو الهدف من [اختبارات A/B](https://longform.asmartbear.com/ab-testing-statistics/)! لذلك قمت باختبار زوج، والثاني أفضل *قليلًا* ولكن ليس كثيرًا. ثم تكرر مرارًا وتكرارًا و... مرة أخرى .... متى ستتوقف وتدرك أنه في بعض الأحيان [التكرار المتزايد لا يكفي](https://longform.asmartbear.com/creativity-over-optimization/)، وأحيانًا [يؤدي التجريب المتكرر إلى نتائج إيجابية كاذبة](https://longform.asmartbear.com/p-hacking/)؟
+* أنت تحاول الحصول على بيع 500 مقعد مع شركة ذات اسم كبير. واستغرقت المحاكمة 9 أشهر. إنهم يستمرون في العثور على أسباب لعدم قدرتهم على الشراء - ميزات "كسر الصفقات" التي يحتاجون إليها، والأخطاء "الحرجة" التي لا يمكنهم التغلب عليها، ومخصصات الميزانية التي لا تتحقق أبدًا. لكن هذا البيع سيعني الكثير، وبالإضافة إلى أنك قضيت بالفعل مئات الساعات معهم وأضفت كل هذه الميزات الخاصة، فمن المؤكد أنهم سيشترون منك في النهاية! لكن حسب تجربتي، فإنهم غالبًا لا يفعلون ذلك، أو سيشترون 10 مقاعد فقط، لذا لا يمكنك الادعاء بأنهم "ما زالوا قيد التجربة". كل هذا مجرد مؤشر على أنك لا تتمتع باللياقة البدنية الجيدة؛ لن يختفي هذا الوقت الممتص بمجرد الشراء. دعها تذهب. أنت بحاجة إلى عملاء *مربحين* و[مؤيدين](https://longform.asmartbear.com/customer-love/)، وليس مجرد عملاء فقط.
+* لقد ذهبت إلى مدرسة علم الأحياء، لذا من الواضح أنه يجب أن يكون لديك مهنة في علم الأحياء! لا يهم أنك اتخذت هذا الاختيار الوظيفي عندما كنت مراهقًا ولم تكتشف حقًا من أنت، أو ما الذي يجعلك سعيدًا، أو أين تكمن مواهبك. يتوقع أصدقاؤك وعائلتك أن تحصل على وظيفة فأر مختبر وتسليهم بقصص عن طحال الأبقار المريضة بينما يأكل الجميع رغيف اللحم. هل يجب عليك حقًا التخلص من كل هذا العمل وكل تلك التوقعات لمتابعة حلمك الحقيقي في أن تصبح متعهدًا لتقديم الطعام؟
 
-It's perfectly natural to feel attached to your sunk costs. It sucks to acknowledge that you've wasted time, money, energy, and reputation.
+من الطبيعي تمامًا أن تشعر بالارتباط بتكاليفك الغارقة. من المؤلم أن تعترف بأنك أهدرت الوقت والمال والطاقة والسمعة.
 
-**But it's even worse to irrationally prolong the waste.**
+**ولكن الأسوأ من ذلك هو إطالة أمد الهدر بشكل غير عقلاني.**

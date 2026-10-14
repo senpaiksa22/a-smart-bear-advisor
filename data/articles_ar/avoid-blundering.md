@@ -20,283 +20,270 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** تجنب الحماقات والأخطاء القاتلة: 80% من استراتيجية الفوز تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Avoid blundering: 80% of a winning strategy
-
-> **Executive Summary:** Why do startups typically fail?  It turns out that "avoiding those things" is already a plan for success.
-> **Original URL:** [https://longform.asmartbear.com/avoid-blundering/](https://longform.asmartbear.com/avoid-blundering/)
-
 ![pooh way pas oh bother](https://public.asmartbear.com/books/anthology/chapters/avoid-blundering/d8781print-simple.png)
 
-You have been told:
+لقد قيل لك:
 
-1. Establish a vision.
-2. Set goals against the vision.
-3. Create actions that achieve the goals.
-4. Measure progress against the goals.
+1. إنشاء رؤية.
+2. تحديد الأهداف ضد الرؤية.
+3. إنشاء الإجراءات التي تحقق الأهداف.
+4. قياس التقدم مقابل الأهداف.
 
-I've told you that myself. It's [how you should plan work](https://longform.asmartbear.com/strategic-planning/).
+لقد قلت لك ذلك بنفسي. إنها [كيف يجب أن تخطط للعمل](https://longform.asmartbear.com/strategic-planning/).
 
-But... what if success is just as much about what _not_ to do, as what *to* do? What if intentional goals aren't the only way to succeed?
+ولكن... ماذا لو كان النجاح يدور حول ما لا يجب فعله، بقدر ما يتعلق بما يجب فعله؟ ماذا لو لم تكن الأهداف المتعمدة هي الطريقة الوحيدة للنجاح؟
 
-What if 80% of winning comes from: Not blundering.
+ماذا لو أن 80% من الفوز يأتي من: عدم الأخطاء الفادحة.
 
-## Not blundering your way to victory
+## لا تخطئ في طريقك إلى النصر
 
-Chess Grandmaster and chess-world-famous teacher / coach Ben Finegold has a simple explanation for who wins amateur chess games:
+لدى أستاذ الشطرنج الكبير ومعلم / مدرب الشطرنج المشهور عالميًا بن فينجولد شرح بسيط لمن يفوز في مباريات الشطرنج للهواة:
 
-> What most people say is: "That guy is better than that guy, so that guy won."  
->   
-> But that's *not* why that guy won. Normally the game is very close, and then someone blunders and now it's over.  
->   
-> If you look at it with a computer, it will say "no one's winning" and then "white's winning" and then "black's winning" and then "no one's winning again" and then someone blunders and they lose.  
->   
-> --Ben Finegold, [YouTube](https://youtu.be/EDgRR7SGf0M?si=aVoR9dcmmvd6zgbZ&t=282) _(with light editing)_
+> ما يقوله معظم الناس هو: "هذا الرجل أفضل من ذلك الرجل، لذلك فاز هذا الرجل".
+> 
+> ولكن هذا *ليس* سبب فوز ذلك الرجل. عادةً ما تكون اللعبة متقاربة جدًا، ثم يرتكب شخص ما أخطاء فادحة وتنتهي الآن.
+> 
+> إذا نظرت إليها باستخدام جهاز كمبيوتر، فسوف تقول "لا أحد يفوز" ثم "الأبيض يفوز" ثم "الأسود يفوز" ثم "لا أحد يفوز مرة أخرى" ثم يرتكب شخص ما أخطاء فادحة ويخسر.
+> 
+> --بن فينجولد، [يوتيوب](https://youtu.be/EDgRR7SGf0M?si=aVoR9dcmmvd6zgbZ&t=282) _(مع التحرير الخفيف)_
 
-Not strategy, not memorizing opening lines, not practicing your end-game technique, not studying the Great Games of History, not drilling with puzzles to get better at tactics, ... just *blundering*. Yes, _good_ chess players need to do all that stuff, but we scrubs just need to "not blunder."
+ليس الإستراتيجية، ولا حفظ الخطوط الافتتاحية، ولا ممارسة أسلوبك في نهاية اللعبة، ولا دراسة الألعاب التاريخية العظيمة، ولا الحفر باستخدام الألغاز لتحسين التكتيكات، ... فقط *الخطأ الفادح*. نعم، يحتاج لاعبو الشطرنج الجيدون إلى القيام بكل هذه الأشياء، لكننا نحتاج فقط إلى "عدم ارتكاب الأخطاء".
 
-Is this true for me? I'm a decidedly mediocre chess player, despite countless hours of videos, puzzles, courses, and playing. Are the outcomes of my games dictated by blunders, like Ben says?
+هل هذا صحيح بالنسبة لي؟ أنا بالتأكيد لاعب شطرنج متوسط ​​المستوى، على الرغم من ساعات لا حصر لها من مقاطع الفيديو والألغاز والدورات التدريبية واللعب. هل نتائج ألعابي تمليها الأخطاء الفادحة، كما يقول بن؟
 
-Fortunately, I have perfect data. I have hundreds of games with people who are of similar strength.[^1] Chess.com creates an analysis of every game, including the number of blunders, mistakes, and inaccuracies[^2] made by each player (Figure 1).
+ولحسن الحظ، لدي بيانات مثالية. لقد خضت مئات المباريات مع أشخاص يتمتعون بنفس القوة.[^1] يقوم موقع Chess.com بإنشاء تحليل لكل لعبة، بما في ذلك عدد الأخطاء الفادحة والأخطاء وعدم الدقة[^2] التي ارتكبها كل لاعب (الشكل 1).
 
-[^1]: As evidenced by an even win/loss record and a similar rating.
+[^1]: كما يتضح من سجل الفوز/الخسارة المتساوي والتقييم المماثل.
 
-[^2]: The definition of these terms is not important here; suffice to say they're in decreasing order of "how terrible that move was," and the analysis is consistent and sensible across all games.
+[^2]: تعريف هذه المصطلحات ليس مهمًا هنا؛ يكفي أن نقول إنهم بترتيب تنازلي من حيث "مدى فظاعة تلك الخطوة"، والتحليل متسق ومعقول في جميع الألعاب.
 
 ![I won, thanks to four blunders by my opponent. We both suck at chess. As Ben says: The truth hurts.](https://public.asmartbear.com/books/anthology/chapters/avoid-blundering/image-2-simple.png)
 
-I checked my last twenty decisive games. I won exactly 50%, which is further evidence that the players were of equal skill, and that the analysis includes both wins and losses.
+لقد راجعت آخر عشرين مباراة حاسمة لي. لقد فزت بنسبة 50% بالضبط، وهذا دليل آخر على أن اللاعبين كانوا متساويين في المهارة، وأن التحليل يشمل الانتصارات والخسائر.
 
-Theoretically, the best estimator of "who will win" is whichever player has a higher Elo rating.[^3] In these games, the player with the higher Elo won 55% of the time--barely more predictive than a coin flip. This makes sense, because the players were close in Elo,[^4] which means the players are of equivalent strength, so each ought to win half the time.
+من الناحية النظرية، أفضل مُقدِّر لـ "من سيفوز" هو اللاعب الذي حصل على تصنيف Elo الأعلى.[^3] في هذه الألعاب، فاز اللاعب الحاصل على تصنيف Elo الأعلى بنسبة 55% من الوقت--بالكاد أكثر تنبؤًا من رمي العملة المعدنية. هذا منطقي، لأن اللاعبين كانوا متقاربين في Elo،[^4] مما يعني أن اللاعبين يتمتعون بنفس القوة، لذلك يجب أن يفوز كل منهم في نصف الوقت.
 
-[^3]:  [Elo rating](https://en.wikipedia.org/wiki/Elo_rating_system) is an objective rating system used by all chess players for the past fifty years. It shifts after every game, calculated by which player was higher rated, and by how much, and the result of the game: win, loss, or draw. So, a higher-rated player who beats a much lower-rated player results in a minuscule change in Elo, because that was the expected result, whereas a much lower-rated player who just draws a higher-rated player will gain significant Elo.
+[^3]: [تصنيف Elo](https://en.wikipedia.org/wiki/Elo_rated_system) هو نظام تقييم موضوعي يستخدمه جميع لاعبي الشطرنج على مدار الخمسين عامًا الماضية. إنه يتغير بعد كل مباراة، ويتم حسابه من خلال اللاعب الذي حصل على تقييم أعلى، وبأي قدر، ونتيجة اللعبة: الفوز أو الخسارة أو التعادل. لذا، فإن اللاعب ذو التقييم الأعلى الذي يتغلب على لاعب ذي تقييم أقل بكثير يؤدي إلى تغيير طفيف في Elo، لأن هذه كانت النتيجة المتوقعة، في حين أن اللاعب ذو التقييم الأقل بكثير الذي يجذب لاعبًا ذو تقييم أعلى فقط سيحصل على Elo كبير.
 
-[^4]: Games had an average difference of 74 Elo points out of around 1100.
+[^4]: كان متوسط ​​الفرق في الألعاب 74 نقطة إيلو من حوالي 1100.
 
-In my games, the player who committed more blunders lost 86% of the time. Ben is right!
+في ألعابي، اللاعب الذي ارتكب المزيد من الأخطاء الفادحة خسر 86% من الوقت. بن على حق!
 
-However, in 40% of the games both players had an equal number of blunders. So I also included "mistakes"--the next-worst kind of error. I computed a simple "error score" that includes mistakes while giving blunders more weight:
+ومع ذلك، في 40% من المباريات، ارتكب كلا اللاعبين عددًا متساويًا من الأخطاء الفادحة. لذلك قمت أيضًا بتضمين "الأخطاء" - ثاني أسوأ أنواع الأخطاء. لقد قمت بحساب "درجة خطأ" بسيطة تتضمن أخطاء مع إعطاء الأخطاء الفادحة وزنًا أكبر:
 
-`[number of mistakes] +` <br/> `2 ✕ [number of blunders]`
+`[عدد الأخطاء] +` <br/> `2 ✕ [عدد الأخطاء الفادحة]`
 
-Now almost all the games received a decisive prediction, and the player with the higher error score lost 81% of the time.
+الآن تلقت جميع الألعاب تقريبًا تنبؤًا حاسمًا، وخسر اللاعب ذو درجة الخطأ الأعلى 81٪ من الوقت.
 
-To win at chess, blunder less.
+للفوز في لعبة الشطرنج، عليك أن ترتكب أخطاء أقل.
 
-This is true across many sports. In [a wonderful article](https://fs.blog/avoiding-stupidity/), Shane Parrish recounts Simon Ramo's analysis of amateur[^5] tennis games, in which he found that 80% of the points were *lost* rather than *won*. Meaning, 80% of the points were awarded to player P because player Q made an error such as hitting the ball out of bounds, or into the net, or double-faulting. Only 20% of the points were "won," such as a powerful return that landed out of reach of the other player.
+وهذا صحيح في العديد من الألعاب الرياضية. في [مقالة رائعة](https://fs.blog/avoiding-stupidity/)، يروي شين باريش تحليل سايمون رامو لألعاب التنس للهواة[^5]، والذي وجد فيه أن 80% من النقاط كانت *تُفقد* بدلاً من *تُربح*. بمعنى أنه تم منح 80% من النقاط للاعب P لأن اللاعب Q ارتكب خطأ مثل ضرب الكرة خارج الحدود أو داخل الشبكة أو ارتكاب خطأ مزدوج. تم "الفوز" بـ 20% فقط من النقاط، مثل العودة القوية التي سقطت بعيدًا عن متناول اللاعب الآخر.
 
-[^5]: This observation applies only to amateur tennis. In professional tennis it's just the opposite: 80% of the rallies are _won_ rather than _lost_, as unforced errors are infrequent. This is true in chess as well, as high-level players don't blunder, and thus it really is that litany of other skills that results in high standings.
+[^5]: تنطبق هذه الملاحظة على رياضة التنس للهواة فقط. في التنس الاحترافي، يكون الأمر على العكس تمامًا: 80% من اللقاءات يتم الفوز بها بدلاً من الخسارة، حيث أن الأخطاء السهلة نادرة الحدوث. وينطبق هذا على لعبة الشطرنج أيضًا، حيث أن اللاعبين ذوي المستوى العالي لا يرتكبون أخطاء فادحة، وبالتالي فإن سلسلة المهارات الأخرى هي التي تؤدي إلى تصنيفات عالية.
 
-Ramo concludes the same thing that I concluded about chess, even invoking the word "blunder":
+ويختتم رامو نفس الشيء الذي استنتجته بشأن الشطرنج، حتى أنه استشهد بكلمة "خطأ فادح":
 
-> ... if you choose to win at tennis--as opposed to having a good time--the strategy for winning is to avoid mistakes. The way to avoid mistakes is to be conservative and keep the ball in play, letting the other player have plenty of room in which to blunder his way to defeat, because, being an amateur, they will play a losing game and not know it.
+> ... إذا اخترت الفوز في لعبة التنس - بدلاً من قضاء وقت ممتع - فإن استراتيجية الفوز هي تجنب الأخطاء. الطريقة لتجنب الأخطاء هي أن تكون متحفظًا وأن تبقي الكرة في اللعب، مما يسمح للاعب الآخر بالحصول على مساحة كبيرة ليخطئ في طريقه إلى الهزيمة، لأنهم، لكونهم هواة، سيلعبون مباراة خاسرة ولا يعرفون ذلك.
 
-Could the same rule be true of other complex systems, like startups? My amateur chess games were 80% determined by blundering, and Ramo's amateur tennis points were 80% determined by blundering.
+هل يمكن أن تنطبق القاعدة نفسها على الأنظمة المعقدة الأخرى، مثل الشركات الناشئة؟ تم تحديد مباريات الشطرنج الخاصة بي للهواة بنسبة 80% عن طريق الخطأ، وتم تحديد نقاط رامو للهواة في التنس بنسبة 80% عن طريق الخطأ.
 
-Could "not blundering" be 80% of winning?
+هل يمكن أن يكون "عدم التخبط" 80% من الفوز؟
 
-## Blundering in startups
+## التخبط في الشركات الناشئة
 
-It's common to say "startups die because they ran out of money" or "startups die because the founders gave up." But that's like saying someone died because their heart stopped, without mentioning that they were battling lung cancer. Doctors call "heart stopped" the "proximate cause"--the last thing that happened--as distinguished from the underlying cause.
+من الشائع أن نقول "الشركات الناشئة تموت بسبب نفاد أموالها" أو "الشركات الناشئة تموت لأن المؤسسين استسلموا". ولكن هذا مثل القول بأن شخصًا ما مات بسبب توقف قلبه، دون الإشارة إلى أنه كان يعاني من سرطان الرئة. يطلق الأطباء على "توقف القلب" اسم "السبب المباشر" - وهو آخر شيء حدث - تمييزًا له عن السبب الأساسي.
 
-We need to identify the cancer, not just say "the founder stopped." Otherwise, the advice for how-not-to-blunder would be "never stop." But ["never stop" is not helpful, and indeed not correct](https://longform.asmartbear.com/perseverance/).
+نحن بحاجة إلى التعرف على السرطان، وليس مجرد القول "توقف المؤسس". وإلا فإن النصيحة حول كيفية عدم ارتكاب الأخطاء ستكون "لا تتوقف أبدًا". لكن ["لا تتوقف أبدًا"" ليست مفيدة، وليست صحيحة حقًا](https://longform.asmartbear.com/perseverance/).
 
-But it's not [turtles all the way down](https://en.wikipedia.org/wiki/Turtles_all_the_way_down). We mustn't dig too deep, as tempting as "[5 Why's](https://en.wikipedia.org/wiki/Five_whys)" might be. Maybe they got cancer because they smoked a pack of cigarettes every day, so "smoking" is the cause. Maybe they started smoking to fit in with a crowd, but "wanting to fit in with the crowd" was not the cause of death, and it would be incorrect to conclude that "fitting in with the crowd is unhealthy." (Though sloughing off that activity might help you [avoid unhappiness](https://longform.asmartbear.com/fulfillment/).)
+ولكنها ليست [السلاحف على طول الطريق](https://en.wikipedia.org/wiki/Turtles_all_the_way_down). يجب ألا نتعمق أكثر من اللازم، لأنه قد يكون من المغري "[5 لماذا](https://en.wikipedia.org/wiki/Five_whys)". ربما أصيبوا بالسرطان لأنهم يدخنون علبة سجائر كل يوم، لذا فإن "التدخين" هو السبب. ربما بدأوا بالتدخين للتأقلم مع الجمهور، لكن "الرغبة في الاندماج مع الجمهور" لم تكن سبب الوفاة، وسيكون من غير الصحيح استنتاج أن "الانسجام مع الجمهور أمر غير صحي". (على الرغم من أن التخلص من هذا النشاط قد يساعدك على [تجنب التعاسة](https://longform.asmartbear.com/fulfillment/).)
 
-So we need to identify the blunders which aren't merely proximate, but aren't so distant that they are irrelevant.
+لذلك نحن بحاجة إلى تحديد الأخطاء الفادحة التي ليست مباشرة فحسب، ولكنها ليست بعيدة جدًا بحيث لا تكون ذات صلة.
 
-There are many sources that claim to finally explain why startups fail. I've provided a raw list at the end of this article. I've deduplicated and rearranged those into the lists below, and added a heavy dose of my own opinions.
+هناك العديد من المصادر التي تدعي أنها تشرح أخيرًا سبب فشل الشركات الناشئة. لقد قدمت قائمة أولية في نهاية هذه المقالة. لقد قمت بإلغاء تكرارها وإعادة ترتيبها في القوائم أدناه، وأضفت جرعة كبيرة من آرائي الخاصة.
 
-### Proximate causes
+### الأسباب القريبة
 
-First, let's dispense with the proximate causes, as these are not real reasons, and we should neither repeat nor analyze them:
+أولاً: لنستغني عن الأسباب القريبة، فهي ليست أسباباً حقيقية، ولا ينبغي لنا أن نكررها أو نحللها:
 
-1. **Ran out of cash.** <br/> _(A consequence of failure, not a cause. Unless you over-spent with no plausible way to recover it with revenue.)_
-2. **Pivot gone bad.** <br/> _(the reason you pivoted is because it was already failing)_
-3. **Founder stopped.** <br/> _(As opposed to what?)_
-4. **Didn't find [Product Market Fit (PMF)](https://longform.asmartbear.com/product-market-fit/).** <br/> *(a restatement of "it didn't work")*
+1. **نفاد الأموال النقدية.** <br/> _(نتيجة للفشل، وليس سببًا. إلا إذا أفرطت في الإنفاق دون أي طريقة معقولة لاسترداد الأموال من الإيرادات.)_
+2. **المحور أصبح سيئًا.** <br/> _(سبب دورانك هو أنه كان فاشلًا بالفعل)_
+3. **توقف المؤسس.** <br/> _(مقابل ماذا؟)_
+4. **لم يتم العثور على [Product Market Fit (PMF)](https://longform.asmartbear.com/product-market-fit/).** <br/> *(إعادة صياغة عبارة "لم ينجح الأمر")*
 
-### Bad luck
+### سوء الحظ
 
-Perhaps there was nothing you could have done to predict or prevent the failure. That makes it no less real, but perhaps there's nothing to learn from it, or to do differently next time:
+ربما لم يكن بإمكانك فعل أي شيء للتنبؤ بالفشل أو منعه. هذا لا يجعل الأمر أقل واقعية، ولكن ربما لا يوجد شيء يمكن تعلمه منه، أو القيام به بشكل مختلف في المرة القادمة:
 
-1. **Sudden, dramatic shift in the economy.** <br/> _(If COVID bankrupted the movie theater, there's no "strategy" they should have already had in place to prevent it.)_
-2. **Surprise co-founder break-up.** <br/> _(Some of these are preventable--see below--but if someone falls ill, or breaks a promise, or bails, or commits fraud, it's unclear what should have been done differently.)_
-3. **Known Brittle Point** <br/> [Brittle Points](https://longform.asmartbear.com/brittle-points/) are single-points-of-failure in the business. All new businesses have them; it takes time and investment to address them. This is not a blunder, but a known risk. Sometimes, "known risks" get triggered.
+1. **تحول مفاجئ ومثير في الاقتصاد.** <br/> _(إذا أدى فيروس كورونا إلى إفلاس دور السينما، فلا توجد "استراتيجية" كان يجب أن تكون موجودة بالفعل لمنع ذلك.)_
+2. **انفصال مفاجئ للمؤسس المشارك.** <br/> _(بعض هذه الأمور يمكن الوقاية منها - انظر أدناه - ولكن إذا مرض شخص ما، أو نكث بوعده، أو أفرج عنه بكفالة، أو ارتكب عملية احتيال، فمن غير الواضح ما الذي كان ينبغي فعله بشكل مختلف.)_
+3. **النقاط الهشة المعروفة** <br/> [النقاط الهشة](https://longform.asmartbear.com/brittle-points/) هي نقاط فشل فردية في العمل. جميع الشركات الجديدة تمتلكها؛ يستغرق الأمر وقتًا واستثمارًا لمعالجتها. وهذا ليس خطأً فادحًا، ولكنه خطر معروف. في بعض الأحيان، يتم إثارة "المخاطر المعروفة".
 
-### What _doesn't_ kill startups
+### ما الذي لا يقتل الشركات الناشئة؟
 
-Equally interesting are things that appear on these lists, but I don't agree that it's a blunder.
+ومن المثير للاهتمام أيضًا الأشياء التي تظهر في هذه القوائم، لكنني لا أوافق على أن هذا خطأ فادح.
 
-1. **Bad idea.** <br/> _(We're repeatedly told that all [great ideas start out looking like bad ideas](https://longform.asmartbear.com/chaos-at-start/),[^6] so "having an apparently-bad idea" cannot be a blunder by itself. It's not the initial idea, it's in [finding the market and in the execution](https://longform.asmartbear.com/product-market-fit-formula/), iterating the idea into a working business.)_
-2. **Can't make the product.** <br/> _(While this can happen, typically the founders know how to build things; indeed, building the product while ignoring all other aspects of building the business, is often the problem. [AI is an exception](https://longform.asmartbear.com/ai-startups/); most AI products don't work well enough to succeed.)_
-3. **The number of co-founders.** <br/> _(It's easy to find examples of successful startups with one or multiple founders, and equally easy to find failures. It's easy to find failures specifically due to having just one founder, or due to or having multiple. Even the great Paul Graham says [in a single essay](https://www.paulgraham.com/startupmistakes.html) that a major cause of startup failure is "Single Founder" and later "Fights Between Founders." I personally believe that 3 founders is a warning flag and ≥4 founders is a bright red flag, but it's common for some of those founders to bleed off anyway (which is also why it's a red flag). It's more important that the quantity of founders matches the style and personality of the founders.)_
-4. **Location.** <br/> _(This is still a valid reason for startups that intend to scale and become Unicorns, because those startups will need to hire many people, in all departments, with experience in those environments, quickly, and that's much harder to do in a location (including "distributed") where the talent doesn't already exist. This is also true of raising money. However this is becoming less true every year, and it's irrelevant if the startup doesn't have that goal.)_
+1. **فكرة سيئة.** <br/> _(لقد قيل لنا مرارًا وتكرارًا أن جميع [الأفكار العظيمة تبدأ في الظهور كأفكار سيئة](https://longform.asmartbear.com/chaos-at-start/)،[^6] لذا فإن "الحصول على فكرة سيئة ظاهريًا" لا يمكن أن يكون خطأً فادحًا في حد ذاته. إنها ليست الفكرة الأولية، بل تكمن في [العثور على السوق وفي التنفيذ](https://longform.asmartbear.com/product-market-fit-formula/)، وتكرار الفكرة وتحويلها إلى عمل تجاري ناجح.)_
+2. **لا يمكن صنع المنتج.** <br/> _(على الرغم من إمكانية حدوث ذلك، عادةً ما يعرف المؤسسون كيفية بناء الأشياء؛ وفي الواقع، غالبًا ما يكون بناء المنتج مع تجاهل جميع الجوانب الأخرى لبناء النشاط التجاري هو المشكلة. [الذكاء الاصطناعي هو استثناء](https://longform.asmartbear.com/ai-startups/)؛ معظم منتجات الذكاء الاصطناعي لا تعمل بشكل جيد بما يكفي لتحقيق النجاح.)_
+3. **عدد المؤسسين المشاركين.** <br/> _(من السهل العثور على أمثلة للشركات الناشئة الناجحة التي تضم مؤسسًا واحدًا أو عدة مؤسسين، ومن السهل أيضًا العثور على حالات الفشل على وجه التحديد بسبب وجود مؤسس واحد فقط، أو بسبب وجود عدة مؤسسين أو وجود عدة مؤسسين. حتى بول جراهام العظيم يقول [في مقال واحد](https://www.paulgraham.com/startupmistakes.html) إن السبب الرئيسي لفشل الشركات الناشئة هو "المؤسس الفردي" وما يليه "المعارك بين المؤسسين." أنا شخصياً أعتقد أن وجود 3 مؤسسين يمثل علامة تحذير وأن ≥4 مؤسسين يمثل علامة حمراء ساطعة، ولكن من الشائع أن ينزف بعض هؤلاء المؤسسين على أي حال (وهذا أيضًا سبب كونها علامة حمراء). ومن المهم أن يتطابق عدد المؤسسين مع أسلوب المؤسسين وشخصيتهم.
+4. **الموقع.** <br/> _(لا يزال هذا سببًا وجيهًا للشركات الناشئة التي تنوي التوسع والتحول إلى شركات يونيكورن، لأن تلك الشركات الناشئة ستحتاج إلى توظيف العديد من الأشخاص، في جميع الأقسام، من ذوي الخبرة في تلك البيئات، بسرعة، وهذا أصعب بكثير للقيام به في موقع (بما في ذلك "الموزعة") حيث لا توجد المواهب بالفعل. وينطبق هذا أيضًا على جمع الأموال. ومع ذلك، يصبح هذا أقل صحة كل عام، ولا يهم إذا لم يكن لدى الشركة الناشئة هذا الهدف.)_
 
-[^6]: Originally attributed to Steven Spielberg. [Attributed to Paul Graham](https://paulgraham.com/swan.html) in the context of startups. I've also [given many examples](https://longform.asmartbear.com/predict-the-future/) along with how to build a strategy around it.
+[^6]: يُنسب في الأصل إلى ستيفن سبيلبرج. [منسوب إلى بول جراهام](https://paulgraham.com/swan.html) في سياق الشركات الناشئة. لقد قمت أيضًا [بتقديم العديد من الأمثلة](https://longform.asmartbear.com/predict-the-future/) بالإضافة إلى كيفية بناء استراتيجية حول هذا الموضوع.
 
-## Preventable blunders
+## الأخطاء التي يمكن الوقاية منها
 
-Self-inflicted blunders are preventable, or at least one can dramatically reduce the risk of occurrence. So, if you don't, that's on you.
+يمكن تجنب الأخطاء الفادحة التي يرتكبها الشخص بنفسه، أو على الأقل يمكن أن يقلل خطأ واحد منها بشكل كبير من خطر حدوثها. لذا، إذا لم تقم بذلك، فهذا عليك.
 
-#### Didn't talk to customers (and listen)
-If you didn't talk to customers before you started, and especially after you started, that's a blunder. If you talked to them and weren't honest with yourself about what they were saying, that's your faulty analysis. You should have used the [Iterative Hypothesis Method](https://longform.asmartbear.com/customer-development/) or some other reputable framework.
+#### لم أتحدث مع العملاء (واستمع)
+إذا لم تتحدث مع العملاء قبل أن تبدأ، وخاصة بعد أن تبدأ، فهذا خطأ فادح. إذا تحدثت معهم ولم تكن صادقًا مع نفسك بشأن ما يقولونه، فهذا تحليلك الخاطئ. كان ينبغي عليك استخدام [طريقة الفرضية التكرارية](https://longform.asmartbear.com/customer-development/) أو أي إطار عمل آخر حسن السمعة.
 
-#### No market need / Bad market
-If the market was small and stagnant or shrinking, you already knew that. If there weren't enough people who needed the product, you could have known that. If they don't agree they have the problem, or that it's worth money to solve, you could have known that. If they don't have the budget or don't accept the price, you could have known that. If they're happy with what they have, you could have known that. The checklist of [things that make for a good market](https://longform.asmartbear.com/problem/) is well-known; you don't have an excuse for not finding out before spending six months writing code.
+#### لا حاجة للسوق / سوق سيئة
+إذا كان السوق صغيرًا وراكدًا أو متقلصًا، فأنت تعلم ذلك بالفعل. إذا لم يكن هناك عدد كاف من الأشخاص الذين يحتاجون إلى المنتج، كان من الممكن أن تعرف ذلك. إذا لم يتفقوا على أن لديهم المشكلة، أو أن حلها يستحق المال، كان من الممكن أن تعرف ذلك. إذا لم يكن لديهم الميزانية أو لم يقبلوا السعر، كان من الممكن أن تعرف ذلك. إذا كانوا سعداء بما لديهم، كان من الممكن أن تعرف ذلك. القائمة المرجعية لـ [الأشياء التي تصنع سوقًا جيدًا](https://longform.asmartbear.com/problem/) معروفة جيدًا؛ ليس لديك عذر لعدم اكتشاف الأمر قبل قضاء ستة أشهر في كتابة التعليمات البرمجية.
 
-> "There's just one mistake that kills startups: not making something users want. If you make something users want, you'll probably be fine, whatever else you do or don't do."  
-> --[Paul Graham](https://www.paulgraham.com/startupmistakes.html)
+> "هناك خطأ واحد فقط يقتل الشركات الناشئة: عدم صنع شيء يريده المستخدمون. إذا صنعت شيئًا يريده المستخدمون، فمن المحتمل أن تكون على ما يرام، مهما كان ما تفعله أو لا تفعله."
+> --[بول جراهام](https://www.paulgraham.com/startupmistakes.html)
 
-#### Did not select a target audience, and clearly communicate the value proposition to them
-Speaking to everyone means speaking to no one. Speaking to everyone is a blunder; it's laziness or fear of deciding who this product is for. This determines the language on your home page, in your advertisements, in your sales calls, inside your product. Especially now, with AI, there's no excuse for not distilling what is special and vital about you, into language that your target audience can understand. You must [sell to Carol, your ICP](https://longform.asmartbear.com/icp-ideal-customer-persona/), which also means knowing exactly who Carol is.
+#### لم تقم باختيار الجمهور المستهدف، وقم بتوصيل عرض القيمة لهم بوضوح
+التحدث إلى الجميع يعني التحدث إلى لا أحد. التحدث إلى الجميع هو خطأ فادح. إنه الكسل أو الخوف من تحديد من هو هذا المنتج. وهذا يحدد اللغة الموجودة على صفحتك الرئيسية، وفي إعلاناتك، وفي مكالمات المبيعات، وداخل منتجك. الآن، على وجه الخصوص، مع الذكاء الاصطناعي، ليس هناك عذر لعدم استخلاص ما هو مميز وحيوي فيك، في لغة يمكن لجمهورك المستهدف فهمها. يجب عليك [البيع إلى Carol، برنامج المقارنات الدولية الخاص بك](https://longform.asmartbear.com/icp-ideal-customer-persona/)، وهو ما يعني أيضًا معرفة من هي كارول بالضبط.
 
-#### Too many things had to go right
-All startups have risks, and have potentially fatally large gaps with a high risk of not being solved. But some have too many gaps--too many things to go right simultaneously. If you have nearly all the requisite skills, if nearly all the objections customers have are addressed, if the market is healthy, if there are many possible distribution channels, if there are many possible niches, if more and more money is being spent in the market, then you should take a risk on the remaining gaps. But if all of those things are uncertain or are gaps that you know you'll need some luck to overcome, then the probability that _all_ of those things will break your way is near-zero, and you already knew that when you started. Your path [should consist of "or's," not "and's."](https://longform.asmartbear.com/capturing-luck/), so you can satisfy the [Startup Drake Equation](https://longform.asmartbear.com/startup-drake-equation/).
+#### كان يجب أن تسير أشياء كثيرة بشكل صحيح
+تواجه جميع الشركات الناشئة مخاطر، ولديها فجوات كبيرة محتملة مع وجود خطر كبير لعدم حلها. لكن بعضها به فجوات كثيرة جدًا، وأشياء كثيرة جدًا لا يمكن تصحيحها في وقت واحد. إذا كانت لديك جميع المهارات المطلوبة تقريبًا، وإذا تمت معالجة جميع اعتراضات العملاء تقريبًا، وإذا كان السوق سليمًا، وإذا كان هناك العديد من قنوات التوزيع المحتملة، وإذا كان هناك العديد من المنافذ الممكنة، وإذا تم إنفاق المزيد والمزيد من الأموال في السوق، فيجب عليك المخاطرة بالفجوات المتبقية. ولكن إذا كانت كل هذه الأشياء غير مؤكدة أو عبارة عن فجوات تعلم أنك ستحتاج إلى بعض الحظ للتغلب عليها، فإن احتمالية أن تكسر كل هذه الأشياء طريقك يقترب من الصفر، وكنت تعرف ذلك بالفعل عندما بدأت. مسارك [يجب أن يتكون من "أو" وليس "و."](https://longform.asmartbear.com/capturing-luck/)، حتى تتمكن من استيفاء [معادلة Startup Drake](https://longform.asmartbear.com/startup-drake-equation/).
 
 ![serendipity is up fluke doing well concerned about dumb luck](https://public.asmartbear.com/books/anthology/chapters/avoid-blundering/d7231print-simple.png)
 
-#### Founders / investors broke up
-This can be bad luck, but you do pick your co-founders, and either you've known them for a while (in which case you made a poor selection) or you didn't (in which case you made a rash decision). One reason why "break up" kills startups is that the departing founder left holding a huge amount of stock; the reason for _that_ is there wasn't a vesting schedule for all founders. That is a blunder. In any case, the team did it to itself--it wasn't a competitor, or the economy, or the customers.
+#### انفصل المؤسسون / المستثمرون
+قد يكون هذا حظًا سيئًا، لكنك تختار المؤسسين المشاركين، وإما أنك تعرفهم لفترة من الوقت (وفي هذه الحالة يكون اختيارك سيئًا) أو أنك لا تعرفهم (وفي هذه الحالة تكون قد اتخذت قرارًا متسرعًا). أحد الأسباب التي تجعل "التفكيك" يقتل الشركات الناشئة هو أن المؤسس المغادر ترك كمية كبيرة من الأسهم؛ والسبب في ذلك هو عدم وجود جدول استحقاق لجميع المؤسسين. وهذا خطأ فادح. على أية حال، لقد فعل الفريق ذلك بنفسه، ولم يكن منافسًا، أو الاقتصاد، أو العملاء.
 
-#### Had no differentiation in the market
-This blunder is obvious from day one, when you had no idea why you were special, why the product is special, why someone should buy from you instead of someone else, why you're the right person to build this company, why you will succeed in a space where many others have failed before. There are so many [kinds of leverage](https://longform.asmartbear.com/leverage/) you could have used, and you chose none of them.
+#### ولم يكن هناك تمايز في السوق
+هذا الخطأ الفادح واضح منذ اليوم الأول، عندما لم تكن لديك أي فكرة عن سبب كونك مميزًا، ولماذا المنتج مميز، ولماذا يجب على شخص ما أن يشتري منك بدلاً من شخص آخر، ولماذا أنت الشخص المناسب لبناء هذه الشركة، ولماذا ستنجح في مجال فشل فيه كثيرون آخرون من قبل. هناك العديد من [أنواع الرافعة المالية](https://longform.asmartbear.com/leverage/) التي كان من الممكن أن تستخدمها، ولم تختر أيًا منها.
 
-> "Tolstoy opens Anna Karenina by observing: 'All happy families are alike; each unhappy family is unhappy in its own way.' Business is the opposite. All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition."  
-> Peter Thiel, [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
+> "يفتتح تولستوي رواية "آنا كارنينا" بملاحظة: "كل العائلات السعيدة متشابهة؛ وكل عائلة غير سعيدة هي تعيسة بطريقتها الخاصة". الأعمال هي عكس ذلك. تختلف جميع الشركات السعيدة عن الأخرى: فكل واحدة منها تكتسب الاحتكار من خلال حل مشكلة فريدة من نوعها. جميع الشركات الفاشلة هي نفسها: لقد فشلت في الهروب من المنافسة".
+> بيتر ثيل، [من صفر إلى واحد](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 
-#### Refused to seek the truth / refused to see the truth / refused to learn
-We all have to force ourselves to see the truth, because the truth hurts. The truth is that our ideas weren't right, our insight isn't shared by customers, our awesome design is confusing, our potential customers love that competitor we've been calling "dumb," that thing we say is "broken" is not in fact broken, the pain we insist our customers are experiencing, they're not experiencing. [Did you even ask?](https://longform.asmartbear.com/customer-development/) If you asked, [were you listening](https://longform.asmartbear.com/good-startup-ideas/)? If you haven't made major changes to your strategy and product and positioning, then you're blundering. Seek the truth, then [face the truth](https://longform.asmartbear.com/failure-to-face-the-truth/).
+#### رفض البحث عن الحقيقة / رفض رؤية الحقيقة / رفض التعلم
+علينا جميعا أن نجبر أنفسنا على رؤية الحقيقة، لأن الحقيقة مؤلمة. الحقيقة هي أن أفكارنا لم تكن صحيحة، ورؤيتنا لا يشاركها العملاء، وتصميمنا الرائع مربك، وعملاؤنا المحتملون يحبون ذلك المنافس الذي كنا نطلق عليه اسم "الغبي"، وهذا الشيء الذي نقول عنه "مكسور" ليس في الواقع مكسورًا، والألم الذي نصر على أن عملائنا يعانون منه، لا يعانون منه. [هل سألت حتى؟](https://longform.asmartbear.com/customer-development/) إذا سألت، [هل كنت تستمع](https://longform.asmartbear.com/good-startup-ideas/)؟ إذا لم تقم بإجراء تغييرات كبيرة على استراتيجيتك ومنتجك وموقعك، فأنت مخطئ. ابحث عن الحقيقة ثم [واجه الحقيقة](https://longform.asmartbear.com/failure-to-face-the-truth/).
 
-#### Launching too early / Launching too late
-It's funny that both of these are causes of failure. It's a preventable blunder to launch with a [crappy MVP instead of a simple but lovable v1](https://longform.asmartbear.com/slc/). And because builders love only the building, they build for six months (or two years) without customers. Shipping crap, and never shipping, are both blunders. (P.S. Also, don't "launch." No one cares except your friends, and you're going to have to reliably and consistently get customers for the next three years anyway, so just work on that.)
+#### الإطلاق مبكر جدًا / الإطلاق متأخر جدًا
+ومن المضحك أن كلا الأمرين سببان للفشل. إنه خطأ فادح يمكن تجنبه أن يتم إطلاقه باستخدام [MVP سيئ بدلاً من الإصدار 1 البسيط ولكن المحبوب](https://longform.asmartbear.com/slc/). ولأن البنائين يحبون المبنى فقط، فإنهم يبنون لمدة ستة أشهر (أو عامين) دون عملاء. يعتبر حماقة الشحن، وعدم الشحن أبدًا، من الأخطاء الفادحة. (ملاحظة: أيضًا، لا "تطلق". لا أحد يهتم باستثناء أصدقائك، وسيتعين عليك الحصول على عملاء بشكل موثوق ومستمر على مدار السنوات الثلاث القادمة على أي حال، لذا اعمل على ذلك فقط.)
 
 ![no end of november bad for me](https://public.asmartbear.com/books/anthology/chapters/avoid-blundering/d4206print-simple.png)
 
-#### Premature scaling
-Before Product/Market Fit, the job is to discover what works. What customers [will actually pay for](https://longform.asmartbear.com/willingness-to-pay/) (and keep paying for a year later), what is the [perfect, target customer](https://longform.asmartbear.com/icp-ideal-customer-persona/) and [what do they want](https://longform.asmartbear.com/needs-stack/), how do you reach them through marketing and close them through sales (whether self-sold or human-sold), what you should charge and how. Many founders either don't know [what Product/Market Fit looks like](https://longform.asmartbear.com/product-market-fit/), or don't want to know, because they want to declare "I have it!" because it feels good to say and garners hearty congratulations and maybe a touch of envy on Twitter. But scaling is about doubling-down on what works--doing it more, faster, better, higher quality, more efficiently. Spending that time and money before you know what works, means wasting all that time and money. Then you run out of both. A blunder possibly of ignorance, but typically of putting ego before the truth.
+#### التحجيم المبكر
+قبل ملاءمة المنتج/السوق، تتمثل المهمة في اكتشاف ما ينجح. ما الذي [سيدفع مقابله العملاء فعليًا](https://longform.asmartbear.com/willingness-to-pay/) (ويستمرون في الدفع لمدة عام بعد ذلك)، وما هو [العميل المثالي والمستهدف](https://longform.asmartbear.com/icp-ideal-customer-persona/) و[ماذا يريدون](https://longform.asmartbear.com/needs-stack/)، وكيف يمكنك الوصول إليهم من خلال التسويق وإغلاقها من خلال المبيعات (سواء كانت بيعًا ذاتيًا أو بيعًا بشريًا)، ما الذي يجب أن تتقاضاه وكيف. العديد من المؤسسين إما لا يعرفون [كيف يبدو المنتج/السوق مناسبًا](https://longform.asmartbear.com/product-market-fit/)، أو لا يريدون أن يعرفوا، لأنهم يريدون الإعلان "لقد امتلكته!" لأنه من الجيد أن نقول ذلك ويحظى بالتهاني القلبية وربما لمسة من الحسد على تويتر. لكن التوسع يدور حول مضاعفة ما ينجح، أي القيام بذلك بشكل أكبر وأسرع وأفضل وجودة أعلى وأكثر كفاءة. إن إنفاق هذا الوقت والمال قبل أن تعرف ما الذي سينجح، يعني إضاعة كل هذا الوقت والمال. ثم نفاد كليهما. ربما يكون هذا خطأً فادحًا بسبب الجهل، ولكن عادةً ما يكون بسبب وضع الأنا أمام الحقيقة.
 
-#### Switch to sell to the Enterprise before $20M ARR
-If you're targeting the Enterprise segment from day one, and you're already built for the sales, enablement, onboarding, account management, legal, security, and product requirements, then this doesn't apply to you. However, few startups begin there, exactly because of those heavy requirements. The common pattern is to have some success with the small or mid-market, then observe that "Salesforce bought some seats!" and decide to "go upmarket" because "we're seeing signal that they need it." There are always individual teams inside large companies who will buy your stuff--that's good! But that's different from targeting "the enterprise." You probably don't even know what you don't know--a position of weakness that screams "bad strategy." This is an easy blunder to avoid; take the orders from the teams, stick with [the leverage you have](https://longform.asmartbear.com/productive-meeting-activities/), and don't confuse a team using a tool on the side with what it takes to make multi-million-dollar top-down sales.
+#### قم بالتبديل للبيع إلى المؤسسة قبل 20 مليون دولار أمريكي
+إذا كنت تستهدف قطاع المؤسسات منذ اليوم الأول، وكنت مصممًا بالفعل للمبيعات والتمكين والتأهيل وإدارة الحساب والمتطلبات القانونية والأمنية ومتطلبات المنتج، فإن هذا لا ينطبق عليك. ومع ذلك، هناك عدد قليل من الشركات الناشئة التي تبدأ هناك، وذلك بسبب تلك المتطلبات الثقيلة. النمط الشائع هو تحقيق بعض النجاح مع السوق الصغيرة أو المتوسطة، ثم لاحظ أن "Salesforce اشترت بعض المقاعد!" وقرروا "الذهاب إلى السوق الراقية" لأننا "نرى إشارة إلى أنهم في حاجة إليها". هناك دائمًا فرق فردية داخل الشركات الكبيرة التي ستشتري أغراضك - وهذا أمر جيد! لكن هذا يختلف عن استهداف "المؤسسة". ربما لا تعرف حتى ما لا تعرفه - وهو موقف الضعف الذي يصرخ "استراتيجية سيئة". وهذا خطأ فادح يسهل تجنبه؛ خذ أوامر الفرق، والتزم بـ [النفوذ الذي لديك](https://longform.asmartbear.com/productive-meeting-activities/)، ولا تخلط بين الفريق الذي يستخدم أداة على الجانب وبين ما يلزم لتحقيق مبيعات بملايين الدولارات من أعلى إلى أسفل.
 
-#### Unworkable business model / cannot be profitable
-Unit economics can be measured right out of the gate. You already have a rough idea of the costs of production, and you know you'll have to spend money and time on marketing and sales. [Mismatching price to the business model](https://longform.asmartbear.com/pricing-determines-your-business-model/) by an order of magnitude is preventable. Many companies have no sensible business model even at scale. They say "we'll figure that out later," but that's just admitting you're blundering and hoping your future self will figure out how to stop blundering. Sometimes you will; if you don't, whose fault was that?
+#### نموذج عمل غير عملي / لا يمكن أن يكون مربحًا
+يمكن قياس اقتصاديات الوحدة مباشرة خارج البوابة. لديك بالفعل فكرة تقريبية عن تكاليف الإنتاج، وتعلم أنه سيتعين عليك إنفاق المال والوقت على التسويق والمبيعات. [عدم تطابق السعر مع نموذج الأعمال](https://longform.asmartbear.com/pricing-determines-your-business-model/) يمكن منعه. العديد من الشركات ليس لديها نموذج عمل معقول حتى على نطاق واسع. يقولون "سنكتشف ذلك لاحقًا"، لكن هذا مجرد اعتراف بأنك تخطئ وتأمل أن تكتشف نفسك في المستقبل كيفية التوقف عن الخطأ. في بعض الأحيان سوف؛ إذا لم تفعل ذلك، فمن كان خطأ ذلك؟
 
 ![tell us what you know want big one russian nesting doll](https://public.asmartbear.com/books/anthology/chapters/avoid-blundering/d8673print-simple.png)
 
-#### Writing code instead of winning customers
-After you have a working product in market, why aren't you getting more customers? The builder says: Because I need more features. Or: Because the product has too many bugs. Both are incorrect; there are customers who need only the current features, but you're not working on getting their attention with marketing, piquing their interest with the website, and winning their business with sales. And *potential* customers certainly aren't ignoring you because your product has a bug--they don't even know that yet. Coders like to code; everything else is hard, and not fun, and unclear how to execute, and costs money, and it's so comfy to just sink back into the comfort of Visual Studio and marvel at the prescience of Copilot and tweak a CSS class. So people don't find you, and don't buy, and the company fails, because you blundered marketing and sales. You have to [put down the compiler and talk to customers](https://longform.asmartbear.com/put-down-the-compiler/).
+#### كتابة التعليمات البرمجية بدلاً من كسب العملاء
+بعد أن يكون لديك منتج فعال في السوق، لماذا لا تحصل على المزيد من العملاء؟ يقول المنشئ: لأنني بحاجة إلى المزيد من الميزات. أو: لأن المنتج يحتوي على عدد كبير جدًا من الأخطاء. كلاهما غير صحيح. هناك عملاء يحتاجون فقط إلى الميزات الحالية، لكنك لا تعمل على جذب انتباههم من خلال التسويق، وإثارة اهتمامهم بموقع الويب، وكسب أعمالهم من خلال المبيعات. ومن المؤكد أن العملاء *المحتملين* لا يتجاهلونك لأن منتجك يحتوي على خطأ - فهم لا يعرفون ذلك حتى الآن. المبرمجون يحبون البرمجة؛ كل شيء آخر صعب، وغير ممتع، وغير واضح كيفية التنفيذ، ويكلف أموالاً، ومن المريح جدًا أن تغوص مرة أخرى في راحة Visual Studio وتتعجب من بصيرة Copilot وتعديل فئة CSS. حتى لا يجدك الناس، ولا يشترون، وتفشل الشركة، لأنك أخطأت في التسويق والمبيعات. يجب عليك [ترك المترجم والتحدث إلى العملاء](https://longform.asmartbear.com/put-down-the-compiler/).
 
-#### Expanding the target market before winning the target market / moving too quickly to the second product
-I'm not here to call people out, so I won't actually quote the many times I've seen someone on Twitter declaring that now that they've reached $2,700 in MRR, they are expanding into a new market segment. This simple blunder belies a lack of focus, a lack of conviction in the strategy, and lack of understanding that it is ten times easier to win another customer in [your existing target market](https://longform.asmartbear.com/icp-ideal-customer-persona/) than it is to expand. This blunder dilutes your attention, marketing dollars, positioning, messaging, and product sharpness, and is easy to avoid. [There is a time for expansion](https://longform.asmartbear.com/adjacency/): Later.
+#### توسيع السوق المستهدف قبل الفوز بالسوق المستهدف / الانتقال بسرعة كبيرة إلى المنتج الثاني
+أنا لست هنا لدعوة الناس، لذلك لن أقتبس في الواقع المرات العديدة التي رأيت فيها شخصًا على تويتر يعلن أنه الآن بعد أن وصلوا إلى 2700 دولار في MRR، فإنهم يتوسعون في قطاع جديد من السوق. هذا الخطأ الفادح البسيط يتناقض مع الافتقار إلى التركيز، وعدم الاقتناع بالاستراتيجية، وعدم فهم أنه من الأسهل بعشر مرات كسب عميل آخر في [السوق المستهدف الحالي لديك](https://longform.asmartbear.com/icp-ideal-customer-persona/) مقارنة بالتوسع. هذا الخطأ الفادح يضعف انتباهك، وأموالك التسويقية، وتحديد المواقع، والرسائل، ودقة المنتج، ومن السهل تجنبه. [هناك وقت للتوسع](https://longform.asmartbear.com/adjacency/): لاحقًا.
 
-#### Lack of passion / endurance
-It is possible that there was passion at the start, but it evaporated, or there was an honest intention of spending the next ten years [working on this mission](https://longform.asmartbear.com/mission-vision/), but you broke down. But that excuse is only valid if, on day one, you honestly took stock of what your passions were, what strengths you were going to [leverage](https://longform.asmartbear.com/leverage/), understanding [who you are](https://longform.asmartbear.com/fulfillment/), had a mission you deeply cared about (besides "make money" or "be able to say you're a founder"), read about the [emotional whiplash](https://longform.asmartbear.com/startups-emotionally-draining/) that startups always entail, and made the [trade-offs against other important things](https://longform.asmartbear.com/two-big-things/) in your life. If you didn't do those things, it's a blunder, not self-discovery. (If it really was self-discovery, you are forgiven, and more importantly, you should forgive yourself.)
+#### قلة العاطفة / القدرة على التحمل
+من الممكن أن يكون هناك شغف في البداية لكنه تبخر، أو كانت هناك نية صادقة لقضاء السنوات العشر القادمة [العمل على هذه المهمة](https://longform.asmartbear.com/mission-vision/)، لكنك انهارت. لكن هذا العذر لا يكون صالحًا إلا إذا قمت، في اليوم الأول، بتقييم شغفك بصدق، وما هي نقاط القوة التي كنت ستستفيد منها [https://longform.asmartbear.com/leverage/)، وفهم [من أنت] (https://longform.asmartbear.com/fulfillment/)، وكانت لديك مهمة تهتم بها بشدة (إلى جانب "كسب المال" أو "أن تكون قادرًا على القول بأنك مؤسس")، وقراءة عن [الصدمة العاطفية](https://longform.asmartbear.com/startups-emotionally-draining/) التي تستلزمها الشركات الناشئة دائمًا، وإجراء [المقايضات مقابل أشياء مهمة أخرى](https://longform.asmartbear.com/two-big-things/) في حياتك. إذا لم تفعل هذه الأشياء، فهذا خطأ فادح، وليس اكتشافًا للذات. (إذا كان الأمر يتعلق باكتشاف الذات حقًا، فسوف يُغفر لك، والأهم من ذلك، يجب أن تسامح نفسك).
 
 ![heart arrows not for everyone side effects may include love](https://public.asmartbear.com/books/anthology/chapters/avoid-blundering/d7163print-simple.png)
 
-In most cases, I've linked to specific ways to avoid each blunder. Which leads to the final point:
+في معظم الحالات، قمت بربط طرق محددة لتجنب كل خطأ. مما يؤدي إلى النقطة الأخيرة:
 
-**There is a way to build startups with lower risk**, in large part by avoiding those blunders, which I've summarized in my [Roadmap for Product/Market Fit](https://longform.asmartbear.com/product-market-fit-formula/).
+**هناك طريقة لإنشاء شركات ناشئة ذات مخاطر أقل**، وذلك إلى حد كبير من خلال تجنب تلك الأخطاء الفادحة، والتي لخصتها في [خريطة الطريق الخاصة بالمنتج/السوق الملائمة](https://longform.asmartbear.com/product-market-fit-formula/).
 
-Is this a fail-safe path? Of course not. Even in chess. The rest of the game does matter.
+هل هذا طريق آمن من الفشل؟ بالطبع لا. حتى في الشطرنج. بقية اللعبة لا يهم.
 
-Still, when you can reduce so much risk by avoiding avoidable things, especially with frameworks that detail what "not blundering" looks like, why wouldn't you do that?
+ومع ذلك، عندما يكون بإمكانك تقليل الكثير من المخاطر من خلال تجنب الأشياء التي يمكن تجنبها، خاصة مع الأطر التي توضح بالتفصيل كيف يبدو "عدم التخبط"، فلماذا لا تفعل ذلك؟
 
-80% winning is not blundering.
+الفوز بنسبة 80% ليس خطأً.
 
-## Addendum: External sources of "why startups fail"
+## إضافة: مصادر خارجية لـ "لماذا تفشل الشركات الناشئة"
 
-#### [CB Insights](https://www.cbinsights.com/research/report/startup-failure-reasons-top/): From "111 interviews"
+#### [رؤى CB](https://www.cbinsights.com/research/report/startup-failure-reasons-top/): من "111 مقابلة"
 
-(Figure 2)
+(الشكل 2)
 
 ![Top reasons startups fail from CB Insights](https://public.asmartbear.com/books/anthology/chapters/avoid-blundering/image-simple.png)
 
-#### [Paul Graham](https://www.paulgraham.com/startupmistakes.html): The 18 mistakes that kill startups
+#### [بول جراهام](https://www.paulgraham.com/startupmistakes.html): الأخطاء الـ 18 التي تقتل الشركات الناشئة
 
-1. Single founder (as opposed to having a co-founder)
-2. Fights Between Founders
-3. Bad location
-4. Marginal niche
-5. Derivative idea
-6. Obstinacy
-7. Hiring Bad Programmers
-8. Choosing the Wrong Platform
-9. Slowness in Launching
-10. Launching Too Early
-11. Having No Specific User in Mind
-12. Raising Too Little Money
-13. Raising Too Much Money
-14. Poor Investor Management
-15. Spending Too Much
-16. Sacrificing Users to (Supposed) Profit
-17. Not Wanting to Get Your Hands Dirty
-18. A Half-Hearted Effort
+1. مؤسس واحد (بدلاً من وجود مؤسس مشارك)
+2. معارك بين المؤسسين
+3. موقع سيء
+4. مكانة هامشية
+5. فكرة مشتقة
+6. عناد
+7. توظيف مبرمجين سيئين
+8. اختيار منصة خاطئة
+9. البطء في الانطلاق
+10. الإطلاق مبكر جدًا
+11. عدم وجود مستخدم محدد في الاعتبار
+12. جمع القليل من المال
+13. جمع الكثير من المال
+14. سوء إدارة المستثمرين
+15. إنفاق الكثير
+16. التضحية بالمستخدمين من أجل الربح (المفترض).
+17. عدم الرغبة في اتساخ يديك
+18. جهد نصف القلب
 
-#### [Tom Eisenmann](https://hbr.org/2021/05/why-start-ups-fail): Why startups fail, from hundreds of interviews and surveys
+#### [توم أيزنمان](https://hbr.org/2021/05/why-start-ups-fail): لماذا تفشل الشركات الناشئة، من خلال مئات المقابلات والاستطلاعات
 
-1. Good Idea, Bad Bedfellows (not just founders, but investors, key executives and employees)
-2. False Starts (not researching enough before starting or MVP--customers, competitors, market)
-3. Maintaining Balance (managing psychology and maintaining a healthy determination)
+1. فكرة جيدة ورفاق سيئون (ليس فقط المؤسسين، بل المستثمرين والمديرين التنفيذيين الرئيسيين والموظفين)
+2. البدايات الخاطئة (عدم البحث بشكل كافٍ قبل البدء أو MVP - العملاء والمنافسون والسوق)
+3. الحفاظ على التوازن (إدارة علم النفس والحفاظ على القرار الصحي)
 
-#### [Steve Blank](https://steveblank.com/2012/05/14/9-deadliest-start-up-sins/): 9 Deadliest Startup Sins
+#### [ستيف بلانك](https://steveblank.com/2012/05/14/9-deadliest-start-up-sins/): 9 أخطر خطايا الشركات الناشئة
 
-_(You can see Lean Startup screaming out of these: Answers are outside the building, not in your head, now seek it and iterate.)_
+_(يمكنك رؤية Lean Startup تصرخ من بين هذه: الإجابات موجودة خارج المبنى، وليست في رأسك، ابحث عنها الآن وكررها.)_
 
-1. Assuming you know what the customer wants
-2. The "I know what features to build" flaw
-3. Focusing on the launch date
-4. Emphasizing execution instead of testing, learning, and iteration
-5. Writing a business plan that doesn't allow for trial and error
-6. Confusing traditional job titles with a startup's needs
-7. Executing on a sales and marketing plan
-8. Prematurely scaling your company based on a presumption of success
-9. Management by crisis, which leads to a death spiral
+1. على افتراض أنك تعرف ما يريده العميل
+2. الخلل "أعرف ما هي الميزات التي يجب إنشاؤها".
+3. التركيز على تاريخ الإطلاق
+4. التأكيد على التنفيذ بدلاً من الاختبار والتعلم والتكرار
+5. كتابة خطة عمل لا تسمح بالتجربة والخطأ
+6. الخلط بين المسميات الوظيفية التقليدية واحتياجات الشركة الناشئة
+7. تنفيذ خطة المبيعات والتسويق
+8. توسيع نطاق شركتك قبل الأوان بناءً على افتراض النجاح
+9. الإدارة بالأزمات، مما يؤدي إلى دوامة الموت
 
-#### [John Osher](https://www.entrepreneur.com/business-news/business-top-17-startup-mistakes-you-can39t-afford-to/78474): 17 common mistakes from consumer products
+#### [جون أوشر](https://www.entrepreneur.com/business-news/business-top-17-startup-mistakes-you-can39t-afford-to/78474): 17 خطأ شائعًا في المنتجات الاستهلاكية
 
-_(Many are variants of "scaled too quickly" or "spent money ahead of need.")_
+_(العديد منها عبارة عن "تحجيم سريع جدًا" أو "إنفاق المال قبل الحاجة.")_
 
-1. Failing to spend enough time researching the business idea to see if it's viable.
-2. Miscalculating market size, timing, ease of entry and potential market share.
-3. Underestimating financial requirements and timing.
-4. Over-projecting sales volume and timing.
-5. Making cost projections that are too low.
-6. Hiring too many people and spending too much on offices and facilities
-7. Lacking a contingency plan for a shortfall in expectations.
-8. Bringing in unnecessary partners.
-9. Hiring for convenience rather than skill requirements.
-10. Neglecting to manage the entire company as a whole.
-11. Accepting that it's "not possible" too easily rather than finding a way.
-12. Focusing too much on sales volume and company size rather than profit.
-13. Seeking confirmation of your actions rather than seeking the truth.
-14. Lacking simplicity in your vision.
-15. Lacking clarity of your long-term aim and business purpose.
-16. Lacking focus and identity.
-17. Lacking an exit strategy.
+1. عدم قضاء ما يكفي من الوقت في البحث عن فكرة العمل لمعرفة ما إذا كانت قابلة للتطبيق.
+2. سوء تقدير حجم السوق والتوقيت وسهولة الدخول والحصة السوقية المحتملة.
+3. - التقليل من المتطلبات المالية والتوقيت.
+4. المبالغة في تقدير حجم المبيعات وتوقيتها.
+5. وضع توقعات التكلفة منخفضة للغاية.
+6. توظيف عدد كبير جدًا من الأشخاص وإنفاق الكثير على المكاتب والمرافق
+7. عدم وجود خطة طوارئ لنقص التوقعات.
+8. جلب شركاء غير ضروريين.
+9. التوظيف من أجل الراحة وليس متطلبات المهارة.
+10. إهمال إدارة الشركة بأكملها ككل.
+11. من السهل جدًا قبول أن الأمر "غير ممكن" بدلًا من إيجاد طريقة.
+12. التركيز بشكل كبير على حجم المبيعات وحجم الشركة بدلاً من الربح.
+13. السعي للحصول على تأكيد لأفعالك بدلاً من البحث عن الحقيقة.
+14. تفتقر إلى البساطة في رؤيتك.
+15. عدم وضوح هدفك على المدى الطويل والغرض التجاري.
+16. - الافتقار إلى التركيز والهوية.
+17. - الافتقار إلى استراتيجية الخروج.
 
-#### [Andrew Montalenti](https://thenextweb.com/news/why-startups-die): (founder of Parse.ly) Common startup mistakes
+#### [أندرو مونتالنتي](https://thenextweb.com/news/why-startups-die): (مؤسس Parse.ly) الأخطاء الشائعة في بدء التشغيل
 
-1. Marriage trouble
-2. No bootstrapping plan
-3. Startup as a career move
-4. Refusal to change the original idea
-5. Preemptive scaling
-6. Growing too fast
-7. Scared of code
+1. مشكلة الزواج
+2. لا توجد خطة التمهيد
+3. بدء التشغيل كخطوة مهنية
+4. رفض تغيير الفكرة الأصلية
+5. التحجيم الوقائي
+6. تنمو بسرعة كبيرة
+7. خائف من الكود
 
-#### [Forbes](https://www.forbes.com/sites/ericwagner/2013/09/12/five-reasons-8-out-of-10-businesses-fail/?sh=5d9302cd6978)
+#### [فوربس](https://www.forbes.com/sites/ericwagner/2013/09/12/five-reasons-8-out-of-10-businesses-fail/?sh=5d9302cd6978)
 
-1. Not in touch with customers
-2. No differentiation in the market
-3. Failure to clearly communicate value propositions
-4. Leadership dysfunction, especially founder strife
-5. Can't find profitable business model
+1. ليس على اتصال مع العملاء
+2. لا يوجد تمييز في السوق
+3. الفشل في توصيل مقترحات القيمة بوضوح
+4. خلل في القيادة، وخاصة صراع المؤسس
+5. لا يمكن العثور على نموذج عمل مربح

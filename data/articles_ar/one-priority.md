@@ -20,105 +20,92 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** القصة الكاملة لـ 'الشيء الوحيد الأهم' لنجاح الشركات الناشئة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+قد تفترض أنه ليس لدي نقاط عمياء كبيرة عندما يتعلق الأمر ببناء شركات ناشئة صغيرة في مجال التكنولوجيا. أتحدث عن المفاهيم التي تعلمتها من خلال [العمل الجاد](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/)، و[الحظ](https://longform.asmartbear.com/lucky/)، و[الملاحظة](https://longform.asmartbear.com/avoid-blundering/)، و [فشل](https://longform.asmartbear.com/startup-drake-equation/)، لذلك من المؤكد أنني قمت بتغطية جميع القواعد الخاصة بي. لا توجد أخطاء غبية تحدث هنا، لا يا سيدي.
 
----
-
-### النص المرجعي للمقال (Original Reference):
-# The full story of "the one important thing" for startups
-
-> **Executive Summary:** Forget small tweaks; startups should focus on one, most-critical metric, seeking only large effects.
-> **Original URL:** [https://longform.asmartbear.com/one-priority/](https://longform.asmartbear.com/one-priority/)
-
-You might assume that I have no major blind spots when it comes building little tech startups. I pontificate on concepts that I learned through [hard work](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/), [luck](https://longform.asmartbear.com/lucky/), [observation](https://longform.asmartbear.com/avoid-blundering/), and [failure](https://longform.asmartbear.com/startup-drake-equation/), so surely I have all my bases covered. No stupid mistakes happening over here, no sir.
-
-Completely untrue, of course.
+غير صحيح تماما، بطبيعة الحال.
 
 ![Cartoon 9c29c732](https://longform.asmartbear.com/one-priority/66e8dadf.png)
 
-**I just had a new epiphany**, which if you just skim the bold bits you'll think is old news, but I thought that too, and by skimming I missed its important implication.
+**لقد حصلت للتو على اكتشاف جديد**، والذي إذا قمت بتصفح الأجزاء الجريئة ستعتقد أنها أخبار قديمة، لكنني اعتقدت ذلك أيضًا، ومن خلال التصفح السريع فاتني مضمونها المهم.
 
-I was listening to [Noah Kagan](https://noahkagan.com/)[^1] talk to the current crop of [Capital Factory](http://capitalfactory.com/) companies, when he said something so simple, so obviously correct, and yet it completely changed how I thought about my approach to [WP Engine](http://bit.ly/WPEngine).
+كنت أستمع إلى [Noah Kagan](https://noahkagan.com/)[^1] وهو يتحدث إلى المجموعة الحالية من شركات [Capital Factory](http://capitalfactory.com/)، عندما قال شيئًا بسيطًا جدًا، ومن الواضح أنه صحيح، ومع ذلك فقد غير طريقة تفكيري تمامًا في أسلوبي في التعامل مع [WP Engine](http://bit.ly/WPEngine).
 
-[^1]:  Founder of [AppSumo](http://is.gd/Q4qUkW), the marketing mind behind [Mint](http://www.mint.com/) and the author of [_Million Dollar Weekend_](https://noahkagan.com/mdwbook/).
+[^1]: مؤسس [AppSumo](http://is.gd/Q4qUkW)، والعقل التسويقي وراء [Mint](http://www.mint.com/) ومؤلف كتاب [_Million Dollar Weekend_](https://noahkagan.com/mdwbook/).
 
-I'm sure he won't mind me revealing this little nugget, seeing as this is the same Noah who does topless video interviews and will show you his underwear if asked, though I'm not sure why anyone asks, except that they know he'll do it, and someone so willing might have something worth looking at.
+أنا متأكد من أنه لن يمانع في الكشف عن هذه الكتلة الصغيرة، نظرًا لأن هذا هو نفس نوح الذي يقوم بمقابلات فيديو عاريات وسيظهر لك ملابسه الداخلية إذا طلب منك ذلك، على الرغم من أنني لست متأكدًا من سبب سؤال أي شخص، باستثناء أنهم يعلمون أنه سيفعل ذلك، وشخص على استعداد لذلك قد يكون لديه شيء يستحق النظر إليه.
 
-He said: "**A startup can focus on only one metric**. So you have to decide what that is and **ignore everything else**."
+قال: "**يمكن للشركة الناشئة التركيز على مقياس واحد فقط**. لذلك عليك أن تقرر ما هو هذا المقياس و**تجاهل كل شيء آخر**."
 
-It might sound like the usual platitude that "[startups need focus](https://longform.asmartbear.com/say-yes/)!" It's not, as he proceeded to explain. I'll explain it here using WP Engine as the foil rather than revealing secrets about AppSumo because, although AppSumo internal metrics are both impressive and instructive, it isn't my place to reveal them. 
+قد يبدو الأمر كالقول الشائع المعتاد "[تحتاج الشركات الناشئة إلى التركيز](https://longform.asmartbear.com/say-yes/)!" ليس الأمر كذلك، كما شرع في الشرح. سأشرح ذلك هنا باستخدام WP Engine كغطاء بدلاً من الكشف عن أسرار حول AppSumo، لأنه على الرغم من أن مقاييس AppSumo الداخلية مثيرة للإعجاب ومفيدة في نفس الوقت، إلا أنه ليس من حقي الكشف عنها.
 
-I was talking to Noah a few weeks later about WP Engine, inspired but still not fully understanding what he meant.  It went something like this:
+كنت أتحدث إلى نوح بعد بضعة أسابيع حول WP Engine، وقد ألهمتني ولكنني لم أفهم تمامًا ما كان يعنيه.  ذهب شيء من هذا القبيل:
 
-> **NOAH**: So if you could change just one thing at WP Engine, what would it be?
+> **نوح**: إذا كان بإمكانك تغيير شيء واحد فقط في WP Engine، فماذا سيكون؟
 > 
-> **ME**: Well [Dharmesh](http://twitter.com/dharmesh) told me **it's our cancellation rate**. And Dharmesh is a minor deity in the SaaS business-model pantheon, as evidenced by his well-reasoned Business of Software [speeches](http://onstartups.com/tabid/3339/bid/54126/Video-of-Dharmesh-Shah-at-Business-of-Software-2010-Conference.aspx) and tangible success with [HubSpot](http://hubspot.com/).
+> **أنا**: حسنًا، أخبرني [درمش](http://twitter.com/dharmesh) **أن هذا هو معدل الإلغاء لدينا**. ودهارميش هو إله ثانوي في مجموعة نماذج الأعمال SaaS، كما يتضح من [خطاباته] ذات الأسس المنطقية في مجال البرمجيات (http://onstartups.com/tabid/3339/bid/54126/Video-of-Dharmesh-Shah-at-Business-of-Software-2010-Conference.aspx) والنجاح الملموس مع [هوب سبوت] (http://hubspot.com/).
 > 
-> *(Yes, I proceeded to lecture Noah about SaaS business models, as if he didn't already understand, probably to prove that I did know, or to finally work out for myself what I believe. If this isn't enough for you, here's my expanded brain dump on [cancellation rate](https://longform.asmartbear.com/cancellation-rate-in-saas-business-models/).)*
+> *(نعم، شرعت في إلقاء محاضرة على نوح حول نماذج الأعمال SaaS، كما لو أنه لم يفهمها بالفعل، ربما لإثبات أنني أعرف، أو لأتوصل أخيرًا إلى ما أؤمن به بنفسي. إذا لم يكن هذا كافيًا بالنسبة لك، فإليك تفريغ أفكاري الموسع حول [معدل الإلغاء](https://longform.asmartbear.com/cancellation-rate-in-saas-business-models/).)*
 > 
-> See cancellation rate is indicative of several important things. First, whether we're providing a genuinely valuable and desirable service. After all, I can bludgeon a person into signing up with us through marketing and salesmanship, but if they don't stick around it proves we're not *really* providing something they need, at least not at this price. So it's an important measure of the service itself.
+> رؤية معدل الإلغاء يدل على عدة أمور مهمة. أولاً، ما إذا كنا نقدم خدمة قيمة ومرغوبة حقًا. بعد كل شيء، يمكنني إجبار أي شخص على الاشتراك معنا من خلال التسويق وفن البيع، ولكن إذا لم يلتزموا، فهذا يثبت أننا لا نقدم *حقًا* شيئًا يحتاجون إليه، على الأقل ليس بهذا السعر. لذلك فهو مقياس مهم للخدمة نفسها.
 > 
-> Second, and more "metrics-y," cancellation rate is one of the keys to computing customer LTV (**l**ife**t**ime **v**alue). If we know a typical customer pays us $50/mo and stays with us for 30 months, that's $1500 in "lifetime" revenue. That helps us answer questions like: How much can we spend to acquire a customer? Or: How many customers do we need to produce $10m in revenue?
+> ثانياً، يعد معدل الإلغاء أحد المفاتيح لحساب القيمة الدائمة للعميل (**l**ife**t**ime **v**alue). إذا علمنا أن العميل النموذجي يدفع لنا 50 دولارًا أمريكيًا شهريًا ويبقى معنا لمدة 30 شهرًا، فهذا يمثل 1500 دولارًا أمريكيًا من الإيرادات "مدى الحياة". يساعدنا ذلك في الإجابة على أسئلة مثل: ما المبلغ الذي يمكننا إنفاقه للحصول على عميل؟ أو: كم عدد العملاء الذين نحتاجهم لتحقيق إيرادات بقيمة 10 ملايين دولار؟
 > 
-> But the key to computing LTV is "how many months will a customer stay with us," and the key to *that* is cancellation rate--the higher the rate, the fewer the months, and LTV plummets. High LTVs are nice because it means the business has good cash flow, and means we can spend more on things like marketing and advertising.
+> لكن مفتاح حساب القيمة الدائمة هو "عدد الأشهر التي سيبقى فيها العميل معنا"، والمفتاح لذلك هو معدل الإلغاء - كلما ارتفع المعدل، قل عدد الأشهر، وانخفضت القيمة الدائمة. تعتبر نسبة الـ LTV المرتفعة أمرًا جيدًا لأنها تعني أن الشركة تتمتع بتدفق نقدي جيد، ويعني أنه يمكننا إنفاق المزيد على أشياء مثل التسويق والإعلان.
 > 
-> So yeah, I want cancellation rate to go down!
+> لذا، نعم، أريد أن ينخفض ​​معدل الإلغاء!
 > 
-> **NOAH**: OK.
+> **نوح**: حسنًا.
 > 
-> *(That's how Noah says, "I heard everything you said. I've heard it before. It's technically accurate, but you're a dumbass and you're missing the whole point. But you won't listen to the truth until you get this bile out of your system." Noah is a man of few words. Unlike me.)*
+> *(هكذا يقول نوح، "لقد سمعت كل ما قلته. لقد سمعته من قبل. إنه دقيق من الناحية الفنية، لكنك أحمق وتفتقد الهدف برمته. لكنك لن تستمع إلى الحقيقة حتى تتخلص من هذه المادة الصفراوية من نظامك." نوح رجل قليل الكلام. بخلافي.)*
 > 
-> **NOAH**: So do you think you could get your cancellation rate from 3% to 2.5%?
+> **نوح**: هل تعتقد أنه يمكنك رفع معدل الإلغاء من 3% إلى 2.5%؟
 > 
-> **ME**: Yeah I think probably we could, and that could increase our LTV by 15%.
+> **أنا**: نعم، أعتقد أنه من المحتمل أن نتمكن من ذلك، وقد يؤدي ذلك إلى زيادة القيمة الدائمة لدينا بنسبة 15%.
 > 
-> **NOAH**: Let's say you did that. Congratulations. What would be different?
+> **نوح**: لنفترض أنك فعلت ذلك. تهانينا. ماذا سيكون مختلفا؟
 > 
-> **ME**: Oh, we'd have more revenue and we could spend more on ads.
+> **أنا**: أوه، سيكون لدينا المزيد من الإيرادات ويمكننا إنفاق المزيد على الإعلانات.
 > 
-> **NOAH**: That's it? All that would change is you'd spend more on ads? That's important? That makes the business fantastic?
+> **نوح**: هذا كل شيء؟ كل ما سيتغير هو أنك ستنفق المزيد على الإعلانات؟ هذا مهم؟ وهذا يجعل العمل رائعا؟
 > 
-> **ME**: Well no, I guess things wouldn't change that much.
+> **أنا**: حسنًا لا، أعتقد أن الأمور لن تتغير كثيرًا.
 > 
-> **NOAH**: You should only be doing things that can be "that much."  If you increased signups by 2x would you say that would make a big difference?
+> **نوح**: يجب عليك فقط أن تفعل الأشياء التي يمكن أن تكون "بهذا القدر".  إذا قمت بزيادة الاشتراكات بمقدار 2x، فهل ستقول أن ذلك سيحدث فرقًا كبيرًا؟
 > 
-> **ME**: Heck yes, that would be huge!
+> **أنا**: نعم، سيكون هذا أمرًا ضخمًا!
 > 
-> **NOAH**: So do that and ignore the cancellation rate.
+> **نوح**: لذا افعل ذلك وتجاهل معدل الإلغاء.
 > 
-> **ME**: But I can't just *ignore* it because: I could easily get sign-ups to double if I just spent 5 times as much on AdWords, but then the lead quality would suck and cancellation rates would skyrocket and in the end I haven't done anything meaningful, and I probably made things worse because now we're sifting through all these crazy people who won't even stick around and it just doesn't seem strategic.
+> **أنا**: ولكن لا يمكنني *تجاهل* ذلك لأنه: يمكنني بسهولة مضاعفة عمليات الاشتراك إذا أنفقت 5 أضعاف هذا المبلغ على AdWords، ولكن بعد ذلك ستتدهور جودة العملاء المحتملين وسترتفع معدلات الإلغاء بشكل كبير وفي النهاية لم أفعل أي شيء ذي معنى، وربما جعلت الأمور أسوأ لأننا الآن نغربل كل هؤلاء الأشخاص المجانين الذين لن يبقوا في مكاننا ولا يبدو الأمر استراتيجيًا.
 > 
-> **NOAH**: I stopped listening after you said "I could easily get sign-ups to double." Go do that.
+> **نوح**: توقفت عن الاستماع بعد أن قلت "يمكنني بسهولة مضاعفة الاشتراكات." اذهب وافعل ذلك.
 > 
-> **ME**: But what's the good of a "sign-up" if most of them cancel?
+> **أنا**: ولكن ما الفائدة من "الاشتراك" إذا تم إلغاء معظم الاشتراكات؟
 > 
-> **NOAH**: You don't know they'll cancel. What if you got sign-ups to triple? And cancellation rate doubled, from 3% to 6%. You'd still be growing almost three times faster.
+> **نوح**: أنت لا تعلم أنهم سوف يقومون بالإلغاء. ماذا لو حصلت على الاشتراكات لثلاثة أضعاف؟ وتضاعفت نسبة الإلغاء من 3% إلى 6%. ستظل تنمو بشكل أسرع بثلاث مرات تقريبًا.
 > 
-> **ME**: Oh yeah. Shit. Oh yeah.
+> ** أنا **: أوه نعم. القرف. أوه نعم.
 
-So I did, and guess what? Cancellation rate didn't go up much. Noah was right.
+هكذا فعلت، وخمن ماذا؟ معدل الإلغاء لم يرتفع كثيرا. لقد كان نوح على حق.
 
-Sure, it went up a little, for the reasons I gave, but it doesn't matter.
+بالتأكيد، ارتفع السعر قليلاً، للأسباب التي ذكرتها، لكن لا يهم.
 
-At a little company **there's no time for small changes achieving small goals**. Increasing conversion rates from 0.9% to 1.1% doesn't matter if only 100 people come to the website every day. Much more important is getting 1,000 people to come to the website every day.
+في شركة صغيرة **ليس هناك وقت لإجراء تغييرات صغيرة لتحقيق أهداف صغيرة**. لا يهم زيادة معدلات التحويل من 0.9% إلى 1.1% إذا كان 100 شخص فقط يأتون إلى الموقع كل يوم. والأهم من ذلك هو جذب 1000 شخص لزيارة الموقع كل يوم.
 
-And anyway, **you can always optimize that little stuff later.** You can always eke out 0.1% more conversion rate. Or even 1%. Of course you can. There's probably 1,000 people you could hire to do it too, because it's mechanical. Non-trivial, but doable. In your control.
+وعلى أية حال، **يمكنك دائمًا تحسين هذه الأشياء الصغيرة لاحقًا.** يمكنك دائمًا تحقيق معدل تحويل أكبر بنسبة 0.1%. أو حتى 1%. بالطبع يمكنك. من المحتمل أن يكون هناك 1000 شخص يمكنك توظيفهم للقيام بذلك أيضًا، لأنه ميكانيكي. غير تافهة، ولكن قابلة للتنفيذ. في سيطرتك.
 
-So don't bother. Focus on the big thing where, if you moved the lever, it would significantly change the business. It doubles revenue or solidifies the funding story or pegs the [viral coefficient](https://longform.asmartbear.com/going-viral/) above 1 or builds the asset of having an active user base.
+لذلك لا تهتم. ركز على الشيء الكبير، حيث أنه إذا قمت بتحريك الرافعة، فسيؤدي ذلك إلى تغيير العمل بشكل كبير. إنه يضاعف الإيرادات أو يعزز قصة التمويل أو يربط [المعامل الفيروسي](https://longform.asmartbear.com/going-viral/) أعلى من 1 أو يبني الأصول المتمثلة في وجود قاعدة مستخدمين نشطة.
 
-Little incremental things can come later, when you have the extra time. Today, it's just big needle-moving things.
+يمكن أن تأتي الأشياء الإضافية الصغيرة لاحقًا، عندما يكون لديك الوقت الإضافي. اليوم، أصبحت مجرد أشياء كبيرة تحرك الإبرة.
 
-Does that mean no A/B testing, no tweaking of AdWords copy, no landing page optimization? For Noah, yes that's exactly what that means. I'm not as disciplined, so for me it's not so spartan. We've all heard stories about little tweaks resulting in 15% lift in revenue. Fine.
+هل يعني ذلك عدم وجود اختبار A/B، أو تعديل نسخة AdWords، أو تحسين الصفحة المقصودة؟ بالنسبة لنوح، نعم هذا بالضبط ما يعنيه ذلك. أنا لست منضبطًا، لذلك بالنسبة لي، الأمر ليس متشددًا جدًا. لقد سمعنا جميعًا قصصًا عن تعديلات صغيرة أدت إلى زيادة الإيرادات بنسبة 15%. بخير.
 
-But remember you're deciding between spending hours iterating to a 15% lift, versus spending all your energy, time, emails, social media, creativity, new features, marketing efforts, ads, measurement, trying to get a 2x or 3x change in the Most Important Number, that's an order of magnitude better. And you can still do the 15% thing!
+لكن تذكر أنك تقرر بين قضاء ساعات في التكرار لتحقيق زيادة بنسبة 15%، مقابل إنفاق كل طاقتك ووقتك ورسائل البريد الإلكتروني ووسائل التواصل الاجتماعي والإبداع والميزات الجديدة وجهود التسويق والإعلانات والقياس ومحاولة الحصول على تغيير 2x أو 3x في الرقم الأكثر أهمية، وهذا ترتيب أفضل من حيث الحجم. ولا يزال بإمكانك فعل الـ 15%!
 
-However, part of this "only do big stuff" means **knowing what "big stuff" is**, versus the secondary stuff. And to do that, you have to **focus on only one metric**. For us, that's growing the number of sign-ups. Yes, cancellation rate is also very important (and I'll talk about that in detail in a future post), but by narrowing down on the one thing that matters, you can focus on actions which have the potential to move that one needle regardless of the others.
+ومع ذلك، جزء من "القيام بالأشياء الكبيرة فقط" يعني **معرفة ما هي "الأشياء الكبيرة"**، مقابل الأشياء الثانوية. وللقيام بذلك، عليك **التركيز على مقياس واحد فقط**. بالنسبة لنا، يؤدي ذلك إلى زيادة عدد الاشتراكات. نعم، معدل الإلغاء مهم جدًا أيضًا (وسأتحدث عن ذلك بالتفصيل في منشور مستقبلي)، ولكن من خلال تضييق نطاق الأمر الوحيد المهم، يمكنك التركيز على الإجراءات التي لديها القدرة على تحريك تلك الإبرة بغض النظر عن الإجراءات الأخرى.
 
-Often, that's the kind of action and focus which [breaks you out of those incremental changes](https://longform.asmartbear.com/local-minimum/) and into major changes in the trajectory of the business.
+في كثير من الأحيان، هذا هو نوع العمل والتركيز الذي [يخرجك من تلك التغييرات المتزايدة](https://longform.asmartbear.com/local-minimum/) ويدخلك في تغييرات كبيرة في مسار العمل.
 
-It took me 15 years and side comment at a group meeting to understand this. Hopefully you can internalize it right now and act accordingly.
+لقد استغرق الأمر مني 15 عامًا وتعليقًا جانبيًا في اجتماع جماعي لفهم ذلك. نأمل أن تتمكن من استيعاب ذلك الآن والتصرف وفقًا لذلك.
 
-I did!
+فعلتُ!

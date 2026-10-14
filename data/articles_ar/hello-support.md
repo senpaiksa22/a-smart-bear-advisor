@@ -20,35 +20,22 @@ summary_ar: "Is \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** مرحباً، أنا الموظف رقم 1074018628: خطر تجريد خدمة العملاء من طابعها الإنساني تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Hello, I'm 1074018628
-
-> **Executive Summary:** Is "customer service" a genuine service? Or is it a shield so that most people at your company never have to speak to one of those pesky customers?
-> **Original URL:** [https://longform.asmartbear.com/hello-support/](https://longform.asmartbear.com/hello-support/)
-
 ![Cartoon cdf5eaa5](https://longform.asmartbear.com/hello-support/8a920bc9.png)
 
-I just received this email:
+لقد تلقيت للتو هذا البريد الإلكتروني:
 
-> Yahoo! is committed to the success of account 1074018628 and we believe there is an opportunity to provide you with improved performance.
+> ياهو! نحن ملتزمون بنجاح الحساب 1074018628 ونعتقد أن هناك فرصة لتزويدك بأداء محسن.
 
-**There's saying you value your customers, and then there's your behavior.**
+**هناك قول بأنك تقدر عملائك، وهناك أيضًا سلوكك.**
 
-You can use your customer mailing list to barrage me with up-selling "opportunities," or you can send me interesting articles.
+يمكنك استخدام القائمة البريدية لعملائك لإغراقي بـ "فرص البيع" أو يمكنك أن ترسل لي مقالات مثيرة للاهتمام.
 
-You can put your customer service number on every page on your website, or you can provide only a web form.
+يمكنك وضع رقم خدمة العملاء الخاص بك في كل صفحة على موقع الويب الخاص بك، أو يمكنك تقديم نموذج ويب فقط.
 
-You can have a recorded message saying my call is important to you, or you can have someone else pick up the phone.
+يمكنك الحصول على رسالة مسجلة تفيد بأن مكالمتي مهمة بالنسبة لك، أو يمكنك مطالبة شخص آخر بالرد على الهاتف.
 
-You can answer the phone with the least knowledgeable, lowest-paid employee you can find, or you can empower service reps to give refunds, bend the rules for extenuating circumstances, and escalate special situations to someone who has the power to address them properly.
+يمكنك الرد على الهاتف مع الموظف الأقل معرفة والأدنى أجرًا الذي يمكنك العثور عليه، أو يمكنك تمكين ممثلي الخدمة من إعادة المبالغ المستردة، وتعديل القواعد الخاصة بالظروف المخففة، وتصعيد المواقف الخاصة إلى شخص لديه القدرة على معالجتها بشكل صحيح.
 
-Is "customer service" a service for customers or a shield against them?
+هل "خدمة العملاء" خدمة للعملاء أم درع ضدهم؟
 
-Actions > Words.
+الإجراءات > الكلمات.

@@ -20,101 +20,88 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** اختر ميزة واحدة أساسية وامتلكها بالكامل في ذهن العميل تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Pick one and own it
-
-> **Executive Summary:** What if your company could have only one single advantage over the competition? This exercise will make your positioning and strategy stronger.
-> **Original URL:** [https://longform.asmartbear.com/one-benefit/](https://longform.asmartbear.com/one-benefit/)
-
 ![Cartoon 22f27a96](https://longform.asmartbear.com/one-benefit/94a693e5.png)
 
-If your company were allowed only _one_ advantage over the competition, what would a sales call look like, starting with your 30-second pitch, then dealing with skeptical questions, earning this potential customer's interest, respect, and eventually money, all with only one advantage?
+إذا سمح لشركتك بميزة واحدة فقط على المنافسة، كيف ستبدو مكالمة المبيعات، بدءًا من عرض تقديمي مدته 30 ثانية، ثم التعامل مع الأسئلة المتشككة، وكسب اهتمام هذا العميل المحتمل واحترامه، وفي النهاية المال، وكل ذلك بميزة واحدة فقط؟
 
-Impossible? Pointless? Neither!
+مستحيل؟ لا طائل منه؟ لا!
 
-**You should go through this exercise because this skill is valuable in every sales call.** Sometimes you're defending the few advantages you have over a specific competitor. Sometimes you're arguing the virtues of small businesses over large ones. Sometimes you're defending your product against what the potential customer perceives as a glaring lack of functionality.
+**يجب عليك إجراء هذا التمرين لأن هذه المهارة ذات قيمة في كل مكالمة مبيعات.** في بعض الأحيان، أنت تدافع عن المزايا القليلة التي تتمتع بها على منافس معين. في بعض الأحيان تتجادل حول فضائل الشركات الصغيرة مقارنة بالشركات الكبيرة. في بعض الأحيان، أنت تدافع عن منتجك ضد ما يراه العميل المحتمل على أنه نقص صارخ في الوظائف.
 
-Hanging your hat on just one advantage *that you can own completely* is stronger than diluting your message by making many assertions.
+إن تعليق قبعتك على ميزة واحدة فقط *يمكنك امتلاكها بالكامل* أقوى من تمييع رسالتك من خلال تقديم العديد من التأكيدات.
 
-It's not just in face-to-face sales calls either. Your homepage becomes laser-focused. Your advertisements become pointed, powerful, pithy, and other words starting with "p." Your 30-second pitch becomes compelling. You know what to blog and Twitter about. Your 5-minute product demo reinforces a singular point. Everyone knows who you are and where you stand. Especially Carol: Your extra-special [ICP \(Ideal Customer Profile\)](https://longform.asmartbear.com/icp-ideal-customer-persona/).
+لا يقتصر الأمر على مكالمات المبيعات وجهاً لوجه فقط. تصبح صفحتك الرئيسية مركزة على الليزر. تصبح إعلاناتك مدببة وقوية وبليغة، وكلمات أخرى تبدأ بالحرف "p". يصبح عرضك لمدة 30 ثانية مقنعًا. أنت تعرف ما يجب التدوين عليه وتويتر عنه. العرض التوضيحي للمنتج الذي مدته 5 دقائق يعزز نقطة واحدة. الجميع يعرف من أنت وأين تقف. وخاصة كارول: [ICP \(الملف الشخصي المثالي للعميل\)](https://longform.asmartbear.com/icp-ideal-customer-persona/) المميز جدًا.
 
-At least on this one point, you're untouchable. Doesn't that sound nice? It is nice.
+على الأقل في هذه النقطة، أنت لا يمكن المساس بك. ألا يبدو ذلك جميلاً؟ إنه لطيف.
 
-**But don't you need lots of advantages to overcome sales objections and competition?** No. Let's see how to riff off single advantages, using them to answer a range of skeptical questions and concerns.
+**ولكن ألا تحتاج إلى الكثير من المزايا للتغلب على اعتراضات المبيعات والمنافسة؟** لا. دعنا نرى كيفية الاستفادة من المزايا الفردية، واستخدامها للإجابة على مجموعة من الأسئلة والمخاوف المتشككة.
 
-If nothing else, this should [get your juices flowing](https://longform.asmartbear.com/extreme-questions/) and make future sales calls and marketing messages more effective.
+إذا لم يكن هناك أي شيء آخر، فمن المفترض أن يؤدي هذا إلى [تدفق أفكارك](https://longform.asmartbear.com/extreme-questions/) ويجعل مكالمات المبيعات والرسائل التسويقية المستقبلية أكثر فعالية.
 
-## Most Expensive
-*You:* We're the Cadillac tool--the most expensive, but also the best. I know, "most expensive" doesn't automatically imply "best!" But in our case you get what you pay for.
+## أغلى
+*أنت:* نحن أداة كاديلاك - الأغلى ثمنًا، ولكن أيضًا الأفضل. أعلم أن كلمة "الأغلى" لا تعني تلقائيًا "الأفضل!" ولكن في حالتنا تحصل على ما تدفعه مقابل.
 
-*Customer:* Hmm, I don't know, budgets are tight. We're thinking of going open-source--it's free.
+*العميل:* حسنًا، لا أعلم، الميزانيات محدودة. نحن نفكر في التحول إلى نظام مفتوح المصدر، فهو مجاني.
 
-*You:* **Open-source is free like puppies are free.** You don't write a check to get it, but you have to support it for life. Your employee's time is not free. Working around bugs is not free. Having nothing but the ~~Web of Lies~~ internet to rely on for tech support is not free. See, we don't line our pockets with that revenue, we *spend* it making you maximally effective. We answer the phone on the first ring. When you have a problem, we connect you directly with developers instead of hiding behind off-shore Level 1 support. We'll stay on the line with you at 3am as you work through a problem. We'll do a conference call helping you through best-practices on using the tool for your specific purpose. We do things an open-source project cannot do.
+*أنت:* **المصدر المفتوح مجاني مثل الجراء مجانًا.** لا تكتب شيكًا للحصول عليه، ولكن عليك دعمه مدى الحياة. وقت الموظف الخاص بك ليس مجانيا. العمل حول الأخطاء ليس مجانيًا. إن عدم وجود أي شيء سوى ~~شبكة الأكاذيب~~ للاعتماد على الإنترنت للحصول على الدعم الفني ليس مجانيًا. انظر، نحن لا نملأ جيوبنا بهذه الإيرادات، بل *ننفقها* لنجعلك فعالاً إلى أقصى حد. نرد على الهاتف في الحلقة الأولى. عندما تواجه مشكلة، نقوم بتوصيلك مباشرةً بالمطورين بدلاً من الاختباء وراء الدعم الخارجي من المستوى الأول. سنبقى معك على الخط في الساعة 3 صباحًا أثناء حل المشكلة. سنقوم بإجراء مكالمة جماعية لمساعدتك من خلال أفضل الممارسات حول استخدام الأداة لغرضك المحدد. نحن نفعل أشياء لا يستطيع مشروع مفتوح المصدر القيام بها.
 
-*Customer:* OK, that's useful. But BigCorp offers 24/7 tech support too and they have consultants.
+*العميل:* حسنًا، هذا مفيد. لكن BigCorp تقدم أيضًا دعمًا فنيًا على مدار الساعة طوال أيام الأسبوع ولديها مستشارون.
 
-*You:* It's quality, not quantity. Let's get specific. We employ actual software developers for Level 1 tech support and email, so you're talking to someone who not only can answer every question but can even *read the code* to get answers. You're talking to someone who has the power and ability to *change the code* to fix a bug or add a feature. That's an inside track that no big company will offer. And consultants? Our consultants write blog posts about best practices. Our consultants live with the entire team every day. Our consultants train with the top experts in the field, who we can afford because we're the Cadillac. You're not getting someone who realized they can turn a buck installing high-priced software--you're getting true experts giving you insight that only we can provide.
+*أنت:* إنها الجودة وليس الكمية. دعونا الحصول على محددة. نحن نوظف مطوري برامج فعليين للدعم الفني والبريد الإلكتروني من المستوى الأول، لذا فأنت تتحدث إلى شخص لا يمكنه الإجابة على كل سؤال فحسب، بل يمكنه أيضًا *قراءة الكود* للحصول على الإجابات. أنت تتحدث إلى شخص لديه القدرة والقدرة على *تغيير الكود* لإصلاح خطأ ما أو إضافة ميزة. هذا مسار داخلي لن تقدمه أي شركة كبيرة. والاستشاريين؟ يقوم مستشارونا بكتابة منشورات مدونة حول أفضل الممارسات. يعيش مستشارونا مع الفريق بأكمله كل يوم. يتدرب مستشارونا مع أفضل الخبراء في هذا المجال، والذين يمكننا تحمل تكاليفهم لأننا كاديلاك. لن تحصل على شخص يدرك أن بإمكانه جني الأموال من تثبيت برامج باهظة الثمن - بل ستحصل على خبراء حقيقيين يقدمون لك رؤية لا يمكننا تقديمها إلا نحن.
 
-*Customer:* I'm also checking out SimpleCo's tool. They're much cheaper, and although they don't have as many features, it seems simpler to use.
+*العميل:* أنا أيضًا أتحقق من أداة SimpleCo. إنها أرخص بكثير، وعلى الرغم من أنها لا تحتوي على العديد من الميزات، إلا أنها تبدو أسهل في الاستخدام.
 
-*You:* Just because they do less doesn't mean they're easier to use. For example, one of the reasons we're expensive is that we integrate with 20 other software packages. That's great for you, because it means we interoperate with more of your other tools--including that tool you're going to buy next year but you don't know it yet. But it's not more complex for you, because if you don't use an integration, that has zero impact on your day-to-day use. **There's a myth that "more features are always more complex," but that's just bad user interface design.** And yes, you guessed it, we can afford awesome user interface experts who help us avoid those mistakes.
+*أنت:* مجرد أنها تفعل القليل لا يعني أنها أسهل في الاستخدام. على سبيل المثال، أحد أسباب ارتفاع تكاليفنا هو أننا نتكامل مع 20 حزمة برامج أخرى. وهذا أمر رائع بالنسبة لك، لأنه يعني أننا نتفاعل مع المزيد من أدواتك الأخرى - بما في ذلك تلك الأداة التي ستشتريها العام المقبل ولكنك لا تعرفها بعد. لكن الأمر ليس أكثر تعقيدًا بالنسبة لك، لأنه إذا لم تستخدم التكامل، فلن يكون لذلك أي تأثير على استخدامك اليومي. **هناك خرافة مفادها أن "المزيد من الميزات دائمًا ما تكون أكثر تعقيدًا"، ولكن هذا مجرد تصميم سيء لواجهة المستخدم. ** ونعم، لقد خمنت ذلك، يمكننا توفير خبراء رائعين في واجهة المستخدم الذين يساعدوننا في تجنب تلك الأخطاء.
 
-*Customer:* But still, even if I agree with all that, I still have to justify the budget today.
+*العميل:* ولكن مع ذلك، حتى لو كنت أتفق مع كل ذلك، فلا يزال يتعين علي تبرير الميزانية اليوم.
 
-*You:* When you factor in the cost of the tool, also factor in the cost of *failing* to be successful with the tool. To spend many months installing, integrating, training, learning, customizing, fighting, on the line with tech support, only to have it fail in the end--having to rip it out, then go through the whole process again with a new tool. Multiply that by the chance the tool will indeed fail. Sure it's possible that any tool *could* fail, but with us--more features, better support, expert help--it's less likely to happen. Oh, and **besides the catastrophic expense, what's the effect on your personal career?** What's best for you *and* your company is to bet on the best.
+*أنت:* عندما تأخذ في الاعتبار تكلفة الأداة، ضع في الاعتبار أيضًا تكلفة *الفشل* في تحقيق النجاح باستخدام الأداة. لقضاء عدة أشهر في التثبيت، والدمج، والتدريب، والتعلم، والتخصيص، والقتال، على الخط مع الدعم الفني، فقط لتفشل في النهاية - الاضطرار إلى استئصالها، ثم متابعة العملية برمتها مرة أخرى باستخدام أداة جديدة. اضرب ذلك في احتمالية فشل الأداة بالفعل. من المؤكد أنه من الممكن أن تفشل أي أداة، ولكن معنا - المزيد من الميزات، ودعم أفضل، ومساعدة الخبراء - من غير المرجح أن يحدث ذلك. أوه، و**إلى جانب النفقات الكارثية، ما هو التأثير على حياتك المهنية الشخصية؟ ** ما هو الأفضل بالنسبة لك *و* لشركتك هو الرهان على الأفضل.
 
-*(Will this work?  I don't know, but at least the talk-track is clear.)*
+*(هل سينجح هذا؟ لا أعرف، ولكن على الأقل مسار الحديث واضح.)*
 ![Cartoon 4c057ff3](https://longform.asmartbear.com/one-benefit/c6b04c21.png)
 
-## Obsessed with Quality
-*You:* Software is so crappy nowadays, we expect failure. We expect bugs. We expect to be helpless, to just have to "deal with it." At AwesomeCorp, we say that's unacceptable.
+## مهووس بالجودة
+*أنت:* البرمجيات سيئة جدًا هذه الأيام، ونحن نتوقع الفشل. نتوقع الأخطاء. نتوقع أن نكون عاجزين، وأن نضطر فقط إلى "التعامل مع الأمر". في AwesomeCorp، نقول أن هذا غير مقبول.
 
-*Customer:* Yeah.... so you're saying you have no bugs at all?
+*العميل:* نعم.... إذن أنت تقول أنه ليس لديك أي حشرات على الإطلاق؟
 
-*You:* No, I'm saying we're maniacal about finding bugs, and when you find one we're incredibly fast at fixing them. It's not unusual to have a fix in under 24 hours. All software can have bugs, but no one is more committed to fixing them.
+*أنت:* لا، أنا أقول إننا مهووسون بالعثور على الأخطاء، وعندما تجد واحدة نكون سريعين بشكل لا يصدق في إصلاحها. ليس من غير المعتاد أن يتم الإصلاح في أقل من 24 ساعة. يمكن أن تحتوي جميع البرامج على أخطاء، ولكن لا يوجد أحد أكثر التزامًا بإصلاحها.
 
-*Customer:* Well if that's true, that's good. But I'm currently trialing BigCorp's tool and they have more features than you. I don't know which we'll need, but I have a problem buying a tool that doesn't do much.
+*الزبون:* حسنًا، إذا كان هذا صحيحًا، فهذا جيد. لكنني أقوم حاليًا بتجربة أداة BigCorp ولديها ميزات أكثر منك. لا أعرف ما الذي سنحتاجه، ولكن لدي مشكلة في شراء أداة لا تفعل الكثير.
 
-*You:* It sometimes sounds like "more bullet points of more features" is always better, but you and I have used software that *claimed* to have lots of useful features that didn't really work in reality. Usually the more features a product has, the worse each feature is. Try uploading a huge file to BigCorp's tool--oops, it breaks! To us, *saying* you have a feature when in reality it's full of holes is dishonest. We'd rather *know* we have fewer features that we actually stand behind rather than *claim* to have features that are just incomplete.
+*أنت:* يبدو أحيانًا أن "المزيد من النقاط لمزيد من الميزات" هو الأفضل دائمًا، لكن أنا وأنت استخدمنا برنامجًا *يزعم* أنه يحتوي على الكثير من الميزات المفيدة التي لم تعمل حقًا في الواقع. عادةً، كلما زادت ميزات المنتج، كلما كانت كل ميزة أسوأ. حاول تحميل ملف ضخم إلى أداة BigCorp--عذرًا، سيتعطل الأمر! بالنسبة لنا، *القول* أن لديك ميزة بينما هي في الواقع مليئة بالثغرات هو أمر غير صادق. نحن نفضل *أن نعرف* أن لدينا عددًا أقل من الميزات التي ندعمها فعليًا بدلاً من *الادعاء* بأن لدينا ميزات غير مكتملة.
 
-*Customer:* OK, I can appreciate that, but what about OpenSourceOrg's tool? I know it doesn't do quite as much as yours, but free is free!
+*العميل:* حسنًا، يمكنني أن أقدر ذلك، ولكن ماذا عن أداة OpenSourceOrg؟ أعلم أنه لا يفعل نفس القدر الذي تقدمه لك، لكن مجانًا مجانًا!
 
-*You:* Yup, free is free... until you run into a bug. It's free until it has a security breach that you didn't find out about for two years. It's free until you notice there's incorrect data floating around. It's free until you need something and there's no one to ask. Of course they say "you can fix that bug yourself" or "you can add that feature yourself," but that ain't free! And even if you invest the effort, if they don't accept your patch you'll constantly have to re-patch when you get updates. Bugs are a reality, and that's when open-source starts to become non-free in a hurry. We, on the other hand, never charge you for bug fixes, even years later, because we're 100% committed to quality code.
+*أنت:* نعم، مجانًا مجانًا... حتى تواجه خطأ ما. إنه مجاني حتى يحدث خرق أمني لم تكتشفه لمدة عامين. إنه مجاني حتى تلاحظ وجود بيانات غير صحيحة. إنه مجاني حتى تحتاج إلى شيء ما ولا يوجد أحد ليطلبه. بالطبع يقولون "يمكنك إصلاح هذا الخلل بنفسك" أو "يمكنك إضافة هذه الميزة بنفسك"، لكن هذا ليس مجانيًا! وحتى إذا استثمرت مجهودك، إذا لم يقبلوا التصحيح الخاص بك، فسيتعين عليك دائمًا إعادة التصحيح عندما تحصل على التحديثات. الأخطاء حقيقة واقعة، وذلك عندما تصبح المصادر المفتوحة غير مجانية بسرعة. ومن ناحية أخرى، فإننا لا نفرض عليك أي رسوم مقابل إصلاح الأخطاء، حتى بعد مرور سنوات، لأننا ملتزمون بنسبة 100% برموز الجودة.
 
-*(Will this work?  I don't know, but at least the talk-track is clear.)*
+*(هل سينجح هذا؟ لا أعرف، ولكن على الأقل مسار الحديث واضح.)*
 
-## Small Company
-*You:* If you haven't worked with a small company before, you're in for a nice surprise: Smart people you can actually talk to, people who care about what you need, people willing to go out of their way to make sure you're successful. [It's why people love small companies.](https://longform.asmartbear.com/authentic/)
+## شركة صغيرة
+*أنت:* إذا لم تكن قد عملت مع شركة صغيرة من قبل، فستنتظرك مفاجأة جميلة: أشخاص أذكياء يمكنك التحدث إليهم بالفعل، وأشخاص يهتمون بما تحتاجه، وأشخاص على استعداد لبذل قصارى جهدهم للتأكد من نجاحك. [لهذا السبب يحب الناس الشركات الصغيرة.](https://longform.asmartbear.com/authentic/)
 
-*Customer:* I get that, but little companies fail all the time. How do I know you'll be around to give me that great support?
+*العميل:* أفهم ذلك، لكن الشركات الصغيرة تفشل طوال الوقت. كيف أعرف أنك ستكون موجودًا لتقدم لي هذا الدعم الكبير؟
 
-*You:* You say that as if big companies are stable during recessions and accounting scandals! You say that as if big companies don't cut entire product lines if they're not profitable, or sell them off even if they are. It's impossible to know when a big company is about to discontinue your product, and it happens all the time.
+*أنت:* تقول ذلك وكأن الشركات الكبرى تكون مستقرة أثناء فترات الركود والفضائح المحاسبية! أنت تقول ذلك كما لو أن الشركات الكبرى لا تقطع خطوط إنتاج كاملة إذا لم تكن مربحة، أو تبيعها حتى لو كانت مربحة. من المستحيل معرفة متى تكون شركة كبيرة على وشك التوقف عن منتجك، وهذا يحدث طوال الوقت.
 
-*Customer:* You say you have great support, but BigCorp is the one with 1000 developers and support engineers willing to help me.
+*العميل:* أنت تقول إن لديك دعمًا رائعًا، ولكن BigCorp هي الشركة التي تضم 1000 مطور ومهندس دعم على استعداد لمساعدتي.
 
-*You:* **"Willing" to help you perhaps, but able?** Typically the software developers are shielded by "Level 1 support"--people without power, certainly not the power to get your feature requests into the pool. In fact, wouldn't you agree most tech support feels like a shield rather than a help? Even if you get a bug into the pile or a feature onto the list, big companies release new versions infrequently, so you might have to live without it for a year. Not us. You get to complain directly to the engineers who can fix the problem in weeks--sometimes days.
+*أنت:* **ربما "على استعداد" لمساعدتك، ولكنك قادر على ذلك؟** عادةً ما يكون مطورو البرامج محميين من خلال "دعم المستوى الأول" - وهم أشخاص لا يتمتعون بالقوة، وبالتأكيد ليس لديهم القدرة على إدخال طلبات الميزات الخاصة بك إلى المجموعة. في الواقع، ألا توافق على أن معظم الدعم الفني يبدو وكأنه درع وليس مساعدة؟ حتى لو حصلت على خطأ في الكومة أو ميزة في القائمة، فإن الشركات الكبرى تصدر إصدارات جديدة بشكل غير متكرر، لذلك قد تضطر إلى العيش بدونها لمدة عام. ليس نحن. يمكنك تقديم شكوى مباشرة إلى المهندسين الذين يمكنهم حل المشكلة خلال أسابيع، وفي بعض الأحيان أيام.
 
-*Customer:* But they have 24/7 support. Do you have that?
+*العميل:* لكن لديهم دعم على مدار الساعة طوال أيام الأسبوع. هل لديك ذلك؟
 
-*You:* **No, we don't pay folks we've never met $1.25/hour to answer the phone at 3am PST so they can tell you to reboot your machine and [RTFM](http://en.wikipedia.org/wiki/RTFM).** Instead we pay actual software developers $75/hour to talk with you in person about exactly what's wrong, either solving the problem or getting it fixed ASAP. Sometimes we even write special code just to get you running again, tiding you over until a proper fix is released. Try getting that from BigCorp!
+*أنت:* **لا، نحن لا ندفع للأشخاص الذين لم نقابلهم أبدًا 1.25 دولارًا في الساعة للرد على الهاتف في الساعة 3 صباحًا بتوقيت المحيط الهادئ حتى يتمكنوا من إخبارك بإعادة تشغيل جهازك و[RTFM](http://en.wikipedia.org/wiki/RTFM).** بدلاً من ذلك، ندفع لمطوري البرامج الفعليين 75 دولارًا في الساعة للتحدث معك شخصيًا حول المشكلة بالضبط، إما بحل المشكلة أو إصلاحها في أسرع وقت ممكن. في بعض الأحيان نكتب رمزًا خاصًا فقط لنجعلك تعمل مرة أخرى، ونرشدك حتى يتم إصدار الإصلاح المناسب. حاول الحصول على ذلك من BigCorp!
 
-*Customer:* Well if that's true, that's good. But BigCorp also has more features than you.
+*الزبون:* حسنًا، إذا كان هذا صحيحًا، فهذا جيد. لكن لدى BigCorp أيضًا ميزات أكثر منك.
 
-*You:* Do you really want your tools to have "more features," or is it really that you want your specific needs met, and "more features" *could potentially* mean that more of your needs are met? We believe the point of software is to solve your problems and make your life better without incurring too much new expense in time and money. Even assuming BigCorp's has one or two features you like today, **what about in six months when you're deep into the tool and realize there's 10 more things you really want?** Do you expect them to add half of those to their next release? Because that's exactly what we're going to do--hold proactive meetings to find out what you need to be most productive, and agree to add those as soon as we can. Don't ask "Which tool will satisfy my needs today," ask "One year from now, which tool will be satisfying my needs, including the ones I can't foresee?"
+*أنت:* هل تريد حقًا أن تحتوي أدواتك على "المزيد من الميزات"، أم أنك تريد بالفعل تلبية احتياجاتك المحددة، و"المزيد من الميزات" *من المحتمل* أن تعني تلبية المزيد من احتياجاتك؟ نحن نؤمن بأن الهدف من البرنامج هو حل مشكلاتك وجعل حياتك أفضل دون تكبد الكثير من النفقات الجديدة من حيث الوقت والمال. حتى لو افترضنا أن لدى BigCorp ميزة أو اثنتين من الميزات التي تعجبك اليوم، **ماذا سيحدث بعد ستة أشهر عندما تتعمق في الأداة وتدرك أن هناك 10 أشياء أخرى تريدها حقًا؟ ** هل تتوقع منهم إضافة نصف هذه الأشياء إلى إصدارهم التالي؟ لأن هذا هو بالضبط ما سنفعله - عقد اجتماعات استباقية لمعرفة ما تحتاجه لتكون أكثر إنتاجية، والموافقة على إضافتها في أقرب وقت ممكن. لا تسأل "ما الأداة التي ستلبي احتياجاتي اليوم"، اسأل "بعد عام من الآن، ما هي الأداة التي ستلبي احتياجاتي، بما في ذلك تلك التي لا أستطيع توقعها؟"
 
-*(Will this work?  I don't know, but at least the talk-track is clear.)*
+*(هل سينجح هذا؟ لا أعرف، ولكن على الأقل مسار الحديث واضح.)*
 
 ---
 
-**Why try to defend ten points when you only need one or two to make your case?**
+**لماذا تحاول الدفاع عن عشر نقاط عندما تحتاج فقط إلى نقطة أو اثنتين لعرض قضيتك؟**
 
-Why not focus your message, focus your behavior, focus your UX, focus your product, focus your [target customer](https://longform.asmartbear.com/icp-ideal-customer-persona/), and focus your sales pitch?
+لماذا لا تركز على رسالتك، وتركز سلوكك، وتركز على تجربة المستخدم الخاصة بك، وتركز على منتجك، وتركز على [العميل المستهدف](https://longform.asmartbear.com/icp-ideal-customer-persona/)، وتركز على عرض مبيعاتك؟
 
-It's already hard enough to stake out a niche in this massive world! Don't dilute your message.
+من الصعب بالفعل الحصول على مكانة في هذا العالم الضخم! لا تمييع رسالتك.

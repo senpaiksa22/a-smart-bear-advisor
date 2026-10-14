@@ -20,232 +20,219 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** القوى الفيزيائية الأساسية للتوسع والنمو في الشركات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The fundamental forces of scale
-
-> **Executive Summary:** These forces make larger companies slower and more difficult to execute, but also more effective when harnessed and leveraged.
-> **Original URL:** [https://longform.asmartbear.com/scale/](https://longform.asmartbear.com/scale/)
-
 ![im not letting myself go im scaling](https://public.asmartbear.com/books/anthology/chapters/scale/d7574print-simple.png)
 
-Idealistic founders believe they will break the mold when they start scaling. They will *not* turn into a "typical big company."
+يعتقد المؤسسون المثاليون أنهم سيكسرون القالب عندما يبدأون في التوسع. لن يتحولوا إلى "شركة كبيرة نموذجية".
 
-By which they mean: No stupid rules that assume employees are dumb or evil, with everything taking ten times longer than it should, with wall-to-wall meetings, and hiring "average" or "normal" people.
+ويقصدون بذلك: لا توجد قواعد غبية تفترض أن الموظفين أغبياء أو أشرار، حيث يستغرق كل شيء وقتًا أطول بعشر مرات مما ينبغي، مع عقد اجتماعات شاملة، وتوظيف أشخاص "متوسطين" أو "عاديين".
 
-That is, preserving the positive characteristics of tiny organizations while avoiding the common problems of large ones, by adapting the startup's existing processes, that have served them so well thus far. We're merely doing it with more people now, and still figuring it out as we go along, exactly as we always have.
+وهذا يعني الحفاظ على الخصائص الإيجابية التي تتمتع بها المنظمات الصغيرة مع تجنب المشاكل المشتركة التي تواجهها المنظمات الكبيرة، من خلال تكييف العمليات الحالية للشركات الناشئة، والتي خدمتها بشكل جيد حتى الآن. نحن نفعل ذلك مع عدد أكبر من الأشخاص الآن، وما زلنا نكتشف ذلك مع تقدمنا، تمامًا كما فعلنا دائمًا.
 
-**Why do they never succeed?** Why is it impossible for all of these intelligent, well-meaning founders to run a 500-person organization like a 50-person one? What are these unavoidable forces?
+**لماذا لا ينجحون أبدًا؟** لماذا يستحيل على كل هؤلاء المؤسسين الأذكياء وذوي النوايا الحسنة أن يديروا مؤسسة مكونة من 500 شخص مثل مؤسسة مكونة من 50 شخصًا؟ ما هي هذه القوى التي لا مفر منها؟
 
-Are they really unavoidable?
+هل هم حقا لا مفر منهم؟
 
-## The two fundamental challenges of scale
+## التحديان الأساسيان المتمثلان في الحجم
 
-After understanding these two primary drivers, we'll see how they explain the challenges that arise in every corner of the business.
+بعد فهم هذين المحركين الأساسيين، سنرى كيف يفسران التحديات التي تنشأ في كل ركن من أركان العمل.
 
-### Rare things become common
+### الأشياء النادرة تصبح شائعة
 
-[At scale, rare things become common](https://longform.asmartbear.com/scale-rare/).
+[على نطاق واسع، تصبح الأشياء النادرة شائعة](https://longform.asmartbear.com/scale-rare/).
 
-Rare things are difficult to predict, and typically difficult to prevent. Before scale, they are, well, _rare_, so this doesn't matter; they can be handled manually. But when they start happening daily, new processes become necessary.
+من الصعب التنبؤ بالأشياء النادرة، ومن الصعب عادةً منعها. قبل المقياس، فهي، حسنًا، نادرة، لذا هذا لا يهم؛ يمكن التعامل معها يدويًا. ولكن عندما تبدأ بالحدوث يوميًا، تصبح العمليات الجديدة ضرورية.
 
-For instance, with 1,000 servers, a server failure every three years translates to one failure per day. This frequency impacts not just DevOps but also customer support and social media teams. Customers are impacted and complaining every day, even if each individual event is rare, impossible to predict, and impossible to prevent. Automation helps, but doesn't solve the problem.
+على سبيل المثال، مع وجود 1000 خادم، فإن فشل الخادم كل ثلاث سنوات يترجم إلى فشل واحد يوميًا. لا يؤثر هذا التردد على DevOps فحسب، بل يؤثر أيضًا على دعم العملاء وفرق التواصل الاجتماعي. يتأثر العملاء ويشكون كل يوم، حتى لو كان كل حدث على حدة نادرًا، ومن المستحيل التنبؤ به، ومن المستحيل منعه. الأتمتة تساعد، لكنها لا تحل المشكلة.
 
-This is inescapable math crops up all over the business.
+هذا أمر لا مفر منه في الرياضيات في جميع أنحاء العمل.
 
-### Complexity beyond human comprehension
+### تعقيد يتجاوز الفهم البشري
 
-Human minds have limited computational abilities. A sufficiently complex system cannot be fully comprehended at all.
+العقول البشرية لديها قدرات حسابية محدودة. لا يمكن فهم نظام معقد بدرجة كافية على الإطلاق.
 
-"Complicated" systems can be comprehended. These types of systems are intricate, but they exhibit properties which allow people to tame the beast. Components of complicated systems can be separated, built and tested on their own, then assembled; thus, divide-and-conquer is a useful technique. Challenges are difficult but are solvable, especially if you have seen them before; thus, "experts" and "specialists" can solve the puzzles. Repeatable processes can monitor the system.
+يمكن فهم الأنظمة "المعقدة". هذه الأنواع من الأنظمة معقدة، لكنها تظهر خصائص تسمح للناس بترويض الوحش. يمكن فصل مكونات الأنظمة المعقدة، وبنائها، واختبارها بمفردها، ثم تجميعها؛ وبالتالي، فإن سياسة فرق تسد هي تقنية مفيدة. التحديات صعبة ولكنها قابلة للحل، خاصة إذا كنت قد رأيتها من قبل؛ وهكذا يستطيع "الخبراء" و"المتخصصون" حل الألغاز. يمكن للعمليات المتكررة مراقبة النظام.
 
-"Complex" systems, in contrast, have components which affect each other, often cyclically. Therefore, while it's still useful to build and test components separately, there's just as much complexity in their interaction. Indeed, most of the difficulty lies in those interstitial spaces. The human brain is composed of neuron "components" which are relatively well-understood; it's in the complex, multi-directional, cyclical interactions that everything interesting--and inscrutable--unfolds. Large-scale effects like "consciousness" completely evade our understanding, as it emerges from complexity we have yet to comprehend.
+في المقابل، تحتوي الأنظمة "المعقدة" على مكونات تؤثر على بعضها البعض، بشكل دوري في كثير من الأحيان. لذلك، على الرغم من أنه لا يزال من المفيد إنشاء المكونات واختبارها بشكل منفصل، إلا أن تفاعلها لا يزال بنفس القدر من التعقيد. في الواقع، تكمن معظم الصعوبة في تلك المساحات الخلالية. يتكون الدماغ البشري من "مكونات" عصبية مفهومة جيدًا نسبيًا؛ إنه في التفاعلات الدورية المعقدة ومتعددة الاتجاهات التي يتكشف فيها كل شيء مثير للاهتمام - وغامض. إن التأثيرات واسعة النطاق مثل "الوعي" تتهرب تمامًا من فهمنا، لأنها تنبثق من التعقيد الذي لم نفهمه بعد.
 
 ![This "Complicated" vs "Complex" terminology comes from the Cynefin Framework.](https://public.asmartbear.com/books/anthology/chapters/scale/cynefin-framework-2022-simple.png)
 
-As a company scales, there are both kinds of systems, but the complex ones are fundamentally difficult, and never stop being difficult. Their difficulty grows non-linearly as the company grows.
+عندما تتوسع الشركة، يوجد كلا النوعين من الأنظمة، لكن الأنظمة المعقدة صعبة بشكل أساسي، ولا تتوقف أبدًا عن كونها صعبة. وتنمو الصعوبة التي يواجهونها بشكل غير خطي مع نمو الشركة.
 
-And even our unthinkably complex human brains, cannot comprehend the system.
+وحتى أدمغتنا البشرية المعقدة بشكل لا يمكن تصوره، لا يمكنها فهم النظام.
 
 ---
 
-With the two fundamental principles in hand, we can detail specific challenges of scale.
+ومع توفر المبدأين الأساسيين، يمكننا تفصيل التحديات المحددة ذات الحجم الكبير.
 
-## The human cost of robust teams
+## التكلفة البشرية للفرق القوية
 
-A "team of one" is the fastest, most efficient team, if you measure by "output per person." There's no communication, no meetings, and decisions can be made instantly. Small companies operate this way by necessity, and it works! It's a big reason why they move quickly, and "punch above their weight" as is often said.
+"الفريق المكون من فرد واحد" هو الفريق الأسرع والأكثر كفاءة، إذا قمت بالقياس من خلال "الإنتاج لكل شخص". لا يوجد أي اتصال، ولا اجتماعات، ويمكن اتخاذ القرارات على الفور. تعمل الشركات الصغيرة بهذه الطريقة بحكم الضرورة، وقد نجحت! إنه سبب كبير وراء تحركهم بسرعة و"الثقب فوق وزنهم" كما يقال غالبًا.
 
-But, an illness takes the velocity of the product or the quality of customer service from heroic to zero. With a small team, if one person leaves, you've just lost six months to hiring and getting-up-to-speed on that project. Or twelve months or a complete rewrite because there wasn't any processes and documentation in place... because it was just one person, who didn't need that stuff, because after all we're moving so quickly! And not communicating!
+لكن المرض يأخذ سرعة المنتج أو جودة خدمة العملاء من البطولية إلى الصفر. مع فريق صغير، إذا غادر شخص واحد، تكون قد خسرت ستة أشهر للتوظيف والبدء في تنفيذ هذا المشروع. أو اثني عشر شهرًا أو إعادة كتابة كاملة لأنه لم تكن هناك أي عمليات أو وثائق جاهزة... لأنه كان مجرد شخص واحد، لم يكن بحاجة إلى هذه الأشياء، لأننا في النهاية نتحرك بسرعة كبيرة! وعدم التواصل!
 
-Or it's fatal because that was a co-founder. "Founder trouble" [is a leading cause](https://fortune.com/2014/09/25/why-startups-fail-according-to-their-founders/) of [startup death](https://www.paulgraham.com/die.html).[^1]
+أو أنه أمر قاتل لأن ذلك كان أحد المؤسسين. "مشكلة المؤسس" [هي سبب رئيسي](https://fortune.com/2014/09/25/why-startups-fail-according-to-their-founders/) لـ [موت الشركة الناشئة](https://www.paulgraham.com/die.html).[^1]
 
-[^1]: Although data also show that [companies with only one founder are more likely to fail](https://www.entrepreneur.com/business-news/why-startups-fail-according-to-their-founders/238088). So which is better? To me, it comes down to temperament--some people really want to be the only one at the top, and some want to share the burdens with others.
+[^1]: على الرغم من أن البيانات تظهر أيضًا أن [الشركات التي لديها مؤسس واحد فقط تكون أكثر عرضة للفشل](https://www.entrepreneur.com/business-news/why-startups-fail-according-to-their-founders/238088). إذن أيهما أفضل؟ بالنسبة لي، يتعلق الأمر بالمزاج - فبعض الناس يريدون حقًا أن يكونوا الوحيدين في القمة، والبعض الآخر يريد تقاسم الأعباء مع الآخرين.
 
 ![i dunno first mate has been done to death how about this co pirate](https://public.asmartbear.com/books/anthology/chapters/scale/d5924print-simple.png)
 
-So **a team of one is fast, but brittle**. When you're small, this is a good trade-off, because speed is critical for combating the things that are constantly about to kill the company--lack of customers, lack of market attention, lack of core features, [all the things](https://longform.asmartbear.com/problem/). When you're large, with 15-25% annual employee turnover, not to mention illness, vacation, and family, people will be leaving (temporarily or permanently) every day--rare things becoming common. Maintaining the same attitude as when you were tiny is disorganized and irresponsible, and the company would fail to function.
+لذلك **الفريق المكون من فرد واحد سريع ولكنه هش**. عندما تكون صغيرًا، فهذه مقايضة جيدة، لأن السرعة أمر بالغ الأهمية لمكافحة الأشياء التي على وشك قتل الشركة باستمرار - قلة العملاء، وقلة اهتمام السوق، ونقص الميزات الأساسية، [كل الأشياء](https://longform.asmartbear.com/problem/). عندما تكون شركة كبيرة، حيث يبلغ معدل دوران الموظفين السنوي 15-25٪، ناهيك عن المرض والإجازات والأسرة، سيغادر الموظفون (مؤقتًا أو دائمًا) كل يوم - تصبح الأشياء النادرة شائعة. إن الحفاظ على نفس الموقف الذي كنت عليه عندما كنت صغيرًا هو أمر غير منظم وغير مسؤول، وقد تفشل الشركة في أداء وظيفتها.
 
-So, at scale, no project can have fewer than, say, three people dedicated to it, plus management and possibly some form of Product or Project Management. But that team of 4-5 will not be 4x-5x more productive than the one-person team; **per-person productivity goes down in exchange for robustness and continuity**.
+لذلك، على نطاق واسع، لا يمكن لأي مشروع أن يضم أقل من ثلاثة أشخاص مخصصين له، على سبيل المثال، بالإضافة إلى الإدارة وربما شكل من أشكال إدارة المنتج أو المشروع. لكن هذا الفريق المكون من 4-5 أفراد لن يكون أكثر إنتاجية 4x5x من الفريق المكون من شخص واحد؛ **تنخفض إنتاجية الفرد مقابل القوة والاستمرارية**.
 
-On the other hand, while the small company loses 9 months to the loss of a key employee, or even implodes, the big company is the steady turtle that adds thousands of customer per month like clockwork and wins the race.
+من ناحية أخرى، في حين تخسر الشركة الصغيرة 9 أشهر بسبب فقدان موظف رئيسي، أو حتى الانهيار، فإن الشركة الكبيرة هي السلحفاة الثابتة التي تضيف آلاف العملاء شهريًا كالساعة وتفوز بالسباق.
 
-## The high cost of robust systems
+## التكلفة العالية للأنظمة القوية
 
-You might think that software systems wouldn't suffer the same brittleness as human systems, because we have things like automation and DevOps. Sadly, robust software is similarly much more costly and complicated.
+قد تعتقد أن أنظمة البرمجيات لن تعاني من نفس الهشاشة التي تعاني منها الأنظمة البشرية، لأن لدينا أشياء مثل الأتمتة وDevOps. ومن المؤسف أن البرامج القوية هي بالمثل أكثر تكلفة وتعقيدًا.
 
-Consider the case of serving a website (don't worry, you don't need to be an software engineer to follow this example!). Suppose there's a network connection to the internet, a server that runs the web site's software, and a database that holds the web site's content. We have a single server, and it works most of the time. Let's say it works 99.9% of the time; that's sounds pretty good!
+خذ بعين الاعتبار حالة خدمة موقع ويب (لا تقلق، لست بحاجة إلى أن تكون مهندس برمجيات لتتبع هذا المثال!). لنفترض أن هناك اتصالاً بالشبكة بالإنترنت، وخادمًا يقوم بتشغيل برنامج موقع الويب، وقاعدة بيانات تحتوي على محتوى موقع الويب. لدينا خادم واحد، ويعمل معظم الوقت. لنفترض أنها تعمل بنسبة 99.9% من الوقت؛ هذا يبدو جيدا جدا!
 
-Well, it's not that good, actually. Failing for 0.1% of a year means it has failed for more than 500 minutes--surely an unacceptable amount of down-time! This happens because a rare thing (0.1% failure) became common (at the scale of about half a million minutes in a year).
+حسنا، انها ليست جيدة، في الواقع. الفشل لمدة 0.1% من العام يعني فشله لأكثر من 500 دقيقة - وهو بالتأكيد قدر غير مقبول من وقت التوقف عن العمل! يحدث هذا لأن شيئًا نادرًا (فشل بنسبة 0.1٪) أصبح شائعًا (بمقياس حوالي نصف مليون دقيقة في السنة).
 
-What if we had two servers instead? That way, when one fails, the other is still available. They'd *both* have to fail *simultaneously* for the website to be offline, which would happen `0.1% ✕ 0.1% = 0.0001%` of the time, which would be only 30 seconds per year, so that really *is* great.[^2]
+ماذا لو كان لدينا خادمين بدلاً من ذلك؟ وبهذه الطريقة، عندما يفشل أحدهما، يظل الآخر متاحًا. يجب *كلاهما* أن يفشلا *في وقت واحد* حتى يصبح موقع الويب غير متصل بالإنترنت، وهو ما سيحدث `0.1% ✕ 0.1% = 0.0001%` من الوقت، والذي سيكون 30 ثانية فقط في السنة، لذلك *هذا* رائع حقًا.[^2]
 
-OK, that's twice as expensive, because we now have two servers, but it's worth it for being more robust.[^3] But wait, that's not enough, because the traffic that comes in from the internet needs to be distributed across the two servers, and it needs to have some intelligence to route traffic to the healthy one, in case one is failing. That's called a "Load Balancer," and all cloud infrastructure providers have them, and they cost more money. So that's another component to manage, and more expense.
+حسنًا، هذا مكلف مرتين، لأن لدينا الآن خادمين، ولكنه يستحق ذلك لأنه أكثر قوة.[^3] لكن مهلًا، هذا ليس كافيًا، لأن حركة المرور الواردة من الإنترنت يجب توزيعها عبر الخادمين، ويحتاج إلى بعض الذكاء لتوجيه حركة المرور إلى الخادم السليم، في حالة فشل أحدهما. وهذا ما يسمى "موازن التحميل"، ويمتلكه جميع موفري البنية التحتية السحابية، ويكلفون المزيد من المال. لذلك، هذا عنصر آخر يجب إدارته، والمزيد من النفقات.
 
-[^2]: Sadly this is not really how the world works; typically failures are correlated or cascade. We'll keep things simple for sake of the example, but this complication proves the point yet again.
+[^2]: للأسف، هذه ليست الطريقة التي يعمل بها العالم حقًا؛ عادةً ما تكون حالات الفشل مرتبطة أو متسلسلة. سنبقي الأمور بسيطة من أجل المثال، ولكن هذا التعقيد يثبت هذه النقطة مرة أخرى.
 
-[^3]: You might think we can save money by buying cheaper servers, because each needs only one half the capacity of the original. But no, because in the failure mode, a single server still needs to serve all the traffic, so each needs to be powerful enough to work on its own.
+[^3]: قد تعتقد أنه يمكننا توفير المال عن طريق شراء خوادم أرخص، لأن كل خادم يحتاج إلى نصف سعة الخادم الأصلي فقط. ولكن لا، لأنه في وضع الفشل، لا يزال هناك خادم واحد بحاجة إلى خدمة كل حركة المرور، لذلك يجب أن يكون كل خادم قويًا بما يكفي للعمل بمفرده.
 
-And wait, there's also that database. The two servers need to share a common database of content, so the database needs to be moved off to its own server. And what if *that* server fails? Then we have downtime again. So we also need two of *those* for continuity.
+وانتظر، هناك أيضًا قاعدة البيانات تلك. يحتاج الخادمان إلى مشاركة قاعدة بيانات مشتركة للمحتوى، لذلك يجب نقل قاعدة البيانات إلى الخادم الخاص بها. وماذا لو فشل ذلك الخادم؟ ثم لدينا التوقف مرة أخرى. لذلك نحتاج أيضًا إلى اثنين من *هؤلاء* للاستمرارية.
 
-Now we're up to four servers plus a Load Balancer, and more than 4x the original cost. You can buy robustness, but it's far more expensive than you might think. We haven't even gotten to the fact that managing multiple servers is more difficult, or that there can be failures in the communications between servers, or failures in the Load Balancer which takes down the whole system[^4]--all decreasing our robustness, requiring even more effort to deliver the end result.
+لدينا الآن ما يصل إلى أربعة خوادم بالإضافة إلى Load Balancer، وأكثر من 4 أضعاف التكلفة الأصلية. يمكنك شراء المتانة، لكنها أغلى بكثير مما قد تعتقد. لم نصل حتى إلى حقيقة أن إدارة خوادم متعددة أكثر صعوبة، أو أنه قد يكون هناك فشل في الاتصالات بين الخوادم، أو فشل في Load Balancer الذي يؤدي إلى تعطل النظام بأكمله[^4]--كل ذلك يقلل من قوتنا، ويتطلب المزيد من الجهد لتحقيق النتيجة النهائية.
 
-[^4]: Yes, there's solutions to this too--more redundancy at the network layer, often with a different vendor, but again, all more cost and complication!
+[^4]: نعم، هناك حلول لهذا أيضًا--المزيد من التكرار في طبقة الشبكة، غالبًا مع بائع مختلف، ولكن مرة أخرى، كل ذلك أكثر تكلفة وتعقيدًا!
 
-**Robustness always carries a cost.** Whether it's running four servers instead of one, or a team of four instead of one, you trade local inefficiency for whole-company continuity.
+**المتانة لها تكلفة دائمًا.** سواء كان الأمر يتعلق بتشغيل أربعة خوادم بدلاً من واحد، أو فريق من أربعة بدلاً من واحد، فإنك تستبدل عدم الكفاءة المحلية باستمرارية الشركة بأكملها.
 
-## Predictability (that you actually need)
+## القدرة على التنبؤ (التي تحتاجها بالفعل)
 
-When you're small there's no need to predict when a feature will ship. Marketing isn't scheduling a launch and Recruiting isn't timing the start-dates of the next 50 hires in customer service and sales. This means you can--and should!--optimize myopically for speed-to-market.
+عندما تكون صغيرًا، لا داعي للتنبؤ بموعد طرح الميزة. لا يقوم التسويق بجدولة عملية الإطلاق، كما أن عملية التوظيف لا تحدد تواريخ البدء للخمسين موظفًا التاليين في خدمة العملاء والمبيعات. هذا يعني أنه يمكنك - ويجب عليك! - تحسين سرعة الوصول إلى السوق بشكل قصير النظر.
 
-Small companies correctly brag about their speed as an advantage, but it's easy to see how a larger company has a different--and massive--advantage of execution. Sure, when our company WP Engine launches a new product, the marketing department needs predictability for the launch date, but that's because it's a highly-skilled, well-funded, coordinate group of teams that explode with press, events, campaigns, social media, and newsletters, grabbing more attention in a single week than a smaller company might scrape together in a year. There are also global Sales and Support teams, so we're immediately selling to 200,000 existing customers as well as thousands of new customers per month, which means we'll add more additional revenue each month than a small company will earn over a whole year.
+تتفاخر الشركات الصغيرة بشكل صحيح بسرعتها باعتبارها ميزة، ولكن من السهل أن ترى كيف تتمتع شركة أكبر بميزة مختلفة - وهائلة - في التنفيذ. بالتأكيد، عندما تطلق شركتنا WP Engine منتجًا جديدًا، يحتاج قسم التسويق إلى القدرة على التنبؤ بتاريخ الإطلاق، ولكن هذا لأنه عبارة عن مجموعة منسقة من الفرق ذات المهارات العالية والممولة جيدًا والتي تنفجر بالصحافة والأحداث والحملات ووسائل التواصل الاجتماعي والنشرات الإخبارية، وتجذب المزيد من الاهتمام في أسبوع واحد أكثر مما قد تجمعه شركة أصغر معًا في عام واحد. هناك أيضًا فرق مبيعات ودعم عالمية، لذلك نقوم بالبيع على الفور إلى 200000 عميل حالي بالإضافة إلى آلاف العملاء الجدد شهريًا، مما يعني أننا سنضيف إيرادات إضافية كل شهر أكثر مما تكسبه شركة صغيرة على مدار عام كامل.
 
-But all this requires predictability. We didn't line up that press and have those sales materials and train hundreds of support reps and ensure that code-quality is high enough to scale on day one, without predictability. Predictability requires going slower. Predictability requires estimation (takes time), coordination (takes time), planning (takes time), documentation (takes time), and adjusting the plan across all teams when life [inevitably unfolds differently from the prediction](https://longform.asmartbear.com/predict-the-future/) (takes time).
+لكن كل هذا يتطلب القدرة على التنبؤ. لم نقم بإعداد تلك الصحافة وتجهيز مواد المبيعات تلك وتدريب المئات من مندوبي الدعم والتأكد من أن جودة التعليمات البرمجية عالية بما يكفي للتوسع في اليوم الأول، دون إمكانية التنبؤ. القدرة على التنبؤ تتطلب التحرك بشكل أبطأ. تتطلب القدرة على التنبؤ التقدير (يستغرق وقتًا)، والتنسيق (يستغرق وقتًا)، والتخطيط (يستغرق وقتًا)، والتوثيق (يستغرق وقتًا)، وتعديل الخطة عبر جميع الفرق عندما تتكشف الحياة حتمًا بشكل مختلف عن التنبؤ](https://longform.asmartbear.com/predict-the-future/) (تستغرق وقتًا).
 
 ![surprised investors expecting worst performing miserably](https://public.asmartbear.com/books/anthology/chapters/scale/d4713print-simple.png)
 
-When you're hiring lots of people, you need predictability. Consider the timeline of adding a technical support team member. First, Recruiting is casting about for potential candidates. Then scheduling and performing interviews. Then waiting for them to quit their job and take a week off. Then new-employee-orientation. Then classroom training. Then paired up with senior folks on the floor as they ramp up their skills and comfort. Therefore the time between deciding to grow the support team, and having new people up-to-speed, is four to six months.
+عندما تقوم بتوظيف الكثير من الأشخاص، فإنك تحتاج إلى القدرة على التنبؤ. ضع في اعتبارك الجدول الزمني لإضافة عضو فريق الدعم الفني. أولاً، التوظيف هو البحث عن المرشحين المحتملين. ثم جدولة وإجراء المقابلات. ثم انتظارهم ليتركوا عملهم ويأخذوا إجازة لمدة أسبوع. ثم توجيه الموظف الجديد. ثم التدريب في الفصول الدراسية. ثم انضم إلى كبار الأشخاص على الأرض أثناء تكثيف مهاراتهم وراحتهم. ولذلك، فإن الوقت بين اتخاذ القرار بتنمية فريق الدعم وتكوين أشخاص جدد على اطلاع بآخر المستجدات، هو من أربعة إلى ستة أشهر.
 
-Therefore, we have to predict the demand for technical support four to six months in advance, because we need to be hiring for that *right now*. If we under-estimate, our support folks get overwhelmed with too much work; their quality of life suffers, and service to each customer suffers. If we over-estimate, we have too many people, which is a [cost penalty](https://longform.asmartbear.com/more-money/). Of course the latter is a better failure mode than the former, but both are sub-optimal, and the solution is predictability.
+لذلك، يتعين علينا التنبؤ بالطلب على الدعم الفني قبل أربعة إلى ستة أشهر، لأننا بحاجة إلى التوظيف لهذا *الآن*. إذا قللنا من تقديرنا، فإن الأشخاص الذين يدعموننا سيغرقون في الكثير من العمل؛ تتأثر نوعية حياتهم، وتتأثر الخدمة المقدمة لكل عميل. إذا بالغنا في التقدير، فلدينا عدد كبير جدًا من الأشخاص، وهو ما يمثل [تكلفة جزائية](https://longform.asmartbear.com/more-money/). وبطبيعة الحال، فإن الوضع الأخير هو وضع فشل أفضل من الأول، ولكن كلاهما دون المستوى الأمثل، والحل هو القدرة على التنبؤ.
 
-"The future is [inherently unpredictable](https://longform.asmartbear.com/predict-the-future/)," insists the small company, spurred on by Lean and Agile mindsets, and the truth. Indeed, blue-sky invention and execution are unpredictable. But this is also a self-fulfilling prophecy; to insist the future is unpredictable is to ignore the work that could make it more predictable, which makes it in fact unpredictable *to that person.*
+"المستقبل [لا يمكن التنبؤ به بطبيعته](https://longform.asmartbear.com/predict-the-future/)،" تصر الشركة الصغيرة، مدفوعة بالعقليات اللينة والمرنة، والحقيقة. في الواقع، لا يمكن التنبؤ بالاختراع والتنفيذ. ولكن هذه أيضًا نبوءة ذاتية التحقق؛ الإصرار على أن المستقبل لا يمكن التنبؤ به هو تجاهل العمل الذي يمكن أن يجعله أكثر قابلية للتنبؤ به، مما يجعله في الواقع غير قابل للتنبؤ *بالنسبة لذلك الشخص.*
 
 ![but to be fair theres fifty percent chance of just about anything](https://public.asmartbear.com/books/anthology/chapters/scale/d5221print-simple.png)
 
-Small companies don't have the data, customers, institutional knowledge, expertise, and often the personal experience and skill set to predict the future, so they are usually correct in saying it's impossible. But is it impossible in principle, or is it impossible for *them*? At scale, it becomes required. Not because Wall Street demands it, nor because investors demand it, nor any other causal derogatory excuse made by unpredictable organizations, but because it's critical for healthy scaling.
+لا تمتلك الشركات الصغيرة البيانات، والعملاء، والمعرفة المؤسسية، والخبرة، وفي كثير من الأحيان الخبرة الشخصية والمهارات اللازمة للتنبؤ بالمستقبل، لذا فهي عادة ما تكون على حق في قولها إن ذلك مستحيل. لكن هل هذا مستحيل من حيث المبدأ أم أنه مستحيل عليهم *؟ على نطاق واسع، يصبح مطلوبا. ليس لأن وول ستريت تطالب بذلك، ولا لأن المستثمرين يطالبون به، ولا لأي عذر سببي آخر تقدمه منظمات لا يمكن التنبؤ بها، ولكن لأنه أمر بالغ الأهمية للتوسع الصحي.
 
-## The Materiality Threshold
+## عتبة المادية
 
-If Google launches a new product that generates $10,000,000/year in revenue, is that good? No, it's a [failure](https://longform.asmartbear.com/fail/). They could have taken the tens of millions of dollars that the product cost to develop, used that to make their existing operation just 0.01% more effective, and made far more money.
+إذا أطلقت Google منتجًا جديدًا يحقق إيرادات بقيمة 10,000,000 دولار سنويًا، فهل هذا جيد؟ لا، إنه [فشل](https://longform.asmartbear.com/fail/). وكان بإمكانهم أن يأخذوا عشرات الملايين من الدولارات التي كلفها تطوير المنتج، وأن يستخدموا ذلك لجعل عملياتهم الحالية أكثر فعالية بنسبة 0.01% فقط، وأن يكسبوا أموالاً أكثر بكثير.
 
-At more than $100B/year in revenue,[^5] Google can only consider products which have the potential to generate $1B/year in revenue as an absolute floor, with the potential to grow to $10B/year if things go better than expected. Things like YouTube, Cloud, and self-driving cars.
+عند تحقيق إيرادات تزيد عن 100 مليار دولار أمريكي سنويًا،[^5] يمكن لشركة Google فقط اعتبار المنتجات التي لديها القدرة على تحقيق إيرادات بقيمة مليار دولار أمريكي سنويًا كحد أدنى مطلق، مع إمكانية النمو إلى 10 مليار دولار أمريكي سنويًا إذا سارت الأمور بشكل أفضل من المتوقع. أشياء مثل YouTube والسحابة والسيارات ذاتية القيادة.
 
-[^5]: *Editor's note:* This was originally written in 2017; in 2023 Google's revenue is nearly $300B, which reinforces the original point; they could not have achieved that growth if they worked on projects that generated revenues of "merely" $100M.
+[^5]: *ملاحظة المحرر:* تمت كتابة هذا في الأصل في عام 2017؛ في عام 2023، تبلغ إيرادات Google ما يقرب من 300 مليار دولار، مما يعزز النقطة الأصلية؛ لم يكن بإمكانهم تحقيق هذا النمو إذا عملوا في مشاريع حققت إيرادات "فقط" تبلغ 100 مليون دولار.
 
-This principle is called the "Materiality Threshold," i.e. the minimum contribution a project must deliver, for the project to materially affect the business.
+يُطلق على هذا المبدأ اسم "عتبة الأهمية النسبية"، أي الحد الأدنى من المساهمة التي يجب على المشروع تقديمها، حتى يؤثر المشروع ماديًا على الأعمال.
 
-With a small business, the materiality threshold is near $0. A new feature that helps you land just a few new customers this month is worth doing. A marketing campaign that adds two sign-ups/week is a success. Almost anything you do, counts. That's nice--it feels good to be moving forward.
+بالنسبة للشركات الصغيرة، فإن عتبة الأهمية النسبية تقترب من 0 دولار. هناك ميزة جديدة تساعدك في الحصول على عدد قليل من العملاء الجدد هذا الشهر تستحق القيام بها. تعتبر الحملة التسويقية التي تضيف اشتراكين في الأسبوع ناجحة. تقريبا أي شيء تفعله، مهم. هذا جميل - من الجيد أن نمضي قدمًا.
 
-The financial success of the larger company dictates a non-trivial materiality threshold. This is difficult. Even a modest-sized company will need millions in revenue from new products, maybe tens of millions in the optimistic case. Very few products can generate that sort of revenue, whether invented by nimble, innovative startups or stately mature companies. As proof, consider that the vast majority of startups never reach a $10M/year run-rate, even with decent products and extraordinarily dedicated and capable teams.
+النجاح المالي للشركة الأكبر يفرض عتبة مادية غير تافهة. هذا صعب. فحتى الشركة ذات الحجم المتواضع ستحتاج إلى إيرادات تقدر بالملايين من المنتجات الجديدة، وربما عشرات الملايين في الحالة المتفائلة. عدد قليل جدًا من المنتجات يمكنها توليد هذا النوع من الإيرادات، سواء اخترعتها شركات ناشئة ذكية ومبتكرة أو شركات ناضجة. كدليل على ذلك، ضع في اعتبارك أن الغالبية العظمى من الشركات الناشئة لا تصل أبدًا إلى معدل تشغيل يبلغ 10 ملايين دولار سنويًا، حتى مع المنتجات اللائقة والفرق المتفانية والقادرة بشكل غير عادي.
 
-Yet, it's the job of a Product Manager at that mid-sized company to invent, discover, design, implement, and nurture exactly those products--something that most entrepreneurs will never succeed at. [Tough job](https://longform.asmartbear.com/great-product-manager/)!
+ومع ذلك، فإن مهمة مدير المنتج في تلك الشركة متوسطة الحجم هي اختراع تلك المنتجات واكتشافها وتصميمها وتنفيذها ورعايتها - وهو أمر لن ينجح فيه معظم رواد الأعمال أبدًا. [مهمة صعبة](https://longform.asmartbear.com/great-product-manager/)!
 
-## Recruiting
+## تجنيد
 
-Employee #2 will [join a startup for the experience](https://longform.asmartbear.com/startup-hiring-advice/). Even with a significant salary cut, and even if the company fails--the most likely outcome--it's worth it for the stories, the influence, the potential, the thrill, the control, the camaraderie, the cocktail-party-talk.
+الموظف رقم 2 سوف [ينضم إلى شركة ناشئة للاستمتاع بالتجربة](https://longform.asmartbear.com/startup-hiring-advice/). حتى مع تخفيض كبير في الراتب، وحتى إذا فشلت الشركة - وهي النتيجة الأكثر ترجيحًا - فإن الأمر يستحق كل هذا العناء بالنسبة للقصص، والتأثير، والإمكانات، والتشويق، والسيطرة، والصداقة الحميمة، وأحاديث حفلات الكوكتيل.
 
-Employee #200 won't join for those reasons. Employee #200 will have a different risk-profile regarding their life and career. Employee #200 will be interested in different sorts of problems to solve, like the ones listed in this article instead of the ones where you're trying to understand why 7 people bought the software but the next 3 didn't. Employee #200 will not work for a pay-cut.
+لن ينضم الموظف رقم 200 لهذه الأسباب. سيكون لدى الموظف رقم 200 ملف تعريف مختلف للمخاطر فيما يتعلق بحياته وحياته المهنية. سيكون الموظف رقم 200 مهتمًا بأنواع مختلفة من المشكلات التي يجب حلها، مثل تلك المذكورة في هذه المقالة بدلاً من تلك التي تحاول فهم سبب شراء 7 أشخاص للبرنامج ولكن الثلاثة التاليين لم يفعلوا ذلك. لن يعمل الموظف رقم 200 مقابل خفض الراتب.
 
 ![so where do you see yourself in ten minutes](https://public.asmartbear.com/books/anthology/chapters/scale/d4408print-simple.png)
 
-Small companies view this as an advantage, and certainly it's advantageous to recruit amazing people at sub-market rates. But there hundreds of employees at WP Engine today who are much more skilled in their area of expertise than I've ever met at a small startup, including my own. Why?
+تنظر الشركات الصغيرة إلى هذا على أنه ميزة، ومن المؤكد أنه من المفيد توظيف أشخاص رائعين بأسعار أقل من السوق. ولكن هناك المئات من الموظفين في WP Engine اليوم يتمتعون بمهارة أكبر بكثير في مجال خبرتهم مما التقيت بهم في شركة ناشئة صغيرة، بما في ذلك شركتي. لماذا؟
 
-One reason is that people with a lot of experience are often in a different phase of life, where family and other demands means they want a predictable, larger paycheck for a predictable, well-defined job. When you combine their advanced skills with the raw materials of a scaled company (i.e. customers, brand, funding, teams that can execute larger ideas), they can generate huge value while still tucking their kids into bed at night.
+أحد الأسباب هو أن الأشخاص الذين يتمتعون بخبرة كبيرة غالبًا ما يكونون في مرحلة مختلفة من الحياة، حيث تعني متطلبات الأسرة وغيرها أنهم يريدون راتبًا أكبر يمكن التنبؤ به مقابل وظيفة يمكن التنبؤ بها ومحددة جيدًا. عندما تجمع مهاراتهم المتقدمة مع المواد الخام لشركة واسعة النطاق (أي العملاء، والعلامة التجارية، والتمويل، والفرق التي يمكنها تنفيذ أفكار أكبر)، يمكنهم توليد قيمة كبيرة بينما يستمرون في وضع أطفالهم في السرير ليلاً.
 
-Another reason is that, after developing that expertise, they find it's enjoyable to apply their skills within a larger environment. For example, there are advanced marketing techniques that would never make sense with a smaller company, that are fascinating, challenging, and impactful to the top line at a larger company. There are talented people who love that challenge and would hate going "back to Kindergarten" as Jeff Bezos famously quipped, [scratching out an AdWords campaign with a $2000/mo budget](https://longform.asmartbear.com/low-budget-marketing/) or assembling the rudiments of SEO or just [trying to get a single marketing channel to work](https://longform.asmartbear.com/one-channel/) or being called a "growth hacker" because they finagled a one-time bump in traffic.
+والسبب الآخر هو أنه بعد تطوير تلك الخبرة، يجدون أنه من الممتع تطبيق مهاراتهم في بيئة أكبر. على سبيل المثال، هناك تقنيات تسويقية متقدمة لن تكون منطقية أبدًا مع شركة أصغر، وهي رائعة ومليئة بالتحديات ومؤثرة على أعلى مستوى في شركة أكبر. هناك أشخاص موهوبون يحبون هذا التحدي ويكرهون "العودة إلى رياض الأطفال" كما قال جيف بيزوس ساخرًا، [إطلاق حملة AdWords بميزانية قدرها 2000 دولار شهريًا](https://longform.asmartbear.com/low-budget-marketing/) أو تجميع أساسيات تحسين محركات البحث أو مجرد [محاولة الحصول على قناة تسويقية واحدة العمل](https://longform.asmartbear.com/one-channel/) أو يُطلق عليهم اسم "متسلل النمو" لأنهم نجحوا في تحقيق زيادة في حركة المرور لمرة واحدة.
 
-This has implications on compensation, how you find that talent, and why that person wants to work at your company instead of the one down the block who can pay a little bit more. Therefore, it's critical to have a [mission that is genuinely important](https://longform.asmartbear.com/mission-vision/), have [meaningful](https://longform.asmartbear.com/fulfillment/) and interesting work to do, [connect everyone's work to something bigger than any of us](https://longform.asmartbear.com/emptiness/). These matter even more at scale, because it's the reason why talent will join and stay.
+وهذا له آثار على التعويضات، وكيفية العثور على تلك الموهبة، ولماذا يرغب هذا الشخص في العمل في شركتك بدلاً من الشخص الذي يمكنه أن يدفع أكثر قليلاً. لذلك، من المهم أن يكون لديك [مهمة مهمة حقًا](https://longform.asmartbear.com/mission-vision/)، وأن يكون لديك [معنى](https://longform.asmartbear.com/fulfillment/) وأن يكون لديك عمل مثير للاهتمام، [ربط عمل الجميع بشيء أكبر من أي واحد منا](https://longform.asmartbear.com/emptiness/). وهذه الأمور لها أهمية أكبر على نطاق واسع، لأنها السبب وراء انضمام المواهب وبقائها.
 
 ![i dont get it weve got mission statement credo and mantra](https://public.asmartbear.com/books/anthology/chapters/scale/d5966print-simple.png)
 
-## Communication
+## تواصل
 
-With four people in a company, any information that everyone needs to know can be told to just three other people. Everyone *can* know everything. If there's a 5% chance of significant misunderstanding, that doesn't happen often.
+مع وجود أربعة أشخاص في الشركة، فإن أي معلومات يحتاج الجميع إلى معرفتها يمكن إخبارها لثلاثة أشخاص آخرين فقط. الجميع *يمكن* أن يعرفوا كل شيء. إذا كان هناك احتمال بنسبة 5% لحدوث سوء فهم كبير، فهذا لا يحدث كثيرًا.
 
-With four *hundred* people, it's never true that a piece of information can be reliably communicated, in a short period of time. A 5% chance of misunderstanding means twenty people are confused. That's assuming they even read the communication, or listened during the entire presentation over Zoom. What's the chance of *that*? [Don't ask](https://longform.asmartbear.com/probability-words/).
+مع أربعمائة* شخص، ليس صحيحًا أبدًا أنه يمكن توصيل معلومة ما بشكل موثوق، في فترة زمنية قصيرة. احتمال حدوث سوء فهم بنسبة 5% يعني أن عشرين شخصًا مرتبكون. هذا على افتراض أنهم قرأوا الاتصال، أو استمعوا إليه أثناء العرض التقديمي بأكمله عبر Zoom. ما هي فرصة *ذلك*؟ [لا تسأل](https://longform.asmartbear.com/probability-words/).
 
-"Slack" is [not the answer](https://medium.com/the-flux/why-slack-hurts-your-teams-productivity-af9804d06606). "Email" is not the answer. The answer is: **Repeating simple messages.**
+"Slack" هو [ليس الجواب](https://medium.com/the-flux/why-slack-hurts-your-teams-productivity-af9804d06606). "البريد الإلكتروني" ليس هو الحل. الجواب هو: **رسائل بسيطة مكررة.**
 
-"Repetition" is the answer to "I didn't see it." Repetition in different formats, at different times, by many leaders. Asymptotically achieving 100%, although also creating collateral damage for the people who really do read and listen to everything, who are tired of hearing the same thing, and wondering why they're being punished for actually paying attention.
+"التكرار" هو الجواب على "لم أره". التكرار بصيغ مختلفة، وفي أوقات مختلفة، من قبل العديد من القادة. تحقيق 100% بشكل مقارب، على الرغم من خلق أضرار جانبية للأشخاص الذين يقرؤون ويستمعون حقًا إلى كل شيء، والذين سئموا من سماع نفس الشيء، ويتساءلون عن سبب معاقبتهم لأنهم انتبهوا بالفعل.
 
-"Simple" is the answer to "I didn't understand / remember it." Just as with [simplicity in strategy](https://longform.asmartbear.com/great-strategy/), you have to accept that people don't read, people don't remember, people have other things on their minds, people don't understand language as well as you wish, and you didn't write as clearly as you hoped.
+"بسيطة" هي الإجابة على "لم أفهم/أتذكرها". تمامًا كما هو الحال مع [البساطة في الإستراتيجية](https://longform.asmartbear.com/great-strategy/)، عليك أن تقبل أن الناس لا يقرؤون، وأن الناس لا يتذكرون، وأن الناس لديهم أشياء أخرى في أذهانهم، وأن الناس لا يفهمون اللغة بالقدر الذي ترغب فيه، وأنك لم تكتب بالوضوح الذي كنت تأمله.
 
-But doesn't this mean you cannot communicate anything complex to 1000 people? Yes, that's what it means. Scale is hard.
+لكن ألا يعني هذا أنه لا يمكنك إيصال أي شيء معقد إلى 1000 شخص؟ نعم، هذا ما يعنيه. المقياس صعب.
 
-## Technology & Infrastructure
+## التكنولوجيا والبنية التحتية
 
-Managing 10,000 virtual servers in the Cloud Era sounds easy. Automate everything, then any process that works for 100 servers, will work for 10,000 servers just by doing the same thing repeatedly--exactly the thing computers are excellent at.
+تبدو إدارة 10000 خادم افتراضي في عصر السحابة أمرًا سهلاً. قم بأتمتة كل شيء، وبالتالي فإن أي عملية تعمل مع 100 خادم، ستعمل مع 10000 خادم بمجرد القيام بنفس الشيء بشكل متكرر - وهو بالضبط الشيء الذي تتفوق فيه أجهزة الكمبيوتر.
 
-It never works like that. [Reddit took 18 months](https://redditblog.com/2017/05/24/view-counting-at-reddit/) to get "number of likes" to work at scale. [StackOverflow took 4 years](https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/) to get everything converted to HTTPS. [Wired did that conversion](https://www.wired.com/2016/09/wired-completely-encrypted/) in a "mere" 18 months. Everything is hard at scale.
+لا يعمل أبدا من هذا القبيل. [استغرق Reddit 18 شهرًا](https://redditblog.com/2017/05/24/view-counting-at-reddit/) للحصول على "عدد الإعجابات" للعمل على نطاق واسع. [استغرق StackOverflow 4 سنوات](https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/) لتحويل كل شيء إلى HTTPS. [قامت شركة Wired بهذا التحويل](https://www.wired.com/2016/09/wired-completely-encrypted/) خلال 18 شهرًا "فقط". كل شيء صعب على نطاق واسع.
 
-What are the patterns in those stories?
+ما هي الأنماط في تلك القصص؟
 
-One is another application of "rare things are common." Rare things are hard to predict and can be hard to prevent. Often they're hard to even identify and sometimes impossible to reproduce. This is fundamentally difficult.
+أحدهما هو تطبيق آخر لـ "الأشياء النادرة شائعة". من الصعب التنبؤ بالأشياء النادرة وقد يكون من الصعب منعها. في كثير من الأحيان يكون من الصعب حتى التعرف عليها، وفي بعض الأحيان يكون من المستحيل إعادة إنتاجها. وهذا أمر صعب في الأساس.
 
-Another is continuity or compatibility with existing technology. New companies get to start from scratch, but at-scale companies must transform. New companies like to make fun of large companies for how hard it is to transform, neglecting that the cause of the difficulty might also be generating $100,000,000 in revenue this year.[^6]
+والسبب الآخر هو الاستمرارية أو التوافق مع التكنولوجيا الحالية. يجب على الشركات الجديدة أن تبدأ من الصفر، ولكن يجب على الشركات واسعة النطاق أن تتحول. تحب الشركات الجديدة أن تسخر من الشركات الكبيرة بسبب مدى صعوبة التحول، متجاهلة أن سبب الصعوبة قد يكون أيضًا تحقيق إيرادات بقيمة 100,000,000 دولار أمريكي هذا العام.[^6]
 
-[^6]: Instead of "legacy code" we call it the "revenue code."
+[^6]: بدلاً من "الرمز القديم"، نسميه "رمز الإيرادات".
 
-Another is bottlenecking. All hardware and software systems have bottlenecks. At small scale, you don't run into any bottlenecks, or at least the ones you do can be solved with simple techniques like [increasing capacity](https://longform.asmartbear.com/utilization/). Eventually something difficult breaks and you have to rearchitect the stack to solve it. Even something simple like converting HTTP links to HTTPS or updating "number of likes" in real-time, becomes a monumental architectural challenge.
+آخر هو الاختناق. جميع أنظمة الأجهزة والبرامج بها اختناقات. على نطاق صغير، لن تواجه أي اختناقات، أو على الأقل يمكن حل تلك الاختناقات باستخدام تقنيات بسيطة مثل [زيادة السعة](https://longform.asmartbear.com/utilization/). في نهاية المطاف، ينكسر شيء صعب ويجب عليك إعادة تصميم المكدس لحله. حتى شيء بسيط مثل تحويل روابط HTTP إلى HTTPS أو تحديث "عدد الإعجابات" في الوقت الفعلي، يصبح تحديًا معماريًا هائلاً.
 
-Another is [Hickam's Dictum](https://en.wikipedia.org/wiki/Hickam%27s_dictum): Problems in complex systems generally have more than one root cause. Consider the case of a software upgrade causing problems for seven customers, in a way that wasn't detected. What is the "root cause" of this problem?
+هناك أيضًا [مقولة هيكام](https://en.wikipedia.org/wiki/Hickam%27s_dictum): عادةً ما يكون للمشكلات في الأنظمة المعقدة أكثر من سبب جذري واحد. خذ بعين الاعتبار حالة ترقية البرنامج التي تسببت في حدوث مشكلات لسبعة عملاء، بطريقة لم يتم اكتشافها. ما هو "السبب الجذري" لهذه المشكلة؟
 
-* The problem is we didn't detect the failure; had we done so, we could have reversed the upgrade immediately.
-* The problem is we didn't test the thing that failed; had we had more tests, the problem would never have reached customers.
-* The problem is we didn't document the code that broke; had the code been clearer, the human wouldn't have coded the error.
-* The problem is we didn't review the code properly; had the code been reviewed with a proper checklist, we would have discovered the bad code before it was deployed.
+* المشكلة هي أننا لم نكتشف الفشل؛ ولو فعلنا ذلك، لكان بإمكاننا عكس الترقية على الفور.
+* المشكلة أننا لم نختبر الشيء الذي فشل؛ ولو أجرينا المزيد من الاختبارات، لما وصلت المشكلة إلى العملاء أبدًا.
+* المشكلة هي أننا لم نوثق الكود الذي تعطل؛ لو كان الرمز أكثر وضوحًا، لما قام الإنسان بتشفير الخطأ.
+* المشكلة هي أننا لم نراجع الكود بشكل صحيح؛ لو تمت مراجعة الكود باستخدام قائمة مرجعية مناسبة، لكنا قد اكتشفنا الكود السيئ قبل نشره.
 
-As with [Five Whys](https://en.wikipedia.org/wiki/Five_whys), there are always deeper reasons, as well as different reasons. Different from Five Whys, there isn't just one that is the "root" cause; instead there are a lot of things that interact with a lot of things. This doesn't mean it's hopeless, it just means it's complex to analyze, complex to decide what to do, and that Occam's Razor doesn't apply.
+كما هو الحال مع [Five Whys](https://en.wikipedia.org/wiki/Five_whys)، هناك دائمًا أسباب أعمق، بالإضافة إلى أسباب مختلفة. بخلاف Five Whys، لا يوجد سبب واحد فقط هو السبب "الجذري"؛ بدلا من ذلك هناك الكثير من الأشياء التي تتفاعل مع الكثير من الأشياء. هذا لا يعني أنه أمر ميئوس منه، بل يعني فقط أنه من الصعب تحليله، ومن الصعب تحديد ما يجب القيام به، وأن شفرة أوكام لا تنطبق.
 
-All this slows down development and adds investment. There will be entire teams who focus on infrastructure, scaling, deploys, cost-management, development processes, and so forth, none of which are directly visible to or driven by the customer, but which are necessary to manage the complexities of scale.
+كل هذا يبطئ التنمية ويضيف الاستثمار. سيكون هناك فرق كاملة تركز على البنية التحتية، والتوسع، والنشر، وإدارة التكاليف، وعمليات التطوير، وما إلى ذلك، ولا يكون أي منها مرئيًا للعميل أو مدفوعًا به بشكل مباشر، ولكنها ضرورية لإدارة تعقيدات الحجم.
 
-## Risk-mitigation
+## تخفيف المخاطر
 
-For a small company, the most likely cause of death is [suicide](https://techcrunch.com/2011/06/27/startups-don%E2%80%99t-die-they-commit-suicide/). Usually it's starvation--can't get enough customers (distribution) to pay enough money for long enough (product), in the [cascade of things-that-must-be-true for product/market fit](https://longform.asmartbear.com/problem/). But also things like founders splitting up, not getting enough traction to self-fund or to secure the next round of financing, having to go back to a day job, and so on.
+بالنسبة إلى شركة صغيرة، السبب الأكثر احتمالاً للوفاة هو [الانتحار](https://techcrunch.com/2011/06/27/startups-don%E2%80%99t-die-they-commit-suicide/). عادة ما يكون ذلك مجاعة - لا يمكن الحصول على عدد كافٍ من العملاء (التوزيع) لدفع ما يكفي من المال لفترة كافية (المنتج)، في [سلسلة من الأشياء التي يجب أن تكون صحيحة لملاءمة المنتج/السوق](https://longform.asmartbear.com/problem/). ولكن هناك أيضًا أشياء مثل انفصال المؤسسين، وعدم الحصول على ما يكفي من التمويل الذاتي أو تأمين الجولة التالية من التمويل، والاضطرار إلى العودة إلى وظيفة يومية، وما إلى ذلك.
 
-At scale, the risks are different. There is very low risk that WP Engine will not sign up thousands of new customers this month. Other risks, however, are not only possible, but likely. Addressing those risks head-on, is required for a healthy and sustainable business that can last for many years.
+وعلى نطاق واسع، تختلف المخاطر. هناك خطر ضئيل جدًا في عدم قيام WP Engine بتسجيل آلاف العملاء الجدد هذا الشهر. ومع ذلك، فإن المخاطر الأخرى ليست ممكنة فحسب، بل محتملة. إن معالجة هذه المخاطر بشكل مباشر أمر ضروري لأعمال صحية ومستدامة يمكن أن تستمر لسنوات عديدة.
 
-Take the risk of business continuity during a disaster scenario. What if an entire Amazon data center became disabled for a week? How quickly could we get all those customers back up and running? Would that be true even though thousands of other businesses are also trying to spin up servers in other Amazon data centers at the same time? Could we communicate all this with our customers quickly and simply, so that our support team isn't overwhelmed by repeating the same message to tens of thousands of justifiably-angry customers?
+تحمل مخاطر استمرارية العمل أثناء سيناريو الكارثة. ماذا لو أصبح مركز بيانات أمازون بأكمله معطلاً لمدة أسبوع؟ ما مدى السرعة التي يمكننا بها إعادة جميع هؤلاء العملاء إلى العمل مرة أخرى؟ هل سيكون هذا صحيحًا على الرغم من أن الآلاف من الشركات الأخرى تحاول أيضًا تشغيل الخوادم في مراكز بيانات أمازون الأخرى في نفس الوقت؟ هل يمكننا توصيل كل هذا إلى عملائنا بسرعة وبساطة، حتى لا ينشغل فريق الدعم لدينا بتكرار نفس الرسالة لعشرات الآلاف من العملاء الغاضبين بشكل مبرر؟
 
 ![correlation does not imply causation we know it was brian](https://public.asmartbear.com/books/anthology/chapters/scale/d7252print-simple.png)
 
-Risk-mitigation can even result in growth. Serious customers want to work with vendors who understand and mitigate risk; this maturity becomes a selling point. That's why enterprise suppliers (like WP Engine) are constantly flouting their compliance with SOC 2 and ISO 27001 and all the others. Small companies make fun of those things as being unnecessary at best or a false sense of security at worst, but while they're busy making that point, the larger companies are busy signing three-year multi-million dollar deals.
+بل إن تخفيف المخاطر يمكن أن يؤدي إلى النمو. يرغب العملاء الجادون في العمل مع البائعين الذين يفهمون المخاطر ويخففونها؛ يصبح هذا النضج نقطة بيع. ولهذا السبب فإن موردي المؤسسات (مثل WP Engine) ينتهكون باستمرار امتثالهم لمعايير SOC 2 وISO 27001 وجميع المعايير الأخرى. تسخر الشركات الصغيرة من هذه الأشياء باعتبارها غير ضرورية في أحسن الأحوال أو إحساسًا زائفًا بالأمان في أسوأ الأحوال، ولكن بينما هم مشغولون بتوضيح هذه النقطة، فإن الشركات الكبرى مشغولة بتوقيع صفقات مدتها ثلاث سنوات بملايين الدولارات.
 
-Early on, you do not need a disaster-recovery plan. That won't be the thing that will kill the business, and your customers will understand if a young business is subject to that sort of risk. Later on, this becomes critical, and worth investing in.
+في وقت مبكر، لا تحتاج إلى خطة للتعافي من الكوارث. لن يكون هذا هو الشيء الذي سيقضي على الشركة، وسيفهم عملاؤك ما إذا كانت الشركة الناشئة معرضة لهذا النوع من المخاطر. وفي وقت لاحق، يصبح هذا الأمر بالغ الأهمية، ويستحق الاستثمار فيه.
 
-## Large companies are not small companies × 100
+## الشركات الكبيرة ليست شركات صغيرة × 100
 
-These forces cause larger companies to be fundamentally different than small ones. It isn't a bad thing or a good thing. It's a different thing.
+وتؤدي هذه القوى إلى اختلاف الشركات الكبرى بشكل جذري عن الشركات الصغيرة. إنه ليس شيئًا سيئًا أو شيئًا جيدًا. إنه شيء مختلف.
 
-Some idealistic founders believe the root cause of scaling issues is the "command-and-control" organizational structure. But none of the examples above make reference to any organizational structure. It's universal. This is why [Holacracy](https://en.wikipedia.org/wiki/Holacracy) and [Teal Organizations](https://en.wikipedia.org/wiki/Teal_organisation) do not solve these problems. It could be a fantastic idea to experiment with organizational structure, but the fundamental forces above will not be eliminated with a recombination of roles and power structures.
+يعتقد بعض المؤسسين المثاليين أن السبب الجذري لمشاكل التوسع هو الهيكل التنظيمي "للقيادة والسيطرة". لكن لا يشير أي من الأمثلة المذكورة أعلاه إلى أي هيكل تنظيمي. انها عالمية. ولهذا السبب فإن [Holacracy](https://en.wikipedia.org/wiki/Holacracy) و[Teal Organizations](https://en.wikipedia.org/wiki/Teal_organisation) لا تحل هذه المشاكل. قد تكون تجربة الهيكل التنظيمي فكرة رائعة، لكن القوى الأساسية المذكورة أعلاه لن يتم التخلص منها من خلال إعادة تجميع الأدوار وهياكل السلطة.
 
-Scaling is hard, the road is foggy and bendy, it lasts for years, the set of people you need might be different, and no one emerges unscathed. So, it is not a sign of disaster if you have difficulty wrestling with these forces. Everyone does.
+يعد التوسع أمرًا صعبًا، والطريق ضبابي ومتعرج، ويستمر لسنوات، وقد تكون مجموعة الأشخاص الذين تحتاج إليهم مختلفة، ولا يخرج أحد سالمًا. لذا، فهي ليست علامة على الكارثة إذا كنت تواجه صعوبة في المصارعة مع هذه القوى. الجميع يفعل.
 
-Disaster is when a company is scaling, but the leaders don't appreciate these forces, don't work constantly to morph the organization accordingly, don't bring in experienced talent, decide they can figure it all out as they go along without help. Rather, it should mean new people, new roles, new values, new processes, new recruiting, new stories, new constraints, new opportunities.
+تحدث الكارثة عندما تقوم الشركة بالتوسع، لكن القادة لا يقدرون هذه القوى، ولا يعملون باستمرار لتحويل المنظمة وفقًا لذلك، ولا يجلبون المواهب ذات الخبرة، ويقررون أنهم يستطيعون اكتشاف كل شيء أثناء المضي قدمًا دون مساعدة. بل ينبغي أن يعني أشخاصًا جددًا، وأدوارًا جديدة، وقيمًا جديدة، وعمليات جديدة، وتوظيفًا جديدًا، وقصصًا جديدة، وقيودًا جديدة، وفرصًا جديدة.
 
-Too many founders and leaders want to believe:
+الكثير من المؤسسين والقادة يريدون تصديق ما يلي:
 
-> What got us here is what's important and unique about us, and thus we should preserve *all* of it. Other companies fail because they "act like big companies," but we'll avoid all that because we're smarter than they were. As evidence of our acuity, just look at our success thus far. We will continue to succeed in the future as we have in the past.
+> ما أوصلنا إلى هنا هو ما هو مهم وفريد ​​من نوعه فينا، وبالتالي يجب علينا الحفاظ *كله*. تفشل شركات أخرى لأنها "تتصرف مثل الشركات الكبرى"، لكننا سنتجنب كل ذلك لأننا أكثر ذكاءً منها. وكدليل على مدى كفاءتنا، انظر فقط إلى نجاحنا حتى الآن. وسوف نستمر في النجاح في المستقبل كما فعلنا في الماضي.
 
-But they're wrong.
+لكنهم مخطئون.
 
-There should be a few values that are kept constant, that's true. Otherwise [none of it means anything](https://longform.asmartbear.com/emptiness/). But the details [must change](https://longform.asmartbear.com/change/).
+يجب أن تكون هناك بعض القيم التي تظل ثابتة، هذا صحيح. بخلاف ذلك [لا شيء من هذا يعني أي شيء](https://longform.asmartbear.com/emptiness/). لكن التفاصيل [يجب أن تتغير](https://longform.asmartbear.com/change/).
 
-Many founders and leaders can't make the shift. This always hurts the company, and sometimes kills the company. The world is full of those horror stories. It's sad, because it's an avoidable waste of opportunity and sometimes hundreds of person-years of effort.
+لا يستطيع العديد من المؤسسين والقادة إجراء هذا التحول. وهذا يضر الشركة دائمًا، وأحيانًا يقتل الشركة. العالم مليء بقصص الرعب تلك. إنه أمر محزن، لأنه يمثل هدرًا للفرص يمكن تجنبه، وأحيانًا مئات السنين من الجهد.
 
-Don't become one of those cautionary tales.
+لا تصبح واحدة من تلك الحكايات التحذيرية.

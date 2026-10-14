@@ -20,242 +20,229 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الفيل في الغرفة: خرافة النمو الأسي فائق السرعة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+تنمو الشركات الناشئة بسرعة، ويتعجب الصحفيون من "صعودها السريع". لكن ألا تسقط الشهب؟
 
----
+ومن المحتم أن يتم إدخالها بلا هوادة إلى فئة الشركات "مفرطة النمو" التي "تنمو بشكل كبير". خاصة عندما يكون المنتج "فيروسيًا". ففي نهاية المطاف، إذا أحضر كل شخص ثلاثة أصدقاء، وكل واحد منهم أحضر ثلاثة أصدقاء آخرين، أليس هذا أمرًا أسيًا؟
 
-### النص المرجعي للمقال (Original Reference):
-# The Elephant in the room: The myth of exponential hypergrowth
+لكن "الأسي" هو وصف غير صحيح، كما سنرى في بيانات العالم الحقيقي، حتى بالنسبة للشركات ذات النمو المفرط، "الفيروسية" مثل فيسبوك وسلاك.
 
-> **Executive Summary:** Even Facebook and Slack did not grow "exponentially," as frequently described. Here is the correct model that you can use to understand and affect growth.
-> **Original URL:** [https://longform.asmartbear.com/exponential-growth/](https://longform.asmartbear.com/exponential-growth/)
+تقترح هذه المقالة نموذجًا بديلاً لكيفية نمو الشركات سريعة النمو فعليًا. إن فهم النموذج مفيد ليس فقط للتنبؤ بالنمو، ولكن لأن فهم المحركات الأساسية للنمو يسمح لنا باتخاذ إجراءات أكثر ذكاءً لخلق النمو في شركاتنا.
 
-A startup is growing fast, the journalists marveling at its "meteoric rise." But don't meteors fall?
+## تبديد "الأسي"
 
-Inevitably it is breathlessly inducted into the class of "hypergrowth" companies that are "growing exponentially." Especially when the product is "viral." After all, if every person brings three friends, and each of those brings another three, is that not exponential?
-
-But "exponential" is an incorrect characterization, as we'll see in real-world data, even for hypergrowth, "viral" companies like Facebook and Slack.
-
-This article suggests an alternate model for how fast-growing companies actually grow. Understanding the model is useful not only for predicting growth, but because understanding the foundational drivers of growth allows us to take smarter actions to create growth in our own companies.
-
-## Dispelling "exponential"
-
-To evaluate whether hypergrowth is properly described as "exponential," let's recall what that word means. Here's an exponential curve (like $y=2^x$), compared to a quadratic one (like $y=x^2$):
+لتقييم ما إذا كان النمو المفرط يوصف بشكل صحيح بأنه "أسي"، دعونا نتذكر ما تعنيه هذه الكلمة. إليك منحنى أسي (مثل $y=2^x$)، مقارنة بالمنحنى التربيعي (مثل $y=x^2$):
 
 ![Graph comparing exponential and quadratic curves](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/exponential-vs-quadratic-curves-simple.png)
 
-In exponential growth, values grow by a *multiple*. For example: In year 1 you grow 10, in year 2 by 100, in year 3 by 1000--each time the amount of growth is *multiplied* by ten. The compounding effect of multiplication causes the numbers to grow slowly initially, then skyrocket. The compounding effect gets journalists and VCs justifiably excited.
+في النمو الأسي، تنمو القيم بمقدار *مضاعف*. على سبيل المثال: في السنة الأولى تنمو 10، وفي السنة الثانية بمقدار 100، وفي السنة الثالثة بمقدار 1000 - في كل مرة يتم ضرب مقدار النمو في عشرة. يؤدي التأثير المركب للضرب إلى نمو الأعداد ببطء في البداية، ثم ارتفاعها بشكل كبير. إن التأثير المضاعف يجعل الصحفيين وأصحاب رأس المال الاستثماري متحمسين بشكل مبرر.
 
-> "Compound interest is the most powerful force in the universe."  
-> --Albert Einstein
+> "الفائدة المركبة هي أقوى قوة في الكون."
+> - ألبرت أينشتاين
 
-In quadratic growth, values grow by a *adding* a constant amount more each time-interval, rather than *multiplying* a constant amount more each time-interval. In the same example, growing in year 1 by 10, then in year 2 by 20, in year 3 by 30:
+في النمو التربيعي، تنمو القيم عن طريق *إضافة* مبلغ ثابت أكثر في كل فترة زمنية، بدلاً من *ضرب* مبلغ ثابت أكثر في كل فاصل زمني. في نفس المثال، ينمو في السنة 1 بمقدار 10، ثم في السنة 2 بمقدار 20، وفي السنة 3 بمقدار 30:
 
 ![Successive values (in blue) are increasing more and more (in green). The green differences are increasing linearly: 10, 20, 30.](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/parabolic-growth-simple.png)
 
-Growth is still *accelerating*, so the blue curve slopes upwards, but gently compared to exponential growth.
+لا يزال النمو *يتسارع*، لذا ينحدر المنحنى الأزرق للأعلى، ولكن بلطف مقارنة بالنمو الأسي.
 
-With these patterns in mind, let's examine real-world data, and see whether "exponential" is the right model.
+مع أخذ هذه الأنماط في الاعتبار، دعونا نتفحص بيانات العالم الحقيقي، ونرى ما إذا كان "الأسي" هو النموذج الصحيح.
 
 ---
 
-**Facebook** is the definition of hypergrowth--getting to $50B in revenue [faster](https://www.bnnbloomberg.ca/how-facebook-became-one-of-the-fastest-growing-companies-in-u-s-history-1.1213047) than any company in history. The product is "viral"--friends bring other friends--which theoretically leads to "exponential growth." But Facebook didn't grow exponentially in the number of monthly active users:
+**Facebook** هو تعريف النمو المفرط - الوصول إلى إيرادات بقيمة 50 مليار دولار [أسرع](https://www.bnnbloomberg.ca/how-facebook-became-one-of-the-fastest-growing-companies-in-u-s-history-1.1213047) أكثر من أي شركة في التاريخ. المنتج "فيروسي" - الأصدقاء يجلبون أصدقاء آخرين - مما يؤدي نظريًا إلى "نمو هائل". لكن فيسبوك لم ينمو بشكل كبير في عدد المستخدمين النشطين شهريًا:
 
 ![Essentially linear for nearly twenty years, only exponential in the first four years.](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/facebook-maus-simple.png)
 
-**Slack** was [the fastest-growing enterprise software company ever](https://www.forbes.com/sites/johnkoetsier/2018/11/30/how-slack-became-the-fastest-growing-enterprise-software-ever), going from $0 to $10M ARR in their first 10 months, and 0 to 10,000,000 active users in just five years. It's also a "viral" product--organizations invite their members, who then create their own Slack-groups and invite others. So surely Slack has exponential growth? (Figure 4)
+**Slack** كانت [شركة برمجيات المؤسسات الأسرع نموًا على الإطلاق](https://www.forbes.com/sites/johnkoetsier/2018/11/30/how-slack-became-the-fastest-growing-enterprise-software-ever)، حيث ارتفعت قيمتها من 0 دولار أمريكي إلى 10 ملايين دولار أمريكي في أول 10 أشهر، ومن 0 إلى 10,000,000 مستخدم نشط في خمس سنوات فقط. إنه أيضًا منتج "سريع الانتشار" - حيث تقوم المؤسسات بدعوة أعضائها، الذين يقومون بعد ذلك بإنشاء مجموعات Slack الخاصة بهم ودعوة الآخرين. إذن من المؤكد أن Slack يتمتع بنمو هائل؟ (الشكل 4)
 
 ![Slack's own data shows initial quadratic growth, followed by years of linear growth.](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/chart-slack-daily-active-users-5-1-simple.png)
 
-**Dropbox** was another "hypergrowth" company, achieving 100,000,000 registered users five years after being founded in 2007, but it wasn't exponential, neither in freemium users nor in revenue, early nor later in life (Figure 5 & 6).
+**Dropbox** كانت شركة أخرى "مفرطة النمو"، حيث حققت 100.000.000 مستخدم مسجل بعد خمس سنوات من تأسيسها في عام 2007، لكنها لم تكن هائلة، لا في مستخدمي freemium ولا في الإيرادات، في وقت مبكر ولا في وقت لاحق من الحياة (الشكل 5 و6).
 
 ![Early in life, Dropbox registered users grows non-exponentially, nearly exactly 100M per year](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/utpyl96vse14m-gmxarynrsryhh1ji-zy2gu-cwfgdvuxrx8we7vhw2hoarnf7afwwa6ldihh5klety1tfwtahlkkbxozcilt8llsjaiqxlw4hronowhznhekhv-w4a2rnt2gqic-simple.png)
 
 ![Later in life, Dropbox revenue grows linearly, and slows down](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/c3e43e95-cdec-4fa5-acf1-fa9c288fb64d-simple.png)
 
-**Trello** grew fast too, getting to 10,000,000 registered users in three years. But not exponentially:
+نمت **Trello** بسرعة أيضًا، حيث وصلت إلى 10,000,000 مستخدم مسجل في ثلاث سنوات. ولكن ليس بشكل مضاعف:
 
 ![Trello users growth curve](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/image-simple.png)
 
-Lyft grew in part due to "network effects" according to [their S1](https://www.sec.gov/Archives/edgar/data/1759509/000119312519059849/d633517ds1.htm), but this chart they presented shows that active rider growth isn't exponential:
+نما Lyft جزئيًا بسبب "تأثيرات الشبكة" وفقًا لـ [S1](https://www.sec.gov/Archives/edgar/data/1759509/000119312519059849/d633517ds1.htm)، ولكن هذا الرسم البياني الذي قدموه يوضح أن نمو الركاب النشط ليس أسيًا:
 
 ![Lyft rides growth](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/g633517g84b30-simple.png)
 
-**HubSpot**'s revenue curve is astonishingly consistent, despite hitting multiple inflection points[^1] in their business:
+يتسم منحنى إيرادات **HubSpot** بالثبات بشكل مذهل، على الرغم من الوصول إلى نقاط انعطاف متعددة[^1] في أعمالهم:
 
-[^1]: e.g. launching new business models like selling through agencies instead of only directly, launching new product lines like sales CRM on top of marketing automation tools, and scaling the number of customers and employees by 10x
+[^1]: على سبيل المثال. إطلاق نماذج أعمال جديدة مثل البيع من خلال الوكالات بدلاً من البيع المباشر فقط، وإطلاق خطوط إنتاج جديدة مثل إدارة علاقات العملاء للمبيعات بالإضافة إلى أدوات أتمتة التسويق، وزيادة عدد العملاء والموظفين بمقدار 10 أضعاف
 
 ![HubSpot's revenue growth curve](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/hubspotrevenuegrowth-simple.png)
 
-Analyzing this last example, we arrive at a new, non-exponential model.
+وبتحليل هذا المثال الأخير، نصل إلى نموذج جديد غير أسي.
 
-## Hypergrowth is quadratic
+## فرط النمو هو من الدرجة الثانية
 
-The language we use [can determine](https://en.m.wikipedia.org/wiki/Linguistic_relativity) the thoughts we have.
+اللغة التي نستخدمها [يمكن أن تحدد](https://en.m.wikipedia.org/wiki/Linguistic_relativity) الأفكار التي لدينا.
 
-The HubSpot slide says "41% CAGR." "CAGR" means annualized growth rate. They're saying that if you start with the first number on the slide, then from there plot growing 41% per each year, compounding each year upon the previous, for seven years, you would arrive at the last number on the slide. This is exactly the definition of "exponential"--multiplying by a number repeatedly. In general when you use "CAGR" or "percentage growth" as a metric, you are implicitly saying "This is an exponential process."
+تقول شريحة HubSpot "41% CAGR". "CAGR" يعني معدل النمو السنوي. يقولون أنه إذا بدأت بالرقم الأول على الشريحة، ومن هناك تنمو قطعة الأرض بنسبة 41% كل عام، وتتضاعف كل سنة عن السابقة، لمدة سبع سنوات، ستصل إلى الرقم الأخير على الشريحة. هذا هو بالضبط تعريف "الأسي" - الضرب برقم بشكل متكرر. بشكل عام، عندما تستخدم "CAGR" أو "النسبة المئوية للنمو" كمقياس، فإنك تقول ضمنيًا "هذه عملية أسية".
 
-But HubSpot didn't grow by 41% every year; in this time frame, it started at 60% and ended around 30%:
+لكن HubSpot لم تنمو بنسبة 41% كل عام؛ في هذا الإطار الزمني، بدأ السعر عند 60% وانتهى عند حوالي 30%:
 
 ![HubSpot's YoY growth rate](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/hubspot-yoy-growth-rate-simple.png)
 
-If instead we examine growth in absolute dollars, rather than in percent, a pattern emerges. In the first set of four quarters on this report, they grew $17M. The next set grew $23M. Then $28M. Then $34M. Each year $5-7M more than the previous. This is the definition of a quadratic--*adding* an amount that increases by a constant amount each period, not *multiplying*.
+وإذا قمنا بدلاً من ذلك بفحص النمو بالدولار المطلق، وليس كنسبة مئوية، فسيظهر نمط ما. وفي المجموعة الأولى المكونة من أربعة أرباع في هذا التقرير، حققوا نموًا قدره 17 مليون دولار. نمت المجموعة التالية بمقدار 23 مليون دولار. ثم 28 مليون دولار. ثم 34 مليون دولار. كل عام 5-7 مليون دولار أكثر من السابق. هذا هو تعريف المعادلة التربيعية--*جمع* مبلغ يزيد بمقدار ثابت في كل فترة، وليس *الضرب*.
 
-Charting these year-over-year revenue differences *in absolute dollars* rather than *in percent*, it's clear that indeed the changes were almost completely linear for years, then suddenly changed in 2020[^2] to a new (but still linear) rate:
+من خلال رسم فروق الإيرادات على أساس سنوي *بالدولار المطلق* بدلاً من *بالنسبة المئوية*، من الواضح أن التغييرات كانت خطية بالكامل تقريبًا لسنوات، ثم تغيرت فجأة في عام 2020[^2] إلى معدل جديد (لكنه لا يزال خطيًا):
 
-[^2]: Coinciding with the launch of a new product: HubSpot CMS Hub.
+[^2]: تزامنًا مع إطلاق منتج جديد: HubSpot CMS Hub.
 
 ![HubSpot's YoY revenue change](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/hubspot-yoy-revenue-change-in-m-1-simple.png)
 
-It is therefore mathematically inevitable that plotting a quadratic curve (rather than exponential) on top of HubSpot's revenue data will be a perfect fit:
+لذلك، من المحتم رياضيًا أن يكون رسم منحنى تربيعي (بدلاً من الأسي) أعلى بيانات إيرادات HubSpot مناسبًا تمامًا:
 
 ![When you said "best-fit," you weren't kidding!](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/hubspot-revenue-best-fit-parabola-simple.png)
 
-My thesis is that **High-growth companies grow quadratically, not exponentially.**[^3]
+أطروحتي هي أن **الشركات عالية النمو تنمو بشكل تربيعي، وليس بشكل كبير.**[^3]
 
-[^3]: My guess is low-growth companies are similar, but data are more easily available for the runaway-growth companies who publicly flaunt their success.
+[^3]: أعتقد أن الشركات ذات النمو المنخفض متشابهة، ولكن البيانات متاحة بسهولة أكبر للشركات سريعة النمو التي تتباهى بنجاحها علنًا.
 
-The consequence of this conclusion is important for operators and analysis and investors. These are all people trying to understand--and possibly change--growth drivers. Getting the right language, and the right model, will lead to right analysis, and right action.
+إن نتيجة هذا الاستنتاج مهمة بالنسبة للمشغلين والتحليل والمستثمرين. يحاول كل هؤلاء الأشخاص فهم محركات النمو ـ وربما تغييرها. إن الحصول على اللغة الصحيحة والنموذج الصحيح سيؤدي إلى التحليل الصحيح والعمل الصحيح.
 
-## Why marketing-driven products grow quadratically: A first-principles explanation
+## لماذا تنمو المنتجات التي تعتمد على التسويق بشكل تربيعي: شرح المبادئ الأولى
 
-It's not enough to draw best-fit lines on top of PowerPoint slides. We have to explain *why* this model makes sense, which in turn will create a better understanding of the growth drivers in our own companies.
+لا يكفي رسم خطوط مناسبة أعلى شرائح PowerPoint. علينا أن نشرح *لماذا* يبدو هذا النموذج منطقيًا، والذي بدوره سيخلق فهمًا أفضل لمحركات النمو في شركاتنا.
 
-We've been taking a macro view of growth, looking at multi-year trajectories. Now we'll peer into the microscope instead of the telescope, and consider how growth arises from a single marketing campaign.
+لقد أخذنا نظرة شاملة للنمو، وننظر إلى مسارات متعددة السنوات. والآن سننظر إلى المجهر بدلًا من التلسكوب، ونفكر في كيفية نشوء النمو من حملة تسويقية واحدة.
 
-### The life of a marketing campaign
+### حياة الحملة التسويقية
 
-In my experience, marketing campaigns follow this pattern:
+من خلال تجربتي، تتبع الحملات التسويقية هذا النمط:
 
 ![Idealized shape of a marketing campaign](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/idealized-shape-of-a-marketing-campaign-3-simple.png)
 
-At the foot of the curve, we've launched a new campaign, but it's ineffective; we haven't figured out the best design and messaging and calls-to-action for this new medium and audience. Sometimes we never figure it out, and abandon the effort.[^4]
+في أسفل المنحنى، أطلقنا حملة جديدة، لكنها غير فعالة؛ لم نتوصل بعد إلى أفضل تصميم ورسائل وعبارات تحث المستخدم على اتخاذ إجراء لهذه الوسيلة الجديدة وهذا الجمهور الجديد. في بعض الأحيان، لا نكتشف الأمر أبدًا، ونتخلى عن هذا الجهد.[^4]
 
-[^4]: It's hard to distinguish (a) our failure to build effective copy and conversion funnels from (b) channels that are fundamentally a bad fit for our market or product. This uncertainty, together with the rapid evolution of digital marketing, suggests that we should retry campaigns in previously-failed channels every few years.
+[^4]: من الصعب التمييز بين (أ) فشلنا في إنشاء مسارات تحويل ونسخ فعالة من (ب) القنوات التي لا تتناسب بشكل أساسي مع سوقنا أو منتجنا. تشير حالة عدم اليقين هذه، جنبًا إلى جنب مع التطور السريع للتسويق الرقمي، إلى أننا يجب أن نعيد تجربة الحملات في القنوات الفاشلة سابقًا كل بضع سنوات.
 
-But in the case that we unlock the secret of efficacy, the campaign rapidly reaches a natural level of contribution; in this example, a number of "sales per week." The specific level depends on many things: ad inventory, our budget, audience-receptivity, and the consonance between the audience and our target market.
+ولكن في حالة اكتشاف سر الفعالية، تصل الحملة بسرعة إلى مستوى طبيعي من المساهمة؛ في هذا المثال، عدد "المبيعات في الأسبوع". يعتمد المستوى المحدد على أشياء كثيرة: المخزون الإعلاني، وميزانيتنا، وتقبل الجمهور، والتوافق بين الجمهور والسوق المستهدف.
 
-Next we enter the optimization phase. We A/B Test our way to incrementally better results. Also we enjoy the result of multiple exposures--most people need to see the ad more than once before they act.
+بعد ذلك ندخل مرحلة التحسين. نحن نقوم باختبار A/B طريقنا لتحقيق نتائج أفضل بشكل تدريجي. كما أننا نستمتع أيضًا بنتيجة التعرض المتعدد - حيث يحتاج معظم الأشخاص إلى رؤية الإعلان أكثر من مرة قبل أن يتصرفوا.
 
-Finally we enter a phase of decline. There are various causes, all instructive:
+وأخيراً دخلنا مرحلة التراجع. هناك أسباب مختلفة، كلها مفيدة:
 
-* **The audience saturates.** Everyone in the channel has seen the ad more times than is required to act; it's now falling on deaf ears. Even if the audience is growing, the number of new people is small compared to the number of people that were new-to-us when we began the campaign.
-* **The channel declines.** A media site that was popular loses readers through over-monetization. An event that was well-attended loses favor. A newsletter that was frequent and insightful becomes less frequent or other writers take over. A podcast moves to a closed platform and loses many listeners.
-* **The auction becomes uneconomical.** For auction-based systems like Google and Facebook advertisements, or other [zero-sum](https://longform.asmartbear.com/startup-beats-incumbent/) programs like affiliates or limited-inventory spots on newsletters or podcasts, the winner is the one who will pay the most. What is cost-effective for one bidder will be laughably overpriced for another, due to better conversion rates, higher revenue per customer, higher profitability per customer, or due to categorization as a "loss leader" or other way of ascribing value beyond immediate pay-back.
+* **الجمهور مشبع.** لقد شاهد جميع من في القناة الإعلان مرات أكثر مما هو مطلوب للتصرف؛ انها تقع الآن على آذان صماء. حتى لو كان الجمهور ينمو، فإن عدد الأشخاص الجدد صغير مقارنة بعدد الأشخاص الذين كانوا جددًا بالنسبة لنا عندما بدأنا الحملة.
+* **تم رفض القناة.** يخسر موقع الوسائط الذي كان شائعًا قراءه بسبب الإفراط في تحقيق الدخل. الحدث الذي حظي بحضور جيد يفقد شعبيته. الرسالة الإخبارية التي كانت متكررة وثاقبة تصبح أقل تكرارًا أو يتولى كتاب آخرون المسؤولية. ينتقل البودكاست إلى منصة مغلقة ويفقد العديد من المستمعين.
+* **يصبح المزاد غير اقتصادي.** بالنسبة للأنظمة القائمة على المزاد مثل إعلانات Google وFacebook، أو غيرها من البرامج [المجموع الصفري](https://longform.asmartbear.com/startup-beats-incumbent/) مثل الشركات التابعة أو المواقع ذات المخزون المحدود في النشرات الإخبارية أو ملفات البودكاست، فإن الفائز هو الذي سيدفع أكثر. ما هو فعال من حيث التكلفة بالنسبة لأحد مقدمي العطاءات سيكون مبالغًا فيه بشكل مثير للضحك بالنسبة لمقدم عرض آخر، وذلك بسبب معدلات التحويل الأفضل، أو ارتفاع الإيرادات لكل عميل، أو زيادة الربحية لكل عميل، أو بسبب التصنيف على أنه "قائد الخسارة" أو أي طريقة أخرى لتخصيص قيمة تتجاوز الاسترداد الفوري.
 
-This curve leads to actionable ideas for managing marketing (given at the end of this article), but also forms my central thesis about how all sorts of growth works at companies. So I'm giving it a name:
+يؤدي هذا المنحنى إلى أفكار قابلة للتنفيذ لإدارة التسويق (الواردة في نهاية هذه المقالة)، ولكنه يشكل أيضًا أطروحتي المركزية حول كيفية عمل جميع أنواع النمو في الشركات. لذلك أنا أعطيها اسما:
 
 ![The elephant curve](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/theelephantcurve-simple.png)
 
-### How the idealized marketing campaign converts to growth
+### كيف تتحول الحملة التسويقية المثالية إلى النمو
 
-The model above shows the number of sales *per week* the campaign contributes. To understand how this looks in terms of revenue growth, let us suppose a simple business model in which all sales are for a recurring revenue product generating $10 per month, with a 1% per month cancellation rate. Revenue grows over time in a certain way:
+يوضح النموذج أعلاه عدد المبيعات *في الأسبوع* التي تساهم بها الحملة. لفهم كيف يبدو هذا من حيث نمو الإيرادات، دعونا نفترض نموذج عمل بسيط تكون فيه جميع المبيعات لمنتج إيرادات متكرر يدر 10 دولارات شهريًا، مع معدل إلغاء قدره 1٪ شهريًا. تنمو الإيرادات بمرور الوقت بطريقة معينة:
 
 ![shape of growth of typical marketing campaign](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/marketing-campaign-cumulative-contribution-to-revenue-1-simple.png)
 
-Growth initially accelerates as the campaign is solved, then grows roughly linearly as the campaign is optimized, and then starts sagging (although still growing!) as the campaign declines, and as the now-sizable customer base produces a non-trivial number of cancellations.
 
-### The layer-cake of quadratic growth
 
-Marketing departments don't stop at a single campaign. They add new ones. Some are bigger than others, some can be optimized more than others, some decline sooner than others, some decline more precipitously than others.
+### كعكة طبقة النمو التربيعي
 
-So, let's model that: A variety of Elephant Curves, with differing parameters, beginning at different times, stacking the revenue-contribution of each to arrive at overall revenue growth for the company:
+أقسام التسويق لا تتوقف عند حملة واحدة. ويضيفون جديدة. بعضها أكبر من البعض الآخر، وبعضها يمكن تحسينه أكثر من البعض الآخر، وبعضها يتراجع في وقت أقرب من البعض الآخر، وبعضها يتراجع بشكل أسرع من البعض الآخر.
+
+لذلك، دعونا نمثل ما يلي: مجموعة متنوعة من منحنيات الفيل، مع معلمات مختلفة، تبدأ في أوقات مختلفة، وتجميع مساهمة الإيرادات لكل منها للوصول إلى نمو إجمالي الإيرادات للشركة:
 
 ![Layered campaigns create a "wavy quadratic."](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/layered-marketing-campaigns-simple.png)
 
-Scan your eye across the top of this kaleidoscopic cake, and you trace a wavy quadratic. This makes sense mathematically, because each campaign is essentially linear after it gets going, even if it sags during decline. "Adding more linear things over time" is the definition of a quadratic.
+قم بمسح عينيك عبر الجزء العلوي من هذه الكعكة المتلونة، وسترسم شكلًا تربيعيًا متموجًا. وهذا منطقي من الناحية الحسابية، لأن كل حملة تكون في الأساس خطية بعد انطلاقها، حتى لو تراجعت أثناء التراجع. "إضافة المزيد من الأشياء الخطية بمرور الوقت" هو تعريف المعادلة التربيعية.
 
-The reason it's "wavy," is that when we unlock a new campaign we get a burst of growth. Do real-life revenue curves exhibit this waviness? Maybe so; here's another slide from the HubSpot deck:
+السبب وراء كونها "متموجة" هو أننا عندما نفتح حملة جديدة نحصل على موجة من النمو. هل تظهر منحنيات الإيرادات في الحياة الواقعية هذا التموج؟ ربما كذلك؛ إليك شريحة أخرى من مجموعة HubSpot:
 
 ![HubSpot's growth curve over time, generally quadratic but exhibits that wavy behavior](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/hubspotwavyrevenue-simple.png)
 
-HubSpot didn't just add new marketing channels, however, but also layered on new geographies and new products. Do those activities have the same effect as marketing campaigns?
+لم تقم HubSpot بإضافة قنوات تسويقية جديدة فحسب، بل قامت أيضًا بإضافة طبقات إلى مناطق جغرافية جديدة ومنتجات جديدة. هل تلك الأنشطة لها نفس تأثير الحملات التسويقية؟
 
-### Multiple product lines at marketing-driven companies: Still quadratic
+### خطوط إنتاج متعددة في الشركات التي تعتمد على التسويق: لا تزال من الدرجة الثانية
 
-So far we've assumed a single product, driven by marketing campaigns. High-growth companies who want to continue growing quickly after their first product reaches scale, must launch new products into new markets.
+لقد افترضنا حتى الآن منتجًا واحدًا، مدفوعًا بالحملات التسويقية. يجب على الشركات ذات النمو المرتفع التي ترغب في مواصلة النمو بسرعة بعد أن يصل منتجها الأول إلى نطاق واسع، أن تطلق منتجات جديدة في أسواق جديدة.
 
-Is the Elephant Curve also the shape of an entire product line? After all, products often have an initial slow-growth period (because only cutting-edge early adopters are eager to pay to "be first" with bugs and missing features), followed by a faster expansion period, then reach some sort of natural ceiling, and possibly enter a period of decline (as the market evolves or competition overwhelms).
+هل منحنى الفيل هو أيضًا شكل خط إنتاج كامل؟ ففي نهاية المطاف، غالباً ما تمر المنتجات بفترة نمو بطيئة أولية (لأن المستخدمين الأوائل فقط هم من يتوقون إلى الدفع لكي "يكونوا الأول" مع الأخطاء والميزات المفقودة)، تليها فترة توسع أسرع، ثم تصل إلى نوع ما من السقف الطبيعي، وربما تدخل في فترة من الانخفاض (مع تطور السوق أو طغيان المنافسة).
 
-Indeed, this is what we see with many products, especially those that are marketing-driven, and without recurring-revenue. iPod sales, for example, are a perfect match:
+وبالفعل، هذا ما نراه مع العديد من المنتجات، خاصة تلك التي تعتمد على التسويق، وبدون إيرادات متكررة. مبيعات iPod، على سبيل المثال، هي تطابق مثالي:
 
 ![Quarterly iPod sales](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/o-ipod-sales-570-simple.png)
 
-It should therefore be unsurprising when we look at the overall revenue chart for Apple, and once again see quadratic growth on the top-line, admittedly with a special one-time bump for the unprecedented[^5] success of the iPhone:
+لذلك لا ينبغي أن يكون مفاجئًا عندما ننظر إلى مخطط الإيرادات الإجمالي لشركة Apple، ونرى مرة أخرى نموًا تربيعيًا على الخط العلوي، مع الاعتراف بارتفاع خاص لمرة واحدة للنجاح غير المسبوق[^5] لجهاز iPhone:
 
-[^5]: It is rare for a second product to dramatically outpace the first; even juggernauts like Google, Amazon, and Facebook never achieved that.
+[^5]: من النادر أن يتفوق المنتج الثاني بشكل كبير على الأول؛ وحتى الشركات العملاقة مثل جوجل، وأمازون، وفيسبوك لم تحقق ذلك قط.
 
 ![Apple's growth in past 20 years](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/large-towra6xiyts-vue2r39dsy1-v-w5tlco9-onxxfnxao-simple.png)
 
-Each product is in a different phase of its lifecycle: The iPod declined to zero, the iPad is still declining; Macs are teetering but essentially flat; iPhones and software services are still increasing.
+يمر كل منتج بمرحلة مختلفة من دورة حياته: فقد انخفض جهاز iPod إلى الصفر، ولا يزال جهاز iPad في انخفاض؛ أجهزة Mac تتأرجح ولكنها مسطحة بشكل أساسي؛ لا تزال خدمات iPhone والبرمجيات في ازدياد.
 
-### The quadratic explanation for "growth decay"
+### التفسير التربيعي لـ "انخفاض النمو"
 
-It's well-known that growth--as a percentage--naturally declines with scale, even when there's nothing wrong with the company.
+من المعروف أن النمو - كنسبة مئوية - يتناقص بشكل طبيعي مع الحجم، حتى عندما لا يكون هناك أي خطأ في الشركة.
 
-This law of nature has been given a name: Growth Decay (or sometimes Growth Persistence). Because of the traditional insistence of talking about growth as a percentage, the concept is articulated this way: If a company grew X% last year, it's likely to grow a bit less than X% this year. With this formulation, the question becomes: How much less?
+وقد أُطلق على قانون الطبيعة هذا اسم: تسوس النمو (أو في بعض الأحيان استمرار النمو). بسبب الإصرار التقليدي على الحديث عن النمو كنسبة مئوية، يتم توضيح المفهوم بهذه الطريقة: إذا حققت شركة ما نموًا بنسبة X% في العام الماضي، فمن المحتمل أن تنمو بنسبة أقل قليلاً من X% هذا العام. وبهذه الصيغة يصبح السؤال: كم أقل؟
 
-The data give us the answer of 85%, although with $R^2 = 0.51$, this is a tendency but far from a law:
+تعطينا البيانات إجابة 85%، على الرغم من أنه مع $R^2 = 0.51$، فإن هذا اتجاه ولكنه بعيد عن القانون:
 
 ![Recurring revenue companies have an 85% growth decay per year](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/growth-correlation-simple.png)
 
-With our new appreciation that growth isn't exponential, and therefore "percentage" might be the wrong way to characterize growth, we could ask what curve would best model the idea of Growth Decay? Specifically, let's plot revenue for an initially-fast-growing company that is subject to the principle of Growth Decay:
+ومع تقديرنا الجديد لحقيقة أن النمو ليس متسارعًا، وبالتالي فإن "النسبة المئوية" قد تكون الطريقة الخاطئة لوصف النمو، يمكننا أن نتساءل ما هو المنحنى الذي قد يمثل أفضل نموذج لفكرة تراجع النمو؟ على وجه التحديد، دعونا نرسم الإيرادات لشركة سريعة النمو في البداية وتخضع لمبدأ تراجع النمو:
 
 ![Plot of ARR growth with 85% growth decay](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/arr-growth-with-theoretical-growth-decay-simple.png)
 
-The first sixteen years of the curve is quadratic. While mathematically not identical, the best-fit quadratic curve[^6] has a staggering $R^2 = 0.999$.
+السنوات الستة عشر الأولى من المنحنى هي من الدرجة الثانية. على الرغم من أنه ليس متطابقًا رياضيًا، إلا أن المنحنى التربيعي الأكثر ملائمة[^6] له قيمة مذهلة $R^2 = 0.999$.
 
-[^6]: $y = 13.6x^2 -43.4x + 34.6$ when fit perfectly; interestingly this is very close to $y = 13.6(x-1.595)^2$, showing how simple the curve really is.
+[^6]: $y = 13.6x^2 -43.4x + 34.6$ عندما يكون مناسبًا تمامًا؛ ومن المثير للاهتمام أن هذا قريب جدًا من $y = 13.6(x-1.595)^2$، مما يوضح مدى بساطة المنحنى حقًا.
 
-This is yet another signal that quadratic growth is the correct model.
+وهذه إشارة أخرى إلى أن النمو التربيعي هو النموذج الصحيح.
 
-## Beyond marketing campaigns: "Viral" and other forms of "exponential" growth
+## ما وراء الحملات التسويقية: "الفيروسية" وغيرها من أشكال النمو "المتسارع".
 
-But some products really do grow exponentially. In theory.
+لكن بعض المنتجات تنمو بشكل كبير حقًا. من الناحية النظرية.
 
-In theory, theory and practice are the same. In practice, they're not.[^7]
+من الناحية النظرية، النظرية والتطبيق هما نفس الشيء. ومن الناحية العملية، فهي ليست كذلك.[^7]
 
-[^7]: This phrase attributed to Benjamin Brewster.
+[^7]: هذه العبارة منسوبة إلى بنيامين بروستر.
 
-Some products don't grow proportionally with marketing and sales, but instead self-propel with a mechanism that theoretically ought to be exponential. There are at least three ways for this to happen:
+بعض المنتجات لا تنمو بشكل متناسب مع التسويق والمبيعات، ولكنها بدلاً من ذلك تدفع نفسها ذاتيًا بآلية يجب أن تكون أسية من الناحية النظرية. هناك ثلاث طرق على الأقل لتحقيق ذلك:
 
-#### Type 1: Virality
-When each user invites on average another $a$ users, then each of *those* $a$ new users bring in *another* $a$ new users, so we end up with $a^2$ more. Then each of *those* brings in another $a$ which yields $a^3$. Then $a^4$ and so on; this is the definition of exponential growth. Biological viruses grow exponentially for a similar reason, justifying the label.
+#### النوع الأول: الفيروسية
+عندما يدعو كل مستخدم في المتوسط ​​مستخدمين $a$ آخرين، فإن كل واحد من *هؤلاء* $a$ المستخدمين الجدد يجلب *آخر* $a$ مستخدمين جدد، لذلك ينتهي بنا الأمر مع $a^2$ أكثر. ثم يجلب كل من * هؤلاء * $a$ آخر والذي ينتج $a^3$. ثم $a^4$ وهكذا؛ هذا هو تعريف النمو الأسي. تنمو الفيروسات البيولوجية بشكل كبير لسبب مماثل، وهو ما يبرر هذه التسمية.
 
-*Examples:* social media, chat clients, peer-to-peer payment platforms, massively-multi-player games, fantasy sports leagues.
+*أمثلة:* وسائل التواصل الاجتماعي، وعملاء الدردشة، ومنصات الدفع من نظير إلى نظير، والألعاب متعددة اللاعبين، والبطولات الرياضية الخيالية.
 
-#### Type 2: Word-of-Mouth
-All products have some word-of-mouth component, but here we're referring to products that are *primarily* driven this way; this creates a growth process that is similar to viral. Typically the mechanism of "telling others" is built into the product, rather than bolted on by marketing or generated by goodwill. The difference between "word-of-mouth" and "viral," is that viral products are *unusable* unless you invite others to become users (thus exponential growth is enforced) whereas word-of-mouth products *encourage* sharing. Thus chat clients are viral because without inviting others you can't chat, whereas Wordle[^8] was word-of-mouth, because you play the game alone, but are encouraged to share results on Twitter, which in turn brings in new users.
+#### النوع الثاني: الكلام الشفهي
+تحتوي جميع المنتجات على بعض مكونات الحديث الشفهي، لكننا هنا نشير إلى المنتجات التي يتم توجيهها *في المقام الأول* بهذه الطريقة؛ وهذا يخلق عملية نمو مشابهة للعملية الفيروسية. عادةً ما تكون آلية "إخبار الآخرين" مدمجة في المنتج، بدلاً من تثبيتها عن طريق التسويق أو الناتجة عن حسن النية. الفرق بين "الكلمة الشفهية" و"الفيروسية" هو أن المنتجات الفيروسية *غير قابلة للاستخدام* إلا إذا قمت بدعوة الآخرين ليصبحوا مستخدمين (وبالتالي يتم فرض النمو المتسارع) في حين أن المنتجات الشفهية *تشجع* المشاركة. وبالتالي فإن عملاء الدردشة ينتشرون بسرعة لأنه بدون دعوة الآخرين لا يمكنك الدردشة، في حين أن Wordle[^8] كان يتحدث شفهيًا، لأنك تلعب اللعبة بمفردك، ولكن يتم تشجيعك على مشاركة النتائج على Twitter، والذي بدوره يجلب مستخدمين جدد.
 
-*Examples:* gamified products that generate significant sharing (self-improvement, game-results), consumer-to-consumer marketplaces where being a buyer plants the idea of becoming a seller (eBay, Airbnb, Uber); organizations with a cause that creates on-going buzz (brazenly unique cultures, a passionate higher purpose, something people feel is linked to their personal identity).
+*أمثلة:* منتجات الألعاب التي تولد مشاركة كبيرة (التحسين الذاتي، نتائج الألعاب)، والأسواق من مستهلك إلى مستهلك حيث يزرع المشتري فكرة أن يصبح بائعًا (eBay، وAirbnb، وUber)؛ المنظمات التي لها قضية تثير ضجة مستمرة (ثقافات فريدة من نوعها، وهدف أسمى عاطفي، وهو شيء يشعر الناس أنه مرتبط بهويتهم الشخصية).
 
-#### Type 3: Hot Trend
-Products that "everyone" (in some well-defined market) is going to buy. For smartphones, that might be half the population of the world. For internet search, that might be 100% of the online world. For backend management systems for large hospital chains, that could be 1000 potential customers. These products hit "tipping points" where "suddenly everyone buys it." Even if, like internet search, the product has no explicitly viral nor word-of-mouth component--when you search on Google, you don't "invite friends" to also search on Google--the ubiquity and inevitability of the trend leads to an explosion of users.
+#### النوع 3: الاتجاه الساخن
+المنتجات التي سيشتريها "الجميع" (في بعض الأسواق المحددة جيدًا). بالنسبة للهواتف الذكية، قد يمثل ذلك نصف سكان العالم. بالنسبة للبحث على الإنترنت، قد يكون ذلك 100% من عالم الإنترنت. بالنسبة لأنظمة إدارة الواجهة الخلفية لسلاسل المستشفيات الكبيرة، يمكن أن يصل عدد العملاء المحتملين إلى 1000 عميل. وصلت هذه المنتجات إلى "نقاط التحول" حيث "فجأة يشتريها الجميع". حتى لو كان المنتج، كما هو الحال في البحث على الإنترنت، لا يحتوي على مكون فيروسي أو تناقل كلامي بشكل صريح - عندما تبحث على Google، فإنك لا "تدعو الأصدقاء" للبحث أيضًا على Google - فإن انتشار هذا الاتجاه وحتميته يؤدي إلى انفجار عدد المستخدمين.
 
-*Examples:* word-processing, spreadsheets, broadband internet, the smartphone, the shifts to cloud computing and online shopping, major media delivery platforms of radio, TV, DVD, and video streaming.
+*أمثلة:* معالجة النصوص، وجداول البيانات، والإنترنت واسع النطاق، والهواتف الذكية، والتحولات إلى الحوسبة السحابية والتسوق عبر الإنترنت، ومنصات توصيل الوسائط الرئيسية للراديو والتلفزيون وأقراص DVD وتدفق الفيديو.
 
-[^8]: Wordle [exploded](https://www.theguardian.com/games/2022/jan/11/wordle-creator-overwhelmed-by-global-success-of-hit-puzzle) from 90 players in November 2021, to 300,000 in December, to 2,000,000 in January, when it was [bought](https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html) by the New York Times.
+[^8]: Wordle [انفجر](https://www.theguardian.com/games/2022/jan/11/wordle-creator-overwhelmed-by-global-success-of-hit-puzzle) من 90 لاعبًا في نوفمبر 2021، إلى 300000 في ديسمبر، إلى 2000000 في يناير، عندما كان [تم شراؤها](https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html) بواسطة صحيفة نيويورك تايمز.
 
-### Logistic growth: Nearly the right model for virality
+### النمو اللوجستي: النموذج الصحيح تقريبًا للفيروسية
 
-Products cannot grow forever, for the obvious reason that markets are finite. The Facebook virus spread to billions of people, but not infinite. Smartphones have been purchased by billions of people, but not infinite.
+لا يمكن للمنتجات أن تنمو إلى الأبد، وذلك لسبب واضح وهو أن الأسواق محدودة. انتشر فيروس الفيسبوك إلى مليارات الأشخاص، ولكن ليس إلى ما لا نهاية. تم شراء الهواتف الذكية من قبل مليارات الأشخاص، ولكن ليس إلى ما لا نهاية.
 
-Therefore, even if "exponential" is the correct model for the core growth mechanism of the product, it nevertheless cannot continue growing exponentially because it runs out of market. Furthermore, markets tend to have so-called "low-hanging fruit"--customers who are more eager to buy--so although the virus spreads exponentially through these easy-pickings, it runs into the majority of people who will buy, but maybe later, maybe after more of their friends or competitors are using it, maybe if it's less expensive, maybe once it has more features, maybe once it supports integration with specific other software, and all manner of other excuses. The virus has more trouble infecting these high-strung fruits, so growth slows.
+لذلك، حتى لو كان "الأسي" هو النموذج الصحيح لآلية النمو الأساسية للمنتج، فإنه مع ذلك لا يمكن أن يستمر في النمو بشكل كبير لأنه نفاد السوق. علاوة على ذلك، تميل الأسواق إلى ما يسمى بـ "الفاكهة الدانية" - العملاء الذين هم أكثر شغفًا بالشراء - لذلك على الرغم من أن الفيروس ينتشر بشكل كبير من خلال هذه الاختيارات السهلة، فإنه يصل إلى غالبية الأشخاص الذين سيشترون، ولكن ربما لاحقًا، ربما بعد أن يستخدمه المزيد من أصدقائهم أو منافسيهم، ربما إذا كان أقل تكلفة، ربما بمجرد أن يكون لديه المزيد من الميزات، ربما بمجرد أن يدعم التكامل مع برامج أخرى محددة، وجميع أنواع الأعذار الأخرى. ويواجه الفيروس صعوبة أكبر في إصابة هذه الثمار ذات الأوتار العالية، لذلك يتباطأ النمو.
 
-This suggests a curve that starts exponentially, but then slows as it runs into the soft back-pressure of more demanding customers, and finally flattens out completely as it runs into the hard limit of the size of the addressable market.
+يشير هذا إلى منحنى يبدأ بشكل كبير، ولكنه يتباطأ بعد ذلك عندما يواجه الضغط الخلفي الناعم للعملاء الأكثر تطلبًا، وفي النهاية يتسطح تمامًا عندما يصل إلى الحد الصعب لحجم السوق القابلة للتوجيه.
 
-Biologists have already done the work for us, because this is the correct model not just for viral products, but biological viruses infecting a population--akin to product types 1 and 2 above. Intriguingly, this is also the correct model[^9] for the diffusion of a gas across a membrane--akin to product type 3. The mathematical model for all of these processes is the logistic curve:
+لقد قام علماء الأحياء بالعمل نيابةً عنا بالفعل، لأن هذا هو النموذج الصحيح، ليس فقط للمنتجات الفيروسية، ولكن أيضًا للفيروسات البيولوجية التي تصيب مجموعة سكانية - على غرار نوعي المنتجات 1 و 2 أعلاه. ومن المثير للاهتمام أن هذا أيضًا هو النموذج الصحيح[^9] لانتشار الغاز عبر الغشاء - على غرار نوع المنتج 3. النموذج الرياضي لجميع هذه العمليات هو المنحنى اللوجستي:
 
-[^9]: The similarity is that in both cases you have a sudden demand that enters into a new space, but which slows and eventually stops as the new space becomes saturated.
+[^9]: التشابه هو أنه في كلتا الحالتين لديك طلب مفاجئ يدخل إلى مساحة جديدة، ولكنه يتباطأ ويتوقف في النهاية عندما تصبح المساحة الجديدة مشبعة.
 
 ![The shape of a logistic curve relative to an exponential curve](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/the-shape-of-logistic-simple.png)
 
-The logistic curve *is* exponential in the early days when it is far away from its natural limit. As the product (or gas or virus) gets to around 25% market penetration (or infections or saturation), the curve flattens into linear growth, in a tension between the exponential force of growth, countered by fewer and more demanding remaining targets. Finally it levels out at what is called the "carrying capacity"--the fully-saturated market.
+المنحنى اللوجستي *يكون* أسيًا في الأيام الأولى عندما يكون بعيدًا عن حده الطبيعي. ومع وصول المنتج (أو الغاز أو الفيروس) إلى اختراق السوق بنسبة 25% تقريبًا (أو العدوى أو التشبع)، يتسطح المنحنى إلى نمو خطي، في توتر بين القوة الأسية للنمو، في مواجهة أهداف متبقية أقل وأكثر تطلبًا. وأخيراً وصل إلى ما يسمى "القدرة الاستيعابية" - السوق المشبعة بالكامل.
 
-The logistic curve is evident in the real world, in all three product types (Figure 23 & 24 & 25 & 26 & 27 & 28 & 29).
+ويظهر المنحنى اللوجستي واضحًا في العالم الحقيقي، في جميع أنواع المنتجات الثلاثة (الشكل 23 و24 و25 و26 و27 و28 و29).
 
 ![Twitter is a type 1 "Viral" product that follows the logistic model](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/twittermau-simple.png)
 
@@ -271,138 +258,138 @@ The logistic curve is evident in the real world, in all three product types (Fig
 
 ![The internet is a type 3 "Hot Trend" product with a near-exact logistic shape; at 66% global penetration, it hasn't reached carrying-capacity, but it's been in its linear mode for many years, and fell off the exponential path sooner than you might have expected](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/global-internet-users-2-simple.png)
 
-### Stacking logistic growth: The quadratic reappears
+### تكديس النمو اللوجستي: تظهر المعادلة التربيعية من جديد
 
-Marketing-driven products demonstrated quadratic growth, especially once Elephant-shaped campaigns and products were stacked. How does this differ with logistic growth?
+أظهرت المنتجات التي تعتمد على التسويق نموًا تربيعيًا، خاصة عندما تم تجميع الحملات والمنتجات التي تعتمد على شكل الفيل. كيف يختلف هذا مع النمو اللوجستي؟
 
-As already pointed out, logistic growth is similar to the Elephant Curve. The "high growth" portion of a marketing campaign might in fact be logistic; a product might extend that period into years rather than weeks, and the absolute magnitude of the result might be many times larger.
+كما أشرنا سابقًا، فإن النمو اللوجستي يشبه منحنى الفيل. قد يكون الجزء "النمو المرتفع" من الحملة التسويقية لوجستيًا في الواقع؛ وقد يمتد المنتج تلك الفترة إلى سنوات بدلاً من أسابيع، وقد يكون الحجم المطلق للنتيجة أكبر بعدة مرات.
 
-If this idea is correct, we ought to see viral-like products exhibit a similar curve to the iPod curve--i.e. a product with initially-exponential growth, then a flattening, perhaps with some small growth, then on a long-enough timeline, a decline. An Elephant with a more stretched-out trunk.
+إذا كانت هذه الفكرة صحيحة، فيجب أن نرى المنتجات الفيروسية تظهر منحنى مشابهًا لمنحنى iPod - على سبيل المثال. منتج ذو نمو أسي في البداية، ثم تسطيح، ربما مع بعض النمو الطفيف، ثم على جدول زمني طويل بما فيه الكفاية، انخفاض. فيل ذو خرطوم ممتد أكثر.
 
-The Facebook Messenger product appears to exhibit at least the first half of the logistic curve:
+يبدو أن منتج Facebook Messenger يعرض على الأقل النصف الأول من المنحنى اللوجستي:
 
 ![Facebook Messenger Global Monthly Active Users](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/d5a60cc6028eeccc2008b5971-simple.png)
 
-Furthermore, this curve is actually a sum of US growth and outside-US growth. Looking only inside the US, Facebook Messenger is further along the curve, past the linear midsection and already leveling out near some carrying-capacity:
+علاوة على ذلك، فإن هذا المنحنى هو في الواقع مجموع النمو في الولايات المتحدة والنمو خارج الولايات المتحدة. بالنظر إلى داخل الولايات المتحدة فقط، فإن Facebook Messenger يقع على طول المنحنى، متجاوزًا القسم الأوسط الخطي ويستقر بالفعل بالقرب من بعض القدرة الاستيعابية:
 
 ![Facebook Messenger MAUs over time](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/facebook-messenger-maus-us-millions-simple.png)
 
-The same thing happens with Facebook DAUs and MAUs.[^10] DAUs in the United States and Canada are logistical and have already topped-out at an apparent natural carrying-capacity of 185 million:
+ويحدث نفس الشيء مع الوحدات النشطة النشطة والوحدات النشطة شهريًا على فيسبوك.[^10] تعد الوحدات النشطة يوميًا في الولايات المتحدة وكندا لوجستية وقد تجاوزت بالفعل قدرة حمل طبيعية واضحة تبلغ 185 مليونًا:
 
-[^10]: Daily Active Users, Monthly Active Users
+[^10]: المستخدمون النشطون يوميًا، المستخدمون النشطون شهريًا
 
 ![Facebook daily active users](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/facebook-lost-daily-users-for-the-first-time-ever-in-the-u-s-and-canada-vox-simple.png)
 
-Breaking out MAUs by all geographies reveals that top-line growth of users is an aggregate of some geographies essentially not growing at all (late in the curve), while others are still growing, albeit also linearly (middle of the curve):
+يكشف تقسيم MAUs في جميع المناطق الجغرافية أن نمو الخط الأعلى للمستخدمين هو إجمالي لبعض المناطق الجغرافية التي لا تنمو بشكل أساسي على الإطلاق (في أواخر المنحنى)، بينما لا تزال مناطق أخرى تنمو، وإن كان خطيًا أيضًا (منتصف المنحنى):
 
 ![Facebook MAUs](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/facebook-monthly-active-users-quarter-4-2019-chart-simple.png)
 
-The result of these individual effects of different products, released at different times, in different geographies, each with a "marketing campaign" style growth curve, is that it adds up to linear growth:
+نتيجة هذه التأثيرات الفردية للمنتجات المختلفة، التي تم إصدارها في أوقات مختلفة، وفي مناطق جغرافية مختلفة، ولكل منها منحنى نمو على طراز "الحملة التسويقية"، هي أنها تضيف إلى النمو الخطي:
 
 ![Exponential growth for the first few years crashes down into linear growth for nearly twenty years, from large-scale logistic-shaped products and geographies](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/facebook-maus-yoy-change-1-simple.png)
 
-Does this conform to the Elephant Curve? Is this really still essentially quadratic? The answer is clear when we plot the same data, this time measuring the year-over-year change in MAUs. Not as a *percentage*, but as numbers:
+هل هذا يتوافق مع منحنى الفيل؟ هل لا يزال هذا حقًا تربيعيًا بشكل أساسي؟ تكون الإجابة واضحة عندما نرسم نفس البيانات، ونقيس هذه المرة التغير في الوحدات النشطة شهريًا على أساس سنوي. ليس كنسبة مئوية، بل كأرقام:
 
 ![Facebook MAU growth is indeed an Elephant Curve: Logistic at first, then flat(ish), then starting to decline.](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/facebook-maus-yoy-change-numbers-not-percent-simple.png)
 
-Why do we keep seeing this pattern, even at the scale of Facebook, one of the most "viral" products of all time? Because mathematically, things that look like an Elephant Curve, even if the logistic "trunk" is elongated over time, are linear for nearly their entire lifetimes. Everywhere except the very beginning. Adding up linear things definitionally creates a quadratic.
+لماذا نستمر في رؤية هذا النمط، حتى على نطاق فيسبوك، وهو أحد أكثر المنتجات انتشارًا على الإطلاق؟ لأنه من الناحية الرياضية، فإن الأشياء التي تبدو مثل منحنى الفيل، حتى لو تم تمديد "الجذع" اللوجستي بمرور الوقت، تكون خطية طوال حياتها تقريبًا. في كل مكان ما عدا البداية. إن إضافة الأشياء الخطية يؤدي إلى إنشاء معادلة تربيعية.
 
-As a striking example of this claim--that multiple, various Elephant Curves result in quadratic growth in the real world--consider the detail behind the earlier chart of Global Internet Users over time, a type 3 product. Every country has grown logistically, at a variety of starting-times, diffusion rates, and carrying capacities, yet the aggregate is quadratic:
+وكمثال صارخ على هذا الادعاء - أن منحنيات الفيل المتعددة والمتنوعة تؤدي إلى نمو تربيعي في العالم الحقيقي - فكر في التفاصيل وراء الرسم البياني السابق لمستخدمي الإنترنت العالميين مع مرور الوقت، وهو منتج من النوع 3. لقد حققت كل دولة نموًا لوجستيًا، في أوقات بداية مختلفة، ومعدلات انتشار، وقدرات الاستيعاب، ومع ذلك فإن المجموع هو تربيعي:
 
 ![Thirty years of varied logistic growth adds up to quadratic growth](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/share-of-internet-users-simple.png)
 
-To be certain the graph at the bottom (which is the same data as the chart shown earlier) is specifically quadratic, we chart the absolute difference in online population year by year. In a quadratic, these differences should grow linearly, i.e. each year adding a constant amount more than the previous year added. Which is indeed what we find, as precisely as we could expect from data in the messy real-world:
+للتأكد من أن الرسم البياني الموجود في الأسفل (وهو نفس البيانات الموجودة في الرسم البياني الموضح سابقًا) هو رسم بياني تربيعي على وجه التحديد، فإننا نرسم الفرق المطلق في عدد مستخدمي الإنترنت سنة بعد سنة. في المعادلة التربيعية، يجب أن تنمو هذه الاختلافات خطيًا، أي إضافة مبلغ ثابت كل عام أكثر من العام السابق المضاف. وهذا بالفعل ما نجده، بالدقة التي يمكن أن نتوقعها من البيانات في العالم الحقيقي الفوضوي:
 
 ![global internet growth is quadratic](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/absolute-change-in-global-internet-users-1-simple.png)
 
-Bringing it back down to the scale of a single company, consider Netflix, another type 3 product. While their overall growth accelerates, under the hood we can see the US was already in a phase of slow-growth by 2014, with outside-US is taking up the slack through 2019:
+ولإعادته إلى مستوى شركة واحدة، فكر في Netflix، وهو منتج آخر من النوع 3. في حين أن نموها الإجمالي يتسارع، يمكننا أن نرى تحت الغطاء أن الولايات المتحدة كانت بالفعل في مرحلة من النمو البطيء بحلول عام 2014، مع قيام خارج الولايات المتحدة بتعويض الركود حتى عام 2019:
 
 ![A quadratic top-line, created by two roughly-linear geographies](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/d5cb88c28d1a2f8140b6cae43-simple.png)
 
-If we chart the *changes* in subscribers, rather than totals, it's even more clear that growth in the US has been in the declining phase of the Elephant Curve for a while, with outside-US is growing linearly:
+إذا قمنا برسم *التغيرات* في المشتركين، بدلاً من الإجماليات، فمن الواضح أكثر أن النمو في الولايات المتحدة كان في مرحلة الانخفاض من منحنى الفيل لفترة من الوقت، مع نمو خارج الولايات المتحدة بشكل خطي:
 
 ![Netflix growth slows](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/d960x0-simple.png)
 
-And then, fast-forwarding to 2023, looking at total, global subscribers, we see that growth slowed outside of the US as well, and the familiar Elephant Curve returns in its entirety:
+وبعد ذلك، وبالتقدم سريعًا إلى عام 2023، وبالنظر إلى إجمالي المشتركين العالميين، نرى أن النمو تباطأ خارج الولايات المتحدة أيضًا، ويعود منحنى الفيل المألوف بالكامل:
 
 ![Netflix global subscriber count](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/netflix-global-subscriber-count-simple.png)
 
-### Logistic growth with a varying carrying capacity: Start with market-share
+### النمو اللوجستي بقدرة استيعابية متفاوتة: ابدأ بحصة السوق
 
-Suppose you're Facebook, and you've saturated many markets. You might be at carrying-capacity for those markets, but more people are still coming online. The markets are growing, so your carrying-capacity is growing, so you should still be able to grow too.
+لنفترض أنك الفيسبوك، وقمت بإشباع العديد من الأسواق. قد تكون لديك القدرة الاستيعابية لتلك الأسواق، ولكن لا يزال المزيد من الأشخاص يتواصلون عبر الإنترنت. الأسواق تنمو، وبالتالي فإن قدرتك الاستيعابية تنمو، لذا يجب أن تظل قادرًا على النمو أيضًا.
 
-Indeed, recalling the charts above, Facebook's current MAU growth rate, and that of global internet users, both are currently hovering around 7% per year. Which isn't a coincidence.
+في الواقع، وبالرجوع إلى الرسوم البيانية أعلاه، فإن معدل نمو MAU الحالي لفيسبوك، ومعدل مستخدمي الإنترنت على مستوى العالم، كلاهما يحوم حاليًا حول 7٪ سنويًا. وهي ليست صدفة.
 
-Let's plot Facebook's MAUs as a percentage of people online--their *market share*:
+دعونا نرسم عدد المستخدمين النشطين شهريًا على Facebook كنسبة مئوية من الأشخاص عبر الإنترنت - *حصتهم في السوق*:
 
 ![The Elephant Curve strikes again](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/facebook-maus-as-of-global-internet-users-simple.png)
 
-Finally we have the complete answer to why Facebook's growth appears so "linear," when the theory expects an Elephant Curve. When you examine growth *relative to market size* it *is* an Elephant, complete with logistic trunk, optimized back, and declining rump (even despite a COVID bump).
+وأخيراً لدينا الإجابة الكاملة عن السبب الذي يجعل نمو فيسبوك يبدو "خطياً" للغاية، في حين تتوقع النظرية منحنى الفيل. عندما تفحص النمو *بالنسبة لحجم السوق*، تجده *فيلًا، مكتملًا بصندوق لوجستي، وظهر محسّن، وردف متراجع (حتى على الرغم من عثرة فيروس كورونا).
 
-This is why at-scale companies are willing to spend billions of dollars increasing the size of the market--it's one of the few ways to create growth other than raising prices. So Google spent billions on Loon--a subsidized service to bring low-cost internet to remote areas of the world. Its problem-statement is the first text on [its website](https://x.company/projects/loon/): "Billions of people across the globe still don't have reliable, affordable access to the internet." Or, putting it another way, "Wifi balloons are a kooky idea but how else are we going to increase the carrying-capacity of the 'global internet user' Elephant Curve?"
+وهذا هو السبب وراء رغبة الشركات واسعة النطاق في إنفاق مليارات الدولارات لزيادة حجم السوق - إنها إحدى الطرق القليلة لتحقيق النمو بخلاف رفع الأسعار. لذلك أنفقت جوجل المليارات على خدمة Loon - وهي خدمة مدعومة لتوصيل الإنترنت منخفض التكلفة إلى المناطق النائية من العالم. بيان المشكلة هو النص الأول على [موقعها على الويب] (https://x.company/projects/loon/): "لا يزال مليارات الأشخاص في جميع أنحاء العالم لا يتمتعون بإمكانية الوصول الموثوق به وبأسعار معقولة إلى الإنترنت." أو بعبارة أخرى، "بالونات WiFi هي فكرة غريبة، ولكن كيف يمكننا زيادة القدرة الاستيعابية لمستخدم الإنترنت العالمي "Elephant Curve؟"
 
-Or Facebook with its "Free Basics" system that ([in their words](https://www.facebook.com/connectivity/solutions/free-basics)) "Helps people discover the relevance and benefits of connectivity with free access to basic online services." Except actually it's only a few, hand-curated websites, all of which just happen to be western consumer products companies that are large Facebook advertisers, and the only available social network just happens to be Facebook. And there's no email, so I hope you like Facebook Messenger. In other words, a [digital colonialism](https://www.theguardian.com/technology/2017/jul/27/facebook-free-basics-developing-markets) whose purpose is to increase the carrying capacity of Facebook MAUs and the advertising that goes with it.
+أو فيسبوك بنظام "الأساسيات المجانية" الذي ([على حد تعبيرهم](https://www.facebook.com/connectivity/solutions/free-basics)) "يساعد الأشخاص على اكتشاف أهمية الاتصال وفوائده من خلال الوصول المجاني إلى الخدمات الأساسية عبر الإنترنت." إلا أنها في الواقع عبارة عن عدد قليل فقط من مواقع الويب المنسقة يدويًا، وجميعها عبارة عن شركات منتجات استهلاكية غربية وهي من كبار المعلنين على فيسبوك، والشبكة الاجتماعية الوحيدة المتاحة هي فيسبوك. ولا يوجد بريد إلكتروني، لذا أتمنى أن يعجبك Facebook Messenger. بمعنى آخر، [الاستعمار الرقمي](https://www.theguardian.com/technology/2017/jul/27/facebook-free-basics-developing-markets) الذي يهدف إلى زيادة القدرة الاستيعابية لوحدات Facebook MAUs والإعلانات المصاحبة لها.
 
-Elephant Curves are more visible when we plot growth as market share, because this incorporates the idea that carrying-capacity of the underlying market can itself be a moving target.
+تصبح منحنيات الفيل أكثر وضوحا عندما نرسم النمو كحصة في السوق، لأن هذا يتضمن فكرة أن القدرة الاستيعابية للسوق الأساسية يمكن أن تكون في حد ذاتها هدفا متحركا.
 
-### Logistic growth with a varying unit revenue
+### النمو اللوجستي مع إيرادات وحدة متفاوتة
 
-We've largely been analyzing *users* rather than *revenue*, and for good reason: The lifeblood of any product is people who use it, regardless how much money it can extract in the process.
+لقد قمنا إلى حد كبير بتحليل *المستخدمين* بدلاً من *الإيرادات*، وذلك لسبب وجيه: إن شريان الحياة لأي منتج هو الأشخاص الذين يستخدمونه، بغض النظر عن مقدار الأموال التي يمكن أن يستخرجها من هذه العملية.
 
-However, when we turn to revenue, we find that curves can become perkier. Facebook's user growth might be linear, but could it be that revenue is exponential? It's certainly not linear:
+ومع ذلك، عندما ننتقل إلى الإيرادات، نجد أن المنحنيات يمكن أن تصبح أكثر مرحًا. قد يكون نمو مستخدمي فيسبوك خطيًا، لكن هل يمكن أن تكون الإيرادات هائلة؟ إنها بالتأكيد ليست خطية:
 
 ![Facebook advertising revenue](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/facebookadrevenue-simple.png)
 
-We already know Facebook's user growth is linear, so the missing piece is Facebook's revenue *per* user:
+نحن نعلم بالفعل أن نمو مستخدمي فيسبوك خطي، لذا فإن الجزء المفقود هو إيرادات فيسبوك *لكل* مستخدم:
 
 ![Logistic or Elephant yet again](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/facebook-revenue-per-user-simple.png)
 
-Perhaps by now we're not shocked to see the Elephant Curve once again. And we also know how the rest of the story goes: Because MAUs are Elephantine (which means mostly linear), and revenue-per-user is Elephantine (which means mostly linear), when you multiply them you get a quadratic, not an exponential, and that's what we see in Facebook's overall revenue growth.
+ربما لم نشعر بالصدمة الآن لرؤية منحنى الفيل مرة أخرى. ونحن نعلم أيضًا كيف تسير بقية القصة: نظرًا لأن MAUs هي Elephantine (وهو ما يعني في الغالب خطية)، والعائد لكل مستخدم هو Elephantine (وهو ما يعني في الغالب خطي)، فعندما تضربها تحصل على قيمة تربيعية، وليست أسية، وهذا ما نراه في إجمالي نمو إيرادات Facebook.
 
-## Actionable conclusions
+## استنتاجات قابلة للتنفيذ
 
-When we seek out the Elephant Curve in our marketing channels, product lines, geographies, and verticals, not just in its hopefully-explosive initial phase, but its phases of optimization and decline, we can proactively look for these phases, and take action.
+عندما نبحث عن منحنى الفيل في قنواتنا التسويقية، وخطوط إنتاجنا، ومناطقنا الجغرافية، وقطاعاتنا، ليس فقط في مرحلته الأولية التي نأمل أن تكون متفجرة، ولكن في مراحل التحسين والانحدار، يمكننا أن نبحث بشكل استباقي عن هذه المراحل، ونتخذ الإجراءات اللازمة.
 
-### Model by component
+### نموذج حسب المكون
 
-Our final discussion on the value of analyzing components of growth separate leads to a prescription for analyzing growth.
+مناقشتنا النهائية حول قيمة تحليل مكونات النمو المنفصلة تؤدي إلى وصفة لتحليل النمو.
 
-1. Estimate the growth curve for the entire market. Expect to be Elephantine (or simply logistic, in the case of trends that you can reasonably assume will not decline in the forecasted future, like global internet use or smartphone use).
-2. Estimate the product market-share curve. Expect to be Elephantine, and don't be so bold as to assume your product will never decline relative to the market--are you better at execution than Facebook?
-3. Estimate monetization, i.e. revenue per customer.[^11] This curve *might* be Elephantine, but not necessarily. It is highly dependent on the product and market, on how distinct the product is competitively, on the budgets of the customers, and more. Facebook has a strong [moat](https://longform.asmartbear.com/moats/) (network effect) and doesn't charge end-users, so they (like Google) can raise prices consistently. A product in a commoditized market might never be able to raise prices, and thus must find growth in avenues like increasing usage, the introduction of companion products, expanding to other verticals or geographies, or by applying their technology to new markets.
+1. تقدير منحنى النمو للسوق بأكمله. توقع أن تكون في غاية التطور (أو ببساطة لوجستية، في حالة الاتجاهات التي يمكنك الافتراض بشكل معقول أنها لن تنخفض في المستقبل المتوقع، مثل الاستخدام العالمي للإنترنت أو استخدام الهاتف الذكي).
+2. تقدير منحنى الحصة السوقية للمنتج. توقع أن تكون من فئة Elephantine، ولا تكن جريئًا لدرجة افتراض أن منتجك لن يتراجع أبدًا مقارنة بالسوق - هل أنت أفضل في التنفيذ من Facebook؟
+3. قدّر تحقيق الدخل، أي الإيرادات لكل عميل.[^11] هذا المنحنى *قد* يكون من نوع Elephantine، ولكن ليس بالضرورة. يعتمد الأمر بشكل كبير على المنتج والسوق، وعلى مدى تميز المنتج في المنافسة، وعلى ميزانيات العملاء، والمزيد. يتمتع فيسبوك بخندق قوي (https://longform.asmartbear.com/moats/) (تأثير الشبكة) ولا يفرض رسومًا على المستخدمين النهائيين، لذا يمكنهم (مثل Google) رفع الأسعار باستمرار. قد لا يتمكن المنتج في السوق السلعية أبدًا من رفع الأسعار، وبالتالي يجب أن يجد النمو في طرق مثل زيادة الاستخدام، أو تقديم المنتجات المصاحبة، أو التوسع إلى قطاعات أو مناطق جغرافية أخرى، أو من خلال تطبيق التكنولوجيا في أسواق جديدة.
 
-[^11]: The definition of "customer" should match whatever activity is most highly correlated with growth; this is also what "market share" should mean. For normal products people pay for, this is simply "paying customers," but for example in the case of Facebook, this is MAUs at least, perhaps even DAUs.
+[^11]: يجب أن يتطابق تعريف "العميل" مع أي نشاط يرتبط بشكل أكبر بالنمو؛ وهذا أيضًا ما ينبغي أن تعنيه عبارة "حصة السوق". بالنسبة للمنتجات العادية التي يدفع الناس ثمنها، فهذا ببساطة "عملاء يدفعون"، ولكن على سبيل المثال في حالة فيسبوك، هذه هي الوحدات النشطة شهريًا على الأقل، وربما حتى الوحدات النشطة يوميًا.
 
-You get better models by predicting each of these components separately, then multiplying for a final growth prediction. You're also better able to track the model against reality, as more data becomes available.
-
----
-
-Besides this break-down, there are many operational ideas suggested by the results above, especially for managing marketing campaigns.
-
-This might be expanded in a future article, but for now, these probing questions might lead to better ideas on how to analyze and affect growth:
-
-### Advice for Marketing teams
-
-* Is our AdWords campaign topped out? Are we fooling ourselves into thinking there's more inventory to access? How much more optimization is there to be had, and how would know? Are we hitting a decline due to uneconomical auctions, and if so, what is our reaction? When should we start experimenting with new channels, rather than continue to flog the AdWords channel for results that don't exist?
-* Is it OK to be less cost-effective if it means we can stave off decline? Should we be that "irrational bidder" who bids "too much" because we're wise enough to see value beyond immediate cash pay-back? If so, how do we quantify that value, so we know just how "irrational" to be?
-* To hit our growth goals for the year, what would have to be true of the growth of existing campaigns? Which can be reasonably expected to grow, hold steady, or shrink, based on their phase? How many additional, successful campaigns do we need, and how soon? Since not all that we attempt will succeed, how many do we need to start to yield the final quantity we need?
-* Should we lean into newer channels before others figure them out, saturating the channel and cause clicks to be [both expensive and more rare](https://taylorpearson.me/ctr/)?
-* Rather than stack up small, limited campaigns, is there something more substantial that could generate more total growth? A single, large new geography instead of many smaller ones? A single, substantial new sales mechanism (e.g. reselling) rather than more advertising? A different pricing model instead of an additional sales model? Even if it takes 10x the effort, and possible even if it takes 10x the time, it might have 10x the results.
-* Or the reverse--do we pull funds when we smell decline, rather than spending our time and money fighting a losing battle, accepting a short-term hit on top-line growth in exchange for more efficient growth? Do we try to stack up many smaller, more efficient campaigns, generating growth as a bulk effort? Each effort affects the top line only marginally, but conversely our growth is less sensitive to the decline of any one campaign.
-
-### Advice for Product Managers
-
-* It's great to add a feature to an existing product, but significant additional growth comes from increasing carrying capacity or creating a new avenue of growth. Early on you should focus on winning market share in one space, creating the first Elephant Curve, but after the product matures, something more drastic is required: Wholly new products, or updates significant enough to address new markets.
-* It's well-known that companies need to add additional products to continue fast growth after achieving scale. However the second product is highly unlikely to achieve same market share and monetary scale as the first, so there needs to be multiple, not just one.[^12] This requires serious investment, parallel efforts, and the chutzpah to kill off the ideas that aren't working.
-* Because word-of-mouth-driven growth is so much more effective than marketing-driven growth (both in cost-per-customer and in that unlike direct advertising it grows automatically as the company grows), it is worth a great deal of time trying to figure out how to build that into the product, rather than relying only on the marketing team.
-
-[^12]: This is true at any scale--advertising is still 82% of Google's revenue; of that 71% is advertising from search alone (i.e. excluding YouTube and other properties). Apple revenue is 60% iPhone. Even at smaller scales: Basecamp (neé 37signals) built multiple products over nearly two decades but only their first was successful enough to be worth working on; the company divested itself of the rest and rebranded to be identical to that product. It *is* possible for second products to eclipse the first; the iPhone was of course not Apple's first product; The Tesla model 3 outsells the earlier model X, And at my own company Smart Bear our second product ended up being 95% of sales, and we essentially did the same as 37signals and went to a single product model.
+يمكنك الحصول على نماذج أفضل من خلال التنبؤ بكل عنصر من هذه المكونات بشكل منفصل، ثم الضرب للحصول على التنبؤ النهائي بالنمو. وستكون أيضًا أكثر قدرة على تتبع النموذج مقابل الواقع، مع توفر المزيد من البيانات.
 
 ---
 
-> "Half my advertising is wasted. I just don't know which half."  
-> --John Wanamaker
+إلى جانب هذا التقسيم، هناك العديد من الأفكار التشغيلية التي تقترحها النتائج أعلاه، خاصة لإدارة الحملات التسويقية.
 
-Mr. Wanamaker made his famous complaint more than a hundred years ago; even with modern analytics, today [it's worse](https://www.mediavillage.com/article/which-half-of-my-advertising-is-wasted-and-it-is-only-half). The quadratic growth model won't solve that puzzle, but the better you understand the mechanisms of growth, the more it is under your control. <br/> 
+قد يتم توسيع هذا الأمر في مقال مستقبلي، ولكن في الوقت الحالي، قد تؤدي هذه الأسئلة الاستقصائية إلى أفكار أفضل حول كيفية تحليل النمو والتأثير عليه:
+
+### نصيحة لفرق التسويق
+
+* هل وصلت حملتنا في AdWords إلى القمة؟ هل نخدع أنفسنا بالاعتقاد بأن هناك المزيد من المخزون الذي يمكن الوصول إليه؟ ما مقدار التحسين الذي يجب القيام به، وكيف يمكن معرفة ذلك؟ هل نشهد تراجعاً بسبب المزادات غير الاقتصادية، وإذا كان الأمر كذلك فما هو رد فعلنا؟ متى يجب أن نبدأ في تجربة قنوات جديدة، بدلاً من الاستمرار في تضييق الخناق على قناة AdWords للحصول على نتائج غير موجودة؟
+* فهل من المقبول أن نكون أقل فعالية من حيث التكلفة إذا كان ذلك يعني أننا قادرون على تجنب الانحدار؟ هل يجب أن نكون ذلك "المزايد غير العقلاني" الذي يقدم "أكثر من اللازم" لأننا نتمتع بالحكمة الكافية لرؤية القيمة بما يتجاوز السداد النقدي الفوري؟ إذا كان الأمر كذلك، فكيف يمكننا قياس هذه القيمة، حتى نعرف إلى أي مدى يجب أن تكون "غير عقلانية"؟
+* لتحقيق أهداف النمو لدينا لهذا العام، ما الذي يجب أن ينطبق على نمو الحملات الحالية؟ ما هي العناصر التي يمكن توقع نموها، أو ثباتها، أو انكماشها، بناءً على مرحلتها؟ ما هو عدد الحملات الإضافية الناجحة التي نحتاجها، ومتى نحتاجها؟ وبما أن كل ما نحاوله لن ينجح، فكم عدد العناصر التي نحتاجها للبدء في الحصول على الكمية النهائية التي نحتاجها؟
+* هل يجب أن نلجأ إلى القنوات الأحدث قبل أن يكتشفها الآخرون، مما يؤدي إلى إشباع القناة وجعل النقرات [باهظة الثمن وأكثر ندرة](https://taylorpearson.me/ctr/)؟
+* فبدلاً من تجميع حملات صغيرة ومحدودة، هل هناك شيء أكثر أهمية يمكن أن يولد المزيد من النمو الإجمالي؟ جغرافيا جديدة كبيرة واحدة بدلاً من العديد من الجغرافيا الأصغر؟ آلية مبيعات جديدة وكبيرة (مثل إعادة البيع) بدلاً من المزيد من الإعلانات؟ نموذج تسعير مختلف بدلاً من نموذج مبيعات إضافي؟ حتى لو استغرق الأمر 10 أضعاف الجهد، ومن الممكن حتى لو استغرق 10 أضعاف الوقت، فقد يكون له نتائج 10 أضعاف.
+* أو العكس، هل نسحب الأموال عندما نشم رائحة التراجع، بدلاً من إنفاق وقتنا وأموالنا في خوض معركة خاسرة، وقبول ضربة قصيرة المدى على النمو الإجمالي مقابل نمو أكثر كفاءة؟ هل نحاول تجميع العديد من الحملات الأصغر والأكثر كفاءة، وتوليد النمو كجهد جماعي؟ يؤثر كل جهد على السطر العلوي بشكل هامشي فقط، ولكن على العكس من ذلك فإن نمونا أقل حساسية لانخفاض أي حملة واحدة.
+
+### نصيحة لمديري المنتجات
+
+* من الرائع إضافة ميزة إلى منتج موجود، ولكن النمو الإضافي الكبير يأتي من زيادة القدرة الاستيعابية أو إنشاء طريق جديد للنمو. في وقت مبكر، يجب عليك التركيز على الفوز بحصة سوقية في مساحة واحدة، وإنشاء أول منحنى الفيل، ولكن بعد نضوج المنتج، مطلوب شيء أكثر جذرية: منتجات جديدة تمامًا، أو تحديثات مهمة بما يكفي للتعامل مع أسواق جديدة.
+* من المعروف أن الشركات تحتاج إلى إضافة منتجات إضافية لمواصلة النمو السريع بعد تحقيق الحجم. ومع ذلك، فمن غير المرجح أن يحقق المنتج الثاني نفس الحصة السوقية والنطاق النقدي مثل المنتج الأول، لذلك يجب أن يكون هناك عدة منتجات، وليس منتجًا واحدًا فقط.[^12] ويتطلب هذا استثمارًا جادًا وجهودًا موازية وجرأة للقضاء على الأفكار غير الناجحة.
+* نظرًا لأن النمو المعتمد على الكلام الشفهي أكثر فعالية بكثير من النمو المعتمد على التسويق (سواء من حيث التكلفة لكل عميل أو من حيث أنه على عكس الإعلان المباشر فإنه ينمو تلقائيًا مع نمو الشركة)، فإن الأمر يستحق قدرًا كبيرًا من الوقت في محاولة معرفة كيفية بناء ذلك في المنتج، بدلاً من الاعتماد فقط على فريق التسويق.
+
+[^12]: هذا صحيح على أي نطاق، فلا تزال الإعلانات تمثل 82% من إيرادات Google؛ منها 71% عبارة عن إعلانات من البحث وحده (أي باستثناء موقع YouTube والممتلكات الأخرى). إيرادات أبل هي 60% من آيفون. حتى على نطاقات أصغر: قامت شركة Basecamp (néé 37signals) ببناء منتجات متعددة على مدار ما يقرب من عقدين من الزمن، ولكن المنتج الأول فقط كان ناجحًا بما يكفي ليستحق العمل عليه؛ تجردت الشركة من الباقي وأعادت تسمية علامتها التجارية لتكون مطابقة لذلك المنتج. *من الممكن* أن تتفوق المنتجات الثانية على الأولى؛ لم يكن iPhone بالطبع هو المنتج الأول لشركة Apple؛ يتفوق طراز Tesla 3 على الطراز السابق X، وفي شركتي Smart Bear، انتهى منتجنا الثاني إلى 95٪ من المبيعات، وقمنا بنفس الشيء مثل 37signals وذهبنا إلى نموذج منتج واحد.
+
+---
+
+> "لقد أهدر نصف إعلاناتي. وأنا لا أعرف أي نصف."
+> --جون واناماكر
+
+قدم السيد واناماكر شكواه الشهيرة منذ أكثر من مائة عام؛ حتى مع التحليلات الحديثة، اليوم [الأمر أسوأ](https://www.mediavillage.com/article/what-half-of-my-advertising-is-wasted-and-it-is-only-half). لن يحل نموذج النمو التربيعي هذا اللغز، ولكن كلما فهمت آليات النمو بشكل أفضل، كلما أصبحت تحت سيطرتك. <br/>
 
 ![The elephant curve at the end](https://public.asmartbear.com/books/anthology/chapters/exponential-growth/theelephantcurve2-simple.png)

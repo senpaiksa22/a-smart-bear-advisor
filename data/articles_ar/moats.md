@@ -20,122 +20,109 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** بناء الخنادق التنافسية المستدامة والمزايا التي يستحيل تقليدها تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Moats: Durable competitive advantage
-
-> **Executive Summary:** Industries commoditize over time, delivering similar products at similar prices resulting in low profit. Moats are the antidote; your strategy must create some.
-> **Original URL:** [https://longform.asmartbear.com/moats/](https://longform.asmartbear.com/moats/)
-
 ![location separates from competition](https://public.asmartbear.com/books/anthology/chapters/moats/d8416print-simple.png)
 
-[Economics is useless for predicting](https://longform.asmartbear.com/predict-the-future/) what the market will do tomorrow, but it is prescient at predicting long-term forces that shape entire industries. Business strategists ignore this at their peril.
+[علم الاقتصاد عديم الفائدة للتنبؤ](https://longform.asmartbear.com/predict-the-future/) بما سيفعله السوق غدًا، لكنه يتمتع برؤية ثاقبة في التنبؤ بالقوى طويلة المدى التي تشكل صناعات بأكملها. ويتجاهل استراتيجيو الأعمال هذا الأمر على مسؤوليتهم الخاصة.
 
-One of these forces is that industries commoditize: Companies copy the best ideas from each other, whether in features to attract customers or cost-savings to build profits, so they converge to similar products with similar cost structures. Undifferentiated in most dimensions, the flexible dimension is price, and in a real-life [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma), price reduces until profits are driven to zero. It's great for the consumer--the best products at the lowest prices--but bad for the companies.
+إحدى هذه القوى هي أن الصناعات تتحول إلى سلعة: فالشركات تنسخ أفضل الأفكار من بعضها البعض، سواء في الميزات لجذب العملاء أو توفير التكاليف لبناء الأرباح، بحيث تتقارب مع منتجات مماثلة بهياكل تكلفة مماثلة. لا يتم التمييز بين البعد المرن في معظم الأبعاد، وهو السعر، وفي [معضلة السجين] في الحياة الواقعية (https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)، ينخفض ​​السعر حتى تصل الأرباح إلى الصفر. إنه أمر رائع بالنسبة للمستهلك - أفضل المنتجات بأقل الأسعار - ولكنه سيئ بالنسبة للشركات.
 
-To avoid homogenization, a company needs differentiation that others cannot copy. Best is product differentiation that customers value, because that should lead not only to higher prices (because customers cannot get the same value elsewhere) but also greater market share. Second-best is differentiation in cost structure, because this allows the company to convert those savings either into profit (keep in the bank, or distribute by dividend or stock buy-back) or growth (spend in sales, marketing, or new product development).
+ولتجنب التجانس، تحتاج الشركة إلى تمايز لا يستطيع الآخرون تقليده. الأفضل هو التمييز بين المنتجات التي يقدرها العملاء، لأن هذا لا ينبغي أن يؤدي فقط إلى ارتفاع الأسعار (لأن العملاء لا يستطيعون الحصول على نفس القيمة في مكان آخر)، بل وأيضاً حصة أكبر في السوق. ثاني أفضل خيار هو التمايز في هيكل التكلفة، لأن هذا يسمح للشركة بتحويل تلك المدخرات إما إلى ربح (الاحتفاظ بها في البنك، أو توزيعها عن طريق الأرباح أو إعادة شراء الأسهم) أو النمو (الإنفاق في المبيعات، أو التسويق، أو تطوير منتج جديد).
 
-Durable differentiation is rare, especially in the software industry where almost anything can be copied.
+يعد التمييز الدائم أمرًا نادرًا، خاصة في صناعة البرمجيات حيث يمكن نسخ أي شيء تقريبًا.
 
-It's not enough to have a "competitive advantage;" the advantage must also be *durable*. Snapchat invented the idea of "Stories," but Facebook and Instagram copied it, so the advantage didn't convert into market share:
+لا يكفي أن يكون لديك "ميزة تنافسية". يجب أن تكون الميزة أيضًا *متينة*. ابتكر سناب شات فكرة "القصص"، لكن فيسبوك وإنستغرام قاما بنسخها، وبالتالي لم تتحول الميزة إلى حصة سوقية:
 
 ![Facebook doesn't invent anything; they copy. But there is no "first mover advantage" unless that advantage is also durable, i.e. not easily copy-able by rivals.](https://public.asmartbear.com/books/anthology/chapters/moats/instagram-stories-whatsapp-status-snapchat-daily-active-users-simple.png)
 
-If "competitive advantage" isn't enough for durability, what is?
+إذا لم تكن "الميزة التنافسية" كافية للاستمرارية، فما هي؟
 
-## A taxonomy of moats
+## تصنيف الخنادق
 
-> "The most important thing to me is figuring out how big a moat there is around the business. What I love, of course, is a big castle and a big moat with piranhas and crocodiles."  
-> --Warren Buffett
+> "أهم شيء بالنسبة لي هو معرفة حجم الخندق الموجود حول الشركة. ما أحبه بالطبع هو قلعة كبيرة وخندق كبير مليء بأسماك الضاري المفترسة والتماسيح."
+> --وارن بافيت
 
-Durable advantages are often called "moats," after Buffet. The concept appears everywhere--a characteristic of fundamental truth--for example more recently and famously in Hamilton Helmer's [Seven Powers](https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319).
+غالبًا ما تسمى المزايا الدائمة "الخنادق" على اسم البوفيه. يظهر هذا المفهوم في كل مكان - وهو سمة من سمات الحقيقة الأساسية - على سبيل المثال في الآونة الأخيرة وبصورة مشهورة في كتاب هاميلتون هيلمر [القوى السبع] (https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319).
 
-Jerry Neuman collected, organized, and detailed a terrific [taxonomy of moats](https://reactionwheel.net/2019/09/a-taxonomy-of-moats.html) (Figure 2). Such a reference is useful when analyzing other companies (which moats are they building?) or figuring out which moats are best for your business to construct.
+قام جيري نيومان بجمع وتنظيم وتفصيل [تصنيف الخنادق] الرائع (https://reactionwheel.net/2019/09/a-taxonomy-of-moats.html) (الشكل 2). يعد هذا المرجع مفيدًا عند تحليل الشركات الأخرى (ما هي الخنادق التي تقوم ببنائها؟) أو معرفة الخنادق الأفضل لشركتك لبنائها.
 
 ![Many kinds of moats - durable competitive advantages](https://public.asmartbear.com/books/anthology/chapters/moats/d02a6be2f-e23b-4112-8835-26586ca2dd77-e1565093714811-jpeg-simple.png)
 
-A real-world example will breath life into these trite bullet points.
+مثال من العالم الحقيقي سوف يبث الحياة في هذه النقاط المبتذلة.
 
-## Applying moats to a commoditized market: Cloud Computing
+## تطبيق الخنادق على سوق سلعة: الحوسبة السحابية
 
-AWS (Amazon Web Services) was the first and is still the largest "cloud computing" provider. Its industry is an archetypical example of a market that commoditizes. Indeed, all computing infrastructure markets that preceded the cloud also commoditized, from individual components (e.g. RAM and disks) to entire physical data centers (with power, internet connectivity, climate-control, and physical security).
+كانت AWS (Amazon Web Services) أول شركة تقدم "الحوسبة السحابية" ولا تزال أكبرها. وصناعتها هي مثال نموذجي للسوق الذي يتحول إلى سلعة. وفي الواقع، فإن جميع أسواق البنية التحتية للحوسبة التي سبقت السحابة تحولت أيضًا إلى سلعة، بدءًا من المكونات الفردية (مثل ذاكرة الوصول العشوائي والأقراص) إلى مراكز البيانات المادية بالكامل (مع الطاقة، والاتصال بالإنترنت، والتحكم في المناخ، والأمن المادي).
 
-Cloud computing--paying only for what you need, by the hour, by the megabyte, scaling up and down at a flick of a switch--is a discrete leap forward in customer value, but commoditization is inescapable, as every by-the-hour-CPU, gigabyte-of-disk, and gigabyte-of-network-transfer from one vendor is the same as from another. If renting infrastructure is the only product, the only remaining dimension to compete on is price, so price falls, and the industry commoditizes.
+الحوسبة السحابية - الدفع فقط مقابل ما تحتاجه، بالساعة، بالميغابايت، والتوسيع لأعلى ولأسفل بنقرة زر واحدة - هي قفزة منفصلة إلى الأمام في قيمة العميل، ولكن التسليع أمر لا مفر منه، حيث أن كل وحدة معالجة مركزية على مدار الساعة، وجيجابايت من القرص، وجيجابايت من الشبكة يتم نقلها من بائع واحد هي نفسها من بائع آخر. إذا كان استئجار البنية التحتية هو المنتج الوحيد، فإن البعد الوحيد المتبقي للتنافس عليه هو السعر، وبالتالي تنخفض الأسعار، وتتحول الصناعة إلى سلعة.
 
-Indeed, that's exactly what has happened, for example in storage:
+في الواقع، هذا بالضبط ما حدث، على سبيل المثال في التخزين:
 
 ![Different types of storage have different prices, but each type has identical price across vendors. All prices are low.](https://public.asmartbear.com/books/anthology/chapters/moats/d1-s2-0-s2352551719301052-gr2-lrg-simple.png)
 
-But AWS has largely avoided commoditization. The proof is in the market-share and in the profit. Every year since 2014, AWS's profit has been more than half of Amazon's entire profit; in 2022 it's [generating](https://www.cnbc.com/2022/02/03/amazon-web-services-earnings-q4-2021.html) $21B of profit at a 30% operating profit margin, and growing:
+لكن AWS تجنبت إلى حد كبير التسليع. والدليل في الحصة في السوق وفي الربح. في كل عام منذ عام 2014، كانت أرباح AWS أكثر من نصف إجمالي أرباح أمازون؛ في عام 2022، سيتم [توليد](https://www.cnbc.com/2022/02/03/amazon-web-services-earnings-q4-2021.html) أرباح بقيمة 21 مليار دولار أمريكي بهامش ربح تشغيلي بنسبة 30%، ويتزايد:
 
 ![Amazon 6-year financials](https://public.asmartbear.com/books/anthology/chapters/moats/aws-simple.png)
 
-If it were possible for a competitor to steal business by undercutting prices, they would. Indeed, they *have*; competitors like Google, Microsoft, and Alibaba charge less for similar service. Google in particular spends billions more dollars per year than they make, plus they have all the requisite "smart people," but even at scale in 2022, on annual revenues of $20B for their cloud computing services, they're still *losing* nearly $4B annually. None of this is hurting AWS's profits, demonstrating that AWS has not commoditized:
+إذا كان من الممكن لمنافس أن يسرق الأعمال عن طريق خفض الأسعار، فسوف يفعل ذلك. في الواقع، لديهم *؛ يتقاضى المنافسون مثل Google وMicrosoft وAlibaba رسومًا أقل مقابل خدمة مماثلة. تنفق شركة Google على وجه الخصوص مليارات الدولارات سنويًا أكثر مما تجنيه، بالإضافة إلى أن لديها كل "الأشخاص الأذكياء" المطلوبين، ولكن حتى على نطاق واسع في عام 2022، على إيرادات سنوية تبلغ 20 مليار دولار لخدمات الحوسبة السحابية، فإنها لا تزال تخسر ما يقرب من 4 مليار دولار سنويًا. لا شيء من هذا يضر بأرباح AWS، مما يدل على أن AWS لم تتحول إلى سلعة:
 
 ![AWS profits growing while GCP is still losing money](https://public.asmartbear.com/books/anthology/chapters/moats/f77675ca-e3b2-48d7-b7d0-981e779ed081-simple.png)
 
-Why not? We might expect the answer is "moats," but what are AWS's moats?
+ولم لا؟ قد نتوقع أن الإجابة هي "الخنادق"، ولكن ما هي خنادق AWS؟
 
-### AWS Moats
+### خنادق AWS
 
-In 2019, then-CEO of AWS (now-CEO of Amazon) Andy Jassy, on stage in a [live interview with the great Kara Swisher](https://castro.fm/episode/uQph8q), was asked directly: Why hasn't AWS commoditized? Jassy immediately fired off the moats from their anti-commoditization strategy, annotated here with the bullet points from the taxonomy diagram:
+في عام 2019، سُئل آندي جاسي، الرئيس التنفيذي لشركة AWS آنذاك (الرئيس التنفيذي حاليًا لشركة Amazon)، على خشبة المسرح في [مقابلة مباشرة مع العظيمة Kara Swisher](https://castro.fm/episode/uQph8q)، بشكل مباشر: لماذا لم يتم تحويل AWS إلى سلعة؟ أطلق Jassy على الفور الخنادق من استراتيجيتهم المناهضة للتسليع، والموضحة هنا بالنقاط النقطية من مخطط التصنيف:
 
-#### Innovates the fastest [Economies of Scale + Willingness to Experiment]
-Jassy says they use their size to fuel more and faster innovation. Specifically, revenue today plus line-of-sight to revenue growth for tomorrow, means it is easy to justify a massive investment in innovation. The platform with the most innovation, will have the best tools for developers, which they believe is the key to winning.
+#### يبتكر أسرع [وفورات الحجم + الاستعداد للتجربة]
+يقول جاسي إنهم يستخدمون حجمهم لتحفيز الابتكار بشكل أكبر وأسرع. وعلى وجه التحديد، فإن الإيرادات اليوم بالإضافة إلى رؤية نمو الإيرادات في المستقبل، تعني أنه من السهل تبرير استثمار ضخم في الابتكار. ستحتوي المنصة الأكثر ابتكارًا على أفضل الأدوات للمطورين، والتي يعتقدون أنها مفتاح الفوز.
 
-#### Biggest Ecosystem [Complementary Assets]
-The biggest vendor will attract the most 3rd-party support, which in turn is vital for developers who must integrate with other tools, especially in the modern world where everything is a SaaS.
+#### أكبر نظام بيئي [الأصول التكميلية]
+سوف يجذب البائع الأكبر أكبر قدر من الدعم من الطرف الثالث، وهو ما يعد بدوره أمرًا حيويًا للمطورين الذين يجب عليهم التكامل مع الأدوات الأخرى، خاصة في العالم الحديث حيث كل شيء عبارة عن SaaS.
 
-#### Advanced operating maturity [Learning Curve]
-Jassy says, "There is no compression algorithm for experience." Even Microsoft and Google, throwing billions of dollars and thousands of engineers at the challenges, are not able to overtake AWS.
+#### النضج التشغيلي المتقدم [منحنى التعلم]
+يقول جاسي: "لا توجد خوارزمية ضغط للتجربة." وحتى مايكروسوفت وجوجل، اللتان تنفقان مليارات الدولارات وآلاف المهندسين على التحديات، غير قادرين على تجاوز AWS.
 
-There's another moat that Jassy didn't list, probably because he didn't want to talk about market-share,[^1] and possibly because it could be interpreted as gently insulting to their customers:
+هناك خندق آخر لم يدرجه Jassy، ربما لأنه لم يرغب في التحدث عن حصة السوق،[^1] وربما لأنه يمكن تفسيره على أنه إهانة لطيفة لعملائه:
 
-[^1]: Later in the interview, he refused to answer basic questions about how much market share AWS has, or the relative positions of Microsoft, Google, and Oracle, even under pressure from Kara Swisher, the excellent interviewer. Being the market-leader invites regulation and puts you on the defensive in anti-trust cases, so public companies shy away from such claims; for example Amazon owns 43% of all eCommerce at the time of this writing, but they publicly position themselves as a general "retail" company, so that their share is "only" 6%.
+[^1]: في وقت لاحق من المقابلة، رفض الإجابة على الأسئلة الأساسية حول مقدار حصة السوق التي تمتلكها AWS، أو المراكز النسبية لكل من Microsoft وGoogle وOracle، حتى تحت ضغط من Kara Swisher، المحاورة الممتازة. إن كونك رائدًا في السوق يدعو إلى التنظيم ويضعك في موقف دفاعي في قضايا مكافحة الاحتكار، لذا تتجنب الشركات العامة مثل هذه الادعاءات؛ على سبيل المثال، تمتلك أمازون 43% من إجمالي التجارة الإلكترونية في وقت كتابة هذه السطور، لكنها تقدم نفسها علنًا كشركة عامة "للبيع بالتجزئة"، بحيث تبلغ حصتها 6% "فقط".
 
-#### Brand of "The Leader" [Brand]
-The old adage was "no one was ever fired for picking IBM." Now that's true of AWS. The idea is that if you pick the market leader, your career isn't in jeopardy if it doesn't go well, because you picked the least-risky choice. Often "the leader" is also "more expensive," so this is not only good for long-term differentiation, but for profitability.
+#### العلامة التجارية "الزعيم" [العلامة التجارية]
+كان القول المأثور القديم "لم يتم طرد أي شخص على الإطلاق لأنه اختار شركة IBM". الآن هذا صحيح بالنسبة لـ AWS. الفكرة هي أنه إذا اخترت الشركة الرائدة في السوق، فإن حياتك المهنية لن تكون في خطر إذا لم تسير الأمور على ما يرام، لأنك اخترت الخيار الأقل خطورة. غالبًا ما يكون "القائد" أيضًا "أكثر تكلفة"، لذا فإن هذا ليس جيدًا للتمايز على المدى الطويل فحسب، بل للربحية أيضًا.
 
-There's another moat that is clearly part of every major cloud provider's strategy; perhaps Jassy didn't mention it because it's slightly nefarious, as it involves [lock-in](https://longform.asmartbear.com/willingness-to-pay/):
+هناك خندق آخر يشكل بوضوح جزءًا من استراتيجية كل مزود خدمات سحابية رئيسي؛ ربما لم يذكر Jassy ذلك لأنه أمر شائن بعض الشيء، لأنه يتضمن [الحجز](https://longform.asmartbear.com/willingness-to-pay/):
 
-#### Has the biggest menu of technology to select from [Switching Costs]
-If customers only buy commodity services like CPU, RAM, disk, and network, it's easy for them to leave for a cheaper cloud. So, AWS has created hundreds of "services" covering every imaginable corner in the world of infrastructure: big data storage and retrieval, web analytics engines, AI algorithms, logging, alerting, change-management, source code repositories, network firewalls, and support for dozens of open source software packages, all for rent by the hour or gigabyte. Furthermore, they encourage use of these services by making each one free when each is only lightly used. A software developer who avails herself of this incredible array of services is more productive than a large team of developers would have been ten years ago, however her Faustian bargain is that she gives up her ability to switch to a competitor, which means as her project grows and the pricing tiers kick in, she's locked in.
+#### لديه أكبر قائمة من التكنولوجيا للاختيار من بينها [Switching Costs]
+إذا اشترى العملاء فقط خدمات سلعية مثل وحدة المعالجة المركزية وذاكرة الوصول العشوائي والقرص والشبكة، فمن السهل عليهم الانتقال إلى سحابة أرخص. لذلك، أنشأت AWS المئات من "الخدمات" التي تغطي كل ركن يمكن تخيله في عالم البنية التحتية: تخزين البيانات الضخمة واسترجاعها، ومحركات تحليل الويب، وخوارزميات الذكاء الاصطناعي، والتسجيل، والتنبيه، وإدارة التغيير، ومستودعات التعليمات البرمجية المصدر، وجدران الحماية للشبكة، ودعم العشرات من حزم البرامج مفتوحة المصدر، وكلها للإيجار بالساعة أو بالجيجابايت. علاوة على ذلك، فإنهم يشجعون استخدام هذه الخدمات من خلال جعل كل واحدة منها مجانية عندما يتم استخدامها بشكل طفيف فقط. إن مطورة البرامج التي تستفيد من هذه المجموعة المذهلة من الخدمات تكون أكثر إنتاجية مما كان يمكن أن يكون عليه فريق كبير من المطورين قبل عشر سنوات، ولكن صفقة فاوست الخاصة بها هي أنها تتخلى عن قدرتها على التحول إلى منافس، وهو ما يعني أنه مع نمو مشروعها وبدء مستويات التسعير، فإنها تظل محصورة.
 
-## Moats are integral to strategy
+## الخنادق جزء لا يتجزأ من الاستراتيجية
 
-Moats don't appear quickly or by accident; they require consistent investment and prioritization over a course of years. This is exactly what a "strategy" is supposed to organize, and what "just be agile and react to whatever happens" will not. Therefore, a good strategy will have identified one or very few moats that the company will create, and the primary themes of action that will excavate them and fill them with Buffett's piranhas.
+لا تظهر الخنادق بسرعة أو بالصدفة؛ فهي تتطلب استثمارًا ثابتًا وتحديد الأولويات على مدار سنوات. هذا هو بالضبط ما يفترض أن تنظمه "الاستراتيجية"، وما لن يفعله "مجرد أن يكون رشيقًا ويتفاعل مع كل ما يحدث". ولذلك، فإن الإستراتيجية الجيدة ستحدد واحدًا أو عددًا قليلًا جدًا من الخنادق التي ستنشئها الشركة، والموضوعات الأساسية للعمل التي ستحفرها وتملأها بأسماك الضاري المفترسة من بافيت.
 
-The example of AWS shows that the taxonomy is only a starting point. The details of exactly how one item applies to a specific company are essential. A strategy that states "We will create switching costs" is not a strategy; it is a statement of what you hope will become true, rather than an explanation of how you will cause that to become true. A strategy to intentionally create switching costs could look more like this:
-
----
-
-#### Objective
-
-Create permanent customers through high switching-costs, caused by extensive integration with their technology stacks, development workflows, and IT administration.
-
-#### How
-
-Maximize the number of cloud services each customer uses. This, in turn, requires:
-
-1. Create the most number of services as quickly as possible, so there's more to integrate with. Must have more than the competition, and a reputation of "innovating faster than anyone else," to attract customers in the first place, and so that customers don't look elsewhere if we don't have their favorite service quite yet.
-2. Create compelling "on-ramps" so that services are actually used (e.g. free tiers, great documentation, pre-integration with other APIs, "bundled offerings" that includes many APIs)
-
-#### Consequences
-
-1. If we build many services, quickly, some of those services will turn out to be duds, or might be strategic only as a part of the larger offering, not high-growth or even profitable on their own. This is a "cost of doing business" and will not constitute evidence that a team [has failed](https://longform.asmartbear.com/fail/) or that the strategy is failing.
-2. Many individual services will be commoditized, especially when we're just reselling existing open-source projects. We still need to create these, because integrating many of them into a single customer project is necessary to fulfill the objective, and customer discovery shows that they specifically want to buy those products from us. Creating genuinely unique services are more valuable and defensible, so we need to do that as well, but they also take 100x more effort.
-3. Given that (1) and (2) demand a large quantity of software, built quickly, this is a costly bet; we require $X billion dollars over three years, plus a scaled-up hiring process.
+يوضح مثال AWS أن التصنيف ليس سوى نقطة بداية. تعد التفاصيل المتعلقة بكيفية تطبيق عنصر واحد على شركة معينة أمرًا ضروريًا. الإستراتيجية التي تنص على "سنقوم بإنشاء تكاليف التحويل" ليست استراتيجية؛ إنه بيان لما تأمل أن يصبح حقيقة، وليس شرحًا لكيفية جعل ذلك حقيقة. يمكن أن تبدو إستراتيجية إنشاء تكاليف التحويل عن عمد كما يلي:
 
 ---
 
-The moat is named, but also how it will be built, along with second-order consequences, even *undesirable* consequences (high-cost, and frequent failures of usage or of differentiation on a case-by-case basis) that we not only *accept*, but *expect*, in service of the objective of creating that moat. With these details and trade-off decisions in place, it is a strategy, not a hope.
+#### موضوعي
 
-Make sure your strategy is explicit about which moats are being constructed, and the major multi-year activities required to construct them.
+أنشئ عملاء دائمين من خلال تكاليف التبديل المرتفعة، الناتجة عن التكامل الشامل مع مجموعات التكنولوجيا الخاصة بهم، وسير عمل التطوير، وإدارة تكنولوجيا المعلومات.
+
+#### كيف
+
+تعظيم عدد الخدمات السحابية التي يستخدمها كل عميل. وهذا بدوره يتطلب:
+
+1. قم بإنشاء أكبر عدد من الخدمات في أسرع وقت ممكن، حتى يكون هناك المزيد للتكامل معه. يجب أن تتمتع بما هو أكثر من المنافسة، وأن تتمتع بسمعة "الابتكار بشكل أسرع من أي شخص آخر"، لجذب العملاء في المقام الأول، وحتى لا يبحث العملاء في مكان آخر إذا لم تكن لدينا خدمتهم المفضلة بعد.
+2. إنشاء "مسارات داخلية" مقنعة بحيث يتم استخدام الخدمات فعليًا (على سبيل المثال، الطبقات المجانية، والوثائق الرائعة، والتكامل المسبق مع واجهات برمجة التطبيقات الأخرى، و"العروض المجمعة" التي تتضمن العديد من واجهات برمجة التطبيقات)
+
+#### عواقب
+
+1. إذا قمنا ببناء العديد من الخدمات، بسرعة، فإن بعض هذه الخدمات سوف يتبين أنها غير ناجحة، أو قد تكون استراتيجية فقط كجزء من العرض الأكبر، وليست عالية النمو أو حتى مربحة في حد ذاتها. هذه "تكلفة ممارسة الأعمال التجارية" ولن تشكل دليلاً على أن الفريق [فشل](https://longform.asmartbear.com/fail/) أو أن الإستراتيجية قد فشلت.
+2. سيتم تحويل العديد من الخدمات الفردية إلى سلعة، خاصة عندما نقوم فقط بإعادة بيع المشاريع القائمة مفتوحة المصدر. ما زلنا بحاجة إلى إنشاء هذه المنتجات، لأن دمج العديد منها في مشروع عميل واحد أمر ضروري لتحقيق الهدف، ويظهر اكتشاف العملاء أنهم يريدون شراء هذه المنتجات منا على وجه التحديد. يعد إنشاء خدمات فريدة حقًا أكثر قيمة ويمكن الدفاع عنها، لذلك نحتاج إلى القيام بذلك أيضًا، ولكنها تتطلب أيضًا جهدًا أكبر بمقدار 100 مرة.
+3. وبما أن (1) و(2) يتطلبان كمية كبيرة من البرمجيات، التي يتم بناؤها بسرعة، فإن هذا رهان مكلف؛ نحن بحاجة إلى X مليار دولار على مدى ثلاث سنوات، بالإضافة إلى عملية توظيف موسعة.
+
+---
+
+تمت تسمية الخندق، ولكن أيضًا كيفية بنائه، جنبًا إلى جنب مع العواقب من الدرجة الثانية، وحتى العواقب *غير المرغوب فيها* (التكلفة العالية، والفشل المتكرر في الاستخدام أو التمييز على أساس كل حالة على حدة) التي لا *نقبلها* فحسب، بل *نتوقعها*، لخدمة هدف إنشاء هذا الخندق. With these details and trade-off decisions in place, it is a strategy, not a hope.
+
+
 
 ![i told you to order piranhas earlier](https://public.asmartbear.com/books/anthology/chapters/moats/d5903print-simple.png)

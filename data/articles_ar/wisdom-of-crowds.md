@@ -20,106 +20,93 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** متى يجب عليك تجاهل حكمة الجماهير والتمسك بحدسك الريادي تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Ignoring the Wisdom of Crowds
-
-> **Executive Summary:** Discover how to leverage the wisdom of the crowds, but also when to avoid it, as it can easily lead you astray.
-> **Original URL:** [https://longform.asmartbear.com/wisdom-of-crowds/](https://longform.asmartbear.com/wisdom-of-crowds/)
-
 ![Another unanimous vote! Man I love the herd mentality!](https://public.asmartbear.com/books/anthology/chapters/wisdom-of-crowds/d8608print-simple.png)
 
-Let's start with some fascinating, unassailable facts. Then we'll assail them.
+لنبدأ ببعض الحقائق الرائعة التي لا يمكن دحضها. ثم سنهاجمهم.
 
-## Jellybeans
+## جيلي بينز
 
 ![jelly beans](https://public.asmartbear.com/books/anthology/chapters/wisdom-of-crowds/vertical-jellies-simple.png)
 
-In 2007 [Michael Mauboussin](https://www.michaelmauboussin.com/michael_mauboussin.htm) presented a big jar of jelly beans to his seventy-three Columbia Business School students. How many beans did they think it contained?
+في عام 2007، قدم [مايكل موبوسين] (https://www.michaelmauboussin.com/michael_mauboussin.htm) جرة كبيرة من حبوب الجيلي لطلابه الثلاثة والسبعين في كلية إدارة الأعمال بجامعة كولومبيا. كم عدد الفاصوليا التي اعتقدوا أنها تحتوي عليها؟
 
-Guesses ranged from 250 to 4,100; the actual number was 1,116. The average error was 700--a massive 62%--demonstrating that the students were awful estimators.
+تراوحت التخمينات من 250 إلى 4100؛ وكان العدد الفعلي 1116. وكان متوسط ​​الخطأ 700 - أي 62% - مما يدل على أن الطلاب كانوا مقدرين سيئين.
 
-Now here comes the weird part. Even with all these wildly incorrect guesses, the *average of the guesses* was 1,151--just 3% off the mark. The group's average was closer than almost one person's guess--only 2 of the 73 students guessed better.
+الآن هنا يأتي الجزء الغريب. وحتى مع كل هذه التخمينات غير الصحيحة إلى حد كبير، كان *متوسط ​​التخمينات* 1,151 - أي أقل بنسبة 3% فقط من العلامة. كان متوسط ​​المجموعة أقرب من تخمين شخص واحد تقريبًا - فقط 2 من 73 طالبًا خمنوا بشكل أفضل.
 
-So although individually everyone was woefully inaccurate, collectively the group was incredibly accurate.
+لذلك، على الرغم من أن الجميع على المستوى الفردي كانوا غير دقيقين إلى حد كبير، إلا أن المجموعة بشكل جماعي كانت دقيقة بشكل لا يصدق.
 
-Was this a fluke? Hardly. The experiment was made famous in 1987 by [Jack Treynor](https://en.wikipedia.org/wiki/Jack_L._Treynor). In his case it was 850 jelly beans and 56 students. The group average was only 2.5% off the correct number; only one student guessed better. The study has been repeated many times with similar results.
+هل كان هذا صدفة؟ بالكاد. اشتهرت التجربة في عام 1987 على يد [جاك ترينور] (https://en.wikipedia.org/wiki/Jack_L._Treynor). في حالته كان هناك 850 حبة حلوى و56 طالبًا. كان متوسط ​​المجموعة أقل بنسبة 2.5% فقط من الرقم الصحيح؛ طالب واحد فقط خمن بشكل أفضل. وقد تكررت الدراسة عدة مرات مع نتائج مماثلة.
 
 ![If I say 4+47 it's wrong. If you say 4+47 it's wrong. But if the entire first grade says 4+47, well, now she has to take us seriously.](https://public.asmartbear.com/books/anthology/chapters/wisdom-of-crowds/d8376print-simple.png)
 
-This eerie effect goes beyond jelly beans; it's also a big help when you're trying to make money on TV.
+هذا التأثير الغريب يتجاوز حبوب الهلام. إنها أيضًا مساعدة كبيرة عندما تحاول كسب المال على شاشة التلفزيون.
 
-## The best multiple-choice test ever
+## أفضل اختبار اختيار من متعدد على الإطلاق
 
-A contestant on the game show *Who Wants to be a Millionaire* wins a million dollars if she correctly answers fifteen consecutive multiple-choice questions. If she's stumped along the way she has three "life-lines": (1) eliminate two of the four choices, (2) telephone a friend, or (3) poll the audience. The jelly bean experiments imply that this third choice might be pretty good. Is there as much wisdom in the crowd for pop culture and science as there is in counting jelly beans? See for yourself:
+تفوز إحدى المتسابقات في برنامج الألعاب *من يريد أن يكون مليونيرًا* بمليون دولار إذا أجابت بشكل صحيح على خمسة عشر سؤالًا متتاليًا متعدد الاختيارات. إذا تعثرت في الطريق، فلها ثلاثة "خطوط حياة": (1) استبعاد اثنين من الخيارات الأربعة، (2) الاتصال بصديق، أو (3) استطلاع رأي الجمهور. تشير تجارب فاصولياء الجيلي إلى أن هذا الاختيار الثالث قد يكون جيدًا جدًا. هل هناك قدر كبير من الحكمة بين الجمهور فيما يتعلق بالثقافة الشعبية والعلوم كما هو الحال في حساب حبوب الهلام؟ انظر بنفسك:
 
 ![voting for number 1](https://public.asmartbear.com/books/anthology/chapters/wisdom-of-crowds/millionaire-votes-simple.png)
 
-The TV studio audience predicts the correct answer an astonishing 91% of the time. Remember, these are questions from all domains of knowledge, all ranges of difficulty, polling a group of people whose only qualification is that they happened spend this weekday afternoon in a TV studio.
+يتنبأ جمهور الاستوديو التلفزيوني بالإجابة الصحيحة بنسبة مذهلة تصل إلى 91% من الوقت. تذكر، هذه أسئلة من جميع مجالات المعرفة، وجميع مستويات الصعوبة، واستطلاع آراء مجموعة من الأشخاص مؤهلهم الوحيد هو أنهم قضوا بعد ظهر هذا اليوم من أيام الأسبوع في استوديو تلفزيون.
 
-To quantify how amazing that is, compare with the accuracy of the "phone a friend" life-line where the contestant gets 30 seconds with a pre-determined person. This accomplice is probably considered to be "the smartest person I know," plus has access to <s>the web of lies</s> Google and Wikipedia.
+لتحديد مدى روعة ذلك، قارنه بدقة خط الحياة "الاتصال بصديق" حيث يحصل المتسابق على 30 ثانية مع شخص محدد مسبقًا. ربما يُعتبر هذا الشريك "أذكى شخص أعرفه"، بالإضافة إلى أنه يتمتع بإمكانية الوصول إلى <s>شبكة الأكاذيب</s> على Google وWikipedia.
 
-The intelligent friend with broadband access to the entirety of human knowledge gets it right only 65% of the time.
+إن الصديق الذكي الذي يتمتع بإمكانية الوصول إلى المعرفة الإنسانية بأكملها لا ينجح إلا في 65% من الحالات.
 
-Crowd wins again.
+الحشد يفوز مرة أخرى.
 
 ![It's not cheating, it's crowdsourcing.](https://public.asmartbear.com/books/anthology/chapters/wisdom-of-crowds/d6309print-simple.png)
 
-## Is the rule universal?
+## هل القاعدة عالمية؟
 
-There's seemingly no end to studies like these, all showing that the crowd is smarter than the individual. Is this a universal rule? Should we be leveraging this power more often?
+يبدو أنه ليس هناك نهاية لمثل هذه الدراسات، وكلها تظهر أن الجمهور أكثر ذكاءً من الفرد. هل هذه قاعدة عالمية؟ هل يجب علينا الاستفادة من هذه القوة في كثير من الأحيان؟
 
-Big companies do use crowd wisdom. You always hear about advertising campaigns being honed by focus groups of "real people." (I'd like to see the questionnaire that distinguishes "real people" from that elusive other kind of person.)
+الشركات الكبرى تستخدم حكمة الجماهير. تسمع دائمًا عن الحملات الإعلانية التي يتم صقلها من خلال مجموعات التركيز المكونة من "أشخاص حقيقيين". (أود أن أرى الاستبيان الذي يميز "الأشخاص الحقيقيين" عن ذلك النوع الآخر من الأشخاص المراوغين.)
 
-However, company messaging, product features, advertising layouts, and the other creative aspects of business require *innovation*, and we know that design-by-committee is the antithesis of innovation. [Average products designed for the average consumer](https://seths.blog/2006/12/how_to_be_a_mil/) is the opposite of innovation, and probably a [bad product strategy](https://longform.asmartbear.com/icp-ideal-customer-persona/) too.
+ومع ذلك، فإن رسائل الشركة، وميزات المنتج، وتخطيطات الإعلانات، والجوانب الإبداعية الأخرى للأعمال تتطلب *الابتكار*، ونحن نعلم أن التصميم على يد اللجنة هو نقيض الابتكار. [متوسط ​​المنتجات المصممة للمستهلك العادي](https://seths.blog/2006/12/how_to_be_a_mil/) هو عكس الابتكار، وربما [استراتيجية المنتج السيئة](https://longform.asmartbear.com/icp-ideal-customer-persona/) أيضًا.
 
-So what should we do? Can we rely on the wisdom of the collective or should we trust a stroke of inspiration?
+إذن ماذا يجب أن نفعل؟ هل يمكننا الاعتماد على حكمة الجماعة أم يجب أن نثق بضربة من الإلهام؟
 
-## Analysis of how "crowd wisdom" works
+## تحليل كيفية عمل "حكمة الجماهير".
 
-Let's take another look at *Who Wants to be a Millionaire*.
+دعونا نلقي نظرة أخرى على *من يريد أن يصبح مليونيرا*.
 
-Suppose there are 100 people in the audience and only 16 of them know that `A` is the correct answer. Of the rest, none knows the answer and they vote randomly. The result of the vote will be: 37, 21, 21, 21:
+لنفترض أن هناك 100 شخص في الجمهور وأن 16 منهم فقط يعرفون أن "أ" هي الإجابة الصحيحة. أما الباقون فلا أحد يعرف الإجابة ويصوتون بشكل عشوائي. وستكون نتيجة التصويت: 37، 21، 21، 21:
 
 ![bar chart with "A" as the winner](https://public.asmartbear.com/books/anthology/chapters/wisdom-of-crowds/chart-34-22-22-22-simple.png)
 
-Oh gee, it's awfully similar to the earlier graphic of a real audience poll.
+يا إلهي، إنه يشبه إلى حد كبير الرسم السابق لاستطلاع رأي جمهور حقيقي.
 
-(For those of you so inclined, it's fun to try more complex scenarios, although you'll find the result is always similar. For instance, what if only 11 know the answer is `A`, 15 each know that `B`, `C`, or `D` are certainly *not* the answer (and vote randomly for the other three), and the remaining 44 have no clue and vote randomly. In this scenario, the vote distribution is exactly the same as the simpler example!)
+(بالنسبة لأولئك الذين يميلون منكم، من الممتع تجربة سيناريوهات أكثر تعقيدًا، على الرغم من أنكم ستجدون النتيجة متشابهة دائمًا. على سبيل المثال، ماذا لو كان 11 شخصًا فقط يعرفون أن الإجابة هي "أ"، و15 يعلم كل منهم أن "ب" أو "ج" أو "د" هي بالتأكيد *ليست* الإجابة (ويصوتون عشوائيًا للثلاثة الآخرين)، والـ 44 الباقون ليس لديهم أدنى فكرة ويصوتون عشوائيًا. في هذا السيناريو، توزيع الأصوات هو تمامًا نفس توزيع الأصوات الأبسط مثال!)
 
-So we have the interesting result that a mere 16% of the voters were able to make choice `A` the *clear* winner--nearly double the next closest answer. The reason? The ignorant people vote randomly and *their votes cancel out*, leaving the few in control of the result.
+إذن لدينا النتيجة المثيرة للاهتمام وهي أن 16% فقط من الناخبين تمكنوا من جعل الاختيار "أ" هو الفائز *الواضح* - وهو ما يقرب من ضعف الإجابة الأقرب التالية. السبب؟ يصوت الجهلاء بشكل عشوائي *وتلغي أصواتهم*، ويترك القلة المسيطرة على النتيجة.
 
-## The crowd vetoes innovation
+## الحشد يعترض على الابتكار
 
-Now that we understand how crowds can be right, let's see why this same process doesn't work for creative endeavors.
+الآن بعد أن فهمنا كيف يمكن للحشود أن تكون على حق، دعونا نرى لماذا لا تنجح هذه العملية نفسها في المساعي الإبداعية.
 
-Consider what happens when you're planning a holiday meal. There's a range of fantastic things you could cook, but wait: Some people can't take spicy food, Uncle Bill is allergic to garlic, Aunt Sarah doesn't eat red meat, Timmy doesn't eat anything green, ....
+فكر في ما يحدث عندما تخطط لتناول وجبة في العطلة. هناك مجموعة من الأشياء الرائعة التي يمكنك طهيها، لكن انتظر: بعض الناس لا يستطيعون تناول الطعام الحار، العم بيل لديه حساسية من الثوم، العمة سارة لا تأكل اللحوم الحمراء، تيمي لا يأكل أي شيء أخضر، ....
 
-Eventually you realize there's only one way to please everyone: Cook something bland, mild, and safe, like chicken and rice (Figure 3). But does chicken and rice actually *please* anyone? Not really, it was just what everyone *hated the least*.
+في النهاية ستدرك أن هناك طريقة واحدة فقط لإرضاء الجميع: طهي شيء لطيف ومعتدل وآمن، مثل الدجاج والأرز (الشكل 3). ولكن هل الدجاج والأرز في الواقع *يُرضي* أحدًا؟ ليس حقًا، لقد كان هذا هو أقل ما يكرهه الجميع.
 
 ![venn diagram of food preferences](https://public.asmartbear.com/books/anthology/chapters/wisdom-of-crowds/venn-chicken-and-rice-simple.png)
 
-**Votes don't converge on something wonderful. Rather, votes are *vetoes*.**
+** الأصوات لا تتقارب على شيء رائع. بل الأصوات هي *الفيتو*.**
 
-Of course if you're a catering company for weddings, chicken and rice might be the way to go! After all, no one goes to weddings for the food, so your primary goal is to piss off as few of the 300 guests as possible. Come to think of it, chicken and rice *does* seem to be popular at those sorts of functions...
+بالطبع، إذا كنت شركة تقدم الطعام لحفلات الزفاف، فقد يكون الدجاج والأرز هو الحل الأمثل! بعد كل شيء، لا أحد يذهب إلى حفلات الزفاف لتناول الطعام، لذا فإن هدفك الأساسي هو إثارة غضب أقل عدد ممكن من الضيوف البالغ عددهم 300. لنفكر في الأمر، يبدو أن الدجاج والأرز *يحظىان بشعبية كبيرة في هذا النوع من الوظائف...
 
-But this isn't a [good strategy for startups](https://longform.asmartbear.com/great-strategy/). Little companies need a niche--a market space they can completely, unquestionably own, not some gray middle-ground where your attempt to offend no one also means exciting no one.
+لكن هذه ليست [استراتيجية جيدة للشركات الناشئة](https://longform.asmartbear.com/great-strategy/). تحتاج الشركات الصغيرة إلى مكان متخصص - مساحة سوقية يمكنها امتلاكها بالكامل، بلا أدنى شك، وليس منطقة وسطى رمادية حيث محاولتك الإساءة إلى لا أحد تعني أيضًا عدم إثارة أحد.
 
 ---
 
-**There is "wisdom in the crowd" when there is an objectively-correct answer, and when the errors cancel out**, like when estimating jelly beans or answering pop culture questions.
+**توجد "حكمة لدى الجمهور" عندما تكون هناك إجابة صحيحة موضوعيًا، وعندما يتم إلغاء الأخطاء**، كما هو الحال عند تقدير حبوب الجيلي أو الإجابة على أسئلة الثقافة الشعبية.
 
-**In creative work, votes eliminate the interesting edges**, because votes result in subtracting rather than adding, leaving only the boring residue that no one hated enough to vote off the island.
+**في العمل الإبداعي، تزيل الأصوات الحواف المثيرة للاهتمام**، لأن الأصوات تؤدي إلى الطرح بدلاً من الإضافة، مما يترك فقط البقايا المملة التي لم يكرهها أحد بدرجة كافية للتصويت خارج الجزيرة.
 
-That's not how great products are made.
+هذه ليست الطريقة التي تصنع بها المنتجات الرائعة.
 
-## Further Reading
+## مزيد من القراءة
 
-* *[The Wisdom of Crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds)* by [James Surowiecki](https://twitter.com/JamesSurowiecki), with more stories and implications for Wall Street, and his (more expert than my) analysis on the [five elements required to form a wise crowd](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds).
-* *[The Difference](https://press.princeton.edu/books/paperback/9780691138541/the-difference?srsltid=AfmBOort5io_jYZf051JgrXTdztrPyA8JKAyD9asebniZzR-yx1_YW2-)* by Scott Page, explaining how diversity makes a group smarter. The inspiration for my *Who Wants to be a Millionaire* example.
+* *[حكمة الحشود](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds)* بقلم [جيمس سوروفيكي](https://twitter.com/JamesSurowiecki)، مع المزيد من القصص والآثار المترتبة على وول ستريت، وتحليله (الأكثر خبرة مني) حول [العناصر الخمسة المطلوبة لتشكيل حكمة حكيمة حشد](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds).
+* *[الفرق](https://press.princeton.edu/books/paperback/9780691138541/the-difference?srsltid=AfmBOort5io_jYZf051JgrXTdztrPyA8JKAyD9asebniZzR-yx1_YW2-)* بقلم سكوت بيج، يشرح كيف يجعل التنوع المجموعة أكثر ذكاءً. مصدر الإلهام لمثالي *من يريد أن يصبح مليونيرًا*.

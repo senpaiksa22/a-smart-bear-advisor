@@ -20,53 +20,40 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** لماذا يعتبر التنافس ضد شركة كبرى ومربحة فرصة ذهبية وممتعة؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Why it's nice to compete against a large, profitable company
-
-> **Executive Summary:** Competing against big firms? Their revenue streams are their Achilles heel. Learn how smaller startups have a shot.
-> **Original URL:** [https://longform.asmartbear.com/compete-on-profit/](https://longform.asmartbear.com/compete-on-profit/)
-
 ![looming specter of dwindling profits](https://public.asmartbear.com/books/anthology/chapters/compete-on-profit/d7196print-simple.png)
 
-A big, profitable company seems like the hardest thing for a small company to compete against. They have everything: money, brand, momentum, existing customers, press, product teams, distribution channels, expertise, market insight, analysts, sales offices, product features, and, scariest of all, a working business model.
+يبدو أن الشركة الكبيرة المربحة هي أصعب شيء يمكن أن تنافسه شركة صغيرة. لديهم كل شيء: المال، والعلامة التجارية، والزخم، والعملاء الحاليين، والصحافة، وفرق الإنتاج، وقنوات التوزيع، والخبرة، ورؤية السوق، والمحللين، ومكاتب المبيعات، وميزات المنتج، والأكثر رعبًا من ذلك كله، نموذج عمل فعال.
 
-All a little startup has is a decent idea and extremely greasy elbows.
+كل ما تملكه شركة ناشئة صغيرة هو فكرة جيدة ومرفقين دهنيين للغاية.
 
-But David has a clear path to slaying Goliath. The insight is: **The profitable revenue stream is a prison.** It's the Achilles heel that allows the little guy to win.
+لكن لدى داود طريق واضح لقتل جالوت. الفكرة هي: **مصدر الإيرادات المربح هو بمثابة سجن.** إنه كعب أخيل الذي يسمح للرجل الصغير بالفوز.
 
-A company with a large, profitable, growing revenue stream betrays facts useful to a startup:
+إن الشركة التي تتمتع بإيرادات كبيرة ومربحة ومتنامية تكشف حقائق مفيدة لشركة ناشئة:
 
-1. There's a [huge market](https://longform.asmartbear.com/problem/) to be had (else it wouldn't be large and growing).
-2. This market is [willing to pay](https://longform.asmartbear.com/willingness-to-pay/) far more than cost for this product (else profits wouldn't be generated).
-3. This abundance will last for a while (large, profitable businesses typically die a slow, sagging death rather than disappearing in a flash).
+1. هناك [سوق ضخم](https://longform.asmartbear.com/problem/) متاح (وإلا فلن يكون كبيرًا ومتناميًا).
+2. هذا السوق [على استعداد للدفع](https://longform.asmartbear.com/willingness-to-pay/) أكثر بكثير من تكلفة هذا المنتج (وإلا فلن يتم تحقيق أرباح).
+3. سوف تستمر هذه الوفرة لفترة من الوقت (عادةً ما تموت الشركات الكبيرة المربحة ببطء بدلاً من أن تختفي في لمح البصر).
 
-This means the market is ripe for an [Innovator's Dilemma](https://longform.asmartbear.com/ai-startups/)-style disruption. A startup with new cost structures, new technology, and new ideas can be competitive at $\frac{1}{2}$ or possibly even $\frac{1}{10}$ the price, even if the product is merely just-good-enough.
+وهذا يعني أن السوق مهيأة لحدوث اضطراب على غرار [معضلة المبتكر](https://longform.asmartbear.com/ai-startups/). يمكن لشركة ناشئة ذات هياكل تكلفة جديدة وتقنيات جديدة وأفكار جديدة أن تكون قادرة على المنافسة بسعر $\frac{1}{2}$ أو ربما حتى $\frac{1}{10}$، حتى لو كان المنتج جيدًا بما فيه الكفاية.
 
-But wait! The big profitable company can just lower prices, thereby removing the main competitive advantage from the upstart, right? Wrong. The big profitable revenue stream is the goose that's laying the golden eggs. The goal of a large company is to *protect the profit stream at all costs*, even if that means giving up on innovation or speed. The current valuation of the company is based on continued growth of revenue and earnings, not erosion due to ankle-biters. Watch how fast your stock plummets when Wall Street thinks your future earnings are in jeopardy.
+لكن انتظر! يمكن للشركة الكبيرة المربحة فقط خفض الأسعار، وبالتالي إزالة الميزة التنافسية الرئيسية من الشركة الناشئة، أليس كذلك؟ خطأ. مصدر الإيرادات الكبير المربح هو الإوزة التي تضع البيض الذهبي. هدف الشركة الكبيرة هو *حماية تدفق الأرباح بأي ثمن*، حتى لو كان ذلك يعني التخلي عن الابتكار أو السرعة. ويستند التقييم الحالي للشركة على النمو المستمر للإيرادات والأرباح، وليس التآكل بسبب المضايقات. شاهد مدى سرعة انخفاض أسهمك عندما تعتقد وول ستريت أن أرباحك المستقبلية معرضة للخطر.
 
-Don't forget: Small changes in top-line revenue create massive changes in profitability. A business with a 20% profit margin is very healthy. If you lower top-line prices by 20%, your costs don't magically decrease 20%, so now your profits are 0%. So if a startup cuts prices by 50% or 80%, the big company cannot chase. In fact, even reducing top-line by a measly 10% still cuts profits in *half*--a penalty too massive to endure, for an effect (slightly lower prices) which won't materially change the price conversation amongst customers.
+لا تنس: التغييرات الصغيرة في الإيرادات الإجمالية تؤدي إلى تغييرات هائلة في الربحية. يعتبر العمل التجاري الذي يحقق هامش ربح بنسبة 20% أمرًا صحيًا للغاية. إذا قمت بتخفيض الأسعار الإجمالية بنسبة 20%، فإن تكاليفك لن تنخفض بشكل سحري بنسبة 20%، وبالتالي فإن أرباحك الآن هي 0%. لذا، إذا خفضت شركة ناشئة الأسعار بنسبة 50% أو 80%، فلن تتمكن الشركة الكبيرة من ملاحقتها. في الواقع، حتى تقليل الحد الأعلى بنسبة 10% لا يزال يخفض الأرباح إلى *النصف* - وهي عقوبة ضخمة للغاية بحيث لا يمكن تحملها، من أجل تأثير (أسعار أقل قليلاً) لن يغير بشكل جوهري محادثة السعر بين العملاء.
 
 ![couldnt we just move bottom line down little](https://public.asmartbear.com/books/anthology/chapters/compete-on-profit/d2015print-simple.png)
 
-Therefore, a large company asks: "If we're going to lose on price to the low end of the market, how can we charge *even more* on the top end, to make up for that lost business?"
+لذلك، تتساءل إحدى الشركات الكبرى: "إذا كنا سنخسر السعر حتى الحد الأدنى للسوق، فكيف يمكننا تحصيل *مزيد* أكثر* من الحد الأعلى، للتعويض عن هذا العمل المفقود؟"
 
-Will that strategy work? It might! Either way, the new startup can grab $\frac{1}{2}$ of that big company's low-end market share and still be profitable, because it started with a much lower cost structure, with new ideas, new tech, and a new business model.
+هل ستنجح تلك الإستراتيجية؟ ربما! وفي كلتا الحالتين، يمكن للشركة الناشئة الجديدة أن تحصل على $\frac{1}{2}$ من حصة السوق المنخفضة لهذه الشركة الكبيرة وتظل مربحة، لأنها بدأت بهيكل تكلفة أقل بكثير، مع أفكار جديدة، وتقنية جديدة، ونموذج أعمال جديد.
 
-But wait! Perhaps the big company will sacrifice earnings for growth? Not anymore. That's a young company's game. In the big-boy and big-girl world of real, at-scale companies, valuation is about total future earnings. Growth is important only because it leads to more earnings, not because it's "growth for growth's sake." That's the argument a young company uses, when the primary goal is to become dominant in a market before someone else does, setting up decades of future profitability.
+لكن انتظر! ربما ستضحي الشركة الكبيرة بأرباحها من أجل النمو؟ ليس بعد الآن. هذه لعبة شركة شابة. في عالم الشركات الحقيقية واسعة النطاق، يتعلق التقييم بإجمالي الأرباح المستقبلية. إن النمو مهم فقط لأنه يؤدي إلى المزيد من الأرباح، وليس لأنه "النمو من أجل النمو فقط". هذه هي الحجة التي تستخدمها الشركة الناشئة، عندما يكون الهدف الأساسي هو أن تصبح مهيمنة في السوق قبل أي شخص آخر، مما يؤدي إلى عقود من الربحية المستقبلية.
 
-A final word of caution. All this applies *only* if you're attacking the product line that generates the massive profits. **If you're attacking a loss-leader, the situation is reversed.**
+كلمة تحذير أخيرة. كل هذا ينطبق *فقط* إذا كنت تهاجم خط الإنتاج الذي يدر أرباحًا هائلة. **إذا كنت تهاجم قائدًا خاسرًا، فإن الوضع يكون معكوسًا.**
 
-Big, profitable companies often have other lines of business which are unprofitable, sometimes extremely so. The profitable business unit funds the others. For example, Google's profitable search business funds GMail. Amazon's retail business funded AWS, and now that AWS is closing in on $10B in annualized revenue with 20% profit margins, it's funding other projects as we speak.
+غالبًا ما يكون لدى الشركات الكبيرة المربحة خطوط أعمال أخرى غير مربحة، وأحيانًا غير مربحة للغاية. وحدة الأعمال المربحة تمول الآخرين. على سبيل المثال، تقوم أعمال البحث المربحة لشركة Google بتمويل خدمة GMail. قامت تجارة التجزئة في أمازون بتمويل AWS، والآن بعد أن اقتربت AWS من تحقيق إيرادات سنوية بقيمة 10 مليارات دولار مع هامش ربح 20%، فإنها تمول مشاريع أخرى بينما نتحدث الآن.
 
-Attacking a profitable business on its loss-leaders is a terrible strategy, because it can use all its powers against you, plus orders of magnitude more dollars, and not care about a direct business model to support those decisions. *That* is a scary competitor--lots of resources and nothing to lose!
+إن مهاجمة شركة مربحة على قادتها الخاسرين هي استراتيجية رهيبة، لأنها يمكن أن تستخدم كل صلاحياتها ضدك، بالإضافة إلى أوامر بحجم المزيد من الدولارات، ولا تهتم بنموذج عمل مباشر لدعم تلك القرارات. *هذا* منافس مخيف - الكثير من الموارد وليس هناك ما تخسره!
 
-For example, Microsoft decided to make Internet Explorer a loss-leader against Netscape, and destroyed that company. That began only after Netscape was large and winning, so this wasn't a strategic error on Netscape's part, but rather a clear demonstration of the power of a profitable company who doesn't care about making money in a certain market. On the flip side, Google built a $1B business applications product line ("Docs") that competes against Microsoft, because in this case "Office" is the profitable line of business that Microsoft can't impinge.
+على سبيل المثال، قررت شركة مايكروسوفت أن تجعل برنامج Internet Explorer هو الخاسر الأكبر في مواجهة شركة Netscape، فدمرت تلك الشركة. بدأ ذلك فقط بعد أن كانت Netscape كبيرة ورابحة، لذلك لم يكن هذا خطأً استراتيجيًا من جانب Netscape، بل كان دليلًا واضحًا على قوة شركة مربحة لا تهتم بكسب المال في سوق معينة. على الجانب الآخر، أنشأت جوجل خط إنتاج لتطبيقات الأعمال ("Docs") بقيمة مليار دولار يتنافس مع Microsoft، لأنه في هذه الحالة "Office" هو خط الأعمال المربح الذي لا تستطيع Microsoft اختراقه.
 
-So, competing against a large, profitable, growing business might be the smartest thing you can do! Just make sure you're hitting them where they're fat, not where they're able to beat you with their size.
+لذا، فإن التنافس ضد شركة كبيرة ومربحة ومتنامية قد يكون أذكى شيء يمكنك القيام به! فقط تأكد من أنك تضربهم في الأماكن التي يكونون فيها بدينين، وليس في الأماكن التي يمكنهم فيها التغلب عليك بحجمهم.

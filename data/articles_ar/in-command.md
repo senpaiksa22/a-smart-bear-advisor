@@ -20,68 +20,55 @@ summary_ar: "Being \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كيف تكون متحكماً في دفة شركتك دون أن تكون دكتاتوراً متسلطاً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# In command
-
-> **Executive Summary:** Being "in control" is impossible, perhaps not even desirable. Being "in command" is ideal: honest, introspective, agile, aware, and proactive.
-> **Original URL:** [https://longform.asmartbear.com/in-command/](https://longform.asmartbear.com/in-command/)
-
 ![stocks rose slightly in early trading then plummeted on news that stocks rose slightly in early trading](https://public.asmartbear.com/books/anthology/chapters/in-command/d0710print-simple.png)
 
-When a founder or CEO or team leader is "in command" of her business, I don't worry about that business, regardless of its challenges.
+عندما يكون المؤسس أو المدير التنفيذي أو قائد الفريق هو "المسيطر" على أعمالها، لا أشعر بالقلق بشأن هذا العمل، بغض النظر عن تحدياته.
 
-Being "in command" doesn't mean you always meet your own expectations for yourself or your team. It means you *have* expectations of yourself and your team, and when you don't meet them, it bothers you, and you react.
+كونك "في موقع القيادة" لا يعني أنك دائمًا تلبي توقعاتك لنفسك أو لفريقك. هذا يعني أن لديك توقعات من نفسك ومن فريقك، وعندما لا تلبيها، يزعجك ذلك، وتقوم بالرد.
 
-Being "in command" doesn't mean the metrics are always healthy, nor even that they're moving in the right direction. It means you've already [thought about what to measure](https://longform.asmartbear.com/product-metrics/) and you're watching the things that really matter. When metrics go awry, you're the first one to identify that, and are already taking action in proportion to their importance and how far off the mark they are.
+كونك "في موقع القيادة" لا يعني أن المقاييس سليمة دائمًا، ولا حتى أنها تتحرك في الاتجاه الصحيح. هذا يعني أنك قد [فكرت في ما يجب قياسه](https://longform.asmartbear.com/product-metrics/) وأنك تشاهد الأشياء المهمة حقًا. عندما تنحرف المقاييس عن مسارها، فأنت أول من يحدد ذلك، وتتخذ بالفعل الإجراءات اللازمة بما يتناسب مع أهميتها ومدى ابتعادها عن الهدف.
 
-Being "in command" doesn't mean the product has no bugs. It means you have a list of 100-1000 bugs, and the reason you're not working on them is that you're working on the top three that matter most.
+كونك "في موقع القيادة" لا يعني أن المنتج لا يحتوي على أخطاء. هذا يعني أن لديك قائمة تضم ما بين 100 إلى 1000 خطأ، وسبب عدم العمل عليها هو أنك تعمل على أهم ثلاثة أخطاء.
 
-Being "in command" doesn't mean you're always the smartest person in the room. It means you've hired a team of great people who can challenge you and bring diverse perspectives to the table.
+كونك "في موقع القيادة" لا يعني أنك دائمًا أذكى شخص في الغرفة. هذا يعني أنك قمت بتعيين فريق من الأشخاص الرائعين الذين يمكنهم تحديك وتقديم وجهات نظر متنوعة إلى الطاولة.
 
-Being "in command" doesn't mean you never make mistakes. It means you're proactively on the look-out for mistakes, and call them out when you find them, so that now you can rally many people in finding solutions, and make a change.
+كونك "في موقع القيادة" لا يعني أنك لا ترتكب الأخطاء أبدًا. هذا يعني أنك تبحث بشكل استباقي عن الأخطاء، وتكشف عنها عندما تجدها، حتى تتمكن الآن من حشد العديد من الأشخاص لإيجاد الحلول، وإجراء التغيير.
 
-Being "in command" doesn't mean you never feel overwhelmed. It means you recognize when you're overwhelmed, take steps to manage your stress, and seek support when needed.
+كونك "مسيطرًا" لا يعني أنك لن تشعر أبدًا بالإرهاق. ويعني ذلك أنك تدرك متى تكون مرهقًا، وتتخذ خطوات لإدارة التوتر لديك، وتطلب الدعم عند الحاجة.
 
-Being "in command" doesn't mean there are no problems with any team member. It means you've already talked to that person about it, and you're working with them to change. Whether that means changing and staying, or changing by leaving. It means you're proactively and intentionally solving for [fulfillment](https://longform.asmartbear.com/fulfillment/) for the whole team, which includes yourself.
+كونك "في القيادة" لا يعني عدم وجود مشاكل مع أي عضو في الفريق. هذا يعني أنك تحدثت بالفعل مع هذا الشخص حول هذا الموضوع، وأنك تعمل معه على التغيير. سواء كان ذلك بالتغيير والبقاء، أو التغيير بالرحيل. هذا يعني أنك تعمل بشكل استباقي ومتعمد على حل مشكلة [الوفاء](https://longform.asmartbear.com/fulfillment/) للفريق بأكمله، بما في ذلك أنت.
 
-Being "in command" doesn't mean there are no existential threats looming over the business. It means you've articulated what those are because you [sought them out and faced them head-on](https://longform.asmartbear.com/failure-to-face-the-truth/), and you're mitigating the [more likely](https://longform.asmartbear.com/probability-words/) ones with a few, logical actions.
+كونك "في موقع القيادة" لا يعني عدم وجود تهديدات وجودية تلوح في الأفق على العمل. هذا يعني أنك قد أوضحت هذه الأمور لأنك [بحثت عنها وواجهتها وجهاً لوجه](https://longform.asmartbear.com/failure-to-face-the-truth/)، وأنك تخفف من [الأرجح](https://longform.asmartbear.com/probability-words/) من خلال بعض الإجراءات المنطقية.
 
-Being "in command" doesn't mean customers aren't leaving due to lack of features. It means you've identified what those features are, which ones are consistent with your strategy, which ones lead to the [ultimate benefits the customer is seeking](https://longform.asmartbear.com/needs-stack/), and that you're working on one or two of them right now.
+كونك "في موقع القيادة" لا يعني أن العملاء لن يغادروا بسبب نقص الميزات. هذا يعني أنك حددت هذه الميزات، وأي منها يتوافق مع استراتيجيتك، وأي منها يؤدي إلى [الفوائد النهائية التي يبحث عنها العميل](https://longform.asmartbear.com/needs-stack/)، وأنك تعمل على واحدة أو اثنتين منها الآن.
 
-Being "in command" doesn't mean you're always popular. It means you're willing to make tough decisions, even if they're not always well-received, because they're in the best interest of the customer, the team, and the business.
+كونك "في موقع القيادة" لا يعني أنك تحظى بشعبية دائمًا. هذا يعني أنك على استعداد لاتخاذ قرارات صعبة، حتى لو لم يتم قبولها دائمًا بشكل جيد، لأنها في مصلحة العميل والفريق والعمل.
 
-Being "in command" doesn't mean you're constantly telling people what to do. It means you're acting as an editor, not a writer, unless being a writer is necessary to make progress. And if *that* is happening constantly, that you make a change on the team so that it's *not* happening constantly. That might mean changing someone else, or changing yourself.[^1]
+كونك "في موقع القيادة" لا يعني أنك تخبر الأشخاص باستمرار بما يجب عليهم فعله. هذا يعني أنك تتصرف كمحرر، وليس ككاتب، إلا إذا كان كونك كاتبًا ضروريًا لتحقيق التقدم. وإذا كان ذلك يحدث باستمرار، فعليك إجراء تغيير في الفريق بحيث لا يحدث ذلك باستمرار. قد يعني ذلك تغيير شخص آخر، أو تغيير نفسك.[^1]
 
-[^1]: If you're constantly having to do someone else's work, that's your fault. Either you've hired incorrectly, which is your fault, or you have hired correctly and you're not allowing them to do their job, which is your fault.
+[^1]: إذا كنت مضطرًا دائمًا إلى القيام بعمل شخص آخر، فهذا خطأك. إما أنك قمت بالتوظيف بشكل غير صحيح، وهذا خطأك، أو أنك قمت بالتوظيف بشكل صحيح ولا تسمح لهم بالقيام بعملهم، وهذا خطأك.
 
-Being "in command" doesn't mean your strategy is completely correct. It means you are adhering to [the characteristics of great strategy](https://longform.asmartbear.com/great-strategy/). You have one, that is written down, that a normal person can understand, that people genuinely try to follow. When strategic flaws become apparent, you write those down too, and work on one or two at a time, updating your strategy calmly but purposefully.
+كونك "في موقع القيادة" لا يعني أن استراتيجيتك صحيحة تمامًا. هذا يعني أنك تلتزم بـ [خصائص الإستراتيجية الرائعة](https://longform.asmartbear.com/great-strategy/). لديك واحدة، مكتوبة، يمكن لأي شخص عادي أن يفهمها، والتي يحاول الناس اتباعها بصدق. عندما تصبح العيوب الإستراتيجية واضحة، عليك تدوينها أيضًا، والعمل على واحدة أو اثنتين في كل مرة، وتحديث استراتيجيتك بهدوء ولكن بشكل هادف.
 
-Being "in command" doesn't mean surprises never occur. It means when they do occur, it's not due to negligence. It means something actually changed, or an important new fact was uncovered. Even better, if you were [intentionally seeking new information](https://longform.asmartbear.com/customer-development/), and thus seeking surprise.
+كونك "في موقع القيادة" لا يعني أن المفاجآت لن تحدث أبدًا. وهذا يعني أنه عندما تحدث، فهذا ليس بسبب الإهمال. إنه يعني أن شيئًا ما تغير بالفعل، أو تم اكتشاف حقيقة جديدة مهمة. والأفضل من ذلك، إذا كنت [تسعى عمدًا للحصول على معلومات جديدة](https://longform.asmartbear.com/customer-development/)، وبالتالي تبحث عن المفاجأة.
 
-Being "in command" doesn't mean you win every sale. It means you seek to understand the patterns in the wins and losses, and when those intersect with something consistent with your strengths and strategy and thus where you *should* win, you make changes so you can win the next such deal.
+كونك "مسيطرًا" لا يعني أنك تفوز بكل عملية بيع. هذا يعني أنك تسعى إلى فهم أنماط المكاسب والخسائر، وعندما تتقاطع هذه مع شيء يتوافق مع نقاط قوتك واستراتيجيتك، وبالتالي حيث *يجب* أن تفوز، فإنك تقوم بإجراء تغييرات حتى تتمكن من الفوز بالصفقة التالية.
 
-Being "in command" doesn't mean every A/B test is a success. It means you're running A/B tests and honestly assessing the results, so that you improve over time.
+كونك "في موقع القيادة" لا يعني أن كل اختبار أ/ب يكون ناجحًا. هذا يعني أنك تجري اختبارات أ/ب وتقوم بتقييم النتائج بأمانة، بحيث تتحسن بمرور الوقت.
 
-Being "in command" doesn't mean you don't have a long backlog, most of which you'll never get to. It means you've [identified the few Rocks](https://longform.asmartbear.com/rocks-pebbles-sand/) that are your bets on how to win strategically, and you have a [system for prioritizing the rest](https://longform.asmartbear.com/maximized-decision/), which also means doing almost none of the rest.
+كونك "في موقع القيادة" لا يعني أنه ليس لديك أعمال متراكمة طويلة، والتي لن تتمكن من إنجاز معظمها أبدًا. هذا يعني أنك [حددت الصخور القليلة](https://longform.asmartbear.com/rocks-pebbles-sand/) التي تمثل رهاناتك على كيفية الفوز استراتيجيًا، ولديك [نظام لتحديد أولويات الباقي](https://longform.asmartbear.com/maximized-decision/)، وهو ما يعني أيضًا عدم القيام بأي من الباقي تقريبًا.
 
-Being "in command" doesn't mean you know everything about your target customer. It means you are [actively seeking out](https://longform.asmartbear.com/customer-development/) what they say and do, so you can understand them better, so you can make better decisions.
+كونك "في موقع القيادة" لا يعني أنك تعرف كل شيء عن عميلك المستهدف. هذا يعني أنك [تبحث بنشاط](https://longform.asmartbear.com/customer-development/) عما يقولونه ويفعلونه، حتى تتمكن من فهمهم بشكل أفضل، ومن ثم يمكنك اتخاذ قرارات أفضل.
 
-> "Well when events change, I change my mind. What do you do?"  
-> -- Paul Samuelson, winner of 1970 Nobel Prize in Economics, about how his models of inflation during WWII kept changing over time, and he was criticized for "not being able to make up his mind."
+> "حسنًا، عندما تتغير الأحداث، أغير رأيي. ماذا تفعل؟"
+> - بول سامويلسون، الحائز على جائزة نوبل في الاقتصاد عام 1970، يتحدث عن كيفية تغير نماذجه للتضخم خلال الحرب العالمية الثانية مع مرور الوقت، وقد تعرض لانتقادات لأنه "لم يكن قادراً على اتخاذ قرار".
 
-Being "in command" doesn't mean you never change your mind. Indeed, a mind that never changes, is very likely wrong. It means you wrote down what you think, so that it's more obvious when your mind needs to change, and then you communicate that change--both what and why. Even if just to yourself.
+كونك "في موقع القيادة" لا يعني أنك لن تغير رأيك أبدًا. في الواقع، العقل الذي لا يتغير أبدًا، من المحتمل جدًا أن يكون مخطئًا. هذا يعني أنك كتبت ما تفكر فيه، بحيث يكون أكثر وضوحًا متى يحتاج عقلك إلى التغيير، ثم تقوم بتوصيل هذا التغيير - ماذا ولماذا. حتى لو لنفسك فقط.
 
-Being "in command" doesn't mean you do everything that stakeholders or even executives ask you to do. It means you listened with curiosity and empathy to what has been asked, [having a system](https://longform.asmartbear.com/jit-backlogs/) to reject bad requests and prioritize good requests, communicating that result and the rationale behind it.
+كونك "في موقع القيادة" لا يعني أنك تفعل كل ما يطلبه منك أصحاب المصلحة أو حتى المديرون التنفيذيون. هذا يعني أنك استمعت بفضول وتعاطف لما تم طرحه، [وجود نظام](https://longform.asmartbear.com/jit-backlogs/) لرفض الطلبات السيئة وإعطاء الأولوية للطلبات الجيدة، وإبلاغ تلك النتيجة والأساس المنطقي وراءها.
 
-Being "in command" doesn't mean you're "in control" of everyone and everything. It means you're proactively seeking the truth, working rationally, and communicating.
+كونك "مسيطرًا" لا يعني أنك "مسيطر" على الجميع وكل شيء. هذا يعني أنك تسعى بشكل استباقي إلى الحقيقة، وتعمل بعقلانية، وتتواصل.
 
-This is how you create autonomy, coupled with accountability, with realistic expectations.
+هذه هي الطريقة التي تخلق بها الاستقلالية، إلى جانب المساءلة، مع توقعات واقعية.
 
-Strive to be "in command."
+نسعى جاهدين لتكون "في القيادة".

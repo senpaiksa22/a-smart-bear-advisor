@@ -20,278 +20,230 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** مصفوفة Binstack: اتخاذ القرارات المعقدة متعددة الأبعاد تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Binstack: Making a maximal multi-dimensional decision
-
-> **Executive Summary:** Binstack is a technique for selecting the "single most impactful" solution when there are multiple, incomparable dimensions to evaluate.
-> **Original URL:** [https://longform.asmartbear.com/maximized-decision/](https://longform.asmartbear.com/maximized-decision/)
-
 ![do it dont do it we dont care anymore](https://public.asmartbear.com/books/anthology/chapters/maximized-decision/d6618print-simple.png)
 
-Many decisions in life and business are instances of "multi-dimensional maximization," in which we wish to pick the "single best" among a set of choices, but we're confounded because each choice is variously better or worse along different dimensions.
+العديد من القرارات في الحياة والعمل هي أمثلة على "تعظيم الأبعاد المتعددة"، حيث نرغب في اختيار "الأفضل" من بين مجموعة من الاختيارات، ولكننا نشعر بالحيرة لأن كل خيار يكون أفضل أو أسوأ بشكل مختلف على طول أبعاد مختلفة.
 
-Examples:
+أمثلة:
 
-* Which major feature should we spend the next six months building? <br/> *(P would generate revenue, but Q would reduce cancellations, but R would save us money)*
-* Which candidate should we hire? <br/> *(P has the best skills, but Q has more experience in our market, but R seems like the best culture-fit)*
-* Which new marketing campaign should we spend thousands of dollars to test? <br/> *(P is cheaper to try, but Q has a larger reach, but R is targeted at our industry)*
+* ما هي الميزة الرئيسية التي يجب أن نقضي الأشهر الستة المقبلة في بنائها؟ <br/> *(P سيولد إيرادات، لكن Q سيقلل من عمليات الإلغاء، لكن R سيوفر لنا المال)*
+* من هو المرشح الذي يجب أن نوظفه؟ <br/> *(يتمتع P بأفضل المهارات، ولكن Q يتمتع بخبرة أكبر في سوقنا، ولكن R يبدو أنه الأفضل ملاءمةً للثقافة)*
+* ما هي الحملة التسويقية الجديدة التي يجب أن ننفق آلاف الدولارات لاختبارها؟ <br/> *(P أرخص للتجربة، ولكن Q له مدى وصول أكبر، ولكن R يستهدف صناعتنا)*
 
-Not only do you need the best decision, you also need to be able to **explain your decision to others**, especially to those who wish the decision had gone a different way. Do not under-value the importance of crisp explanation.
+لا تحتاج إلى القرار الأفضل فحسب، بل تحتاج أيضًا إلى أن تكون قادرًا على **شرح قرارك للآخرين**، وخاصة لأولئك الذين يتمنون لو أن القرار قد اتخذ طريقة مختلفة. لا تقلل من أهمية التفسير الواضح.
 
-The "rubric" is the typical framework for these decisions; a separate paper on this site explains how to use one effectively for ["ROI-style" decisions](https://longform.asmartbear.com/roi-rubric/).[^1] Unfortunately, while it may feel productive to fill many cells with many numbers, and while it may feel analytically rigorous to convolute those numbers into a final score, this fails to clearly identify the best choice, and fails to create a clear explanation for the choice.
+"النموذج" هو الإطار النموذجي لهذه القرارات؛ تشرح ورقة بحثية منفصلة على هذا الموقع كيفية استخدام واحدة بشكل فعال لاتخاذ قرارات ["بنمط عائد الاستثمار"](https://longform.asmartbear.com/roi-rubric/).[^1] لسوء الحظ، على الرغم من أنه قد يكون من المفيد ملء العديد من الخلايا بالعديد من الأرقام، وعلى الرغم من أنه قد يكون من الصعب تحليل هذه الأرقام في النتيجة النهائية، إلا أن هذا يفشل في تحديد الخيار الأفضل بوضوح، ويفشل في إنشاء تفسير واضح للاختيار.
 
-After demonstrating and analyzing the causes of this failure, I present an alternative framework I've nicknamed "Binstack."[^2]
+بعد توضيح أسباب هذا الفشل وتحليلها، أقدم إطار عمل بديل أطلق عليه اسم "Binstack".[^2]
 
-[^1]: The goal of ROI is to maximize efficiency, i.e. deliver the most amount of value per unit of time. This paper asks a different question: How to decide the single most valuable thing, regardless of cost, with incommensurate and [conflicting dimensions](https://longform.asmartbear.com/conflicting-choices/)
+[^1]: الهدف من عائد الاستثمار هو زيادة الكفاءة إلى أقصى حد، أي تقديم أكبر قدر من القيمة لكل وحدة زمنية. تطرح هذه الورقة سؤالاً مختلفًا: كيفية تحديد الشيء الوحيد الأكثر قيمة، بغض النظر عن التكلفة، وبأبعاد غير متكافئة و[متضاربة](https://longform.asmartbear.com/conflicting-choices/)
 
-[^2]: Additional resource: [Adam Waselnuk](https://twitter.com/awazels) created a [Notion Process Template for Binstack](https://adamwaselnuk.notion.site/Binstack-Make-tough-decisions-b3a80f7c06a44d77b180d7bd252bbfb1).
+[^2]: مورد إضافي: أنشأ [Adam Waselnuk](https://twitter.com/awazels) [قالب معالجة الفكرة لـ Binstack](https://adamwaselnuk.notion.site/Binstack-Make-tough-decisions-b3a80f7c06a44d77b180d7bd252bbfb1).
 
-## Why rubrics don't add up
+## لماذا لا تضيف عناوين التقييم
 
-Consider two players in a game, with attributes:
+فكر في لاعبين في لعبة ما، يتمتعان بالسمات:
 
-| Attribute | Player P | Player Q |
-|:----|:---:|:---:|
-| Health | 8 | 5 |
-| Strength | 5 | 7 |
-| Speed | 2 | 6 |
-| Endurance | 5 | 2 |
+| السمة | اللاعب ف | اللاعب س | |:----|:---:|:---:| | الصحة | 8 | 5 | | القوة | 5 | 7 | | السرعة | 2 | 6 | | التحمل | 5 | 2 |
 
-Which player is better? If one scored higher than the other in every dimension, the choice would be simple. In this case, each player is better than the other along two dimensions, and worse along two; objectively there's no clear winner.
+من هو اللاعب الأفضل؟ فإذا سجل أحدهما أعلى من الآخر في كل البعد، فسيكون الاختيار بسيطا. في هذه الحالة، كل لاعب أفضل من الآخر في بعدين، وأسوأ في بعدين؛ بموضوعية ليس هناك فائز واضح.
 
-So let's try a rubric. In its simplest form, we add up the scores contributed by each dimension, and the total score decides the winner. Unfortunately, this doesn't tell us which one is better:
+لذلك دعونا نحاول نموذج التقييم. في أبسط أشكاله، نقوم بجمع الدرجات التي ساهم بها كل بُعد، والنتيجة الإجمالية تحدد الفائز. لسوء الحظ، هذا لا يخبرنا أيهما أفضل:
 
-| Attribute | Player P | Player Q |
-|:----|:---:|:---:|
-| Health | 8 | 5 |
-| Strength | 5 | 7 |
-| Speed | 2 | 6 |
-| Endurance | 5 | 2 |
-| **Total:** | **20** | **20** |
+| السمة | اللاعب ف | اللاعب س | |:----|:---:|:---:| | الصحة | 8 | 5 | | القوة | 5 | 7 | | السرعة | 2 | 6 | | التحمل | 5 | 2 | | **الإجمالي:** | **20** | **20** |
 
-Games often engineer this result on purpose, to create players that are different but not over-powered. This creates a balanced game, but to make a confident decision about which one is "best," we need something imbalanced.
+غالبًا ما تقوم الألعاب بتصميم هذه النتيجة عن قصد، لإنشاء لاعبين مختلفين ولكن ليس فوق طاقتهم. وهذا يخلق لعبة متوازنة، ولكن لاتخاذ قرار واثق بشأن أي منها "الأفضل"، نحتاج إلى شيء غير متوازن.
 
-Real-life rubrics often look like this example: a pile of options that share a similar score, resulting in no clear winner. Even if we make a decision, we can't explain the decision to others, because in actual fact it's a tie, and the tie was broken arbitrarily. That's no way to make a decision.
+غالبًا ما تبدو نماذج التقييم الواقعية مثل هذا المثال: كومة من الخيارات التي تشترك في نتيجة مماثلة، مما يؤدي إلى عدم وجود فائز واضح. حتى لو اتخذنا قرارًا، لا يمكننا أن نفسر القرار للآخرين، لأنه في الحقيقة هو تعادل، وقد تم كسر الرباط بشكل تعسفي. هذه ليست طريقة لاتخاذ القرار.
 
-To create separation, people often add "weights" to the raw value to create a new kind of "score." In this case, suppose that with our game-playing style we don't care much about Speed, but we can really leverage Strength. So we assign weights which we multiply against the scores, to compute a customized metric of "value."
+لإنشاء عملية الفصل، غالبًا ما يضيف الأشخاص "أوزانًا" إلى القيمة الأولية لإنشاء نوع جديد من "النتيجة". في هذه الحالة، لنفترض أنه من خلال أسلوب لعبنا، فإننا لا نهتم كثيرًا بالسرعة، ولكن يمكننا حقًا الاستفادة من القوة. لذلك نقوم بتعيين أوزان نقوم بضربها مقابل النتائج، لحساب مقياس مخصص "للقيمة".
 
-| Attribute | Orig P | Orig Q | Wt | Wted P | Wted Q |
-|:----|:---:|:---:|:---:|:---:|:---:|
-| Health | 8 | 5 | 1.0 | 8 | 5 |
-| Strength | 5 | 7 | 2.0 | 10 | 14 |
-| Speed | 2 | 6 | 0.5 | 1 | 3 |
-| Endurance | 5 | 2 | 1.0 | 5 | 2 |
-| **Total:** | 20 | 20 |  | **24** | **24** |
+| السمة | اوريج ف | اوريج س | بالوزن | وتت ف | وتت س | |:----|:---:|:---:|:---:|:---:|:---:| | الصحة | 8 | 5 | 1.0 | 8 | 5 | | القوة | 5 | 7 | 2.0 | 10 | 14 | | السرعة | 2 | 6 | 0.5 | 1 | 3 | | التحمل | 5 | 2 | 1.0 | 5 | 2 | | **الإجمالي:** | 20 | 20 |  | **24** | **24** |
 
-That didn't help. What if we contrive to *force* Q to be better, by intentionally using weights that penalize the two attributes where P is superior?
+هذا لم يساعد. ماذا لو نجحنا في إجبار Q على أن يكون أفضل، وذلك عن طريق استخدام الأوزان التي تعاقب السمتين حيث يكون P متفوقًا؟
 
-| Attribute | Orig P | Orig Q | Wt | Wted P | Wted Q |
-|:----|:---:|:---:|:---:|:---:|:---:|
-| Health | 8 | 5 | 0.5 | 4 | 2.5 |
-| Strength | 5 | 7 | 2.0 | 10 | 14 |
-| Speed | 2 | 6 | 0.5 | 1 | 3 |
-| Endurance | 5 | 2 | 0.5 | 2.5 | 1 |
-| **Total:** | 20 | 20 |  | **17.5** | **20.5** |
+| السمة | اوريج ف | اوريج س | بالوزن | وتت ف | وتت س | |:----|:---:|:---:|:---:|:---:|:---:| | الصحة | 8 | 5 | 0.5 | 4 | 2.5 | | القوة | 5 | 7 | 2.0 | 10 | 14 | | السرعة | 2 | 6 | 0.5 | 1 | 3 | | التحمل | 5 | 2 | 0.5 | 2.5 | 1 | | **الإجمالي:** | 20 | 20 |  | **17.5** | **20.5** |
 
-Even with a conspiracy to throw the election for Q, it wins by a mere 2.5 points out of 20--hardly a resounding victory that would give everyone confidence in the decision.
+وحتى مع وجود مؤامرة لإسقاط الانتخابات لصالح حزب Q، فإنه يفوز بفارق 2.5 نقطة فقط من أصل 20 - وهو انتصار مدوي بالكاد من شأنه أن يمنح الجميع الثقة في القرار.
 
-This happens in the real world. Even with weights, a clear winner often does not emerge, and again we're back to a weak, indefensible decision.
+يحدث هذا في العالم الحقيقي. حتى مع الأوزان، غالبًا لا يظهر فائز واضح، ومرة ​​أخرى نعود إلى قرار ضعيف لا يمكن الدفاع عنه.
 
-Worse: In the real world we rarely have precise scores. Attributes like "potential new revenue" and "increased customer satisfaction" [are not predictable](https://longform.asmartbear.com/predict-the-future/) with accuracy. For more qualitative measures we use scales "from 1 to 5" which are even less precise. This imprecision creates inherent error, which is then compounded by multiplying weights. Differences in the final results are more error than signal.
+والأسوأ من ذلك: في العالم الحقيقي نادراً ما نحصل على نتائج دقيقة. سمات مثل "الإيرادات الجديدة المحتملة" و"زيادة رضا العملاء" [لا يمكن التنبؤ بها](https://longform.asmartbear.com/predict-the-future/) بدقة. لمزيد من المقاييس النوعية، نستخدم مقاييس "من 1 إلى 5" وهي أقل دقة. يؤدي عدم الدقة هذا إلى حدوث خطأ متأصل، والذي يتفاقم بعد ذلك عن طريق مضاعفة الأوزان. الاختلافات في النتائج النهائية هي خطأ أكثر من كونها إشارة.
 
-Worse again: The attributes aren't comparable. Whatever the unit of measure for "Health," it isn't related to the unit of measure for "Speed." By adding them together, we're implicitly saying "these are comparable," but they are not. Weights are supposed to solve this by converting everything into some sort of "value," but if you say out loud what the weights are doing, it sounds incorrect. For example: "Every $150k of additional ARR is exactly as valuable to us as 10% more customer satisfaction. Indeed, we would be fine with customer satisfaction going down 10% if we added $300k in new ARR." Really?
+والأسوأ من ذلك مرة أخرى: السمات غير قابلة للمقارنة. مهما كانت وحدة قياس "الصحة"، فهي لا ترتبط بوحدة قياس "السرعة". وبجمعهما معًا، فإننا نقول ضمنيًا "هذه قابلة للمقارنة"، لكنها ليست كذلك. من المفترض أن تحل الأوزان هذه المشكلة عن طريق تحويل كل شيء إلى نوع من "القيمة"، ولكن إذا قلت بصوت عالٍ ما الذي تفعله الأوزان، فسيبدو هذا غير صحيح. على سبيل المثال: "كل 150 ألف دولار أمريكي من ARR الإضافي يمثل قيمة بالنسبة لنا تمامًا مثل زيادة رضا العملاء بنسبة 10%. وفي الواقع، سيكون من الجيد أن ينخفض ​​رضا العملاء بنسبة 10% إذا أضفنا 300 ألف دولار أمريكي من ARR الجديد." حقًا؟
 
-It's largely noise, which is why we're unhappy with the so-called "winner."
+إنها ضجيج إلى حد كبير، ولهذا السبب نحن غير راضين عما يسمى "الفائز".
 
-## Solution: Binstack: Stack-ranked binary attributes
+## الحل: Binstack: السمات الثنائية المصنفة على المكدس
 
-To transcend the noise, stop pretending that the values in the rows are precise or comparable.
+لتجاوز هذا التشويش، توقف عن التظاهر بأن القيم الموجودة في الصفوف دقيقة أو قابلة للمقارنة.
 
-A general rule of complex decisions, is that often they're difficult because we've avoided making other, smaller decisions. That is the case with the rubric, as we will now fix.
+القاعدة العامة للقرارات المعقدة هي أنها غالبًا ما تكون صعبة لأننا تجنبنا اتخاذ قرارات أخرى أصغر. هذا هو الحال مع عنوان التقييم، حيث سنصلحه الآن.
 
-Our top-level purpose is to pick the item that maximizes impact, and to be able to explain our decision. First we're going to make smaller decisions about the true impact of each item, and then we're going to make a decision about which impacts are most important.
+هدفنا الأساسي هو اختيار العنصر الذي يزيد التأثير إلى الحد الأقصى، وأن نكون قادرين على شرح قرارنا. أولاً، سنقوم باتخاذ قرارات أصغر بشأن التأثير الحقيقي لكل عنصر، وبعد ذلك سنقوم باتخاذ قرار بشأن التأثيرات الأكثر أهمية.
 
-### Binary materiality
+### المادية الثنائية
 
-No more values, no more weights, no more scores. Either an item *materially* contributes to that attribute, or it doesn't. "Materially" means the effect is so large you can measure it easily:
+لا مزيد من القيم، لا مزيد من الأوزان، لا مزيد من النتائج. إما أن يساهم العنصر *بشكل مادي* في تلك السمة، أو لا. تعني كلمة "ماديًا" أن التأثير كبير جدًا بحيث يمكنك قياسه بسهولة:
 
-* Not just "more revenue," but at least a 10% bump so that the curve visibly changes.
-* Not just "more retention," but a 20% decrease in cancellations tied to a specific cause.
-* Not just "more intuitive," but a 40% decrease in support tickets on a certain topic.
-* Not just "more competitive," but sales will add it to their standard presentation and marketing will add it to the feature-table on the pricing page.
-* Not just "more profitable," but overall gross profit margin will improve by 1%.
-* Not just "will pay for it," but putting it in a higher pricing tier or add-on will cause 5% of customers to upgrade.
-* Not just "better UX," but a 50% increase the success-rate for people moving through the interface.
-* Not just "widely used," but 40% of customers surveyed scored at least 4 out of 5 on whether they'd use the feature.
-* Not just "customer satisfaction," but moving from a 4/10 to a 8/10 on a survey related to this area of the product.
-* Not just "thought leadership," but marketing commits to getting ten external articles to reference it in the next quarter.
+* ليس فقط "المزيد من الإيرادات"، ولكن على الأقل زيادة بنسبة 10% بحيث يتغير المنحنى بشكل واضح.
+* ليس فقط "المزيد من الاحتفاظ"، ولكن أيضًا انخفاض بنسبة 20% في عمليات الإلغاء المرتبطة لسبب محدد.
+* ليس فقط "أكثر سهولة"، ولكن أيضًا انخفاض بنسبة 40% في تذاكر الدعم حول موضوع معين.
+* ليس فقط "أكثر قدرة على المنافسة"، ولكن المبيعات ستضيفه إلى العرض التقديمي القياسي والتسويق سيضيفه إلى جدول الميزات في صفحة التسعير.
+* ليس فقط "أكثر ربحية"، ولكن إجمالي هامش الربح الإجمالي سيتحسن بنسبة 1٪.
+* لن يقتصر الأمر على "الدفع مقابل ذلك"، ولكن وضعه في فئة تسعير أعلى أو وظيفة إضافية سيؤدي إلى قيام 5% من العملاء بالترقية.
+* ليس فقط "تجربة مستخدم أفضل"، ولكن زيادة معدل النجاح بنسبة 50% للأشخاص الذين يتنقلون عبر الواجهة.
+* لم تكن هذه الميزة "مستخدمة على نطاق واسع" فحسب، بل سجل 40% من العملاء الذين شملهم الاستطلاع ما لا يقل عن 4 من 5 فيما يتعلق بما إذا كانوا سيستخدمون هذه الميزة.
+* ليس فقط "رضا العملاء"، ولكن الانتقال من 4/10 إلى 8/10 في استطلاع يتعلق بهذا المجال من المنتج.
+* ليس فقط "قيادة الفكر"، ولكن التسويق يلتزم بالحصول على عشر مقالات خارجية للرجوع إليها في الربع القادم.
 
-Force people to write down exactly what the material change is expected to be. Not because the estimates are accurate, but because it forces the person to think through the answer. Most ideas, we'll eventually admit, are so incremental that we won't be able to measure the effect; that means it is "not material." That's a tough [fact to face](https://longform.asmartbear.com/failure-to-face-the-truth/), but remember the point of the exercise is to force exactly these conclusions, to drastically reduce the field of ideas so that only the actually-best ideas remain. These smaller decisions make the larger decision tractable.
+أجبر الأشخاص على تدوين الشكل المتوقع للتغيير المادي بالضبط. ليس لأن التقديرات دقيقة، بل لأنها تجبر الشخص على التفكير مليًا في الإجابة. سنعترف في النهاية أن معظم الأفكار هي أفكار تدريجية لدرجة أننا لن نكون قادرين على قياس التأثير؛ وهذا يعني أنها "ليست مادية". هذه حقيقة صعبة (https://longform.asmartbear.com/failure-to-face-the-truth/)، ولكن تذكر أن الهدف من التمرين هو فرض هذه الاستنتاجات بالضبط، لتقليل مجال الأفكار بشكل كبير بحيث تبقى أفضل الأفكار فقط. هذه القرارات الصغيرة تجعل القرار الأكبر قابلاً للتنفيذ.
 
-Because this "material change" is just a guess, we won't put it in an equation--no computing with noise! But if you can't justify a magnitude greater than "business as usual," the idea is simply not impactful enough. Your standards are higher than that.
+ولأن هذا "التغيير المادي" مجرد تخمين، فلن نضعه في معادلة - لا حوسبة بدون ضوضاء! ولكن إذا كنت لا تستطيع تبرير حجم أكبر من "العمل كالمعتاد"، فإن الفكرة ببساطة ليست مؤثرة بما فيه الكفاية. معاييرك أعلى من ذلك.
 
-In our example, if we simplistically considered any score that is "6 or greater" to be "material," we'd already have a winner:
+في مثالنا، إذا اعتبرنا بشكل مبسط أن أي نتيجة "6 أو أكبر" هي "جوهرية"، فسيكون لدينا بالفعل فائز:
 
-| Attribute | Player P | Player Q |
-|:----|:---:|:---:|
-| Health | ✓ |  |
-| Strength |  | ✓ |
-| Speed |  | ✓ |
-| Endurance |  |  |
-| **Total:** | **1** | **2** |
+| السمة | اللاعب ف | اللاعب س | |:----|:---:|:---:| | الصحة | ✓ |  | | القوة |  | ✓ | | السرعة |  | ✓ | | التحمل |  |  | | **الإجمالي:** | **1** | **2** |
 
-Each "point" in this method is meaningful, so even a difference of 1 point crowns a clear winner. With real-world attributes, and a sufficiently high bar, you will reject nearly all items quickly. People won't like that--their favorite thing will be cut--but it's the only way to stop wasting your time dithering between a pile of things that won't make a difference.
+كل "نقطة" في هذه الطريقة لها معنى، لذا فإن الفارق بمقدار نقطة واحدة يتوج فائزًا واضحًا. بفضل سمات العالم الحقيقي والشريط العالي بما فيه الكفاية، سوف ترفض جميع العناصر تقريبًا بسرعة. لن يعجب الناس بذلك - سيتم قطع الشيء المفضل لديهم - ولكنها الطريقة الوحيدة للتوقف عن إضاعة وقتك في التردد بين كومة من الأشياء التي لن تحدث فرقًا.
 
-It's also extremely easy to explain your decision: Q materially impacts two important things; everything else is less impactful.
+من السهل جدًا أيضًا شرح قرارك: يؤثر Q بشكل جوهري على شيئين مهمين؛ كل شيء آخر أقل تأثيرا.
 
 ![rest assured however i vote it will be staunchly](https://public.asmartbear.com/books/anthology/chapters/maximized-decision/d8066print-simple.png)
 
-It is, of course, still common to have ties. Indeed, if in our example we considered anything "5 or greater" to be material, it's back to a tie:[^3]
+وبطبيعة الحال، لا يزال من الشائع أن تكون هناك علاقات. في الواقع، إذا اعتبرنا في مثالنا أي شيء "5 أو أكبر" ماديًا، فهذا يعود إلى التعادل:[^3]
 
-[^3]: Although in this case perhaps the problem is that our standards for "materiality" are too low, as opposed to the options being too good.
+[^3]: على الرغم من أن المشكلة في هذه الحالة ربما تكمن في أن معاييرنا الخاصة بـ "المادية" منخفضة جدًا، في مقابل كون الخيارات جيدة جدًا.
 
-| Attribute | Player P | Player Q |
-|:----|:---:|:---:|
-| Health | ✓ | ✓ |
-| Strength | ✓ | ✓ |
-| Speed |  | ✓ |
-| Endurance | ✓ |  |
-| **Total:** | **3** | **3** |
+| السمة | اللاعب ف | اللاعب س | |:----|:---:|:---:| | الصحة | ✓ | ✓ | | القوة | ✓ | ✓ | | السرعة |  | ✓ | | التحمل | ✓ |  | | **الإجمالي:** | **3** | **3** |
 
-To address this, we need one more rule.
+لمعالجة هذه المشكلة، نحتاج إلى قاعدة أخرى.
 
-### Stack-ranked attributes
+### سمات مرتبة المكدس
 
-Back to the top: (1) We're trying to isolate the *one* thing that would be *most* impactful, and (2) complex decisions feel impossible because of a lack of smaller decisions. We've made some decisions already, but we need a few more to isolate the one winner.
+العودة إلى الأعلى: (1) نحاول عزل الشيء *الواحد* الذي سيكون *الأكثر* تأثيرًا، و(2) تبدو القرارات المعقدة مستحيلة بسبب عدم وجود قرارات أصغر. لقد اتخذنا بعض القرارات بالفعل، ولكننا بحاجة إلى المزيد من القرارات لعزل فائز واحد.
 
-We have to decide which attributes are most important. Currently we are treating all attributes as equally important--a check mark next to "Endurance" is equal to a check mark next to "Health," but is that really true?
+علينا أن نقرر أي السمات هي الأكثر أهمية. حاليًا، نتعامل مع جميع السمات على أنها ذات أهمية متساوية - علامة الاختيار بجوار "التحمل" تساوي علامة الاختيار بجوار "الصحة"، ولكن هل هذا صحيح حقًا؟
 
-With a standard rubric, the fact that all attributes are not equally important drove us to reach for "weights." But that computation confounded us with noise. Instead, we simply order attributes by importance, in a single ranked list. No numbers.
+باستخدام نموذج التقييم القياسي، حقيقة أن جميع السمات ليست على نفس القدر من الأهمية دفعتنا إلى الوصول إلى "الأوزان". لكن هذا الحساب أربكنا بالضوضاء. وبدلاً من ذلك، نقوم ببساطة بترتيب السمات حسب الأهمية، في قائمة مرتبة واحدة. لا أرقام.
 
-"Simply order them" is easy to say but not easy to accomplish, because people get stuck in circular debates:
+"ببساطة أمرهم" من السهل قولها ولكن ليس من السهل تنفيذها، لأن الناس يعلقون في مناقشات دائرية:
 
-> "Growth is more important than profit, because it's possible to optimize our costs later."  
->   
-> "Yeah, but if we're unprofitable on a unit basis we'll cause a cash-crunch, so we have to be profitable first."  
->   
-> "Yeah, but if it's only about profit, the best thing to do is just 10x prices, and whichever customers stay are super profitable, but that would be wrong."  
->   
-> "Yeah, but if it's only about revenue, the best thing to do is to sell $1 bills for $0.80, and that would be wrong."
+> "النمو أكثر أهمية من الربح، لأنه من الممكن تحسين تكاليفنا لاحقًا."
+> 
+> "نعم، ولكن إذا لم نكن مربحين على أساس الوحدة فسوف نتسبب في أزمة نقدية، لذلك علينا أن نكون مربحين أولاً."
+> 
+> "نعم، ولكن إذا كان الأمر يتعلق بالربح فقط، فإن أفضل ما يمكنك فعله هو الحصول على أسعار بعشرة أضعاف فقط، وأيًا كان العملاء الذين يبقون في الشركة يكون مربحًا للغاية، لكن هذا سيكون خطأ."
+> 
+> "نعم، ولكن إذا كان الأمر يتعلق فقط بالإيرادات، فإن أفضل ما يمكنك فعله هو بيع الأوراق النقدية بقيمة 1 دولار مقابل 0.80 دولار، وهذا سيكون خطأ."
 
-This conflict highlights the "smaller decisions" that still need to be made.
+يسلط هذا الصراع الضوء على "القرارات الأصغر" التي لا يزال يتعين اتخاذها.
 
-Both sides are correct in saying it's bad to maximize one thing with no regard to any consequences. But surely you've already ensured your list contains nothing outright absurd.[^4] So these *reductio ad absurdum* arguments are moot and can be ignored. Assume (and enforce that) the ideas are sensible, then decide what outcome is most important.
+كلا الجانبين على حق في القول إنه من السيئ تعظيم شيء واحد دون النظر إلى أي عواقب. لكن من المؤكد أنك تأكدت بالفعل من أن قائمتك لا تحتوي على أي شيء سخيف تمامًا.[^4] لذا فإن حجج *reductio ad absurdum* هذه موضع نقاش ويمكن تجاهلها. افترض (وفرض ذلك) أن الأفكار معقولة، ثم قرر ما هي النتيجة الأكثر أهمية.
 
-[^4]: If you have trouble ensuring that items are meeting basic standards, create criteria for an idea making it onto the list to begin with. Examples: it can't be less unit-profitable than some pre-determined target, it can't take longer than N sprints to execute, and it can't require significant retraining of the support team.
+[^4]: إذا كانت لديك مشكلة في التأكد من أن العناصر تلبي المعايير الأساسية، فقم بإنشاء معايير لفكرة ما لإدراجها في القائمة للبدء بها. أمثلة: لا يمكن أن يكون أقل ربحية للوحدة من بعض الأهداف المحددة مسبقًا، ولا يمكن أن يستغرق تنفيذه وقتًا أطول من N Sprints، ولا يمكن أن يتطلب إعادة تدريب كبيرة لفريق الدعم.
 
-A typical ordering for a VC-backed B2B company, optimizing for "growth is paramount, because if growth is there, we'll be able to raise more money," could be:
+الطلب النموذجي لشركة B2B المدعومة برأس المال الاستثماري، والذي يكون تحسينه من أجل "النمو أمر بالغ الأهمية، لأنه إذا كان النمو موجودًا، فسنكون قادرين على جمع المزيد من الأموال"، يمكن أن يكون:
 
-1. Revenue growth (i.e. "the single biggest driver of equity-value")
-2. Number-of-customers growth (i.e. "market share")
-3. Product experience (i.e. "customers love of the product")
-4. Support cost (i.e. "a cost; more importantly, a measure of usability")
-5. Infrastructure cost (i.e. "a cost; should organically improve with scale")
-6. Net-profit expansion (i.e. "profitable business model")
+1. نمو الإيرادات (أي "المحرك الأكبر المنفرد لقيمة الأسهم")
+2. نمو عدد العملاء (أي "حصة السوق")
+3. تجربة المنتج (أي "حب العملاء للمنتج")
+4. تكلفة الدعم (أي "التكلفة، والأهم من ذلك، مقياس سهولة الاستخدام")
+5. تكلفة البنية التحتية (أي "التكلفة؛ يجب أن تتحسن عضويًا مع الحجم")
+6. توسيع صافي الربح (أي "نموذج الأعمال المربح")
 
-A bootstrapped company designed to create wealth for its founders and employees, while being a place where employees genuinely love coming to work and customers genuinely love the product, might be:
+إن الشركة التي تم تصميمها لتحقيق الثروة لمؤسسيها وموظفيها، مع كونها مكانًا يحب فيه الموظفون حقًا القدوم إلى العمل ويحب العملاء المنتج حقًا، قد تكون:
 
-1. Cash-basis profit expansion (i.e. "wealth creation" + "mandatory to keep the business alive")
-2. Product experience (i.e. "the reason we get up in the morning is building a great product people love")
-3. Fun (i.e. "I built this business to be the place I *want* to work for")
-4. Number-of-customers growth (i.e. "stagnation is the prelude to death")
-5. Minimizing number of employees (i.e. "we joined a small company to avoid bureaucracy")
+1. توسيع الأرباح على أساس نقدي (أي "تكوين الثروة" + "إلزامي للحفاظ على استمرارية العمل")
+2. تجربة المنتج (على سبيل المثال، "السبب الذي يجعلنا نستيقظ في الصباح هو بناء منتج رائع يحبه الناس")
+3. المرح (أي "لقد أنشأت هذا العمل ليكون المكان الذي *أريد* العمل فيه")
+4. نمو عدد العملاء (أي "الركود هو مقدمة للموت")
+5. تقليل عدد الموظفين (أي "انضممنا إلى شركة صغيرة لتجنب البيروقراطية")
 
-These are generic attributes; "more revenue" could include almost anything. It's better if your lists are more specific, based on current circumstances, or focused on a subset of the strategy. For example, suppose a product that targets mid-sized restaurant chains is having trouble with customer retention. A better list might be:
+هذه سمات عامة؛ يمكن أن يشمل "المزيد من الإيرادات" أي شيء تقريبًا. من الأفضل أن تكون قوائمك أكثر تحديدًا، بناءً على الظروف الحالية، أو تركز على مجموعة فرعية من الإستراتيجية. على سبيل المثال، لنفترض أن أحد المنتجات التي تستهدف سلاسل المطاعم متوسطة الحجم يواجه مشكلة في الاحتفاظ بالعملاء. قد تكون القائمة الأفضل هي:
 
-1. Dramatic increase in usability <br/> *The #1 reason customers give us when they cancel in their first year, is that training their employees is too difficult, so the software never gets used.*
-2. Reduce costs <br/> *Price is the #1 reason that long-tenured customers give when they switch to a competitor; reducing costs means we can reduce prices while generating the same profit.*
-3. Increase market-differentiation <br/> *If there were features that customers couldn't get anywhere else, they would stay despite (1) and (2).*
+1. زيادة هائلة في سهولة الاستخدام <br/> *السبب الأول الذي يقدمه لنا العملاء عندما يقومون بالإلغاء في عامهم الأول، هو أن تدريب موظفيهم صعب للغاية، لذلك لا يتم استخدام البرنامج أبدًا.*
+2. خفض التكاليف <br/> *السعر هو السبب رقم 1 الذي يقدمه العملاء الدائمون عند التحول إلى منافس؛ إن خفض التكاليف يعني أنه يمكننا خفض الأسعار مع تحقيق نفس الربح.*
+3. زيادة التمايز في السوق <br/> *إذا كانت هناك ميزات لا يمكن للعملاء الحصول عليها في أي مكان آخر، فسيبقون على الرغم من (1) و(2).*
 
-Note how obvious corporate goals like "grow revenue" and "happy customers" are embedded in these goals, but insights or data produce more specific immediate goals. This will cause even better ideas to be selected, and will help the team brainstorm better ideas in the first place.
+لاحظ كيف يتم تضمين أهداف الشركة الواضحة مثل "زيادة الإيرادات" و"إسعاد العملاء" في هذه الأهداف، ولكن الرؤى أو البيانات تنتج أهدافًا فورية أكثر تحديدًا. سيؤدي هذا إلى اختيار أفكار أفضل، وسيساعد الفريق على تبادل الأفكار الأفضل في المقام الأول.
 
-### Binstack: The final process
+### Binstack: العملية النهائية
 
-You've finally made all the "small decisions" that make the big decision clear. With your stack-ranked attributes and binary scores of which items materially affect which attributes, here's what you do:
+لقد اتخذت أخيرًا جميع "القرارات الصغيرة" التي تجعل القرار الكبير واضحًا. باستخدام سماتك المصنفة في المكدس والدرجات الثنائية للعناصر التي تؤثر بشكل مادي على السمات، إليك ما تفعله:
 
-1. Cross out items that don't materially address the top-ranked attribute.
-2. For the second attribute...
-    1. If no tasks address it, move on to the next attribute.
-    2. If exactly one remaining task addresses it, that's the winner; you're finished.
-    3. If multiple remaining tasks affect it, cross out all the others and continue on to the next attribute.
-3. Repeat step (2) for the third attribute, fourth, etc.
+1. قم بشطب العناصر التي لا تتناول بشكل جوهري السمة ذات التصنيف الأعلى.
+2. بالنسبة للخاصية الثانية...
+    1. إذا لم تتناولها أية مهام، فانتقل إلى السمة التالية.
+    2. إذا كانت هناك مهمة واحدة متبقية تعالجها، فهذا هو الفائز؛ لقد انتهيت.
+    3. إذا كان هناك العديد من المهام المتبقية تؤثر عليه، فقم بشطب جميع المهام الأخرى والانتقال إلى السمة التالية.
+3. كرر الخطوة (2) للسمة الثالثة والرابعة وما إلى ذلك.
 
-These steps honor our smaller decisions about which results are most important to manifest (ordered attributes), and what these options *really* accomplish for us (binary materiality). It also ensures that we'll materially affect our #1 attribute; even if another idea moves several other needles, we still have to honor our "small decision" about what is of paramount importance.
+تحترم هذه الخطوات قراراتنا الأصغر بشأن النتائج الأكثر أهمية في إظهارها (السمات المرتبة)، وما تحققه لنا هذه الخيارات *حقًا* (المادية الثنائية). كما أنه يضمن أننا سنؤثر ماديًا على السمة رقم 1 لدينا؛ حتى لو كانت فكرة أخرى تحرك عدة مؤشرات أخرى، فلا يزال يتعين علينا احترام "قرارنا الصغير" بشأن ما هو ذو أهمية قصوى.
 
-The final decision is trivial to explain. It goes something like this:
+القرار النهائي تافه لتفسيره. يذهب شيء من هذا القبيل:
 
-> We decided the most important things we have to accomplish in the next few months are to grow top-line revenue and create defensible technology. Item P does both of these things; none of our other choices did.
+> لقد قررنا أن أهم الأشياء التي يتعين علينا إنجازها في الأشهر القليلة المقبلة هي زيادة الإيرادات الإجمالية وإنشاء تكنولوجيا يمكن الدفاع عنها. يقوم العنصر P بكلا الأمرين؛ لم يفعل أي من خياراتنا الأخرى.
 
-Or defending why you didn't pick some other item:
+أو الدفاع عن سبب عدم اختيارك لعنصر آخر:
 
-> Item Q is a solid idea; indeed it would both increase profitability and increase our differentiation in the market. However, the most important thing right now is to grow revenue, and item P accomplishes that whereas item Q doesn't. However, in future, if we change our priorities, or complete item P, item Q will be wonderful to consider!
+> العنصر Q فكرة قوية؛ في الواقع، سيؤدي ذلك إلى زيادة الربحية وزيادة تمايزنا في السوق. ومع ذلك، فإن الشيء الأكثر أهمية الآن هو زيادة الإيرادات، والعنصر P يحقق ذلك في حين أن العنصر Q لا يفعل ذلك. ومع ذلك، في المستقبل، إذا غيرنا أولوياتنا، أو أكملنا البند P، فسيكون من الرائع أخذ البند Q في الاعتبار!
 
 ![golf pencil no eraser decisive](https://public.asmartbear.com/books/anthology/chapters/maximized-decision/d8950print-simple.png)
 
-## Real-life errata
+## أخطاء الحياة الحقيقية
 
-### "Effort" conspicuously absent
+### "الجهد" غائب بشكل واضح
 
-Many rubrics are set up as "ROI" calculators, i.e. measuring impact relative to the cost of achieving that impact. This often results in selecting less-impactful items, because they are cost-effective to implement. Sometimes that's the right choice, but Binstack is about selecting only for maximum impact, not cost-efficiency.
+يتم إعداد العديد من عناوين التقييم كآلات حاسبة "لعائد الاستثمار"، أي قياس التأثير بالنسبة إلى تكلفة تحقيق هذا التأثير. ويؤدي هذا غالبًا إلى اختيار عناصر أقل تأثيرًا، نظرًا لأن تنفيذها فعال من حيث التكلفة. في بعض الأحيان يكون هذا هو الاختيار الصحيح، ولكن Binstack يتعلق بالاختيار فقط لتحقيق أقصى قدر من التأثير، وليس فعالية التكلفة.
 
-If you actually want to [maximize ROI, use this method](https://longform.asmartbear.com/roi-rubric/). And [here's how you decide](https://longform.asmartbear.com/rocks-pebbles-sand/) which method is right for your current decision.
+إذا كنت تريد بالفعل [تعظيم عائد الاستثمار، فاستخدم هذه الطريقة](https://longform.asmartbear.com/roi-rubric/). و[إليك كيف تقرر](https://longform.asmartbear.com/rocks-pebbles-sand/) ما هي الطريقة المناسبة لقرارك الحالي.
 
-### Fun is underrated. Add it in.
+### يتم التقليل من المتعة. إضافته في.
 
-It's still possible to tie. If you have lots of items left over, perhaps your materiality threshold isn't high enough; raise it to thin the herd.
+لا يزال من الممكن ربطه. إذا كان لديك الكثير من العناصر المتبقية، فربما لا تكون عتبة الأهمية النسبية لديك عالية بما يكفي؛ رفعه لتخفيف القطيع.
 
-Supposing you have two ideas that are truly indistinguishable, you could flip a coin. I don't recommend that, because you can't explain your choice. A person passionate about the choice you rejected would be upset to hear you ruled against them so flippantly. Instead, pick whichever item the folks doing the work *want* to do. Do what's fun.
+لنفترض أن لديك فكرتين لا يمكن التمييز بينهما حقًا، فيمكنك رمي عملة معدنية. لا أوصي بذلك، لأنك لا تستطيع شرح اختيارك. إن الشخص المتحمس للخيار الذي رفضته سوف ينزعج عندما يسمع أنك حكمت ضده باستخفاف. بدلاً من ذلك، اختر العنصر الذي يريد الأشخاص الذين يقومون بالعمل القيام به. افعل ما هو ممتع.
 
-It still sounds flippant. What business does "fun" have in business? When people work on something fun, they work harder and better while enjoying themselves more--more productivity yet more happiness. Do not dismiss this life-hack.
+لا يزال يبدو متقلبًا. ما هو العمل الذي تمتلكه "المتعة" في العمل؟ عندما يعمل الناس على شيء ممتع، فإنهم يعملون بجدية أكبر وأفضل بينما يستمتعون أكثر - إنتاجية أكثر وسعادة أكبر. لا ترفض هذا الاختراق الحياتي.
 
-Of course we cannot do what's fun at the expense of what *needs* to be done, but when those two things are not in conflict, why would you not round off in favor of fun?
+بالطبع لا يمكننا أن نفعل ما هو ممتع على حساب ما يجب القيام به، ولكن عندما لا يكون هذين الأمرين متعارضين، فلماذا لا تقربهما لصالح المتعة؟
 
-If you like this idea, take it further: Put "fun" in the attribute stack-rank, and rank it high. Even second position is not ridiculous. Knock that #1 priority out of the park while having fun. What's wrong with that?
+إذا أعجبتك هذه الفكرة، خذها إلى أبعد من ذلك: ضع كلمة "fun" في رتبة مكدس السمة، وصنفها في مرتبة عالية. حتى المركز الثاني ليس مثير للسخرية. تخلص من تلك الأولوية رقم 1 خارج الحديقة أثناء الاستمتاع. ما هو الخطأ في ذلك؟
 
-### Evolving stack-rankings, and different stack-rankings per team
+### تطور تصنيفات المكدس، وتصنيفات المكدس المختلفة لكل فريق
 
-You should expect the stack-ranking to change over time, even rapidly. In the early days of a company, just getting any customers is hard, at any price, so that might be much more important than revenue or profit. A mature company who reliably gets customers in the door might be more interested in expanding efficiency or profitability, not because growth is unimportant, but because it's so systematic that it is no longer an existential threat, and other things are more pressing.
+يجب أن تتوقع أن يتغير ترتيب المكدس بمرور الوقت، وحتى بسرعة. في الأيام الأولى للشركة، كان الحصول على أي عملاء أمرًا صعبًا، بأي ثمن، لذلك قد يكون ذلك أكثر أهمية من الإيرادات أو الربح. الشركة الناضجة التي تجذب العملاء بشكل موثوق قد تكون مهتمة أكثر بتوسيع الكفاءة أو الربحية، ليس لأن النمو غير مهم، ولكن لأنه منظم للغاية لدرجة أنه لم يعد يمثل تهديدًا وجوديًا، وهناك أشياء أخرى أكثر إلحاحًا.
 
-If you have multiple teams, and therefore the time to execute multiple items, you might want separate lists for different goals. For example, you might say, "We want one initiative that will materially increase profit, one that materially increases our internal effectiveness or efficiency, and all the rest should maximize growth." Each of those would be the number-one item in its own stack-ranked list, and the attributes below that might be copied from the company-wide general list.
+إذا كان لديك فرق متعددة، وبالتالي الوقت اللازم لتنفيذ عناصر متعددة، فقد تحتاج إلى قوائم منفصلة لأهداف مختلفة. على سبيل المثال، قد تقول: "نريد مبادرة واحدة من شأنها زيادة الربح بشكل ملموس، ومبادرة تزيد بشكل ملموس من فعاليتنا أو كفاءتنا الداخلية، وكل ما تبقى من شأنه أن يزيد النمو إلى الحد الأقصى." سيكون كل عنصر من هذه العناصر هو العنصر رقم واحد في القائمة الخاصة به، ويمكن نسخ السمات الموجودة أدناه من القائمة العامة على مستوى الشركة.
 
-In all cases, remember to hone the attributes with more specificity, to generate better ideas.
+وفي جميع الحالات، تذكر صقل السمات بمزيد من التحديد لتوليد أفكار أفضل.
 
-> "I've generally found that the best product ideas live at the intersection of "duh" and "holy shit."  
-> --[Aaron Levie](https://twitter.com/levie/status/1313236118117076993?s=12)
+> 
+> --[آرون ليفي](https://twitter.com/levie/status/1313236118117076993?s=12)
 
-### What if nothing is left?
+### ماذا لو لم يبق شيء؟
 
-Sometimes we're so harsh with our materiality threshold that none of our ideas meet our exacting standards. What does that mean?
+في بعض الأحيان نكون قساة للغاية فيما يتعلق بعتبة المادية الخاصة بنا بحيث لا تلبي أي من أفكارنا معاييرنا الصارمة. ماذا يعني ذلك؟
 
-It means your ideas aren't good enough. It means your problem wasn't one of prioritization after all, but rather of not having ideas worth prioritizing.
+هذا يعني أن أفكارك ليست جيدة بما فيه الكفاية. هذا يعني أن مشكلتك لم تكن مشكلة تحديد الأولويات بعد كل شيء، بل عدم وجود أفكار تستحق تحديد الأولويات.
 
-Focus the team on this new, more pressing problem: To generate better ideas. [Here's some help with generating better ideas](https://longform.asmartbear.com/extreme-questions/).
+ركز الفريق على هذه المشكلة الجديدة الأكثر إلحاحًا: توليد أفكار أفضل. [إليك بعض المساعدة في توليد أفكار أفضل](https://longform.asmartbear.com/extreme-questions/).
 
-But this will take time! Fine, put it in the sprint. But we need a plan right now! Too bad; it's better to take a month to find a wonderful thing to spend the rest of the year on, than to plod along doing things that aren't valuable enough. Do [high-ROI](https://longform.asmartbear.com/roi-rubric/) small projects in the meantime.
+ولكن هذا سوف يستغرق وقتا! حسنًا، ضعه في السباق. لكننا بحاجة إلى خطة الآن! سيئة للغاية؛ من الأفضل أن تستغرق شهرًا للعثور على شيء رائع لقضاء بقية العام عليه، بدلاً من التثاقل في القيام بأشياء ليست ذات قيمة كافية. قم بتنفيذ مشاريع صغيرة ذات [عائد استثمار مرتفع](https://longform.asmartbear.com/roi-rubric/) في هذه الأثناء.
 
-### Why bother scoring everything when most will be rejected immediately?
+### لماذا تهتم بتسجيل كل شيء عندما يتم رفض معظمهم على الفور؟
 
-Indeed, you needn't bother. That saves time.
+في الواقع، لا داعي للقلق. وهذا يوفر الوقت.
 
-However, remember that an important aspect of decision-making is explaining your decision. Often, explaining "why not Q" is just as important as explaining "why P." Other people will want to know that you seriously considered other options.
+ومع ذلك، تذكر أن أحد الجوانب المهمة في عملية اتخاذ القرار هو شرح قرارك. في كثير من الأحيان، يكون شرح "لماذا لا Q" لا يقل أهمية عن شرح "لماذا P." سيرغب الأشخاص الآخرون في معرفة أنك فكرت بجدية في الخيارات الأخرى.
 
-Most importantly, there are people who really wish you had selected Q. Maybe Q was even their idea. The rejection will be easier to accept if Q was seriously and genuinely considered. Perhaps, by being invited into the decision process, the person who invented Q will come to the right conclusion on their own. This is important; do not underestimate the human--and humane--part of the process.
+والأهم من ذلك، أن هناك أشخاصًا يرغبون حقًا في اختيار Q. وربما كانت Q هي فكرتهم. سيكون قبول الرفض أسهل إذا تم النظر في السؤال بجدية وصدق. ربما، من خلال دعوته للمشاركة في عملية اتخاذ القرار، سيتوصل الشخص الذي اخترع Q إلى النتيجة الصحيحة بمفرده. هذا مهم؛ لا تقلل من شأن الجزء الإنساني – والإنساني – من العملية.
 
-### Reductive
+### مختزل
 
-Binstack can feel reductive--over-simplified, ignoring the reality of a complex world, therefore resulting in an incorrect conclusion. It is true that for complex problems like foreign policy, national economics, and climate change, a reductive approach is invalid.
+يمكن أن يشعر Binstack بالاختزال - الإفراط في التبسيط، متجاهلاً حقيقة العالم المعقد، مما يؤدي إلى نتيجة غير صحيحة. صحيح أن النهج الاختزالي غير صالح في التعامل مع مشاكل معقدة مثل السياسة الخارجية، والاقتصاد الوطني، وتغير المناخ.
 
-But for finding the right feature to build, or the right marketing campaign to launch, or the right bug-tracking software to adopt, or the right database to use for a new project, or the best candidate to hire, being (intelligently) reductive is how you transcend the noise, arrive at a clear decision, and explain it to others.
+ولكن للعثور على الميزة المناسبة لإنشاءها، أو الحملة التسويقية المناسبة لإطلاقها، أو برنامج تتبع الأخطاء المناسب لاعتماده، أو قاعدة البيانات الصحيحة لاستخدامها في مشروع جديد، أو أفضل مرشح لتوظيفه، فإن الاختزال (بذكاء) هو الطريقة التي يمكنك بها تجاوز الضوضاء، والتوصل إلى قرار واضح، وشرحه للآخرين.
 
-This isn't foreign policy, it's a feature list. Make an impact with Binstack, and be happy!
+هذه ليست سياسة خارجية، إنها قائمة ميزات. اصنع تأثيرًا مع Binstack، وكن سعيدًا!

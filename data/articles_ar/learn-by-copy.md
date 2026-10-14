@@ -20,57 +20,44 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** التعلم عبر المحاكاة والنسخ: كيف تطور مهاراتك من أعمال العظماء؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Learn by Copy
-
-> **Executive Summary:** In America we're trained that all copying is bad; of course plagiarism is, but perhaps we're throwing the baby out with the bathwater.
-> **Original URL:** [https://longform.asmartbear.com/learn-by-copy/](https://longform.asmartbear.com/learn-by-copy/)
-
 ![my wife my duplicate](https://public.asmartbear.com/books/anthology/chapters/learn-by-copy/d5912print-simple.png)
 
-High School English III doesn't teach you how to write prose in the real world any more than a college CS degree teaches you how to write code in the real world. English III teaches you how to write things that English III teachers want to read.
+لا تعلمك High School English III كيفية كتابة النثر في العالم الحقيقي أكثر من أن تعلمك شهادة جامعية في علوم الكمبيوتر كيفية كتابة التعليمات البرمجية في العالم الحقيقي. يعلمك برنامج English III كيفية كتابة الأشياء التي يرغب معلمو اللغة الإنجليزية III في قراءتها.
 
-I had to write an essay about [Eudora Welty's](https://en.wikipedia.org/wiki/Eudora_Welty) short story *[Why I live at the P.O.](https://art-bin.com/art/or_weltypostoff.html)* If you haven't read it, don't fret. (Yes, the email program "Eudora" is named after Welty.)
+كان علي أن أكتب مقالًا عن قصة [Eudora Welty's](https://en.wikipedia.org/wiki/Eudora_Welty) القصيرة *[لماذا أعيش في P.O.](https://art-bin.com/art/or_weltypostoff.html)* إذا لم تكن قد قرأتها، فلا تقلق. (نعم، تم تسمية برنامج البريد الإلكتروني "Eudora" على اسم Welty.)
 
-No one in the class understood what the story meant. It just seemed extraordinarily dull where nothing was happening, and then nothing happened, and then it ended. The teacher asked us what it meant; no one volunteered an answer. I piped up: "I really don't know. I'd like to know but I don't." The teacher wasn't happy. The teacher's pet said the same. The teacher was so disgusted with our lack of insight that she never did tell us the answer.
 
-Since I never learned to write well--persuasively, with entertainment, with interest--**I learned by copying.**
 
-Not plagiarizing--that's when you use someone else's words. Rather, I tried to copy *style*. By copying I learned what I liked, what I had some ability to do.
+وبما أنني لم أتعلم الكتابة جيدًا أبدًا — بطريقة مقنعة، مع الترفيه، والاهتمام — ** فقد تعلمت عن طريق النسخ.**
+
+عدم السرقة الأدبية - وذلك عندما تستخدم كلمات شخص آخر. بل حاولت نسخ *style*. ومن خلال النسخ، تعلمت ما أحبه، وما كان لدي بعض القدرة على القيام به.
 
 ![Pasting style, not text.](https://public.asmartbear.com/books/anthology/chapters/learn-by-copy/image-simple.png)
 
-For example, in [Hello, I'm 1074018628](https://longform.asmartbear.com/hello-support/), a little ditty from 2008, I copied [Seth Godin's style](https://seths.blog/). It's 160 words. It makes a simple, solitary point. It runs right from specific example to overarching lesson bordering on a morality tale. At the end you're left inspired to improve yourself, and by extension improve the world.
+على سبيل المثال، في [مرحبًا، أنا 1074018628](https://longform.asmartbear.com/hello-support/)، وهي أنشودة صغيرة من عام 2008، قمت بنسخ [أسلوب سيث جودين](https://seths.blog/). إنها 160 كلمة إنها تمثل نقطة بسيطة ومنعزلة. إنه يمتد مباشرة من مثال محدد إلى درس شامل يقترب من قصة أخلاقية. في النهاية، ستجد الإلهام لتحسين نفسك، وبالتالي تحسين العالم.
 
-Except... when you think about how to *implement* your newfound inspiration, you have no tools. The example is apt, but then again you're not *that* bad--you don't mail-merge numbers in MailChimp. And when you're trying to be creative and innovative, you realize that "not shitty" isn't a goal. So then you re-read the post looking for guidance for *how* to be extraordinary, but saying "be the opposite of shitty" is not a lesson at all. It's just Seth (or me) staring back at you like my English III teacher, **full of expectation and no answers.**
+باستثناء... عندما تفكر في كيفية *تنفيذ* إلهامك الجديد، ليس لديك أي أدوات. المثال مناسب، ولكن مرة أخرى أنت لست بهذا السوء - فأنت لا تقوم بدمج أرقام البريد في MailChimp. وعندما تحاول أن تكون مبدعًا ومبتكرًا، فإنك تدرك أن "ليس سيئًا" ليس هدفًا. لذا، تعيد قراءة المنشور بحثًا عن إرشادات حول *كيف* أن تكون استثنائيًا، لكن قول "كن عكس السيء" ليس درسًا على الإطلاق. إنه فقط سيث (أو أنا) يحدق بك مثل مدرس اللغة الإنجليزية للصف الثالث، **مليء بالتوقعات ولا توجد إجابات.**
 
-So here's what I learned by copying Seth: I like evocative examples, but I don't like leaving the reader without a framework for finding a solution. I can't explore an interesting thought in only 160 words. I like trying to leave the reader on an up-note. And I really did *learn*; see for example [this article](https://longform.asmartbear.com/be-yourself/) which exemplifies each of those specific lessons.
+إذن هذا ما تعلمته من خلال تقليد سيث: أحب الأمثلة المثيرة للذكريات، لكني لا أحب ترك القارئ بدون إطار لإيجاد حل. لا أستطيع استكشاف فكرة مثيرة للاهتمام في 160 كلمة فقط. أحب محاولة ترك القارئ في ملاحظة. ولقد تعلمت حقًا *؛ راجع على سبيل المثال [هذه المقالة](https://longform.asmartbear.com/be-yourself/) التي توضح كل درس من هذه الدروس المحددة.
 
-I copied others too, sometimes with attribution, like this [satirical piece about Joel Spolsky](https://longform.asmartbear.com/letters-to-joel-spolsky/) whose construction was 100% lifted off the first essay of [Steve Almond's Rants, Exploits, and Obsessions (not that you asked)](https://www.amazon.com/Not-That-You-Asked-Obsessions/dp/0812977599/ref=sr_1_2?ie=UTF8&s=books&qid=1234733932&sr=1-2). Here I learned that it was really fun, but inventing structures like that is beyond my ability.
+لقد قمت بنسخ الآخرين أيضًا، أحيانًا مع الإسناد، مثل هذه [المقالة الساخرة عن جويل سبولسكي](https://longform.asmartbear.com/letters-to-joel-spolsky/) والتي تم رفع بنائها بنسبة 100٪ عن المقالة الأولى من [Steve Almond’s Rants, Exploits, and Obsessions (وليس هذا أنت) سئل)](https://www.amazon.com/Not-That-You-Asked-Obsessions/dp/0812977599/ref=sr_1_2?ie=UTF8&s=books&qid=1234733932&sr=1-2). هنا تعلمت أن الأمر كان ممتعًا حقًا، لكن اختراع هياكل كهذه يتجاوز قدرتي.
 
-**Even now I'm copying!** Even now, after I seem to have "found my voice," with 65,000 subscribers in apparent agreement, I'm still experimenting with other voices. Like this very post, which I'm doing in the style of [James Altucher](https://www.jamesaltucher.com/), except without the [sexual exploits](https://www.jamesaltucher.com/2011/08/girls-girls-girls/), and therefore far less entertaining.
+**حتى الآن أنا أقلد!** حتى الآن، بعد أن بدا لي أنني "عثرت على صوتي" مع وجود 65.000 مشترك في اتفاق واضح، ما زلت أجرّب أصواتًا أخرى. مثل هذا المنشور بالذات، والذي أقوم به بأسلوب [James Altucher](https://www.jamesaltucher.com/)، باستثناء بدون [الاستغلال الجنسي](https://www.jamesaltucher.com/2011/08/girls-girls-girls/)، وبالتالي فهو أقل تسلية بكثير.
 
-Specifically, like [this post of James's](https://bit.ly/qWDNuZ), I started with a personal story, but it won't quite finish until the end where it wraps up with an almost trivial conclusion but leaves you with a sense of the larger point. I'm using shorter sentences than is my wont. I'm admitting embarrassing or disdainful things about myself, like how I'm insecure and how I have to copy others' style rather than being strong and perceptive enough to develop my own.
+على وجه التحديد، مثل [منشور جيمس هذا] (https://bit.ly/qWDNuZ)، بدأت بقصة شخصية، لكنها لن تنتهي تمامًا حتى النهاية حيث تنتهي بخاتمة تافهة تقريبًا ولكنها تتركك بإحساس بالنقطة الأكبر. أنا أستخدم جملًا أقصر من المعتاد. أنا أعترف بأشياء محرجة أو ازدراء عن نفسي، مثل عدم شعوري بالأمان وكيف أنني يجب أن أقلد أسلوب الآخرين بدلاً من أن أكون قويًا ومدركًا بما يكفي لتطوير أسلوبي.
 
-Now that you know this is an attempt at style duplication, you can see for yourself how much better James is at it than I. But "being as good as James at James' style" is not the goal. The goal is to learn and grow as a writer, and this was fun to do.
+الآن بعد أن عرفت أن هذه محاولة لتكرار الأسلوب، يمكنك أن ترى بنفسك مدى تفوق جيمس في هذا الأمر عني. لكن "أن تكون جيدًا مثل جيمس في أسلوب جيمس" ليس هو الهدف. الهدف هو التعلم والنمو ككاتب، وكان القيام بذلك أمرًا ممتعًا.
 
-This technique is useful in almost any pursuit. I was the inter-mural racquetball champion at the University of Texas, and although it required lots of practice, I *learned* by watching the good players and trying to copy their movements--their swing, where they'd run, where they'd place the ball.
+هذه التقنية مفيدة في أي مسعى تقريبًا. لقد كنت بطل كرة المضرب بين الجداريات في جامعة تكساس، وعلى الرغم من أن الأمر تطلب الكثير من التدريب، إلا أنني *تعلمت* من خلال مشاهدة اللاعبين الجيدين ومحاولة تقليد حركاتهم - تأرجحهم، حيث يركضون، حيث يضعون الكرة.
 
-Did any great chef not, at various points in her career, intentionally learn various styles from various cultures?
+هل لم يتعمد أي طاهٍ عظيم، في مراحل مختلفة من حياته المهنية، تعلم أساليب مختلفة من ثقافات مختلفة؟
 
-Even Picasso--one of the most creative, innovating artists in history--first [learned his craft by copying](https://longform.asmartbear.com/breaking-the-rules/) the styles of the Great Masters.
+حتى بيكاسو - أحد أكثر الفنانين إبداعًا وابتكارًا في التاريخ - [تعلم حرفته عن طريق نسخ] (https://longform.asmartbear.com/breaking-the-rules/) أولاً أساليب الأساتذة العظماء.
 
-As a culture, at least in America, we cherish creativity, we reward uniqueness. We're obsessed with "[innovation](https://longform.asmartbear.com/disruptive/)." We're trained that copying is evil.
+كثقافة، على الأقل في أمريكا، نحن نعتز بالإبداع، ونكافئ التفرد. نحن مهووسون بـ "[الابتكار](https://longform.asmartbear.com/disruptive/)." لقد تدربنا على أن التقليد أمر شرير.
 
-Rather, copying is one of the best ways of learning, growing, evaluating, and exploring. It's a valid tool so long as we regard it as a means to an end.
+بل إن النسخ هو أحد أفضل طرق التعلم والنمو والتقييم والاستكشاف. إنها أداة صالحة طالما أننا نعتبرها وسيلة لتحقيق غاية.
 
-**Copying ironically helps you discover yourself:** The way to discovering who you are, what you value, what you're good at, what you believe, is to try things on, like clothes, to see what fits. Bits and pieces of you are already reflected in the things around you, so pick up handfuls of other creations and see which bits you want to keep.
+**التقليد يساعدك على اكتشاف نفسك:** الطريق لاكتشاف هويتك، وما تقدره، وما تجيده، وما تؤمن به، هو تجربة الأشياء، مثل الملابس، لمعرفة ما يناسبك. إن الأجزاء والأجزاء منك تنعكس بالفعل في الأشياء من حولك، لذا التقط عددًا من الإبداعات الأخرى واعرف الأجزاء التي تريد الاحتفاظ بها.
 
-Eventually the teacher's pet found some commentary on Eudora Welty in our textbook, saying that Welty encapsulates Southern life and mores. We memorized it, in case it was on the test.
+في نهاية المطاف، وجدت حيوان المعلمة الأليف بعض التعليقات على Eudora Welty في كتابنا المدرسي، قائلة إن Welty تلخص الحياة الجنوبية والأعراف. لقد حفظناها عن ظهر قلب، في حال كانت في الاختبار.

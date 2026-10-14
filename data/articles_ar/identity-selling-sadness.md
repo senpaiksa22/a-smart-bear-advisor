@@ -20,155 +20,142 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** هوية المؤسس والحزن الخفي الذي يلي البيع الناجح للشركة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Startup identity & the sadness of a successful exit
-
-> **Executive Summary:** Many founders experience a profound and prolonged sadness after selling their company. But "not selling" might be worse. Maybe my story will help you.
-> **Original URL:** [https://longform.asmartbear.com/identity-selling-sadness/](https://longform.asmartbear.com/identity-selling-sadness/)
-
 ![No, it's fine, I've just never seen coupons used in an acquisition.](https://public.asmartbear.com/books/anthology/chapters/identity-selling-sadness/d3719print-simple.png)
 
-## At the peak, the only place to go is down
+## في القمة، المكان الوحيد الذي يمكنك الذهاب إليه هو الأسفل
 
-My fingers trembled as I fed page 34 of 72 into the fax machine, deftly pressing the head of each page into its creaky jaws one at a time so that this shitty cheap machine wouldn't snag two pages at once, slantways, obscuring the precious scribblings adorning the footer of each page where it read: "Seller's Initials: ______".
+ارتجفت أصابعي وأنا أضع الصفحة 34 من 72 في جهاز الفاكس، وأضغط ببراعة رأس كل صفحة في فكيها المزعجين واحدة تلو الأخرى حتى لا تتعطل هذه الآلة الرخيصة الرخيصة صفحتين في وقت واحد، بشكل مائل، مما يحجب الشخبطة الثمينة التي تزين تذييل كل صفحة حيث يقرأ: "الأحرف الأولى من اسم البائع: ______".
 
-This is what the last six years were all for. All the labor. All the risk. The brave face for the troops. The self-inflicted unflagging optimism despite little supporting evidence. All those sleepless nights worried about making payroll with a one-time revenue business model where every month you have to find new revenue from new customers. The 10,000 deliberate hours of [becoming an expert](https://longform.asmartbear.com/expert-distraction/) in something. The experience you get just after you need it. The hard lessons you occasionally glean from experience. The inner doubt suppressed for the morale of the team. No salary followed by low salary. The "eat what we kill" mentality. The scrounging and scrabbling and begging and [fighting the assholes](https://longform.asmartbear.com/startups-emotionally-draining/) for those morsels of revenue, those crumbs of validation.
+هذا ما كانت عليه السنوات الست الماضية. كل العمالة. كل المخاطر. الوجه الشجاع للقوات. التفاؤل الذي لا يتزعزع على الرغم من قلة الأدلة الداعمة. كل تلك الليالي الطوال كانت قلقة بشأن تحصيل الرواتب من خلال نموذج أعمال إيرادات لمرة واحدة حيث يتعين عليك كل شهر العثور على إيرادات جديدة من عملاء جدد. الـ 10000 ساعة المتعمدة من [أن تصبح خبيرًا](https://longform.asmartbear.com/expert-distraction/) في شيء ما. التجربة التي تحصل عليها بعد أن تحتاج إليها. الدروس الصعبة التي تستخلصها أحيانًا من التجربة. الشك الداخلي قمع معنويات الفريق. لا يوجد راتب يتبعه راتب منخفض. عقلية "نأكل ما نقتله". البحث والخربشة والتسول و[محاربة المتسكعون](https://longform.asmartbear.com/startups-emotionally-draining/) من أجل تلك الفتات من الإيرادات، وفتات التحقق من الصحة.
 
-It's over. We did it. I did it. American dream? Check.
+انتهى. لقد فعلنا ذلك. أنا فعلت هذا. الحلم الأمريكي؟ يفحص.
 
-The 73rd page spat out confirming the successful transfer of the previous 72.
+صدرت الصفحة الثالثة والسبعون لتأكيد النقل الناجح للصفحات الـ 72 السابقة.
 
-And then... *sadness*.
+وبعدها... *الحزن*.
 
-A profound sadness. Not depression--not hopeless or rudderless--but pure sadness, when your lungs sink into your belly, the punch-in-the-stomach of discovering your dog was hit by a car or that your dad is terminally ill.
+حزن عميق. ليس الاكتئاب - وليس اليأس أو اليأس - ولكن الحزن النقي، عندما تغرق رئتيك في بطنك، تكتشف أن كلبك قد صدمته سيارة أو أن والدك مصاب بمرض عضال.
 
-"What the fuck?" I thought, "Why am I feeling this? I'm supposed to be feel... happy? I guess? Something other than this."
+"ماذا بحق الجحيم؟" فكرت، "لماذا أشعر بهذا؟ من المفترض أن أشعر... بالسعادة؟ أعتقد؟ شيء آخر غير هذا."
 
-## In good company
+## في شركة جيدة
 
-Almost all startup founders experience a deep and prolonged sadness after selling their company, even when the sale is an outrageous success. Why?
+يعاني جميع مؤسسي الشركات الناشئة تقريبًا من حزن عميق ومطول بعد بيع شركتهم، حتى عندما يكون البيع نجاحًا باهظًا. لماذا؟
 
-The answer is important and fundamental for all startup founders, whether or not they intend to sell their company some day.
+الإجابة مهمة وأساسية لجميع مؤسسي الشركات الناشئة، سواء كانوا ينوون بيع شركتهم يومًا ما أم لا.
 
-It is more than generic malaise. It is a fundamental disconnection from what it is to be a human being, to be yourself, to drive towards something. Combined with the guilt of success, or at least the knowledge that you can never complain about not knowing what to do with the kind of time and money that nearly everyone else on Earth can only dream of.
+إنه أكثر من مجرد الشعور بالضيق العام. إنه انفصال أساسي عما يعنيه أن تكون إنسانًا، أن تكون نفسك، أن تتجه نحو شيء ما. بالإضافة إلى الشعور بالذنب تجاه النجاح، أو على الأقل معرفة أنه لا يمكنك أبدًا الشكوى من عدم معرفة ما يجب فعله بهذا النوع من الوقت والمال الذي لا يمكن لأي شخص آخر على وجه الأرض تقريبًا أن يحلم به.
 
-And so you have mental break-downs like Vinay Hiremath, who sold his company Loom for nearly a billion dollars, [nearly dying in the Himalayas](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/) and driving away his girlfriend (Figure 1); Markus "Notch" Persson, creator of Minecraft, who melted down on Twitter after [selling to Microsoft](https://thenextweb.com/news/official-microsoft-buying-minecraft-developer-mojang) for more than two billion dollars, after he found himself directionless and socially distant from everyone he knew, from employees to friends to girlfriends (Figure 2). There are [many other stories](https://sifted.eu/articles/founders-exit-blues) from [less famous](https://hbr.org/2015/09/dealing-with-the-emotional-fallout-of-selling-your-business) but no less valid entrepreneurs.
+وهكذا، لديك انهيارات عقلية مثل فيناي هيريماث، الذي باع شركته Loom مقابل ما يقرب من مليار دولار، [وكاد أن يموت في جبال الهيمالايا](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/) وطرد صديقته بعيدًا (الشكل 1)؛ ماركوس "نوتش" بيرسون، مبتكر لعبة Minecraft، الذي انصهر على تويتر بعد [بيعه لمايكروسوفت] (https://thenextweb.com/news/official-microsoft-buying-minecraft-developer-mojang) بأكثر من ملياري دولار، بعد أن وجد نفسه بلا اتجاه وبعيدًا اجتماعيًا عن كل من يعرفه، من الموظفين إلى الأصدقاء إلى الصديقات (الشكل 2). هناك [العديد من القصص الأخرى](https://sifted.eu/articles/founders-exit-blues) من [الأقل شهرة](https://hbr.org/2015/09/dealing-with-the-emotional-fallout-of-sale-your-business) ولكن ليس أقل من رواد الأعمال المؤهلين.
 
 ![Loom founder on his blog, after selling for $975,000,000.](https://public.asmartbear.com/books/anthology/chapters/identity-selling-sadness/image-2-simple.png)
 
 ![Minecraft founder on Twitter, after selling for $2,500,000,000.](https://public.asmartbear.com/books/anthology/chapters/identity-selling-sadness/image-simple.png)
 
-And of course it's not just entrepreneurs--it's anyone who devotes their life and identity to a cause which then suddenly vanishes. The quintessential and well-studied case are Olympic athletes, where a single-minded drive to be the best in the world, starting young and therefore occupying most of their conscious lives, reaches a pinnacle in whatever Olympic games is their last, whether they've won gold or not. The individual stories come both from the most decorated athletes in their sport[^1] and from everyone else who is objectively world-class.[^2] Many studies[^3] show that these anecdotes are examples of the rule, not exceptions.
+وبالطبع لا يقتصر الأمر على رواد الأعمال فقط - بل أي شخص يكرس حياته وهويته لقضية تختفي بعد ذلك فجأة. الحالة المثالية والمدروسة جيدًا هي الرياضيون الأولمبيون، حيث يصل الدافع المتعمد ليكونوا الأفضل في العالم، بدءًا من الشباب وبالتالي يشغلون معظم حياتهم الواعية، إلى ذروته في أي دورة أولمبية تكون الأخيرة لهم، سواء فازوا بالميدالية الذهبية أم لا. تأتي القصص الفردية من الرياضيين الأكثر تتويجًا في رياضتهم[^1] ومن أي شخص آخر من الطراز العالمي بشكل موضوعي.[^2] تظهر العديد من الدراسات[^3] أن هذه الحكايات هي أمثلة للقاعدة، وليست استثناءات.
 
-[^1]: e.g. Michael Phelps, especially in the HBO documentary "Weight of Gold" (2020); Lindsey Vonn in her autobiography _Rise: My Story_ (2022).
+[^1]: على سبيل المثال. مايكل فيلبس، وخاصة في الفيلم الوثائقي HBO "وزن الذهب" (2020)؛ ليندسي فون في سيرتها الذاتية _Rise: My Story_ (2022).
 
-[^2]: e.g. Allison Schmitt in swimming, McKayla Maroney in gymnastics, Gracie Gold in figure skating, all vocal about their struggles as part of their new journey as mental health advocates.
+[^2]: على سبيل المثال. أليسون شميت في السباحة، وماكايلا ماروني في الجمباز، وجرايسي جولد في التزلج على الجليد، وجميعهم يتحدثون بصوت عالٍ عن معاناتهم كجزء من رحلتهم الجديدة كمدافعين عن الصحة العقلية.
 
-[^3]: The British Journal of Sports Medicine, "Mental health in elite athletes: International Olympic Committee consensus statement" ([2019](https://bjsm.bmj.com/content/53/11/667)). The IOC's own [consensus statements](https://www.olympics.com/athlete365/articles/mentally-fit/ioc-mental-health-in-elite-athletes-toolkit-x3908) include the "[post-Olympic blues](https://www.teamgb.com/article/ioc-mental-health-ambassador-holly-bradshaw-opens-up-about-post-olympic/6gBc8IKg5GSMNydsQW3IuD)".
+[^3]: المجلة البريطانية للطب الرياضي، "الصحة العقلية لدى نخبة الرياضيين: بيان إجماع اللجنة الأولمبية الدولية" ([2019](https://bjsm.bmj.com/content/53/11/667)). تتضمن [بيانات الإجماع] الخاصة باللجنة الأولمبية الدولية (https://www.olympics.com/athlete365/articles/mentally-fit/ioc-mental-health-in-elite-athletes-toolkit-x3908) "[ما بعد الأولمبياد" البلوز](https://www.teamgb.com/article/ioc-mental-health-ambassador-holly-bradshaw-opens-up-about-post-olympic/6gBc8IKg5GSMNydsQW3IuD)".
 
-Commiseration helps us understand that it's normal, but it doesn't help us understand why it's happening, and therefore what to do next. For that, we have to put our finger on what's going on.
+يساعدنا التعاطف على فهم أن هذا أمر طبيعي، لكنه لا يساعدنا على فهم سبب حدوثه، وبالتالي ما يجب القيام به بعد ذلك. ومن أجل ذلك علينا أن نضع إصبعنا على ما يحدث.
 
-## Identity
+## هوية
 
-*"I sell my artwork on Etsy. Want to see?" <br/> --Barista at an Austin coffee shop*
+*"أبيع أعمالي الفنية على Etsy. هل تريد أن ترى؟" <br/> --باريستا في مقهى أوستن*
 
-If you ask her, "Who are you?" She would answer: "I'm an artist."
+إذا سألتها: من أنت؟ كانت تجيب: "أنا فنانة".
 
-If you ask her, "What do you do for a living?" She would answer: "I'm a barista, but that's just my day job. Want to see my artwork?"
+إذا سألتها: "ماذا تفعلين من أجل لقمة العيش؟" كانت تجيب: "أنا باريستا، لكن هذه مجرد وظيفتي اليومية. هل تريد رؤية أعمالي الفنية؟"
 
-Is she a barista because she pours coffee for money? Is she a driver because she drives a car to work? Is she a maid because she cleans her own apartment?
+هل هي باريستا لأنها تصب القهوة مقابل المال؟ هل هي سائقة لأنها تقود السيارة للعمل؟ هل هي خادمة لأنها تنظف شقتها بنفسها؟
 
-No, **she's an artist** because **that's what she _really_ is**. "Barista" is one of many necessary means to the ends, where the "ends" are the basic human needs, followed by creating art, I guess with some [Maslow layers](https://longform.asmartbear.com/needs-stack/) in-between.
+لا، **إنها فنانة** لأنها **هذه هي حقيقتها**. "باريستا" هي واحدة من العديد من الوسائل الضرورية لتحقيق الغايات، حيث "الغايات" هي الاحتياجات الإنسانية الأساسية، يليها خلق الفن، أعتقد مع بعض [طبقات ماسلو](https://longform.asmartbear.com/needs-stack/) بينهما.
 
-**A startup founder lacks this distinction between personal identity and work identity**, and this is the key to the "sale-blues" phenomenon and other behavior.
+**يفتقر مؤسس الشركة الناشئة إلى هذا التمييز بين الهوية الشخصية وهوية العمل**، وهذا هو المفتاح لظاهرة "البيع الكآبة" وغيرها من السلوكيات.
 
-A startup *is* the founder's personal identity. Startups are not something you do to make ends meet or a "necessary evil" *en route* to what you "really" want to do.
+الشركة الناشئة *هي* الهوية الشخصية للمؤسس. الشركات الناشئة ليست شيئًا تفعله لتغطية نفقاتك أو "شرًا لا بد منه" *في طريقك* إلى ما تريد "حقًا" القيام به.
 
-A startup is an obsession. You do it because you couldn't stop yourself. Because when you were doing anything else, you were thinking about it. *That* is the mark of "who you are." Interviewers ask me "Why did you decide to do a second and eventually a fourth startup?" And the answer is "For the same reason that I started the first one--because it's in my DNA and I have to do it."
+بدء التشغيل هو هاجس. أنت تفعل ذلك لأنك لا تستطيع إيقاف نفسك. لأنه عندما كنت تفعل أي شيء آخر، كنت تفكر فيه. *هذا* هو علامة "من أنت". يسألني الأشخاص الذين أجريت معهم المقابلات: "لماذا قررت إنشاء شركة ناشئة ثانية وفي النهاية رابعة؟" والجواب هو "لنفس السبب الذي دفعني إلى البدء بالمشروع الأول، لأنه موجود في حمضي النووي ويجب أن أفعله."
 
-What do you do in your spare time when you have a startup? What spare time? This is all your time. It's not just the last thing you think about before falling a sleep, it's the thing that won't *let* you sleep. It's the first thing that trickles into your brain in the morning like The Matrix patterns filling the void.
+ماذا تفعل في وقت فراغك عندما يكون لديك شركة ناشئة؟ ما وقت الفراغ؟ هذا هو كل وقتك. إنه ليس فقط آخر شيء تفكر فيه قبل النوم، بل هو الشيء الذي *يسمح* لك بالنوم. إنه أول شيء يتسلل إلى دماغك في الصباح مثل أنماط الماتريكس التي تملأ الفراغ.
 
 ![Symbols from the movie The Matrix, filling in a black background](https://public.asmartbear.com/books/anthology/chapters/identity-selling-sadness/matrix-code-simple.png)
 
-It's why you can weather the painful thoughts like the ones whistling through my ears while I fed legalese into a rickety fax machine. You are consumed, this is your life, this *is* you. There's no room for anything else.
+ولهذا السبب يمكنك التغلب على الأفكار المؤلمة مثل تلك التي تصفر في أذني أثناء قيامي بإدخال اللغة القانونية في جهاز فاكس متهالك. لقد استهلكت، هذه حياتك، هذه أنت. ليس هناك مجال لأي شيء آخر.
 
-When you sell your company, others are quick to throw jabs like "So, you sold your baby?" Which means: "[You're a sell-out](https://longform.asmartbear.com/rich-vs-king-sold-company/)." (Or: "I'm jealous." Or both.)
+عندما تبيع شركتك، يسارع الآخرون إلى إلقاء اللوم عليك مثل "لقد بعت طفلك؟" مما يعني: "[أنت بائع](https://longform.asmartbear.com/rich-vs-king-sold-company/)." (أو: "أنا غيور." أو كليهما.)
 
-It's less like selling your baby and more like selling your own identity. Now you have to find a new one.
+إن الأمر لا يشبه بيع طفلك بقدر ما يشبه بيع هويتك الخاصة. الآن عليك أن تجد واحدة جديدة.
 
-If there is a new one.
+إذا كان هناك واحدة جديدة.
 
-And there's no particular reason to think there will be. Which is part of the fear.
+وليس هناك سبب محدد للاعتقاد بأنه سيكون هناك. وهو جزء من الخوف.
 
-Speaking of babies, this all sounds a lot like "baby blues"--depression caused by elevated levels of the enzyme monoamine oxidase A--that 70% of women experience after giving birth. A third of those women will experience this for up to a year (postpartum depression).
+عند الحديث عن الأطفال، يبدو هذا كثيرًا مثل "الكآبة النفاسية" - الاكتئاب الناجم عن ارتفاع مستويات إنزيم مونوامين أوكسيديز A - الذي تعاني منه 70٪ من النساء بعد الولادة. سوف يعاني ثلث هؤلاء النساء من هذا لمدة تصل إلى عام (اكتئاب ما بعد الولادة).
 
-It's characterized as a feeling of loss and of mourning, which is seemingly at odds with the arrival of a new life which is just the opposite--gain and celebration. This intellectual dissonance creates secondary emotional effects, specifically the devastating belief that "I must be a bad mom for being sad that I have a new baby."
+يتميز بأنه شعور بالخسارة والحداد، والذي يبدو أنه يتعارض مع وصول حياة جديدة والتي هي على العكس تمامًا - الربح والاحتفال. يخلق هذا التنافر الفكري تأثيرات عاطفية ثانوية، وتحديدًا الاعتقاد المدمر بأنني "لا بد أن أكون أمًا سيئة لأنني حزينة لأن لدي طفلًا جديدًا".
 
-Are the baby blues the same emotional effect as selling a company? Maybe not--I already don't like saying "[a startup is like a baby](https://longform.asmartbear.com/startup-life/)." Besides, postpartum depression is triggered by the arrival of responsibility and, if you insist on the baby/startup analogy, selling your company is the departure of responsibility.
+هل الكآبة النفاسية لها نفس التأثير العاطفي مثل بيع الشركة؟ ربما لا، فأنا لا أحب أن أقول "[الشركة الناشئة مثل الطفل](https://longform.asmartbear.com/startup-life/)." علاوة على ذلك، فإن اكتئاب ما بعد الولادة ينجم عن وصول المسؤولية، وإذا أصررت على التشبيه بالطفل/الشركة الناشئة، فإن بيع شركتك يعد رحيلًا عن المسؤولية.
 
-But one thing that definitely is the same is that "feeling of loss and mourning." **A piece of yourself has been eviscerated, irrevocably.**
+ولكن الشيء الوحيد الذي هو نفسه بالتأكيد هو "الشعور بالخسارة والحداد". **لقد تم انتزاع أحشاء جزء من نفسك، إلى غير رجعة.**
 
-And, in fact, maybe it really is like your baby. In one study,[^4] researchers watched brain activity in people who were both entrepreneurs and parents. Comparing activity across neutral images, those of other children or company logos, or their own children and company logos (Figure 3), they found that the brain activity when exposed to their firm's brands were similar to the activity when gazing at their own children, and of course both different from the other images (Figure 4). In short, our brains really do react to our companies the way they react to our children--the love, the attachment, the intensity, even the threats and risks and worries.
+وفي الواقع، ربما يكون مثل طفلك حقًا. في إحدى الدراسات،[^4] راقب الباحثون نشاط الدماغ لدى الأشخاص الذين كانوا رواد أعمال وأولياء أمور. وبمقارنة النشاط عبر الصور المحايدة، أو تلك الخاصة بأطفال آخرين أو شعارات الشركة، أو أطفالهم وشعارات الشركة (الشكل 3)، وجدوا أن نشاط الدماغ عند التعرض للعلامات التجارية الخاصة بشركتهم كان مشابهًا للنشاط عند التحديق في أطفالهم، وبالطبع يختلف كلاهما عن الصور الأخرى (الشكل 4). باختصار، تتفاعل أدمغتنا مع شركاتنا بنفس الطريقة التي تتفاعل بها مع أطفالنا - الحب، والارتباط، والحدة، وحتى التهديدات والمخاطر والمخاوف.
 
-[^4]: Marja-Liisa Halko, Tom Lahti, Kaisa Hytönen, Iiro P. Jääskeläinen, "Entrepreneurial and parental love--are they the same?" ([2017](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.23562))
+[^4]: مارجا ليزا هالكو، توم لاهتي، كايسا هيتونين، إيرو بي جاسكلينن، "ريادة الأعمال والحب الأبوي - هل هما نفس الشيء؟" (([2017](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.23562))
 
 ![Protocol showing images to parent-entrepreneurs -- neutral, other children and brands, and their own children and brands.](https://public.asmartbear.com/books/anthology/chapters/identity-selling-sadness/image-3-simple.png)
 
 ![The areas of the brain that light up when viewing your own children or your own brands, different from other images.](https://public.asmartbear.com/books/anthology/chapters/identity-selling-sadness/image-4-simple.png)
 
-As we showed earlier, it's not only a normal feeling, it's by far the majority case. In [a high-quality study](https://longform.asmartbear.com/ref/life-after-exit-en.pdf) from Columbia Business School, out of 22 entrepreneurs who sold their companies, *every one of them* experienced this effect. Some refocused the energy into the Next Thing (almost always new ventures), but most took *years* to find that thing which could replace not only the excitement but identity, and many still haven't found that Next Thing at all. Many wished they could have their companies back; a few did buy them back.
+كما أظهرنا سابقًا، إنه ليس شعورًا طبيعيًا فحسب، بل هو حالة الأغلبية إلى حد كبير. في [دراسة عالية الجودة](https://longform.asmartbear.com/ref/life-after-exit-en.pdf) من كلية كولومبيا للأعمال، من بين 22 من رواد الأعمال الذين باعوا شركاتهم، *واجه كل واحد منهم* هذا التأثير. أعاد البعض تركيز طاقتهم على الشيء التالي (مشاريع جديدة دائمًا تقريبًا)، لكن معظمهم استغرق *سنوات* للعثور على ذلك الشيء الذي يمكن أن يحل ليس فقط محل الإثارة ولكن الهوية، وما زال الكثيرون لم يجدوا ذلك الشيء التالي على الإطلاق. تمنى الكثيرون أن يتمكنوا من استعادة شركاتهم. عدد قليل منهم قاموا بشرائها مرة أخرى.
 
-Selling their companies forced them to answer a difficult question: If you could do anything, what would you do? What's *really* important to you, as opposed to a job? What do you *really* want to be when you *really* grow up?
+بيع شركاتهم أجبرهم على الإجابة على سؤال صعب: لو كان بإمكانك فعل أي شيء، ماذا ستفعل؟ ما هو الشيء المهم *حقًا* بالنسبة لك، بخلاف الوظيفة؟ ماذا تريد *حقًا* أن تكون عندما تكبر *حقًا*؟
 
-The problem is, **the startup already *was* that thing!** It's a grinding, batshit-crazy, risky, irrational, epic adventure. You wouldn't have done all that in the first place if that wasn't already the thing you wanted to do. A startup is never the easiest career path.
+المشكلة هي أن **الشركة الناشئة كانت بالفعل *كانت* ذلك الشيء!** إنها مغامرة ملحمية طاحنة ومجنونة ومحفوفة بالمخاطر وغير عقلانية. لم تكن لتفعل كل ذلك في المقام الأول إذا لم يكن هذا هو الشيء الذي تريد القيام به بالفعل. إن بدء التشغيل ليس هو المسار الوظيفي الأسهل أبدًا.
 
-Does this lead to the conclusion that selling a startup is the wrong choice much of the time?
+هل يؤدي هذا إلى استنتاج مفاده أن بيع الشركة الناشئة هو خيار خاطئ في كثير من الأحيان؟
 
-No. And this is perhaps an ever sadder realization.
+لا، وربما يكون هذا إدراكًا أكثر حزنًا من أي وقت مضى.
 
-It's an easier decision if you're saying "I can't wait to start the next thing" but perhaps you're thinking "I don't know what I'll do with myself." You must resist the urge to believe that getting millions of dollars will make you fulfilled, or happy. "Money doesn't make you happy" is cliché because it's true. You need to understand [how to be fulfilled](https://longform.asmartbear.com/fulfillment/) regardless.
+سيكون القرار أسهل إذا كنت تقول "لا أستطيع الانتظار لبدء الشيء التالي" ولكن ربما كنت تفكر "لا أعرف ماذا سأفعل بنفسي". يجب أن تقاوم الرغبة في الاعتقاد بأن الحصول على ملايين الدولارات سيجعلك راضيًا أو سعيدًا. "المال لا يجعلك سعيدا" هو قول مبتذل لأنه صحيح. عليك أن تفهم [كيفية تحقيق ذلك](https://longform.asmartbear.com/fulfillment/) بغض النظر.
 
-But all that doesn't mean selling is wrong.
+لكن كل هذا لا يعني أن البيع خطأ.
 
-Just like a bad relationship that has to be ended even though it will be painful, especially if you genuinely love the other person: Just because it's painful doesn't mean you don't need to do it.
+تمامًا مثل العلاقة السيئة التي يجب إنهاؤها على الرغم من أنها ستكون مؤلمة، خاصة إذا كنت تحب الشخص الآخر بصدق: فقط لأنه مؤلم لا يعني أنك لست بحاجة إلى القيام بذلك.
 
-Building a company in year-one is completely different than building that company through year seven (when I left Smart Bear) or year fourteen (when I left WP Engine). The CEO's job description changes over time, and so does the company, whether you sell it or not. Are you emotionally prepared for this as well?
+إن بناء شركة في السنة الأولى يختلف تمامًا عن بناء تلك الشركة خلال السنة السابعة (عندما تركت Smart Bear) أو السنة الرابعة عشرة (عندما تركت WP Engine). يتغير الوصف الوظيفي للرئيس التنفيذي بمرور الوقت، وكذلك تتغير الشركة، سواء قمت ببيعها أم لا. هل أنت مستعد عاطفيا لهذا أيضا؟
 
-Are you OK with innovation taking a back seat to developing scalable, mature processes? Are you OK releasing control in day-to-day operations to managers, and then releasing control of the managers to your executive team? Are you OK wresting yourself out of Visual Studio, out of Adwords, off the website, off the live chat, out of the sales calls, trusting your managers and not being that sort of meddling micro-manager boss that you yourself hate? Are you OK shouldering the burden of the livelihoods of dozens or thousands of families rather than "pulling 90 hour weeks" to push some code out the door with a co-founder, which now seems easy in comparison?
+هل أنت موافق على أخذ الابتكار في المقعد الخلفي لتطوير عمليات ناضجة وقابلة للتطوير؟ هل أنت موافق على ترك السيطرة على العمليات اليومية للمديرين، ثم ترك السيطرة على المديرين لفريقك التنفيذي؟ هل أنت موافق على انتزاع نفسك من Visual Studio، وAdwords، وموقع الويب، والدردشة المباشرة، ومكالمات المبيعات، والثقة في مديريك وعدم كونك هذا النوع من رئيس المدير الجزئي المتدخل الذي تكرهه بنفسك؟ هل أنت موافق على تحمل عبء سبل عيش العشرات أو الآلاف من العائلات بدلاً من "سحب 90 ساعة أسبوعيًا" لدفع بعض التعليمات البرمجية خارج الباب مع أحد المؤسسين المشاركين، وهو الأمر الذي يبدو الآن سهلاً بالمقارنة؟
 
-The fact is, successful startups grow up. They grow into businesses and mature into sustainability, risk-avoidance, HR law, strategic planning, executive meetings, and all that. The founder-CEO is still steering the ship but [it's a different sort of ship](https://longform.asmartbear.com/emptiness/).
+والحقيقة هي أن الشركات الناشئة الناجحة تنمو. إنهم ينمون إلى أعمال تجارية وينضجون إلى الاستدامة، وتجنب المخاطر، وقانون الموارد البشرية، والتخطيط الاستراتيجي، والاجتماعات التنفيذية، وكل ذلك. لا يزال المؤسس والرئيس التنفيذي يدير السفينة ولكن [إنها نوع مختلف من السفينة](https://longform.asmartbear.com/emptiness/).
 
-What to do? I wish the answer weren't "it depends" or "every choice is a path of pain," but often that's what it is.
+ما يجب القيام به؟ أتمنى ألا تكون الإجابة "يعتمد الأمر" أو "كل خيار هو طريق للألم"، ولكن غالبًا ما يكون هذا هو الحال.
 
-In my case, it changed over time. At Smart Bear I didn't want to lead a huge company. I didn't want to relinquish Eclipse and my ability to check in code. I didn't want to manage managers or figure out what changes, strategies, hiring, products, marketing, and sales were needed to make $100M/year. So for me I sold at a good point: before I needed a C_O, but after the company was big enough to garner enough money to cross the [Freedom Line](https://longform.asmartbear.com/rich-vs-king-sold-company/).
+وفي حالتي، تغير الأمر مع مرور الوقت. في Smart Bear لم أرغب في قيادة شركة ضخمة. لم أرغب في التخلي عن Eclipse وقدرتي على التحقق من الكود. لم أكن أرغب في إدارة المديرين أو معرفة التغييرات والاستراتيجيات والتوظيف والمنتجات والتسويق والمبيعات اللازمة لتحقيق 100 مليون دولار سنويًا. بالنسبة لي، قمت بالبيع عند نقطة جيدة: قبل أن أحتاج إلى مدير تنفيذي، ولكن بعد أن أصبحت الشركة كبيرة بما يكفي لكسب ما يكفي من المال لعبور [خط الحرية](https://longform.asmartbear.com/rich-vs-king-sold-company/).
 
-Now at WP Engine, I have new ambitions and inclinations. I am now that CEO[^5] who manages managers, who sets vision and direction but not day to day operations, who [worries about company culture](https://wpengine.com/2012/11/creating-a-company-culture-that-thrills-customers-at-wp-engine/) but who doesn't have SSH access to all the servers, and who is driving towards a company with products and a market and a team which we believe can indeed generate $100M/year.[^6]
+الآن في WP Engine، لدي طموحات وميول جديدة. أنا الآن الرئيس التنفيذي[^5] الذي يدير المديرين، والذي يحدد الرؤية والتوجيه ولكن ليس العمليات اليومية، والذي [يشعر بالقلق بشأن ثقافة الشركة](https://wpengine.com/2012/11/creating-a-company-culture-that-thrills-customers-at-wp-engine/) ولكن ليس لديه وصول SSH إلى جميع الخوادم، والذي يتجه نحو شركة لديها منتجات وسوق وفريق نعتقد أنه قادر على ذلك بالفعل حقق 100 مليون دولار سنويًا.[^6]
 
-[^5]: Editor's note: Written in early 2013, later that year the wonderful Heather Brunner joined as our CEO, still leading the company 10 years later, as what I've [since called](https://longform.asmartbear.com/fulfillment/) a "late-joining founder."
+[^5]: ملاحظة المحرر: كتبت في أوائل عام 2013، في وقت لاحق من ذلك العام، انضمت هيذر برونر الرائعة كرئيسة تنفيذية لدينا، ولا تزال تقود الشركة بعد 10 سنوات، كما [أطلق عليها منذ ذلك الحين](https://longform.asmartbear.com/fulfillment/) "المؤسس المنضم متأخرًا".
 
-[^6]: Editor's note: It did, at hyper-growth velocity. Now, in 2023, our revenue is many times that figure.
+[^6]: ملاحظة المحرر: لقد حدث ذلك بسرعة نمو مفرطة. والآن، في عام 2023، ستتضاعف إيراداتنا عدة مرات هذا الرقم.
 
-That's exciting to me. This is my new challenge. I will always love writing code and getting a company from $0 to $1M/year.
+هذا مثير بالنسبة لي. هذا هو التحدي الجديد الذي أواجهه. سأحب دائمًا كتابة التعليمات البرمجية والحصول على شركة تتراوح قيمتها من 0 دولار إلى مليون دولار سنويًا.
 
-But, today, right now, for reasons unknown even to me, *this* is who I am.
+ولكن، اليوم، الآن، ولأسباب غير معروفة حتى بالنسبة لي، *هذا* هو أنا.
 
-> I went to find the pot of gold  
-> That's waiting where the rainbow ends.  
-> I searched and searched and searched and searched  
-> And searched and searched, and then...  
-> There it was, deep in the grass,  
-> Under an old and twisty bough.  
-> It's mine, it's mine, it's mine at last...  
-> What do I search for now?  
-> --Shel Silverstein, *Where the Sidewalk Ends*
+> ذهبت للعثور على وعاء من الذهب
+> هذا ينتظر حيث ينتهي قوس قزح.
+> لقد بحثت وبحثت وبحثت وبحثت
+> وبحثت وبحثت ثم...
+> كان هناك، في عمق العشب،
+> تحت غصن قديم وملتوي.
+> إنها لي، إنها لي، إنها لي أخيرًا..
+> ما الذي أبحث عنه الآن؟
+> --شيل سيلفرشتاين، *حيث ينتهي الرصيف*
 
 ---
 
-_Editor's note: I would later [develop a personal framework](https://longform.asmartbear.com/fulfillment/) for avoiding burn-out and staying with the company for the long haul. That story and system might help you if you're struggling with this now!_
+_ملاحظة المحرر: سأقوم لاحقًا [بتطوير إطار عمل شخصي](https://longform.asmartbear.com/fulfillment/) لتجنب الإرهاق والبقاء مع الشركة لفترة طويلة. That story and system might help you if you're struggling with this now!_

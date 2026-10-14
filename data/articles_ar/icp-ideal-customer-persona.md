@@ -20,76 +20,63 @@ summary_ar: "Targeting your \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** البيع لكارول: لماذا يجلب استهداف العميل المثالي (ICP) عملاء أكثر بـ 10 أضعاف تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Selling to Carol: Why targeting an ICP brings 10x more customers than you expected
-
-> **Executive Summary:** Targeting your "Ideal Customer Profile" (ICP) is the best way to differentiate and win sales, but does it limit your target market?
-> **Original URL:** [https://longform.asmartbear.com/icp-ideal-customer-persona/](https://longform.asmartbear.com/icp-ideal-customer-persona/)
-
 ![its not that i dont like you ted you just dont fit my target demographic](https://public.asmartbear.com/books/anthology/chapters/icp-ideal-customer-persona/d0106print-2-simple.png)
 
-## Selling to everyone means selling to no one
+## البيع للجميع يعني البيع لأحد
 
-Everyone goes to your home page, therefore your home page has to speak to everyone, right? Buyers, users, existing customers, curious explorers, all working at companies large and small.
+يذهب الجميع إلى صفحتك الرئيسية، وبالتالي يجب أن تتحدث صفحتك الرئيسية مع الجميع، أليس كذلك؟ المشترون والمستخدمون والعملاء الحاليون والمستكشفون الفضوليون، جميعهم يعملون في الشركات الكبيرة والصغيرة.
 
-Most companies approach this the wrong way, which is to speak to "everyone." The worry is, if you were to speak only to a narrow customer segment, everyone else feels excluded or confused, and will bounce off the home page and buy something else. So you end up with generic positioning statements like "The Power To Know." (Figure 1)
+تتعامل معظم الشركات مع هذا الأمر بطريقة خاطئة، وهي التحدث إلى "الجميع". ما يثير القلق هو أنه إذا كنت ستتحدث فقط إلى شريحة محدودة من العملاء، فسيشعر الجميع بالإقصاء أو الارتباك، وسيرتدون من الصفحة الرئيسية ويشترون شيئًا آخر. لذا ينتهي بك الأمر بعبارات تحديد المواقع العامة مثل "القدرة على المعرفة". (الشكل 1)
 
 ![SAS is The Power To Know®, but know what exactly?](https://public.asmartbear.com/books/anthology/chapters/icp-ideal-customer-persona/image-simple.png)
 
-SAS has trademarked "The Power To Know®" but I'm not sure why. Can you tell me what the product does? Who it's for? Did you read that entire paragraph? Surely not.
+لقد سجلت SAS علامة تجارية "The Power To Know®" ولكني لست متأكدًا من السبب. هل يمكن أن تخبرني ماذا يفعل المنتج؟ لمن هذا؟ هل قرأت تلك الفقرة بأكملها؟ بالتأكيد لا.
 
-Could anyone in the world--even their perfect, ideal, best customer (ICP: Ideal Customer Profile)--be intrigued and excited to learn more? If that ICP happened across the website, would they even _know_ they are the ideal customer?
+هل يمكن لأي شخص في العالم - حتى عميله المثالي والأفضل (ICP: ملف تعريف العميل المثالي) - أن يكون مفتونًا ومتحمسًا لمعرفة المزيد؟ إذا حدث برنامج المقارنات الدولية (ICP) عبر موقع الويب، فهل سيعرفون أنهم العميل المثالي؟
 
-The first step in disabusing yourself of this fluffy language is to see that by *not* speaking to a specific customer, you're saying _nothing_ to _everyone_ and thus _everyone_ will bounce off the home page, and never think of you again. (You didn't give them anything to think _about_.) If your ideal customer doesn't know you're selling to them, who will?
+الخطوة الأولى لتحرير نفسك من هذه اللغة الرقيقة هي أن ترى أنه من خلال عدم التحدث إلى عميل معين، فإنك لا تقول شيئًا للجميع، وبالتالي سوف يرتد الجميع من الصفحة الرئيسية، ولن يفكروا فيك أبدًا مرة أخرى. (لم تعطهم أي شيء يفكرون فيه.) إذا كان عميلك المثالي لا يعرف أنك تبيع له، فمن سيفعل ذلك؟
 
-By the way, The Penny Group also delivers "The Power To Know®," also trademarked (Figure 2). So much for defensible differentiation through trademarks.
+بالمناسبة، تقدم The Penny Group أيضًا "The Power To Know®"، والتي تحمل علامة تجارية أيضًا (الشكل 2). الكثير من التمايز الذي يمكن الدفاع عنه من خلال العلامات التجارية.
 
 ![So much power! So much knowing!](https://public.asmartbear.com/books/anthology/chapters/icp-ideal-customer-persona/image-2-simple.png)
 
-Generalized messaging has no power, no emotional connection, no interest, no information.
+الرسائل المعممة ليس لها قوة، ولا اتصال عاطفي، ولا اهتمام، ولا معلومات.
 
-Exactly the opposite of what you need from your advertising or home page.
+وهو عكس ما تحتاجه تمامًا من إعلانك أو صفحتك الرئيسية.
 
-The next step in disabusing yourself of this idea of "speaking to everyone" is to acknowledge that it is impossible to speak to everybody at once. You want software developers to know you have an extensible API, but you want the corporate buyers to know that your product [makes them more money](https://longform.asmartbear.com/more-value-not-save-money/). You want to look professional so that managers at large companies are comfortable trusting your company, but you don't want to so aloof that small company buyers see you as "too corporate" and can't relate. You want to highlight configurable workflows and reports that allow large customers to apply your tool to all their teams, but you want small customers to realize that you can turn all that off so things are simple and easy.
+الخطوة التالية لتحرير نفسك من فكرة "التحدث إلى الجميع" هي الاعتراف بأنه من المستحيل التحدث إلى الجميع في وقت واحد. تريد أن يعرف مطورو البرامج أن لديك واجهة برمجة تطبيقات قابلة للتوسيع، ولكنك تريد أن يعرف المشترون من الشركات أن منتجك [يحقق لهم المزيد من المال](https://longform.asmartbear.com/more-value-not-save-money/). أنت تريد أن تبدو محترفًا حتى يشعر المديرون في الشركات الكبيرة بالارتياح عند ثقتهم بشركتك، ولكنك لا تريد أن تكون منعزلًا جدًا بحيث يرى مشترو الشركات الصغيرة أنك "شركة أكثر من اللازم" ولا يمكنهم التواصل. أنت تريد تسليط الضوء على سير العمل والتقارير القابلة للتكوين والتي تسمح للعملاء الكبار بتطبيق أداتك على جميع فرقهم، ولكنك تريد أن يدرك العملاء الصغار أنه يمكنك إيقاف تشغيل كل ذلك حتى تكون الأمور بسيطة وسهلة.
 
-Once you agree with these two points--you must be evocative and specific, and you can't speak to everyone--you must conclude that you have to speak to just one type of customer.
+بمجرد موافقتك على هاتين النقطتين - يجب أن تكون مثيرًا للذكريات ومحددًا، ولا يمكنك التحدث إلى الجميع - يجب أن تستنتج أنه يتعين عليك التحدث إلى نوع واحد فقط من العملاء.
 
-But how do you pick, and how you avoid excluding everyone else, reducing your target market to a tiny niche?
+ولكن كيف تختار، وكيف تتجنب استبعاد أي شخص آخر، مما يقلل السوق المستهدف إلى مكان صغير؟
 
-We'll start with the first question.
+سنبدأ بالسؤال الأول.
 
-## Selling to Carol
+## بيع لكارول
 
-Describe a perfect customer. We'll call her Carol. Pick a concrete company that she works for, a company similar to one of your existing, thrilled customers. What's her official title and what does she do? If your potential market includes a wide variety of company types and positions, *just pick one in particular*. Whatever problems your product solves, Carol has *all* those problems. She has all the problems, she knows she has the problems, she already has the budget to spend on those problems, and she's already looking for how to spend it, just like it says in [your market analysis](https://longform.asmartbear.com/problem/). Write those problems down from her point of view, the way she would describe them if complaining to a friend over lunch. Whatever [advantages you have over your competitors](https://longform.asmartbear.com/one-benefit/),[^1] Carol needs exactly those things. Whatever makes people love you,[^2] Carol has those attributes. Whatever makes people continue paying for the product forever,[^3] Carol has that. List all these things.[^4]
+وصف العميل المثالي. سوف نسميها كارول. اختر شركة ملموسة تعمل بها، شركة مشابهة لأحد عملائك الحاليين والمبتهجين. ما هو لقبها الرسمي وماذا تفعل؟ إذا كان السوق المحتمل الخاص بك يتضمن مجموعة واسعة من أنواع الشركات ومناصبها، *ما عليك سوى اختيار واحدة على وجه الخصوص*. مهما كانت المشاكل التي يحلها منتجك، فإن كارول تعاني من *كل* هذه المشاكل. لديها كل المشاكل، وهي تعلم أن لديها المشاكل، ولديها بالفعل الميزانية اللازمة للإنفاق على تلك المشاكل، وهي تبحث بالفعل عن كيفية إنفاقها، تمامًا كما هو مذكور في [تحليل السوق الخاص بك](https://longform.asmartbear.com/problem/). اكتب تلك المشكلات من وجهة نظرها، بالطريقة التي تصفها بها إذا اشتكت لصديق على الغداء. مهما كانت [المزايا التي تتمتع بها مقارنة بمنافسيك](https://longform.asmartbear.com/one-benefit/)،[^1] تحتاج كارول إلى هذه الأشياء بالضبط. أيًا كان ما يجعل الناس يحبونك،[^2] تتمتع كارول بهذه السمات. كل ما يجعل الناس يستمرون في دفع ثمن المنتج إلى الأبد،[^3] تمتلكه كارول. قم بإدراج كل هذه الأشياء.[^4]
 
-Carol is literally custom-built to be blown away by your product.
+تم تصميم كارول حرفيًا خصيصًا ليتم تفجيرها بواسطة منتجك.
 
-[^1]: Not sure? Ask your Sales team--they'll tell you, "oh yeah, any time someone says ______, I know we're going to close the sale."
+[^1]: لست متأكدا؟ اسأل فريق المبيعات الخاص بك - سيخبرونك، "أوه، نعم، في أي وقت يقول فيه شخص ما ______، أعلم أننا سنغلق عملية البيع."
 
-[^2]: Not sure? Ask your Support team--they'll tell you, "oh yeah, the best people are ______ because they ask great questions and they're always telling me how much they love us, even when they have a problem."
+[^2]: لست متأكدا؟ اسأل فريق الدعم الخاص بك--سيقولون لك، "أوه نعم، أفضل الأشخاص هم ______ لأنهم يطرحون أسئلة رائعة ويخبرونني دائمًا بمدى حبهم لنا، حتى عندما يواجهون مشكلة."
 
-[^3]: Not sure? Look at your retention data--which customers stay forever, even if you think they shouldn't? Not sure about that either? Use the [Iterative-Hypothesis method to interview them](https://longform.asmartbear.com/customer-development/)--you need to do that anyway so you can build great products.
+[^3]: لست متأكدا؟ انظر إلى بيانات الاحتفاظ الخاصة بك - أي العملاء سيبقون إلى الأبد، حتى لو كنت تعتقد أنه لا ينبغي عليهم ذلك؟ لست متأكدا من ذلك أيضا؟ استخدم [طريقة الفرضية التكرارية لإجراء مقابلات معهم](https://longform.asmartbear.com/customer-development/)--عليك القيام بذلك على أي حال حتى تتمكن من إنشاء منتجات رائعة.
 
-[^4]: Some pundits recommend inventing a personal back-story like "Carol has two cats and loves Mahler." Don't do that. It's irrelevant and inaccurate. Stick with professional attributes, what Carol is interested in, why she is interested in it, why she is looking for a new solution right now, how she makes those decisions, what her budget is, and so on, all topics listed in the aforementioned [Iterative-Hypothesis method](https://longform.asmartbear.com/customer-development/).
+[^4]: يوصي بعض النقاد باختراع قصة خلفية شخصية مثل "كارول لديها قطتان وتحب ماهلر." لا تفعل ذلك. انها غير ذات صلة وغير دقيقة. التزم بالسمات المهنية، وما تهتم به كارول، وسبب اهتمامها به، ولماذا تبحث عن حل جديد في الوقت الحالي، وكيف تتخذ تلك القرارات، وما هي ميزانيتها، وما إلى ذلك، كل المواضيع المدرجة في [طريقة الفرضية التكرارية] المذكورة أعلاه (https://longform.asmartbear.com/customer-development/).
 
-Now the question is: What would a web page / Google ad / print ad / trade-show booth / postcard be like, such that Carol would immediately understand that you are her savior? Remember, you get only 3 seconds to grab her attention and another 5-10 to convince her that your product is the second coming.
+والسؤال المطروح الآن هو: كيف ستكون صفحة الويب / إعلان Google / الإعلان المطبوع / كشك المعرض التجاري / البطاقة البريدية، بحيث تفهم كارول على الفور أنك منقذها؟ تذكر أنه لديك 3 ثوانٍ فقط لجذب انتباهها و5-10 ثوانٍ أخرى لإقناعها بأن منتجك هو المجيء الثاني.
 
-Can you make it clear in a picture? Maybe a before/after she can relate to? Will describing three features make it plain? Will pointing out your best competitive advantage make her weep for joy in finally finding a company who "gets it?" Can you ask a provocative question, something she identifies with? Is there a phrase where she'd laugh out loud because "that's so true?"
+هل يمكنك توضيح ذلك في الصورة؟ ربما قبل/بعد يمكن أن تتصل بها؟ هل وصف ثلاث ميزات سيجعل الأمر واضحًا؟ هل الإشارة إلى أفضل ميزة تنافسية لديك ستجعلها تبكي من الفرح عندما تجد أخيرًا شركة "تحصل عليها"؟ هل يمكنك طرح سؤال استفزازي، وهو شيء تتعرف عليه؟ هل هناك عبارة تضحك فيها بصوت عالٍ لأن "هذا صحيح جدًا؟"
 
-You only get a few seconds, so a paragraph won't do. You have to communicate in a picture and a few words. The good news is you have to please *only Carol*, and you know Carol. You even know she'll honestly be thrilled to find you.
+لديك بضع ثوانٍ فقط، لذا لن تكون الفقرة كافية. عليك التواصل بالصورة وبضع كلمات. الخبر السار هو أنه عليك إرضاء *كارول فقط*، وأنت تعرف كارول. أنت تعرف أيضًا أنها ستشعر بسعادة غامرة للعثور عليك.
 
-**If your ad can't grab Carol's attention--your perfect customer--why do you think it will grab anyone else's attention?**
+**إذا لم يتمكن إعلانك من جذب انتباه كارول - عميلك المثالي - فلماذا تعتقد أنه سيجذب انتباه أي شخص آخر؟**
 
-If you still say it's impossible to communicate your message in 5-10 seconds, *no one in the world will get your message*. Simplicity is as important in positioning as it is in [strategy generally](https://longform.asmartbear.com/great-strategy/).
+إذا كنت لا تزال تقول أنه من المستحيل توصيل رسالتك خلال 5 إلى 10 ثوانٍ، *لن يحصل أحد في العالم على رسالتك*. البساطة مهمة في تحديد المواقع كما هي في [الاستراتيجية عمومًا](https://longform.asmartbear.com/great-strategy/).
 
-When you're willing to speak only to your target audience, it is incredibly powerful (Figure 3) (Figure 4) (Figure 5) (Figure 6) (Figure 7).
+عندما تكون على استعداد للتحدث فقط إلى جمهورك المستهدف، يكون ذلك قويًا بشكل لا يصدق (الشكل 3) (الشكل 4) (الشكل 5) (الشكل 6) (الشكل 7).
 
 ![Twilio targets developers, even though the buyer isn't a developer. This campaign was so effective, it turned into an entire book.](https://public.asmartbear.com/books/anthology/chapters/icp-ideal-customer-persona/image-3-simple.png)
 
@@ -101,94 +88,92 @@ When you're willing to speak only to your target audience, it is incredibly powe
 
 ![Porsche's message is... differentiated from Subaru's.](https://public.asmartbear.com/books/anthology/chapters/icp-ideal-customer-persona/porsche-simple.png)
 
-## Surprise: You'll automatically sell far beyond Carol
+## المفاجأة: ستبيع تلقائيًا ما هو أبعد من كارول
 
-Now let's tackle the fear: That targeting Carol means you're excluding the rest of the market, and therefore limiting your growth and reach, even if you perform well in your niche.
+الآن دعونا نتعامل مع الخوف: إن استهداف كارول يعني أنك تستبعد بقية السوق، وبالتالي تحد من نموك ومدى وصولك، حتى لو كان أدائك جيدًا في مجال تخصصك.
 
-That's not what happens. Here's what actually happens:
+هذا ليس ما يحدث. وإليك ما يحدث في الواقع:
 
-You have a target market--the bullseye--and the center of that bullseye is Carol:
+لديك سوق مستهدف - نقطة الهدف - ومركز تلك النقطة هو كارول:
 
 ![Carol in the bullseye](https://public.asmartbear.com/books/anthology/chapters/icp-ideal-customer-persona/selling-to-carol-justcarol-simple.png)
 
-Every product has strengths and weaknesses. For Subaru:
+كل منتج لديه نقاط القوة والضعف. لسوبارو:
 
-| Strengths | Weaknesses |
-|:----|:----|
-| • Low-cost <br/> • Reliable <br/> • Safe *(top-rated by government)* <br/> • Rugged *(take it off-road)* | • Low performance <br/> • Not sporty <br/> • Not cool <br/> • Ugly |
+| نقاط القوة | نقاط الضعف | |:----|:----| | • منخفضة التكلفة <br/> • موثوقة <br/> • آمنة * (الأعلى تصنيفًا من قبل الحكومة)* <br/> • متينة *(خذها على الطرق الوعرة)* | • أداء منخفض <br/> • ليس رياضي <br/> • ليس رائعا <br/> • قبيح |
 
-Carol is constructed such that she values everything on the left, and actively does not want anything on the right. To her, those aren't weaknesses, those are actually strengths, because she wouldn't be caught dead in a Porsche, her lifestyle isn't sporty, and she disagrees with your definition of "cool" and "ugly." (Figure 9)
+تم بناء كارول بحيث تقدر كل شيء على اليسار، ولا تريد أي شيء على اليمين. بالنسبة لها، هذه ليست نقاط ضعف، إنها في الواقع نقاط قوة، لأنها لن يتم القبض عليها ميتة في سيارة بورش، وأسلوب حياتها ليس رياضيًا، وهي لا توافق على تعريفك لـ "رائع" و"قبيح". (الشكل 9)
 
 ![Carol's choices in the bullseye](https://public.asmartbear.com/books/anthology/chapters/icp-ideal-customer-persona/selling-to-carol-full1-simple.png)
 
-But Carol isn't the only person attracted to this set of trade-offs. There are other people who either like the things on the left or are at least indifferent to them, and are indifferent to the things on the right. For example: I drive my daughter to school, drive to work, and spend a lot of time on highways and residential roads, so I want something safe and reliable, and I don't care about high performance or being sporty.
+لكن كارول ليست الشخص الوحيد الذي ينجذب إلى هذه المجموعة من المقايضات. هناك أشخاص آخرون إما يحبون الأشياء الموجودة على اليسار أو على الأقل غير مبالين بها، وغير مبالين بالأشياء الموجودة على اليمين. على سبيل المثال: أقود ابنتي إلى المدرسة، وأقود سيارتي إلى العمل، وأقضي الكثير من الوقت على الطرق السريعة والطرق السكنية، لذلك أريد شيئًا آمنًا وموثوقًا، ولا يهمني الأداء العالي أو أن أكون رياضيًا.
 
-That's the next ring in the bullseye--people who generally value your positives and aren't dissuaded by the weaknesses. **There are 10x more of those people than there are of Carol.** Let's call that person Diana:
+هذه هي الحلقة التالية في نقطة الهدف - الأشخاص الذين يقدرون إيجابياتك بشكل عام ولا تثنيهم نقاط الضعف. **عدد هؤلاء الأشخاص أكبر بعشرة أضعاف من عدد كارول.** دعنا نسمي هذا الشخص ديانا:
 
 ![Diana's choices in the bullseye](https://public.asmartbear.com/books/anthology/chapters/icp-ideal-customer-persona/selling-to-carol-full2-simple.png)
 
-But that's not the end of it. Buying a car--like buying anything--involves a set of trade-offs. You rarely find a product that fits your preferences exactly; you're rarely a Carol (or even a Diana). So, you weigh the pros and cons. Maybe I don't care about the car being rugged because I don't go off-road, but I do care about safety and reliability, and I'm neutral on cost. And on the weaknesses, I'm disappointed that it's low-performance, and I do care what it looks like. But, I don't care about "sporty" or "cool" specifically.
+لكن هذا ليس نهاية الأمر. شراء سيارة - مثل شراء أي شيء - ينطوي على مجموعة من المقايضات. نادرًا ما تجد منتجًا يناسب تفضيلاتك تمامًا؛ نادرًا ما تكون كارول (أو حتى ديانا). لذلك، عليك أن تزن الإيجابيات والسلبيات. ربما لا أهتم بكون السيارة قوية لأنني لا أسير على الطرق الوعرة، لكني أهتم بالسلامة والموثوقية، وأنا محايد فيما يتعلق بالتكلفة. وفيما يتعلق بنقاط الضعف، أشعر بخيبة أمل لأن الأداء منخفض، وأنا أهتم بالشكل الذي يبدو عليه. لكنني لا أهتم بكلمة "رياضي" أو "رائع" على وجه التحديد.
 
-So where does that leave me? Who knows--everyone weighs these things differently. Clearly some of those people will still decide that Subaru is the best-possible set of trade-offs, and **there are 100x more of those kinds of people than there are of Diana** because this describes most people in the market. Let's suppose 1/10th of those eventually decide your trade-offs are superior to your competitors, so they pick you. Call them Eddie:
+إذن أين يتركني ذلك؟ من يدري--الجميع يزن هذه الأشياء بشكل مختلف. من الواضح أن بعض هؤلاء الأشخاص سيظلون يقررون أن سوبارو هي أفضل مجموعة ممكنة من المقايضات، و**عدد هؤلاء الأشخاص أكثر بـ 100 مرة من عدد ديانا** لأن هذا يصف معظم الأشخاص في السوق. لنفترض أن 1/10 من هؤلاء قرروا في النهاية أن مقايضاتك تتفوق على منافسيك، لذا اختاروك. اتصل بهم إيدي:
 
 ![Eddie's choices in the bullseye](https://public.asmartbear.com/books/anthology/chapters/icp-ideal-customer-persona/selling-to-carol-full3-2-simple.png)
 
-This is why, contrary to your fear that targeting Carol dramatically limits your target market, your effective target is actually at least 10x larger (because of Diana) and more like 20x-100x larger (because of Eddie).
+لهذا السبب، على عكس مخاوفك من أن استهداف كارول يحد بشكل كبير من السوق التي تستهدفها، فإن هدفك الفعال هو في الواقع أكبر بمقدار 10x على الأقل (بسبب ديانا) وأقرب إلى 20x-100x (بسبب Eddie).
 
-Targeting Carol makes your message clear, compelling, evocative, even emotional. But trade-offs are how people buy, and exactly because you were so clear about what those are, you've paved the road for many people to make that choice.
+إن استهداف كارول يجعل رسالتك واضحة، ومقنعة، ومثيرة للذكريات، وحتى عاطفية. لكن المقايضات هي الطريقة التي يشتري بها الناس، ولأنك كنت واضحًا جدًا بشأن ماهيتها، فقد مهدت الطريق للعديد من الأشخاص لاتخاذ هذا الاختيار.
 
-## Does this theory work in practice?
+## فهل تنجح هذه النظرية على أرض الواقع؟
 
-Continuing the Subaru example,[^5] the advertisements above are about being low-cost but practical. These are attributes valued by many people. But in the 1990s, sales were in decline, so they researched which consumer segments were most likely to buy a Subaru. They found five categories: Teachers, healthcare professionals, IT professionals, "outdoorsy types," and lesbians. Lesbians were the strongest category--four times more likely to buy.
+استمرارًا لمثال سوبارو، [^5] تدور الإعلانات المذكورة أعلاه حول كونها منخفضة التكلفة ولكنها عملية. هذه هي الصفات التي يقدرها كثير من الناس. ولكن في التسعينيات، كانت المبيعات في انخفاض، لذلك قاموا بالبحث عن شرائح المستهلكين التي من المرجح أن تشتري سيارة سوبارو. ووجدوا خمس فئات: المعلمون، ومتخصصو الرعاية الصحية، ومتخصصو تكنولوجيا المعلومات، و"الأشخاص الذين يمارسون الهواء الطلق"، والمثليات. وكانت المثليات الفئة الأقوى، حيث كان احتمال شرائها أكبر بأربع مرات.
 
-[^5]: This story is expanded and cross-referenced in [Alex Mayyasi's 2016 article in Pricenomics](https://priceonomics.com/how-an-ad-campaign-made-lesbians-fall-in-love-with/).
+[^5]: تم توسيع هذه القصة والإشارة إليها في [مقالة Alex Mayyasi لعام 2016 في Pricenomics](https://priceonomics.com/how-an-ad-campaign-made-lesbians-fall-in-love-with/).
 
-Targeting lesbians was a risky move in the '90s. There were still no mainstream TV shows or movies with gay characters, and celebrities were still in the closet. When Ellen DeGeneres (both a celebrity and star of a popular TV show) came out as gay in 1997, advertisers pulled out, including Chrysler. When Ikea ran a commercial featuring a gay couple, their stores received bomb threats.
+كان استهداف المثليات خطوة محفوفة بالمخاطر في التسعينيات. لم يكن هناك حتى الآن أي برامج تلفزيونية أو أفلام مع شخصيات مثلية، وكان المشاهير لا يزالون في الخزانة. عندما أعلنت إلين دي جينيريس (وهي نجمة مشهورة ونجمة في برنامج تلفزيوني شهير) عن كونها مثلية الجنس في عام 1997، انسحب المعلنون، ​​بما في ذلك شركة كرايسلر. عندما قامت شركة إيكيا بعرض إعلان تجاري يظهر زوجين مثليين، تلقت متاجرها تهديدات بوجود قنابل.
 
-But as Warren Buffett says, "Be greedy when others are fearful," and Subaru invested where others feared to tread (Figure 12) (Figure 13).
+ولكن كما يقول وارن بافيت، "كن جشعًا عندما يكون الآخرون خائفين"، واستثمرت سوبارو حيث يخشى الآخرون أن يخطوا (الشكل 12) (الشكل 13).
 
 ![Entirely comfortable with its orientation](https://public.asmartbear.com/books/anthology/chapters/icp-ideal-customer-persona/image-7-simple.png)
 
 ![It's not a choice. It's the way we're built](https://public.asmartbear.com/books/anthology/chapters/icp-ideal-customer-persona/image-8-simple.png)
 
-The campaigns were a hit, but not only with lesbians. Subaru grew faster in the subsequent ten years than any other car company,[^6] and while the gay and lesbian demographic remained their strongest niche, the vast majority of people who bought a Subaru were straight. And they were buying the car because they value its attributes--affordable, safe, rugged--and because on balance they cared more about those than the attributes it lacks--sleek, sporty, high performance.
+كانت الحملات ناجحة، ولكن ليس فقط مع المثليات. نمت سوبارو في السنوات العشر اللاحقة بشكل أسرع من أي شركة سيارات أخرى،[^6] وبينما ظلت مجموعة المثليين والمثليات الديموغرافية هي أقوى مكان لهم، فإن الغالبية العظمى من الأشخاص الذين اشتروا سيارة سوبارو كانوا مستقيمين. وكانوا يشترون السيارة لأنهم يقدرون سماتها - بأسعار معقولة، وآمنة، وقوية - ولأنهم اهتموا بهذه الخصائص أكثر من السمات التي تفتقر إليها - مثل الأداء الأنيق والرياضي والعالي.
 
-When you target Carol, your positioning is strongest, and you win where you deserve to win. But far more people will buy because they have similar purchasing preferences.
+عندما تستهدف كارول، يكون تمركزك أقوى، وتفوز حيث تستحق الفوز. لكن عددًا أكبر بكثير من الأشخاص سيشترون لأن لديهم تفضيلات شراء مماثلة.
 
-[^6]: Measured as a percentage of [total sales volume](https://knoema.com/infographics/floslle/top-vehicle-manufacturers-in-the-us-market-1961-2016) from 1995 to 2005, of car companies that were founded before 1990.
+[^6]: تم قياسه كنسبة مئوية من [إجمالي حجم المبيعات](https://knoema.com/infographics/floslle/top-vehicle-manufacturers-in-the-us-market-1961-2016) من عام 1995 إلى عام 2005، لشركات السيارات التي تأسست قبل عام 1990.
 
-## Finding Carol in the noise
+## العثور على كارول في الضوضاء
 
-When a customer cancels, we need find out why--what did they think would happen, and how did we fail them? Unless the customer stopped their project or went out of business, [cancellation indicates a gap](https://longform.asmartbear.com/product-market-fit-formula/) between what we promised them (marketing) and what we delivered (product).
+عندما يقوم أحد العملاء بإلغاء الحجز، نحتاج إلى معرفة السبب - ما الذي اعتقدوا أنه سيحدث، وكيف خذلناهم؟ ما لم يوقف العميل مشروعه أو توقف عن العمل، [يشير الإلغاء إلى وجود فجوة](https://longform.asmartbear.com/product-market-fit-formula/) بين ما وعدناهم به (التسويق) وما قدمناه (المنتج).
 
-This investigation is most urgent when the customer is Carol. You stipulated she is the perfect customer, but she disagrees. Perhaps the product needs to change, but perhaps your definition of Carol needs to change to better match what the product has turned out to be or what [you are uniquely excellent at delivering](https://longform.asmartbear.com/leverage/), or some other facet of [your strategy](https://longform.asmartbear.com/great-strategy/).
+يكون هذا التحقيق أكثر إلحاحًا عندما يكون العميل هو كارول. لقد ذكرت أنها العميل المثالي، لكنها لا توافق على ذلك. ربما يحتاج المنتج إلى التغيير، ولكن ربما يحتاج تعريفك لـ Carol إلى التغيير ليتوافق بشكل أفضل مع ما أصبح عليه المنتج أو ما [أنت ممتاز بشكل فريد في تقديمه](https://longform.asmartbear.com/leverage/)، أو بعض الجوانب الأخرى من [استراتيجيتك](https://longform.asmartbear.com/great-strategy/).
 
-The same could be said Diana, but when it comes to Eddie it's less clear whether this is signal or noise. Eddie is a mismatch for some of our attributes, and might cancel as a result, but that doesn't mean we should change those attributes, if they align with Carol and Diana. If we treat all customers as if they are Carol, and therefore all cancellation data as a vital signal, we lose track of building for Carol and we end up building for nobody.
+يمكن قول الشيء نفسه عن ديانا، ولكن عندما يتعلق الأمر بإيدي، فمن غير الواضح ما إذا كانت هذه إشارة أم ضوضاء. Eddie غير متطابق مع بعض سماتنا، وقد يتم إلغاؤه نتيجة لذلك، لكن هذا لا يعني أنه يجب علينا تغيير تلك السمات، إذا كانت تتماشى مع Carol وDiana. إذا تعاملنا مع جميع العملاء كما لو كانوا كارول، وبالتالي جميع بيانات الإلغاء كإشارة حيوية، فإننا نفقد مسار البناء لكارول وينتهي بنا الأمر بالبناء من أجل لا أحد.
 
-Some customers aren't even Eddie--they're not on the bullseye, yet they signed up. You might think this would be rare, since it is irrational, but in fact it will happen all the time. You need to identify these customers and completely ignore their data--the noise will push you off course.
+بعض العملاء ليسوا حتى Eddie، فهم ليسوا في مركز الهدف، ومع ذلك قاموا بالتسجيل. قد تظن أن هذا أمر نادر، لأنه غير عقلاني، لكنه في الواقع سيحدث طوال الوقت. يتعين عليك تحديد هؤلاء العملاء وتجاهل بياناتهم تمامًا، فالضوضاء ستدفعك بعيدًا عن المسار.
 
 ![Daniel Zarick explaining on Twitter that he rejected a sale for $48,000 because it wasn't their ICP](https://public.asmartbear.com/books/anthology/chapters/icp-ideal-customer-persona/image-9-simple.png)
 
-Therefore, you need a way of identifying who is a Carol. Ideally, right from the start, during on-boarding, maybe with a few questions, maybe based on activity indicating they're in that perfect zone. Then, you can measure cancellation rates of Carol (the only rate you care about), and spend extra time finding out why they cancel. The "extra time" comes from the time you saved by not pursuing and interviewing other customers.
+لذلك، أنت بحاجة إلى وسيلة لتحديد من هو كارول. من الناحية المثالية، منذ البداية، أثناء الصعود، ربما مع بعض الأسئلة، ربما بناءً على النشاط الذي يشير إلى أنهم في تلك المنطقة المثالية. بعد ذلك، يمكنك قياس معدلات إلغاء Carol (السعر الوحيد الذي يهمك)، وقضاء وقت إضافي في معرفة سبب الإلغاء. يأتي "الوقت الإضافي" من الوقت الذي وفرته من خلال عدم متابعة العملاء الآخرين وإجراء مقابلات معهم.
 
-## Prioritizing Carol over revenue
+## إعطاء الأولوية لكارول على الإيرادات
 
-Of course it's not just in cancellations that you want to segment the ICPs from the rest of the customers. It's in your activation funnel. It's in your trial or freemium conversion rate. It's in individual feature usage. It's in conversion to monthly active users (meaning a single user actually using it consistently month over month). It's in tech-support requests both for bug fixes and features. It's in every aspect of understanding how customers are intersecting with our product and company. It's always about the Carols; everything else is noise, and if you don't separate the two, you can't build the best product, for any definition of "best."
+بالطبع، ليس فقط في عمليات الإلغاء التي تريد فيها تقسيم ICPs عن بقية العملاء. إنه موجود في مسار التنشيط الخاص بك. إنه موجود في النسخة التجريبية أو معدل التحويل المجاني. إنه في استخدام الميزة الفردية. إنه تحويل إلى مستخدمين نشطين شهريًا (مما يعني أن مستخدمًا واحدًا يستخدمه فعليًا باستمرار شهرًا بعد شهر). إنه موجود في طلبات الدعم الفني لإصلاح الأخطاء والميزات. إنه في كل جانب من جوانب فهم كيفية تقاطع العملاء مع منتجنا وشركتنا. يتعلق الأمر دائمًا بآل كارولز. كل شيء آخر هو ضجيج، وإذا لم تفصل بين الاثنين، فلن تتمكن من بناء أفضل منتج، لأي تعريف لـ "الأفضل".
 
-The typical failure mode for this is that your biggest customer, who you desperately want to keep because you really want that revenue, occupies you constantly in tech support and in feature requests, some of which you've implemented just for them, with the internal excuse that "if they want it, other larger customers probably will want it, so this is a path of growth," yet they're still perennially unhappy, unsatisfied, obviously a bad fit, an anti-Carol, but dangit you _need_ that money and if we can _just_ make this work there _must_ be more customers like that coming.
+وضع الفشل النموذجي لذلك هو أن عميلك الأكبر، الذي ترغب بشدة في الاحتفاظ به لأنك تريد حقًا تلك الإيرادات، يشغلك باستمرار في الدعم الفني وفي طلبات الميزات، والتي قمت بتنفيذ بعضها من أجلهم فقط، مع العذر الداخلي القائل "إذا أرادوا ذلك، فمن المحتمل أن يرغب العملاء الآخرون الأكبر في ذلك، لذلك هذا هو طريق النمو"، ومع ذلك فهم ما زالوا غير سعداء دائمًا، وغير راضين، ومن الواضح أنهم غير مناسبين، ومعارضين لكارول، ولكنك بحاجة إلى الشجاعة. هذا المال وإذا استطعنا _فقط_ إنجاح هذا الأمر، فيجب أن يكون هناك المزيد من العملاء مثل هذا في المستقبل.
 
-And after all that, of course they leave in a huff, having been incredibly unprofitable despite their high nominal revenue, and you *should* turn around and say, "Wait a minute, that customer was not in our bullseye all along." Rather than noticing that from the start, and helping them to leave your company, you clung to them because you so desperately wanted it to work, and for good reason--it was a lot of money--but ultimately that wasn't the right reason, and the whole thing was an enormous waste of time. You could have been finding and on-boarding a few more Carols instead, and they would still be here, happily paying you money, profitably.
+وبعد كل ذلك، بالطبع يغادرون في حالة من الغضب، بعد أن كانوا غير مربحين بشكل لا يصدق على الرغم من إيراداتهم الاسمية المرتفعة، ويجب عليك *أن تستدير وتقول، "انتظر لحظة، لم يكن هذا العميل في مركز اهتمامنا طوال الوقت." بدلاً من ملاحظة ذلك منذ البداية، ومساعدتهم على ترك شركتك، تمسكت بهم لأنك كنت ترغب بشدة في نجاحها، ولسبب وجيه - كان الأمر يتطلب الكثير من المال - ولكن في النهاية لم يكن هذا هو السبب الصحيح، وكان الأمر برمته مضيعة هائلة للوقت. كان من الممكن العثور على عدد قليل من كارولز وضمهم بدلاً من ذلك، وسيظلون هنا، ويدفعون لك المال بسعادة، وبشكل مربح.
 
-You'll know that you're doing this right when you turn down a sale, even though it would have been your largest customer, simply because they're not your ICP, as in these miniature stories from [Daniel Zarick at ArrowsHQ](https://twitter.com/DanielZarick/status/1743010670763782204) and [John Doherty at EditorNinja](https://twitter.com/dohertyjf/status/1742739614031323572). **This separates first-time founders from seasoned founders**. It's not a coincidence that both Daniel and John have seen this movie before, made this mistake before, and are avoiding it this time.
+ستعرف أنك تفعل هذا بشكل صحيح عندما ترفض عملية بيع، على الرغم من أنه كان من الممكن أن يكون أكبر عميل لديك، وذلك ببساطة لأنه ليس برنامج المقارنات الدولية الخاص بك، كما في هذه القصص المصغرة من [دانيال زاريك في ArrowsHQ](https://twitter.com/DanielZarick/status/1743010670763782204) و[جون دوهرتي في EditorNinja](https://twitter.com/dohertyjf/status/1742739614031323572). **هذا يفصل بين المؤسسين لأول مرة والمؤسسين المتمرسين**. ليس من قبيل الصدفة أن دانيال وجون شاهدا هذا الفيلم من قبل، وارتكبا هذا الخطأ من قبل، ويتجنبانه هذه المرة.
 
-Can you?
+هل تستطيع؟
 
-After all this, if you reread that ad from SAS with The Power To Know®, you'll die a little inside. So much nothing. Nothing to say, said to no one, caring about nothing, changing nothing, being nothing.
+بعد كل هذا، إذا قمت بإعادة قراءة هذا الإعلان من SAS مع القدرة على المعرفة®، فسوف تموت قليلاً في داخلك. لا شيء كثيرا. لا شيء يقال، لا يقال لأحد، لا يهتم بشيء، لا يغير شيئًا، لا شيء.
 
-You can do better.
+يمكنك أن تفعل ما هو أفضل.
 
-And make more money doing it.
+وكسب المزيد من المال للقيام بذلك.
 
 ---
 
-*Many thanks to [Florian Caeser](https://twitter.com/FlorianCaesar) for contributing insights to early drafts.*
+*شكرًا جزيلا لـ [فلوريان قيصر] (https://twitter.com/FlorianCaesar) لمساهمته بالأفكار في المسودات المبكرة.*

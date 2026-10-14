@@ -20,47 +20,34 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** تفنيـد: الاستحواذ على الشركة ليس دائماً دليلاً على الفشل تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Refutation: An acquisition is always a failure
-
-> **Executive Summary:** Independent or acquired, companies always evolve, and not always for the better. Smart exits can create opportunities for everyone involved.
-> **Original URL:** [https://longform.asmartbear.com/acquisition-failure/](https://longform.asmartbear.com/acquisition-failure/)
-
 ![I've been hurt in mergers before](https://public.asmartbear.com/books/anthology/chapters/acquisition-failure/d2802print-simple.png)
 
-Oh how the media loves superlatives (but only because that's what we click on and share).
+أوه، كيف تحب وسائل الإعلام صيغ التفضيل (ولكن فقط لأن هذا هو ما ننقر عليه ونشاركه).
 
-Jake Lodwick [wrote an article](https://pando.com/2013/04/02/an-acquisition-is-always-a-failure/) on PandoDaily entitled **"An acquisition is always a failure."** He explains:
+جيك لودويك [كتب مقالًا](https://pando.com/2013/04/02/an-acquisition-is-always-a-failure/) على PandoDaily بعنوان **"عملية الاستحواذ دائمًا ما تكون فاشلة."** ويوضح:
 
-> Either the founders failed to achieve their goal, or--far likelier--they failed to dream big enough. The proper ambition for a tech entrepreneur should be to join the ranks of the great tech companies, or, at least, to create a profitable, independent company beloved by employees, customers, and shareholders.
+> إما أن المؤسسين فشلوا في تحقيق هدفهم، أو - وهو الأرجح بكثير - فشلوا في تحقيق أحلام كبيرة بما فيه الكفاية. يجب أن يكون الطموح المناسب لرائد الأعمال في مجال التكنولوجيا هو الانضمام إلى صفوف شركات التكنولوجيا الكبرى، أو على الأقل إنشاء شركة مستقلة مربحة ومحبوبة من قبل الموظفين والعملاء والمساهمين.
 
-On his startup's sale to a larger company, he then laments that the "youthful energy that created so much value was siphoned off."
+وفيما يتعلق ببيع شركته الناشئة إلى شركة أكبر، أعرب بعد ذلك عن أسفه لأن "طاقة الشباب التي خلقت الكثير من القيمة قد تم استنزافها".
 
-These are common sentiments, but they're the false wisdom of those who haven't experienced the alternative. It's classic founder naïveté to think that "youthful energy" would have been maintained had the company remained independent.
+هذه مشاعر شائعة، لكنها الحكمة الزائفة لأولئك الذين لم يجربوا البديل. من السذاجة الكلاسيكية للمؤسس أن يعتقد أنه كان من الممكن الحفاظ على "طاقة الشباب" لو ظلت الشركة مستقلة.
 
-Companies are constantly changing. Cool ones cease being cool, new products cease being new, the slow-growing startup with a terrific idea is eclipsed by the faster-growing one with weaker ideas, the fast-growing startup by definition [changes itself so quickly](https://longform.asmartbear.com/emptiness/) that year-over-year it's unrecognizable to those inside it.
+الشركات تتغير باستمرار. تتوقف المنتجات الرائعة عن كونها رائعة، وتتوقف المنتجات الجديدة عن أن تكون جديدة، وتطغى الشركة الناشئة بطيئة النمو ذات الفكرة الرائعة على الشركة الناشئة الأسرع نموًا ذات الأفكار الأضعف، والشركة الناشئة سريعة النمو بحكم التعريف [تغير نفسها بسرعة كبيرة] (https://longform.asmartbear.com/emptiness/) بحيث لا يمكن لمن بداخلها التعرف عليها عامًا بعد عام.
 
-WP Engine is one of those, and we laugh about how drastic the changes are, in the rare spaces between tackling the latest challenge. We have "youthful energy" for new innovations, but we also have all the challenges of fast-growing companies with hundreds of employees; that's part of success. A company won't be a band of six people doing whatever they want forever, whether you sell or stay independent.
+محرك WP هو واحد من هؤلاء، ونحن نضحك على مدى جذرية التغييرات، في الفترات النادرة بين مواجهة التحدي الأخير. لدينا "طاقة شبابية" للابتكارات الجديدة، ولكن لدينا أيضًا كل تحديات الشركات سريعة النمو التي تضم مئات الموظفين؛ هذا جزء من النجاح. لن تكون الشركة عبارة عن مجموعة من ستة أشخاص يفعلون ما يريدون إلى الأبد، سواء قمت بالبيع أو البقاء مستقلاً.
 
-It is the nature of things to change; expecting otherwise is foolish.
+إن طبيعة الأشياء هي أن تتغير؛ وتوقع خلاف ذلك هو حماقة.
 
-The other fallacy of the article is that his sale was a failure because the founder didn't like being an employee at a larger company. More likely, the [typical postpartum depression that naturally follows even the most successful of exits](https://longform.asmartbear.com/identity-selling-sadness/).
+المغالطة الأخرى في المقال هي أن عملية بيعه كانت فاشلة لأن المؤسس لم يكن يحب أن يكون موظفًا في شركة أكبر. على الأرجح، [اكتئاب ما بعد الولادة النموذجي الذي يتبع بشكل طبيعي حتى أكثر المخارج نجاحًا](https://longform.asmartbear.com/identity-sale-sadness/).
 
-But what about the other employees? Did all of them hate life too, or did they have new opportunities they didn't have previously, did they get better compensation and benefits, did they have peace of mind with greater job stability? Most people don't have a founder's temperament for independence and risk. What if those people *wanted* those jobs? What if more jobs are created, faster, due to the investment by the acquirer?
+ولكن ماذا عن الموظفين الآخرين؟ هل كلهم ​​كرهوا الحياة أيضًا، أم حصلوا على فرص جديدة لم تتاح لهم سابقًا، هل حصلوا على تعويضات ومزايا أفضل، هل حصلوا على راحة البال مع استقرار وظيفي أكبر؟ معظم الناس ليس لديهم مزاج المؤسس للاستقلال والمخاطرة. ماذا لو كان هؤلاء الأشخاص *أرادوا* تلك الوظائف؟ ماذا لو تم خلق المزيد من فرص العمل، بشكل أسرع، بسبب الاستثمار من قبل الشركة المستحوذة؟
 
-Sure not all acquisitions go that way. Sometimes the product is ruined, sometimes the culture is annihilated, sometimes jobs are destroyed, sometimes it's an unmitigated disaster.
+بالتأكيد ليست كل عمليات الاستحواذ تسير بهذه الطريقة. في بعض الأحيان يتم تدمير المنتج، وأحيانًا يتم تدمير الثقافة، وأحيانًا يتم تدمير الوظائف، وأحيانًا تكون كارثة تامة.
 
-Of course, all those things happen at independent companies too. People love quoting statistics about how most acquisitions are failures, but they forget to mention that most independent startups also fail, or at least cease over the span of time that we measure acquisitions.
+وبطبيعة الحال، كل هذه الأشياء تحدث في الشركات المستقلة أيضًا. يحب الناس الاستشهاد بإحصائيات حول مدى فشل معظم عمليات الاستحواذ، لكنهم ينسون أن يذكروا أن معظم الشركات الناشئة المستقلة تفشل أيضًا، أو على الأقل تتوقف خلال الفترة الزمنية التي نقيس فيها عمليات الاستحواذ.
 
-I know of quite a few acquisitions where nearly everyone stayed for years afterward, where it was the right thing to do in retrospect, where there were new opportunities for growth and enhancement because they were part of a larger company, and where all the employees made good money both in the acquisition event and in being well-compensated afterwards. In many of those cases the founders left ahead of others, and yes they went back to founder-y types of activity. That doesn't prove it wasn't the right choice at the time, both for them and their employees and products.
+أعرف عددًا لا بأس به من عمليات الاستحواذ حيث بقي الجميع تقريبًا لسنوات بعد ذلك، حيث كان الشيء الصحيح الذي يجب القيام به في الماضي، حيث كانت هناك فرص جديدة للنمو والتحسين لأنهم كانوا جزءًا من شركة أكبر، وحيث حصل جميع الموظفين على أموال جيدة سواء في حدث الاستحواذ أو في الحصول على تعويض جيد بعد ذلك. في العديد من تلك الحالات، ترك المؤسسون الشركة قبل الآخرين، ونعم، عادوا إلى أنواع الأنشطة التي اعتادوا عليها المؤسسين. وهذا لا يثبت أنه لم يكن الخيار الصحيح في ذلك الوقت، سواء بالنسبة لهم أو لموظفيهم أو منتجاتهم.
 
-Do you think Google's acquisition of DoubleClick or YouTube was really bad for everyone there? Or eBay's acquisition of PayPal? Or the hundreds of small companies who weren't "killing it" as much as their hype and Twitter feeds suggested, but who now are on solid teams with nice stock options in successful tech companies?
+هل تعتقد أن استحواذ Google على DoubleClick أو YouTube كان أمرًا سيئًا حقًا للجميع هناك؟ أو استحواذ eBay على PayPal؟ أو المئات من الشركات الصغيرة التي لم تكن "تقتلها" بالقدر الذي توحي به ضجيجها وموجزاتها على تويتر، ولكنها الآن تشكل فرقًا قوية مع خيارات أسهم جيدة في شركات التكنولوجيا الناجحة؟
 
-How about instead of superlative language, insulting everyone who makes the choice to join forces with a larger company while providing liquidity for employees who also took a risk, we ask "When is acquisition wise?" and "What are the conditions under which acquisitions are likely to be good for all parties?"
+ماذا عن بدلاً من اللغة التفضيلية، وإهانة كل من يختار الانضمام إلى شركة أكبر مع توفير السيولة للموظفين الذين خاطروا أيضًا، نسأل "متى يكون الاستحواذ حكيمًا؟" و"ما هي الظروف التي من المرجح أن تكون فيها عمليات الاستحواذ مفيدة لجميع الأطراف؟"

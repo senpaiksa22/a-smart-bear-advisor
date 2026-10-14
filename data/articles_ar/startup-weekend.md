@@ -20,54 +20,41 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** نصيحة لمشاريع عطلة نهاية الأسبوع: السر ليس في الكود البرمجي تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Startup Weekend pep talk: It ain't the code
-
-> **Executive Summary:** At Startup Weekend, it's not the code that wins, but identifying needs and crafting a clear pitch. Build a company, not just a website.
-> **Original URL:** [https://longform.asmartbear.com/startup-weekend/](https://longform.asmartbear.com/startup-weekend/)
-
-*This is a rough transcript of a talk I delivered recently at the start of Startup Weekend in Austin.*
+*هذا نص تقريبي لمحاضرة ألقيتها مؤخرًا في بداية Startup Weekend في أوستن.*
 
 ![Cartoon d44ebc26](https://longform.asmartbear.com/startup-weekend/d7b55c6e.png)
 
-> [Startup Weekend](http://startupweekend.org/) is a friendly competitive event in which teams of 3-5 build a startup from scratch over the course of a single intense weekend. It culminates with informal presentations to a panel of judges who declare a winner, but of course the competition is only an excuse to facilitate the true benefits: honing startup skills through experience, the thrill of pressure, and working side-by-side with other ambitious people instead of superficial "networking." Indeed, although most startups produced by Startup Weekend don't persist, frequently participants recombine weeks later to form real startups.
+> [Startup Weekend](http://startupweekend.org/) هو حدث تنافسي ودي تقوم فيه فرق مكونة من 3 إلى 5 أفراد ببناء شركة ناشئة من الصفر على مدار عطلة نهاية أسبوع واحدة مكثفة. وتبلغ ذروتها بعروض تقديمية غير رسمية أمام لجنة من الحكام الذين يعلنون الفائز، ولكن بالطبع المنافسة ليست سوى ذريعة لتسهيل الفوائد الحقيقية: صقل مهارات الشركات الناشئة من خلال الخبرة، وإثارة الضغط، والعمل جنبًا إلى جنب مع أشخاص طموحين آخرين بدلاً من "الشبكات" السطحية. في الواقع، على الرغم من أن معظم الشركات الناشئة التي تنتجها Startup Weekend لا تستمر، إلا أن المشاركين في كثير من الأحيان يعيدون تجميع أنفسهم بعد أسابيع لتشكيل شركات ناشئة حقيقية.
 
-**You have only 50 hours** to build an entire little functional company, so I'll be brief. But I'd like to share one piece of advice which I believe significantly increases your chance of walking away on Sunday with a real business.
+**أمامك 50 ساعة فقط** لإنشاء شركة صغيرة عاملة بالكامل، لذا سأختصر الأمر. لكني أود أن أشارككم نصيحة واحدة والتي أعتقد أنها تزيد بشكل كبير من فرصتك في الابتعاد يوم الأحد مع عمل حقيقي.
 
-Everyone here is a builder, a creator--whether a back-end programmer, a Linux hacker, a front-end producer, or a designer. You make stuff.
+كل شخص هنا هو منشئ، ومبدع - سواء كان مبرمجًا للواجهة الخلفية، أو متسللًا لنظام Linux، أو منتجًا للواجهة الأمامية، أو مصممًا. أنت تصنع الأشياء.
 
-That's great of course, because in a startup you either need to be making stuff or hauling in revenue--there's no room for managers and executives and strategists. But **this also produces a natural weakness**, and those who overcome this weakness over the next few days are most likely to win.
+هذا أمر رائع بالطبع، لأنه في الشركة الناشئة تحتاج إما إلى صنع الأشياء أو جني الإيرادات - فلا يوجد مكان للمديرين والمديرين التنفيذيين والاستراتيجيين. ولكن **هذا ينتج أيضًا ضعفًا طبيعيًا**، ومن المرجح أن يفوز أولئك الذين يتغلبون على هذا الضعف خلال الأيام القليلة القادمة.
 
-You and I know you can code an app and produce a simple clean home page. Everyone here can. So the quality or quantity of that creation will not be why your company succeeds.
+أنا وأنت نعلم أنه يمكنك برمجة تطبيق ما وإنشاء صفحة رئيسية بسيطة ونظيفة. يمكن للجميع هنا. لذا فإن جودة أو كمية هذا الإبداع لن تكون سبب نجاح شركتك.
 
-In fact, I was on the judging panel last time, and the tech and design had nothing to do with our decisions. Judges don't think "Which had the best algorithm" because this isn't a programming contest. Judges don't think "Which had the cleverest logo," because this isn't a design contest. **This is a startup contest**.
+في الواقع، كنت عضوًا في لجنة التحكيم المرة الماضية، ولم يكن للتكنولوجيا والتصميم أي علاقة بقراراتنا. لا يفكر الحكام في "أيهما لديه أفضل خوارزمية" لأن هذه ليست مسابقة برمجة. لا يفكر الحكام في "أيهما يحمل الشعار الأكثر ذكاءً،" لأن هذه ليست مسابقة تصميم. **هذه مسابقة للشركات الناشئة**.
 
-And this bigger than just Startup Weekend. Customers don't patronize companies on the basis of the difficulty of the code or the unit test coverage percentage or whether you used Bodoni instead of Times New Roman on the home page. In fact I've made millions of dollars on companies with [hideously ugly websites](https://longform.asmartbear.com/design/) and buggy code. Those things are actually not the most important things. **Real life is a startup contest too**.
+وهذا أكبر من مجرد Startup Weekend. لا يرعى العملاء الشركات على أساس صعوبة الكود أو نسبة تغطية اختبار الوحدة أو ما إذا كنت استخدمت Bodoni بدلاً من Times New Roman في الصفحة الرئيسية. في الواقع، لقد ربحت ملايين الدولارات من الشركات التي لديها [مواقع ويب قبيحة بشكل مخيف](https://longform.asmartbear.com/design/) وأكواد بها أخطاء. هذه الأشياء ليست في الواقع أهم الأشياء. **الحياة الحقيقية عبارة عن مسابقة للشركات الناشئة أيضًا**.
 
-So if these things--the raw materials and skills used in web-based startups--are necessary but insufficient, what *is* valuable? What will separate the companies this weekend? What are those things **outside your comfort zone which nevertheless are the things that will determine who wins**?
+لذا، إذا كانت هذه الأشياء - المواد الخام والمهارات المستخدمة في الشركات الناشئة على شبكة الإنترنت - ضرورية ولكنها غير كافية، فما هي القيمة؟ ما الذي سيفصل بين الشركات في نهاية هذا الأسبوع؟ ما هي تلك الأشياء **خارج منطقة الراحة الخاصة بك والتي مع ذلك هي الأشياء التي ستحدد من سيفوز**؟
 
-Here's just a few:
+إليك القليل منها:
 
-* **Sharpen your pitch**, achieving such clarity and brevity that any potential customer immediately understands that you're relevant to their pain and your product could very well solve it, and so that it's equally apparent to other intelligent people--like the judges or future investors. Your verbal pitch should be under 60 seconds; your home page should entice in three words and explain in under fifty. This is harder than it sounds because it forces you to make strong choices about what you're building and why and who cares and what they'll pay for it. It is these choices that are valuable; creating a brief pitch merely forces the issue.
-* **Get 5 strangers to give you feedback**, if not on a prototype then just an interview. Validate the pain, what's minimally needed to address the pain, and [what they'd pay for it](https://longform.asmartbear.com/customer-validation/). Even if they don't agree, even if you change your story each time, you'll learn what's critical and what you still need to resolve. A concept validated by five people is far more valuable than a working application that no one has critiqued.
-* **Construct a plausible business model.** Not a business *plan*, but rather a simple spreadsheet with pricing model, how money flows in and out during normal operation, customer acquisition cost, and therefore how many customers you'll need to break even on operating costs, and how many more to break even including human costs. It's surprisingly difficult to build a company where revenues outweigh costs of marketing, salaries, and operations, even at scale. If you prove yours can work, you're already ahead of the group.
-* **Produce evidence of potential customers** already looking for a solution to this problem (e.g. complaining on Twitter, asking on forums, musing on blogs, paying too much money for crappy alternatives). Too many companies build cool tools which no one particular wants. Evidence of searching and asking demonstrates not only need but suggests a way to reach those people.
+* **اصقل عرضك**، وحقق هذا الوضوح والإيجاز بحيث يفهم أي عميل محتمل على الفور أنك على صلة بمشكلته وأن منتجك يمكن أن يحلها جيدًا، بحيث يكون الأمر واضحًا بنفس القدر للأشخاص الأذكياء الآخرين - مثل الحكام أو المستثمرين المستقبليين. يجب أن تكون مدة خطابك أقل من 60 ثانية؛ يجب أن تكون صفحتك الرئيسية جذابة في ثلاث كلمات وتشرح في أقل من خمسين. هذا أصعب مما يبدو لأنه يجبرك على اتخاذ خيارات قوية بشأن ما تقوم ببنائه ولماذا ومن يهتم وماذا سيدفعون مقابل ذلك. هذه الاختيارات هي ذات قيمة؛ إن إنشاء عرض تقديمي قصير يؤدي فقط إلى فرض المشكلة.
+* **اطلب من 5 أشخاص غرباء تقديم تعليقاتك**، إذا لم يكن ذلك على نموذج أولي، فما عليك إلا إجراء مقابلة. التحقق من مدى الألم، والحد الأدنى المطلوب لمعالجة الألم، و[ما سيدفعونه مقابل ذلك](https://longform.asmartbear.com/customer-validation/). حتى لو لم يوافقوا، وحتى لو قمت بتغيير قصتك في كل مرة، فسوف تتعلم ما هو مهم وما لا يزال يتعين عليك حله. إن المفهوم الذي تم التحقق من صحته من قبل خمسة أشخاص هو أكثر قيمة بكثير من التطبيق العملي الذي لم ينتقده أحد.
+* **إنشاء نموذج عمل معقول.** ليست *خطة عمل*، ولكنها عبارة عن جدول بيانات بسيط يتضمن نموذج التسعير، وكيفية تدفق الأموال إلى الداخل والخارج أثناء التشغيل العادي، وتكلفة اكتساب العملاء، وبالتالي عدد العملاء الذين ستحتاجهم لتحقيق التعادل في تكاليف التشغيل، وعدد العملاء الآخرين لتحقيق التعادل بما في ذلك التكاليف البشرية. من الصعب بشكل مدهش بناء شركة تفوق إيراداتها تكاليف التسويق والرواتب والعمليات، حتى على نطاق واسع. إذا أثبتت أن فريقك قادر على النجاح، فأنت بالفعل متقدم على المجموعة.
+* **قدم دليلاً على العملاء المحتملين** الذين يبحثون بالفعل عن حل لهذه المشكلة (على سبيل المثال، تقديم شكوى على تويتر، والسؤال في المنتديات، والتفكير في المدونات، ودفع الكثير من المال مقابل بدائل سيئة). تقوم العديد من الشركات ببناء أدوات رائعة لا يريدها أحد. إن دليل البحث والسؤال لا يوضح الحاجة فحسب، بل يقترح طريقة للوصول إلى هؤلاء الأشخاص.
 
-**Your problem is**that since coding or design is what you like, what you're good at, what's fun, you'll be tempted to dive in and spend too much time inside TextMate and Photoshop.
+**مشكلتك هي** أنه بما أن البرمجة أو التصميم هو ما تحبه، وما تجيده، وما هو ممتع، فسوف تميل إلى الغوص وقضاء الكثير من الوقت داخل TextMate وPhotoshop.
 
-**But then you'll have built a curiosity**, a hobby, some trivial code and a typical website, yet another public repo on github and a free WordPress blog. Of course you can do that--all of you can--which means it doesn't help you with the judges. All that work doesn't make a *company*, it makes a *website*, and this weekend is about companies.
+**ولكن بعد ذلك ستكون قد اكتسبت فضولًا** وهواية وبعض الأكواد التافهة وموقعًا نموذجيًا على الويب، بالإضافة إلى مستودع عام آخر على github ومدونة WordPress مجانية. بالطبع يمكنكم فعل ذلك - كلكم تستطيعون - مما يعني أن ذلك لن يساعدك مع الحكام. كل هذا العمل لا يصنع *شركة*، بل يصنع *موقعًا إلكترونيًا*، وعطلة نهاية الأسبوع هذه تدور حول الشركات.
 
-If all you build this weekend is a landing page that describes what your company will do and asks for an email address to be notified when ready, and if you manage to get 50 emails, that is far more of a real company than a team who builds something that works but no one asked for it. Because if you can identify a *need*, all of you have the skills to meet that need. The opposite is not true--a website cannot generate people who are interested in it.
+إذا كان كل ما تقوم بإنشائه في نهاية هذا الأسبوع هو صفحة مقصودة تصف ما ستفعله شركتك وتطلب عنوان بريد إلكتروني ليتم إعلامك به عندما يكون جاهزًا، وإذا تمكنت من الحصول على 50 رسالة بريد إلكتروني، فهذه شركة حقيقية أكثر بكثير من كونها فريقًا يبني شيئًا ناجحًا ولكن لم يطلبه أحد. لأنه إذا تمكنت من تحديد *الحاجة*، فإن كل منكم لديه المهارات اللازمة لتلبية تلك الحاجة. والعكس ليس صحيحًا - فلا يمكن لموقع الويب أن يجذب الأشخاص المهتمين به.
 
-**So force yourself out of your comfort zone.** You'll also do coding and design and that's fine of course. But force yourself to do those other things that create a valuable business, because those who make substantial progress on even one or two of those points are the ones who will win this contest and are mostly likely to have in fact built a viable little company.
+** لذا أخرج نفسك من منطقة الراحة الخاصة بك. ** ستقوم أيضًا بالبرمجة والتصميم وهذا جيد بالطبع. لكن أجبر نفسك على القيام بالأشياء الأخرى التي تخلق عملاً تجاريًا ذا قيمة، لأن أولئك الذين يحققون تقدمًا كبيرًا حتى في واحدة أو اثنتين من هذه النقاط هم الذين سيفوزون في هذه المسابقة ومن المرجح في الغالب أن يكونوا قد قاموا في الواقع ببناء شركة صغيرة قابلة للحياة.
 
-This is a life-lesson that extends beyond Startup Weekend. You don't need more practice writing code or creating logos--you can do that any time. Why not take this opportunity to practice something you're *not* already expert at? Why not use this as a chance to grow and get better at other things which are equally important to the success of any startup?
+وهذا درس في الحياة يمتد إلى ما بعد Startup Weekend. لا تحتاج إلى المزيد من التدريب على كتابة التعليمات البرمجية أو إنشاء الشعارات - يمكنك القيام بذلك في أي وقت. لماذا لا تغتنم هذه الفرصة لممارسة شيء لست خبيرًا فيه بالفعل؟ لماذا لا تستخدم هذا كفرصة للنمو والتحسن في أشياء أخرى لا تقل أهمية لنجاح أي شركة ناشئة؟
 
-You can go back to building things for the sake of building things on Monday. This weekend, build a company.
+يمكنك العودة إلى بناء الأشياء من أجل بناء الأشياء يوم الاثنين. في نهاية هذا الأسبوع، قم ببناء شركة.

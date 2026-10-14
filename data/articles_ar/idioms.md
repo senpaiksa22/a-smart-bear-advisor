@@ -20,119 +20,105 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** المعنى الحقيقي الكامن وراء الأمثال والمصطلحات الشائعة في الأعمال تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The true meaning of common idioms
-
-> **Executive Summary:** Struggling to understand American business vernacular?  Here's a convenient reference.
-> **Original URL:** [https://longform.asmartbear.com/idioms/](https://longform.asmartbear.com/idioms/)
-
-Idioms are used by all creatures, not just humanoids, as I learned from [The Oatmeal](http://theoatmeal.com):
+يتم استخدام المصطلحات من قبل جميع المخلوقات، وليس فقط البشر، كما تعلمت من [The Oatmeal](http://theoatmeal.com):
 
 ![oatmeal dolphin comic](https://longform.asmartbear.com/idioms/7ec5c03d.png)
 
-Non-native speakers of English tell me that the basic rules of grammar aren't too hard to learn, but the idioms are murder.
+أخبرني المتحدثون باللغة الإنجليزية غير الأصليين أن القواعد الأساسية لقواعد اللغة ليست صعبة التعلم، ولكن التعابير قاتلة.
 
-*(Ok, not literally "murder," that's just an expression.... never mind.)*
+*(حسنًا، ليس "القتل" حرفيًا، بل هو مجرد تعبير.... لا يهم.)*
 
-**So to help all of us understand better understand American business vernacular** or, as our UK brethren like to say, the American bastardization of the rich, beautiful language you so unashamedly defiled, I've prepared the following chart.
+** لذا، ولمساعدتنا جميعًا على فهم لغة الأعمال الأمريكية العامية بشكل أفضل ** أو، كما يحب إخواننا في المملكة المتحدة أن يقولوا، الإهانة الأمريكية للغة الغنية والجميلة التي دنستها بلا خجل، فقد قمت بإعداد الرسم البياني التالي.
 
 ---
 
-**"Just kidding!"**
-*--No I'm not.*
+**"أنا فقط أمزح!"**
+*--لا لست كذلك.*
 
-**"To be perfectly honest with you, ..."**
-*--Everything I said before this moment was bullshit.*
+**"لأكون صادقًا معك تمامًا،..."**
+*--كل ما قلته قبل هذه اللحظة كان هراء.*
 
-**"The deal is in the bag."**
-*--I'm lighting a votive candle and sacrificing a goat. It couldn't hurt.*
+**"الصفقة في الحقيبة."**
+*--أنا أشعل شمعة نذرية وأضحي بماعز. لا يمكن أن تؤذي.*
 
-**"In the fullness of time."**
-*--Maybe later, but probably never.*
+**"في ملء الزمان."**
+*--ربما لاحقًا، ولكن ربما أبدًا.*
 
-**"It is and it isn't."**
-*--It isn't.*
+**"هو موجود وليس كذلك."**
+*--ليس كذلك.*
 
-**"Our company allows businesses to integrate, assemble and optimize available IT assets to drive business process productivity, delivering an innovative, enterprise-class business integration platform that incorporates proven integration technology with next generation capabilities into one interoperable set of tools that deliver a unique combination of efficiency, agility and control, combining industry leadership with a zealous commitment to customers to deliver tangible business value."**
-*--I have no idea what we do. Please give me money.*
+**"تسمح شركتنا للشركات بدمج وتجميع وتحسين أصول تكنولوجيا المعلومات المتاحة لدفع إنتاجية العمليات التجارية، وتقديم منصة مبتكرة لتكامل الأعمال على مستوى المؤسسات تتضمن تقنية تكامل مثبتة مع إمكانات الجيل التالي في مجموعة واحدة قابلة للتشغيل البيني من الأدوات التي توفر مزيجًا فريدًا من الكفاءة وخفة الحركة والتحكم، وتجمع بين الريادة في الصناعة والالتزام الحماسي تجاه العملاء لتقديم قيمة أعمال ملموسة."**
+*--ليس لدي أي فكرة عما نفعله. من فضلك أعطني المال.*
 
-**"It goes without saying that ..."**
-*--I'm about to say it.*
+**"وغني عن القول أن ..."**
+*--أنا على وشك أن أقول ذلك.*
 
-**"May be hazardous to your health."**
-*--Is unquestionably hazardous to your health.*
+**"قد يكون خطراً على صحتك."**
+*--يشكل خطراً على صحتك بلا شك.*
 
-**"It's not over 'till it's over."**
-*--It's over.*
+**"لم ينته الأمر حتى انتهى."**
+*--انتهى.*
 
-**"It's so hard finding good help."**
-*--I am a pompous ass.*
+**"من الصعب جدًا العثور على مساعدة جيدة."**
+*--أنا حمار أبهى.*
 
-**"Less is more."**
-*--This is a steaming pile of excrement. Less of a negative is a positive.*
+**"الأقل هو الأكثر."**
+*--هذه كومة من البراز يتصاعد منها البخار. أقل من السلبية هو إيجابي.
 
-**"We're a leading provider of ..."**
-*--I can't think of anything else to say, and the lawyers tell me I can't say "the" leading provider.*
+**"نحن الشركة الرائدة في توفير ..."**
+*--لا أستطيع التفكير في أي شيء آخر لأقوله، وأخبرني المحامون أنني لا أستطيع أن أقول "المزود الرائد".*
 
-**"Well bless your sweet little heart!"**
-*--You're stupid.*
+**"حسنًا يبارك قلبك الصغير الجميل!"**
+*--أنت غبي.*
 
-**"It's not personal, it's just business."**
-*--I hate you.  Personally.*
+**"الأمر ليس شخصيًا، إنه مجرد عمل."**
+*--أكرهك.  شخصيا.*
 
-**"It's not you, it's me."**
-*--...but you're not helping.*
+**"لست أنت بل أنا"**
+*--...ولكنك لا تساعد.*
 
-**"Congratulations again on being pregnant, what a wonderful journey you're about to embark on!"**
-*--I don't have kids.*
+**"تهانينا مرة أخرى على الحمل، يا لها من رحلة رائعة أنت على وشك الشروع فيها!"**
+*--ليس لدي أطفال.*
 
-**"Life starts at 40!"**
-*--I am at least 39 years old.*
+**"الحياة تبدأ في الأربعين!"**
+*--عمري 39 عامًا على الأقل.*
 
-**"We need to move the needle."** 
-*--I have no idea how to fix this.*
+**"نحن بحاجة إلى تحريك الإبرة."**
+*--ليس لدي أي فكرة عن كيفية إصلاح هذا.*
 
-**"That's a great question."**
-*--I have no clue how to answer that.*
+**"هذا سؤال عظيم."**
+*--ليس لدي أي فكرة عن كيفية الإجابة على ذلك.*
 
-**"It is what it is."**
-_--We screwed up and have no idea how to fix it.  <br/> --'Hope' ~is~ our strategy._
+**"هذا هو الأمر."** _--لقد أخطأنا وليس لدينا أي فكرة عن كيفية إصلاحه.  <br/>--"الأمل" هو إستراتيجيتنا._
 
-**"Duly noted."**
-*--Stop trying to convince me; I've already decided "no."*
+**"تم التنويه على النحو الواجب."**
+*--توقف عن محاولة إقناعي؛ لقد قررت بالفعل "لا".*
 
-**"We are cash flow positive."**
-*--We're not profitable, but the Ponzi scheme is working at the moment.*
+**"نحن التدفق النقدي إيجابي."**
+*--نحن لسنا مربحين، ولكن مخطط بونزي يعمل في الوقت الحالي.*
 
-**"Yes and no."**
-*--No.*
+**"نعم ولا."**
+*--لا.*
 
-**"Yes, but..."**
-*--No.*
+**"نعم ولكن..."**
+*--لا.*
 
-**"Maybe, and..."**
-*--No.*
+**"ربما و..."**
+*--لا.*
 
-**"Let's put a pin in that. We can circle back off-line."**
-*--We will never speak of this again.*
+**"دعونا نضع دبوسًا في ذلك. يمكننا الرجوع إلى وضع عدم الاتصال."**
+*--لن نتحدث عن هذا مرة أخرى.*
 
-**"Let's take a step back."**
-*--Everybody shut up and listen to me.*
+**"دعونا نرجع خطوة إلى الوراء."**
+*--الجميع يصمت ويستمع لي.*
 
-**"Let's not reinvent the wheel."**
-*--Copy what someone else did.*
+**"دعونا لا نعيد اختراع العجلة."**
+*--نسخ ما فعله شخص آخر.*
 
-**"We'll agree to disagree."**
-*--You are 100% wrong.*
+**"نحن نتفق على أن نختلف."**
+*--أنت مخطئ 100%.*
 
-**"I hear what you're saying."**
-*--You are 100% wrong.*
+**"أسمع ما تقولين."**
+*--أنت مخطئ 100%.*
 
-{{<acknowledgment>}}A few dozen were published in 2010; thanks to the following folks for contributing more during 2024: [Alexander Flenner](https://x.com/AlexanderF), [Alex Steshenko](https://www.linkedin.com/in/alexsteshenko/), [Dr. Cher Han Lau](https://www.linkedin.com/in/drhanlau/), [Christine McKee](https://www.linkedin.com/in/christinemckee/), [Hashim Warren](https://x.com/hashim_warren), [Mark Shust](https://x.com/MarkShust), [Rich Robinson](https://www.linkedin.com/in/richrobinson3/) {{</acknowledgment>}}
+{{<acknowledgment>}}تم نشر بضع عشرات منها في عام 2010؛ شكرًا للأشخاص التاليين لمساهمتهم بشكل أكبر خلال عام 2024: [ألكسندر فلينر](https://x.com/AlexanderF)، [أليكس ستيشينكو](https://www.linkedin.com/in/alexsteshenko/)، [د. شير هان لاو](https://www.linkedin.com/in/drhanlau/)، [كريستين ماكي](https://www.linkedin.com/in/christinemckee/)، [هاشم وارين](https://x.com/hashim_warren)، [مارك شوست](https://x.com/MarkShust)، [ريتش روبنسون](https://www.linkedin.com/in/richrobinson3/) {{</acknowledgment>}}

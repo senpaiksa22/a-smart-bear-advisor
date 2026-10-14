@@ -20,73 +20,60 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** عدم التماثل القاسي وجلد الذات المستمر لدى رواد الأعمال تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Intense Asymmetry and Self-Flagellation
-
-> **Executive Summary:** Erica Douglass sold her company for $1M, yet still struggles with self-worth; why driven people can't escape Impostor Syndrome.
-> **Original URL:** [https://longform.asmartbear.com/feelings-of-inadequacy/](https://longform.asmartbear.com/feelings-of-inadequacy/)
-
 ![only picture high definition shows are as bad as always](https://public.asmartbear.com/books/anthology/chapters/feelings-of-inadequacy/d5713print-simple.png)
 
-[Erica Douglass](https://www.erica.biz/) bootstrapped her company and sold it for a million dollars while her friends were switching majors for the third time or having their souls crushed at some entry-level job. She's successful by any definition.
+[إيريكا دوغلاس] (https://www.erica.biz/) أسست شركتها وباعتها بمليون دولار بينما كان أصدقاؤها يغيرون تخصصاتهم للمرة الثالثة أو تحطمت أرواحهم في بعض الوظائف المبتدئة. إنها ناجحة بكل معنى الكلمة.
 
-But a few short months of super-charging our marketing efforts at WP Engine was all it took for her to start [turning herself inside out](https://www.erica.biz/2012/the-nastiest-habit/) about her "lack of success," and by implication, lack of ability and self-worth:
+لكن بضعة أشهر قصيرة من تعزيز جهودنا التسويقية في WP Engine كانت كل ما يتطلبه الأمر لبدء [تحويل نفسها رأسًا على عقب](https://www.erica.biz/2012/the-nastiest-habit/) بشأن "افتقارها إلى النجاح"، وبالتالي، افتقارها إلى القدرة والقيمة الذاتية:
 
-> WP Engine is killing it right now. They're growing faster than my hosting company did. "Damn," I thought, "I must have really sucked at growing my business." And the downward spiral arrived, ready for me to step on.
+> محرك WP يقتله الآن. إنهم ينمون بشكل أسرع مما فعلت شركة الاستضافة الخاصة بي. "اللعنة،" فكرت، "لابد أنني كنت فاشلًا حقًا في تنمية أعمالي." ووصلت الدوامة الهبوطية، وأصبحت جاهزة لأتقدم عليها.
 
-**All driven people do this to themselves, and it has to stop.**
+**جميع الأشخاص المندفعين يفعلون ذلك بأنفسهم، ويجب أن يتوقفوا.**
 
-This is not about Erica; she's the example only because she has the strength and audacity to admit it online. **This is about you and me who beat ourselves up** with similar words.
+هذا لا يتعلق بإيريكا. إنها المثال فقط لأنها تمتلك القوة والجرأة للاعتراف بذلك عبر الإنترنت. ** هذا عنك وعني الذين نضرب أنفسنا ** بكلمات مماثلة.
 
-It's tempting to attack her definition of "success" which is apparently things like "growth rate" and "gross profit margin" as opposed to things like "happiness" or "fulfillment" or "loving the state of being alive." I could make this case--that her definition is wrong--and I'd be right, but it wouldn't help you, me, or Erica, because this is not an argument that type-A obsessive people respond to. Even when we know it's true intellectually, our emotions don't respond to that. If they did, economists would actually be right about everything.
+من المغري مهاجمة تعريفها لـ "النجاح" والذي يبدو أنه أشياء مثل "معدل النمو" و"هامش الربح الإجمالي" بدلاً من أشياء مثل "السعادة" أو "الإنجاز" أو "حب حالة الحياة". يمكنني أن أطرح هذه القضية -- أن تعريفها خاطئ -- وسأكون على حق، لكن ذلك لن يساعدك، أو يساعدني، أو إيريكا، لأن هذه ليست حجة يستجيب لها الأشخاص المهووسون من النوع "أ". وحتى عندما نعرف أن هذا صحيح فكريًا، فإن عواطفنا لا تستجيب لذلك. ولو فعلوا ذلك، لكان الاقتصاديون على حق في كل شيء.
 
-Better would be to point out her conveniently gerrymandered criteria, choosing to value "growth rate" while not valuing "monthly cash loss," or valuing "gross profit margin" while not valuing "percent ownership." In fact, you could credibly argue that she's *intentionally selecting* only those elements which will cause her to feel inadequate, ignoring those to the contrary. Which makes me believe **her "explanation" is a rationalization rather than a cause.** The job now is to find the true source.
+ومن الأفضل الإشارة إلى معاييرها التي تم التلاعب بها بشكل ملائم، واختيار تقييم "معدل النمو" مع عدم تقييم "الخسارة النقدية الشهرية"، أو تقييم "هامش الربح الإجمالي" مع عدم تقييم "النسبة المئوية للملكية". في الواقع، يمكنك أن تجادل بمصداقية بأنها *تختار عمدًا* فقط تلك العناصر التي ستجعلها تشعر بعدم الكفاءة، وتتجاهل تلك العناصر التي تشير إلى عكس ذلك. مما يجعلني أعتقد أن ** "تفسيرها" هو تبرير وليس سببًا. ** المهمة الآن هي العثور على المصدر الحقيقي.
 
-Well there *is* a source, well-known and backed by studies, called [Impostor Syndrome](https://longform.asmartbear.com/impostor-syndrome/). That link is an article from two years ago where I expose myself and others for having exactly this irrational failing.
+حسنًا، هناك *مصدر معروف ومدعوم بالدراسات يسمى [متلازمة المنتحل] (https://longform.asmartbear.com/impostor-syndrome/). هذا الرابط عبارة عن مقالة كتبتها منذ عامين حيث كشفت عن نفسي والآخرين بسبب هذا الفشل غير العقلاني.
 
-But maybe you're still not satisfied, because **this is *still* a bunch of touchy-feely bullshit**, and after all **there's nothing wrong with defining success by quantities of money and power** and the speed at which we accumulate them.
+ولكن ربما لا تزال غير راضٍ، لأن **هذا *لا يزال* مجموعة من الهراء الحساس**، وبعد كل شيء **ليس هناك خطأ في تعريف النجاح بكميات المال والقوة** والسرعة التي نجمعها بها.
 
-Except even if you use that definition of success, her (our!) perspective is *still* wrong, and not for the reason she gave in her article (which was about how hard other people work compared to her, which isn't true anyway because she works all the time too, as my inbox proves.)
+باستثناء أنه حتى لو كنت تستخدم هذا التعريف للنجاح، فإن وجهة نظرها (نحن!) لا تزال خاطئة، وليس للسبب الذي ذكرته في مقالتها (الذي كان يدور حول مدى صعوبة عمل الآخرين مقارنة بها، وهذا ليس صحيحًا على أي حال لأنها تعمل طوال الوقت أيضًا، كما يثبت بريدي الوارد).
 
-To see why, let's wind the clock back to 2002 when Erica started her hosting company, Simpli. And let's suppose I started WP Engine at the same time. (WordPress didn't yet exist in the form and glory it is today, so let's give my company a extra boost in this thought experiment and say that WordPress is around v2.5, circa 2008.)
+لمعرفة السبب، دعونا نعيد عقارب الساعة إلى عام 2002 عندما أنشأت إيريكا شركة الاستضافة الخاصة بها، Simpli. ولنفترض أنني بدأت تشغيل WP Engine في نفس الوقت. (لم يكن WordPress موجودًا بعد بالشكل والمجد الذي هو عليه اليوم، لذلك دعونا نمنح شركتي دفعة إضافية في هذه التجربة الفكرية ونقول أن WordPress موجود حول الإصدار 2.5، حوالي عام 2008.)
 
-**According to Erica's own criteria, let's see who wins.**
+**وفقًا لمعايير إيريكا الخاصة، دعونا نرى من سيفوز.**
 
-WordPress has impressive traction for an open-source tool, but it's orders of magnitude less prevalent than it is today, so I can't find customers in droves like we now do. And there isn't a well-organized panoply of world-wide WordCamps so it's hard to reach out to those potential customers. And I'm not a hardware geek like Erica, and "cloud hosting" hasn't been invented yet, so I have to build, configure, and maintain hardware, which means false-starts and legacy configurations and other expense and waste that Erica would never incur. And I'm in Austin, not San Jose, where there's 100x fewer customers I could land at meetups. And there's no Twitter or Facebook (or even a strong culture of blogging) to enable my few zealous fans to spread the word. And I didn't have several startup successes under my belt and moneyed contacts earned from blogging and speaking, so I can't raise money like we did. And high-tech-America was in post-bubble recession where companies were saving money everywhere they could, certainly not paying a premium for WordPress-specific hosting.
+يتمتع WordPress بقدرة جذب مذهلة كأداة مفتوحة المصدر، لكنه أقل انتشارًا من حيث الحجم مما هو عليه اليوم، لذلك لا يمكنني العثور على عملاء بأعداد كبيرة كما نفعل الآن. ولا توجد مجموعة منظمة بشكل جيد من WordCamps في جميع أنحاء العالم، لذلك من الصعب الوصول إلى هؤلاء العملاء المحتملين. وأنا لست مهووسًا بالأجهزة مثل إيريكا، ولم يتم اختراع "الاستضافة السحابية" بعد، لذلك يتعين علي إنشاء الأجهزة وتهيئتها وصيانتها، مما يعني بدايات خاطئة وتكوينات قديمة ونفقات وإهدار أخرى لن تتكبدها إيريكا أبدًا. وأنا في أوستن، وليس سان خوسيه، حيث يوجد عدد أقل من العملاء بنسبة 100 مرة في اللقاءات. ولا يوجد تويتر أو فيسبوك (أو حتى ثقافة التدوين القوية) لتمكين عدد قليل من المعجبين المتحمسين من نشر الكلمة. ولم يكن لدي العديد من النجاحات في الشركات الناشئة أو الاتصالات المالية التي اكتسبتها من التدوين والتحدث، لذلك لا أستطيع جمع الأموال كما فعلنا. وكانت أمريكا ذات التقنية العالية في حالة ركود ما بعد الفقاعة حيث كانت الشركات توفر المال في كل مكان تستطيع، وبالتأكيد لا تدفع علاوة مقابل الاستضافة الخاصة بـ WordPress.
 
-So it's clear how this would have gone down. Either a complete fail or, more likely, *painfully* slow growth, crawling along while taking the same amount of time as the day job I also had to hold down yet generating 1/10th the income, trying to make myself feel better by [erroneously claiming I'm profitable](https://longform.asmartbear.com/ramen-profitable/) and [erroneously claiming I have Product/Market Fit](https://longform.asmartbear.com/product-market-fit/), eventually realizing this is a cope, culminating in blog post about how inadequate I feel next to hosting companies like Erica's who bootstrapped to success with such apparent ease.
+لذلك فمن الواضح كيف كان من الممكن أن يحدث هذا. إما فشل كامل أو، على الأرجح، نمو بطيء *بشكل مؤلم*، والزحف على طول الطريق بينما أستغرق نفس القدر من الوقت الذي تستغرقه الوظيفة اليومية، وكان عليّ أيضًا الاستمرار فيه مع توليد 1/10 من الدخل، ومحاولة جعل نفسي أشعر بالتحسن من خلال [الادعاء خطأً بأنني أربح](https://longform.asmartbear.com/ramen-profitable/) و[الادعاء خطأً بأن لدي منتج/سوق Fit](https://longform.asmartbear.com/product-market-fit/)، أدركت في النهاية أن هذا هو التأقلم، وبلغت ذروتها في منشور بالمدونة حول مدى شعوري بعدم الكفاءة بجوار شركات الاستضافة مثل شركة Erica التي حققت النجاح بهذه السهولة الواضحة.
 
-**This is what physicists call a "time-asymmetry."**
+**وهذا ما يسميه الفيزيائيون "عدم التماثل الزمني".**
 
-A physical experiment conducted in one location will yield identical results if we move it to another location (provided we move all other influences and pieces along with it). Technically we say that "the laws of physics are symmetrical with respect to translation."
+إن التجربة الفيزيائية التي يتم إجراؤها في موقع واحد ستؤدي إلى نتائج متطابقة إذا نقلناها إلى موقع آخر (شريطة أن ننقل معها جميع التأثيرات والقطع الأخرى). ومن الناحية الفنية نقول إن "قوانين الفيزياء متناظرة فيما يتعلق بالترجمة".
 
-**This is more important than it first sounds**. Another symmetry is "constant linear motion"--an experiment in a train moving in a straight line at constant speed is indistinguishable from one done on a train station platform. It is *just* this fact, combined with the experimentally-determined mind-bending fact that light always appears to travel at the same speed regardless of the motion of the observer, that gives rise to Einstein's special relativity and explains all electrodynamic theory. This particular symmetry is responsible for half of modern physics!
+**هذا أكثر أهمية مما يبدو للوهلة الأولى**. التماثل الآخر هو "الحركة الخطية الثابتة" - لا يمكن تمييز تجربة قطار يتحرك في خط مستقيم بسرعة ثابتة عن تجربة تم إجراؤها على منصة محطة القطار. إنها هذه الحقيقة *فقط*، جنبًا إلى جنب مع الحقيقة المحيرة للعقل والتي تم تحديدها تجريبيًا وهي أن الضوء يبدو دائمًا أنه يتحرك بنفس السرعة بغض النظر عن حركة الراصد، هي التي أدت إلى ظهور النسبية الخاصة لأينشتاين وتشرح كل النظرية الكهروديناميكية. وهذا التناظر بالذات هو المسؤول عن نصف الفيزياء الحديثة!
 
-It's not always obvious where physics is and isn't symmetrical. For example, it *is* symmetrical if you rotate the experiment around a fixed angle, but it is *not* symmetrical if the experiment is being *continuously* rotated (because now there's a centrifugal force). It's almost symmetrical with respect to a mirror, but not quite!
+ليس من الواضح دائمًا أين تكون الفيزياء متناظرة أو غير متناظرة. على سبيل المثال، *تكون* متناظرة إذا قمت بتدوير التجربة حول زاوية ثابتة، ولكنها *غير* متماثلة إذا كانت التجربة يتم تدويرها *بشكل مستمر* (لأن هناك الآن قوة طرد مركزية). إنها متناظرة تقريبًا بالنسبة للمرآة، لكن ليس تمامًا!
 
-Well it's obvious **where two businesses are symmetrical: Nowhere!** The example above demonstrates how very asymmetrical businesses are in time. In fact they're asymmetrical in everything--location, the market they serve, the features they have, the founding team, their natural [talents and gaps](https://longform.asmartbear.com/pivot-points/), the investors (if any), the amount of money raised (if any), the number of social media followers and everything else. If there were symmetries--or anything even *close* to a symmetry--we could use that to predict success and failure, at least a little bit. Which even professional investors can only do a small fraction of the time--so infrequently in fact it's hard to conclude they "predicted" anything at all.
+حسنًا، من الواضح **حيث تكون شركتان متماثلتان: لا مكان!** يوضح المثال أعلاه مدى عدم تماثل الأعمال التجارية في الوقت المناسب. في الواقع، إنهم غير متماثلين في كل شيء - الموقع، والسوق الذي يخدمونه، والميزات التي يتمتعون بها، والفريق المؤسس، و[المواهب والفجوات] الطبيعية (https://longform.asmartbear.com/pivot-points/)، والمستثمرين (إن وجدوا)، ومبلغ الأموال التي تم جمعها (إن وجدت)، وعدد المتابعين على وسائل التواصل الاجتماعي وكل شيء آخر. إذا كان هناك تماثلات - أو أي شيء قريب من التماثل - فيمكننا استخدام ذلك للتنبؤ بالنجاح والفشل، على الأقل قليلاً. وهو ما لا يستطيع حتى المستثمرون المحترفون القيام به إلا لجزء صغير من الوقت - لذلك نادرًا ما يكون من الصعب استنتاج أنهم "توقعوا" أي شيء على الإطلاق.
 
-But **humans expect, seek, and even invent symmetry.** We crave and [seek similarities and patterns and connections](https://longform.asmartbear.com/pattern-seeking-fallacy/). We describe companies that way, e.g. "[We're Netflix for art](https://longform.asmartbear.com/high-concept-pitch/)"--implying a symmetry in target market (i.e. changing the market from videos to art but keeping the website structure, the pricing structure, the delivery structure, etc., ought to result in similar success).
+لكن ** البشر يتوقعون، ويسعون، بل ويخترعون التماثل. ** نحن نتوق و[نبحث عن أوجه التشابه والأنماط والاتصالات](https://longform.asmartbear.com/pattern-seeking-fallacy/). نحن نصف الشركات بهذه الطريقة، على سبيل المثال. "[نحن Netflix للفنون](https://longform.asmartbear.com/high-concept-pitch/)"--يعني ضمنًا التماثل في السوق المستهدفة (أي تغيير السوق من مقاطع الفيديو إلى الفن مع الحفاظ على بنية موقع الويب، وبنية التسعير، وبنية التسليم، وما إلى ذلك، يجب أن يؤدي إلى نجاح مماثل).
 
-This might be a pithy way to summarize a business, but in detail and execution and route to market and profit margins and opportunity and competition and technology and [leveraging your strengths while avoiding your weaknesses](https://longform.asmartbear.com/leverage/), and ... well, *everything* ... each company is a new challenge, with new variables, and [unpredictable](https://longform.asmartbear.com/predict-the-future/).
+قد تكون هذه طريقة بليغة لتلخيص عمل ما، ولكن بالتفصيل والتنفيذ والطريق إلى السوق وهوامش الربح والفرص والمنافسة والتكنولوجيا و[الاستفادة من نقاط قوتك مع تجنب نقاط ضعفك](https://longform.asmartbear.com/leverage/)، و... حسنًا، *كل شيء*... تمثل كل شركة تحديًا جديدًا، مع متغيرات جديدة، و [لا يمكن التنبؤ به](https://longform.asmartbear.com/predict-the-future/).
 
-It's healthy to use (apparent) symmetry to spark an idea, e.g. "That's a creative marketing campaign, maybe we could try something similar."
+من الصحي استخدام التناظر (الظاهري) لإثارة فكرة، على سبيل المثال. "إنها حملة تسويقية إبداعية، ربما يمكننا تجربة شيء مماثل."
 
-It's unhealthy to see symmetry where it doesn't exist, then build a straw man to fuel self-loathing. Like Erica. And me. And almost every "successful" person I know.
+من غير الصحي رؤية التماثل في مكان غير موجود ثم بناء رجل من القش لتغذية كراهية الذات. مثل إيريكا. وأنا. وتقريباً كل شخص "ناجح" أعرفه.
 
-Erica isn't special because she has misplaced feelings, she's special because she's willing to stand up and admit it in public, in order to help everyone suffering under the same delusion.
+إيريكا ليست مميزة لأن لديها مشاعر في غير محلها، إنها مميزة لأنها على استعداد للوقوف والاعتراف بذلك علنًا، من أجل مساعدة كل من يعاني من نفس الوهم.
 
-I *would* say "stop comparing yourself to others and just be as good as you can," but high-achievers like you and me could never accept that advice, even if it *is* wise, because we're physiologically incapable of not measuring ourselves by impossible yardsticks we invented and, because of Impostor Syndrome, **by definition we always come up short.**
+أود أن أقول "توقف عن مقارنة نفسك بالآخرين وكن جيدًا بقدر ما تستطيع،" لكن المتفوقين مثلي ومثلك لا يمكنهم أبدًا قبول هذه النصيحة، حتى لو كانت حكيمة، لأننا غير قادرين من الناحية الفسيولوجية على عدم قياس أنفسنا بمقاييس مستحيلة اخترعناها، وبسبب متلازمة المحتال، **بحكم التعريف، فإننا دائمًا ما نفشل.**
 
-Instead, how about this:
+بدلا من ذلك، ماذا عن هذا:
 
-Stop comparing yourself to something that is *objectively incomparable*.
+توقف عن مقارنة نفسك بشيء *لا يضاهى موضوعيًا*.
 
-That's just irrational.
+هذا مجرد غير عقلاني.

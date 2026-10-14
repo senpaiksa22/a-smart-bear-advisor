@@ -20,152 +20,139 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** العثور على الرضا والشغف الحقيقي في رحلة التأسيس تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Finding Fulfillment
-
-> **Executive Summary:** What creates a fulfilling existence? Exploration leads to a framework I've used for years for myself and the people around me. I hope it helps you too.
-> **Original URL:** [https://longform.asmartbear.com/fulfillment/](https://longform.asmartbear.com/fulfillment/)
-
 ![twelfth final thing you change right now be your true self](https://public.asmartbear.com/books/anthology/chapters/fulfillment/d7548print-simple.png)
 
-Many blogs, resulting in book deals, resulting in speaking careers, have been forged by taking a swing at a basic human question:
+العديد من المدونات، التي أدت إلى صفقات كتب، وأدت إلى وظائف في التحدث، تم صياغتها من خلال التأرجح في سؤال إنساني أساسي:
 
-*What creates a fulfilling existence?*
+*ما الذي يخلق وجودًا مُرضيًا؟*
 
-Managers desperately ask, forced by the Great Resignation to acknowledge that people are more mobile than expected when sufficiently (un)motivated.[^1] Enlightened leaders ask proactively, because intrinsically-motivated people do great work that is just as fulfilling for themselves as it is productive for the company--capitalism on its best day. Outwardly-impenetrable leaders ask it of themselves to conquer burn-out or to decide what to do with the balance of life that follows the societal definition of "success."
+المديرون يسألون بشدة، بعد أن أجبرتهم الاستقالة الكبرى على الاعتراف بأن الناس يصبحون أكثر قدرة على الحركة مما كان متوقعًا عندما يكون لديهم دوافع (غير) كافية.[^1] يسأل القادة المستنيرون بشكل استباقي، لأن الأشخاص الذين لديهم دوافع جوهرية يقومون بعمل عظيم يرضي أنفسهم بقدر ما يكون منتجًا للشركة - الرأسمالية في أفضل أيامها. ويطلب القادة الذين لا يمكن اختراقهم ظاهريًا من أنفسهم التغلب على الإرهاق أو اتخاذ قرار بشأن ما يجب فعله بتوازن الحياة الذي يتبع التعريف المجتمعي لـ "النجاح".
 
-[^1]: Your best talent are volunteers--they can always walk across the (now virtual) street for more money, because they're worth it, and because their resume has been incrementally improved by the experience at your company. You may protest that the grass isn't greener over there, but rather their feelings arise from the modern malaise instigated by COVID-imposed isolation from genuine relationships and the vile so-called online "relationships" fueled by toxic politics. You might even be right, but it's too late.
+[^1]: أفضل المواهب لديك هم المتطوعون -- يمكنهم دائمًا السير عبر الشارع (الذي أصبح الآن افتراضيًا) للحصول على المزيد من المال، لأنهم يستحقون ذلك، ولأن سيرتهم الذاتية قد تم تحسينها بشكل تدريجي من خلال الخبرة في شركتك. قد تحتج على أن العشب ليس أكثر خضرة هناك، ولكن مشاعرهم تنشأ من الضيق الحديث الناجم عن العزلة التي يفرضها فيروس كورونا عن العلاقات الحقيقية وما يسمى "العلاقات" عبر الإنترنت التي تغذيها السياسات السامة. قد تكون على حق، ولكن بعد فوات الأوان.
 
-What follows is my original framework I used to answer this question for myself ten years ago when I made the decision to step aside as CEO of the (now unicorn) company I founded. I still use it myself and recommend it to others.
+ما يلي هو إطار العمل الأصلي الذي استخدمته للإجابة على هذا السؤال بنفسي قبل عشر سنوات عندما اتخذت قرارًا بالتنحي عن منصب الرئيس التنفيذي للشركة (التي أصبحت الآن وحيدة القرن) التي أسستها. ما زلت أستخدمه بنفسي وأوصي به للآخرين.
 
-First, some of the best prior art on the topic.
+أولاً، بعض من أفضل الفنون السابقة حول هذا الموضوع.
 
-## Pink's Motivation: Autonomy, Mastery, Purpose
+## الدافع الوردي: الاستقلالية والإتقان والغرض
 
-Daniel Pink famously surmised[^2] that "carrots and sticks" are poor motivators for most people. Worse, they're demonstrably counter-productive in common real-world scenarios. Instead of external motivators, blatantly designed for the benefit of the organization rather than the individual, people prefer--people *deserve*--to be driven by internal motivation, aligned with genuine personal fulfillment.
+اشتهر دانييل بينك[^2] بأن "الجزرة والعصا" ليست محفزات سيئة لمعظم الناس. والأسوأ من ذلك أنها تؤدي إلى نتائج عكسية بشكل واضح في سيناريوهات العالم الحقيقي الشائعة. بدلاً من المحفزات الخارجية، المصممة بشكل صارخ لصالح المنظمة بدلاً من الفرد، يفضل الناس - الناس *يستحقون* - أن يكونوا مدفوعين بدوافع داخلية، تتماشى مع الإنجاز الشخصي الحقيقي.
 
-[^2]: in [his book](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/B0032COUMC/ref=sr_1_1?crid=19W217WIQZUM1&keywords=drive+daniel+pink&qid=1643834774&sprefix=boooks+the+ancient+cit%2Caps%2C90&sr=8-1), though you might prefer to watch his [extremely popular TED talk](https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation?language=en)
+[^2]: في [له كتاب](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/B0032COUMC/ref=sr_1_1?crid=19W2 17WIQZUM1&keywords=drive+daniel+pink&qid=1643834774&sprefix=boooks+the+ancient+cit%2Caps%2C90&sr=8-1)، على الرغم من أنك قد تفضل مشاهدة [محادثة TED الشهيرة للغاية](https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation?language=en)
 
-My subjective experience confirms this science-backed insight. The best people don't have to settle for anything less than personal fulfillment at work, as evidenced by the Great Resignation. And anyway it results in an organization that we are all proud to build.
+تجربتي الشخصية تؤكد هذه الرؤية المدعومة بالعلم. لا يتعين على أفضل الأشخاص أن يقبلوا بأي شيء أقل من الإنجاز الشخصي في العمل، كما يتضح من الاستقالة الكبرى. وعلى أية حال فإنه يؤدي إلى منظمة نفخر جميعًا ببنائها.
 
-Pink suggests that internal motivation arises under three conditions:
+يقترح بينك أن الدافع الداخلي ينشأ في ظل ثلاثة شروط:
 
-#### Autonomy
-People are fulfilled when they decide what to do and how to do it. Counter-examples include micro-management, inflexible working conditions, and one-way command-and-control structures. Positive examples include self-managed scrum teams, work-from-anywhere-and-whenever schedules, and agreeing on the goals of the final product rather than dictating the details of what that product is and how it must be created.
+#### استقلال
+يشعر الناس بالرضا عندما يقررون ما يجب عليهم فعله وكيفية القيام بذلك. وتشمل الأمثلة المضادة الإدارة الجزئية، وظروف العمل غير المرنة، وهياكل القيادة والسيطرة أحادية الاتجاه. تشمل الأمثلة الإيجابية فرق سكروم المُدارة ذاتيًا، وجداول العمل من أي مكان وفي أي وقت، والاتفاق على أهداف المنتج النهائي بدلاً من إملاء تفاصيل هذا المنتج وكيفية إنشائه.
 
-#### Mastery
-Great people want the opportunity to do great work. They want to be around other people who are doing the same. Experts enjoy deploying their expertise; novices with vim and aptitude enjoy learning and growing.
+#### إتقان
+الأشخاص العظماء يريدون الفرصة للقيام بعمل عظيم. إنهم يريدون أن يكونوا حول أشخاص آخرين يفعلون نفس الشيء. يستمتع الخبراء بنشر خبراتهم؛ يستمتع المبتدئون الذين يتمتعون بالحيوية والكفاءة بالتعلم والنمو.
 
-#### Purpose
-As the janitor famously answered in 1962 when president Kennedy asked him what he did for NASA, "I'm helping put a man on the moon." Everyone--not just Gen Z--wants to be a part of something bigger than themselves. That could be a noble cause, or something more incremental but tangible, like genuinely helping another human being in their own endeavors, as one might do in a world-class customer service organization.
+#### غاية
+وكما أجاب البواب في عام 1962 عندما سأله الرئيس كينيدي عما يفعله لناسا، "أنا أساعد في وضع رجل على سطح القمر". الجميع - وليس فقط الجيل Z - يريدون أن يكونوا جزءًا من شيء أكبر منهم. يمكن أن يكون ذلك سببًا نبيلًا، أو شيئًا تدريجيًا ولكن ملموسًا، مثل مساعدة إنسان آخر بصدق في مساعيه الخاصة، كما قد يفعل المرء في مؤسسة خدمة عملاء عالمية المستوى.
 
-Other work agrees with and extends these ideas.[^3] However, I believe that to leap from Pink's original question--*What motivates people?*--to my question--*What is fulfilling?*--at least one vital component is missing: **Joy**.
+تتفق أعمال أخرى مع هذه الأفكار وتوسعها.[^3] ومع ذلك، أعتقد أنه للانتقال من سؤال بينك الأصلي--*ما الذي يحفز الناس؟*--إلى سؤالي--*ما هو الشيء المُرضي؟*--يوجد عنصر حيوي واحد على الأقل مفقود: **الفرح**.
 
-[^3]: For example, [Self-Determination Theory](https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory.aspx) asserts that motivation arises from "autonomy, competence, and relatedness"--essentially the same thing.
+[^3]: على سبيل المثال، تؤكد [نظرية تقرير المصير](https://www.urmc.rochester.edu/community-health/patient-care/self-deternation-theory.aspx) أن الدافع ينشأ من "الاستقلالية والكفاءة والارتباط" - وهو نفس الشيء في الأساس.
 
-## 生き甲斐: A reason to be alive
+## 生き甲斐: سبب للبقاء على قيد الحياة
 
-For thousands of years the Japanese have revered those who devote their lives to the mastering of a craft, having "craftsman spirit" 職人気質 (shokunin kishitsu). The samurai and the flower-arranger hold equal value, the chef and the janitor hold equal prestige, when each are whole-hearted in their endeavors. Furthermore, world-class skill is only half of the meaning of being a shokunin; you must also play a mindful and intentional role in bettering the community.
+منذ آلاف السنين، كان اليابانيون يبجلون أولئك الذين يكرسون حياتهم لإتقان حرفة ما، ويتمتعون "بروح الحرفي" 職人気質 (شوكونين كيشيتسو). يتمتع الساموراي ومنسق الزهور بقيمة متساوية، ويحظى الشيف والبواب بمكانة متساوية، عندما يكون كل منهما مخلصًا في مساعيه. علاوة على ذلك، فإن المهارة ذات المستوى العالمي ليست سوى نصف معنى كونك شوكونين؛ يجب عليك أيضًا أن تلعب دورًا واعيًا ومتعمدًا في تحسين المجتمع.
 
-It is not only "Mastery" but also "Purpose." The Japanese have venerated 2/3rds of Pink's trifecta for millennia.
+إنها ليست "الإتقان" فحسب، بل "الغرض" أيضًا. لقد كرم اليابانيون ثلثي ثلاثية بينك لآلاف السنين.
 
-An equally ancient concept, that received a direct name in the 1960s, is 生き甲斐 (ikigai)--a motivating force that gives someone a reason for living:
+هناك مفهوم قديم بنفس القدر، والذي حصل على اسم مباشر في الستينيات، وهو 生き甲斐 (ikigai) - قوة محفزة تعطي الشخص سببًا للعيش:
 
-> ... ikigai ... usually means the feeling of accomplishment and fulfillment that follows when people pursue their passions. Activities that generate the feeling of ikigai are not forced on an individual; they are perceived as being spontaneous and undertaken willingly, and thus are personal and depend on a person's inner self. ([Wikipedia](https://en.wikipedia.org/wiki/Ikigai))
+> ... ikigai ... عادةً ما يعني الشعور بالإنجاز والوفاء الذي يتبعه عندما يسعى الناس وراء شغفهم. الأنشطة التي تولد شعور الإيكيجاي ليست مفروضة على الفرد؛ يُنظر إليها على أنها عفوية ويتم تنفيذها عن طيب خاطر، وبالتالي فهي شخصية وتعتمد على الذات الداخلية للشخص. ([ويكيبيديا](https://en.wikipedia.org/wiki/Ikigai))
 
-This adds color to the idea of intrinsic motivation as well as that of extrinsic purpose. We need purpose, whether it's the Silicon Valley notion of "changing the world" or to be a great-grand-parent. To be useful, to be needed, even to be wanted, one person to another, is already a higher purpose.
+وهذا يضيف لونًا إلى فكرة الدوافع الجوهرية بالإضافة إلى فكرة الهدف الخارجي. نحن بحاجة إلى هدف، سواء كان ذلك مفهوم وادي السيليكون المتمثل في "تغيير العالم" أو أن نكون أجدادًا. أن تكون مفيدًا، وأن تكون مطلوبًا، وحتى أن تكون مرغوبًا من شخص لآخر، هو بالفعل هدف أسمى.
 
-One person at a time can be enough, as in this serendipitous Slack exchange I had with [WPGraphQL](https://www.wpgraphql.com/) founder [Jason Bahl](https://twitter.com/jasonbahl):
+يمكن لشخص واحد في كل مرة أن يكون كافيًا، كما هو الحال في هذا التبادل الصدفي Slack الذي أجريته مع مؤسس [WPGraphQL](https://www.wpgraphql.com/) [جيسون باهل](https://twitter.com/jasonbahl):
 
 ![Jason Bahl, inventor of WPGraphQL, making a difference for another person](https://public.asmartbear.com/books/anthology/chapters/fulfillment/bahlslack-simple.png)
 
-A "higher purpose" might elicit an eye-roll from the skeptic, but it turns out to be useful even if you're a cold-blooded, mercenary, even authoritarian-style leader.
+قد يثير "الهدف الأسمى" دهشة المتشككين، لكن يتبين أنه مفيد حتى لو كنت قائدًا بدم بارد، أو مرتزقًا، أو حتى قائدًا على الطراز الاستبدادي.
 
-## Sinek's Fanaticism: Start with why
+## تعصب سينك: ابدأ بالسبب
 
-Simon Sinek wanted to know why some organizations produce fanatics. Not just customers and employees, not just people who like and buy the products, but people who personally identify with the company, incorporating the company's brand into their personal brand. When competitors build something objectively better, they don't switch, because for them it's not just about the features and the price. They'd work for that company if they could, and many do. As a result, employee turnover is low and productivity is high. Therefore every aspect of the business is stronger. How does this arise?
+أراد سايمون سينك أن يعرف لماذا تنتج بعض المنظمات متعصبين. ليس فقط العملاء والموظفين، وليس فقط الأشخاص الذين يحبون المنتجات ويشترونها، ولكن الأشخاص الذين يرتبطون شخصيًا بالشركة، ويدمجون العلامة التجارية للشركة في علامتهم التجارية الشخصية. عندما يقوم المنافسون ببناء شيء أفضل بشكل موضوعي، فإنهم لا يقومون بالتبديل، لأن الأمر بالنسبة لهم لا يتعلق فقط بالميزات والسعر. سيعملون في تلك الشركة إذا استطاعوا، والكثير منهم يفعلون ذلك. ونتيجة لذلك، فإن معدل دوران الموظفين منخفض والإنتاجية مرتفعة. ولذلك فإن كل جانب من جوانب العمل أقوى. كيف ينشأ هذا؟
 
-Sinek sums up the answer: These companies **Start with "Why."** Meaning: These organizations have clear, simple, compelling *raison d'être*, a reason for being, something they stand for, something they would never contravene with their actions, even if it hurts sales or profitability.
+يلخص سينك الإجابة: هذه الشركات **تبدأ بـ "لماذا".** المعنى: هذه المنظمات لديها *سبب وجود* واضح وبسيط ومقنع، وسبب لوجودها، وشيء تدافع عنه، وشيء لن تتعارض معه أبدًا بأفعالها، حتى لو كان ذلك يضر بالمبيعات أو الربحية.
 
 ![Simon Sinek's Golden Circle: Why, How, What](https://public.asmartbear.com/books/anthology/chapters/fulfillment/sinekgoldencirclee1378664887408-simple.png)
 
-It could be a "higher purpose," like Patagonia's incontrovertible mission to save the Earth,[^4] or SpaceX's mission to make humanity a multi-planetary species, or the Gates Foundation project to save millions of lives by eradicating malaria.
+يمكن أن يكون "هدفًا أسمى"، مثل مهمة باتاغونيا التي لا تقبل الجدل لإنقاذ الأرض،[^4] أو مهمة SpaceX لجعل البشرية كائنًا متعدد الكواكب، أو مشروع مؤسسة جيتس لإنقاذ ملايين الأرواح من خلال القضاء على الملاريا.
 
-[^4]: Beyond the obvious--sustainable practices, an outdoor-worshiping culture--they have a [formal company policy](https://twitter.com/patagonia/status/776223080779833344) to bail employees out of jail if arrested while protesting peacefully.
+[^4]: بعيدًا عن الممارسات الواضحة - المستدامة، وثقافة العبادة في الهواء الطلق - - لديهم [سياسة رسمية للشركة](https://twitter.com/patagonia/status/776223080779833344) لإخراج الموظفين من السجن بكفالة إذا تم القبض عليهم أثناء الاحتجاج السلمي.
 
-But it doesn't have to be grandiose or holy to be motivating. Sinek frequently returns to the example of Apple's "Think Different" campaign; this taps the personal brand of those who are (or want to be seen as) independently-minded, creative, creators, iconoclasts, and artists, including artists embedded in fields like software development and engineering. Or Salesforce with its "[1-1-1](https://www.salesforce.org/pledge-1/)" or WP Engine with its "[Engine for Good](https://wpengine.com/engine-for-good/)"--thoughtful, systematic ways of giving back to the communities they are a part of (without pretending to single-handedly "change the world"). Or Rackspace with their "fanatical support," transforming the traditional status of Customer Service from a begrudged cost-center hell-bent on cost-reduction, elevating it instead into the honor of serving others, and a critical product differentiator in a market that is otherwise commoditized.
+ولكن ليس من الضروري أن تكون عظيمة أو مقدسة لتكون محفزة. كثيرًا ما يعود سينك إلى مثال حملة "فكر بشكل مختلف" التي أطلقتها شركة Apple؛ وهذا يستغل العلامة التجارية الشخصية لأولئك الذين (أو يريدون أن يُنظر إليهم على أنهم) ذوي تفكير مستقل، ومبدعين، ومبدعين، ومتمردين، وفنانين، بما في ذلك الفنانين المنخرطين في مجالات مثل تطوير البرمجيات والهندسة. أو Salesforce مع "[1-1-1](https://www.salesforce.org/pledge-1/)" أو WP Engine مع "[Engine for Good](https://wpengine.com/engine-for-good/)" - طرق مدروسة ومنهجية لرد الجميل للمجتمعات التي يشكلون جزءًا منها (دون التظاهر "بتغيير العالم" بمفردهم). أو Rackspace مع "دعمهم المتعصب"، مما يحول الوضع التقليدي لخدمة العملاء من مركز تكلفة محسود عازم على خفض التكلفة، ورفعه بدلاً من ذلك إلى شرف خدمة الآخرين، وتمييز منتج مهم في سوق يتم تحويله إلى سلعة.
 
-> "When people are financially invested, they want a return. When people are emotionally invested, they want to contribute."  
-> --Simon Sinek
+> "عندما يستثمر الناس ماليا، فإنهم يريدون عائدا. وعندما يستثمر الناس عاطفيا، فإنهم يريدون المساهمة."
+> - سيمون سينك
 
-All of these companies were created by and are still run by Gen-X-and-older. So, wanting a higher purpose isn't just "a Gen Z thing," though clearly younger generations do, on average, talk about this more, and more conscientiously. In any case, the freshest talent and the future leaders of the world are Gen Z, so even a leader unsympathetic to "causes" should realize that having a higher purpose is more useful than not having one.
+تم إنشاء كل هذه الشركات بواسطة Gen-X وما فوق وما زالوا يديرونها. لذا، فإن الرغبة في هدف أسمى ليست مجرد "شيء يخص جيل Z"، على الرغم من أنه من الواضح أن الأجيال الشابة تتحدث، في المتوسط، عن هذا الأمر أكثر وبضمير حي أكثر. على أية حال، فإن أحدث المواهب وقادة المستقبل في العالم هم الجيل Z، لذلك حتى القائد غير المتعاطف مع "القضايا" يجب أن يدرك أن وجود هدف أسمى أكثر فائدة من عدم وجود هدف.
 
-This confirms and clarifies the "Purpose" component of the Pink Trifecta. Sinek approached it from an analysis of fanaticism and loyalty to organizations, and arrived at the same place.
+وهذا يؤكد ويوضح عنصر "الغرض" في Pink Trifecta. لقد تناولها سينك من تحليل التعصب والولاء للتنظيمات، ووصل إلى نفس المكان.
 
-## Cohen's Circles & Traps: Joy, Skill, Need
+## دوائر وفخاخ كوهين: الفرح، المهارة، الحاجة
 
-It is possible to be empowered to work how you want (Autonomy), to be leveraging your skills and expertise (Mastery), and to be proud of your role in a cause (Purpose / Why), and yet *still dislike every day of your existence*. More than contentment (ikigai), you need *Joy*.
+من الممكن أن تكون متمكنًا للعمل بالطريقة التي تريدها (الاستقلالية)، وأن تستفيد من مهاراتك وخبراتك (الإتقان)، وأن تفتخر بدورك في قضية ما (الغرض / لماذا)، ومع ذلك *لا تزال تكره كل يوم من أيام وجودك*. أكثر من الرضا (ikigai)، أنت بحاجة إلى *الفرح*.
 
-Not only is this possible, it is common. There's the classic example of the startup founder who wakes up six years into the journey, realizing she's been [surreptitiously brought to a boil](https://en.wikipedia.org/wiki/Boiling_frog), burned out, dreading each day, drinking too much "to turn my brain off so I can sleep" but actually because she's deeply unhappy:
+وهذا ليس ممكنًا فحسب، بل إنه أمر شائع. هناك مثال كلاسيكي لمؤسس الشركة الناشئة الذي يستيقظ بعد ست سنوات من الرحلة، مدركًا أنها كانت [تغلي خلسة](https://en.wikipedia.org/wiki/Boiling_frog)، منهكة، خائفة كل يوم، تشرب الكثير من الكحول "لإيقاف عقلي حتى أتمكن من النوم" ولكن في الواقع لأنها غير سعيدة للغاية:
 
-> Each morning for the past couple months, my first thought has been "What could today be like if I didn't work here?" I drift off into exploring what it would be like to work at WalMart, or the construction site outside, or as a grocery store bagger. It seems so stress free. This morning, I locked myself in the bathroom with the shower running (don't want wife to know) and cried my eyes out. I haven't cried in many years. It felt great, but only for an hour.  
-> --[Anonymous founder](https://news.ycombinator.com/item?id=14417758)
+> كل صباح طوال الأشهر القليلة الماضية، كان أول ما يخطر في ذهني هو "كيف يمكن أن يكون اليوم إذا لم أعمل هنا؟" انجرفت في استكشاف ما سيكون عليه العمل في وول مارت، أو في موقع البناء بالخارج، أو كعامل تعبئة في متجر بقالة. يبدو خاليًا من التوتر. هذا الصباح، حبست نفسي في الحمام وكان الدش جاريًا (لا أريد أن تعرف زوجتي) وبكيت من عيني. لم أبكي منذ سنوات عديدة. لقد كان شعورًا رائعًا، ولكن لمدة ساعة فقط.
+> --[مؤسس مجهول](https://news.ycombinator.com/item?id=14417758)
 
-Eight years ago I created my own framework for understanding how I could avoid this burn-out trap at WP Engine,[^5] especially when making decisions that are contrary to ego. The ego says "Being the CEO is the best." Silicon Valley says "The founder being the CEO is the Only Way."[^6] So it's hard to convince the ego to let go of being the CEO, as I did at WP Engine, even if being the CEO creates unhappiness.
+منذ ثماني سنوات، قمت بإنشاء إطار العمل الخاص بي لفهم كيف يمكنني تجنب هذا الفخ الإرهاق في WP Engine،[^5] خاصة عند اتخاذ قرارات تتعارض مع الأنا. تقول الأنا "أن تكون الرئيس التنفيذي هو الأفضل". يقول وادي السيليكون "إن كون المؤسس هو الرئيس التنفيذي هو الطريقة الوحيدة."[^6] لذلك من الصعب إقناع الأنا بالتخلي عن منصب الرئيس التنفيذي، كما فعلت في WP Engine، حتى لو كان منصب الرئيس التنفيذي يخلق التعاسة.
 
-[^5]: Whereas I did burn out at my previous company Smart Bear. Even [selling the business didn't immediately fix the problem](https://longform.asmartbear.com/identity-selling-sadness/), although it was the beginning of the answer.
+[^5]: في حين أنني استنزفت طاقتي في شركتي السابقة Smart Bear. حتى [بيع الشركة لم يحل المشكلة على الفور](https://longform.asmartbear.com/identity-sale-sadness/)، على الرغم من أنها كانت بداية الحل.
 
-[^6]: Typically citing Apple, Facebook, and Amazon while ignoring counter-examples like Google, LinkedIn, and Intel, although there do exist [thoughtful arguments that embrace those exceptions](https://a16z.com/2010/04/28/why-we-prefer-founding-ceos/).
+[^6]: عادةً ما يتم الاستشهاد بـ Apple وFacebook وAmazon مع تجاهل الأمثلة المضادة مثل Google وLinkedIn وIntel، على الرغم من وجود [حجج مدروسة تتضمن هذه الاستثناءات](https://a16z.com/2010/04/28/why-we-prefer-founding-ceos/).
 
-Here's the insight: Not only do you need *all three* of the following components, but any two alone create a specific trap:
+إليك الفكرة: لا تحتاج فقط إلى *المكونات الثلاثة* التالية، ولكن أي اثنين منها بمفردهما ينشئ مصيدة محددة:
 
 ![Fulfillment lives at the intersection of Joy, Skill, and Need](https://public.asmartbear.com/books/anthology/chapters/fulfillment/hww-jasoncohen-v8-30m-saastr-simple.png)
 
-#### Joy
-You love doing it. When you do it all day, you forget to eat and pee. At the end of a long day of doing it, you still want to do it.
+#### مرح
+تحب القيام بذلك. عندما تفعل ذلك طوال اليوم، فإنك تنسى تناول الطعام والتبول. في نهاية يوم طويل من القيام بذلك، لا تزال ترغب في القيام بذلك.
 
-#### Skill
-You're great at it. Your work is so good, even *you* are proud of it. It stands out, and others notice. Those who don't understand how much effort you expended say: "You're a natural."
+#### مهارة
+أنت رائع في ذلك. عملك جيد جدًا، حتى أنت فخور به. إنه يبرز، ويلاحظ الآخرون. أولئك الذين لا يفهمون مقدار الجهد الذي بذلته يقولون: "أنت طبيعي".
 
-#### Need
-The company needs it done. It's a top-three priority. Doing it well means a critical part of your strategy will succeed. Not doing it is crippling.
+#### يحتاج
+الشركة بحاجة إلى القيام بذلك. إنها الأولوية الثلاثة الأولى. إن القيام بذلك بشكل جيد يعني أن جزءًا مهمًا من استراتيجيتك سينجح. عدم القيام بذلك أمر معوق.
 
-Having any two without the third creates a well-defined yet common trap. It's instructive to understand the traps, because it can *feel good* to be in the trap:
+إن وجود أي اثنين دون الثالث يخلق فخًا محددًا جيدًا ولكنه شائع. من المفيد أن نفهم الفخاخ، لأنه قد يكون من الجيد أن تكون في الفخ:
 
-#### Trap: Joy + Skill − Need = Useless Flow
-At the intersection of Joy and Skill is "being in the zone," a.k.a. Flow.[^7] Wonderful! Unless you're working on something the company doesn't need done. Being in flow is intoxicating, and does "recharge the batteries," but it's unproductive. Continuing the example of the burned-out founder living in this trap, there's no one willing or able to tell you to your face that you're not contributing to what the company needs, so you stay in your happy place. A classic example is the technical founder writing code instead of making sales, fixing the website, handling the accounting, or hiring the next great team member.
+#### الفخ: الفرح + المهارة - الحاجة = تدفق عديم الفائدة
+عند تقاطع الفرح والمهارة، يوجد "التواجد في المنطقة"، ويعرف أيضًا باسم التدفق.[^7] رائع! إلا إذا كنت تعمل على شيء لا تحتاج الشركة إلى القيام به. إن التواجد في التدفق أمر مسكر، ويؤدي إلى "إعادة شحن البطاريات"، ولكنه غير منتج. واستمرارًا لمثال المؤسس المنهك الذي يعيش في هذا الفخ، لا يوجد أحد مستعد أو قادر على إخبارك في وجهك أنك لا تساهم في ما تحتاجه الشركة، لذلك يمكنك البقاء في مكانك السعيد. المثال الكلاسيكي هو قيام المؤسس الفني بكتابة التعليمات البرمجية بدلاً من إجراء المبيعات، أو إصلاح موقع الويب، أو التعامل مع المحاسبة، أو توظيف العضو الرائع التالي في الفريق.
 
-#### Trap: Joy + Need − Skill = Indulgent Failure
-The company needs to begin advertising. You've never done AdWords before, but you always wanted to try it, and anyway it'd be fun to learn something new. You might hire someone to do it later, but not now, because how do you hire and manage someone else without understanding the job yourself? So you make the AdWords campaigns. And since you're unskilled at both marketing and AdWords, you waste three months. You might even erroneously conclude "AdWords doesn't work" because that's an easier conclusion than "I don't know what I'm doing." If the company needed advertising so badly, you did a disservice to the company by indulging your desire to "play with it," because now months have passed without accomplishing what needed to be done. You tell yourself that *now* you can hire that person, because three months of flailing somehow makes you an "expert." As founder, no one will contradict you, so you indulge, and the company falls that much further behind.
+#### الفخ: الفرح + الحاجة - المهارة = الفشل المنغمس
+تحتاج الشركة إلى البدء في الإعلان. لم يسبق لك استخدام برنامج AdWords من قبل، ولكنك كنت ترغب دائمًا في تجربته، وعلى أية حال سيكون من الممتع أن تتعلم شيئًا جديدًا. قد تقوم بتعيين شخص ما للقيام بذلك لاحقًا، ولكن ليس الآن، لأنه كيف يمكنك تعيين شخص آخر وإدارته دون فهم الوظيفة بنفسك؟ لذلك تقوم بإنشاء حملات AdWords. وبما أنك لا تتمتع بالمهارة في كل من التسويق وبرنامج AdWords، فإنك تضيع ثلاثة أشهر. وربما تستنتج خطأً أن "AdWords لا يعمل" لأن هذا استنتاج أسهل من استنتاج "لا أعرف ما أفعله". إذا كانت الشركة بحاجة ماسة إلى الإعلان، فقد ألحقت ضررًا بالشركة من خلال إشباع رغبتك في "اللعب بها"، لأنه مرت الآن أشهر دون إنجاز ما يلزم القيام به. أنت تخبر نفسك أنه *الآن* يمكنك توظيف هذا الشخص، لأن ثلاثة أشهر من التخبط تجعلك "خبيرًا" بطريقة ما. باعتبارك مؤسسًا، لن يناقضك أحد، لذا تنغمس في الأمر، وتتخلف الشركة كثيرًا عن الركب.
 
-#### Trap: Skill + Need − Joy = Burn-out
-This is classic burn-out. When you do the work all day, you feel drained and exhausted rather than energized (as you would if it were Flow = Skill + Joy). You do the work, because the company needs it done. You do the work, because you are undeniably great at it. Even though you hate doing it, you'd rather take it on yourself rather than foist it on others, whether because you want to "protect them from the drudgery,"[^8] or because you believe they can't do as good a job as you can, or because you can't afford to hire someone. Because you create great results that the company needs, it doesn't look like a problem--not to you, nor your team. But because you dislike it, you grow to resent it, and eventually you can't face it, and you're finished. [Many startup founders agree](https://twitter.com/asmartbear/status/1772302431994442196?s=46).
+#### الفخ: المهارة + الحاجة - الفرح = الإرهاق
+هذا هو الاحتراق الكلاسيكي. عندما تقوم بالعمل طوال اليوم، فإنك تشعر بالاستنزاف والإرهاق بدلاً من النشاط (كما لو كان التدفق = المهارة + الفرح). أنت تقوم بهذا العمل، لأن الشركة تحتاج إلى إنجازه. أنت تقوم بالعمل، لأنك بلا شك عظيم في ذلك. على الرغم من أنك تكره القيام بذلك، إلا أنك تفضل أن تأخذه على عاتقك بدلاً من فرضه على الآخرين، سواء لأنك تريد "حمايتهم من الكدح"[^8] أو لأنك تعتقد أنهم لا يستطيعون القيام بعمل جيد بقدر ما تستطيع، أو لأنك لا تستطيع تحمل تكلفة توظيف شخص ما. نظرًا لأنك تحقق نتائج رائعة تحتاجها الشركة، فلا يبدو الأمر بمثابة مشكلة - لا لك ولا لفريقك. ولكن لأنك لا تحب ذلك، فإنك ستزداد استياءً منه، وفي النهاية لا يمكنك مواجهته، وقد انتهيت. [يوافق العديد من مؤسسي الشركات الناشئة على ذلك](https://twitter.com/asmartbear/status/1772302431994442196?s=46).
 
-[^7]: [Flow](https://en.wikipedia.org/wiki/Flow_%28psychology%29) is when a person is fully immersed in an activity for an extended period of time. Time passes unwittingly, performance is at maximum, and it is universally described as pleasurable.
+[^7]: [التدفق](https://en.wikipedia.org/wiki/Flow_%28psychology%29) يحدث عندما ينغمس الشخص بالكامل في نشاط ما لفترة طويلة من الوقت. يمر الوقت دون قصد، ويبلغ الأداء الحد الأقصى، ويوصف عالميًا بأنه ممتع.
 
-[^8]: No one wants the boss doing all the drudgery, especially if the boss visibly hates doing it. Some people actually *like* the thing you hate, and you're preventing them--and you--from being happier.
+[^8]: لا أحد يريد أن يقوم رئيسه بكل هذا العمل الشاق، خاصة إذا كان رئيسه يكره القيام بذلك بشكل واضح. بعض الناس في الواقع يحبون الشيء الذي تكرهه، وأنت تمنعهم - وأنت - من أن يكونوا أكثر سعادة.
 
-I created and used this framework nearly a decade ago, to recognize the wisdom of changing roles from the CEO of the company I founded ([WP Engine](https://wpengine.com/)) to the CTO, so that both our new CEO and I could operate in the center of our Venn diagrams. The thousands of people who have since worked at our company concur that this was a fantastic decision, both personally for the two of us, and for the success of the business, which is now a unicorn and an iconic landmark in Austin, Texas (Figure 3).
+لقد أنشأت هذا الإطار واستخدمته منذ ما يقرب من عقد من الزمن، للتعرف على حكمة تغيير الأدوار من الرئيس التنفيذي للشركة التي أسستها ([WP Engine](https://wpengine.com/)) إلى المدير الفني التنفيذي، حتى أتمكن أنا والرئيس التنفيذي الجديد لدينا من العمل في مركز مخططات Venn الخاصة بنا. يتفق الآلاف من الأشخاص الذين عملوا في شركتنا منذ ذلك الحين على أن هذا كان قرارًا رائعًا، سواء على المستوى الشخصي بالنسبة لنا أو لنجاح العمل، الذي أصبح الآن وحيد القرن ومعلمًا بارزًا في أوستن، تكساس (الشكل 3).
 
 ![Jason Cohen and Heather Brunner winning the E&Y Central Texas Entrepreneur of the Year Award 2017](https://public.asmartbear.com/books/anthology/chapters/fulfillment/image-1-simple.png)
 
-This framework is not a replacement of Pink's model; it is compatible. It adds the missing "Joy" component, while reinforcing "Mastery" with the label of "Skill." It lacks "Autonomy," however, perhaps because I created it with the founder in mind--a person who definitionally possesses autonomy, even to their detriment. "Need" is more tactical than "Purpose," really about being *useful*.
+هذا الإطار ليس بديلاً لنموذج بينك؛ إنه متوافق. إنها تضيف عنصر "الفرح" المفقود، مع تعزيز "الإتقان" بتسمية "المهارة". إنها تفتقر إلى "الاستقلالية"، ربما لأنني أنشأتها مع وضع المؤسس في الاعتبار - وهو الشخص الذي يمتلك الاستقلالية، حتى على حسابهم. "الحاجة" هي أكثر تكتيكية من "الغرض"، فهي تتعلق حقًا بكونها *مفيدة*.
 
-Therefore, my recommendation is to identify that higher purpose, as described by "Start with Why" or ikigai, and fulfill your own part in that purpose at the center of the three circles.
+لذلك، توصيتي هي تحديد هذا الهدف الأسمى، كما هو موضح في "ابدأ بالسبب" أو ikigai، وقم بتحقيق الجزء الخاص بك في هذا الهدف في مركز الدوائر الثلاث.
 
-When we intentionally create a work environment where others have a chance at fulfillment, we're already improving the world substantially. When we care enough about others to find out what fulfills them, we can help that materialize. When we're closer to our own center of fulfillment, we can better serve others.
+عندما نخلق عن عمد بيئة عمل حيث يكون للآخرين فرصة لتحقيق الإنجازات، فإننا بالفعل نحسن العالم بشكل كبير. عندما نهتم بالآخرين بما فيه الكفاية لمعرفة ما يرضيهم، يمكننا أن نساعد في تحقيق ذلك. عندما نكون أقرب إلى مركز الإنجاز الخاص بنا، يمكننا أن نخدم الآخرين بشكل أفضل.
 
-How can you find out who you are, what drives you, what stops you? [Here's the system I've used for myself and others](https://longform.asmartbear.com/pivot-points/), as well as how I figure out "who we are" as a whole product or company.
+كيف يمكنك معرفة من أنت، ما الذي يدفعك، ما الذي يمنعك؟ [هذا هو النظام الذي استخدمته لنفسي وللآخرين](https://longform.asmartbear.com/pivot-points/)، بالإضافة إلى كيفية اكتشاف "من نحن" كمنتج أو شركة كاملة.
 
-I wish you luck on your journey!
+أتمنى لك التوفيق في رحلتك!
 
 ---
 
-*Thank you to [Jason Evanish](https://jasonevanish.com/) for providing feedback on earlier drafts.*
+*شكرًا لـ [جايسون إيفانيش](https://jasonevanish.com/) لتقديم تعليقات حول المسودات السابقة.*

@@ -20,70 +20,57 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** ربما حان الوقت للتوقف عن 'التحسين المفرط' والتركيز على الإبداع تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Maybe not so much with the "optimization"
-
-> **Executive Summary:** In the quest for optimization, A/B tests, metrics, and funnels, we're in danger of losing the fun and value of creative work.
-> **Original URL:** [https://longform.asmartbear.com/creativity-over-optimization/](https://longform.asmartbear.com/creativity-over-optimization/)
-
 ![This weird-looking thing is a result of discontinuous innovation, not incremental improvement.](https://public.asmartbear.com/books/anthology/chapters/creativity-over-optimization/miniviewer-sidebar-simple.png)
 
-In the never-ending quest for optimization, A/B tests, metrics, and funnels, we're in danger of losing the fun and value of creative work.
+في سعينا الذي لا ينتهي للتحسين، واختبارات أ/ب، والمقاييس، ومسارات التحويل، فإننا نواجه خطر فقدان متعة وقيمة العمل الإبداعي.
 
-When we demand overwhelming customer outcry before committing to the slightest product change, we're in danger of losing the value of creating a cool feature that takes too much effort but [people just love](https://longform.asmartbear.com/slc/).
+عندما نطالب بغضب عارم من العملاء قبل الالتزام بأدنى تغيير في المنتج، فإننا نخاطر بفقدان قيمة إنشاء ميزة رائعة تتطلب الكثير من الجهد ولكن [الناس يحبونها](https://longform.asmartbear.com/slc/).
 
-When we do the minimum necessary to get the job done, we're efficient but not thrilling. We're "lean" but we're not stirring hearts. We're effective but not playful.
+عندما نقوم بالحد الأدنى اللازم لإنجاز المهمة، فإننا نكون فعالين ولكننا لسنا مثيرين. نحن "هزيلون" لكننا لا نثير القلوب. نحن فعالون ولكننا لسنا مرحين.
 
-I'm as excited as everyone else about Lean principles gaining traction. And it's true that most companies are erring on the side of [too little objective feedback](https://longform.asmartbear.com/put-down-the-compiler/) rather than too much. Still, every article I read turns the creative process of business and product design into Vulcan objectivity.
+أنا متحمس مثل أي شخص آخر حول اكتساب مبادئ Lean قوة جذب. وصحيح أن معظم الشركات تخطئ في جانب [التعليقات الموضوعية القليلة جدًا](https://longform.asmartbear.com/put-down-the-compiler/) وليس أكثر من اللازم. ومع ذلك، فإن كل مقال أقرأه يحول العملية الإبداعية لتصميم الأعمال والمنتجات إلى موضوعية فولكانية.
 
-Sometimes you should do something just because it's cool. There's such a thing as product "taste."
+في بعض الأحيان يجب عليك أن تفعل شيئًا لمجرد أنه رائع. هناك شيء مثل "طعم" المنتج.
 
-Look at this incredible display of affection [IHumanable has for his computer](https://web.archive.org/web/20100408174137/http://ihumanable.com/blog/2009/12/minimalism/):
+انظر إلى هذا العرض المذهل للمودة [الذي يقدمه IHumanable لجهاز الكمبيوتر الخاص به](https://web.archive.org/web/20100408174137/http://ihumanable.com/blog/2009/12/minimalism/):
 
-> This is one of the reasons I love my new iMac, **it's just a beautiful magic floating screen filled with win.**
+> وهذا هو أحد الأسباب التي تجعلني أحب جهاز iMac الجديد الخاص بي، **إنها مجرد شاشة عائمة سحرية جميلة مليئة بالفوز.**
 
-You couldn't ask for a stronger endorsement. This is even better than "It saved me $725,231." This is beyond utility--**this is love**. [(Love wins.)](https://longform.asmartbear.com/willingness-to-pay/)
+لا يمكنك أن تطلب تأييدًا أقوى. وهذا أفضل حتى من عبارة "لقد وفرت لي 725,231 دولارًا أمريكيًا". هذا أبعد من المنفعة - ** هذا هو الحب **. [(الحب يفوز.)](https://longform.asmartbear.com/willingness-to-pay/)
 
-Does love come from feature bullet points? Do you earn love through A/B tests and implementing features off the top of GetSatisfaction? Or is this something else, something deeper, **something less incremental, less data-driven, more gut feel, more emotional?**
+هل يأتي الحب من نقاط مميزة؟ هل تكسب الحب من خلال اختبارات A/B وتنفيذ الميزات الموجودة في الجزء العلوي من GetSatisfaction؟ أم أن هذا شيء آخر، شيء أعمق، **شيء أقل تدريجيًا، وأقل اعتمادًا على البيانات، وأكثر إحساسًا بالحس الداخلي، وأكثر عاطفية؟**
 
-My first product at [Smart Bear](https://smartbear.com/) way back in 2002 had a non-optimal, floating-in-win invention called the "mini-viewer."
+كان منتجي الأول في [Smart Bear](https://smartbear.com/) في عام 2002 يحتوي على اختراع غير مثالي ومربح يُسمى "العارض المصغر".
 
-Code Historian was my first product. It was the first file difference viewer with built-in support for version control systems, letting you view various historical versions of a file side-by-side. You could switch between which versions you were comparing with one click:
+كان Code Historian منتجي الأول. لقد كان أول عارض لاختلافات الملفات مع دعم مدمج لأنظمة التحكم في الإصدار، مما يتيح لك عرض الإصدارات التاريخية المختلفة للملف جنبًا إلى جنب. يمكنك التبديل بين الإصدارات التي كنت تقارنها بنقرة واحدة:
 
 ![Code Historian circa 2002](https://public.asmartbear.com/books/anthology/chapters/creativity-over-optimization/sidebyside-view-50-simple.png)
 
-The thing to focus on is that user interface element in the bottom-right corner. That's the "mini-viewer," and **in every measurable sense it's a terrible business decision.**
+الشيء الذي يجب التركيز عليه هو عنصر واجهة المستخدم الموجود في الزاوية اليمنى السفلية. هذا هو "العارض المصغر"، و**يعد هذا قرارًا تجاريًا سيئًا بكل معنى الكلمة.**
 
-The mini-viewer summarized the modifications--the lines added, changed, and removed--so the user could easily see how many changes there were and where they're located. Sounds useful, right?
+قام العارض المصغر بتلخيص التعديلات - الأسطر التي تمت إضافتها وتغييرها وإزالتها - حتى يتمكن المستخدم بسهولة من رؤية عدد التغييرات التي تم إجراؤها ومكان وجودها. يبدو مفيدا، أليس كذلك؟
 
-Right, except it's a really wasteful, expensive way to do it. Many competitors used a different technique I call "boogers," because to me it looks like someone shot snot rockets all over the screen, and also because it's fun to deride competitors, because it feels good to make fun of other people who (appear to) have more revenue than you do.
+صحيح، باستثناء أنها طريقة مكلفة ومهدرة للقيام بذلك. استخدم العديد من المنافسين أسلوبًا مختلفًا أسميه "boogers"، لأنه يبدو لي وكأن شخصًا ما أطلق صواريخ مخاطية على جميع أنحاء الشاشة، وأيضًا لأنه من الممتع السخرية من المنافسين، لأنه من الجيد السخرية من الأشخاص الآخرين الذين (يبدو أنهم) لديهم إيرادات أكثر مما لديك.
 
-But don't you agree? They look like boogers:
+لكن ألا توافقين؟ إنهم يشبهون المغفلين:
 
 ![competitor's diff viewer](https://public.asmartbear.com/books/anthology/chapters/creativity-over-optimization/boogers-on-side-simple.png)
 
-The boogers are smeared by the scrollbar, indicating where you'd need to scroll to see differences between the two versions of the file.
+يتم تلطيخ المخاط بواسطة شريط التمرير، للإشارة إلى المكان الذي تحتاج إلى التمرير فيه لرؤية الاختلافات بين نسختي الملف.
 
-Now by all of the usual arguments for Lean, Agile, and minimalism, I should have used boogers too:
+الآن، وفقًا لجميع الحجج المعتادة حول اللين والرشاقة والبساطة، كان يجب أن أستخدم المخاط أيضًا:
 
-1. Boogers were already semi-standardized. User interfaces should follow the principle of "least surprise"--if people are used to a certain metaphor, icon, or behavior, you should honor that so people understand your product immediately. No one else had a mini-viewer.
-2. Boogers occupy minimal screen real-estate. It's just a thin strip no wider than a scrollbar; in fact some products put the boogers *on top of* the scrollbar. The mini-viewer is not only larger, it has significant width, which means you have to occupy the rest of the right side of the screen with other crap.
-3. Boogers appear right next to the scrollbar, which is where you look anyway when navigating the file.
-4. Boogers take less effort to compute than the algorithm for determining color variations in the mini-viewer.
-5. Boogers take less effort to draw. Boogers are drawn on the screen once, and don't change unless the window is resized--an infrequent operation. The mini-viewer however indicates your current scroll position in the file (those black brackets) so when you're scrolling around the file the speed at which you can recompute and redraw the mini-viewer matters. Drawing directly on the screen causes flickering, so you need off-screen buffering. In short, **the mini-viewer is a lot more programming effort with a lot more chance for bugs.**
-6. The mini-viewer doesn't convey more information than boogers do.
+1. كان Boogers بالفعل شبه موحد. يجب أن تتبع واجهات المستخدم مبدأ "أقل المفاجآت" - إذا اعتاد الأشخاص على استعارة أو رمز أو سلوك معين، فيجب عليك احترام ذلك حتى يفهم الناس منتجك على الفور. لم يكن لدى أي شخص آخر عارض صغير.
+2. يشغل Boogers الحد الأدنى من العقارات المعروضة على الشاشة. إنه مجرد شريط رفيع لا يزيد عرضه عن شريط التمرير؛ في الواقع، تضع بعض المنتجات المخاط في أعلى شريط التمرير. إن العارض المصغر ليس أكبر حجمًا فحسب، بل إنه يتمتع بعرض كبير، مما يعني أنه يتعين عليك شغل بقية الجانب الأيمن من الشاشة بأشياء أخرى.
+3. تظهر Boogers بجوار شريط التمرير مباشرة، وهو المكان الذي تنظر إليه على أي حال عند التنقل في الملف.
+4. يبذل Boogers جهدًا أقل في الحساب مقارنة بخوارزمية تحديد اختلافات الألوان في العارض المصغر.
+5. يبذل Boogers جهدًا أقل في الرسم. يتم رسم Boogers على الشاشة مرة واحدة، ولا تتغير إلا إذا تم تغيير حجم النافذة - وهي عملية نادرة. ومع ذلك، يشير العارض المصغر إلى موضع التمرير الحالي في الملف (تلك الأقواس السوداء) لذلك عندما تقوم بالتمرير حول الملف، تكون السرعة التي يمكنك بها إعادة حساب العارض المصغر وإعادة رسمه أمرًا مهمًا. يؤدي الرسم مباشرة على الشاشة إلى الوميض، لذا تحتاج إلى تخزين مؤقت خارج الشاشة. باختصار، **يمثل العارض المصغر جهدًا برمجيًا أكبر بكثير مع وجود فرصة أكبر بكثير للأخطاء.**
+6. لا ينقل العارض المصغر معلومات أكثر مما يفعل المخاطون.
 
-**And yet, everyone loved the mini-viewer.** People sent emails saying they used Code Historian just because of the mini-viewer. Some developers wrote in asking how I was able to render it so efficiently. It was always a high point in product reviews.
+**ومع ذلك، أحب الجميع العارض المصغر.** أرسل الأشخاص رسائل بريد إلكتروني تفيد أنهم استخدموا Code Historian فقط بسبب العارض المصغر. كتب بعض المطورين متسائلين كيف تمكنت من تقديمه بهذه الكفاءة. لقد كانت دائمًا نقطة عالية في مراجعات المنتجات.
 
-The mini-viewer was wasteful, but fun. It wasn't optimal and had no measurable benefit to usability, but it was "filled with win." **It took extra effort but it was endearing**--an important attribute not easily captured with metrics and spreadsheets.
+كان المشاهد المصغر مسرفًا، ولكنه ممتع. لم تكن مثالية ولم تكن لها فائدة قابلة للقياس من حيث سهولة الاستخدام، لكنها كانت "مليئة بالفوز". **لقد استغرق الأمر جهدًا إضافيًا ولكنه كان محببًا**--وهي سمة مهمة لا يمكن التقاطها بسهولة باستخدام المقاييس وجداول البيانات.
 
-Now sure, there are many of aspects of business and product development where it's best to stop obsessing and just cut corners. Often we can and should accept 80% of the benefit if it means 20% of the effort. Customers generally prefer the *right* features over *more* features.
+من المؤكد الآن أن هناك العديد من جوانب تطوير الأعمال والمنتجات حيث من الأفضل التوقف عن الهوس والاكتفاء بالقليل. في كثير من الأحيان يمكننا، بل ويجب علينا، أن نقبل 80% من المنفعة إذا كانت تعني 20% من الجهد. يفضل العملاء بشكل عام الميزات *الصحيحة* على الميزات *المزيد*.
 
-But sometimes it's your job to fill the screen with **joyous win**.
+لكن في بعض الأحيان تكون مهمتك هي ملء الشاشة بـ **الفوز المبهج**.

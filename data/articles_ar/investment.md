@@ -20,175 +20,162 @@ summary_ar: "Why \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كيف تقرر ما إذا كان الاستثمار في فكرة أو ميزة يستحق العناء تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Deciding whether an investment is worthwhile
-
-> **Executive Summary:** Why "expected value" doesn't work; here's a better framework for making long-term investments in your career, startup, and life.
-> **Original URL:** [https://longform.asmartbear.com/investment/](https://longform.asmartbear.com/investment/)
-
 ![surprised investors expecting worst performing miserably](https://public.asmartbear.com/books/anthology/chapters/investment/d4713print-simple.png)
 
-Whether it's your career path, which job to take for the next four years, investing in your personal brand, creating a startup, or investing in a startup, the question is:
+سواء كان ذلك مسار حياتك المهنية، أو الوظيفة التي ستتولىها خلال السنوات الأربع القادمة، أو الاستثمار في علامتك التجارية الشخصية، أو إنشاء شركة ناشئة، أو الاستثمار في شركة ناشئة، فإن السؤال هو:
 
- <br/> 
+<br/>
 
-_How do I decide which investment is worthwhile?_
+_كيف أحدد أي استثمار يستحق العناء؟_
 
- <br/> 
+<br/>
 
-I'm defining an "investment" as distinct from other bets by having these characteristics:
+أقوم بتعريف "الاستثمار" على أنه يختلف عن الرهانات الأخرى من خلال تمتعه بالخصائص التالية:
 
-1. Spending time and money and reputation for months or years, hoping for a large return in the far-future.
-2. Can do [only 1-2 of these simultaneously](https://longform.asmartbear.com/two-big-things/), because you are "all in."
-3. Because [the future is uncertain](https://longform.asmartbear.com/predict-the-future/), there is significant risk: Whether it will pay off at all, and if so, by how much.
+1. إنفاق الوقت والمال والسمعة لعدة أشهر أو سنوات، على أمل الحصول على عائد كبير في المستقبل البعيد.
+2. يمكنك القيام بـ [فقط 1-2 منها في وقت واحد](https://longform.asmartbear.com/two-big-things/)، لأنك "تشارك في كل شيء".
+3. نظرًا لأن [المستقبل غير مؤكد] (https://longform.asmartbear.com/predict-the-future/)، هناك خطر كبير: ما إذا كان سيؤتي ثماره على الإطلاق، وإذا كان الأمر كذلك، فبأي قدر.
 
-This is in contrast to short-lived experiments, like a bet in poker, an A/B test, or making a brochure for a product concept to see whether people will buy it. Bets, experiments, and trials are excellent techniques, but by "investment" I mean a big commitment (time, money, reputation, opportunity cost), over a long time-frame, with a large potential payoff, under conditions of uncertainty.
+وهذا على النقيض من التجارب قصيرة العمر، مثل الرهان في لعبة البوكر، أو اختبار أ/ب، أو إعداد كتيب لمفهوم المنتج لمعرفة ما إذا كان الناس سيشترونه. إن الرهانات والتجارب والتجارب هي تقنيات ممتازة، ولكن بكلمة "استثمار" أعني التزاماً كبيراً (الوقت والمال والسمعة وتكلفة الفرصة البديلة)، على مدى فترة زمنية طويلة، مع عائد محتمل كبير، في ظل ظروف من عدم اليقين.
 
-Tackling this combination of constraints leads to a framework for evaluating which investments are worthwhile.
+إن معالجة هذا المزيج من القيود يؤدي إلى وضع إطار لتقييم أي الاستثمارات جديرة بالاهتمام.
 
-## Don't use "Expected Value"
+## لا تستخدم "القيمة المتوقعة"
 
-Economics instructs us to use "expected value" to evaluate investments. This is almost always the wrong tool for the job.
+يرشدنا علم الاقتصاد إلى استخدام "القيمة المتوقعة" لتقييم الاستثمارات. هذه هي الأداة الخاطئة دائمًا تقريبًا لهذا المنصب.
 
-The theory appears sound: "Expected value" means multiplying the value of the outcome by the probability of attaining that outcome, resulting in a single number that encompasses both risk and value; a "risk-adjusted value," as they say in finance.
+تبدو النظرية سليمة: "القيمة المتوقعة" تعني ضرب قيمة النتيجة في احتمالية تحقيق تلك النتيجة، مما ينتج عنه رقم واحد يشمل كلاً من المخاطرة والقيمة؛ "قيمة معدلة حسب المخاطر"، كما يقولون في مجال التمويل.
 
-Let's take an example to see why this number isn't useful for evaluating investments.
+لنأخذ مثالاً لنرى لماذا لا يكون هذا الرقم مفيدًا لتقييم الاستثمارات.
 
-Investment "A" requires you to spend $50,000, and takes an entire year of your life. The payoff is $1,000,000. Furthermore, the probability of payoff is 100%--it's a signed contract with cash in an escrow account. Therefore, the "expected value" is **$1M**,[^1] and the return on our investment is **20x**.[^2]
+الاستثمار "أ" يتطلب منك إنفاق 50 ألف دولار، ويستغرق سنة كاملة من حياتك. العائد هو 1،000،000 دولار. علاوة على ذلك، فإن احتمالية الحصول على المكافأة هي 100% - إنه عقد موقع بالنقود في حساب الضمان. ولذلك، فإن "القيمة المتوقعة" هي **$1M**,[^1] والعائد على استثمارنا هو **20x**.[^2]
 
-Great investment! Now consider investment "B"--you also spend $50,000 and a year of your life, and this time the payoff is a whopping $10M, but the probability of that payoff is only 10%. The other 90% of the time, you receive no money at all. The "expected value" is also **$1M**,[^3] the same as investment A. And therefore investment B is also a **20x** payoff.
+استثمار عظيم! الآن فكر في الاستثمار "ب" - فأنت تنفق أيضًا 50 ألف دولار وسنة من حياتك، وهذه المرة يكون العائد هائلاً وهو 10 ملايين دولار، ولكن احتمال هذا العائد هو 10٪ فقط. وفي الـ 90% الأخرى من الوقت، لن تتلقى أي أموال على الإطلاق. "القيمة المتوقعة" هي أيضًا **$1M**,[^3] وهي نفس قيمة الاستثمار A. وبالتالي فإن الاستثمار B هو أيضًا عائد **20x**.
 
-[^1]: Because `100% ✕ $1M = $1M`
+[^1]: لأن `100% ✕ 1 مليون دولار = 1 مليون دولار`
 
-[^2]: Because the $1M expected value is 20 times the cost of $50k.
+[^2]: لأن القيمة المتوقعة البالغة مليون دولار هي 20 ضعف تكلفة 50 ألف دولار.
 
-[^3]: Because `(10% ✕ $10M) + (90% ✕ $0) = $1M`
+[^3]: لأن `(10% ✕ 10 مليون دولار) + (90% ✕ $0) = 1 مليون دولار`
 
-Perhaps you already see the flaw in the logic. With investment B we will almost certainly lose money and lose a year of our life, yet we're still claiming it represents a "20x payoff." We're also claiming that B is economically indistinguishable from A.
+ربما ترى بالفعل الخلل في المنطق. من خلال الاستثمار (ب)، سنخسر المال بالتأكيد وسنخسر عامًا من حياتنا، ومع ذلك ما زلنا ندعي أنه يمثل "عائدًا 20 ضعفًا". نحن ندعي أيضًا أن B لا يمكن تمييزه اقتصاديًا عن A.
 
-But unless you already have many millions of dollars in the bank, you probably wouldn't pick investment B, because investment A is a guaranteed [life-changing amount of money](https://longform.asmartbear.com/rich-vs-king-sold-company/), while B is almost certainly a waste of a year and $50k. They are not even remotely equivalent.
+ولكن ما لم يكن لديك بالفعل عدة ملايين من الدولارات في البنك، فمن المحتمل أنك لن تختار الاستثمار "ب"، لأن الاستثمار "أ" هو [مبلغ من المال سيغير حياتك] مضمون (https://longform.asmartbear.com/rich-vs-king-sold-company/)، في حين أن الاستثمار "ب" هو بالتأكيد مضيعة لمدة عام و50 ألف دولار. إنهم ليسوا متساوين حتى عن بعد.
 
-It's even worse in real life because you rarely know either number--neither the risk nor the payoff. Whether it's the stock market, a startup, or whether a certain career path will still be lucrative in ten years, [even experts can't predict](https://longform.asmartbear.com/predict-the-future/) probability or outcome. So, what garbage numbers are you multiplying together to get "expected value," and isn't the result even worse garbage?
+بل إن الأمر أسوأ في الحياة الواقعية لأنك نادرًا ما تعرف أيًا من الرقمين - لا المخاطرة ولا المكافأة. سواء كان الأمر يتعلق بسوق الأوراق المالية، أو شركة ناشئة، أو ما إذا كان مسار وظيفي معين سيظل مربحًا خلال عشر سنوات، [حتى الخبراء لا يمكنهم التنبؤ](https://longform.asmartbear.com/predict-the-future/) بالاحتمالية أو النتيجة. إذًا، ما هي الأرقام غير المرغوب فيها التي تقوم بضربها معًا للحصول على "القيمة المتوقعة"، وأليست النتيجة أسوأ بكثير؟
 
-There is one case where expected value is the right tool: A portfolio of bets. When a VC invests in twenty companies, when you write 100 newsletters and 1000 tweets, when you play 1000 hands of poker, when you have a balanced, uncorrelated financial portfolio, then you'll have some winners and some losers, and they roughly balance out, and therefore an "average" like expected value is indeed what you should expect. This relative stability in outcome is why [a portfolio of asymmetric bets is a good strategy](https://longform.asmartbear.com/great-strategy/). The types of investments covered in this article aren't like that--e.g. what job to take next, what startup you're going to spend your savings on--but if you can place a number of uncorrelated[^4] bets, then expected value becomes useful.
+هناك حالة واحدة تكون فيها القيمة المتوقعة هي الأداة الصحيحة: مجموعة من الرهانات. عندما يستثمر رأس المال الاستثماري في عشرين شركة، عندما تكتب 100 رسالة إخبارية و1000 تغريدة، عندما تلعب 1000 توزيع ورق في البوكر، عندما يكون لديك محفظة مالية متوازنة وغير مترابطة، سيكون لديك بعض الفائزين وبعض الخاسرين، وهم يتوازنون تقريبًا، وبالتالي فإن القيمة "المتوسطة" مثل القيمة المتوقعة هي بالفعل ما يجب أن تتوقعه. هذا الاستقرار النسبي في النتيجة هو السبب في أن [مجموعة الرهانات غير المتماثلة تعتبر استراتيجية جيدة](https://longform.asmartbear.com/great-strategy/). أنواع الاستثمارات المشمولة في هذه المقالة ليست على هذا النحو - على سبيل المثال. ما هي الوظيفة التي ستتولىها بعد ذلك، وما هي الشركة الناشئة التي ستنفق مدخراتك عليها - ولكن إذا كان بإمكانك وضع عدد من الرهانات غير المترابطة[^4]، فستصبح القيمة المتوقعة مفيدة.
 
-[^4]: Correlation is a key factor which often brings down portfolios, including angel, VC, and financial. "Correlation" means "as goes one, so very likely goes the other." In that case, you're back to the original scenario. Only if they are independent--like successive coin flips--can you employ "the average" to determine the likely total result.
+[^4]: يعد الارتباط عاملاً رئيسيًا غالبًا ما يؤدي إلى انهيار المحافظ، بما في ذلك المحافظ الاستثمارية ورأس المال الاستثماري والمالية. "الارتباط" يعني "كما هو الحال مع أحدهما، فمن المحتمل جدًا أن يحدث الآخر." في هذه الحالة، ستعود إلى السيناريو الأصلي. فقط إذا كانت مستقلة - مثل رمي العملة المتعاقبة - يمكنك استخدام "المتوسط" لتحديد النتيجة الإجمالية المحتملة.
 
-## Mandate an outsized payoff
+## تفويض مكافأة ضخمة
 
-In the success case, the investment must have an enormous payoff.
+وفي حالة النجاح، يجب أن يكون للاستثمار عائد هائل.
 
-If the payoff isn't huge, then it's not worth the (unknown!) risk. Not just the risk that it pays off at all, but the magnitude of the payoff. When it can pay off 10x or 100x, or when it can be life-altering, then even if you fall short of the goal--only 3x or only life-improving--then it was still worthwhile.
+إذا لم يكن المردود ضخمًا، فهو لا يستحق المخاطرة (غير المعروفة!). ولا يقتصر الأمر على المخاطرة التي قد تؤتي ثمارها على الإطلاق، بل أيضًا حجم المردود. عندما يمكن أن تؤتي ثمارها 10x أو 100x، أو عندما يمكن أن تغير حياتك، فحتى لو فشلت في تحقيق الهدف - 3x فقط أو تحسين الحياة فقط - فإن الأمر لا يزال يستحق العناء.
 
-> "If riskier investments could be counted on to produce higher returns, they wouldn't be riskier."  
-> --Howard Marks
+> "إذا كان من الممكن الاعتماد على الاستثمارات ذات المخاطر العالية لتحقيق عوائد أعلى، فإنها لن تكون أكثر خطورة."
+> -- هوارد ماركس
 
-How do you define "enormous?" How can you calculate the payoff, especially with things like career paths?
+كيف يمكنك تعريف "هائلة"؟ كيف يمكنك حساب المردود، خاصة فيما يتعلق بأشياء مثل المسارات الوظيفية؟
 
-Use Fermi estimation. As I also suggest for [ROI calculations](https://longform.asmartbear.com/roi-rubric/), [probabilities](https://longform.asmartbear.com/probability-words/), and [evaluating markets](https://longform.asmartbear.com/problem/), estimate to the nearest power of ten. Estimation in detail is difficult and often incorrect; estimating to the nearest power of ten is easy, often requiring little research.
+استخدم تقدير فيرمي. كما أقترح أيضًا بالنسبة إلى [حسابات عائد الاستثمار](https://longform.asmartbear.com/roi-rubric/)، و[الاحتمالات](https://longform.asmartbear.com/probability-words/)، و[تقييم الأسواق](https://longform.asmartbear.com/problem/)، التقدير لأقرب قوة للعشرة. التقدير التفصيلي صعب وغالباً ما يكون غير صحيح؛ من السهل إجراء التقدير لأقرب قوة للعشرة، وغالبًا ما يتطلب القليل من البحث.
 
-For example, if one career path means earning 50% more per year for ten years (after you get established), that's 10x more earning power over your career. Or a startup targeting a small, stagnant niche might someday be worth $1M, whereas a small software company in a larger, growing space could be worth $10M.
+على سبيل المثال، إذا كان أحد المسارات الوظيفية يعني كسب 50٪ إضافية سنويًا لمدة عشر سنوات (بعد تأسيسك)، فهذا يعني زيادة في القوة بمقدار 10 أضعاف عن حياتك المهنية. أو قد تصل قيمة شركة ناشئة تستهدف قطاعًا صغيرًا راكدًا في يوم من الأيام إلى مليون دولار، في حين أن شركة برمجيات صغيرة في مساحة أكبر ومتنامية يمكن أن تصل قيمتها إلى 10 ملايين دولار.
 
-You'll be tempted to round up; in fact I just did in the "50% more earning power" example. Don't do that, because you're exaggerating how good the investment is; typically if there's any error, it's in the direction of being less valuable. If, for example, your main career goal is to maximize your earning power, then "50% more" is not good enough; you need to find a different route that potentially doubles your current trajectory.[^5]
+سوف تميل إلى التقريب. في الواقع، فعلت ذلك للتو في مثال "زيادة القدرة على الكسب بنسبة 50%". لا تفعل ذلك، لأنك تبالغ في مدى جودة الاستثمار؛ عادة، إذا كان هناك أي خطأ، فهو في اتجاه أن يكون أقل قيمة. على سبيل المثال، إذا كان هدفك المهني الرئيسي هو زيادة قدرتك على الكسب إلى أقصى حد، فإن "زيادة بنسبة 50٪" ليست كافية؛ أنت بحاجة إلى العثور على طريق مختلف يحتمل أن يضاعف مسارك الحالي.[^5]
 
-[^5]: 2x more for 10 years is actually 20x of course, but now rounding down to 10x makes sense, especially since it might not be 2x exactly and it might take a few years to ramp up.
+[^5]: زيادة بمقدار 2x لمدة 10 سنوات هي في الواقع 20x بالطبع، ولكن التقريب الآن إلى 10x أمر منطقي، خاصة أنه قد لا يكون 2x تمامًا وقد يستغرق الأمر بضع سنوات لتزداد.
 
-This is the same logic as selecting Rocks in the [Rocks, Pebbles, Sand prioritization framework](https://longform.asmartbear.com/rocks-pebbles-sand/). Your large personal investments are Rocks, and must be evaluated accordingly.
+وهذا هو نفس منطق اختيار الصخور في [إطار عمل تحديد أولويات الصخور والحصى والرمال](https://longform.asmartbear.com/rocks-pebbles-sand/). إن استثماراتك الشخصية الكبيرة تعتبر بمثابة صخور، ويجب تقييمها وفقًا لذلك.
 
-## Accumulate value over time
+## تتراكم القيمة مع مرور الوقت
 
-For the payoff to be large, value needs to accumulate, which means it needs to be possible to add value reliably, and for value-already-added to not erode quickly. At a minimum, value must accrete, but ideally you construct a positive feedback loop, where growth or size itself begets more growth.
+لكي يكون العائد كبيرًا، يجب أن تتراكم القيمة، مما يعني أنه يجب أن يكون من الممكن إضافة القيمة بشكل موثوق، وحتى لا تتآكل القيمة المضافة بالفعل بسرعة. كحد أدنى، يجب أن تتراكم القيمة، ولكن من الناحية المثالية، يمكنك بناء حلقة ردود فعل إيجابية، حيث يولد النمو أو الحجم نفسه المزيد من النمو.
 
-Social media and SEO are like this--the more you write, the more others interact with you, the more others link to you, the more attention you get, the more traffic you get, which makes it easier to get more attention and interactions. Writing consistently increases your ability to write well and often, and thus there is a positive feedback loop of growth and value.
+وسائل التواصل الاجتماعي وتحسين محركات البحث هي على هذا النحو - كلما كتبت أكثر، زاد تفاعل الآخرين معك، وكلما زاد عدد الروابط معك، زاد الاهتمام الذي تحصل عليه، وزاد عدد الزيارات التي تحصل عليها، مما يجعل من السهل الحصول على المزيد من الاهتمام والتفاعلات. الكتابة باستمرار تزيد من قدرتك على الكتابة بشكل جيد وفي كثير من الأحيان، وبالتالي هناك حلقة ردود فعل إيجابية للنمو والقيمة.
 
-Product companies are like this, especially with the recurring-revenue business model, where the revenue grows so long as each month there are more customers starting to use the product then there are stopping, which will happen so long as you're making a product that people truly [want and love](https://longform.asmartbear.com/willingness-to-pay/). (Here's my [roadmap to Product/Market Fit](https://longform.asmartbear.com/product-market-fit-formula/) for how to build such a company.)
+شركات المنتجات هكذا، خاصة مع نموذج الأعمال ذو الإيرادات المتكررة، حيث تنمو الإيرادات طالما أن هناك المزيد من العملاء الذين يبدأون في استخدام المنتج كل شهر ثم يتوقفون، وهو ما سيحدث طالما أنك تصنع منتجًا [يريده ويحبه الناس حقًا](https://longform.asmartbear.com/willingness-to-pay/). (إليك [خريطة الطريق إلى Product/Market Fit](https://longform.asmartbear.com/product-market-fit-formula/) لمعرفة كيفية إنشاء مثل هذه الشركة.)
 
-Consulting and professional services companies are often *not* like this. You'll have regular customers, but the reason consulting companies and accounting and law firms are [often valued](https://www.olmsteadassoc.com/resource-center/law-firm-succession-exit-strategies-valuing-the-firm) around 1x revenue or less, while SaaS companies with similar growth-rate are valued at 5x−10x revenue, is because the work you do for a client isn't accumulating and applying automatically to all other clients, and [consulting companies are hard to scale](https://longform.asmartbear.com/consulting-company-accounting/).
+غالبًا ما لا تكون شركات الخدمات الاستشارية والمهنية على هذا النحو. سيكون لديك عملاء منتظمين، ولكن السبب في أن الشركات الاستشارية وشركات المحاسبة والمحاماة [غالبًا ما يتم تقييمها] (https://www.olmsteadassoc.com/resource-center/law-firm-succession-exit-strategies-valuing-the-firm) تبلغ إيراداتها حوالي 1x أو أقل، في حين يتم تقييم شركات SaaS ذات معدل النمو المماثل بإيرادات 5x−10x، لأن العمل الذي تقوم به للعميل لا يتراكم ويطبق تلقائيًا لجميع العملاء الآخرين، و[يصعب توسيع نطاق الشركات الاستشارية](https://longform.asmartbear.com/consulting-company-accounting/).
 
-> "The most powerful force in the universe is compound interest."  
-> --Albert Einstein.
+> "إن أقوى قوة في الكون هي الفائدة المركبة."
+> - ألبرت أينشتاين.
 
-Some people insist that investments must be *exponential*, but often they don't understand what that means, believing for example that ["viral products" are exponential, when in fact they are not](https://longform.asmartbear.com/exponential-growth/). Exponential is wonderful of course, but not required, and in fact is probably a red herring for most ventures.
+يصر بعض الأشخاص على أن الاستثمارات يجب أن تكون *أسية*، لكنهم في كثير من الأحيان لا يفهمون ما يعنيه ذلك، معتقدين على سبيل المثال أن ["المنتجات الفيروسية" هي أسية، في حين أنها ليست كذلك في الواقع](https://longform.asmartbear.com/exponential-growth/). الأسي أمر رائع بالطبع، لكنه ليس مطلوبًا، وفي الواقع ربما يكون بمثابة ذريعة حمراء بالنسبة لمعظم المشاريع.
 
-## Stable success conditions over ten years
+## ظروف نجاح مستقرة على مدى عشر سنوات
 
-Just because the world values something today, doesn't mean it will be valued ten years from now. If you spend 3-5 years investing, expecting a payoff in the subsequent 5 years, the world had better still value that thing during years 5-10.
+إن كون العالم يقدر شيئًا ما اليوم، لا يعني أنه سيتم تقديره بعد عشر سنوات من الآن. إذا قضيت 3-5 سنوات في الاستثمار، متوقعًا الحصول على عائد في السنوات الخمس التالية، فمن الأفضل للعالم أن يقدر هذا الشيء خلال السنوات 5-10.
 
-This summarizes Jeff Bezos's famous explanation of why Amazon's strategy has always been based on "what will not change." He articulates it so well, I'll leave it here without further commentary (except my emphasis, in bold):
+وهذا يلخص تفسير جيف بيزوس الشهير لماذا كانت استراتيجية أمازون تعتمد دائما على "ما لن يتغير". لقد عبّر عن ذلك بشكل جيد، وسأتركه هنا دون مزيد من التعليقات (باستثناء التركيز بالخط العريض):
 
-> I very frequently get the question: "What's going to change in the next 10 years?" And that is a very interesting question; it's a very common one. I almost never get the question: "What's *not* going to change in the next 10 years?" And I submit to you that that second question is actually the more important of the two--because **you can build a business strategy around the things that are stable in time**. ... [I]n our retail business, we know that customers want low prices, and I know that's going to be true ten years from now. They want fast delivery; they want vast selection.  
->   
-> It's impossible to imagine a future ten years from now where a customer comes up and says, "Jeff, I love Amazon; I just wish the prices were a little higher." "I love Amazon; I just wish you'd deliver a little more slowly." Impossible.  
->   
-> And so the effort we put into those things, spinning those things up, we know the energy we put into it today will still be paying off dividends for our customers 10 years from now. **When you have something that you know is true, even over the long term, you can afford to put a lot of energy into it.**  
->   
-> --[Jeff Bezos](https://www.youtube.com/embed/O4MtQGRIIuA?start=267), 2012 (it's been 10 years since this quote, so we can confirm in retrospect that this was indeed the correct analysis.)
+> كثيرا ما يأتيني السؤال: "ما الذي سيتغير في السنوات العشر القادمة؟" وهذا سؤال مثير للاهتمام للغاية؛ إنها شائعة جدًا. لم أتمكن أبدًا من الحصول على السؤال التالي: "ما الذي *لن* يتغير خلال السنوات العشر القادمة؟" وأؤكد لك أن هذا السؤال الثاني هو في الواقع الأهم من السؤالين -- لأنه **يمكنك بناء استراتيجية عمل حول الأشياء التي تكون مستقرة بمرور الوقت**. ... [أنا] في تجارة التجزئة لدينا، نعلم أن العملاء يريدون أسعارًا منخفضة، وأعلم أن هذا سيكون صحيحًا بعد عشر سنوات من الآن. يريدون التسليم السريع. يريدون مجموعة واسعة.
+> 
+> من المستحيل أن نتخيل المستقبل بعد عشر سنوات من الآن حيث يأتي العميل ويقول: "جيف، أنا أحب أمازون، وأتمنى فقط أن تكون الأسعار أعلى قليلاً." "أنا أحب أمازون، وأتمنى فقط أن تقوم بالتوصيل بشكل أبطأ قليلاً." مستحيل.
+> 
+> وبالتالي فإن الجهد الذي نبذله في هذه الأشياء، وتدويرها، نعلم أن الطاقة التي نبذلها فيها اليوم ستظل تؤتي ثمارها لعملائنا بعد 10 سنوات من الآن. **عندما يكون لديك شيء تعرف أنه صحيح، حتى على المدى الطويل، يمكنك بذل الكثير من الطاقة فيه.**
+> 
+> --[Jeff Bezos](https://www.youtube.com/embed/O4MtQGRIIuA?start=267)، 2012 (لقد مرت 10 سنوات منذ هذا الاقتباس، لذا يمكننا أن نؤكد بأثر رجعي أن هذا كان بالفعل التحليل الصحيح.)
 
 ![second quarter is up no fourth quarter now second again](https://public.asmartbear.com/books/anthology/chapters/investment/d7899print-simple.png)
 
-## Align with global trends
+## تتماشى مع الاتجاهات العالمية
 
-If the best investment is in something that doesn't change, the next best is aligned with a global trend with sufficient momentum that it is unlikely to change soon, if ever.
+إذا كان الاستثمار الأفضل هو في شيء لا يتغير، فإن الاستثمار الأفضل التالي يتماشى مع اتجاه عالمي يتمتع بزخم كافٍ من غير المرجح أن يتغير قريبًا، هذا إن حدث على الإطلاق.
 
-For a startup, you want to be in a large, growing market. This maximizes the number of niches you might find traction in, without triggering a reaction from a large incumbent. It maximizes the number of marketing channels you might be able to leverage. It means people are already spending money, so you're answering "why buy from me" rather than "why should I allocate budget for this at all" or arguing against "that's a problem but not a priority" or evangelizing against "I never heard of that problem." It means the pie is growing, even if your percentage of the pie is small.
+بالنسبة لشركة ناشئة، تريد أن تكون في سوق كبيرة ومتنامية. يؤدي هذا إلى زيادة عدد المجالات المتخصصة التي قد تجد جذبًا إليها، دون إثارة رد فعل من شاغل الوظيفة الكبير. إنه يزيد من عدد قنوات التسويق التي قد تتمكن من الاستفادة منها. هذا يعني أن الناس ينفقون المال بالفعل، لذا فأنت تجيب "لماذا تشتري مني" بدلاً من "لماذا يجب أن أخصص ميزانية لهذا على الإطلاق" أو تجادل ضد "هذه مشكلة ولكنها ليست أولوية" أو تبشر ضد "لم أسمع مطلقًا بهذه المشكلة". فهذا يعني أن الفطيرة تنمو، حتى لو كانت النسبة المئوية للفطيرة صغيرة.
 
-Other current trends are the increase in virtual and distributed workforces, the increasing average age of humans on Earth, the increase in physical delivery services and online shopping, the increasing global demand for health care, education, and energy, and of course the rise of AI in unlocking novel features and capabilities for products and services that are changing the nature of work and life.
+الاتجاهات الحالية الأخرى هي الزيادة في القوى العاملة الافتراضية والموزعة، وزيادة متوسط ​​عمر البشر على الأرض، والزيادة في خدمات التوصيل المادي والتسوق عبر الإنترنت، والطلب العالمي المتزايد على الرعاية الصحية والتعليم والطاقة، وبالطبع صعود الذكاء الاصطناعي في إطلاق ميزات وقدرات جديدة للمنتجات والخدمات التي تغير طبيعة العمل والحياة.
 
-> "The stock market is a device for transferring money from the impatient to the patient."  
-> --Warren Buffett
+> "سوق الأوراق المالية هو وسيلة لتحويل الأموال من الصبر إلى المريض."
+> --وارن بافيت
 
-A trend you can depend on is either (a) so large today that it would take a decade to change significantly, or (b) is growing so fast (e.g. at least 5x in next 5 years) that it will be a strong trend even if your growth estimate is significantly wrong.
+الاتجاه الذي يمكنك الاعتماد عليه هو إما (أ) كبير جدًا اليوم لدرجة أنه سيستغرق عقدًا من الزمن ليتغير بشكل ملحوظ، أو (ب) ينمو بسرعة كبيرة (على سبيل المثال 5 مرات على الأقل في السنوات الخمس القادمة) بحيث سيكون اتجاهًا قويًا حتى لو كان تقدير النمو الخاص بك خاطئًا إلى حد كبير.
 
-## Have an "edge"
+## لديك "حافة"
 
-Why should _you_ make this investment, not someone else? A good investment, that _you_ cannot execute with excellence, isn't a good investment for _you_.
+لماذا يجب عليك القيام بهذا الاستثمار وليس شخص آخر؟ إن الاستثمار الجيد، الذي لا يمكنك تنفيذه بامتياز، ليس استثمارًا جيدًا بالنسبة لك.
 
-What's your edge?
+ما هي الحافة الخاصة بك؟
 
-In financial or startup investing, the edge is often your ability to evaluate the risk. You might understand that a certain execution in a certain product in a certain market carries lower risk than others know. This is an edge, though it is a rare one, in part because even experts are bad at evaluating risk (and [the majority of VC funds lose money](https://www.sethlevine.com/archives/2020/10/vc-fund-returns-are-more-skewed-than-you-think.html), and Angel investors are worse).
+في الاستثمار المالي أو الاستثمار في الشركات الناشئة، غالبًا ما تكون الميزة هي قدرتك على تقييم المخاطر. قد تفهم أن تنفيذًا معينًا لمنتج معين في سوق معينة ينطوي على مخاطر أقل مما يعرفه الآخرون. هذه ميزة، على الرغم من أنها نادرة، ويرجع ذلك جزئيًا إلى أنه حتى الخبراء سيئون في تقييم المخاطر (و [تخسر غالبية صناديق رأس المال الاستثماري أموالها] (https://www.sethlevine.com/archives/2020/10/vc-fund-returns-are-more-skewed-than-you-think.html)، والمستثمرون الملائكة هم الأسوأ).
 
-More likely it's something special about your execution. I'm avoiding the word "unique," because although it's great if you're truly unique in some way, this is rare, and in fact unnecessary. You should, however, [leverage your strengths](https://longform.asmartbear.com/leverage/) so that you have an edge, despite also [being worse](https://longform.asmartbear.com/worse-but-unique/) in most other areas.
+على الأرجح أنه شيء خاص بشأن تنفيذك. أنا أتجنب استخدام كلمة "فريد"، لأنه على الرغم من أنه من الرائع أن تكون فريدًا حقًا بطريقة ما، إلا أن هذا أمر نادر، وفي الواقع غير ضروري. ومع ذلك، يجب عليك [الاستفادة من نقاط قوتك](https://longform.asmartbear.com/leverage/) بحيث يكون لديك ميزة، على الرغم من [كونك أسوأ](https://longform.asmartbear.com/worse-but-unique/) في معظم المجالات الأخرى.
 
-One way to be special is to be the top 0.1% in the world at something (e.g. Olympic athlete), but that's probably not what you are. The other way, and the way available to all of us, is to be in the top 25% at a few uncorrelated[^6] things, which together creates a special edge.
+إحدى الطرق لتكون مميزًا هي أن تكون من بين أفضل 0.1% في العالم في شيء ما (على سبيل المثال، رياضي أولمبي)، لكن هذا ليس ما أنت عليه على الأرجح. الطريقة الأخرى، والطريقة المتاحة لنا جميعًا، هي أن نكون ضمن أفضل 25% في بعض الأشياء غير المترابطة[^6]، والتي تخلق معًا ميزة خاصة.
 
-The quintessential exponent of this idea is Scott Adams, writer of the Dilbert cartoon and now political activist, who [points out](https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html) that he is a decent illustrator but not great, a decent humorist but worse than any comedian on Netflix, and has held jobs in the tech sector, which almost no artist or comedian has done, and therefore it is at the intersection of those three "circles of competence" such as that he gives something unique to the world.
+المؤيد الجوهري لهذه الفكرة هو سكوت آدامز، كاتب الرسوم الكاريكاتورية "ديلبرت" والناشط السياسي الآن، الذي [يشير] (https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html) إلى أنه رسام محترم ولكنه ليس رائعًا، وفكاهي محترم ولكنه أسوأ من أي ممثل كوميدي على Netflix، وقد شغل وظائف في قطاع التكنولوجيا، وهو ما لم يقم به أي فنان أو ممثل كوميدي تقريبًا. لقد فعل ذلك، وبالتالي فإنه عند تقاطع "دوائر الاختصاص" الثلاث تلك، فإنه يعطي شيئًا فريدًا للعالم.
 
-[^6]: For example, being great at both math and computer programming doesn't make you any more special, because those often occur together, whereas being artistic and great at programming places you in a much more elite group.
+[^6]: على سبيل المثال، كونك عظيمًا في كل من الرياضيات وبرمجة الكمبيوتر لا يجعلك أكثر تميزًا، لأن هذين الأمرين غالبًا ما يحدثان معًا، في حين أن كونك فنيًا ورائعًا في البرمجة يضعك في مجموعة أكثر نخبة بكثير.
 
-"Passion" can be part of an edge, but it is not enough. Passion creates motivation, which is especially important when you're [persevering](https://longform.asmartbear.com/chaos-at-start/) through difficult times. However, having passion doesn't mean the risk is low, the payoff is high, the market is good, the customers are there, the product is desirable, or the career is lucrative.
+يمكن أن يكون "الشغف" جزءًا من الميزة، لكنه ليس كافيًا. يخلق الشغف الحافز، وهو أمر مهم بشكل خاص عندما تكون [مثابرًا](https://longform.asmartbear.com/chaos-at-start/) خلال الأوقات الصعبة. ومع ذلك، فإن وجود الشغف لا يعني أن المخاطرة منخفضة، أو أن العائد مرتفع، أو أن السوق جيد، أو أن العملاء موجودون، أو أن المنتج مرغوب فيه، أو أن المهنة مربحة.
 
-Having an edge reduces risk while increasing not only the potential size of the payoff, but your own [personal fulfillment](https://longform.asmartbear.com/fulfillment/), because it puts you at the center of what you love, what you're good at, and what the investment needs to be successful. If you're not sure what your edge is, [here are some questions to ask yourself](https://longform.asmartbear.com/pivot-points/).
+إن الحصول على ميزة يقلل من المخاطر مع زيادة ليس فقط الحجم المحتمل للعائد، بل أيضًا [إنجازك الشخصي](https://longform.asmartbear.com/fulfillment/)، لأنه يضعك في مركز ما تحبه، وما تجيده، وما يحتاجه الاستثمار ليكون ناجحًا. إذا لم تكن متأكدًا من مميزاتك، [إليك بعض الأسئلة التي يجب أن تطرحها على نفسك](https://longform.asmartbear.com/pivot-points/).
 
-## Align with your long-term vision
+## تتماشى مع رؤيتك طويلة المدى
 
-If you run quickly in the wrong direction, that's not progress.
+إذا ركضت بسرعة في الاتجاه الخاطئ، فهذا ليس تقدماً.
 
-If you make investments that pay off, but the pay-off isn't what will make you [proud](https://longform.asmartbear.com/emptiness/), or [happy](https://longform.asmartbear.com/identity-selling-sadness/), or [fulfilled](https://longform.asmartbear.com/fulfillment/), or [rich](https://longform.asmartbear.com/rich-vs-king-sold-company/), or whatever your goals are, then it's not a good investment.
+إذا قمت بإجراء استثمارات تؤتي ثمارها، ولكن العائد ليس هو ما سيجعلك [فخورًا](https://longform.asmartbear.com/emptiness/)، أو [سعيدًا](https://longform.asmartbear.com/identity-sale-sadness/)، أو [مُحققًا](https://longform.asmartbear.com/fulfillment/)، أو [rich](https://longform.asmartbear.com/rich-vs-king-sold-company/)، أو مهما كانت أهدافك، فهذا ليس استثمارًا جيدًا.
 
-If you don't have a long-term vision for yourself, consider making one. [Taylor Pearson](https://x.com/TaylorPearsonMe) has some great advice on [how to make a vision](https://taylorpearson.me/how-to-get-focused/) and [how to set short-term goals](https://taylorpearson.me/three-focus-failures/) against it. See also the last section of my [article on fulfillment](https://longform.asmartbear.com/fulfillment/), with a series of questions that help you discover what you love and hate.
+إذا لم تكن لديك رؤية طويلة المدى لنفسك، ففكر في إنشاء واحدة. يقدم [تايلور بيرسون](https://x.com/TaylorPearsonMe) بعض النصائح الرائعة حول [كيفية تكوين رؤية](https://taylorpearson.me/how-to-get-focused/) و[كيفية تحديد أهداف قصيرة المدى](https://taylorpearson.me/three-focus-failures/) لتحقيقها. راجع أيضًا القسم الأخير من [مقالتي عن الوفاء](https://longform.asmartbear.com/fulfillment/)، مع سلسلة من الأسئلة التي تساعدك على اكتشاف ما تحبه وما تكرهه.
 
-In much of my life, I haven't had a vision. Fortunately, my path has largely been in the right direction anyway, but I wonder [how much of that is due to luck](https://longform.asmartbear.com/survivor-bias/).
+في معظم حياتي، لم يكن لدي رؤية. لحسن الحظ، كان طريقي إلى حد كبير في الاتجاه الصحيح على أي حال، لكنني أتساءل [كم من ذلك يرجع إلى الحظ](https://longform.asmartbear.com/survivor-bias/).
 
-Best not to leave it to luck.
+من الأفضل عدم ترك الأمر للحظ.
 
-## Good investments are rare
+## الاستثمارات الجيدة نادرة
 
-With all these restrictions and rules, it's hard to find a good investment!
+مع كل هذه القيود والقواعد، من الصعب العثور على استثمار جيد!
 
-> "Given our size, we see few good things [to invest in]. If we were smaller, then we'd see lots of good things."  
-> --Warren Buffett
+> "بالنظر إلى حجمنا، نرى القليل من الأشياء الجيدة [للاستثمار فيها]. لو كنا أصغر حجمًا، فسنرى الكثير من الأشياء الجيدة."
+> --وارن بافيت
 
-Yup. Most startups fail. [Most VC portfolios lose money](https://www.sethlevine.com/archives/2020/10/vc-fund-returns-are-more-skewed-than-you-think.html). [80% of day-traders lose money](https://www.energyandcapital.com/why-95-of-traders-lose-money-and-thats-in-a-bull-market/).
+نعم. معظم الشركات الناشئة تفشل. [تخسر معظم محافظ رأس المال الاستثماري الأموال](https://www.sethlevine.com/archives/2020/10/vc-fund-returns-are-more-skewed-than-you-think.html). [80% من المتداولين اليوميين يخسرون المال](https://www.energyandcapital.com/why-95-of-traders-lose-money-and-thats-in-a-bull-market/).
 
-That's why it's so important to adhere to these guidelines--because most investments aren't right for you, and you don't want to spend the next five years doing the wrong thing.
+ولهذا السبب من المهم جدًا الالتزام بهذه الإرشادات - لأن معظم الاستثمارات ليست مناسبة لك، ولا ترغب في قضاء السنوات الخمس القادمة في فعل الشيء الخطأ.
 
-Of course [you'll never know](https://longform.asmartbear.com/perseverance/) if you made the best choice, [even with hindsight](https://longform.asmartbear.com/unmeasurable-metrics/). So the goal isn't to make the "best choice," but rather to make an excellent choice. To invest wisely, with the information you have.
+بالطبع [لن تعرف أبدًا](https://longform.asmartbear.com/perseverance/) ما إذا كنت قد اتخذت الخيار الأفضل، [حتى مع الإدراك المتأخر](https://longform.asmartbear.com/unmeasurable-metrics/). وبالتالي فإن الهدف ليس اتخاذ "الاختيار الأفضل"، بل اتخاذ خيار ممتاز. للاستثمار بحكمة، مع المعلومات التي لديك.
 
-Good luck!
+حظ سعيد!

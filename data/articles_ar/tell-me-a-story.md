@@ -20,65 +20,52 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** اروِ لي قصة: قوة السرد القصصي في إقناع المستثمرين والعملاء تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Tell me a story
-
-> **Executive Summary:** Why do we love Malcolm Gladwell even if his theories are debunked? We love a  great story.
-> **Original URL:** [https://longform.asmartbear.com/tell-me-a-story/](https://longform.asmartbear.com/tell-me-a-story/)
-
 ![Malcolm Gladwell](https://longform.asmartbear.com/tell-me-a-story/1c71404d.png)
 
-[Malcolm Gladwell](http://www.gladwell.com/) is as successful as any non-fiction writer could hope to be. [The Tipping Point](http://www.gladwell.com/tippingpoint/index.html) was the surprise #1 best-seller for months in 2000. Several stories therein have become part of our American vernacular.
+[مالكولم جلادويل] (http://www.gladwell.com/) ناجح بقدر ما يمكن لأي كاتب غير روائي أن يأمل في تحقيقه. كان كتاب [نقطة التحول] (http://www.gladwell.com/tippingpoint/index.html) هو الكتاب الأكثر مبيعًا على مدار أشهر في عام 2000. وقد أصبحت العديد من القصص الواردة فيه جزءًا من لغتنا الأمريكية العامية.
 
-Problem is, it all appears to be wrong. And no one seems to care.
+المشكلة هي أن كل شيء يبدو خاطئًا. ويبدو أن لا أحد يهتم.
 
-Don't get me wrong, I like Gladwell too. His books are entertaining and they make you think. Being a [staff writer](http://www.gladwell.com/archive.html) for the New Yorker places you in the most elite class of writer.
+لا تفهموني خطأ، أنا أحب جلادويل أيضًا. كتبه مسلية وتجعلك تفكر. كونك [كاتبًا في فريق العمل] (http://www.gladwell.com/archive.html) لمجلة New Yorker يضعك في فئة الكتاب الأكثر نخبة.
 
-But then there's that little problem of him being wrong, a lot.
+ولكن هناك مشكلة صغيرة تتمثل في كونه مخطئًا، كثيرًا.
 
-I first noticed the problem when I read [Freakonomics](http://freakonomicsbook.com/). It's another great book on sociology, written by a science-minded journalist (Stephen Dubner) and a story-minded economist (Steven Levitt), with nice stories and backed by convincing data.
+لقد لاحظت المشكلة لأول مرة عندما قرأت [Freakonomics](http://freakonomicsbook.com/). إنه كتاب عظيم آخر عن علم الاجتماع، كتبه صحفي ذو عقلية علمية (ستيفن دوبنر) واقتصادي ذو عقلية قصصية (ستيفن ليفيت)، مع قصص لطيفة ومدعومة ببيانات مقنعة.
 
 ![cover of the book freakonomics](https://longform.asmartbear.com/tell-me-a-story/b49741b9.png)
 
-On the cover of my copy of Freakonomics is this endorsement: "Prepare to be dazzled." By guess who? Malcolm Gladwell! Terrific, except the main argument of Freakonomics specifically disproves the prime theory of the Tipping Point. Here's how:
+على غلاف نسختي من كتاب الاقتصاد العجيب يوجد هذا التأييد: "استعدوا لتكونوا مبهورين". بتخمين من؟ مالكولم جلادويل! رائع، باستثناء أن الحجة الرئيسية للاقتصاد العجيب تدحض على وجه التحديد النظرية الأساسية لنقطة التحول. وإليك الطريقة:
 
-Gladwell defines the "Tipping Point" as the critical point where a system can go one way or another. It's where a trend can either take off on a rampage or fizzle out before it gets off the ground. It's where a few small changes can snowball into big effects.
+يعرّف جلادويل "نقطة التحول" بأنها النقطة الحرجة التي يمكن للنظام أن يسير فيها بطريقة أو بأخرى. إنه المكان الذي يمكن أن ينطلق فيه الاتجاه بشكل هياج أو يتلاشى قبل أن يبدأ. إنه حيث يمكن لبعض التغييرات الصغيرة أن تتحول إلى تأثيرات كبيرة.
 
-As one example, Gladwell explains the Broken Windows theory that (he claimed) was responsible for fixing the rampant crime problem in New York City in the early 1990s. The idea was to fix little, easy things and the big things will follow (because the Tipping Point will be crossed). So they cracked down on squeegee guys, they cleaned up Times Square, and they put pictures of real windows over broken windows in burnt-out crack houses so they didn't look dilapidated.
+على سبيل المثال، يشرح جلادويل نظرية النوافذ المكسورة التي (كما ادعى) ​​كانت مسؤولة عن إصلاح مشكلة الجريمة المتفشية في مدينة نيويورك في أوائل التسعينيات. كانت الفكرة هي إصلاح الأشياء الصغيرة والسهلة وستتبعها الأشياء الكبيرة (لأنه سيتم تجاوز نقطة التحول). لذلك قاموا باتخاذ إجراءات صارمة ضد الممسحات المطاطية، وقاموا بتنظيف تايمز سكوير، ووضعوا صورًا لنوافذ حقيقية فوق النوافذ المكسورة في المنازل المحترقة المتصدعة حتى لا تبدو متداعية.
 
-And the crime went down, quickly and decisively. Awesome, right?
+وسقطت الجريمة بسرعة وحسم. رائع، أليس كذلك؟
 
-Well, science-minded folks are quick to point out that correlations don't imply causal relationships. Just because you did X and Y happened afterward doesn't mean X necessarily caused Y.
+حسنًا، يسارع أصحاب التفكير العلمي إلى الإشارة إلى أن الارتباطات لا تعني علاقات سببية. فقط لأنك فعلت X و Y حدث بعد ذلك لا يعني بالضرورة أن X تسبب في Y.
 
-In the most lengthy and controversial chapter of Freakonomics, Steven Levitt points out that crime went down everywhere in America, not just New York. And at the same time. And that various cities and states were trying various methods of crime reduction from more policemen to curfews to after-school programs to Broken Window strategies, but crime went down the same way, everywhere, regardless. This would seem to imply that none of these factors was the primary factor.
+في الفصل الطويل والمثير للجدل من كتاب الاقتصاد العجيب، يشير ستيفن ليفيت إلى أن الجريمة انتشرت في كل مكان في أمريكا، وليس فقط في نيويورك. وفي نفس الوقت. وأن العديد من المدن والولايات كانت تحاول أساليب مختلفة للحد من الجريمة، بدءًا من زيادة عدد رجال الشرطة إلى حظر التجول إلى برامج ما بعد المدرسة إلى استراتيجيات النافذة المكسورة، لكن الجريمة انخفضت بنفس الطريقة، في كل مكان، بغض النظر. ويبدو أن هذا يعني أن أيا من هذه العوامل لم يكن العامل الأساسي.
 
-There's only one factor that was common across the entire country: That in 1991 the population of people at highest risk for crime immediately diminished, and that's because in 1973 Roe vs. Wade was passed. In 1973 it suddenly became inexpensive and safe to have abortions, and millions of babies that would otherwise be unwanted and often unsupportable were not born, and did not turn 18 in 1991.[^1]
+هناك عامل واحد فقط كان مشتركًا في جميع أنحاء البلاد: أنه في عام 1991 تضاءل على الفور عدد الأشخاص الأكثر عرضة لخطر الجريمة، وذلك لأنه في عام 1973 تم إقرار قضية رو ضد وايد. في عام 1973، أصبح إجراء عمليات الإجهاض غير مكلف وآمن فجأة، ولم يولد ملايين الأطفال الذين كانوا غير مرغوب فيهم وغير قابلين للدعم في كثير من الأحيان، ولم يبلغوا سن 18 عامًا في عام 1991.[^1]
 
-[^1]:  It's even more compelling than this quick overview. For example, some states legalized abortion earlier than others, and each state saw the decrease in crime 18 years after that state legalized it.
+[^1]: إنها أكثر إقناعًا من هذه النظرة العامة السريعة. على سبيل المثال، شرعت بعض الولايات الإجهاض في وقت أبكر من غيرها، وشهدت كل ولاية انخفاضًا في الجريمة بعد 18 عامًا من تشريع تلك الولاية له.
 
-So back to the main point: That Freakonomics disproves the theory of the Tipping Point, and Gladwell still endorsed the book, and no one seems to care.
+لذا نعود إلى النقطة الرئيسية: أن الاقتصاد العجيب يدحض نظرية نقطة التحول، وأن جلادويل ما زال يؤيد الكتاب، ويبدو أن لا أحد يهتم.
 
-Well not no one. Duncan Watts has made a career in network theory, and specifically in debunking the entire "Tipping Point of trends" theory. From a [great article](http://www.fastcompany.com/magazine/122/is-the-tipping-point-toast.html) in Fast Company:
+حسنا لا أحد. لقد عمل دنكان واتس في مجال نظرية الشبكات، وتحديدًا في فضح نظرية "نقطة التحول في الاتجاهات" بأكملها. من [مقالة رائعة](http://www.fastcompany.com/magazine/122/is-the-tipping-point-toast.html) في Fast Company:
 
-> "It sort of sounds cool," Watts says, tucking into his salad. "But it's wonderfully persuasive only for as long as you don't think about it."
+> يقول واتس وهو يتناول سلطته: "يبدو الأمر رائعًا نوعًا ما". "لكنها مقنعة بشكل رائع فقط طالما أنك لا تفكر فيها."
 
-I defer to that article for the fun details, but Watts takes each of the studies Gladwell told and points out how it was either misunderstood or misapplied.
+أرجع إلى تلك المقالة للحصول على التفاصيل الممتعة، لكن واتس يأخذ كل الدراسات التي قالها جلادويل ويشير إلى كيف أسيء فهمها أو أسيء تطبيقها.
 
-When confronted with evidence like those from Levitt and Watts, Gladwell doesn't even attempt to defend himself:
+عندما يواجه جلادويل أدلة مثل تلك التي قدمها ليفيت وواتس، فإنه لا يحاول حتى الدفاع عن نفسه:
 
-> Duncan Watts is exceedingly clever, and I've learned a great deal from his research. In the end, though, I suppose that I feel the same ways about his insights as I do about Steve Levitt's disagreements with me over the causes of the decline in violent crime in the 1990s. I think that all books like *The Tipping Point* or articles by academics can ever do is uncover a little piece of the bigger picture, and one day--when we put all those pieces together--maybe we'll have a shot at the truth.
+> إن دنكان واتس ذكي للغاية، وقد تعلمت الكثير من أبحاثه. ولكن في النهاية، أفترض أنني أشعر بنفس المشاعر تجاه أفكاره كما أشعر بشأن خلافات ستيف ليفيت معي حول أسباب تراجع جرائم العنف في التسعينيات. أعتقد أن كل الكتب مثل "نقطة التحول" أو المقالات التي يكتبها الأكاديميون يمكنها أن تكشف جزءًا صغيرًا من الصورة الأكبر، وفي يوم من الأيام - عندما نجمع كل هذه القطع معًا - ربما تكون لدينا فرصة للوصول إلى الحقيقة.
 
-But if you've read Tipping Point, you get the feeling you're being convinced of a theory, not getting a "piece of the bigger picture." To me this is a cop-out, too embarrassing to just say, "Yeah, it's wrong, but at least it had a lot of great stories."
+ولكن إذا كنت قد قرأت "نقطة التحول"، ستشعر بأنك مقتنع بنظرية ما، ولا تحصل على "جزء من الصورة الأكبر". بالنسبة لي، يعد هذا بمثابة انسحاب، ومن المحرج جدًا أن أقول، "نعم، هذا خطأ، ولكن على الأقل كان يحتوي على الكثير من القصص الرائعة."
 
-It's this last point that I think saves Gladwell in the end. He is a master storyteller. After being beguiled with interesting, provocative stories, the reader is happy to receive Gladwell's unproven, non-sequitur conclusions.
+أعتقد أن هذه النقطة الأخيرة هي التي أنقذت جلادويل في النهاية. وهو راوي القصص الرئيسي. بعد أن ينبهر القارئ بقصص مثيرة للاهتمام، يصبح القارئ سعيدًا بتلقي استنتاجات جلادويل غير المثبتة وغير المتسلسلة.
 
-The stories are so good, they're worth reading anyway. I know I do--I read Blink cover to cover,  while shouting at its illogical conclusions and meandering, self-inconsistent theories, but loving every page and not wanting it to end.
+القصص جميلة جدًا، وتستحق القراءة على أي حال. أعلم أنني أفعل ذلك - فأنا أقرأ "Blink" من الغلاف إلى الغلاف، بينما أصرخ في استنتاجاته غير المنطقية ونظرياته المتعرجة وغير المتسقة، لكنني أحب كل صفحة ولا أريد أن تنتهي.
 
-So it's just another way to reinforce Seth's admonishment that [marketing should](http://www.amazon.com/All-Marketers-Are-Liars-Authentic/dp/1591841003) be defined as [telling a good story](https://seths.blog/2006/04/ode_how_to_tell/). Sometimes everything else is a second-order effect.
+لذا فهي مجرد طريقة أخرى لتعزيز تحذير Seth بأن [التسويق يجب](http://www.amazon.com/All-Marketers-Are-Liars-Authentic/dp/1591841003) يتم تعريفه على أنه [سرد قصة جيدة](https://seths.blog/2006/04/ode_how_to_tell/). في بعض الأحيان يكون كل شيء آخر تأثيرًا من الدرجة الثانية.

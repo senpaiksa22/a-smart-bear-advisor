@@ -20,84 +20,71 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** تمرين ريادي: ما هي المشكلات التي لا يستطيع المال حلها في شركتك؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Startup Exercise: What can't be solved with money?
-
-> **Executive Summary:** What can't be solved with money, are the most valuable things.
-> **Original URL:** [https://longform.asmartbear.com/startup-money/](https://longform.asmartbear.com/startup-money/)
-
 ![mom and dad are my primary funding but i get plenty of soft money from my grandparents](https://public.asmartbear.com/books/anthology/chapters/startup-money/d4818print-simple.png)
 
-When pitching an investor, one of the key things you need to communicate is how **the important problems facing your business can be solved with money**, because money is what they are providing.
+عند الترويج للمستثمر، أحد الأشياء الرئيسية التي تحتاج إلى التواصل معها هو كيف **يمكن حل المشكلات المهمة التي تواجه عملك بالمال**، لأن المال هو ما يقدمونه.
 
-Even if you're not raising money this is a useful exercise, because if you're good at the things money *can't* buy, you'll remain competitive even when [confronted by a well-funded competitor](https://longform.asmartbear.com/startup-beats-incumbent/).
+حتى لو كنت لا تجمع الأموال، فهذا تمرين مفيد، لأنه إذا كنت جيدًا في الأشياء التي *لا* يمكن* شراؤها بالمال، فسوف تظل قادرًا على المنافسة حتى عندما [تواجه منافسًا ممولًا جيدًا](https://longform.asmartbear.com/startup-beats-incumbent/).
 
-So, it's useful to separate the aspects of your business that could be improved with money alone, from what instead requires time, attention, intelligence, and even [luck](https://longform.asmartbear.com/lucky/).
+لذا، من المفيد فصل جوانب عملك التي يمكن تحسينها بالمال وحده، عن الجوانب التي تتطلب بدلاً من ذلك الوقت والاهتمام والذكاء وحتى [الحظ](https://longform.asmartbear.com/lucky/).
 
-### Team
+### فريق
 
-Finding good people is almost impossible. I have this blog, a nice Twitter following, attention in my local community, and social "favors" I can call in, and it's still almost impossible. And the thing about great people is they always have options: Existing job, other excellent offers, the freedom to not work for a while, etc..
+العثور على الناس الطيبين يكاد يكون من المستحيل. لدي هذه المدونة، ومتابعين جيدين على تويتر، واهتمام مجتمعي المحلي، و"خدمات" اجتماعية يمكنني الاتصال بها، ولا يزال الأمر شبه مستحيل. والشيء الذي يميز الأشخاص العظماء هو أن لديهم دائمًا خيارات: وظيفة حالية، وعروض ممتازة أخرى، وحرية عدم العمل لفترة من الوقت، وما إلى ذلك.
 
-If someone handed me a million dollars it wouldn't help me find an awesome person; they're just scarce.
+إذا أعطاني أحدهم مليون دولار، فلن يساعدني ذلك في العثور على شخص رائع؛ إنهم نادرون فقط.
 
-Once I find someone, however, then money helps a lot, because I could satisfy large salary requirements, handle relocation, provide a signing bonus, lease a car, or whatever else is necessary to make money "not the issue."
+ومع ذلك، بمجرد العثور على شخص ما، فإن المال يساعدني كثيرًا، لأنني أستطيع تلبية متطلبات الراتب الكبيرة، أو التعامل مع عملية النقل، أو تقديم مكافأة توقيع، أو استئجار سيارة، أو أي شيء آخر ضروري لكسب المال "وليست المشكلة".
 
-So if you're raising money and you don't have your team assembled, the investor knows that handing you $200,000 won't fix that. Whereas if you have the team, but they're working only in their spare time because day jobs pay the mortgages, that's a good reason to raise money.
+لذا، إذا كنت تقوم بجمع الأموال ولم يكن لديك فريق كامل، فإن المستثمر يعلم أن منحك 200 ألف دولار لن يحل المشكلة. بينما إذا كان لديك فريق، لكنهم يعملون فقط في أوقات فراغهم لأن الوظائف اليومية تدفع الرهون العقارية، فهذا سبب وجيه لجمع الأموال.
 
-### Marketing
+### تسويق
 
-Marketing of most sorts can be solved with money. Money means you can [spray ads everywhere](https://longform.asmartbear.com/p-hacking/). Money means you can [try 20 campaigns](https://longform.asmartbear.com/first-marketing-channel/) even if [most utterly fail](https://longform.asmartbear.com/low-budget-marketing/). Money means you can try 50 titles/descriptions/landing pages through AdWords until you find one that converts decently. Money means you can [fund a Freemium offering](https://longform.asmartbear.com/freemium/).
+يمكن حل معظم أنواع التسويق بالمال. المال يعني أنه يمكنك [نشر الإعلانات في كل مكان](https://longform.asmartbear.com/p-hacking/). المال يعني أنه يمكنك [تجربة 20 حملة](https://longform.asmartbear.com/first-marketing-channel/) حتى لو [فشلت معظمها تمامًا](https://longform.asmartbear.com/low-budget-marketing/). المال يعني أنه يمكنك تجربة 50 عنوانًا/وصفًا/صفحة مقصودة من خلال AdWords حتى تجد الصفحة التي يتم تحويلها بشكل لائق. المال يعني أنه يمكنك [تمويل عرض Freemium](https://longform.asmartbear.com/freemium/).
 
-One big exception is anything that requires [authority](https://longform.asmartbear.com/authentic-is-dead/), like blogging and social media. You can't buy authority. You can't buy that *kind* of attention, where people listen because they want to listen, not because they're interrupted, where they interact with you because they respect your opinion and enjoy your style.
+أحد الاستثناءات الكبيرة هو أي شيء يتطلب [سلطة](https://longform.asmartbear.com/authentic-is-dead/)، مثل التدوين ووسائل التواصل الاجتماعي. لا يمكنك شراء السلطة. لا يمكنك شراء هذا النوع من الاهتمام، حيث يستمع الناس لأنهم يريدون الاستماع، وليس بسبب مقاطعتهم، حيث يتفاعلون معك لأنهم يحترمون رأيك ويستمتعون بأسلوبك.
 
-Social media marketers have already beat this point to death. But if your business requires the modern "tell-your-friends" social-media-style punditry, you'll have to [do that without money](https://longform.asmartbear.com/zero-sum-marketing/). If it's just a matter of pouring more marketing dollars in the top so you can crank out more revenue in the bottom, that's a machine investors like to invest in.
+لقد تجاوز المسوقون عبر وسائل التواصل الاجتماعي هذه النقطة حتى الموت بالفعل. ولكن إذا كان عملك يتطلب أسلوب "أخبر أصدقاءك" الحديث في وسائل التواصل الاجتماعي، فسيتعين عليك [القيام بذلك بدون أموال](https://longform.asmartbear.com/zero-sum-marketing/). إذا كان الأمر يتعلق فقط بضخ المزيد من الدولارات التسويقية في الأعلى حتى تتمكن من تحقيق المزيد من الإيرادات في الأسفل، فهذه آلة يرغب المستثمرون في الاستثمار فيها.
 
-### And so forth
+### وهكذا دواليك
 
-You see the pattern, so **let's accelerate**; what can money solve?
+لقد رأيت النمط، لذا **دعونا نسرع**؛ ما الذي يمكن أن يحله المال؟
 
-* Writing more code, faster, yes. [Knowing](https://longform.asmartbear.com/great-product-manager/) *what* to write, no.
-* Acquiring more leads, yes. Know how to convert them, no.
-* A [prettier website](https://longform.asmartbear.com/design/), yes. What text to put on the website, no.
-* Leeway to make mistakes, yes. Philosophy of learning and [using mistakes](https://longform.asmartbear.com/fail/) to improve, no.
-* A QA team to improve quality, yes. Knowing when a bug isn't important enough to prevent shipping, no.
-* Time to [outlive a recession](https://longform.asmartbear.com/startups-in-recessions/), yes. Making something people [want to buy](https://longform.asmartbear.com/willingness-to-pay/) even during a recession, no.
+* كتابة المزيد من التعليمات البرمجية، بشكل أسرع، نعم. [معرفة](https://longform.asmartbear.com/great-product-manager/) *ما* الذي يجب كتابته، لا.
+* الحصول على المزيد من العملاء المحتملين، نعم. تعرف كيفية تحويلها، لا.
+* [موقع أجمل](https://longform.asmartbear.com/design/)، نعم. ما النص الذي سيتم وضعه على الموقع، لا.
+* مجال لارتكاب الأخطاء، نعم. فلسفة التعلم و[استخدام الأخطاء](https://longform.asmartbear.com/fail/) للتحسين، لا.
+* فريق ضمان الجودة لتحسين الجودة، نعم. معرفة متى لا يكون الخلل مهمًا بدرجة كافية لمنع الشحن، لا.
+* حان الوقت لتجاوز فترة الركود (https://longform.asmartbear.com/startups-in-recessions/)، نعم. صنع شيء ما [يرغب الناس في شرائه](https://longform.asmartbear.com/willingness-to-pay/) حتى أثناء فترة الركود، لا.
 
-The pattern: Concepts, behaviors, knowledge, and process cannot be fabricated with money, and possibly cannot even be accelerated. Once you know what to do or, more likely, you know how to learn quickly, then money becomes an accelerant.
+النمط: لا يمكن اختلاق المفاهيم والسلوكيات والمعرفة والعمليات بالمال، وربما لا يمكن حتى تسريعها. بمجرد أن تعرف ما يجب عليك فعله، أو على الأرجح، تعرف كيفية التعلم بسرعة، يصبح المال بمثابة عامل تسريع.
 
-Even more briefly using the [Explore vs Execute modalities](https://longform.asmartbear.com/explore-execute/): Execution can be solved with money; exploration cannot.
+وبشكل أكثر إيجازًا باستخدام [طرق الاستكشاف مقابل التنفيذ](https://longform.asmartbear.com/explore-execute/): يمكن حل التنفيذ بالمال؛ لا يمكن الاستكشاف.
 
 ![you know for just small increase in my allowance i could make bedtime lot easier](https://public.asmartbear.com/books/anthology/chapters/startup-money/d1009print-simple.png)
 
-## Now therefore...
+## والآن لذلك...
 
-How can you use this principle to raise money?
+كيف يمكنك استخدام هذا المبدأ لجمع المال؟
 
-1. Emphasize how spending money will improve specific things which, today, are broken or missing *only* because money is lacking.
-2. Show proof of your ability to master the things money cannot buy--your ability to learn, change, and improve.
-3. For those things money can accelerate, and for which you've spent a teeny amount of money, show how well you've done with that. It's easy to imagine more money bringing more results.
-4. For those things money can't solve and which you haven't mastered, bring it up before the investors do. And have a plan, proving you're self-aware and thorough. If you don't have a clear, plausible plan, don't raise money yet.
-5. Specifically, don't raise money if you haven't assembled the core team.
+1. أكد على كيف أن إنفاق المال سيؤدي إلى تحسين أشياء محددة، والتي أصبحت اليوم مكسورة أو مفقودة *فقط* بسبب نقص المال.
+2. أظهر دليلاً على قدرتك على إتقان الأشياء التي لا يمكن شراؤها بالمال - قدرتك على التعلم والتغيير والتحسين.
+3. بالنسبة لهذه الأشياء، يمكن أن يتسارع المال، والتي أنفقت عليها مبلغًا صغيرًا من المال، أظهر مدى نجاحك في ذلك. من السهل أن نتخيل المزيد من المال يجلب المزيد من النتائج.
+4. بالنسبة لتلك الأشياء التي لا يستطيع المال حلها والتي لم تتقنها، اطرحها قبل أن يفعلها المستثمرون. ولديك خطة تثبت أنك واعي بذاتك وشامل. إذا لم يكن لديك خطة واضحة ومعقولة، فلا تجمع الأموال بعد.
+5. على وجه التحديد، لا تجمع الأموال إذا لم تقم بتجميع الفريق الأساسي.
 
-Let me make point #2 tangible.
+اسمحوا لي أن أجعل النقطة رقم 2 ملموسة.
 
-I cannot count the times I've heard someone proclaim how adaptable they are. "I'm in love with A/B testing." "I'm not afraid to admit when I'm wrong." "I listen to my customers." "I'm a big fan of Eric Ries."
+لا أستطيع إحصاء المرات التي سمعت فيها شخصًا يعلن عن مدى قدرته على التكيف. "أنا أحب اختبار A/B." "أنا لا أخاف من الاعتراف عندما أخطئ." "أنا أستمع إلى عملائي." "أنا معجب كبير بإريك ريس."
 
-Yeah, [you and 60,000 other people](https://longform.asmartbear.com/startup-marketing-ideas/). I'm supposed to be impressed?
+نعم، [أنت و60 ألف شخص آخر](https://longform.asmartbear.com/startup-marketing-ideas/). من المفترض أن أكون معجبة؟
 
-Since everyone and their dog is now an expert in Lean Startup, you need to *demonstrate*, not regurgitate platitudes. Tell me about how and why your pitch changed when you [vetted your idea with potential customers](https://longform.asmartbear.com/customer-development/). Walk me through a [screenshot](https://longform.asmartbear.com/creativity-over-optimization/) of your app, explaining the customer feedback that lead to each part. Show me your company dashboard with the [numbers that matter](https://longform.asmartbear.com/product-metrics/), explaining why each number is there, what you expect those numbers to do, and what you do when they don't go as expected. Tell me about your first idea which [turned out to be wrong but lead you to the second](https://longform.asmartbear.com/your-idea-sucks-do-it-anyway/), and how much easier it was to sell the second. Tell me what happened when you tried [different price points](https://longform.asmartbear.com/pricing-determines-your-business-model/), and why you settled on the current one. Show me which part of your landing pages [improved with A/B testing](https://longform.asmartbear.com/p-hacking/) and which required old-fashioned creative thought. Tell me in your customers' own words why [they're willing to pay](https://longform.asmartbear.com/customer-validation/) you for any of this.
+نظرًا لأن الجميع وكلبهم أصبحوا الآن خبراء في Lean Startup، فأنت بحاجة إلى *إظهار*، وليس اجترار الابتذال. أخبرني كيف ولماذا تغير عرضك التقديمي عندما [فحصت فكرتك مع العملاء المحتملين](https://longform.asmartbear.com/customer-development/). أطلعني على [لقطة شاشة](https://longform.asmartbear.com/creativity-over-optimization/) لتطبيقك، موضحًا تعليقات العملاء التي تؤدي إلى كل جزء. اعرض لي لوحة معلومات شركتك مع [الأرقام المهمة](https://longform.asmartbear.com/product-metrics/)، موضحًا سبب وجود كل رقم، وما تتوقع أن تفعله هذه الأرقام، وماذا تفعل عندما لا تسير كما هو متوقع. أخبرني عن فكرتك الأولى التي [تبين أنها خاطئة ولكنها قادتك إلى الثانية](https://longform.asmartbear.com/your-idea-sucks-do-it-anyway/)، وكم كان من الأسهل بيع الثانية. أخبرني بما حدث عندما جربت [نقاط سعر مختلفة](https://longform.asmartbear.com/pricing-determines-your-business-model/)، ولماذا استقرت على النقطة الحالية. أرني أي جزء من صفحاتك المقصودة [تم تحسينه باستخدام اختبار A/B](https://longform.asmartbear.com/p-hacking/) وأي جزء يتطلب تفكيرًا إبداعيًا قديمًا. أخبرني بكلمات عملائك الخاصة عن سبب [رغبتهم في الدفع](https://longform.asmartbear.com/customer-validation/) لك مقابل أي من هذا.
 
-When you demonstrate that you can do these things, what you're really saying is that you know how to think, how to overcome roadblocks, how to figure out what to do.
+عندما تثبت أنك قادر على القيام بهذه الأشياء، فإن ما تقوله حقًا هو أنك تعرف كيفية التفكير، وكيفية التغلب على حواجز الطرق، وكيفية معرفة ما يجب القيام به.
 
-All things money can't buy, but exactly the things which, when combined with money, make companies [most likely to succeed](https://longform.asmartbear.com/avoid-blundering/).
+كل الأشياء لا يمكن شراؤها بالمال، ولكن بالضبط الأشياء التي، عندما تقترن بالمال، تجعل الشركات [أكثر احتمالاً للنجاح](https://longform.asmartbear.com/avoid-blundering/).
 
-If you're not raising money, you still need these skills, exactly because you don't have the money to waste!
+إذا لم تكن تجمع الأموال، فأنت لا تزال بحاجة إلى هذه المهارات، لأنه ليس لديك المال لتضيعه!
 
-Things money cannot buy are still the most valuable things.
+الأشياء التي لا يمكن شراؤها بالمال لا تزال هي الأشياء الأكثر قيمة.

@@ -20,49 +20,36 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** القلق نبوءة تحقق ذاتها: ماذا تفعل بدلاً من التوتر المستمر؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Worrying is self-fulfilling; what to do instead
-
-> **Executive Summary:** Worrying makes things worse. Replace worry with preparation and strategic planning.
-> **Original URL:** [https://longform.asmartbear.com/worry/](https://longform.asmartbear.com/worry/)
-
 ![santa claus on psychiatrist couch](https://longform.asmartbear.com/worry/de45a3ec.png)
 
-Worrying is a self-fulfilling prophecy.
+القلق هو نبوءة ذاتية التحقق.
 
-"Worry" causes the thing you're worried about, to actually happen.
+"القلق" يجعل الشيء الذي تقلق منه يحدث بالفعل.
 
-When you're backstage, getting more and more anxious that your performance won't be good, you're injecting thoughts of second-guessing and fear so that they arise during the performance. Instead, you should realize you've already done all the practice required, and mistakes don't actually matter anyway. No one is counting except you.
+عندما تكون خلف الكواليس، يزداد قلقك من أن أدائك لن يكون جيدًا، فأنت تحقن أفكار التخمين والخوف بحيث تظهر أثناء الأداء. بدلًا من ذلك، يجب أن تدرك أنك قد قمت بالفعل بكل التدريبات المطلوبة، وأن الأخطاء لا تهم في الواقع على أي حال. لا أحد يحسب إلا أنت.
 
-When you're lining up to take a shot on the pool table, or a serve in tennis, or swing your golf club, if you're worrying about all the things you're supposed to do, thinking while you're doing, you inevitably screw up the shot. Instead, you should visualize the shot ahead of time, then clear your mind and execute using muscle-memory.
+عندما تصطف لتلعب على طاولة البلياردو، أو تلعب التنس، أو تضرب بمضرب الجولف الخاص بك، إذا كنت تقلق بشأن كل الأشياء التي من المفترض أن تفعلها، وتفكر أثناء القيام بذلك، فإنك حتمًا تفشل في التسديد. بدلًا من ذلك، يجب عليك تصور اللقطة مسبقًا، ثم تصفية ذهنك والتنفيذ باستخدام ذاكرة العضلات.
 
-"Worry" breaks things which aren't broken. It doesn't lead constructively to solutions, it only creates problems.
+"القلق" يكسر الأشياء التي لم تنكسر. فهو لا يؤدي بشكل بناء إلى الحلول، بل يخلق المشاكل فقط.
 
 ![Cartoon 602a5c92](https://longform.asmartbear.com/worry/8701417c.png)
 
-The opposite of "Worry" isn't "Apathy". The opposite is "Preparation".
+عكس "القلق" ليس "اللامبالاة". والعكس هو "التحضير".
 
-There's a long-term version of planning that all great athletes do. They pummel themselves with purposeful repetition of specific skills, to the point of boredom. They plan energy output and practice-schedules across an entire season, such that they peak during the most important meets.
+هناك نسخة طويلة المدى من التخطيط يقوم بها جميع الرياضيين العظماء. إنهم يهاجمون أنفسهم بالتكرار الهادف لمهارات معينة، إلى حد الملل. إنهم يخططون لإنتاج الطاقة وجداول التدريب على مدار موسم كامل، بحيث يصلون إلى ذروتهم خلال اللقاءات الأكثر أهمية.
 
-Equally, there's preparation in the very seconds prior to execution. Visualization is a technique common to all sport; its efficacy has been verified by a robust set of experiments. At the Olympics you catch glimpses of downhill skiers, gymnasts, and ice skaters, eyes closed, immersed in a VR of the mind, swaying with muted motions of their routines and routes. Billiard players visualize the motion of the cue ball before they strike, but they clear their minds as they actually strike.
+وبالمثل، هناك تحضير في الثواني التي تسبق التنفيذ. التصور هو أسلوب شائع في جميع الألعاب الرياضية. وقد تم التحقق من فعاليته من خلال مجموعة قوية من التجارب. في الألعاب الأولمبية، يمكنك إلقاء نظرة على المتزلجين على المنحدرات، ولاعبي الجمباز، والمتزلجين على الجليد، وأعينهم مغلقة، ومنغمسين في الواقع الافتراضي للعقل، ويتمايلون بحركات صامتة لروتينهم ومساراتهم. يتصور لاعبو البلياردو حركة الكرة الأساسية قبل أن يضربوها، لكنهم يصفون أذهانهم عندما يضربونها بالفعل.
 
 ![Cartoon 3fae5cfd](https://longform.asmartbear.com/worry/814459ca.png)
 
-As you might expect, this is a generic lesson that applies to all other aspects of life. Applied to startups, this includes worrying about how to make payroll, worrying [how the competition will hurt you](https://longform.asmartbear.com/competing-big-companies/), worrying about what someone said about you on Twitter, worrying that [the visual design isn't compelling](https://longform.asmartbear.com/design/), worrying that you won't be able to close the customer on this call, worrying that [you're not optimizing for the right metric](https://longform.asmartbear.com/saas-metric/), worrying that [you don't know the right way to do things](https://longform.asmartbear.com/thats-the-way-its-done/).
+كما قد تتوقع، هذا درس عام ينطبق على جميع جوانب الحياة الأخرى. عند تطبيق ذلك على الشركات الناشئة، يتضمن ذلك القلق بشأن كيفية إعداد كشوف المرتبات، والقلق [كيف ستضرك المنافسة](https://longform.asmartbear.com/competing-big-companies/)، والقلق بشأن ما قاله شخص ما عنك على تويتر، والقلق من أن [التصميم المرئي ليس مقنعًا](https://longform.asmartbear.com/design/)، والقلق من أنك لن تتمكن من إغلاق العميل في هذه المكالمة، والقلق أن [أنت لا تعمل على تحسين المقياس الصحيح](https://longform.asmartbear.com/saas-metric/)، والقلق من [أنك لا تعرف الطريقة الصحيحة للقيام بالأشياء](https://longform.asmartbear.com/thats-the-way-its-done/).
 
-Worse, turning the gun on yourself: Worrying that [it's just too hard](https://longform.asmartbear.com/startups-emotionally-draining/), worrying that you're not following good advice, worrying that [everything you do is unsatisfactory](https://longform.asmartbear.com/be-yourself/), worrying that [others are so much better than you](https://longform.asmartbear.com/feelings-of-inadequacy/) and therefore that [you have no business doing any of this](https://longform.asmartbear.com/impostor-syndrome/) in the first place.
+والأسوأ من ذلك، توجيه البندقية نحو نفسك: القلق من أن [الأمر صعب للغاية] (https://longform.asmartbear.com/startups-emotionally-draining/)، القلق من أنك لا تتبع النصائح الجيدة، القلق من أن [كل ما تفعله غير مرض] (https://longform.asmartbear.com/be-yourself/)، القلق من أن [الآخرين أفضل بكثير من الآخرين أنت](https://longform.asmartbear.com/feelings-of-inadequacy/) وبالتالي [ليس لديك أي عمل للقيام بأي من هذا](https://longform.asmartbear.com/impostor-syndrome/) في المقام الأول.
 
-[Startups are a crucible](https://longform.asmartbear.com/startup-life/); these are among the symptoms.
+[الشركات الناشئة هي بوتقة](https://longform.asmartbear.com/startup-life/)؛ هذه من بين الأعراض.
 
-If some of this rings true, those links will help.
+إذا كان بعض هذا صحيحًا، فستساعدك هذه الروابط.
 
-In any case, realize that the worry itself is worse than unhelpful--it's destructive. It might even be better to be blissfully ignorant than to worry.
+على أية حال، عليك أن تدرك أن القلق في حد ذاته أسوأ من كونه غير مفيد، فهو مدمر. قد يكون من الأفضل أن تكون جاهلاً بسعادة بدلاً من القلق.
 
-Instead, tackle the root of the worry constructively, prepare yourself as best you can, and then just proceed.
+بدلاً من ذلك، قم بمعالجة جذور القلق بشكل بناء، وقم بإعداد نفسك بأفضل ما يمكنك، ثم تابع.

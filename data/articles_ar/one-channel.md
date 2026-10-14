@@ -20,35 +20,22 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** التسويق في الشركات الناشئة الأولى: تعمق في قناة واحدة بدلاً من التشتت تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Marketing at early startups: Deep, not wide
-
-> **Executive Summary:** Go deep on one marketing strategy that you already know well; spreading thin won't be successful.
-> **Original URL:** [https://longform.asmartbear.com/one-channel/](https://longform.asmartbear.com/one-channel/)
-
 ![Cartoon e1db5b25](https://longform.asmartbear.com/one-channel/7fba807f.png)
 
-Watch a bunch of interviews of founders of successful companies, and here's what you *don't* hear:
+شاهد مجموعة من المقابلات مع مؤسسي الشركات الناجحة، وإليك ما *لا* تسمعه:
 
-> We tried eight different marketing channels--AdWords, Facebook, Twitter, Pinterest, social media, events, retargeting, SEO, guest-posting, PR, and so on. All of them worked a little bit, so together it was substantial--a trickle from each that added up to a river. Then we optimized each of them, improving each a bit more every month, and sure enough revenue doubled every year.
+> لقد جربنا ثماني قنوات تسويقية مختلفة - AdWords، وFacebook، وTwitter، وPinterest، ووسائل التواصل الاجتماعي، والأحداث، وإعادة الاستهداف، وتحسين محركات البحث، ونشر الضيوف، والعلاقات العامة، وما إلى ذلك. كلهم عملوا قليلاً، لذلك كان الأمر معًا كبيرًا - قطرة من كل منها تضاف إلى النهر. ثم قمنا بتحسين كل واحد منهم، وتحسين كل منهم قليلاً كل شهر، والتأكد من مضاعفة الإيرادات بشكل كافٍ كل عام.
 
-That's never how it works.
+هذا ليس كيف يعمل أبدا.
 
-Spreading your precious money and even more precious time over many channels doesn't get a company off the ground. Typically, successful companies find **one channel that really works**, and then plumb it to its [maximum inventory](https://longform.asmartbear.com/low-budget-marketing/) before layering on additional channels.
+إن توزيع أموالك الثمينة ووقتك الثمين على العديد من القنوات لا يؤدي إلى انطلاقة الشركة. عادةً، تبحث الشركات الناجحة عن **قناة واحدة ناجحة بالفعل**، ثم تقوم بتوصيلها إلى [الحد الأقصى للمخزون](https://longform.asmartbear.com/low-budget-marketing/) قبل إضافتها إلى قنوات إضافية.
 
-How to pick the one channel? Especially since "spray and pray" isn't a good way to find the answer?
+كيفية اختيار قناة واحدة؟ خاصة وأن "رش وصلي" ليست طريقة جيدة للعثور على الجواب؟
 
-Start with the handful of channels that you *personally use and understand*. If you're a Twitter person but rarely use Facebook and can't comprehend the interest of Pinterest, then spend a few months trying to build a corporate Twitter presence and buy Twitter ads. If you think Twitter is all trash and politics, but Pinterest is a cornucopia of heavenly visions, then build shareable images and buy Pinterest ads.
+ابدأ بعدد قليل من القنوات التي *تستخدمها وتفهمها شخصيًا*. إذا كنت أحد مستخدمي Twitter ولكنك نادرًا ما تستخدم Facebook ولا يمكنك فهم اهتمامات Pinterest، فاقض بضعة أشهر في محاولة بناء تواجد مؤسسي على Twitter وشراء إعلانات Twitter. إذا كنت تعتقد أن تويتر مجرد قمامة وسياسة، ولكن موقع Pinterest عبارة عن وفرة من الرؤى السماوية، فقم ببناء صور قابلة للمشاركة وشراء إعلانات Pinterest.
 
-Why? Because success in social marketing channels arises from a resonance between your personality and the norms and language of that channel.
+لماذا؟ لأن النجاح في قنوات التسويق الاجتماعي ينشأ من التناغم بين شخصيتك وأعراف ولغة تلك القناة.
 
-The best chance you have for developing that resonance is when it arises naturally, not because you A/B test your Twitter persona (should I be more humorous and sarcastic or more serious and profound? Or just [give up](https://twitter.com/asmartbear)?). If you're baffled by the Facebook culture, because you think people pretend to be thoughtfully happy and thoughtlessly witty but are simultaneously depressed because that they're not *actually* as happy and thoughtful and witty as all their "friends" apparently are, then you're not going to just jump in there and develop a presence and language that resonates with people who you're predisposed to despise at worst and just not understand at best.
+أفضل فرصة لديك لتطوير هذا الرنين هي عندما ينشأ بشكل طبيعي، وليس لأنك تختبر شخصيتك على تويتر (أ/ب) (هل يجب أن أكون أكثر فكاهة وسخرية أم أكثر جدية وعمقًا؟ أم فقط [استسلم](https://twitter.com/asmartbear)؟). إذا كنت في حيرة من ثقافة فيسبوك، لأنك تعتقد أن الناس يتظاهرون بأنهم سعداء بشكل مدروس وأذكياء دون تفكير ولكنهم مكتئبون في نفس الوقت لأنهم ليسوا *في الواقع* سعداء ومفكرين وأذكياء مثل جميع "أصدقائهم" على ما يبدو، فلن تقفز هناك وتطور حضورًا ولغة يتردد صداها مع الأشخاص الذين تميل إلى احتقارهم في أسوأ الأحوال ولا تفهمهم في أحسن الأحوال.
 
-So, stay with what you know, where you're comfortable, and focus on doubling your business on that channel. Sometimes, getting outside your comfort zone is wrong. Spreading yourself thin is even more wrong.
+لذا، ابق مع ما تعرفه، وفي المكان الذي تشعر فيه بالراحة، وركز على مضاعفة أعمالك على تلك القناة. في بعض الأحيان، يكون الخروج من منطقة الراحة الخاصة بك أمرًا خاطئًا. إن نشر نفسك بشكل رقيق هو أمر أكثر خطأ.

@@ -20,67 +20,54 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** في الفراغ تكمن وظيفة الشركة الناشئة وقيمتها الحقيقية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# In its emptiness, there is the function of a startup
-
-> **Executive Summary:** Everything about a startup changes over time. The few things that don't, are its essence. The voyage is meaningless, unless you decide what those things are.
-> **Original URL:** [https://longform.asmartbear.com/emptiness/](https://longform.asmartbear.com/emptiness/)
-
 ![d6570print](https://public.asmartbear.com/books/anthology/chapters/emptiness/d6570print-simple.png)
 
-Calm your frenetic TL;DR twitchy-Twitter-brain for five minutes, and let some Chinese philosophy wash over you.
+قم بتهدئة دماغك المحموم على تويتر لمدة خمس دقائق، ودع بعض الفلسفة الصينية تغمرك.
 
-> Thirty spokes join in one hub  
-> In its emptiness, there is the function of a vehicle  
->   
-> Mix clay to create a container  
-> In its emptiness, there is the function of a container  
->   
-> Cut open doors and windows to create a room  
-> In its emptiness, there is the function of a room  
->   
-> Therefore, that which exists is used to create benefit  
-> That which is empty is used to create functionality  
->   
-> --Lao Tzu, Chapter 11, Tao Te Ching, ~600 BCE, [translation](https://www.taoism.net/ttc/complete.htm) by Derek Lin
+> ثلاثون متحدثًا ينضمون إلى محور واحد
+> وفي فراغها هناك وظيفة المركبة
+> 
+> مزيج الطين لإنشاء حاوية
+> في فراغه هناك وظيفة الحاوية
+> 
+> قطع الأبواب والنوافذ المفتوحة لإنشاء غرفة
+> في فراغها، هناك وظيفة الغرفة
+> 
+> ولذلك، فإن ما هو موجود يستخدم لخلق المنفعة
+> يتم استخدام ما هو فارغ لإنشاء وظائف
+> 
+> --لاو تزو، الفصل 11، تاو تي تشينغ، ~ 600 قبل الميلاد، [ترجمة] (https://www.taoism.net/ttc/complete.htm) بقلم ديريك لين
 
-An ancient brainteaser asks: If a wooden ship sails around the world, but along the way each board rots and is replaced by new boards, so that by the end of its journey every board has been replaced, is it still the same ship? Did "it" really go around the world?￼
+تسأل إحدى المسابقات الذهنية القديمة: إذا كانت سفينة خشبية تبحر حول العالم، ولكن على طول الطريق يتعفن كل لوح منها ويتم استبداله بألواح جديدة، بحيث يتم استبدال كل لوح بحلول نهاية الرحلة، فهل لا تزال هي نفس السفينة؟ هل "لقد" انتشرت حول العالم حقًا؟￼
 
-Lao Tzu suggests the answer is "yes," because the functionality of the ship--the "emptiness" created by those boards--is the essence of the ship.
+يقترح لاو تزو أن الإجابة هي "نعم"، لأن وظيفة السفينة - "الفراغ" الذي تخلقه تلك الألواح - هو جوهر السفينة.
 
-What about yourself? Your boards are being replaced every second--trillions of cells splitting, growing, dying. Are you the same person you were ten years ago? Physically, not really. In DNA yes (mostly), but identical twins share DNA and are not the same person. Can you articulate precisely what resides in the emptiness created by your body, or by the electro-chemical pandemonium sloshing within your skull?
+ماذا عن نفسك؟ يتم استبدال الألواح الخاصة بك كل ثانية - تنقسم تريليونات الخلايا وتنمو وتموت. هل أنت نفس الشخص الذي كنت عليه قبل عشر سنوات؟ جسديا، وليس حقا. في الحمض النووي نعم (في الغالب)، لكن التوائم المتماثلة تشترك في الحمض النووي وليست نفس الشخص. هل يمكنك التعبير بدقة عما يوجد في الفراغ الذي خلقه جسدك، أو عن طريق الهرج والمرج الكهروكيميائي الذي يدور داخل جمجمتك؟
 
-What about a startup? It's [not a person](https://longform.asmartbear.com/startup-life/) but composed of people. Is a company of 2 people and 150 customers the "same company" as with 150 people and 25,000 customers? In tangible ways it's not the same, but in its emptiness lies the essence and purpose of this motley crew of human beings.
+ماذا عن الشركة الناشئة؟ إنه [ليس شخصًا](https://longform.asmartbear.com/startup-life/) ولكنه مكون من أشخاص. هل الشركة المكونة من شخصين و150 عميلًا هي "نفس الشركة" التي تضم 150 شخصًا و25000 عميل؟ أما بطرق ملموسة، فهي ليست هي نفسها، ولكن في فراغها يكمن جوهر وهدف هذا الطاقم المتنوع من البشر.
 
-So the interesting question for a startup is: What is constant? What *doesn't* change as we grow, and thus what binds us together in this journey? If we "go around the world," changing out every board, what has been conveyed?
+لذا فإن السؤال المثير للاهتمام بالنسبة للشركات الناشئة هو: ما هو الثابت؟ ما الذي *لا* يتغير مع نمونا، وبالتالي ما الذي يربطنا معًا في هذه الرحلة؟ إذا "تجولنا حول العالم"، وقمنا بتغيير كل لوحة، فما الذي تم نقله؟
 
-Can't be about product features, they change, grow, and die like cells. Can't be about marketing prose, that's molded by A/B testing into market-resonance. Can't be people--the team's composition changes, and those who stay for the entire voyage themselves change. Can't be [the metrics](https://longform.asmartbear.com/product-metrics/), they'll change by orders of magnitude. Can't be the logo, or even the name. Can't be the office space--Lao Tzu already made that clear, as did COVID.
+لا يمكن أن يكون الأمر متعلقًا بميزات المنتج، فهي تتغير وتنمو وتموت مثل الخلايا. لا يمكن أن يكون الأمر متعلقًا بالنثر التسويقي، الذي تم تشكيله بواسطة اختبار A/B ليتناسب مع السوق. لا يمكن أن يكونوا أشخاصًا - يتغير تكوين الفريق، وأولئك الذين يبقون طوال الرحلة يتغيرون بأنفسهم. لا يمكن أن تكون [المقاييس](https://longform.asmartbear.com/product-metrics/)، فسوف تتغير حسب حجمها. لا يمكن أن يكون الشعار، أو حتى الاسم. لا يمكن أن تكون مساحة مكتبية - لقد أوضح لاو تزو ذلك بالفعل، كما فعل كوفيد.
 
-So, what doesn't change? Whatever it is, **that is what defines the startup and its purpose**, and is the answer to the all-important question: Why should anyone--employees and customers alike--join the founder on this journey, sharing this very personal responsibility?
+إذن، ما الذي لا يتغير؟ ومهما كان الأمر، **هذا هو ما يحدد الشركة الناشئة والغرض منها**، وهو الإجابة على السؤال المهم للغاية: لماذا يجب على أي شخص - موظفين وعملاء على حد سواء - الانضمام إلى المؤسس في هذه الرحلة، وتقاسم هذه المسؤولية الشخصية للغاية؟
 
-At WP Engine we call these constants our "values"--our inviolable constitution. When we need to make a tough decision, our values determine the outcome. For example, if in some choice we must either lose money or do what's right for the customer, we will do what's right for the customer. Or if we have to decide whether to fire someone who is exceptionally skillful at his job but is dishonest or works for himself instead of for the team, we will always fire that person.
+في WP Engine، نسمي هذه الثوابت "قيمنا" - دستورنا الذي لا يمكن انتهاكه. عندما نحتاج إلى اتخاذ قرار صعب، فإن قيمنا تحدد النتيجة. على سبيل المثال، إذا اضطررنا في بعض الاختيارات إما إلى خسارة المال أو القيام بما هو مناسب للعميل، فسنفعل ما هو مناسب للعميل. أو إذا كان علينا أن نقرر ما إذا كنا سنطرد شخصًا ماهرًا بشكل استثنائي في وظيفته ولكنه غير أمين أو يعمل لحساب نفسه بدلاً من الفريق، فسوف نقوم دائمًا بطرد هذا الشخص.
 
-In fact, a clear agreement of core values **is how you empower everyone in the company to act like an owner.** Can someone in their first week of tech support decide whether it's OK to give a customer a large refund or spend extra hours to go above and beyond to fix something? If you have a framework of values which clearly points to that as the right course of action, then someone can make that decision without approval-chains and meetings and debates. Isn't that the definition of empowerment? And doesn't that sound like part of the solution to "scale?"
+في الواقع، الاتفاق الواضح على القيم الأساسية ** هو كيفية تمكين كل فرد في الشركة من التصرف كمالك. ** هل يمكن لأي شخص في الأسبوع الأول من الدعم الفني أن يقرر ما إذا كان من المقبول منح العميل مبلغًا كبيرًا من المال أو قضاء ساعات إضافية في بذل قصارى جهده لإصلاح شيء ما؟ إذا كان لديك إطار من القيم يشير بوضوح إلى ذلك باعتباره المسار الصحيح للعمل، فيمكن لأي شخص اتخاذ هذا القرار دون سلاسل موافقة واجتماعات ومناقشات. أليس هذا هو تعريف التمكين؟ ألا يبدو هذا جزءًا من الحل لمشكلة "التوسع"؟
 
 ![Signing the WP Engine values](https://public.asmartbear.com/books/anthology/chapters/emptiness/kobcdsmseonwzdzrutkyzsbpgdetltpp-16388064267-o-simple.png)
 
-**This is why it's so important to encode your company's values on paper.** For us, we literally put them on the wall and we all signed it like the US Declaration of Independence. You have to ensure everyone not only agrees to them as a condition of employment, committing them to memory due to external requirement, but because in their bones they already embody those values, and therefore will naturally continue propagating them to those around them and those who follow.
+**لهذا السبب من المهم جدًا ترميز قيم شركتك على الورق.** بالنسبة لنا، وضعناها حرفيًا على الحائط ووقعنا عليها جميعًا مثل إعلان استقلال الولايات المتحدة. عليك أن تتأكد من أن الجميع لا يوافقون عليها فقط كشرط للتوظيف، وحفظها في الذاكرة بسبب متطلبات خارجية، ولكن لأنهم يجسدون بالفعل تلك القيم في أعماقهم، وبالتالي سيستمرون بشكل طبيعي في نشرها لمن حولهم وأولئك الذين يتبعونهم.
 
-**"Company Culture" is the output of living your values.** It's never perfect, either as individuals or an organization, and at any given time you're falling short at some aspects of the culture, aspirationally trying to live up to your own expectations. That's healthy.
+**"ثقافة الشركة" هي نتاج عيش قيمك.** إنها ليست مثالية أبدًا، سواء كأفراد أو كمؤسسة، وفي أي وقت، فإنك تقصر في بعض جوانب الثقافة، وتحاول بشكل طموح أن ترقى إلى مستوى توقعاتك الخاصة. هذا صحي.
 
-The three companies I founded before WP Engine were successful enough, but I never thought about culture or values. That was a mistake. Today two of those companies still exist, and after nearly two decades have continued to grow, and yet, without a higher purpose, a truly important mission for our customers and dedication to our employees, **maybe who cares?**
+كانت الشركات الثلاث التي أسستها قبل WP Engine ناجحة بما فيه الكفاية، لكنني لم أفكر أبدًا في الثقافة أو القيم. لقد كان ذلك خطأً. واليوم لا تزال اثنتين من تلك الشركات موجودة، وبعد ما يقرب من عقدين من الزمن استمرت في النمو، ومع ذلك، بدون هدف أسمى، فهي مهمة مهمة حقًا لعملائنا والتفاني في خدمة موظفينا، **ربما من يهتم؟**
 
-Why so dismissive of that success? Because what sort of jobs did that create? Were people happy and empowered? Mentoring and being mentored? Did they build a career they're proud of? Did they feel that [this time in their life was not wasted](https://longform.asmartbear.com/success-guaranteed/)?
+لماذا هذا الرفض لهذا النجاح؟ لأنه ما نوع الوظائف التي خلقها ذلك؟ هل كان الناس سعداء ومتمكنين؟ الإرشاد والتوجيه؟ هل بنوا مهنة يفتخرون بها؟ هل شعروا أن [هذا الوقت من حياتهم لم يضيع](https://longform.asmartbear.com/success-guaranteed/)؟
 
-I don't actually know, how sad is that? **Financial success is the means, not the ends.** Without financial success the company isn't sustainable, so that component of success is absolutely necessary. But "money doesn't make you happy," and it certainly doesn't make other people happy, or [lead to a fulfilling, meaningful life](https://longform.asmartbear.com/fulfillment/).
+لا أعلم في الحقيقة، ما مدى حزن ذلك؟ **النجاح المالي هو الوسيلة، وليس الغايات.** بدون النجاح المالي، لن تكون الشركة مستدامة، لذا فإن عنصر النجاح ضروري للغاية. لكن "المال لا يجعلك سعيدًا"، وبالتأكيد لا يجعل الآخرين سعداء، أو [يؤدي إلى حياة مُرضية وذات معنى](https://longform.asmartbear.com/fulfillment/).
 
-**What does?** Answer that question, revealed by your culture in the emptiness created by your values, and you've truly done something important with your life, and for others' lives.
+**ماذا يفعل؟** أجب عن هذا السؤال، الذي كشفت عنه ثقافتك في الفراغ الذي خلقته قيمك، وقد فعلت حقًا شيئًا مهمًا في حياتك، ومن أجل حياة الآخرين.
 
-What is your emptiness?
+ما هو الفراغ لديك؟

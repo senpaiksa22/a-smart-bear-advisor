@@ -20,44 +20,31 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الابتكار الحقيقي هو عمل روتيني شاق وليس ومضة إلهام سحرية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Invention is Drudgery
-
-> **Executive Summary:** Having skipped to the last page of other people's books, we forget the rest of the journey.  And, that we have to take that journey, too.
-> **Original URL:** [https://longform.asmartbear.com/drudgery/](https://longform.asmartbear.com/drudgery/)
-
 ![youve got boring at 11 00 pointless at 1 00 and interminable at 3 00?searchid=44787](https://public.asmartbear.com/books/anthology/chapters/drudgery/d7498print-simple.png)
 
-Edison spent 18 months on the drudgery of trial and error to produce the first workable light, which lasted only 13 hours before the carbon fiber filament would burn out. He then spent another 18 months on the drudgery of trial and error before discovering that a carbonized bamboo filament would last 100x longer, and finally a practical, salable light-bulb was born.
+قضى إديسون 18 شهرًا في كدح التجربة والخطأ لإنتاج أول ضوء عملي، والذي استمر 13 ساعة فقط قبل أن تحترق خيوط ألياف الكربون. ثم أمضى 18 شهرًا أخرى في كدح التجربة والخطأ قبل أن يكتشف أن خيوط الخيزران المتفحمة ستدوم لفترة أطول 100 مرة، وفي النهاية وُلد مصباح كهربائي عملي وقابل للبيع.
 
-> "I have not failed 10,000 times--I've successfully found 10,000 ways that will not work."  
-> --Thomas Edison
+> "أنا لم أفشل 10000 مرة، لقد وجدت بنجاح 10000 طريقة لن تنجح."
+> -توماس اديسون
 
-Isn't this true in all walks of life, not only engineering? Musicians spend almost all their time practicing in spaces (in)sufficiently isolated from other humans, landing gigs with a slurry of begging and assurance, transporting and setting up stages, and hardest of all, getting more than four people to show up.
+أليس هذا صحيحا في كل مناحي الحياة، وليس الهندسة فقط؟ يقضي الموسيقيون كل وقتهم تقريبًا في التدرب في مساحات معزولة بدرجة كافية عن البشر الآخرين، حيث يهبطون مع مجموعة من التوسل والطمأنينة، وينقلون ويجهزون المسارح، والأصعب من ذلك كله، إقناع أكثر من أربعة أشخاص بالحضور.
 
-In the audience, we enjoy the show, blind to the hundred hours of toil behind each visible hour of glory.
+في الجمهور، نستمتع بالعرض، غير مدركين لمائة ساعة من الكدح وراء كل ساعة مرئية من المجد.
 
-Having skipped to the last page of other peoples' book, we forget that they took the journey of the whole book. So we feel bad about ourselves when we're only on Chapter Four, having already toiled quite a lot thank you very much for asking, and when exactly are we going to get to the good part?
+وبعد أن انتقلنا إلى الصفحة الأخيرة من كتاب الشعوب الأخرى، ننسى أنهم قاموا برحلة الكتاب بأكمله. لذلك نشعر بالسوء تجاه أنفسنا عندما نكون في الفصل الرابع فقط، بعد أن كدحنا كثيرًا بالفعل، شكرًا جزيلاً لك على سؤالك، ومتى بالضبط سنصل إلى الجزء الجيد؟
 
-All we seem to do is drudgery--fixing the bugs that we were sure our unit tests proved couldn't exist, tying off the loose ends of development that never stop arising, [planning](https://longform.asmartbear.com/strategic-planning/) and estimating and communicating and post-morteming, taking the wrong path and backtracking, planning the launch and the training and the [targeting](https://longform.asmartbear.com/target-market/) and the positioning and the alpha testers, and losing five hours solving a problem that on another day with different luck might have taken five minutes.
+يبدو أن كل ما نقوم به هو الكدح - إصلاح الأخطاء التي كنا متأكدين من أن اختبارات وحدتنا أثبتت عدم وجودها، وربط الأطراف غير المتماسكة للتطوير التي لا تتوقف أبدًا عن الظهور، [التخطيط](https://longform.asmartbear.com/strategic-planning/) والتقدير والتواصل وما بعد الوفاة، واتخاذ المسار الخاطئ والتراجع، والتخطيط للإطلاق والتدريب والتخطيط [الاستهداف](https://longform.asmartbear.com/target-market/) وتحديد المواقع واختبارات ألفا، وخسارة خمس ساعات في حل مشكلة قد تستغرق خمس دقائق في يوم آخر بحظ مختلف.
 
-It's hard, it sucks, and sometimes the finish line isn't visible enough to still be compelled to do it, day after day. A book has a clear end; products don't. It's often unclear whether [it's smarter to continue or to quit](https://longform.asmartbear.com/perseverance/). It's chaos [whether we're on the right track or not](https://longform.asmartbear.com/chaos-at-start/).
+إنه أمر صعب، ومثير للاشمئزاز، وأحيانًا لا يكون خط النهاية مرئيًا بما يكفي ليظل مجبرًا على القيام بذلك، يومًا بعد يوم. الكتاب له نهاية واضحة. المنتجات لا. غالبًا ما يكون من غير الواضح ما إذا كان [من الأفضل الاستمرار أم التوقف](https://longform.asmartbear.com/perseverance/). إنها الفوضى [سواء كنا على الطريق الصحيح أم لا](https://longform.asmartbear.com/chaos-at-start/).
 
-So sometimes, we quit. We quit the job thinking wrongly that the next company will be so much better. We quit the startup because it's apparently not working. We just get tired, and why shouldn't we be tired and why shouldn't we quit? Life's too short and all that.
+لذلك في بعض الأحيان، نتوقف. لقد تركنا الوظيفة معتقدين بشكل خاطئ أن الشركة القادمة ستكون أفضل بكثير. لقد توقفنا عن بدء التشغيل لأنه على ما يبدو لا يعمل. نحن فقط نتعب، ولماذا لا نتعب ولماذا لا نستسلم؟ الحياة قصيرة جدًا وكل ذلك.
 
-But the ones who eventually succeed are the ones who plodded through the 5,999 filaments that didn't work, put in the 10,000 hours master a craft, and fought through the overwhelming pile of challenges and drudgery that is always required to create something great.
+لكن أولئك الذين ينجحون في نهاية المطاف هم أولئك الذين اجتازوا 5,999 خيطًا لم ينجحوا، واستغرقوا 10,000 ساعة في إتقان حرفة ما، وقاتلوا عبر الكومة الهائلة من التحديات والكدح المطلوب دائمًا لإنشاء شيء عظيم.
 
-Afterwards, when you're panting from exhaustion and laughing because it finally worked, you'll be able to look back and say, "I really *did* something."
+بعد ذلك، عندما تلهث من الإرهاق وتضحك لأن الأمر نجح أخيرًا، ستتمكن من النظر إلى الوراء والقول: "لقد فعلت شيئًا حقًا".
 
-And that's the cue for others to dismiss it as [mostly luck](https://longform.asmartbear.com/lucky/). The most annoying part is: They're not altogether wrong.
+وهذا هو السبب الذي يجعل الآخرين يرفضون الأمر باعتباره [حظًا في الغالب](https://longform.asmartbear.com/lucky/). الجزء الأكثر إزعاجًا هو: أنهم ليسوا مخطئين تمامًا.
 
-Maybe it's crazy to do all this for a fleeting feeling of accomplishment. On the other hand, maybe it's the meaning of life.
+ربما يكون من الجنون أن تفعل كل هذا من أجل شعور عابر بالإنجاز. ومن ناحية أخرى، ربما هو معنى الحياة.
 
 ![nothing interesting in any previous lives either consistent?searchid=44788](https://public.asmartbear.com/books/anthology/chapters/drudgery/d7292print-simple.png)

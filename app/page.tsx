@@ -47,11 +47,24 @@ export default function HomePage() {
     }
   };
 
-  // Global shortcut (Ctrl+K / Cmd+K) to toggle search anywhere
+  // Global shortcut (K or / or Ctrl+K) to toggle search anywhere without browser conflict
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
-      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
+      const tag = (e.target as HTMLElement)?.tagName?.toLowerCase();
+      const isInput = tag === 'input' || tag === 'textarea' || (e.target as HTMLElement)?.isContentEditable;
+
+      // Standalone K (works with English layout 'k' or Arabic layout 'ن' via e.code) or '/' when not typing in an input
+      if (!isInput && (e.code === 'KeyK' || e.key.toLowerCase() === 'k' || e.key === '/')) {
         e.preventDefault();
+        e.stopPropagation();
+        setSearchOpen((prev) => !prev);
+        return;
+      }
+
+      // Also support Ctrl+K as fallback with preventDefault to stop browser search takeover
+      if ((e.ctrlKey || e.metaKey) && (e.code === 'KeyK' || e.key.toLowerCase() === 'k')) {
+        e.preventDefault();
+        e.stopPropagation();
         setSearchOpen((prev) => !prev);
       }
     };

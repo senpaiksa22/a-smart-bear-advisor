@@ -20,177 +20,164 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** عجلة الألوان التقليدية خاطئة: كيف تعمل الرؤية البشرية للألوان فعلياً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+## لماذا الفنانون مميزون؟
 
----
-
-### النص المرجعي للمقال (Original Reference):
-# Color Wheels are wrong? How color vision actually works
-
-> **Executive Summary:** Artists say all colors are a mixture of red, yellow, and blue. But physics and TV screens and printers disagree. How does color really work?
-> **Original URL:** [https://longform.asmartbear.com/color-wheels/](https://longform.asmartbear.com/color-wheels/)
-
-## Why are artists special?
-
-Ask any artist to explain how color works, and they'll launch into a treatise about how the **Three Primary Colors**--red, blue, and yellow--form a color wheel:
+اطلب من أي فنان أن يشرح لك كيفية عمل اللون، وسيبدأ في كتابة أطروحة حول كيفية تشكيل **الألوان الأساسية الثلاثة** - الأحمر والأزرق والأصفر - لعجلة الألوان:
 
 ![Artist's primary color wheel](https://public.asmartbear.com/books/anthology/chapters/color-wheels/painterprimary1-simple.png)
 
-Why "wheel?" All other colors are created by mixing these three colors various proportions, they'll explain. In particular, mixing equal quantities of each pair of Primary Colors produces the **Secondary Colors** (orange, green, and purple):
+لماذا "العجلة"؟ سيتم إنشاء جميع الألوان الأخرى عن طريق مزج هذه الألوان الثلاثة بنسب مختلفة، كما سيشرحون. على وجه الخصوص، يؤدي خلط كميات متساوية من كل زوج من الألوان الأساسية إلى إنتاج **الألوان الثانوية** (البرتقالي والأخضر والأرجواني):
 
 ![Artist's secondary color wheel](https://public.asmartbear.com/books/anthology/chapters/color-wheels/paintersecondary-simple.png)
 
-Continuing this process produces the full **color wheel** you might have learned in school; a pretty, symmetrical, satisfying device in which each hue melds seamlessly and linearly into the next:
+يؤدي الاستمرار في هذه العملية إلى إنتاج **عجلة الألوان** الكاملة التي ربما تكون قد تعلمتها في المدرسة؛ جهاز جميل ومتناسق ومرضي يمتزج فيه كل لون بسلاسة وخطية مع اللون التالي:
 
 ![Artist's tertiary color wheel](https://public.asmartbear.com/books/anthology/chapters/color-wheels/image-simple.png)
 
-## Unfortunately, this crumbles under even minor scrutiny
+## ولسوء الحظ، فإن هذا ينهار حتى تحت التدقيق البسيط
 
-For example, open up your desktop printer and you'll see something quite different:
+على سبيل المثال، افتح طابعة سطح المكتب وسترى شيئًا مختلفًا تمامًا:
 
 ![printer cartridges are CMYK](https://public.asmartbear.com/books/anthology/chapters/color-wheels/cmyk-printer-simple.png)
 
-Three colors of ink which, when combined, produce all others: cyan, magenta, and yellow. (Black is included as a money-saver--black is the cheapest and most common color; it's cheaper to have a black cartridge than to dump ink from the other three.)
+ثلاثة ألوان من الحبر تنتج جميع الألوان الأخرى عند دمجها: السماوي والأرجواني والأصفر. (يتم تضمين اللون الأسود باعتباره لونًا موفرًا للمال - فاللون الأسود هو اللون الأرخص والأكثر شيوعًا؛ ومن الأرخص الحصول على خرطوشة سوداء بدلاً من تفريغ الحبر من الألوان الثلاثة الأخرى.)
 
-**But wait!** I thought the "Primary" colors were red, blue, and yellow, not cyan (bluish-green), magenta (bluish-red), and yellow. So one primary is the same (yellow) but the other two are different... yet these still generate color wheels containing all the other colors. **So what does the "Primary" designation really mean?**
+**ولكن مهلا!** اعتقدت أن الألوان "الأساسية" هي الأحمر والأزرق والأصفر، وليس السماوي (الأخضر المزرق) والأرجواني (الأحمر المزرق) والأصفر. لذا فإن أحد الألوان الأساسية هو نفسه (الأصفر) لكن اللونين الآخرين مختلفان... ومع ذلك فإنهما لا يزالان يولدان عجلات ألوان تحتوي على جميع الألوان الأخرى. **فماذا يعني التصنيف "الأساسي" حقًا؟**
 
 ![circle of hues](https://public.asmartbear.com/books/anthology/chapters/color-wheels/hue-circle-simple.png)
 
-Also it's not as simple as saying "*any* three colors can produce all the others" because that's clearly not true (by experiment). And it's not as simple as saying "any three colors will do, they just have to be equally spaced around the color wheel," because yellow is common to both the painter's and printer's wheel, yet the other two primaries differ completely (red and blue are primary in the painter's wheel but secondary in the printer's wheel.)
+كما أن الأمر ليس بهذه البساطة مثل قول "*أي* ثلاثة ألوان يمكن أن تنتج جميع الألوان الأخرى" لأنه من الواضح أن هذا ليس صحيحًا (بالتجربة). والأمر ليس بهذه البساطة مثل قول "أي ثلاثة ألوان ستفي بالغرض، فقط يجب أن تكون متباعدة بشكل متساوٍ حول عجلة الألوان،" لأن اللون الأصفر شائع في كل من عجلة الرسام وعجلة الطابعة، إلا أن اللونين الأساسيين الآخرين يختلفان تمامًا (الأحمر والأزرق أساسيان في عجلة الرسام ولكنهما ثانويان في عجلة الطابعة).
 
-TVs and computers are different yet again. If you stand close to a CRT (non-flat-screen), you can see that every pixel (or "dot") is really three tightly-packed colored phosphors: red, green, and blue.
+أجهزة التلفاز وأجهزة الكمبيوتر مختلفة مرة أخرى. إذا وقفت بالقرب من شاشة CRT (شاشة غير مسطحة)، يمكنك أن ترى أن كل بكسل (أو "نقطة") عبارة عن ثلاثة فوسفورات ملونة معبأة بإحكام: الأحمر والأخضر والأزرق.
 
 ![RGB pixels on a TV screen](https://public.asmartbear.com/books/anthology/chapters/color-wheels/crt-pixels-simple.png)
 
-If you've done computer graphics you've been forced to name colors using these "RGB color values;" true geeks automatically think "yellow" when they see `#FFFF00`. (If it's intuitive to you that `#A33F17` is burnt orange, it's time for you to leave the monastery.)
+إذا كنت قد قمت برسومات الكمبيوتر، فقد اضطررت إلى تسمية الألوان باستخدام "قيم ألوان RGB" هذه؛ يعتقد المهوسون الحقيقيون تلقائيًا أن اللون "أصفر" عندما يرون `#FFFF00`. (إذا كان من البديهي بالنسبة لك أن `#A33F17` برتقالي محترق، فقد حان الوقت لمغادرة الدير.)
 
-This leads to **yet another system of three "Primary" colors** generating all the others, and yet another color wheel. This one is a little easier to explain--ink and paint are "subtractive" (adding cyan, magenta, and yellow yields black) whereas colored light is "additive" (adding red, green, and blue yields white):
+يؤدي هذا إلى **نظام آخر مكون من ثلاثة ألوان "أساسية"** يولد جميع الألوان الأخرى، بالإضافة إلى عجلة ألوان أخرى. هذا أسهل قليلاً في الشرح - الحبر والطلاء "مطرحان" (إضافة السماوي والأرجواني والأصفر ينتج الأسود) بينما الضوء الملون "مضاف" (إضافة الأحمر والأخضر والأزرق ينتج اللون الأبيض):
 
 ![RGB colored light adds to white](https://public.asmartbear.com/books/anthology/chapters/color-wheels/image-5-simple.png)
 
-Still, we have yet another color wheel in which two (but not all three!) "primaries" match those of the artist's wheel and none match the printer's wheel.
+ومع ذلك، لدينا عجلة ألوان أخرى حيث يتطابق اثنان من "الألوان الأولية" (ولكن ليس الثلاثة جميعًا!) مع تلك الخاصة بعجلة الفنان ولا يتطابق أي منها مع عجلة الطابعة.
 
-This isn't adding up. **Let's turn to science.**
+هذا لا يضيف ما يصل. **دعونا ننتقل إلى العلم.**
 
-## Physics makes it worse
+## الفيزياء تجعل الأمر أسوأ
 
-Physics is clear and certain. Light is a wave of electromagnetic energy (and/or a particle, but for today it's just a wave OK?) and, like a vibrating guitar string, light waves wiggle at certain frequencies. Some of those frequencies we detect with our eyes, and the frequency determines its color:
+الفيزياء واضحة ومؤكدة. الضوء عبارة عن موجة من الطاقة الكهرومغناطيسية (و/أو جسيم، لكنه في الوقت الحالي مجرد موجة، حسنًا؟) ومثل وتر الجيتار المهتز، تهتز موجات الضوء عند ترددات معينة. وبعض تلك الترددات نكتشفها بأعيننا، والتردد يحدد لونها:
 
 ![light spectrum](https://public.asmartbear.com/books/anthology/chapters/color-wheels/electromagneticspectrum-simple.png)
 
-Now we're getting somewhere! Or are we?
+الآن نحن نصل إلى مكان ما! أم نحن؟
 
-First off, we've suddenly lost the notion of a "wheel." As much as the previous color systems have contradicted each other, at least they all agreed that hues transform smoothly and continuously, one to the next, a beautiful symmetry with neither beginning nor end.
+أولاً، لقد فقدنا فجأة فكرة "العجلة". وبقدر ما تناقضت أنظمة الألوان السابقة مع بعضها البعض، إلا أنها على الأقل اتفقت جميعا على أن الأشكال تتحول بسلاسة وبشكل مستمر، واحدا تلو الآخر، وهو تناسق جميل ليس له بداية ولا نهاية.
 
-But here we have a clear beginning (red) and end (violet). The colors in-between are continuous--and seem to generally match the order seen in the various color wheels--but then it just terminates with violet. How does it get back to red? What about that **fuchsia / magenta / purplish-reddish color** which is **clearly present in every color wheel but missing from the physical spectrum?**
+لكن هنا لدينا بداية واضحة (حمراء) ونهاية (بنفسجية). الألوان الموجودة بينهما متواصلة - ويبدو أنها تتطابق بشكل عام مع الترتيب الذي يظهر في عجلات الألوان المختلفة - ولكنها تنتهي بعد ذلك باللون البنفسجي. كيف يعود إلى اللون الأحمر؟ ماذا عن اللون الفوشيا / الأرجواني / الأرجواني المحمر ** الذي ** موجود بوضوح في كل عجلة الألوان ولكنه مفقود من الطيف المادي؟ **
 
-How can a color be *missing*? Where does it come from?
+كيف يمكن أن يكون اللون *مفقودًا*؟ من أين تأتي؟
 
-But wait, we're not done being confused.
+لكن مهلا، لم ننتهي من الخلط.
 
-## And another thing: Opposites
+## وشيء آخر: الأضداد
 
-Every seven-year-old kid in America is taught that "the opposite of red is green" and "the opposite of blue is yellow." But what does that mean exactly?
+يتم تعليم كل طفل يبلغ من العمر سبع سنوات في أمريكا أن "عكس اللون الأحمر هو الأخضر" و"عكس اللون الأزرق هو الأصفر". ولكن ماذا يعني ذلك بالضبط؟
 
-After all, there's nothing in that linear physical light spectrum to indicate that any color is "the opposite" of any other, particularly not those two pairs. And the color wheels aren't much help either; trying to match the "opposites" on the painter's wheel yields an unsatisfying asymmetry where two of the primaries are opposite, and the third is opposite from a secondary:
+بعد كل شيء، لا يوجد شيء في طيف الضوء المادي الخطي يشير إلى أن أي لون هو "عكس" أي لون آخر، لا سيما هذين الزوجين. وعجلات الألوان لا تساعد كثيرًا أيضًا؛ إن محاولة مطابقة "الأضداد" على عجلة الرسام تؤدي إلى عدم تناسق غير مُرضٍ حيث يكون اثنان من الانتخابات التمهيدية متقابلين، والثالث معاكسًا للثانوي:
 
 ![Artist's secondary color wheel with opposite colors drawn on](https://public.asmartbear.com/books/anthology/chapters/color-wheels/painteropposites-simple.png)
 
-But "opposites" are real. In the early 1800s Goethe (yes, *the* [Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe)) noticed that red/green and blue/yellow were never perceived together, in the sense that no color could be described as a combination of those pairs. No color could be described as "reddish green." If you are asked to imagine "a green with a bit of red," nothing comes to mind. In the following 150 years, various experiments tested this idea, all of which validated his observation.
+لكن "الأضداد" حقيقية. في أوائل القرن التاسع عشر لاحظ غوته (نعم، *[غوته](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe)) أنه لم يتم إدراك اللون الأحمر/الأخضر والأزرق/الأصفر معًا أبدًا، بمعنى أنه لا يمكن وصف أي لون على أنه مزيج من تلك الأزواج. لا يمكن وصف أي لون بأنه "أخضر محمر". إذا طُلب منك أن تتخيل "لونًا أخضر مع القليل من اللون الأحمر"، فلن يتبادر إلى ذهنك شيء. وفي الـ 150 عامًا التالية، اختبرت تجارب مختلفة هذه الفكرة، وكلها أثبتت صحة ملاحظته.
 
-There's something to this. Something neither the wheels nor the spectrum can explain.
+هناك شيء لهذا. شيء لا تستطيع العجلات ولا الطيف تفسيره.
 
-It's time to get down to the real source of color: The ridiculous complexity of human beings.
+حان الوقت لننتقل إلى المصدر الحقيقي للألوان: التعقيد السخيف للبشر.
 
-## The answer: Physiology (of course)
+## الجواب: علم وظائف الأعضاء (بالطبع)
 
-_Caveat Emptor: The following is a gross and irresponsible over-simplification of what actually happens. But it's correct in its general thrust, and few people on Earth (myself excluded) are qualified to explain with complete accuracy, so in the interest of general illumination, no pun intended, OK maybe intended just a little bit, I'm doing it anyway._
+_تحذير أيها الإمبراطور: ما يلي هو تبسيط مفرط وغير مسؤول لما يحدث بالفعل. لكنها صحيحة في توجهها العام، وقليل من الناس على وجه الأرض (أنا مستبعد) مؤهلون للشرح بدقة كاملة، لذلك من أجل الإضاءة العامة، لا أقصد التورية، حسنًا ربما أقصد القليل فقط، أنا أفعل ذلك على أي حال.
 
-Of course it starts in the eye, where three types of cells called "[cones](https://en.wikipedia.org/wiki/Cone_cell)" measure the amount of red, green, and blue light hitting the retina.
+بالطبع يبدأ الأمر في العين، حيث تقوم ثلاثة أنواع من الخلايا تسمى "[المخاريط](https://en.wikipedia.org/wiki/Cone_cell)" بقياس كمية الضوء الأحمر والأخضر والأزرق الذي يصل إلى شبكية العين.
 
-"Ah *ha*," I can hear you CSS freaks scream, "it's RGB after all! I was right! All that time spent--nay *invested*--in remembering that `#001067` is the default title-bar color in Windows 95 was well worth it!"
+"آه *ها*،" أستطيع سماع صراخكم المهووسين بـ CSS، "إنه RGB على كل حال! لقد كنت على حق! كل هذا الوقت الذي أمضيته - لا * استثمرته * - - في تذكر أن `#001067` هو لون شريط العنوان الافتراضي في نظام التشغيل Windows 95 كان يستحق ذلك تمامًا!"
 
-Hold on there, cowboy. Actually, "amount of red, green, and blue" is a gross simplification (as warned!). Peeking under the hood (just a tad), the three types of cones are in fact denoted S, M, and L for "short, medium, and long" wavelengths, and each respond at different levels in a range of wavelengths:
+انتظر هناك، راعي البقر. في الواقع، "كمية اللون الأحمر والأخضر والأزرق" هي تبسيط فادح (كما حذر!). بإلقاء نظرة خاطفة تحت الغطاء (قليلًا)، يُشار إلى الأنواع الثلاثة من المخاريط في الواقع بـ S وM وL للأطوال الموجية "القصيرة والمتوسطة والطويلة"، ويستجيب كل منها على مستويات مختلفة في نطاق من الأطوال الموجية:
 
 ![Response-curves of the human eye at different wavelengths](https://public.asmartbear.com/books/anthology/chapters/color-wheels/mceclip01-simple.png)
 
-But I digress, and besides I did promise to be all gross and irresponsible, so let's go back to that.
+لكنني استطردت، وبالإضافة إلى ذلك، وعدت بأن أكون فظًا وغير مسؤول، لذلك دعونا نعود إلى ذلك.
 
-So there are R, G, and B cones. The signals from these cones don't go straight to the brain; they first pass through a pre-processing filter, and **it's this filter that explains all the mysteries.** Actually there are three filters.
+إذن هناك مخاريط R وG وB. الإشارات الصادرة عن هذه المخاريط لا تذهب مباشرة إلى الدماغ؛ يمرون أولاً عبر مرشح المعالجة المسبقة، و**هذا الفلتر هو الذي يفسر كل الألغاز. ** في الواقع هناك ثلاثة مرشحات.
 
-**Filter #1** works like this:
+**الفلتر رقم 1** يعمل على النحو التالي:
 
 ![Filter 1 is R + G](https://public.asmartbear.com/books/anthology/chapters/color-wheels/rg-opponent-png-simple.png)
 
-Explanation: The more R there is, the more positive the signal; the more G, the more negative the signal. If there's relatively *equal amounts* of R and G--whether from none of both, a little of both, or a lot of both--the signal is zero.
+شرح: كلما زاد عدد R، كلما كانت الإشارة أكثر إيجابية؛ كلما زاد G، كلما كانت الإشارة سلبية. إذا كان هناك *كميات متساوية* نسبيًا من R وG - سواء من لا شيء من كليهما، أو القليل من كليهما، أو الكثير من كليهما - فإن الإشارة تكون صفرًا.
 
-This explains why there's no "greenish-red." Because:
+وهذا ما يفسر عدم وجود "أحمر مخضر". لأن:
 
-Let's say R and G can go between 0 and 100 units of intensity. Consider the case of "full red with a little green," where R=100 (full intensity) and G=25 (one-quarter intensity). Then separately consider the case of "strong red with no green," where R=75 and G=0.
+لنفترض أن R وG يمكن أن تتراوح شدتهما بين 0 و100 وحدة. خذ بعين الاعتبار حالة "اللون الأحمر الكامل مع القليل من اللون الأخضر"، حيث R = 100 (الكثافة الكاملة) وG = 25 (الكثافة ربع). ثم فكر بشكل منفصل في حالة "الأحمر القوي بدون اللون الأخضر"، حيث R = 75 و G = 0.
 
-In both cases, Filter #1 computes the same output signal: 75. But remember the brain doesn't get the raw R and G signals--it only gets the filter's output--so *the brain cannot tell the difference* between these two scenarios.
+في كلتا الحالتين، يحسب المرشح رقم 1 نفس إشارة الخرج: 75. لكن تذكر أن الدماغ لا يحصل على إشارات R وG الأولية - بل يحصل فقط على مخرجات المرشح - لذلك * لا يستطيع الدماغ التمييز * بين هذين السيناريوهين.
 
-So there's no such thing as "red with a little green"--there's just a less intense red. The brain physically cannot see "greenish-red" because the filter removes that polarity.
+لذلك لا يوجد شيء اسمه "أحمر مع القليل من اللون الأخضر" - هناك فقط لون أحمر أقل كثافة. لا يستطيع الدماغ جسديًا رؤية اللون "الأحمر المخضر" لأن الفلتر يزيل تلك القطبية.
 
-Knowing that blue/yellow is the other opposite pair, you can probably guess what **Filter #2** is:
+مع العلم أن اللون الأزرق/الأصفر هو الزوج المعاكس الآخر، ربما يمكنك تخمين ما هو **الفلتر رقم 2**:
 
 ![Filter 2 is R + G - B](https://public.asmartbear.com/books/anthology/chapters/color-wheels/b-rg-opponent-png-simple.png)
 
-Here blue (B) is opposed with a combination of both the R and G channels. The R and G cones are stimulated either when there's literally both red and green light (like when a CSS coder turns on both red and green as #FFFF00 to create yellow), or when 570nm light (yellow, on the visible spectrum) stimulates both R and G cones.
+هنا يتعارض اللون الأزرق (B) مع مجموعة من القناتين R وG. يتم تحفيز مخاريط R وG إما عندما يكون هناك ضوء أحمر وأخضر حرفيًا (مثل عندما يقوم مبرمج CSS بتشغيل كل من اللونين الأحمر والأخضر كـ #FFFF00 لإنشاء اللون الأصفر)، أو عندما يحفز ضوء 570 نانومتر (أصفر، على الطيف المرئي) كلا من مخاريط R وG.
 
-**Filter #3** is simple:
+**الفلتر رقم 3** بسيط:
 
 ![Filter 3 is R + G + B](https://public.asmartbear.com/books/anthology/chapters/color-wheels/rgb-opponent-png-simple.png)
 
-In short, it measures the quantity of light without regard to hue. This is "how bright," or "luminance" in color-theory parlance.
+باختصار، فهو يقيس كمية الضوء بغض النظر عن اللون. هذا هو "مدى السطوع" أو "الإنارة" في لغة نظرية الألوان.
 
-**And magenta?** It comes from full R and B with no G, activating Filter #1 full-positive, Filter #2 at zero. It's not a physical wavelength of color, it's just a combination of outputs of two filters.
+**والأرجواني؟** يأتي من R وB كاملين بدون G، مما يؤدي إلى تنشيط الفلتر رقم 1 الإيجابي الكامل، والفلتر رقم 2 عند الصفر. إنه ليس طولًا موجيًا ماديًا للألوان، بل هو مجرد مزيج من مخرجات مرشحين.
 
-## The perceptual color wheel
+## عجلة الألوان الإدراكية
 
-To do this "wheel" thing properly, you should represent the red/green and blue/yellow opposites. It's not at all difficult, so it amazes me how rarely it's seen or taught:
+للقيام بهذا الأمر "العجلة" بشكل صحيح، يجب عليك تمثيل المتضادات باللون الأحمر/الأخضر والأزرق/الأصفر. إنه ليس بالأمر الصعب على الإطلاق، لذا يذهلني مدى ندرة رؤيته أو تدريسه:
 
 ![Color wheel with four primary colors](https://public.asmartbear.com/books/anthology/chapters/color-wheels/d4-color-wheel-simple.png)
 
-Four primary colors? Yes, why not? It's the closest thing to the physiology without getting complex.
+أربعة ألوان أساسية؟ نعم، لماذا لا؟ إنه أقرب شيء إلى علم وظائف الأعضاء دون أن يصبح معقدًا.
 
-**Why is it necessarily a "wheel?"** As you trace the (real, physical, see: rainbows) visible light spectrum, filter 1 starts full positive, then goes smoothly through zero and then negative, then back towards one. On the diagram just above, that's the values of the x coordinate of a circle as you trace an angle counter-clockwise starting from pointing rightward along the x axis. So, like cosine, the first filter creates that plot.
+**لماذا هي بالضرورة "عجلة؟"** أثناء تتبع طيف الضوء المرئي (الحقيقي، المادي، انظر: قوس قزح)، يبدأ الفلتر 1 بإيجابية كاملة، ثم يمر بسلاسة عبر الصفر ثم السالب، ثم يعود نحو الواحد. في الرسم البياني أعلاه، هذه هي قيم الإحداثي x للدائرة أثناء رسم زاوية عكس اتجاه عقارب الساعة بدءًا من الإشارة إلى اليمين على طول المحور x. لذلك، مثل جيب التمام، يقوم المرشح الأول بإنشاء تلك المؤامرة.
 
-Filter 2 does exactly the same, but produces the y coordinate of the circle, like sine: it starts as zero, then moves towards one, then back to zero and then negative, ending towards where it started.
+يفعل المرشح 2 نفس الشيء تمامًا، لكنه ينتج الإحداثي y للدائرة، مثل جيب الجيب: يبدأ كصفر، ثم يتحرك نحو الواحد، ثم يعود إلى الصفر ثم سالبًا، وينتهي نحو حيث بدأ.
 
-So the color wheel is a simplified, idealized way of plotting filters 1 and 2 through the natural spectrum, and the math of the biological filters naturally plot a circle. Of course the real shape isn't a perfect circle, nor are colors evenly distributed around it, but the general idea is both directionally correct and useful. The CIE color space is closest to perceptual reality:
+لذا فإن عجلة الألوان هي طريقة مبسطة ومثالية لرسم المرشحات 1 و 2 من خلال الطيف الطبيعي، ورياضيات المرشحات البيولوجية ترسم دائرة بشكل طبيعي. بالطبع الشكل الحقيقي ليس دائرة مثالية، ولا الألوان موزعة بالتساوي حولها، لكن الفكرة العامة صحيحة ومفيدة من الناحية الاتجاهية. مساحة الألوان CIE هي الأقرب إلى الواقع الإدراكي:
 
 ![perceptual color wheel](https://public.asmartbear.com/books/anthology/chapters/color-wheels/image-2-simple.png)
 
-## Bonus Brain Bender: The context / color connection
+## مكافأة Brain Bender: اتصال السياق / اللون
 
-This is just the beginning of color theory. To give you a glimpse at how complex it gets, consider this:
+هذه مجرد بداية نظرية الألوان. لإعطائك لمحة عن مدى تعقيد الأمر، ضع في اعتبارك ما يلي:
 
-When a color is juxtaposed to other colors, we perceive it as a different color. For example, most people will say the small square on the left is brown, whereas the one on the right is orange:
+عندما يقترن لون ما بألوان أخرى، فإننا نعتبره لونًا مختلفًا. على سبيل المثال، سيقول معظم الناس أن المربع الصغير الموجود على اليسار باللون البني، في حين أن المربع الموجود على اليمين برتقالي:
 
 ![Josef Albers, Folder IV-1](https://public.asmartbear.com/books/anthology/chapters/color-wheels/image-3-simple.png)
 
-Actually, the squares are *exactly the same color!* The surrounding context dictates the *perceived* color, *on top of* all that wavelength-physiology we just did.
+في الواقع، المربعات هي *نفس اللون تمامًا!* السياق المحيط هو الذي يملي اللون *المدرك*، *علاوة على* كل ما قمنا به للتو من فسيولوجيا الطول الموجي.
 
-This makes sense because the brain projects abstract things it knows about the natural world onto your perception of color. For example, we know intuitively that shadows artificially darken colors, so our brains automatically account for this in our perception of those colors. (It's called "color constancy.") For example, you know that the dark and light colors on this hot air balloon are "the same:"
+وهذا أمر منطقي لأن الدماغ يعرض الأشياء المجردة التي يعرفها عن العالم الطبيعي على إدراكك للألوان. على سبيل المثال، نحن نعلم بشكل حدسي أن الظلال تجعل الألوان داكنة بشكل مصطنع، لذلك تقوم أدمغتنا تلقائيًا بتفسير ذلك في إدراكنا لتلك الألوان. (يسمى "ثبات اللون.") على سبيل المثال، أنت تعلم أن الألوان الداكنة والفاتحة في منطاد الهواء الساخن هي "نفسها:"
 
 ![Colors from a hot air balloon, which the brain knows are identical, even though they are not](https://public.asmartbear.com/books/anthology/chapters/color-wheels/image-4-simple.png)
 
-But it also results in optical illusions so powerful that even when you know the trick you still can't see it correctly.
+ولكنها تؤدي أيضًا إلى خدع بصرية قوية جدًا لدرجة أنه حتى عندما تعرف الخدعة، فإنك لا تزال غير قادر على رؤيتها بشكل صحيح.
 
-Like this: Which square is darker: A or B?
+مثل هذا: أي المربع أغمق: أ أم ب؟
 
 ![Checkboard shadow illusion](https://public.asmartbear.com/books/anthology/chapters/color-wheels/checker-shadow-illusion-simple.png)
 
-In fact A and B are the same color (`#787878`), but you can't see it even when you know this. To prove it to myself I had to open this picture in an image editor and actually move one square over another to see it was the same.
+في الواقع A وB لهما نفس اللون (`#787878`)، ولكن لا يمكنك رؤيته حتى عندما تعرف ذلك. ولإثبات ذلك لنفسي، كان علي أن أفتح هذه الصورة في محرر الصور وأحرك مربعًا واحدًا فوق الآخر لأرى أنها هي نفسها.
 
-Freaky.
+فظيع.
 
-### Further Reading
+### مزيد من القراءة
 
-You got this far? You still care? Sheesh, you're as weird as me.
+وصلت إلى هذا الحد؟ هل مازلت تهتم؟ شيش، أنت غريب مثلي.
 
-If you really want to lose a few days of your life, [this is an amazing, in-depth treatise on color theory](https://www.handprint.com/HP/WCL/color1.html). That link is just page 1 of 8. Good luck.
+إذا كنت تريد حقًا أن تخسر بضعة أيام من حياتك، [هذه أطروحة مذهلة ومتعمقة حول نظرية الألوان](https://www.handprint.com/HP/WCL/color1.html). هذا الرابط هو مجرد صفحة 1 من 8. حظا سعيدا.

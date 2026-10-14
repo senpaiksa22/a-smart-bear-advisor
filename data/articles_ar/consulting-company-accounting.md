@@ -20,168 +20,155 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الحسابات الرياضية المؤسفة وراء شركات الاستشارات والخدمات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The unfortunate math behind consulting companies
-
-> **Executive Summary:** Hiring even one person creates a lot less profit than you'd think, and launching a product rarely works out. Here are some tips for consulting companies.
-> **Original URL:** [https://longform.asmartbear.com/consulting-company-accounting/](https://longform.asmartbear.com/consulting-company-accounting/)
-
 ![i dunno lately im just not incentivized ](https://public.asmartbear.com/books/anthology/chapters/consulting-company-accounting/d6110print-simple.png)
 
-Consulting can be a great way to fund a startup or make a bunch of cash. It's easy to start; Just pick an hourly rate and jump in. There are tons of online tools for time-tracking, project-management, and billing.
+يمكن أن تكون الاستشارات طريقة رائعة لتمويل شركة ناشئة أو كسب مبلغ كبير من المال. من السهل أن تبدأ؛ ما عليك سوى اختيار سعر الساعة والاشتراك فيه. هناك الكثير من الأدوات عبر الإنترنت لتتبع الوقت وإدارة المشاريع وإعداد الفواتير.
 
-But someday soon you'll notice there's only so many billable hours in the day, and you'll be tempted to expand. Maybe hire an employee for $30 per hour and re-bill them at $60. Easy money, right?
+ولكن في يوم من الأيام ستلاحظ أن هناك عددًا كبيرًا من الساعات القابلة للفوترة في اليوم، وسوف تميل إلى التوسع. ربما تقوم بتعيين موظف مقابل 30 دولارًا في الساعة وإعادة إصدار فاتورة له بمبلغ 60 دولارًا. المال السهل، أليس كذلك؟
 
-Unfortunately the math doesn't work that way.
+لسوء الحظ، الرياضيات لا تعمل بهذه الطريقة.
 
-Here's what really happens, and a few ways to combat it.
+إليك ما يحدث بالفعل، وبعض الطرق لمكافحته.
 
-## Double is nothing
+## المزدوج لا شيء
 
-Suppose you hire an employee at $60,000/year. There are 2,000 working hours in a year--40 hours per week times 50 weeks--leaving two weeks vacation. So your cost per *billable* hour is:
+لنفترض أنك قمت بتعيين موظف براتب 60 ألف دولار في السنة. هناك 2000 ساعة عمل في السنة - 40 ساعة في الأسبوع × 50 أسبوعًا - مع ترك إجازة لمدة أسبوعين. لذا فإن التكلفة لكل ساعة *قابلة للفوترة* هي:
 
- <br/> 
+<br/>
 
-Nominal Cost: $30/hour
+التكلفة الاسمية: 30 دولارًا للساعة
 
- <br/> 
+<br/>
 
-In terms of working days (WD), there's 250 in a 50-week year. In America we have ten [federal holidays](https://www.opm.gov/Operating_Status_Schedules/fedhol/2011.asp) bringing the annual WD count to 240. Recomputing the cost of the remaining *billable* hours, we have:
+من حيث أيام العمل (WD)، هناك 250 يومًا في سنة مكونة من 50 أسبوعًا. في أمريكا، لدينا عشرة [عطلات فيدرالية](https://www.opm.gov/Operating_Status_Schedules/fedhol/2011.asp) ليصل عدد أيام العطل السنوية إلى 240. وبإعادة حساب تكلفة الساعات المتبقية *القابلة للفوترة*، لدينا:
 
- <br/> 
+<br/>
 
-20 WD/month, $31/hour
+20 WD / شهر، 31 دولارًا / ساعة
 
- <br/> 
+<br/>
 
-We also have employment tax in America. Rules are complicated and vary by state, but as a rule of thumb you pay 15% in taxes including Medicare and Social Security. That changes the annual cost of your employee from $60,000 to $69,000 with an associated change in hourly cost:
+لدينا أيضًا ضريبة التوظيف في أمريكا. القواعد معقدة وتختلف حسب الولاية، ولكن كقاعدة عامة، تدفع 15% من الضرائب بما في ذلك الرعاية الطبية والضمان الاجتماعي. يؤدي ذلك إلى تغيير التكلفة السنوية لموظفك من 60 ألف دولار إلى 69 ألف دولار مع التغيير المرتبط في التكلفة بالساعة:
 
- <br/> 
+<br/>
 
-20 WD/month, $36/hour
+20 WD / شهر، 36 دولارًا / ساعة
 
- <br/> 
+<br/>
 
-We've assumed an 8-hour work day, but any owner of a consulting company will tell you this rarely happens. Oh sure, *founders* work 60-80-hour weeks, but not employees. Besides, even if you're in the office 8 hours a day it's hard to be heads-down-on-task the entire time, and consulting is about *billable* hours. It's hard to be billable for 8 hours a day, every day. From what I've seen the weekly billables are more like 36 hours instead of 40. That means you're short 16 hours per month, which is equivalent to missing two full (8-hour) days. With this loss, now we're at:
+لقد افترضنا أن يوم العمل هو 8 ساعات، ولكن أي صاحب شركة استشارية سيخبرك أن هذا نادرًا ما يحدث. بالتأكيد، *المؤسسون* يعملون لمدة تتراوح من 60 إلى 80 ساعة أسبوعيًا، ولكن ليس الموظفين. علاوة على ذلك، حتى لو كنت في المكتب 8 ساعات يوميًا، فمن الصعب أن تتولى المهام طوال الوقت، وتكون الاستشارات عبارة عن ساعات *قابلة للفوترة*. من الصعب أن تكون قابلاً للفوترة لمدة 8 ساعات يوميًا، كل يوم. مما رأيته، فإن الفواتير الأسبوعية هي أشبه بـ 36 ساعة بدلاً من 40. وهذا يعني أنك تقصر 16 ساعة في الشهر، وهو ما يعادل فقدان يومين كاملين (8 ساعات). وبهذه الخسارة نحن الآن في:
 
- <br/> 
+<br/>
 
-18 WD/month, $40/hour
+18 WD / شهر، 40 دولارًا / ساعة
 
- <br/> 
+<br/>
 
-Then personal life intrudes. You come in at noon because you had a morning dentist appointment. You take off early to wait for the A/C repair guy. You're sick one day. All very reasonable and it doesn't sound like much, but two half-days and a sick day means another two days lost:
+ثم تتطفل الحياة الشخصية. تأتي عند الظهر لأنه كان لديك موعد صباحي مع طبيب الأسنان. تقلع مبكرًا لتنتظر رجل إصلاح مكيف الهواء. أنت مريض ذات يوم. كل هذا معقول جدًا ولا يبدو كثيرًا، لكن نصف يوم ويوم مريض يعني ضياع يومين آخرين:
 
- <br/> 
+<br/>
 
-16 WD/month, $45/hour
+16 WD/الشهر، 45 دولارًا/الساعة
 
- <br/> 
+<br/>
 
-We've assumed you're able to keep your employee completely busy throughout the year without down-time between projects, but that's unrealistic. If you get two-week gigs, maybe there's a day between them where the timing didn't quite work out or you did some post-contract clean-up. If you land a six-month gig, that's better, except it's hard to time large deals like that to start and end *exactly* when you want, months in advance; in fact it's common to have 2-3 weeks of down-time between such things. Either way you lose at least 10% of your time, and that's assuming a healthy incoming project pipeline, so knock off another two days (10% of the 20-day work-month):
+لقد افترضنا أنك قادر على إبقاء موظفك مشغولاً بالكامل طوال العام دون التوقف عن العمل بين المشاريع، ولكن هذا غير واقعي. إذا حصلت على حفل لمدة أسبوعين، فربما يكون هناك يوم بينهما حيث لم يكن التوقيت مناسبًا تمامًا أو قمت ببعض التنظيف بعد العقد. إذا حصلت على وظيفة مدتها ستة أشهر، فهذا أفضل، إلا أنه من الصعب تحديد وقت لبدء الصفقات الكبيرة وانتهائها *تمامًا* عندما تريد، مقدمًا بعدة أشهر؛ في الواقع، من الشائع أن يكون لديك 2-3 أسابيع من الراحة بين هذه الأشياء. في كلتا الحالتين، ستخسر ما لا يقل عن 10% من وقتك، وهذا بافتراض وجود تدفق جيد للمشروع، لذا قم بإلغاء يومين آخرين (10% من شهر العمل المكون من 20 يومًا):
 
- <br/> 
+<br/>
 
-14 WD/month, $51/hour
+14 WD/الشهر، 51 دولارًا/الساعة
 
- <br/> 
+<br/>
 
-And let's suppose you want to allocate just a little time for career development. After all, if you expect to hire and retain great people, they need time to keep learning, stay in front of the latest technology, and just have fun. Maybe that means going to a conference or two, or working on an open-source project, or learning some new tech that's needed for work. You see what's coming of course: That's another 10%:
+ولنفترض أنك تريد تخصيص القليل من الوقت للتطوير الوظيفي. ففي نهاية المطاف، إذا كنت تتوقع توظيف أشخاص رائعين والاحتفاظ بهم، فإنهم يحتاجون إلى الوقت لمواصلة التعلم والبقاء على اطلاع بأحدث التقنيات والاستمتاع فقط. ربما يعني ذلك الذهاب إلى مؤتمر أو اثنين، أو العمل في مشروع مفتوح المصدر، أو تعلم بعض التقنيات الجديدة اللازمة للعمل. ترى ما سيأتي بالطبع: هذه 10٪ أخرى:
 
- <br/> 
+<br/>
 
-12 WD/month, $60/hour
+12 WD / شهر، 60 دولارًا / ساعة
 
- <br/> 
+<br/>
 
-**The true cost of an employee is** ***double*** **the nominal cost.** If you bill out a so-called "$30/hour" employee at $60/hour, you'll only break even. You really need to bill out at $100/hour to make any kind of profit.
+**التكلفة الحقيقية للموظف هي** ***مضاعفة*** **التكلفة الاسمية.** إذا قمت بدفع فاتورة لموظف يسمى "30 دولارًا في الساعة" بمبلغ 60 دولارًا في الساعة، فسوف تحقق التعادل فقط. تحتاج حقًا إلى دفع مبلغ 100 دولار في الساعة لتحقيق أي نوع من الربح.
 
-Which is hard, because the client you're billing knows this person doesn't cost even close to $100/hour. And when that client thinks about what's "fair," they won't go through the computation I just did; they'll base it on the person's nominal rate plus a little profit for you. This caps the amount you can actually re-bill before client feels ripped off.
+وهو أمر صعب، لأن العميل الذي ترسل فواتيره يعرف أن هذا الشخص لا يكلف حتى ما يقرب من 100 دولار في الساعة. وعندما يفكر ذلك العميل فيما هو "عادل"، فلن يخضع للحسابات التي قمت بها للتو؛ سوف يعتمدون على السعر الاسمي للشخص بالإضافة إلى القليل من الربح لك. وهذا يضع حدًا أقصى للمبلغ الذي يمكنك إعادة إصدار فاتورة به بالفعل قبل أن يشعر العميل بالسرقة.
 
-I hear you say: "Yeah, but at $100/hour that's $40/hour profit, or $80,000/year to me! So that's still really good." But consider this: If your underling can be billed at $100/hour, can't you bill at $150/hour at least? And if you worked just 20 hours/week (on average) at that rate you'd clear $150,000 annually without the hassle of hiring and managing an employee. Isn't *that* better?
+أسمعك تقول: "نعم، ولكن بسعر 100 دولار في الساعة يكون الربح 40 دولارًا في الساعة، أو 80 ألف دولار سنويًا بالنسبة لي! لذلك لا يزال هذا جيدًا حقًا." لكن ضع في اعتبارك هذا: إذا كان من الممكن إصدار فاتورة لتابعك بسعر 100 دولار في الساعة، ألا يمكنك إصدار فاتورة بسعر 150 دولارًا في الساعة على الأقل؟ وإذا عملت 20 ساعة فقط في الأسبوع (في المتوسط) بهذا المعدل، فستحصل على 150 ألف دولار سنويًا دون متاعب تعيين موظف وإدارته. أليس *هذا* أفضل؟
 
-## What to do?
+## ما يجب القيام به؟
 
-So how do you mitigate these issues? Lots of ways, few of which are compelling, but all of which are quite do-able:
+إذًا كيف يمكنك التخفيف من هذه المشكلات؟ هناك الكثير من الطرق، والقليل منها مقنع، ولكن جميعها قابلة للتنفيذ تمامًا:
 
-### Scale
+### حجم
 
-If you had *five* of these employees you'd be clearing $300,000 per year, which sounds better. **Except not** because scaling creates more time and expense:
+إذا كان لديك *خمسة* من هؤلاء الموظفين، فستحصل على 300 ألف دولار سنويًا، وهو ما يبدو أفضل. **باستثناء لا** لأن التوسع يؤدي إلى مزيد من الوقت والنفقات:
 
-* The client pipeline is much harder to maintain. Keeping 3-6 projects going year-round is a full-time job in itself--a job resting on *your* shoulders.
-* Employee turnover becomes more common, so you're permanently in hiring mode. That in itself is time-consuming and expensive, and it's hard to coordinate new hires exactly when other employees are leaving.
-* With six people you'll need office space with the attendant expenses, _or_ a significant, possibly international travel budget for quarterly get-togethers.
-* With all these new tasks, there's no way you can also manage the projects and client relationships and internal product development, so you'll need a project manager or a sales person or an office manager or *some* kind of help, and all of those come out of your profits.
-* **None of these new tasks are fun or creative.** **It's drudgery, and it's all on you**. Congrats, you're a business owner.
+* من الصعب جدًا الحفاظ على خط أنابيب العميل. يعد الحفاظ على استمرار 3-6 مشاريع على مدار العام بمثابة وظيفة بدوام كامل في حد ذاتها - وهي وظيفة تقع على عاتقك.
+* يصبح دوران الموظفين أكثر شيوعا، لذلك أنت في وضع التوظيف بشكل دائم. وهذا في حد ذاته يستغرق وقتًا طويلاً ومكلفًا، ومن الصعب التنسيق بين الموظفين الجدد بالضبط عند مغادرة الموظفين الآخرين.
+* مع وجود ستة أشخاص، ستحتاج إلى مساحة مكتبية مع النفقات المصاحبة، _أو_ ميزانية سفر دولية كبيرة لعقد لقاءات ربع سنوية.
+* مع كل هذه المهام الجديدة، لا توجد طريقة يمكنك من خلالها أيضًا إدارة المشاريع وعلاقات العملاء وتطوير المنتجات الداخلية، لذلك ستحتاج إلى مدير مشروع أو مندوب مبيعات أو مدير مكتب أو *نوع* من المساعدة، وكل ذلك يأتي من أرباحك.
+* **ليست أي من هذه المهام الجديدة ممتعة أو إبداعية.** **إنها عملية شاقة، وكلها تقع على عاتقك**. تهانينا، أنت صاحب عمل.
 
-With these new expenses it's not unusual to see that so-called $300k in profits came back to $150k. And now you're doing things you hate doing. [Scaling is hard](https://longform.asmartbear.com/scale/).
+مع هذه النفقات الجديدة، ليس من غير المعتاد أن نرى ما يسمى بالأرباح البالغة 300 ألف دولار عادت إلى 150 ألف دولار. والآن أنت تفعل أشياء تكره القيام بها. [القياس صعب](https://longform.asmartbear.com/scale/).
 
-### Charge more
+### اشحن أكثر
 
-Any amount more you can charge **goes straight to profits**, so even charging a wee bit more (or [a *lot* more](https://longform.asmartbear.com/extreme-questions/)) makes a big difference at the end of the year.
+أي مبلغ إضافي يمكنك تحصيله **يذهب مباشرة إلى الأرباح**، لذا فإن تحصيل مبلغ أكبر قليلاً (أو [*مبلغ* أكثر](https://longform.asmartbear.com/extreme-questions/)) يحدث فرقًا كبيرًا في نهاية العام.
 
-Often, though, charging more pushes away your existing client base, and you'll have to find a new breed of folks willing to spend the big bucks. These are generally bigger, more dysfunctional companies with 47-page Master Service Agreements and complex, ever-changing requirements (though without an acceptance of "agile" or "lean"). It's a living, it's just a different living than being a Cool Cat HTML/CSS whiz doing fun projects for other entrepreneurs.
+ومع ذلك، في كثير من الأحيان، يؤدي فرض المزيد من الرسوم إلى إبعاد قاعدة عملائك الحالية، وسيتعين عليك العثور على سلالة جديدة من الأشخاص المستعدين لإنفاق الأموال الكبيرة. هذه بشكل عام هي شركات أكبر حجمًا وأكثر اختلالًا، حيث تحتوي على اتفاقيات خدمة رئيسية مكونة من 47 صفحة ومتطلبات معقدة ومتغيرة باستمرار (على الرغم من عدم قبول "المرونة" أو "العجاف"). إنها لقمة العيش، إنها مجرد حياة مختلفة عن كونك خبيرًا في HTML/CSS يقوم بمشاريع ممتعة لرواد الأعمال الآخرين.
 
-This sword cuts both ways--even little [discounts crater profitability](https://longform.asmartbear.com/discount-gambit/). For example it's common practice to give a 10% discount if the client pre-pays, but although it's great to have cash up-front, that discount comes right off your bottom line. (A better idea is to raise your prices by P%, then offer a P% discount for pre-pay. Then your cash-rich customers are paying the same, but others are creating more profit in exchange for delayed payment--a reasonable trade for both parties.)
+يقطع هذا السيف في كلا الاتجاهين - حتى ولو كان قليلًا [يخفض ربحية الحفرة](https://longform.asmartbear.com/discount-gambit/). على سبيل المثال، من الممارسات الشائعة تقديم خصم بنسبة 10% إذا كان العميل يدفع مقدمًا، ولكن على الرغم من أنه من الرائع الحصول على أموال نقدية مقدمًا، إلا أن هذا الخصم يأتي مباشرة من صافي أرباحك. (الفكرة الأفضل هي رفع الأسعار بنسبة P%، ثم تقديم خصم P% للدفع المسبق. ثم يدفع عملاؤك الأثرياء نفس المبلغ، لكن الآخرين يحققون المزيد من الأرباح مقابل تأخير الدفع - وهي تجارة معقولة لكلا الطرفين.)
 
-### Bill more hours
+### فاتورة المزيد من الساعات
 
-Billing even 5 hours more per week significantly increases profitability.
+يؤدي إعداد الفواتير حتى 5 ساعات إضافية في الأسبوع إلى زيادة الربحية بشكل كبير.
 
-The problem is convincing your employees to work more, because to them that's "overtime" on a fixed salary. What's in it for them?
+تكمن المشكلة في إقناع موظفيك بالعمل أكثر، لأن ذلك يعتبر بالنسبة لهم بمثابة "عمل إضافي" مقابل راتب ثابت. ما في ذلك بالنسبة لهم؟
 
-One answer: Split overtime billings with them. It's pure profit to you and your employee can earn a significant bonus.
+إجابة واحدة: تقسيم فواتير العمل الإضافي معهم. إنه ربح خالص لك ويمكن لموظفك الحصول على مكافأة كبيرة.
 
-### Build a product
+### بناء منتج
 
-Many consulting companies have a few ideas or even working internal projects which they hope to someday turn into money-making products. The usual story is:
+لدى العديد من الشركات الاستشارية بعض الأفكار أو حتى المشاريع الداخلية العاملة والتي تأمل أن تتحول يومًا ما إلى منتجات لكسب المال. القصة المعتادة هي:
 
-> We built this product because we needed it ourselves. It gives us an advantage in consulting because it accelerates our development and enhances our sales pitch.  
->   
-> But surely we're not the only software developers on Earth who would find this tool useful, so whenever we have a lull in client work we work on our product. Someday that will cash-flow by itself, at much better margins.
+> لقد بنينا هذا المنتج لأننا كنا في حاجة إليه بأنفسنا. إنه يمنحنا ميزة في الاستشارات لأنه يسرع تطورنا ويعزز مبيعاتنا.
+> 
+> ولكن من المؤكد أننا لسنا مطوري البرامج الوحيدين على وجه الأرض الذين قد يجدون هذه الأداة مفيدة، لذلك كلما كان لدينا فترة توقف في عمل العميل، فإننا نعمل على منتجنا. يومًا ما سوف يتدفق النقد من تلقاء نفسه، بهوامش أفضل بكثير.
 
-Indeed there are conspicuous companies who grew successful product lines in exactly this manner: [37signals](https://37signals.com/), [FogCreek](https://fogcreek.com/), and Pivotal Labs. Unfortunately, for each of those there are *hundreds if not thousands* who toil away at pet projects which never see the light of day. Some reasons:
+في الواقع، هناك شركات بارزة طورت خطوط إنتاج ناجحة بهذه الطريقة بالضبط: [37signals](https://37signals.com/)، و[FogCreek](https://fogcreek.com/)، وPivotal Labs. لسوء الحظ، يوجد لكل واحد من هؤلاء *المئات، إن لم يكن الآلاف* الذين يكدحون في مشاريع الحيوانات الأليفة التي لا ترى النور أبدًا. بعض الأسباب:
 
-* Converting an internal project to a user-friendly one requires drudgery: Onboarding flows, documentation, intuitive user interface, installers, password-reset, and fixing those 200 bugs that internally you've just learned to work around. No one wants to do it, and it's no one's *job* to do it, so it doesn't happen.
-* It's no one's job to market or sell the product. No one has the time, and it's quite possible that in a roomful of consultants no one has the skill-set either. So you "put it out there" hoping that the magical world of "social media word of mouth marketing" will bestow eager users upon your sign-up form. But, of course, that's not what happens.
-* You have five kinda-cool projects, any of which might be awesome if given enough TLC, but because your attention is spread among all of them (and even then only in fits and spurts between client work) none gets to the stage of being usable by anyone else. **Lack of focus kills.**
-* Billable hours trump product development; it's always second-class, so you get a second-class side-project.
-* Thinking that just because the product is "great for us," that there's a market out there. Usually there's not. ([Here's how to figure it out](https://longform.asmartbear.com/problem/)).
+* يتطلب تحويل مشروع داخلي إلى مشروع سهل الاستخدام الكدح: عمليات الإعداد، والوثائق، وواجهة المستخدم البديهية، وعمليات التثبيت، وإعادة تعيين كلمة المرور، وإصلاح 200 خطأ تعلمت للتو التغلب عليها داخليًا. لا أحد يريد أن يفعل ذلك، وليست *وظيفة* أحد أن يفعل ذلك، لذلك لا يحدث ذلك.
+* ليس من مهمة أحد تسويق المنتج أو بيعه. لا أحد لديه الوقت، ومن المحتمل جدًا أنه في غرفة مليئة بالمستشارين لا يوجد أحد لديه مجموعة المهارات أيضًا. لذلك "تضعه هناك" على أمل أن يمنح العالم السحري "للتسويق الشفهي عبر وسائل التواصل الاجتماعي" المستخدمين المتحمسين في نموذج التسجيل الخاص بك. لكن، بالطبع، ليس هذا ما يحدث.
+* لديك خمسة مشاريع رائعة نوعًا ما، قد يكون أي منها رائعًا إذا أعطيت ما يكفي من العناية، ولكن نظرًا لأن انتباهك منتشر بينهم جميعًا (وحتى ذلك الحين فقط في فترات متقطعة بين عمل العميل) لا يصل أي منها إلى مرحلة أن يكون قابلاً للاستخدام من قبل أي شخص آخر. **قلة التركيز تقتل.**
+* الساعات القابلة للفوترة تتفوق على تطوير المنتج؛ إنه دائمًا من الدرجة الثانية، لذلك تحصل على مشروع جانبي من الدرجة الثانية.
+* معتقدين أنه لمجرد أن المنتج "رائع بالنسبة لنا"، فإن هناك سوقًا هناك. عادة لا يوجد. ([إليك كيفية اكتشاف ذلك](https://longform.asmartbear.com/problem/)).
 
-Most of the problems above can be fixed by **treating the product as a client**:
+يمكن إصلاح معظم المشاكل المذكورة أعلاه عن طريق **معاملة المنتج كعميل**:
 
-* The product is listed as a client just like all the rest.
-* The product is given a budget, even to the point of a separate bank account (and corporation?) so it's clear how much you've spent on it, and the project pays consulting fees (perhaps at cost instead of full-rate).
-* Hours are scheduled and prioritized like other clients, and doesn't slip just because it's not a "real client."
-* If the (potential?) income from the project cannot justify the cost, you might consider it a loss and stop completely rather than continue to limp along as a money-losing project.
+* يتم إدراج المنتج كعميل مثل بقية المنتجات.
+* يتم إعطاء المنتج ميزانية، حتى إلى حد حساب مصرفي منفصل (وشركة؟) لذلك يكون من الواضح المبلغ الذي أنفقته عليه، ويدفع المشروع رسوم استشارية (ربما بالتكلفة بدلاً من السعر الكامل).
+* تتم جدولة ساعات العمل وتحديد أولوياتها مثل العملاء الآخرين، ولا تتأخر لمجرد أنها ليست "عميلًا حقيقيًا".
+* إذا كان الدخل (المحتمل؟) من المشروع لا يبرر التكلفة، فقد تعتبره خسارة وتتوقف تمامًا بدلاً من الاستمرار في التعثر كمشروع خاسر.
 
-But ultimately, [it's just hard](https://x.com/ezsmith397/status/1760858039316332995?s=20).
+ولكن في النهاية، [الأمر صعب](https://x.com/ezsmith397/status/1760858039316332995?s=20).
 
-### Use subcontractors instead of employees
+### استخدم المقاولين من الباطن بدلاً من الموظفين
 
-If you were to pay your employees for exactly the number of hours you re-bill them, you would avoid all of the issues above: No employment taxes, no worries about 36-hour weeks or vacations or project gaps. It's simple time-arbitrage.
+إذا كنت ستدفع لموظفيك مقابل عدد الساعات التي تعيد إصدار الفواتير لهم بالضبط، فسوف تتجنب كل المشكلات المذكورة أعلاه: لا توجد ضرائب توظيف، ولا تقلق بشأن 36 ساعة أسبوعيًا أو إجازات أو فجوات في المشروع. إنها عملية تحكيم بسيطة للوقت.
 
-Terrific! Unfortunately, subcontractors **charge a lot by the hour**--a lot more than employees. Of course they do... exactly for the reasons above!
+رائع! لسوء الحظ، يتقاضى المقاولون من الباطن رسومًا كبيرة بالساعة**، أي أكثر بكثير من الموظفين. بالطبع يفعلون... بالضبط للأسباب المذكورة أعلاه!
 
-You haven't eliminated those effects, you've just moved them to someone else's profit-and-loss report. If you hired that same employee as a consultant she would charge you $60/hour instead of $30/hour and your profits are still the same.
+لم تقم بإزالة هذه التأثيرات، لقد قمت فقط بنقلها إلى تقرير الربح والخسارة الخاص بشخص آخر. إذا قمت بتعيين نفس الموظف كمستشار، فسوف يتقاضى منك 60 دولارًا في الساعة بدلاً من 30 دولارًا في الساعة وستظل أرباحك كما هي.
 
-Still, there's a lot less headache using consultants, so this might still be worthwhile. Simpler taxes (in America), no bargaining for vacation time, no prodding them to bill 45 hours this week to make up for last week. Even from a psychological standpoint this might be better: It's easier to give up $60 when you charge $100, but it causes some consternation to pay someone for a "day's work" when there's no work to do.
+ومع ذلك، هناك صداع أقل بكثير عند الاستعانة بالاستشاريين، لذلك قد يكون هذا الأمر جديرًا بالاهتمام. ضرائب أبسط (في أمريكا)، ولا مساومة على وقت الإجازة، ولا حثهم على دفع فاتورة لمدة 45 ساعة هذا الأسبوع للتعويض عن الأسبوع الماضي. حتى من وجهة نظر نفسية، قد يكون هذا أفضل: فمن الأسهل أن تتخلى عن 60 دولارًا عندما تتقاضى 100 دولار، لكنه يسبب بعض الذعر عندما تدفع لشخص ما مقابل "يوم عمل" عندما لا يكون هناك عمل للقيام به.
 
-## Is consulting really that bad?
+## هل الاستشارة بهذا السوء حقًا؟
 
-Consulting is a great way to earn a living and a smart way to self-finance a startup.
+تعتبر الاستشارات طريقة رائعة لكسب لقمة العيش وطريقة ذكية للتمويل الذاتي لشركة ناشئة.
 
-The trick is to avoid all these traps. For example, you know billing a full 40 hours per week is critical, so make it a habit to review hours weekly to make sure no one is consistently falling behind. As another example, set up incentives where employees get to share in the profits.
+الحيلة هي تجنب كل هذه الفخاخ. على سبيل المثال، أنت تعلم أن تحصيل 40 ساعة كاملة في الأسبوع أمر بالغ الأهمية، لذا اجعل من عادة مراجعة ساعات العمل أسبوعيًا للتأكد من عدم تخلف أي شخص عن الركب باستمرار. وكمثال آخر، قم بإعداد حوافز حيث يتمكن الموظفون من المشاركة في الأرباح.
 
-It's always hard. Most consulting companies don't make much profit, and it's one in a thousand that has the discipline to launch a successful product during off-hours. If you're going to make it happen, you yourself need to be serious, disciplined, and relentless.
+إنه أمر صعب دائمًا. معظم الشركات الاستشارية لا تحقق أرباحًا كبيرة، وواحدة من كل ألف لديها الانضباط لإطلاق منتج ناجح خارج ساعات العمل. إذا كنت تريد تحقيق ذلك، فأنت بحاجة إلى أن تكون جادًا ومنضبطًا ولا هوادة فيه.
 
-**But you** ***can*** **do it.**
+**لكنك** ***تستطيع*** **تفعل ذلك.**
 
-And if you do, you've just self-financed a startup, made a nice living, mitigated much of the risk of product-only startups, and built a great team in the process.
+وإذا قمت بذلك، فقد قمت بتمويل شركة ناشئة ذاتيًا، وكسبت عيشًا جيدًا، وخففت الكثير من مخاطر الشركات الناشئة التي تعتمد على المنتجات فقط، وقمت ببناء فريق رائع في هذه العملية.

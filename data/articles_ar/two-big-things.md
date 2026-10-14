@@ -20,54 +20,41 @@ summary_ar: "No you can't \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** يمكنك التركيز على أمرين كبيرين فقط، ولكن ليس ثلاثة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# You can have two Big Things, but not three
-
-> **Executive Summary:** No you can't "have it all."  You can have two things, but not three.
-> **Original URL:** [https://longform.asmartbear.com/two-big-things/](https://longform.asmartbear.com/two-big-things/)
-
 ![stolen identity living best life](https://public.asmartbear.com/books/anthology/chapters/two-big-things/d9091print-simple.png)
 
-Forget work/life integration for a minute. How much time do you have, regardless of partitioning?
+ننسى التكامل بين العمل والحياة لمدة دقيقة. كم من الوقت لديك، بغض النظر عن التقسيم؟
 
-From your 24-hour daily allotment, the 1950s-style break-down is 8 hours for work, 8 for home and commute, and 8 for sleep and ablutions. So, "work" and "home" are the two things in which you can spend 40+ hours per week.
+من مخصصاتك اليومية البالغة 24 ساعة، فإن التقسيم على طراز الخمسينيات هو 8 ساعات للعمل، و8 للمنزل والتنقل، و8 للنوم والوضوء. لذا، فإن "العمل" و"المنزل" هما الشيئان اللذان يمكنك قضاء أكثر من 40 ساعة في الأسبوع فيهما.
 
-This is the amount of time it takes to tackle something huge. A career. A parent. A startup.
+هذا هو مقدار الوقت الذي يستغرقه التعامل مع شيء ضخم. مهنة. أحد الوالدين. بدء التشغيل.
 
-There are weekends and vacations and sick days and such, but those don't add up to enough *concentrated* time to carry off something like a startup without causing work or home to suffer.
+هناك عطلات نهاية الأسبوع والإجازات والأيام المرضية وما شابه، ولكن هذه لا تضيف ما يكفي من الوقت *للتركيز* لتنفيذ شيء مثل شركة ناشئة دون التسبب في معاناة العمل أو المنزل.
 
-Of course "work" and "home" are just placeholders for "Big Things." If you're unattached, "home" doesn't occupy significant time.
+بالطبع "العمل" و"المنزل" هما مجرد عناصر نائبة لـ "الأشياء الكبيرة". إذا كنت غير مرتبط، فإن "المنزل" لا يشغل وقتًا كبيرًا.
 
-The rule of life is: **You can have two "Big Things" in your life, but not three**.
+قاعدة الحياة هي: **يمكنك الحصول على "شيئين كبيرين" في حياتك، وليس ثلاثة**.
 
-Big Things include:
+الأشياء الكبيرة تشمل:
 
-* Job
-* Kids
-* Spouse
-* Social Life
-* Major Hobby (e.g. build a boat in the garage, become a chess master, video game addiction)
-* Startup
+* وظيفة
+* أطفال
+* زوج
+* الحياة الاجتماعية
+* الهواية الرئيسية (على سبيل المثال، بناء قارب في المرآب، أو أن تصبح أستاذًا في الشطرنج، أو إدمان ألعاب الفيديو)
+* بدء
 
-You can do a startup on the side while you have a day job, but your family will never see you. You might even lose your family. It happens. This is partly why it's easier to start a company before you have a family or even a spouse.
+يمكنك إنشاء شركة ناشئة بينما يكون لديك وظيفة يومية، لكن عائلتك لن تراك أبدًا. قد تفقد حتى عائلتك. يحدث ذلك. وهذا جزئيًا هو السبب في أنه من الأسهل أن تبدأ شركة قبل أن يكون لديك عائلة أو حتى زوج.
 
-You can have a job and a social life, but unless your spouse is fully integrated and agreeable to that social life, there will be strife. "Going out with the guys *again?*"
+يمكنك الحصول على وظيفة وحياة اجتماعية، ولكن ما لم يكن زوجك مندمجًا تمامًا ويوافق على تلك الحياة الاجتماعية، فسوف يكون هناك صراع. "الخروج مع الرجال * مرة أخرى؟ *"
 
-Yes, "kids" and "spouse" are on the list separately. Young kids strain marriages because there's not enough time to invest in the kids as well as be there for each other.
+نعم، "الأطفال" و"الزوج" موجودون في القائمة بشكل منفصل. يجهد الأطفال الصغار الزيجات لأنه لا يوجد ما يكفي من الوقت للاستثمار في الأطفال وكذلك التواجد مع بعضهم البعض.
 
 ![were going to look back on false memories of this and laugh](https://public.asmartbear.com/books/anthology/chapters/two-big-things/d7810print-simple.png)
 
-Some people try to "have it all." Men and women both. But it's never true. At most two can function well; the rest do not. More often, there's just one that receives the majority of the energy, and the rest suffers.
+يحاول بعض الناس "الحصول على كل شيء". الرجال والنساء على حد سواء. ولكن هذا ليس صحيحا أبدا. يمكن أن يعمل اثنان على الأكثر بشكل جيد؛ الباقي لا. في أغلب الأحيان، هناك واحد فقط يتلقى غالبية الطاقة، والباقي يعاني.
 
-Note that "Sleep" isn't on the list of options, even though it's mathematically the same in terms of time commitment. That's because cutting out sleep doesn't work--then you can't function at a high level at *anything*.
+لاحظ أن "النوم" ليس مدرجًا في قائمة الخيارات، على الرغم من أنه هو نفسه رياضيًا من حيث الالتزام بالوقت. وذلك لأن الاستغناء عن النوم لا يجدي نفعًا، إذًا لن تتمكن من العمل على مستوى عالٍ في *أي شيء*.
 
-No, you are not an exception. That's egotistical self-deception. Not on sleep, and not on the number of Big Things. Ask the people around you if *they* think you're not failing at one of your Big Things.
+لا، أنت لست استثناء. هذا خداع ذاتي مغرور. لا على النوم، ولا على عدد الأشياء الكبيرة. اسأل الأشخاص من حولك إذا كانوا يعتقدون أنك لا تفشل في أحد الأشياء الكبيرة لديك.
 
-Time to decide which two.
+حان الوقت لتقرر أيهما.

@@ -20,99 +20,86 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كيف تقف في وجه الشركات العملاقة المسيطرة دون خوف وتنتزع حصتك تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+يشعر كل مؤسس بالقلق من المنافسة من شركة كبيرة، بما فيهم أنا.
 
----
-
-### النص المرجعي للمقال (Original Reference):
-# Telling the 800-lb Gorilla to Shove it up his Ass
-
-> **Executive Summary:** You worry about competition from the big, brand-name, deep-pocketed company. But there are better things to worry about and ways to avoid running into gorillas in the first place.
-> **Original URL:** [https://longform.asmartbear.com/competing-big-companies/](https://longform.asmartbear.com/competing-big-companies/)
-
-Every founder frets about competition from a big company, me included.
-
-We scoff at their inability to innovate and for prioritizing shareholders over customers, but still we quiver in fear.
+نحن نسخر من عدم قدرتهم على الابتكار وإعطاء الأولوية للمساهمين على العملاء، لكننا لا نزال نرتعش من الخوف.
 
 ![what happens to the stock when I do this?](https://public.asmartbear.com/books/anthology/chapters/competing-big-companies/d4122print-simple.png)
 
-People ask about it all the time, so I know I'm not alone. It always goes like this:
+يسأل الناس عن ذلك طوال الوقت، لذلك أعرف أنني لست وحدي. دائما يذهب مثل هذا:
 
-> I'm just a two-person operation with no budget. What if a huge company with a hundred software developers and a million dollars in marketing budget decides to copy my idea?
+> أنا مجرد عملية لشخصين بدون ميزانية. ماذا لو قررت شركة ضخمة تضم مائة مطور برمجيات وميزانية تسويقية تبلغ مليون دولار نسخ فكرتي؟
 
-Answer: You're dead! Give up! No small company has ever survived competition with a large one!
+الجواب: أنت ميت! يستسلم! لم تتمكن أي شركة صغيرة من النجاة من المنافسة مع شركة كبيرة!
 
-Oh wait, that's not true. But poking fun doesn't help; maybe this article will.
+أوه انتظر، هذا ليس صحيحا. لكن السخرية لا تساعد؛ ربما هذا المقال سوف.
 
-First, take a deep breath and remember that **every little software company on Earth in under this threat**. This fact alone means competition--or threat of competition--isn't fatal, and possibly not even important.
+أولاً، خذ نفسًا عميقًا وتذكر أن **كل شركة برمجيات صغيرة على وجه الأرض تتعرض لهذا التهديد**. هذه الحقيقة وحدها تعني أن المنافسة - أو التهديد بالمنافسة - ليست قاتلة، وربما ليست مهمة.
 
-## Don't fear the dinosaur, fear the quivering warm-blooded tree-shrew
+## لا تخافوا من الديناصورات، بل خافوا من زبابة الشجرة ذات الدم الحار
 
-65 million years ago an iridium-infused extra-terrestrial **meatball o' death** caused what we would nowadays call a "disruptive market event," and the cold-blooded dinosaurs couldn't weather the [shitstorm](https://virtualimpax.com/2009/07/13/social-media-shit-storm/). It was the little cenozoic warm-blooded agile (oh sorry, now we're saying "lean") rodents who adapted by getting "outside the nest" to discover how to eat cockroaches, because we all know that cockroaches are the one form of life that can survive anything.
+قبل 65 مليون سنة، تسببت كرة لحم أو موت من خارج الأرض مملوءة بالإيريديوم في ما نسميه اليوم "حدثًا مدمرًا للسوق"، ولم تتمكن الديناصورات ذات الدم البارد من الصمود في وجه [العاصفة القذرة] (https://virtualimpax.com/2009/07/13/social-media-shit-storm/). لقد كانت القوارض الصغيرة ذات الدم الحار التي تعود إلى حقب الحياة الحديثة (أوه آسف، الآن نقول "هزيلة") هي التي تكيفت من خلال "الخروج من العش" لاكتشاف كيفية أكل الصراصير، لأننا نعلم جميعًا أن الصراصير هي شكل الحياة الوحيد الذي يمكنه البقاء على قيد الحياة في أي شيء.
 
-Like unadaptable dinosaurs, whatever your large competitor is doing now is probably what they'll be doing two years from now, possibly four. Same message, same product, same pricing, and still taking a dump on Facebook instead of playing by the new rules. By then where will you be?
+مثل الديناصورات غير القابلة للتكيف، فإن كل ما يفعله منافسك الكبير الآن هو على الأرجح ما سيفعله بعد عامين من الآن، وربما أربعة. نفس الرسالة، نفس المنتج، نفس الأسعار، وما زلت تتخلص من الفيسبوك بدلاً من اللعب بالقواعد الجديدة. بحلول ذلك الوقت أين ستكون؟
 
-That kind of competition isn't scary. What *is* scary is another scrappy, smart startup like yours--another tree-shrew. The one who silently observes you from afar, then drives down the road you paved, skipping the mistakes you made and copying the good parts.
+هذا النوع من المنافسة ليس مخيفا. ما هو مخيف هو شركة ناشئة ذكية أخرى متشائمة مثل شركتك - زبابة شجرة أخرى. ذاك الذي يراقبك من بعيد بصمت، ثم يسير في الطريق الذي مهّدته، متخطياً الأخطاء التي ارتكبتها، ومقلداً الأجزاء الجيدة.
 
-Take all your angst about big competitors and refocus it on the little ones. (I'll talk about this sort of competition in future post.)
+خذ كل ما يقلقك بشأن المنافسين الكبار وأعد تركيزه على المنافسين الصغار. (سأتحدث عن هذا النوع من المنافسة في المقالة القادمة.)
 
-## You're scratching out a living, not "beating Google.<wbr/>"
+## أنت تكسب لقمة عيشك، وليس "التغلب على Google.<wbr/>"
 
-If your only conception of "success" is to utterly destroy large companies, then I guess you should stop reading now.
+إذا كان مفهومك الوحيد عن "النجاح" هو تدمير الشركات الكبيرة تمامًا، فأعتقد أنه يجب عليك التوقف عن القراءة الآن.
 
-But if you want to build a solid company, something you're proud of, something that [pays handsomely﻿](https://longform.asmartbear.com/rich-vs-king-sold-company/) but doesn't have to be worth $1B, then the game isn't "us or them." The question is: How can you own your little piece of the world; Not: How can you wrest $100m of revenue from a big guy.
+ولكن إذا كنت ترغب في بناء شركة قوية، أو شيء تفتخر به، أو شيء [يدفع لك بسخاء﻿](https://longform.asmartbear.com/rich-vs-king-sold-company/) ولكن ليس من الضروري أن تبلغ قيمته مليار دولار، فإن اللعبة ليست "نحن أو هم". والسؤال هو: كيف يمكنك أن تمتلك قطعتك الصغيرة من العالم؛ ليس: كيف يمكنك انتزاع 100 مليون دولار من الإيرادات من رجل كبير.
 
-**It's not your purpose to "beat" another company.** It's your purpose to define yourself on your own terms, not in terms of how you're like or unlike someone else.
+**ليس هدفك "التغلب" على شركة أخرى.** هدفك هو تعريف نفسك وفقًا لشروطك الخاصة، وليس من حيث الطريقة التي تشبه بها شخصًا آخر أو تختلف عنه.
 
-Sure it's constructive to "set your sights" on a competitor, actively trying to beat them in the marketplace or even steal their customers (e.g. give a discount if someone switches to you). But ultimately the **only thing that matters is that you earn more and more customers**, whether or not anyone else does too.
+من المؤكد أنه من المفيد "وضع أنظارك" على أحد المنافسين، أو محاولة التغلب عليه في السوق أو حتى سرقة عملائه (على سبيل المثال، تقديم خصم إذا تحول شخص ما إليك). ولكن في النهاية **الشيء الوحيد المهم هو أن تكسب المزيد والمزيد من العملاء**، سواء فعل ذلك أي شخص آخر أم لا.
 
-## Using a gorilla to increase your own prospects
+## استخدام الغوريلا لزيادة آفاقك
 
-It can actually be an advantage to have a big player in your market, especially if they enter your market after you're established.
+قد يكون من المفيد في الواقع أن يكون لديك لاعب كبير في السوق الخاص بك، خاصة إذا دخلوا السوق الخاص بك بعد تأسيسك.
 
-At [Smart Bear](https://smartbear.com/) we make a peer review tool for software programmers; you don't have to be a geek to know that any software development tool company shares the following fear: "What if Microsoft copies us?" But we know that any code review tool from Microsoft would work only with their own version control system and only inside Visual Studio. (Can you imagine a tool from Microsoft that supported ClearCase, ran inside Eclipse, and had excellent support for Java?)
+في [Smart Bear](https://smartbear.com/) نقوم بإنشاء أداة مراجعة النظراء لمبرمجي البرامج؛ ليس من الضروري أن تكون مهووسًا لتعرف أن أي شركة لأدوات تطوير البرمجيات تشاركها الخوف التالي: "ماذا لو قامت Microsoft بنسخنا؟" لكننا نعلم أن أي أداة لمراجعة التعليمات البرمجية من Microsoft ستعمل فقط مع نظام التحكم في الإصدار الخاص بها وداخل Visual Studio فقط. (هل يمكنك تخيل أداة من Microsoft تدعم ClearCase، وتعمل داخل Eclipse، وتتمتع بدعم ممتاز لـ Java؟)
 
-So what if they did copy us, and what if as a result they owned 100% of the Visual Studio market? **Well that still leaves every other market on Earth**. And then all of Microsoft's competitors would also need a code review tool so they don't fall behind on the hallowed competitive analysis chart, so suddenly IBM, CA, Oracle, Serena, CompuWare, and HP would need a code review tool *right away*. What better way to accomplish that than to buy the #1 (or maybe now #2) code review tool company--hey that's us!--which by the way is profitable at a time when any company is happy to have a department that's generating cash.
+فماذا لو قاموا بتقليدنا، وماذا لو كانوا يمتلكون نتيجة لذلك 100% من سوق Visual Studio؟ **حسنًا، لا يزال هذا يترك كل الأسواق الأخرى على وجه الأرض**. وبعد ذلك سيحتاج جميع منافسي Microsoft أيضًا إلى أداة لمراجعة التعليمات البرمجية حتى لا يتخلفوا عن مخطط التحليل التنافسي المقدس، لذا فجأة ستحتاج IBM وCA وOracle وSerena وCompuWare وHP إلى أداة مراجعة التعليمات البرمجية *على الفور*. ما هي أفضل طريقة لتحقيق ذلك من شراء شركة أدوات مراجعة التعليمات البرمجية رقم 1 (أو ربما الآن رقم 2) - مرحبًا، هذه نحن! - وهي بالمناسبة مربحة في الوقت الذي تكون فيه أي شركة سعيدة بوجود قسم يدر الأموال النقدية.
 
-In short, Microsoft copying the idea would only validate the market, causing the value of Smart Bear to increase.
+باختصار، فإن نسخ مايكروسوفت للفكرة لن يؤدي إلا إلى التحقق من صحة السوق، مما يؤدي إلى زيادة قيمة سمارت بير.
 
-What actually happened is instructive too: Microsoft added the concept of "shelving" and put the absolute least amount of effort into supporting code review (it's literally a check-box that indicates that, somehow, somewhere, a code review happened), so the result is that we sell a ton of Code Collaborator to Visual Studio shops.
+ما حدث بالفعل مفيد أيضًا: أضافت Microsoft مفهوم "الرفوف" وبذلت أقل قدر من الجهد على الإطلاق لدعم مراجعة التعليمات البرمجية (إنها حرفيًا مربع اختيار يشير إلى حدوث مراجعة للتعليمات البرمجية، بطريقة أو بأخرى، في مكان ما)، وبالتالي فإن النتيجة هي أننا نبيع عددًا كبيرًا من Code Collaborator إلى متاجر Visual Studio.
 
-In other words, they validated the market by entering it, but exactly because they're a huge company they couldn't make it good enough to stop us.
+بمعنى آخر، لقد أثبتوا صحة السوق من خلال دخوله، ولكن نظرًا لأنهم شركة ضخمة، لم يتمكنوا من جعلها جيدة بما يكفي لإيقافنا.
 
-## Go where they can't follow
+## اذهب حيث لا يمكنهم المتابعة
 
-Big companies play only in big markets.
+الشركات الكبرى تلعب فقط في الأسواق الكبيرة.
 
-It's logical: With all the expensive machinery and bureaucracy it takes a dump truck of money and dozens of man-years to build something new, so the opportunity has to be enormous. Even if they *were* successful in a small market there wouldn't be enough profits to move the big needle at the top.
+إنه أمر منطقي: مع كل الآلات الباهظة الثمن والبيروقراطية، يستغرق الأمر شاحنة نفايات من المال وعشرات السنين من العمل لبناء شيء جديد، لذا يجب أن تكون الفرصة هائلة. حتى لو نجحوا في سوق صغير، فلن تكون هناك أرباح كافية لتحريك الإبرة الكبيرة إلى القمة.
 
-So Microsoft can't attack a market unless there's a potential to earn at least $1B. But wouldn't *you* be happy playing in a market where you'd be able to rake in "only" $100M? Of course you would.
+لذلك لا تستطيع مايكروسوفت مهاجمة السوق ما لم يكن هناك إمكانية لكسب ما لا يقل عن مليار دولار. لكن ألن تكون *أنت* سعيدًا باللعب في سوق حيث يمكنك الحصول على 100 مليون دولار "فقط"؟ بالطبع سوف تفعل ذلك.
 
-I'm not talking about carving out micro-niches where only seven people on Earth are potential customers. Just don't go after massive, general markets like "everyone with a digital camera" or "anyone with a smart phone" or "all software developers."
+أنا لا أتحدث عن اقتطاع مجالات صغيرة حيث يكون سبعة أشخاص فقط على وجه الأرض من العملاء المحتملين. لا تلاحق الأسواق العامة الضخمة مثل "كل شخص لديه كاميرا رقمية" أو "أي شخص لديه هاتف ذكي" أو "جميع مطوري البرامج".
 
 ![small pond](https://public.asmartbear.com/books/anthology/chapters/competing-big-companies/d5228print-simple.png)
 
-## Do what they cannot
+## افعلوا ما لا يستطيعون
 
-Big companies have significant advantages like money, a brand, a team, and a large customer base, many of whom will never switch even when presented with a clearly-better alternative﻿.
+تتمتع الشركات الكبرى بمزايا كبيرة مثل المال، والعلامة التجارية، والفريق، وقاعدة عملاء كبيرة، والعديد منهم لن يتحولوا أبدًا حتى عندما يُعرض عليهم بديل أفضل بوضوح﻿.
 
-Their brand alone is a powerful force you probably cannot overcome, e.g. "eBay is trustable" or "Apple is cool" or "IBM is safe."
+تعتبر علامتهم التجارية وحدها قوة هائلة ربما لا يمكنك التغلب عليها، على سبيل المثال. "eBay جدير بالثقة" أو "Apple رائعة" أو "IBM آمنة."
 
-But the same attributes which deliver those advantages are also restrictive:
+لكن نفس السمات التي توفر هذه المزايا مقيدة أيضًا:
 
-* They can't release a completely-revamped, brand-new version because they can't retrain 200,000 users.
-* They can't take a risk because protecting the existing revenue stream is more important than *anything* else, even if it means their ultimate demise.
-* They can't quickly convert new ideas to released code because there's requirements and documents and designers and approvals and schedules and testing and vetting.
-* They can't change their image because there's too much momentum with the old one﻿. For example if they have a reputation for bad tech support, even if it gets remedied most people will still think of them has having bad support.
-* They can't observe and react quickly to changing market demands because there's too many layers of people and process, and too many people whose careers depend on maintaining the status quo.
+* لا يمكنهم إصدار نسخة جديدة ومُجددة بالكامل لأنهم لا يستطيعون إعادة تدريب 200000 مستخدم.
+* لا يمكنهم المخاطرة لأن حماية تدفق الإيرادات الحالي أكثر أهمية من *أي شيء* آخر، حتى لو كان ذلك يعني زوالهم في نهاية المطاف.
+* لا يمكنهم تحويل الأفكار الجديدة بسرعة إلى تعليمات برمجية تم إصدارها نظرًا لوجود متطلبات ومستندات ومصممين وموافقات وجداول زمنية واختبار وفحص.
+* لا يمكنهم تغيير صورتهم لأن هناك الكثير من الزخم مع الصورة القديمة﻿. على سبيل المثال، إذا كان لديهم سمعة سيئة فيما يتعلق بالدعم الفني السيئ، حتى لو تم علاج ذلك، فإن معظم الناس سيظلون يعتقدون أنهم يتلقون دعمًا سيئًا.
+* لا يمكنهم ملاحظة متطلبات السوق المتغيرة والاستجابة لها بسرعة، نظرًا لوجود عدد كبير جدًا من طبقات الأشخاص والعمليات، وعدد كبير جدًا من الأشخاص الذين تعتمد حياتهم المهنية على الحفاظ على الوضع الراهن.
 
-For example, Intuit needs to look solid and timeless, their developers know C++ and desktop applications, and they can't retrain the computer-phobic home users of Quicken... so they cannot create [Mint](https://www.mint.com/).
+على سبيل المثال، تحتاج شركة Intuit إلى أن تبدو قوية وخالدة، وأن يعرف مطوروها لغة C++ وتطبيقات سطح المكتب، ولا يمكنهم إعادة تدريب مستخدمي Quicken المنزليين الذين يعانون من رهاب الكمبيوتر... لذا لا يمكنهم إنشاء [Mint](https://www.mint.com/).
 
-As another example, IBM requires expensive infrastructure, development teams, and sales channels to command multi-million dollar consulting deals, but that also means it's not profitable to do a small deal, which means small consulting shops never worry about competing with IBM.
+وكمثال آخر، تحتاج IBM إلى بنية تحتية باهظة الثمن، وفرق تطوير، وقنوات مبيعات لعقد صفقات استشارية بملايين الدولارات، ولكن هذا يعني أيضًا أنه ليس من المربح إجراء صفقة صغيرة، مما يعني أن المتاجر الاستشارية الصغيرة لا تقلق أبدًا بشأن التنافس مع IBM.
 
-They can't change their product, so you can innovate without competition. They can't change their image, so you can fill the gap. They can't listen to a customer and make an impact one week later; you can.
+لا يمكنهم تغيير منتجاتهم، لذلك يمكنك الابتكار دون منافسة. لا يمكنهم تغيير صورتهم، لذا يمكنك ملء الفجوة. لا يمكنهم الاستماع إلى العميل وإحداث تأثير بعد أسبوع واحد؛ أنت تستطيع.
 
-[Do what they can't do](https://longform.asmartbear.com/startup-beats-incumbent/), be what they're not, and you won't have to worry about competing on those points.
+[افعل ما لا يمكنهم فعله](https://longform.asmartbear.com/startup-beats-incumbent/)، كن كما لا يفعلون، ولن داعي للقلق بشأن التنافس على تلك النقاط.

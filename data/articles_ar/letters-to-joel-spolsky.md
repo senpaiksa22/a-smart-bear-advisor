@@ -20,123 +20,110 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** رسائل مفتوحة إلى جويل سبولسكي حول فنون هندسة البرمجيات وإدارتها تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Letters to Joel Spolsky
-
-> **Executive Summary:** I regret to inform you…
-> **Original URL:** [https://longform.asmartbear.com/letters-to-joel-spolsky/](https://longform.asmartbear.com/letters-to-joel-spolsky/)
-
 ---
 
 ![bear-standing-akimbo](https://public.asmartbear.com/books/anthology/chapters/letters-to-joel-spolsky/image-simple.png)
 
-Dear Joel,
+عزيزي جويل،
 
-I regret to inform you that I must decline your invitation to be a featured guest blogger for [Joel On Software](https://www.joelonsoftware.com/).
+يؤسفني إبلاغك بأنه يجب علي رفض دعوتك لأكون مدونًا ضيفًا مميزًا لـ [Joel On Software](https://www.joelonsoftware.com/).
 
-I realize this will come as a shock, especially given my well-documented need for attention.
+أدرك أن هذا سيكون بمثابة صدمة، خاصة بالنظر إلى حاجتي الموثقة جيدًا إلى الاهتمام.
 
-The fact is, I don't care how many thousands of readers you have, how many millions of dollars of software you sell, or how many minor celebrities worship you.  At the end of the day, you appear in a little window in an RSS reader. You fill in a template consisting of a cute story tenuously connected to a dramatic point, inspiring wanna-bes to commiserate and laugh with indignation at the stupidity of others.
+الحقيقة هي أنني لا أهتم بعدد آلاف القراء لديك، أو عدد البرامج التي تبيعها بملايين الدولارات، أو عدد المشاهير الصغار الذين يعبدونك.  وفي نهاية اليوم، ستظهر في نافذة صغيرة في قارئ RSS. تقوم بملء قالب يتكون من قصة لطيفة مرتبطة بشكل ضعيف بنقطة درامية، مما يلهم الراغبين في التعاطف والضحك بسخط على غباء الآخرين.
 
-While they've been laughing, I've wondering whether you practice what you preach. You [admonish programmers who don't understand Unicode](https://www.joelonsoftware.com/articles/Unicode.html), yet five years later our copy of Fogbugz still cannot receive email from Korea because of a character encoding issue.
+بينما كانوا يضحكون، كنت أتساءل عما إذا كنت تمارس ما تبشر به. أنتم [تحذير المبرمجين الذين لا يفهمون Unicode](https://www.joelonsoftware.com/articles/Unicode.html)، ولكن بعد مرور خمس سنوات، لا تزال نسختنا من Fogbugz غير قادرة على تلقي البريد الإلكتروني من كوريا بسبب مشكلة في ترميز الأحرف.
 
-Also, are you out of gas? Your column in Inc Magazine consists of 1300-word reproductions of chapters from your book which themselves are reproductions of blog entries you wrote in 2001. And your blog has turned into announcements for products and trade shows.
+أيضا، هل نفدت الغاز؟ يتكون العمود الخاص بك في مجلة Inc من نسخ مكونة من 1300 كلمة لفصول من كتابك والتي هي في حد ذاتها نسخ من إدخالات المدونة التي كتبتها في عام 2001. وقد تحولت مدونتك إلى إعلانات عن المنتجات والمعارض التجارية.
 
-I can already hear your fanboys calling for my head, but from where I'm sitting, you're a celebrity who is cashing in on fame, no longer compelled to have new ideas.
+يمكنني بالفعل سماع معجبيك وهم ينادونني، لكن من حيث أجلس، أنت أحد المشاهير الذين يستفيدون من الشهرة، ولم تعد مضطرًا لامتلاك أفكار جديدة.
 
-But introspection isn't your thing. Admitting you've been wrong or that you don't take your own advice would crack your well-crafted façade.
+لكن الاستبطان ليس هو الشيء الخاص بك. إن الاعتراف بأنك كنت مخطئًا أو أنك لا تأخذ بنصيحتك الخاصة من شأنه أن يكسر واجهتك المتقنة الصنع.
 
-I'm not like that, and I can't pretend otherwise for you or your readers. I'm afraid the answer is no.
+أنا لست من هذا القبيل، ولا أستطيع التظاهر بخلاف ذلك بالنسبة لك أو لقرائك. وأخشى أن الجواب هو لا.
 
-Sincerely, <br/> Jason
-
----
-
-Dear Mr. Spolsky,
-
-I'm not sure if you received the last email I sent. I hope not. I used Outlook's "recall this message" feature, but sometimes that doesn't work. (That's Microsoft for ya, am I right? Ha ha!)
-
-Anyway, I'd like to apologize for the things I wrote. I feel I've done both of us a disservice by refusing your generous offer to be a featured guest writer for Joel On Software.
-
-If you want to know the truth, my unwarranted outburst stems from a core insecurity. Had you rejected my article, I would have been crushed. I guess this was my way of rejecting you before you could reject me. Juvenile, I know.
-
-In fact I have deep respect for what you've done for the software development community over the past decade. I myself have been inspired by you since 2000; I can still remember the glee of getting new articles delivered to my inbox.
-
-As an entrepreneur, you've taught me everything from how to [hire great people](https://www.joelonsoftware.com/articles/fog0000000073.html), how to [think properly about bootstrapping](https://www.joelonsoftware.com/articles/fog0000000056.html), how [new projects help you cope with burn-out](https://www.joelonsoftware.com/articles/HowToShipAnything.html), and even how to [run tech support](https://www.joelonsoftware.com/articles/customerservice.html). In fact, there's very little I do each day that isn't influenced by you in some way.
-
-That's incredible, if you think about it.
-
-What I'm trying to say is, I would be honored to accept your invitation, and I trust that you will disregard my first email.
-
-Apologetically and humbly yours, <br/> Jason Cohen
+مع خالص التقدير، <br/> جيسون
 
 ---
 
-Hi Joel!
+عزيزي السيد سبولسكي،
 
-I haven't heard from you, so I'm forwarding a copy of an email I sent earlier this week. <br/> You must get an ass-ton of email! So no hard feelings.
+لست متأكدًا مما إذا كنت قد تلقيت آخر بريد إلكتروني أرسلته. آمل أن لا. لقد استخدمت ميزة "استدعاء هذه الرسالة" في Outlook، لكن في بعض الأحيان لا يعمل ذلك. (هذا هو مايكروسوفت بالنسبة لك، هل أنا على حق؟ ها ها!)
 
-Talk to you soon, <br/> Jason
+على أية حال، أود أن أعتذر عن الأشياء التي كتبتها. أشعر أنني ألحقت ضررًا بكلينا من خلال رفض عرضك السخي بأن أكون كاتبًا ضيفًا مميزًا لدى Joel On Software.
 
----
+إذا كنت تريد معرفة الحقيقة، فإن غضبي غير المبرر ينبع من انعدام الأمن الأساسي. لو أنك رفضت مقالتي لكنت قد سحقت. أعتقد أن هذه كانت طريقتي في رفضك قبل أن تتمكن من رفضي. الشباب، وأنا أعلم.
 
-Hi Joel,
+في الحقيقة، لدي احترام عميق لما فعلته لمجتمع تطوير البرمجيات خلال العقد الماضي. أنا شخصياً ألهمتك منذ عام 2000؛ لا أزال أتذكر فرحة وصول المقالات الجديدة إلى صندوق الوارد الخاص بي.
 
-Oh man, that article about [hanging the blinds at Fogcreek](https://www.inc.com/magazine/20081201/how-hard-could-it-be-my-style-of-servant-leadership.html?partner=fogcreek) was awesome. Did you really do all that? Of course you did, it was in the photo! I loved how you tied in the army story--it's really motivational.
+باعتباري رائد أعمال، لقد علمتني كل شيء بدءًا من كيفية [توظيف أشخاص رائعين](https://www.joelonsoftware.com/articles/fog0000000073.html)، وكيفية [التفكير بشكل صحيح بشأن التمهيد](https://www.joelonsoftware.com/articles/fog0000000056.html)، وكيف [تساعدك المشاريع الجديدة على التعامل مع التحديات الاحتراق](https://www.joelonsoftware.com/articles/HowToShipAnything.html)، وحتى كيفية [تشغيل الدعم الفني](https://www.joelonsoftware.com/articles/customerservice.html). في الواقع، هناك القليل جدًا مما أفعله كل يوم ولا يتأثر بك بطريقة ما.
 
-I'm so glad Inc is featuring you. They need someone to speak truth to power and put the stuffed suits in their place. You're like the Moses of software developers! What's next, the New York Times? Why not!
+هذا أمر لا يصدق، إذا كنت تفكر في ذلك.
 
-Speaking of articles, I've got some article ideas I'd love to discuss! I know you're super-busy--that's what I keep telling my friends. They're such nervous nellies--they think you're ignoring me! A quick little two-second reply from you would really reassure them. Thanks!
+ما أحاول قوله هو أنه يشرفني قبول دعوتك، وأنا على ثقة من أنك سوف تتجاهل بريدي الإلكتروني الأول.
 
-+1 for Joel in the NYT!
-
-Jason
+اعتذاري وتواضعي، <br/> جيسون كوهين
 
 ---
 
-Joel-
+مرحبًا جويل!
 
-Quick idea: I was thinking of doing an interview series about how your writing has inspired successful software projects. Maybe even make a short film? You could attach it to your next "Interning at Fogcreek" DVD. What do you think?
+لم أسمع منك، لذا أقوم بإعادة توجيه نسخة من رسالة بريد إلكتروني أرسلتها في وقت سابق من هذا الأسبوع. <br/> يجب أن تتلقى عددًا كبيرًا من رسائل البريد الإلكتروني! لذلك لا توجد مشاعر صعبة.
 
-Here's what I'd say: Your [three](https://www.joelonsoftware.com/uibook/chapters/fog0000000062.html) [part](https://www.joelonsoftware.com/uibook/chapters/fog0000000063.html) [series](https://www.joelonsoftware.com/uibook/chapters/fog0000000064.html) on designing software for real people permanently changed my perspective and continues to be my bible. It's the kind of thing you have to re-read every few months to make sure you're building great, usable software.
-
-P.S. I still haven't heard back about the guest post. Should I be worried?
-
-Thanks again, <br/> J
+أتحدث إليك قريبًا، <br/> جيسون
 
 ---
 
-Hey hey J-Spol!
+مرحبًا جويل،
 
-I was just telling a friend about your offer. You know, all I have to say is "Joel" and everyone knows exactly who I'm talking about. I guess that's how you know you've made it!
+يا رجل، كانت هذه المقالة حول [تعليق الستائر في Fogcreek] (https://www.inc.com/magazine/20081201/how-hard-could-it-be-my-style-of-servant-leadership.html?partner=fogcreek) رائعة. هل حقا فعلت كل ذلك؟ بالطبع فعلت ذلك، كان في الصورة! أحببت الطريقة التي ربطت بها قصة الجيش، فهي تحفيزية حقًا.
 
-Anyway, this friend thinks that if you were truly interested, we would have had more conversations by now. Imagine how surprised she'll be when you publish my article! Ha ha, we'll both get a kick out of that.
+أنا سعيد جدًا لأن شركة Inc تعرضك. إنهم بحاجة إلى من يقول الحقيقة للسلطة ويضع البدلات المحشوة في مكانها. أنت مثل موسى لمطوري البرمجيات! ماذا بعد يا نيويورك تايمز؟ ولم لا!
 
-Let me know.
+بالحديث عن المقالات، لدي بعض أفكار المقالات التي أود مناقشتها! أعلم أنك مشغول للغاية، وهذا ما أقوله لأصدقائي باستمرار. إنهم متوترون للغاية، ويعتقدون أنك تتجاهلني! إن الرد السريع الذي يستغرق ثانيتين منك سيطمئنهم حقًا. شكرًا!
 
-Waiting expectantly, <br/> Your boy JC
++1 لجويل في نيويورك تايمز!
 
----
-
-Hi Joel,
-
-This will be my final email. I don't want to seem like a stalker!
-
-So it turns out I have some influence over one of your interns (one of those friend-of-a-friend-who-owes-a-favor-to-a-friend type deals). He (or she!) set up me with a [Copilot](https://www.copilot.com/) account behind the FogCreek firewall, so I've been playing with the Joel On Software CMS myself.
-
-Seems like it's a custom job. No problem--[I'm Smart and I Get Things Done](https://www.joelonsoftware.com/articles/fog0000000073.html)--I'll figure it out.
-
-So you should see my article appear soon! I'm glad I found a way we could work together without interfering with your schedule. Cheers!
-
---Jason
+جيسون
 
 ---
 
-*Shamelessly modeled after "Dear Oprah" from [Steve Almond](https://www.stevenalmond.com/)'s fantastic short story book [Rants, Exploits, and Obsessions (Not that you asked)](https://www.amazon.com/Not-That-You-Asked-Obsessions/dp/0812977599/ref=sr_1_2?ie=UTF8&s=books&qid=1234733932&sr=1-2). [Good artists copy](https://longform.asmartbear.com/learn-by-copy/); great artists steal. (Said by Steve Jobs, stealing a quote from Pablo Picasso.)*
+جويل-
+
+فكرة سريعة: كنت أفكر في إجراء سلسلة مقابلات حول كيفية إلهام كتابتك لمشاريع برمجية ناجحة. ربما حتى صنع فيلم قصير؟ يمكنك إرفاقه بقرص DVD التالي الخاص بـ "Interning at Fogcreek". ماذا تعتقد؟
+
+إليك ما أود قوله: [الثلاثة](https://www.joelonsoftware.com/uibook/chapters/fog0000000062.html) [الجزء](https://www.joelonsoftware.com/uibook/chapters/fog0000000063.html) [سلسلة] (https://www.joelonsoftware.com/uibook/chapters/fog0000000064.html) حول تصميم البرامج للأشخاص الحقيقيين غيرت وجهة نظري بشكل دائم ولا تزال تمثل كتابي المقدس. إنه نوع الأشياء التي يجب عليك إعادة قراءتها كل بضعة أشهر للتأكد من أنك تقوم ببناء برامج رائعة وقابلة للاستخدام.
+
+ملاحظة: ما زلت لم أسمع أي رد حول مشاركة الضيف. هل يجب أن أشعر بالقلق؟
+
+شكرا مرة أخرى، <br/> ج
+
+---
+
+مهلا مهلا جي سبول!
+
+لقد كنت أخبر صديقاً للتو عن عرضك. كما تعلمون، كل ما يجب أن أقوله هو "جويل" والجميع يعرف بالضبط من أتحدث عنه. أعتقد أن هذه هي الطريقة التي تعرف بها أنك فعلت ذلك!
+
+على أية حال، هذا الصديق يعتقد أنه لو كنت مهتمًا حقًا، لكنا قد أجرينا المزيد من المحادثات الآن. تخيل مدى دهشتها عندما تنشر مقالتي! ها ها، كلانا سوف يحصل على ركلة من ذلك.
+
+اسمحوا لي أن أعرف.
+
+في انتظار بفارغ الصبر، <br/> ابنك JC
+
+---
+
+مرحبًا جويل،
+
+ستكون هذه رسالتي الإلكترونية النهائية. لا أريد أن أبدو مثل مطارد!
+
+لذلك اتضح أن لدي بعض التأثير على أحد المتدربين لديك (أحد تلك الصفقات من نوع صديق صديق يدين بالمعروف لصديق). لقد قام (أو هي!) بإعداد حساب [Copilot](https://www.copilot.com/) خلف جدار الحماية FogCreek، لذلك كنت ألعب مع Joel On Software CMS بنفسي.
+
+يبدو أنها وظيفة مخصصة. ليست هناك مشكلة--[أنا ذكي وأقوم بإنجاز الأمور](https://www.joelonsoftware.com/articles/fog0000000073.html)--سأكتشف ذلك.
+
+لذلك يجب أن تشاهد مقالتي تظهر قريبًا! أنا سعيد لأنني وجدت طريقة يمكننا من خلالها العمل معًا دون التدخل في جدولك الزمني. هتافات!
+
+--جيسون
+
+---
+
+* تم تصميمها بلا خجل على غرار "عزيزتي أوبرا" من كتاب القصة القصيرة الرائع لـ [ستيف ألموند] (https://www.stevenalmond.com/) [الصخب والمآثر والهواجس (ليس هذا أنت سئل)](https://www.amazon.com/Not-That-You-Asked-Obsessions/dp/0812977599/ref=sr_1_2?ie=UTF8&s=books&qid=1234733932&sr=1-2). [نسخة الفنانين الجيدين](https://longform.asmartbear.com/learn-by-copy/)؛ الفنانون العظماء يسرقون. (قالها ستيف جوبز، وهو يسرق مقولة من بابلو بيكاسو.)*

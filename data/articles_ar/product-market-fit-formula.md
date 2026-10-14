@@ -20,216 +20,203 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** خارطة الطريق نحو ملاءمة المنتج للسوق (PMF)... ربما تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The roadmap to Product/Market Fit (PMF)… maybe
-
-> **Executive Summary:** This eight-step process brought WP Engine from an idea to a Unicorn. While there are other roads to Product/Market Fit, consider copying some of these ideas.
-> **Original URL:** [https://longform.asmartbear.com/product-market-fit-formula/](https://longform.asmartbear.com/product-market-fit-formula/)
-
 ![easy follow rules more difficult implement than youd think](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/d7670print-simple.png)
 
-What is the formula for going from an initial product idea to Product/Market Fit (PMF)--a company that is growing and sustainable, with customers that want to pay and want to stay.
+ما هي صيغة الانتقال من فكرة المنتج الأولية إلى المنتج/السوق المناسب (PMF) - شركة تنمو ومستدامة، مع عملاء يريدون الدفع ويريدون البقاء.
 
-(Assuming you even agree with [that definition of Product/Market Fit](https://longform.asmartbear.com/product-market-fit/).)
+(بافتراض أنك توافق على [تعريف المنتج/السوق المناسب](https://longform.asmartbear.com/product-market-fit/).)
 
-There isn't a fail-safe roadmap of course, but there is a progression that describes how WP Engine became a unicorn, supported by 19 years of articles in this book.
+لا توجد خارطة طريق آمنة من الفشل بالطبع، ولكن هناك تقدم يصف كيف أصبح WP Engine وحيد القرن، مدعومًا بـ 19 عامًا من المقالات في هذا الكتاب.
 
-Here's what that progression looks like. Then we'll explore the other truth--that it often doesn't work like this after all.
+إليك ما يبدو عليه هذا التقدم. ثم سنستكشف الحقيقة الأخرى، وهي أن الأمور لا تسير على هذا النحو في كثير من الأحيان.
 
-1. **Personal Fit**: "Passion" is useful, but winning requires a personal edge.
-2. **Market Fit**: Most good ideas aren't good businesses.
-3. **Customer Fit**: Talk to customers before you waste months building the wrong thing.
-4. **Build and ship the SLC** quickly: It's where the real learning happens.
-5. **Marketing and Sales** more than writing code and tweaking design.
-6. **Retention-driven Product** development; attend to your existing customers first.
-7. **Prioritize** systematically, ruthlessly, strategically.
-8. **Manage your psychology** on a journey of self-discovery and constant rejection.
+1. **الملاءمة الشخصية**: "الشغف" مفيد، لكن الفوز يتطلب ميزة شخصية.
+2. **ملاءمة السوق**: معظم الأفكار الجيدة ليست أعمالًا جيدة.
+3. **تناسب العملاء**: تحدث إلى العملاء قبل أن تضيع شهورًا في بناء الشيء الخطأ.
+4. **قم ببناء وشحن SLC** بسرعة: إنه المكان الذي يحدث فيه التعلم الحقيقي.
+5. **التسويق والمبيعات** أكثر من مجرد كتابة التعليمات البرمجية وتعديل التصميم.
+6. ** تطوير المنتج القائم على الاحتفاظ **؛ حضور لعملائك الحاليين أولا.
+7. **تحديد الأولويات** بشكل منهجي، وبلا رحمة، واستراتيجي.
+8. **إدارة نفسيتك** في رحلة لاكتشاف الذات والرفض المستمر.
 
 ---
 
-## 1. Personal Fit: The inner fire, leveraging a personal edge to do what you were meant to do
+## 1. اللياقة الشخصية: النار الداخلية، الاستفادة من الميزة الشخصية للقيام بما كان من المفترض أن تفعله
 
-A great idea or a great strategy that _you_ can't execute well, isn't a good strategy _for you_.
+إن الفكرة الرائعة أو الإستراتيجية الرائعة التي لا يمكنك تنفيذها بشكل جيد، ليست استراتيجية جيدة بالنسبة لك.
 
-You start with nothing--no product, no customers, no brand, no distribution, and compared to competitors, no money and no time.
+تبدأ بلا شيء - لا منتج، ولا عملاء، ولا علامة تجارية، ولا توزيع، وبالمقارنة بالمنافسين، لا مال ولا وقت.
 
-To succeed, you need _something_. Something special. Something that gives you an edge, despite being woefully inadequate in every dimension. Is "passion" that something?
+لكي تنجح، أنت بحاجة إلى شيء ما. شيء خاص. شيء يمنحك ميزة، على الرغم من كونه غير مناسب على الإطلاق في كل البعد. هل "العاطفة" شيء؟
 
-### Passion
+### عاطفة
 
-> "Do what you love, and the money will follow."  
-> --Motivational advisors
+> "افعل ما تحب، وسوف يأتي المال".
+> - المستشارون التحفيزيون
 
-That is false, as evidenced by most artists, philosophy majors, and the 80% of startups that fail despite founders' genuine love and obsession.
+وهذا غير صحيح، كما يتضح من معظم الفنانين وتخصصات الفلسفة، و80% من الشركات الناشئة التي تفشل على الرغم من الحب الحقيقي وهوس المؤسسين.
 
-Passion _is_ required; it's just not enough. Passion is the motivator, especially in the dark times when your savings is depleted, competitors are beating you, as you suffer a constant bombardment of rejection from potential customers and potential employees and potential investors, as you question your [self-worth](https://longform.asmartbear.com/startups-emotionally-draining/) and wonder whether the cause of your [Impostor Syndrome](https://longform.asmartbear.com/impostor-syndrome/) is that you're [actually an impostor](https://longform.asmartbear.com/survivor-bias/).
+الشغف مطلوب؛ هذا لا يكفي. الشغف هو المحفز، خاصة في الأوقات المظلمة التي تستنزف فيها مدخراتك، ويتفوق عليك المنافسون، كما تعاني من قصف مستمر من الرفض من العملاء المحتملين والموظفين المحتملين والمستثمرين المحتملين، حيث تشكك في [قيمتك الذاتية](https://longform.asmartbear.com/startups-emotionally-draining/) وتتساءل ما إذا كان سبب [المنتحل] الخاص بك المتلازمة](https://longform.asmartbear.com/impostor-syndrome/) هي أنك [محتال في الواقع](https://longform.asmartbear.com/survivor-bias/).
 
-> "You have to be burning with an idea, or a problem, or a wrong that you want to right. If you're not passionate enough from the start, you'll never stick it out."  
-> --Steve Jobs
+> "عليك أن تكون مشتعلًا بفكرة، أو مشكلة، أو خطأ تريد تصحيحه. إذا لم تكن شغوفًا بما فيه الكفاية منذ البداية، فلن تتمسك به أبدًا."
+> --ستيف جوبز
 
-You need to articulate exactly what your passion is, so that you can use it as a filter for business concept. This is difficult; some people spend their whole life trying to figure it out. [Jerry Colonna says](https://www.reboot.io/reboot-leadership-and-the-art-of-growing-up/) "The purpose of life is to discover who you are, and then live fully into that." It is not an exaggeration to say that a [startup is who you are](https://longform.asmartbear.com/identity-selling-sadness/); that's why they call it "your baby."
+أنت بحاجة إلى توضيح ما هو شغفك بالضبط، حتى تتمكن من استخدامه كمرشح لمفهوم الأعمال. هذا صعب؛ بعض الناس يقضون حياتهم كلها في محاولة لمعرفة ذلك. [يقول جيري كولونا](https://www.reboot.io/reboot-leadership-and-the-art-of-growing-up/) "الغرض من الحياة هو اكتشاف هويتك، ثم العيش بشكل كامل في ذلك." ليس من المبالغة القول إن [الشركة الناشئة هي من أنت](https://longform.asmartbear.com/identity-sale-sadness/)؛ لهذا السبب يسمونه "طفلك".
 
-See [this article on Pivot Points](https://longform.asmartbear.com/pivot-points/) for a specific list of questions that help you suss what your purpose and passions are.
+راجع [هذه المقالة حول Pivot Points](https://longform.asmartbear.com/pivot-points/) للحصول على قائمة محددة من الأسئلة التي تساعدك على معرفة هدفك وشغفك.
 
-Your goal is to **find the work you were *meant* to do**. Your calling. The work that you would do for free, but more--what you are *compelled* to do.
+هدفك هو **العثور على العمل الذي *كان من المفترض* أن تقوم به**. مكالمتك. العمل الذي ستفعله مجانًا، ولكن أكثر من ذلك - ما أنت *مُجبر* على القيام به.
 
 ![robe sorcery potions use coaster](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/d8849print-simple.png)
 
-Still, the existence of passion doesn't imply the existence of a business model. (We'll solve that in the next step.) Passion doesn't give you a competitive edge, because all the other founders have passion, and larger companies have mountains of advantages that make "passion" look like a sling-shot attacking an aircraft carrier. You need an edge.
+ومع ذلك، فإن وجود العاطفة لا يعني وجود نموذج عمل. (سنحل هذه المشكلة في الخطوة التالية.) الشغف لا يمنحك ميزة تنافسية، لأن جميع المؤسسين الآخرين لديهم شغف، والشركات الأكبر لديها جبال من المزايا التي تجعل "الشغف" يبدو وكأنه مقلاع يهاجم حاملة طائرات. أنت بحاجة إلى حافة.
 
-### Leverage
+### تَأثِير
 
-"Leverage" means yielding a huge output from a given input--accomplishing an inordinate amount of quantity or quality, with relatively little time and money. You generate leverage from the mixture of talents, taste, and experiences that you possess. To figure out how this works for you, [see this article for many types and examples of leverage](https://longform.asmartbear.com/leverage/).
+"الرافعة المالية" تعني إنتاج مخرجات ضخمة من مدخلات معينة - تحقيق قدر هائل من الكمية أو الجودة، مع القليل من الوقت والمال نسبيًا. أنت تولد النفوذ من مزيج المواهب والذوق والخبرات التي تمتلكها. لمعرفة كيفية عمل ذلك بالنسبة لك، [راجع هذه المقالة للتعرف على العديد من أنواع وأمثلة الرافعة المالية](https://longform.asmartbear.com/leverage/).
 
-Leverage is good, but *unique* leverage is far better, because that's your source of differentiation[^1] from competitors and alternatives. Often this appears at the intersection of your peculiar above-average talents and experiences, which taken together are unique.[^2] This uniqueness must then be coupled with a particular way that you are approaching this problem and solution, such that the combination of your leverage against your path is uniquely excellent, even for a [small number of potential customers](https://longform.asmartbear.com/icp-ideal-customer-persona/).
+الرافعة المالية أمر جيد، ولكن الرافعة المالية *الفريدة* أفضل بكثير، لأن هذا هو مصدر تمايزك[^1] عن المنافسين والبدائل. غالبًا ما يظهر هذا عند التقاطع بين مواهبك وخبراتك الفريدة فوق المتوسطة، والتي تكون معًا فريدة من نوعها.[^2] يجب بعد ذلك أن يقترن هذا التفرد بطريقة معينة تتعامل بها مع هذه المشكلة والحل، بحيث يكون الجمع بين نفوذك ضد مسارك ممتازًا بشكل فريد، حتى بالنسبة إلى [عدد صغير من العملاء المحتملين](https://longform.asmartbear.com/icp-ideal-customer-persona/).
 
-This leverage + path combination also forms the kernel of your strategy[^3] as your competitive positioning. You need something that competitors lack, because your customers are going to compare you to competitors whether you like it or not, and you have to have an answer besides "we have this one minor feature that they don't have" or "we're $10 cheaper."
+تشكل مجموعة الرافعة المالية + المسار أيضًا نواة إستراتيجيتك[^3] باعتبارها موقعك التنافسي. أنت بحاجة إلى شيء يفتقر إليه المنافسون، لأن عملائك سوف يقارنونك بالمنافسين سواء أعجبك ذلك أم لا، ويجب أن يكون لديك إجابة إلى جانب "لدينا هذه الميزة البسيطة التي لا يملكونها" أو "نحن أرخص بـ 10 دولارات".
 
-[^1]: "Different," not "better." Yes, you will be "better" according to some set of people, but definitionally that means you're "worse" for another set. The latter might even be orders of magnitude more numerous than the former. That's OK, and that's why I don't like using the word "better." You should be distinctive, aligned with your calling and your strengths, so that the set of people who do find your brand of different to be "better" will flock to you, buy from you, and even [love paying you](https://longform.asmartbear.com/willingness-to-pay/) for it.
+[^1]: "مختلف" وليس "أفضل". نعم، سوف تكون "أفضل" وفقًا لمجموعة معينة من الأشخاص، لكن هذا يعني تعريفًا أنك "أسوأ" بالنسبة لمجموعة أخرى. وقد يكون الأخير أكثر عددًا من حيث الحجم من الأول. لا بأس، ولهذا السبب لا أحب استخدام كلمة "أفضل". يجب أن تكون مميزًا، ومتوافقًا مع دعوتك ونقاط قوتك، حتى أن مجموعة الأشخاص الذين يجدون أن علامتك التجارية المختلفة "أفضل" سوف يتدفقون عليك، ويشترون منك، وحتى [يحبون أن يدفعوا لك] (https://longform.asmartbear.com/willingness-to-pay/) مقابل ذلك.
 
-[^2]: The quintessential exponent of this idea is Scott Adams, writer of the Dilbert cartoon, who [points out](https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html) that he is a decent illustrator but not a great one, a decent humorist but worse than any comedian on Netflix, and has held jobs in the tech sector, unlike almost any artist or comedian. It is in the intersection of being in the top 25% in each of these three "circles of competence" that he is unique, not because he is top 1% or "best in the world" at any one thing.
+[^2]: المؤيد الجوهري لهذه الفكرة هو سكوت آدامز، كاتب الرسوم الكاريكاتورية "ديلبرت"، الذي [يشير] (https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html) إلى أنه رسام محترم ولكنه ليس رسامًا رائعًا، وفكاهيًا محترمًا ولكنه أسوأ من أي ممثل كوميدي على Netflix، وقد شغل وظائف في قطاع التكنولوجيا، على عكس أي فنان تقريبًا أو الممثل الكوميدي. إنه فريد من نوعه عند تقاطعه مع كونه من بين أفضل 25% في كل من "دوائر الكفاءة" الثلاث هذه، وليس لأنه من بين أفضل 1% أو "الأفضل في العالم" في أي شيء.
 
-[^3]: Leveraging strengths into durable competitive advantage is one of the [six characteristics of great strategy](https://longform.asmartbear.com/great-strategy/).
+[^3]: يعد الاستفادة من نقاط القوة وتحويلها إلى ميزة تنافسية دائمة إحدى [الخصائص الست للاستراتيجية الرائعة](https://longform.asmartbear.com/great-strategy/).
 
-The key question that summarizes this intersection of "you" and "path" is:
+والسؤال الرئيسي الذي يلخص هذا التقاطع بين "أنت" و"المسار" هو:
 
-**Why are *you* the perfect person to build *this* company?**
+**لماذا *أنت* الشخص المثالي لبناء *هذه* الشركة؟**
 
-> "Be yourself. Everyone else is taken."  
-> --Oscar Wilde
+> "كن نفسك. يتم أخذ الجميع."
+> --أوسكار وايلد
 
-## 2. Market Fit: A working theory of why they will buy.
+## 2. تناسب السوق: نظرية عملية حول سبب شرائهم.
 
-Once you inventory the inner world--the shapes of spaces where you were meant to play--you turn your gaze externally to figure out whether your idea works out in the market, in the world of customers, competitors, trends, problems-to-solve, jobs-to-be-done, and products. These things you do not control, and thus must understand, conform to, but also exploit.
+بمجرد قيامك بجرد العالم الداخلي - أشكال المساحات التي كان من المفترض أن تلعب فيها - فإنك تحول نظرك إلى الخارج لتعرف ما إذا كانت فكرتك ناجحة في السوق، في عالم العملاء، والمنافسين، والاتجاهات، والمشكلات التي يجب حلها، والوظائف التي يجب إنجازها، والمنتجات. لا يمكنك التحكم في هذه الأشياء، وبالتالي يجب عليك فهمها والتوافق معها، ولكن أيضًا استغلالها.
 
-It's right there in the name: "Product/Market Fit" means fitting into the market, not just building something that would be fun/<wbr/>interesting/<wbr/>edifying/<wbr/>curious/<wbr/>exciting/<wbr/>ego-enhancing. Those are all good reasons to have a side-project, but none is a reason why that side-project will become a profitable business, even at a scale that feeds a single person. That's why most "indie hacker" startups and "AI is cool" startups fail--the genesis was "fun project," not "plausible business."
+هذا موجود في الاسم: "المنتج/السوق المناسب" يعني الملاءمة مع السوق، وليس مجرد بناء شيء من شأنه أن يكون ممتعًا/<wbr/>مثيرًا للاهتمام/<wbr/>مفيدًا/<wbr/>فضولي/<wbr/>مثيرًا/<wbr/>يعزز الأنا. هذه كلها أسباب وجيهة لإنشاء مشروع جانبي، ولكن لا يوجد سبب يجعل هذا المشروع الجانبي يصبح عملاً مربحًا، حتى على نطاق يغذي شخصًا واحدًا. وهذا هو السبب وراء فشل معظم الشركات الناشئة التي تعتمد على "الهاكر المستقل" والشركات الناشئة التي تعتمد على "الذكاء الاصطناعي الرائع"، حيث كان الأصل "مشروعًا ممتعًا" وليس "عملًا معقولًا".
 
-"I had the problem myself, so I built a product to solve it."
+"لقد واجهت المشكلة بنفسي، لذلك صممت منتجًا لحلها."
 
-This might be the most common origin story, tacitly concluding that "this must be a business because I would have been a customer." Indeed, my startups all started this way. But your understanding of "the problem" as it pertains to you alone is much less likely to be a real business than you think. You are, in fact, not like your customer.[^4]
+قد تكون هذه هي قصة الأصل الأكثر شيوعًا، والتي تخلص ضمنيًا إلى أن "هذا يجب أن يكون عملاً تجاريًا لأنني كنت سأصبح عميلاً". في الواقع، بدأت جميع شركاتي الناشئة بهذه الطريقة. لكن فهمك "للمشكلة" من حيث أنها تخصك وحدك من غير المرجح أن تكون عملاً حقيقيًا مما تعتقد. أنت في الواقع لست مثل عميلك.[^4]
 
-[^4]: For a start, your customer isn't quitting their day job to create a business.
+[^4]: كبداية، لا يترك عميلك وظيفته اليومية لإنشاء نشاط تجاري.
 
-Sometimes a passion project turns into a business anyway. That's what happened to me at Smart Bear. More on that later. But that's luck. The point of a framework like this one is to reduce your reliance on luck.
+في بعض الأحيان يتحول مشروع عاطفي إلى عمل تجاري على أي حال. هذا ما حدث لي في سمارت بير. المزيد عن ذلك لاحقًا. ولكن هذا الحظ. الهدف من إطار عمل مثل هذا هو تقليل اعتمادك على الحظ.
 
-> "The way to get startup ideas is not to try to think of startup ideas. It's to look for problems, preferably problems you have yourself.  
->   
-> The very best startup ideas tend to have three things in common: they're something the founders themselves want, that they themselves can build, and that few others realize are worth doing. Microsoft, Apple, Yahoo, Google, and Facebook all began this way."  
-> *--Paul Graham, [How to Get Startup Ideas](https://paulgraham.com/startupideas.html)*
+> "إن الطريقة للحصول على أفكار الشركات الناشئة لا تتمثل في محاولة التفكير في أفكار الشركات الناشئة. بل هي البحث عن المشكلات، ويفضل أن تكون تلك المشكلات التي تواجهك بنفسك.
+> 
+> تميل أفضل أفكار الشركات الناشئة إلى وجود ثلاثة أشياء مشتركة: إنها شيء يريده المؤسسون أنفسهم، ويمكنهم هم أنفسهم بناءه، وقليل من الآخرين يدركون أنه يستحق القيام به. بدأت شركات Microsoft وApple وYahoo وGoogle وFacebook بهذه الطريقة."
+> *--بول جراهام، [كيفية الحصول على أفكار للشركات الناشئة](https://paulgraham.com/startupideas.html)*
 
-### A theory of why they will buy
+### نظرية لماذا سوف يشترون
 
-You need a plausible theory of the customer, market, and business model. "Plausible," because many ideas fall apart under honest scrutiny. "Theory" because of course it won't be completely correct, but it will be your working understanding of the world, which you modify as you learn.
+أنت بحاجة إلى نظرية معقولة عن العميل والسوق ونموذج العمل. "معقول" لأن العديد من الأفكار تنهار تحت التدقيق الصادق. "النظرية" لأنها بالطبع لن تكون صحيحة تمامًا، ولكنها ستكون فهمك العملي للعالم، والذي تقوم بتعديله أثناء تعلمك.
 
-**Here's exactly how to [develop a specific theory of the market, customer, and your positioning](https://longform.asmartbear.com/problem/)**. You'll analyze these market characteristics:
+**إليك بالضبط كيفية [تطوير نظرية محددة للسوق والعملاء وتحديد موقعك](https://longform.asmartbear.com/problem/)**. ستقوم بتحليل خصائص السوق هذه:
 
-1. **Plausible:** Do 10M people or 100k companies have the problem?
-2. **Self-Aware:** Do they know & care they have the problem?
-3. **Lucrative:** Do they have substantial budget to solve this problem?
-4. **Liquid:** Are they willing and able to buy right now?
-5. **Eager:** Do they want to buy from you, specifically?
-6. **Enduring:** Will they still be paying(-it-forward) a year from now?
+1. **معقول:** هل يعاني 10 ملايين شخص أو 100 ألف شركة من المشكلة؟
+2. **الوعي الذاتي:** هل يعرفون ويهتمون بأن لديهم المشكلة؟
+3. **مربحة:** هل لديهم ميزانية كبيرة لحل هذه المشكلة؟
+4. **السائل:** هل هم مستعدون وقادرون على الشراء الآن؟
+5. **متلهف:** هل يريدون الشراء منك تحديدًا؟
+6. **دائم:** هل سيستمرون في الدفع (إلى الأمام) بعد عام من الآن؟
 
-A lot of people read that article, then [said](https://twitter.com/randfish/status/1647666512290013184?s=20) [they](https://www.linkedin.com/feed/update/urn:li:activity:7053396708713459712/?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7053396708713459712%2C7053504417685274624%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287053504417685274624%2Curn%3Ali%3Aactivity%3A7053396708713459712%29) [wish](https://twitter.com/nathanjpowellux/status/1656536138901778432?s=12&t=mnlAhEmLkMKMeX_fkP_pzw) [they](https://www.linkedin.com/feed/update/urn:li:activity:7053766029830754304/) [had](https://www.linkedin.com/posts/aaronmichaelroy_excuse-me-is-there-a-problem-activity-7096617697798434816-1U22/?utm_source=share&utm_medium=member_desktop) [read](https://x.com/TheWenJie/status/1735476053135737109?s=20) [it before](https://twitter.com/advany/status/1745429907788689516) [they](https://twitter.com/advany/status/1746873616354926881) wasted two years of their life (and savings and heartache) building [insert name of failed startup]. Don't be one of those people.
+قرأ الكثير من الأشخاص هذا المقال، ثم [قال](https://twitter.com/randfish/status/1647666512290013184?s=20) [هم](https://www.linkedin.com/feed/update/urn:li:activity:7053396708713459712/?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A70533967087134 59712%2C7053504417685274624%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3 أ%287053504417685274624%2Curn%3Ali%3Aactivity%3A7053396708713459712%29) [أتمنى](https://twitter.com/nathanjpowellux/status/1656536138901778432?s=12&t=mnlAhEmLkMKMeX_fkP_pzw) [هم](https://www.linkedin.com/feed/update/urn:li:activity:7053766029830754304/) [كان](https://www.linkedin.com/posts/aaronmichaelroy_excuse-me-is-there-a-problem-activity-7096617697798434816-1U22/?utm_source=share&utm_medium=member_desktop) [اقرأ](https://x.com/TheWenJie/status/1735476053135737109?s=20) [من قبل](https://twitter.com/advany/status/1745429907788689516) [لقد](https://twitter.com/advany/status/1746873616354926881) أهدروا عامين من حياتهم (والمدخرات والألم) في بناء [أدخل اسم الشركة الناشئة الفاشلة]. لا تكن واحدا من هؤلاء الناس.
 
-You might think it infeasible to answer these questions, because the research is impossible or the idea is so new that existing data and trends are irrelevant. However, as you'll see in the article, you _can_ do it using Fermi Estimation--a technique useful not only in market analysis but for [ROI](https://longform.asmartbear.com/roi-rubric/), [probabilities](https://longform.asmartbear.com/probability-words/), and [decisions](https://longform.asmartbear.com/maximized-decision/).
+قد تعتقد أنه من غير الممكن الإجابة على هذه الأسئلة، لأن البحث مستحيل أو أن الفكرة جديدة جدًا بحيث تصبح البيانات والاتجاهات الحالية غير ذات صلة. ومع ذلك، كما سترون في المقالة، يمكنك القيام بذلك باستخدام تقدير فيرمي - وهي تقنية مفيدة ليس فقط في تحليل السوق ولكن أيضًا لـ [ROI](https://longform.asmartbear.com/roi-rubric/)، و[الاحتمالات](https://longform.asmartbear.com/probability-words/)، و [القرارات](https://longform.asmartbear.com/maximized-decision/).
 
 ![well its not the worst ive seen](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/d7605print-simple.png)
 
-### Early strategy
+### استراتيجية مبكرة
 
-Even better than having a great business model is to have a [great strategy](https://longform.asmartbear.com/great-strategy/). Not a twenty-page document, but a one-pager that conforms to the guidelines in that article, explaining "how we will win." It's never too early to be asking yourself how to [leverage your strengths](https://longform.asmartbear.com/leverage/) to build products that are great and differentiated [despite your weaknesses](https://longform.asmartbear.com/worse-but-unique/). It's never too early to write down your assumptions and decisions, to ensure they are at least self-consistent if not self-reinforcing, so that when contrary evidence appears, you can notice that, and react methodically.
+والأفضل من وجود نموذج عمل رائع هو أن يكون لديك [استراتيجية رائعة](https://longform.asmartbear.com/great-strategy/). ليست وثيقة من عشرين صفحة، بل صفحة واحدة تتوافق مع الإرشادات الواردة في تلك المقالة، وتشرح "كيف سننتصر". ليس من المبكر أبدًا أن تسأل نفسك عن كيفية [الاستفادة من نقاط قوتك](https://longform.asmartbear.com/leverage/) لبناء منتجات رائعة ومتميزة [على الرغم من نقاط ضعفك](https://longform.asmartbear.com/worse-but-unique/). ليس من السابق لأوانه أبدًا تدوين افتراضاتك وقراراتك، للتأكد من أنها متسقة ذاتيًا على الأقل إن لم تكن معززة ذاتيًا، بحيث يمكنك ملاحظة ذلك عند ظهور أدلة معاكسة، والتصرف بشكل منهجي.
 
-To generate concrete strategic ideas for your business model or strategy--explaining "how we will win"--consider creating a theory of where your product will fit in the customer's [Needs Stack](https://longform.asmartbear.com/needs-stack/), pick a few of these tactics for [navigating the fact that the future is unpredictable](https://longform.asmartbear.com/predict-the-future/), and decide how you will generate "Love" and "Utility" types of [Willingness-to-Pay](https://longform.asmartbear.com/willingness-to-pay/). All of these are fun, accessible, strategic, and they work in practice.
+لتوليد أفكار استراتيجية ملموسة لنموذج عملك أو إستراتيجيتك - مع شرح "كيف سنفوز" - فكر في إنشاء نظرية حول المكان الذي سيتناسب فيه منتجك مع [Needs Stack] (https://longform.asmartbear.com/needs-stack/) للعميل، واختر بعضًا من هذه الأساليب من أجل [التعرف على حقيقة أن المستقبل هو غير متوقع](https://longform.asmartbear.com/predict-the-future/)، وحدد كيفية إنشاء أنواع "الحب" و"المنفعة" لـ [الاستعداد للدفع](https://longform.asmartbear.com/willingness-to-pay/). كل هذه الأمور ممتعة، ويمكن الوصول إليها، واستراتيجية، وتنجح في الممارسة العملية.
 
-"But often the first idea is wrong, so why do I need a specific idea with a specific business model?"
+"ولكن في كثير من الأحيان تكون الفكرة الأولى خاطئة، فلماذا أحتاج إلى فكرة محددة مع نموذج عمل محدد؟"
 
-Because walking in a random direction is not progress, and because the main way to discover the _right_ direction, is to have a clear theory of the world, and notice when the world contradicts it, so you can pivot into a better theory, and thus iterate into a genuinely great strategy and market-understanding.
+لأن السير في اتجاه عشوائي ليس تقدمًا، ولأن الطريقة الرئيسية لاكتشاف الاتجاه الصحيح، هي أن يكون لديك نظرية واضحة للعالم، وتلاحظ عندما يتعارض العالم معها، حتى تتمكن من التحول إلى نظرية أفضل، وبالتالي التكرار في استراتيجية عظيمة حقًا وفهم للسوق.
 
-That's what *actually* happened with Smart Bear, and Slack and WhatsApp and Flickr, [as described and analyzed here](https://longform.asmartbear.com/predict-the-future/). Only by having a specific, strong, clear idea, was it possible to notice what customers _really_ wanted *instead*, which led each of those companies to pivot into the idea that became successful.
+هذا ما حدث *في الواقع* مع Smart Bear وSlack وWhatsApp وFlickr، [كما هو موضح وتحليله هنا](https://longform.asmartbear.com/predict-the-future/). فقط من خلال وجود فكرة محددة وقوية وواضحة، كان من الممكن ملاحظة ما يريده العملاء "حقًا" *بدلاً من ذلك*، مما دفع كل شركة من تلك الشركات إلى التركيز على الفكرة التي أصبحت ناجحة.
 
-In all those cases, the idea was very personal to the founders--the personal-fit of passion for the solution and leveraging an edge to create something that resonated with early users. But it was only with a specific theory of business model and strategy, which was then negated by reality, and then an intentional pivot, to achieve Product/Market Fit.
+في جميع تلك الحالات، كانت الفكرة شخصية جدًا بالنسبة للمؤسسين - التوافق الشخصي بين الشغف بالحل والاستفادة من الميزة لإنشاء شيء لاقى صدى لدى المستخدمين الأوائل. ولكن كان ذلك فقط من خلال نظرية محددة لنموذج العمل والاستراتيجية، والتي تم إبطالها بعد ذلك بالواقع، ومن ثم المحور المتعمد لتحقيق ملاءمة المنتج/السوق.
 
-## 3. Customer Fit: Find the ideal customers first.
+## 3. ملاءمة العملاء: ابحث عن العملاء المثاليين أولاً.
 
-There's only one source of truth for what customers will buy: Customers.
+هناك مصدر واحد فقط لحقيقة ما سيشتريه العملاء: العملاء.
 
-Not advisors, not experts, not analysts, not Twitter polls, not research, not [past data](https://rogermartin.medium.com/overcoming-the-pervasive-analytical-blunder-of-strategists-a5a4c52289b4), not even competitors' behavior. **You have to talk to customers.**
+لا المستشارين، ولا الخبراء، ولا المحللين، ولا استطلاعات الرأي على تويتر، ولا الأبحاث، ولا [البيانات السابقة](https://rogermartin.medium.com/overcoming-the-pervasive-analytical-blunder-of-strategists-a5a4c52289b4)، ولا حتى سلوك المنافسين. **عليك التحدث مع العملاء.**
 
 ![so tell me a little bit of what you think i want to hear about yourself](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/d7030print-simple.png)
 
-Customers are fickle. You ask whether they'll pay $100 if your product does ______ and they say "yes;" then you build it and they don't buy. So why talk to them at all? Don't you need to put the actual product in front of them, and see what they actually do?
+العملاء متقلبون. تسأل عما إذا كانوا سيدفعون 100 دولار إذا كان منتجك ______ فيجيبون "نعم؛" ثم تقوم ببنائه ولا يشترون. فلماذا التحدث معهم على الإطلاق؟ ألا تحتاج إلى وضع المنتج الفعلي أمامهم، ومعرفة ما يفعلونه بالفعل؟
 
-Customers can tell you what their lives are like, which is how you validate your business model and strategy from the previous section. Customers can tell you what they _won't_ buy, which has happened to me repeatedly. You can discover that the average customer doesn't know the problem exists, or doesn't have a budget for it, or isn't prioritizing it. When they say "yes," it's a "maybe," but when they say "no," it's a "no," and you just saved yourself months or years of wasted time.
+يمكن للعملاء إخبارك كيف تبدو حياتهم، وهي كيفية التحقق من صحة نموذج عملك واستراتيجيتك من القسم السابق. يمكن للعملاء إخبارك بما لن يشتروه، وهو ما حدث لي مرارًا وتكرارًا. يمكنك اكتشاف أن العميل العادي لا يعرف بوجود المشكلة، أو ليس لديه ميزانية لها، أو لا يعطيها الأولوية. عندما يقولون "نعم"، فهذا يعني "ربما"، ولكن عندما يقولون "لا"، فهذا يعني "لا"، وبذلك تكون قد وفرت على نفسك شهورًا أو سنوات من الوقت الضائع.
 
-You can find out where they go to find products like this, so that you can advertise in the right place. You can find out what language they use to talk about the problem or solution, so you can copy that language in your advertising and social media home page and capture their attention. You can find out how their budgets work, so you can price and package and position accordingly. You can find out how they're addressing the problem today, so you know what you're selling against, whether that's a competitor, an alternative, or something they're doing by hand. You can find out what causes them to break out of their daily life and say [as Bob Moesta puts it](https://www.intercom.com/blog/podcasts/bob-moesta-on-unpacking-customer-motivations-with-jobs-to-be-done/), "Today is the day I'm going to buy ______," so that you can try to be there when that event happens, or possibly even cause it.
+يمكنك معرفة المكان الذي يذهبون إليه للعثور على منتجات مثل هذه، حتى تتمكن من الإعلان في المكان المناسب. يمكنك معرفة اللغة التي يستخدمونها للحديث عن المشكلة أو الحل، حتى تتمكن من نسخ تلك اللغة في الصفحة الرئيسية للإعلانات ووسائل التواصل الاجتماعي الخاصة بك وجذب انتباههم. يمكنك معرفة كيفية عمل ميزانياتهم، حتى تتمكن من التسعير والتعبئة والوضع وفقًا لذلك. يمكنك معرفة كيفية معالجة المشكلة اليوم، حتى تعرف ما الذي تبيعه مقابله، سواء كان منافسًا أو بديلاً أو شيئًا يفعلونه يدويًا. يمكنك معرفة أسباب خروجهم من حياتهم اليومية والقول [على حد تعبير بوب مويستا](https://www.intercom.com/blog/podcasts/bob-moesta-on-unpacking-customer-motivations-with-jobs-to-be-done/)، "اليوم هو اليوم الذي سأشتري فيه ______،" حتى تتمكن من محاولة التواجد عند حدوث هذا الحدث، أو ربما حتى التسبب في حدوثه.
 
-It is easy to find examples of successful companies who never asked customers what they wanted. That happened to me at Smart Bear. But again that relies on luck, and most of the time, you don't get lucky. This is not a good way to gamble the next few years of your life.
+من السهل العثور على أمثلة للشركات الناجحة التي لم تطلب من العملاء أبدًا ما يريدون. لقد حدث ذلك لي في Smart Bear. لكن مرة أخرى، هذا يعتمد على الحظ، وفي معظم الأوقات، لا يحالفك الحظ. هذه ليست طريقة جيدة للمقامرة بالسنوات القليلة القادمة من حياتك.
 
-**But you don't want to do this work.** You want to build the product because that's the fun part. Potential customers are hard to find and they don't want to talk to you. It's going to be like that when you have a product too, so if you can't do it now, you won't be able to do it later. Building the product first won't make it easier to find or talk to customers. Building the product first will, however, ensure that you haven't actually built what people want, because you never found out what people want.
+**لكنك لا تريد القيام بهذا العمل.** أنت تريد بناء المنتج لأن هذا هو الجزء الممتع. من الصعب العثور على العملاء المحتملين ولا يريدون التحدث معك. سيكون الأمر كذلك عندما يكون لديك منتج أيضًا، لذا إذا لم تتمكن من القيام بذلك الآن، فلن تتمكن من القيام بذلك لاحقًا. إن بناء المنتج أولاً لن يسهل العثور على العملاء أو التحدث إليهم. ومع ذلك، فإن بناء المنتج أولاً سيضمن أنك لم تقم فعليًا ببناء ما يريده الناس، لأنك لم تكتشف أبدًا ما يريده الناس.
 
 ![tweet that you need to talk to customers](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/image-7-simple.png)
 
-### How to interview customers
+### كيفية مقابلة العملاء
 
-Once you get someone on the phone, how do you interview them in a way that maximizes learning and leads to a specific theory that you can execute on, from your [unique winning advantage](https://longform.asmartbear.com/one-benefit/) to [pricing](https://longform.asmartbear.com/more-value-not-save-money/)?
+بمجرد أن تتحدث مع شخص ما عبر الهاتف، كيف يمكنك إجراء مقابلة معه بطريقة تزيد من التعلم وتؤدي إلى نظرية محددة يمكنك تنفيذها، بدءًا من [ميزة الفوز الفريدة](https://longform.asmartbear.com/one-benefit/) إلى [التسعير](https://longform.asmartbear.com/more-value-not-save-money/)؟
 
-**The customer validation system I've developed is [the Iterative-Hypothesis customer development method](https://longform.asmartbear.com/customer-development/).** This provides you with goals that you achieve using interviews, how to create the hypotheses that will drive your business model, and how to write questions that will maximize learning. 17 years ago it invalidated a startup idea that I *thought* was good, and then validated the startup idea that became WP Engine--now a unicorn.
+**نظام التحقق من صحة العملاء الذي قمت بتطويره هو [طريقة تطوير العملاء الفرضية التكرارية](https://longform.asmartbear.com/customer-development/).** يوفر لك هذا الأهداف التي يمكنك تحقيقها باستخدام المقابلات، وكيفية إنشاء الفرضيات التي ستقود نموذج عملك، وكيفية كتابة الأسئلة التي تزيد من التعلم. منذ 17 عامًا، أبطلت فكرة بدء التشغيل التي *اعتقدت* أنها جيدة، ثم تم التحقق من صحة فكرة بدء التشغيل التي أصبحت WP Engine - الآن وحيد القرن.
 
-### How to get customers to talk to you
+### كيف تجعل العملاء يتحدثون معك
 
-The way I got interviews for WP Engine is by using LinkedIn to find people who had the title and industry I was targeting (web developers in WordPress), and asked them for an hour of their time to chat about a new startup concept for whom they are the ideal customer. Furthermore I offered to pay any amount they wished for that hour, because I value their expertise and their time; I'm not asking for a donation, I'm genuinely interested in their expertise. Out of 50 requests, 40 agreed, and only one asked to be paid. (30 eventually became customers.)
+الطريقة التي أجريت بها مقابلات لـ WP Engine هي استخدام LinkedIn للعثور على الأشخاص الذين لديهم المسمى الوظيفي والصناعة التي كنت أستهدفها (مطورو الويب في WordPress)، وطلبت منهم ساعة من وقتهم للدردشة حول مفهوم بدء التشغيل الجديد الذي يعتبرونه العميل المثالي. علاوة على ذلك، عرضت عليهم دفع أي مبلغ يرغبون فيه مقابل تلك الساعة، لأنني أقدر خبرتهم ووقتهم؛ أنا لا أطلب التبرعات، أنا مهتم حقًا بخبراتهم. ومن بين 50 طلبًا، تمت الموافقة على 40 طلبًا، وطلب واحد فقط أن يتم الدفع له. (30 أصبحوا في النهاية عملاء.)
 
-This might not work for you; that was a long time ago. **[This article details many more techniques for finding potential customers](https://longform.asmartbear.com/find-customers-to-interview/)**, by going where they already are, where they're already talking, and where they might be willing to talk to you.
+قد لا يناسبك هذا؛ كان ذلك منذ وقت طويل. **[تتناول هذه المقالة بالتفصيل العديد من الأساليب الأخرى للعثور على العملاء المحتملين](https://longform.asmartbear.com/find-customers-to-interview/)**، من خلال الانتقال إلى حيث يتواجدون بالفعل، وأين يتحدثون بالفعل، وأين قد يكونون على استعداد للتحدث معك.
 
-### Find your ICP
+### ابحث عن برنامج المقارنات الدولية (ICP) الخاص بك
 
-Your goal is not only to validate your theory of the market, but to discover your [ICP (Ideal Customer Profile)](https://longform.asmartbear.com/icp-ideal-customer-persona/). This is your "perfect customer"--a segment almost comically over-specified to be so perfect for your product that you are truly the best choice in the market, and they would be crazy not to buy. You will then aim all of your marketing messaging at this person: Website, advertisement, terminology, writing style, pricing. When the ICP lands on the home page, it should be obvious in three seconds that this is perfect for them, that you "get" them, and they will be pulled through the process until they're a customer.
+هدفك ليس فقط التحقق من صحة نظريتك في السوق، بل اكتشاف [ICP (ملف تعريف العميل المثالي)](https://longform.asmartbear.com/icp-ideal-customer-persona/). هذا هو "عميلك المثالي" - وهي شريحة تم تحديدها بشكل كوميدي بشكل مبالغ فيه لتكون مثالية جدًا لمنتجك لدرجة أنك حقًا الخيار الأفضل في السوق، وسيكون من الجنون عدم الشراء. ستقوم بعد ذلك بتوجيه جميع رسائلك التسويقية إلى هذا الشخص: موقع الويب، والإعلان، والمصطلحات، وأسلوب الكتابة، والتسعير. عندما يصل برنامج المقارنات الدولية إلى الصفحة الرئيسية، يجب أن يكون واضحًا خلال ثلاث ثوانٍ أن هذا مثالي بالنسبة لهم، وأنك "تحصل عليهم"، وسيتم سحبهم خلال العملية حتى يصبحوا عملاء.
 
 ![tweet that building for the ICP is better](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/image-3-simple.png)
 
-You are scared that targeting only the ICP limits your potential market, but this is not what happens. In "[Selling to Carol](https://longform.asmartbear.com/icp-ideal-customer-persona/)," I explain the mechanism and provide examples showing that for every ICP there are 10x more people who make similar buying decisions, and 100x more who take more convincing but ultimately also agree, and therefore you end up selling to a far wider market than you feared, yet earning attention and loyalty from having a clear, unique message. Your company, brand, and product will actually mean something.
+أنت خائف من أن استهداف برنامج المقارنات الدولية فقط يحد من سوقك المحتمل، ولكن هذا ليس ما يحدث. في "[البيع لكارول](https://longform.asmartbear.com/icp-ideal-customer-persona/)،" أشرح الآلية وأقدم أمثلة توضح أنه مقابل كل برنامج مقارنات دولية، يوجد عدد أكبر بعشرة أضعاف من الأشخاص الذين يتخذون قرارات شراء مماثلة، و100 ضعف أكثر ممن يتخذون قرارات شراء أكثر إقناعًا ولكنهم يوافقون أيضًا في النهاية، وبالتالي ينتهي بك الأمر إلى البيع لسوق أوسع بكثير مما كنت تخشى، ومع ذلك تكتسب الاهتمام والولاء من خلال وجود رسالة واضحة وفريدة من نوعها. إن شركتك وعلامتك التجارية ومنتجك سيعني شيئًا ما في الواقع.
 
 ![im looking for something in small pond](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/d5228print-simple.png)
 
-Find and talk to the customers; they're the only ones with the answers.
+البحث عن العملاء والتحدث معهم؛ إنهم الوحيدون الذين لديهم الإجابات.
 
-## 4. Build _and ship_ the SLC.
+## 4. قم ببناء وشحن SLC.
 
-Interviews give you a better model of the world, but the real learning doesn't start until people are using--or more often, _not_ using--a product.
+تمنحك المقابلات نموذجًا أفضل للعالم، لكن التعلم الحقيقي لا يبدأ حتى يستخدم الأشخاص - أو في كثير من الأحيان، لا يستخدمون - المنتج.
 
-[SLC is my alternative to MVP](https://longform.asmartbear.com/slc/):
+[SLC هو بديلي لـ MVP](https://longform.asmartbear.com/slc/):
 
-**<u>S</u>imple**, because complex things can't be built quickly, and you must ship quickly so you can learn quickly so you can create the right product before you run out of money and willpower.
+**<u>بسيط</u>بسيط**، لأن الأشياء المعقدة لا يمكن بناؤها بسرعة، ويجب عليك الشحن بسرعة حتى تتمكن من التعلم بسرعة حتى تتمكن من إنشاء المنتج المناسب قبل نفاد المال وقوة الإرادة.
 
-**<u>L</u>ovable**, because crappy products are insulting, and you didn't start this company to make crappy products. The love overpowers the fact that the product is buggy and feature-poor. There are many [wonderful, powerful, competitively-defensible forms of "Love."](https://longform.asmartbear.com/willingness-to-pay/) Pick some.
+**<u>محبوب</u>ovable**، لأن المنتجات الرديئة مهينة، وأنت لم تبدأ هذه الشركة لتصنيع منتجات رديئة. يتغلب الحب على حقيقة أن المنتج به عربات التي تجرها الدواب وسيئ الميزات. هناك العديد من [أشكال "الحب الرائعة والقوية والتي يمكن الدفاع عنها بشكل تنافسي."](https://longform.asmartbear.com/willingness-to-pay/) اختر بعضًا منها.
 
-**<u>C</u>omplete**, because products are supposed to accomplish a job. Customers want to use a v1 of something simple, not v0.1 of something broken.
+**<u>مكتمل</u>كامل**، لأن المنتجات من المفترض أن تنجز مهمة ما. يرغب العملاء في استخدام الإصدار 1 من شيء بسيط، وليس الإصدار 0.1 من شيء معطل.
 
-Build something small (but also lovable and complete), and ship it to customers, because that's when real "progress" begins. That's how you learn [the truth](https://longform.asmartbear.com/failure-to-face-the-truth/).
+قم ببناء شيء صغير (ولكنه أيضًا محبوب وكامل)، وقم بشحنه إلى العملاء، لأن هذا هو الوقت الذي يبدأ فيه "التقدم" الحقيقي. هذه هي الطريقة التي تتعلم بها [الحقيقة](https://longform.asmartbear.com/failure-to-face-the-truth/).
 
-If you're building for six months and a customer hasn't used it, you're not on the road to Product/Market Fit; indeed you're not making progress on the business at all. What you've done is proved what you already knew--you can build software.
+إذا كنت تقوم بالبناء لمدة ستة أشهر ولم يستخدمه العميل، فأنت لست على الطريق إلى المنتج/السوق المناسب؛ في الواقع، أنت لا تحرز تقدمًا في العمل على الإطلاق. ما فعلته هو إثبات لما كنت تعرفه بالفعل - يمكنك بناء البرمجيات.
 
-The learning starts only when customers are (trying to) use it.
+يبدأ التعلم فقط عندما (يحاول) العملاء استخدامه.
 
 ![Tweet saying how important it is to watch people using the product](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/image-2-simple.png)
 
-## 5. Focus more on marketing and sales, less on product.
+## 5. ركز أكثر على التسويق والمبيعات، وبدرجة أقل على المنتج.
 
-Your natural inclination is to do what you enjoy and understand, so you need to press yourself to do so much marketing and sales that it feels like "too much."
+إن ميلك الطبيعي هو أن تفعل ما تستمتع به وتفهمه، لذلك تحتاج إلى الضغط على نفسك للقيام بالكثير من التسويق والمبيعات بحيث يبدو الأمر وكأنه "أكثر من اللازم".
 
-Ask yourself: What can you do *today*, that will (a) get more people from the target market to come to the website or (b) convert more of those people to try the product or (c) convert more of those to buy the product.
+اسأل نفسك: ما الذي يمكنك فعله *اليوم*، والذي سيؤدي إلى (أ) جذب المزيد من الأشخاص من السوق المستهدفة للقدوم إلى موقع الويب أو (ب) تحويل المزيد من هؤلاء الأشخاص لتجربة المنتج أو (ج) تحويل المزيد من هؤلاء الأشخاص لشراء المنتج.
 
-The answer _might_ be found in writing more code. Improving the new-user experience, for example, could increase the conversion rate from "try" to "buy." But more often the answer isn't inside the product; indeed several of those steps happen before the person has used the product at all. [The code is actually your enemy.](https://longform.asmartbear.com/code-is-your-enemy/)
+قد تجد الإجابة في كتابة المزيد من التعليمات البرمجية. على سبيل المثال، قد يؤدي تحسين تجربة المستخدم الجديد إلى زيادة معدل التحويل من "محاولة" إلى "شراء". ولكن في أغلب الأحيان لا يكون الجواب داخل المنتج؛ في الواقع، تحدث العديد من هذه الخطوات قبل أن يستخدم الشخص المنتج على الإطلاق. [الرمز هو في الواقع عدوك.](https://longform.asmartbear.com/code-is-your-enemy/)
 
-You'll advance the product anyway--I know that. And you should, but you don't need to be told to do that. After all, it's all you ever wanted to do, even at step one. That's why you need to set an intention every day to make progress on one of those questions. That's how you're going to generate growth.
+سوف تقوم بتطوير المنتج على أي حال - أعرف ذلك. ويجب عليك ذلك، ولكن لا تحتاج إلى أن يُطلب منك القيام بذلك. ففي النهاية، هذا هو كل ما أردت القيام به، حتى في الخطوة الأولى. لهذا السبب تحتاج إلى تحديد نية كل يوم لإحراز تقدم في أحد هذه الأسئلة. هذه هي الطريقة التي ستحقق بها النمو.
 
 ![Growth at ProjectionLab went from "not enough to quit my day job" to "now I have a team and $1M ARR" thanks to hiring a marketer. From the founder: "I stay focused on building, while he handles growth, marketing, partnerships, and some ops stuff."](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/image-9-simple.png)
 
@@ -237,197 +224,196 @@ You'll advance the product anyway--I know that. And you should, but you don't ne
 
 ![Focus on growth instead of coding](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/image-5-simple.png)
 
-## 6. Prioritize retention-based product work.
+## 6. إعطاء الأولوية لعمل المنتج القائم على الاحتفاظ.
 
-What does it mean, that one person out of billions cared enough about your problem-space to notice your advertisement or social media post, then felt compelled to follow the link, then was so intrigued by the website that they joined the 1-out-of-100 that tried the product, then liked what they saw enough to take out their wallet and pay, then started to use it... and then *cancelled?!?*
+ماذا يعني أن شخصًا واحدًا من بين المليارات من الأشخاص اهتم بما يكفي بمساحة مشكلتك ليلاحظ إعلانك أو منشورك على وسائل التواصل الاجتماعي، ثم شعر بأنه مجبر على اتباع الرابط، ثم أصبح مفتونًا جدًا بالموقع الإلكتروني لدرجة أنه انضم إلى 1 من أصل 100 ممن جربوا المنتج، ثم أعجبهم ما رأوه بما يكفي لإخراج محفظتهم والدفع، ثم بدأوا في استخدامه... ثم *ألغواه؟!؟*
 
-After all that--clear signals of desire, need, [willingness to pay](https://longform.asmartbear.com/willingness-to-pay/), and apparent "fit"--they decided "Nope, this is not what I want."
+بعد كل ذلك - الإشارات الواضحة للرغبة والحاجة و[الاستعداد للدفع] (https://longform.asmartbear.com/willingness-to-pay/) و"الملاءمة" الواضحة - قرروا "كلا، ليس هذا ما أريده".
 
-What it means is: You made the right promise, but didn't keep it.
+ومعنى ذلك هو: لقد قطعت الوعد الصحيح، ولكنك لم تحافظ عليه.
 
-Marketing is where you discover the promise the customer wants you to make, and retention[^5] is where you discover whether you're fulfilling that promise.
+التسويق هو المكان الذي تكتشف فيه الوعد الذي يريد العميل منك أن تقطعه، والاحتفاظ[^5] هو المكان الذي تكتشف فيه ما إذا كنت تفي بهذا الوعد أم لا.
 
-[^5]: Actually, retention is a lagging, multi-factor indicator, which makes it useful as a high-level check, but not useful as an operational day-to-day metric. Here's a [complete system for practical metrics](https://longform.asmartbear.com/product-metrics/) that embraces this fact and points to the right set of metrics.
+[^5]: في الواقع، يعد الاحتفاظ مؤشرًا متأخرًا ومتعدد العوامل، مما يجعله مفيدًا كفحص عالي المستوى، ولكنه ليس مفيدًا كمقياس تشغيلي يومي. إليك [النظام الكامل للمقاييس العملية](https://longform.asmartbear.com/product-metrics/) الذي يتبنى هذه الحقيقة ويشير إلى المجموعة الصحيحة من المقاييس.
 
 ![no youre thinking of cupid im one night stand fairy](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/d1906print-simple.png)
 
-Some people believe that low retention is fine because you can make up for it with growth. That's not true for two reasons:
+يعتقد بعض الأشخاص أن معدل الاحتفاظ المنخفض أمر جيد لأنه يمكنك تعويضه بالنمو. وهذا غير صحيح لسببين:
 
-1. Growth will start out good, but then will slow and halt sooner than you realize.[^6]
-2. If customers don't want to use the product, your "growth" is fake news. It's not Product/Market "Fit" if the "market" decides "not a fit" after actually using the product.
+1. سيبدأ النمو جيدًا، لكنه بعد ذلك سيتباطأ ويتوقف في وقت أقرب مما تدرك.[^6]
+2. إذا كان العملاء لا يريدون استخدام المنتج، فإن "نموك" يعد بمثابة أخبار زائفة. لا يعد المنتج/السوق "مناسبًا" إذا قرر "السوق" أنه "غير مناسب" بعد استخدام المنتج فعليًا.
 
-[^6]: See these articles with [data from Product/Market fit companies](https://longform.asmartbear.com/product-market-fit/) and [the math behind growth grinding to a halt](https://longform.asmartbear.com/problem/) at companies with low retention.
+[^6]: راجع هذه المقالات مع [بيانات من الشركات الملائمة للمنتج/السوق](https://longform.asmartbear.com/product-market-fit/) و[الحسابات التي تقف وراء توقف النمو](https://longform.asmartbear.com/problem/) في الشركات ذات معدل الاحتفاظ المنخفض.
 
-Therefore, when you do work on product features, build things that increase retention.
+لذلك، عندما تعمل على ميزات المنتج، قم ببناء أشياء تزيد من معدل الاحتفاظ به.
 
-This starts by understanding why people cancel. Gaining this understanding is difficult, because once they leave they don't want to talk to you anymore. You might coerce them by paying for interviews with Amazon gift cards or charitable donations. Some people will respond to an email (no harm in asking). Better is to look for signs that the customer isn't being successful (e.g. activity within the product) and reach out before it's too late, while they're still in the middle of their struggle, and therefore might be willing and able to articulate it.
+يبدأ هذا بفهم سبب إلغاء الأشخاص. من الصعب الحصول على هذا الفهم، لأنه بمجرد مغادرتهم لا يريدون التحدث معك بعد الآن. يمكنك إجبارهم عن طريق دفع مقابل المقابلات باستخدام بطاقات هدايا أمازون أو التبرعات الخيرية. سوف يستجيب بعض الأشخاص لرسالة بريد إلكتروني (لا ضرر من السؤال). الأفضل هو البحث عن علامات تشير إلى عدم نجاح العميل (مثل النشاط داخل المنتج) والتواصل معه قبل فوات الأوان، بينما لا يزال في منتصف صراعه، وبالتالي قد يكون مستعدًا وقادرًا على التعبير عنه.
 
-Remember that your goal is not to discover what unsuccessful customers have in common, because successful customers often have those things in common as well. Rather, it is to find patterns in unsuccessful customers _that are not shared by successful customers_. Those are the attributes that lead to action.
+تذكر أن هدفك ليس اكتشاف ما هو مشترك بين العملاء غير الناجحين، لأن العملاء الناجحين غالبًا ما يكون لديهم هذه الأشياء المشتركة أيضًا. بل هو العثور على أنماط لدى العملاء غير الناجحين _التي لا يشاركها العملاء الناجحون_. تلك هي الصفات التي تؤدي إلى العمل.
 
-For example, if "using feature X" means people are successful, maybe unsuccessful customers don't know about it (so you promote its usage), or maybe they can't use it because it's incompatible with their workflow (so add integrations or options). Sometimes, however, it's about the customers themselves, where tuning the ICP means you find more customers who are already a fit, perhaps targeting different industries or geographies, different stages or sizes of company, the title or attitude of the buyer, or the specific use-cases they are trying to solve for.
+على سبيل المثال، إذا كان "استخدام الميزة X" يعني أن الأشخاص ناجحون، فربما لا يعرف العملاء غير الناجحين عنها (لذلك تقوم بالترويج لاستخدامها)، أو ربما لا يمكنهم استخدامها لأنها غير متوافقة مع سير العمل الخاص بهم (لذا أضف عمليات تكامل أو خيارات). ومع ذلك، في بعض الأحيان، يتعلق الأمر بالعملاء أنفسهم، حيث يعني ضبط برنامج المقارنات الدولية (ICP) العثور على المزيد من العملاء الملائمين بالفعل، وربما يستهدفون صناعات أو مناطق جغرافية مختلفة، أو مراحل أو أحجام مختلفة للشركة، أو المسمى الوظيفي أو موقف المشتري، أو حالات الاستخدام المحددة التي يحاولون حلها.
 
-The [Talk/Walk workshop](https://longform.asmartbear.com/talk-vs-walk/) might help, because it helps elucidate the difference between the promise and the execution. But probably, as usual, you just need to talk to customers.
+قد تكون [ورشة عمل Talk/Walk](https://longform.asmartbear.com/talk-vs-walk/) مفيدة، لأنها تساعد في توضيح الفرق بين الوعد والتنفيذ. ولكن ربما، كالعادة، تحتاج فقط إلى التحدث مع العملاء.
 
-## 7. Ruthlessly, methodically, systematically prioritize.
+## 7. تحديد الأولويات بلا رحمة ومنهجية ومنهجية.
 
-More than just "[focus](https://longform.asmartbear.com/focus/)," more than a generic admonition to "prioritize," use a system that ensures you're leveraging your most valuable, most limited asset (time) to maximize progress.
+أكثر من مجرد "[التركيز](https://longform.asmartbear.com/focus/)،" أكثر من مجرد نصيحة عامة "لتحديد الأولويات"، استخدم نظامًا يضمن أنك تستفيد من أصولك الأكثر قيمة والأكثر محدودية (الوقت) لتحقيق أقصى قدر من التقدم.
 
 ![bear making a strategy](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/image-8-simple.png)
 
-Do this by combining [Fairytale Planning](https://longform.asmartbear.com/strategic-planning/) with the [Rocks, Pebbles, Sand](https://longform.asmartbear.com/rocks-pebbles-sand/) work-prioritization system:
+يمكنك القيام بذلك من خلال الجمع بين [التخطيط الخيالي](https://longform.asmartbear.com/strategic-planning/) ونظام تحديد أولويات العمل [الصخور والحصى والرمال](https://longform.asmartbear.com/rocks-pebbles-sand/):
 
-#### Identify the next milestone.
-At all times, be crystal clear about the single most important thing to achieve.
+#### تحديد المعلم التالي.
+في جميع الأوقات، كن واضحًا تمامًا بشأن الشيء الوحيد الأكثر أهمية الذي يجب تحقيقه.
 
-_(Ex: Finding a good business model. Public launch. 20 paying customers. Getting trial conversion rates from 1% to 5%. Getting cancellation from 7%/mo to 4%/mo. Getting to $10k MRR so you can quit your day job.)_
+_(على سبيل المثال: العثور على نموذج عمل جيد. الإطلاق العام. 20 عميلاً يدفعون. الحصول على معدلات تحويل تجريبية من 1% إلى 5%. الحصول على الإلغاء من 7%/شهريًا إلى 4%/شهريًا. الوصول إلى معدل معدل سنوي قدره 10 آلاف دولار حتى تتمكن من ترك عملك اليومي.)_
 
-You have to be executing against the next milestone every day. Write it down and look at it every morning. Everything else is a distraction to be ignored, or a necessary evil that you should dispatch as quickly as possible, including [delegation](https://longform.asmartbear.com/delegation/) or accepting that it's fine if it's executed poorly or late.
+يجب عليك التنفيذ مقابل المعلم التالي كل يوم. اكتبها وانظر إليها كل صباح. كل شيء آخر هو إلهاء يجب تجاهله، أو شر لا بد منه يجب عليك التخلص منه في أسرع وقت ممكن، بما في ذلك [التفويض](https://longform.asmartbear.com/delegation/) أو قبول أنه لا بأس إذا تم تنفيذه بشكل سيئ أو متأخر.
 
-#### Identify the current obstacle to achieving the milestone.
-At all times, be crystal clear why it is difficult or slow or expensive to achieve that milestone.
+#### تحديد العائق الحالي الذي يحول دون تحقيق هذا الإنجاز.
+كن واضحًا في جميع الأوقات لماذا يكون تحقيق هذا الإنجاز صعبًا أو بطيئًا أو مكلفًا.
 
-_(Ex: Can't figure out how to leverage your strengths for something differentiated and desirable. Easy to get someone to use it once, but only 15% use it again. Got 17 customers from Product Hunt but now there's no repeatable way to get more. Can't get people to agree to be interviewed. SLC isn't accepted by beta testers. Freemium users don't have enough incentive to convert to paid.)_
+_(على سبيل المثال: لا يمكنك معرفة كيفية الاستفادة من نقاط قوتك في شيء مختلف ومرغوب فيه. من السهل إقناع شخص ما باستخدامه مرة واحدة، لكن 15% فقط يستخدمونه مرة أخرى. حصلت على 17 عميلًا من Product Hunt ولكن الآن لا توجد طريقة قابلة للتكرار للحصول على المزيد. لا يمكن إقناع الأشخاص بالموافقة على إجراء مقابلات. SLC غير مقبول من قبل مختبري الإصدار التجريبي. ليس لدى مستخدمي Freemium حافز كافٍ للتحويل إلى الدفع.)_
 
-You must [face the difficult truth](https://longform.asmartbear.com/failure-to-face-the-truth/). Do not pick the obstacle that feels comfortable; pick the existential crisis that is uncomfortable exactly because it is critical and scary and true.
+يجب عليك [مواجهة الحقيقة الصعبة](https://longform.asmartbear.com/failure-to-face-the-truth/). لا تختر العائق الذي يشعرك بالراحة؛ اختر الأزمة الوجودية غير المريحة بالضبط لأنها حرجة ومخيفة وحقيقية.
 
-You have to be attacking or side-stepping the obstacle every day. Write it down and look at it every morning.
+عليك أن تهاجم أو تتجنب العائق كل يوم. اكتبها وانظر إليها كل صباح.
 
-#### Split work into Rocks, Pebbles, Sand.
-Use this specific [Rocks, Pebbles, Sand framework](https://longform.asmartbear.com/rocks-pebbles-sand/) to prioritize and schedule different types of work with the correct philosophy and process appropriate for each type.
+#### تقسيم العمل إلى صخور وحصى ورمال.
+استخدم هذا الإطار المحدد [Rocks, Pebbles, Sand](https://longform.asmartbear.com/rocks-pebbles-sand/) لتحديد أولويات أنواع العمل المختلفة وجدولتها باستخدام الفلسفة والعملية الصحيحة المناسبة لكل نوع.
 
-#### Select the Rock that attacks the obstacle and milestone together.
-Use [Binstack](https://longform.asmartbear.com/maximized-decision/) to prioritize one Rock that addresses that most important milestone and attacks the obstacle. (You don't have time for more than one.)
+#### حدد الصخرة التي تهاجم العائق والمعلم معًا.
+استخدم [Binstack](https://longform.asmartbear.com/maximized-decision/) لتحديد أولوية صخرة واحدة تعالج هذا المعلم الأكثر أهمية وتهاجم العائق. (ليس لديك وقت لأكثر من واحدة).
 
-If you can't think of one that's good enough, don't just proceed with a mediocre plan that will occupy the next three months; grab some friends--or better yet, customers!--and [brainstorm](https://longform.asmartbear.com/extreme-questions/) a better one.
+إذا لم تتمكن من التفكير في خطة جيدة بما فيه الكفاية، فلا تمضي قدمًا في خطة متواضعة ستشغل الأشهر الثلاثة المقبلة؛ احصل على بعض الأصدقاء - أو الأفضل من ذلك، العملاء! - و[العصف الذهني](https://longform.asmartbear.com/extreme-questions/) أفضل.
 
-#### Schedule Pebbles sparingly.
-Because you have to focus on the Rock, and you have little time for anything else, use this [ROI framework](https://longform.asmartbear.com/roi-selling/) to prioritize just a few other activities that are valuable enough to justify spending your remaining time.
+#### جدولة الحصى بشكل مقتصد.
+نظرًا لأنه يتعين عليك التركيز على الصخرة، وليس لديك سوى القليل من الوقت لأي شيء آخر، استخدم [إطار عمل عائد الاستثمار](https://longform.asmartbear.com/roi-sale/) لتحديد أولويات بعض الأنشطة الأخرى ذات القيمة الكافية لتبرير قضاء الوقت المتبقي لديك.
 
-#### Almost everything should be only "good enough"
-You have taste, you have craft, and part of the reason you're doing all this is to express yourself. But almost everything you do will not determine whether the company is successful. (Repeat that last sentence until you fully internalize it.) Which means most things should only be "good enough." Let it go.
+#### يجب أن يكون كل شيء تقريبًا "جيدًا بما فيه الكفاية" فقط
+لديك ذوق، ولديك حرفة، وجزء من سبب قيامك بكل هذا هو التعبير عن نفسك. لكن كل ما تفعله تقريبًا لن يحدد مدى نجاح الشركة. (كرر هذه الجملة الأخيرة حتى تستوعبها بالكامل). مما يعني أن معظم الأشياء يجب أن تكون "جيدة بما فيه الكفاية" فقط. دعها تذهب.
 
-Most metrics should be [satisfied, not maximized](https://longform.asmartbear.com/maximizing/). Pick [KPIs accordingly](https://longform.asmartbear.com/product-metrics/). [Design matters less than you think](https://longform.asmartbear.com/design/).
+يجب أن تكون معظم المقاييس [مرضية، وليست مكبرة](https://longform.asmartbear.com/maximizing/). اختر [مؤشرات الأداء الرئيسية وفقًا لذلك](https://longform.asmartbear.com/product-metrics/). [التصميم له أهمية أقل مما تعتقد](https://longform.asmartbear.com/design/).
 
-Having said all that, sometimes the very best aspects of a design are the little things, the obsessive things, the things you are compelled to make just so. Whether web design or UX design or a "perfect" feature which is only perfect because of the myriad corner cases that took a surprising amount of code and care to cover, but which means a new customer has an amazing experience. Pick your battles.
+بعد أن قلت كل ذلك، في بعض الأحيان تكون أفضل جوانب التصميم هي الأشياء الصغيرة، والأشياء المهووسة، والأشياء التي تضطر إلى القيام بها. سواء كان تصميم الويب أو تصميم تجربة المستخدم أو ميزة "مثالية" والتي تعتبر مثالية فقط بسبب عدد لا يحصى من الحالات الزاوية التي استغرقت قدرًا مذهلاً من التعليمات البرمجية والعناية لتغطيتها، ولكن هذا يعني أن العميل الجديد يتمتع بتجربة مذهلة. اختر معاركك.
 
-Don't stray from the system. You don't have the time.
+لا تبتعد عن النظام. ليس لديك الوقت.
 
-## 8. Manage your psychology.
+## 8. إدارة نفسيتك.
 
-Throughout this a step-by-step roadmap, you face demanding psychological challenges.
+من خلال خريطة الطريق هذه خطوة بخطوة، تواجه تحديات نفسية صعبة.
 
-* **[Facing the truth](https://longform.asmartbear.com/failure-to-face-the-truth/)**--not allowing "what you wish were true" to get in the way of finding out what is true, about your abilities, customer's wishes, the shape of the market, why people leave. Recognizing that there's always someone who is better than you at any given thing, and it becomes your job to [find and hire them](https://longform.asmartbear.com/delegation/).
-* **Finding yourself**--coming face-to-face with who you are, and who you are not, figuring out what is [actually important](https://longform.asmartbear.com/emptiness/) versus what is necessary or temporary, [enjoying the journey](https://longform.asmartbear.com/success-guaranteed/) especially when even a [successful end result](https://longform.asmartbear.com/rich-vs-king-sold-company/) is often [not what you hoped it would be](https://longform.asmartbear.com/identity-selling-sadness/).
-* **Making clear decisions**--deciding what you're not good at, and not trying to do it anyway; deciding your place in the market, and not trying to be all things to all people; deciding your [ICP](https://longform.asmartbear.com/icp-ideal-customer-persona/) and having the fortitude to go all-in; deciding the current milestone, the main challenge, the one big thing you have to do, and sticking to it without getting distracted.
-* **Constant rejection**--your ideas won't be good enough, your customer interviews will negate key assumptions, 99% of website visitors won't take an action, long sales calls will result in nothing, customers will buy but then leave, employees won't join you, investors won't invest.
-* **Fluid change**--despite clear decisions, rejections often demand a change, which is difficult to accept, [difficult to enact](https://longform.asmartbear.com/change/), difficult to admit when things are wrong, and difficult to decide whether some rejection should be ignored as an anomaly, or whether it's indicative of a "learning" that must result in a change, difficult to tell the difference between the [chaos that results in PMF and the one that results in failure](https://longform.asmartbear.com/chaos-at-start/).
-* **Acting while uncertain**--being "all-in" even while knowing you must be wrong about some things, even while getting rejected and making changes, even while doing things you've never done while [experts tell you what to do differently](https://longform.asmartbear.com/bad-advice/), even while feeling like an [impostor who has no right to be here](https://longform.asmartbear.com/impostor-syndrome/), even while knowing [you have no idea what you are doing](https://longform.asmartbear.com/startups-emotionally-draining/) while it appears everyone else knows exactly what they're doing. (Don't worry, they really don't.)
+* **[مواجهة الحقيقة](https://longform.asmartbear.com/failure-to-face-the-truth/)**--عدم السماح لـ "ما تتمنى أن يكون صحيحًا" أن يقف في طريق اكتشاف ما هو حقيقي، حول قدراتك، ورغبات العملاء، وشكل السوق، ولماذا يغادر الناس. إدراك أن هناك دائمًا شخصًا أفضل منك في أي شيء، وتصبح مهمتك هي [العثور عليه وتوظيفه](https://longform.asmartbear.com/delegation/).
+* **العثور على نفسك**-- المواجهة وجهًا لوجه مع من أنت ومن لا تكون، واكتشاف ما هو [مهم حقًا](https://longform.asmartbear.com/emptiness/) مقابل ما هو ضروري أو مؤقت، [الاستمتاع بالرحلة](https://longform.asmartbear.com/success-guaranteed/) خاصة عندما تكون [نهاية ناجحة] النتيجة](https://longform.asmartbear.com/rich-vs-king-sold-company/) غالبًا ما تكون [ليست ما كنت تأمل أن تكون عليه](https://longform.asmartbear.com/identity-sale-sadness/).
+* **اتخاذ قرارات واضحة**-- تحديد ما لا تجيده، وعدم محاولة القيام به على أي حال؛ تحديد مكانك في السوق، وعدم محاولة أن تكون كل شيء لجميع الناس؛ تحديد [ICP](https://longform.asmartbear.com/icp-ideal-customer-persona/) والتمتع بالثبات للقيام بكل شيء؛ تحديد الإنجاز الحالي، والتحدي الرئيسي، والشيء الكبير الوحيد الذي عليك القيام به، والالتزام به دون تشتيت انتباهك.
+* **الرفض المستمر**--أفكارك لن تكون جيدة بما فيه الكفاية، ومقابلات عملائك سوف تلغي الافتراضات الرئيسية، و99% من زوار الموقع لن يتخذوا أي إجراء، ومكالمات المبيعات الطويلة لن تؤدي إلى شيء، وسيشتري العملاء ثم يغادرون، ولن ينضم الموظفون إليك، ولن يستثمر المستثمرون.
+* **تغيير سلس** - على الرغم من القرارات الواضحة، غالبًا ما تتطلب حالات الرفض تغييرًا، وهو أمر يصعب قبوله، [يصعب تفعيله](https://longform.asmartbear.com/change/)، ويصعب الاعتراف به عندما تكون الأمور خاطئة، ويصعب تحديد ما إذا كان ينبغي تجاهل بعض الرفض باعتباره أمرًا شاذًا، أو ما إذا كان مؤشرًا على "تعلم" يجب أن يؤدي إلى تغيير، ومن الصعب معرفة الفرق بين [الفوضى التي تنتج عن PMF والفوضى التي تنتج عن PMF واحد يؤدي إلى الفشل](https://longform.asmartbear.com/chaos-at-start/).
+* **التصرف في حالة عدم اليقين**-- أن تكون "ملتزمًا بكل شيء" حتى مع العلم أنك لا بد أن تكون مخطئًا بشأن بعض الأشياء، حتى أثناء تعرضك للرفض وإجراء تغييرات، حتى أثناء القيام بأشياء لم تفعلها من قبل بينما [يخبرك الخبراء بما يجب عليك فعله بشكل مختلف](https://longform.asmartbear.com/bad-advice/)، حتى أثناء الشعور بأنك [محتال ليس له الحق في أن يكون كذلك هنا](https://longform.asmartbear.com/impostor-syndrome/)، حتى أثناء معرفتك [ليس لديك أي فكرة عما تفعله](https://longform.asmartbear.com/startups-emotionally-draining/) بينما يبدو أن الجميع يعرفون بالضبط ما يفعلونه. (لا تقلق، إنهم في الحقيقة لا يفعلون ذلك.)
 
 ![youll never be part of a royal flush me neither thats ok](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/d7782print-simple.png)
 
-This might be the hardest thing you've ever done. It's a [gauntlet of pain](https://longform.asmartbear.com/startup-life/), even if it's also the most exciting thing you'll do in your professional life. Many people stop because it's so hard. You can't blame them.
+قد يكون هذا أصعب شيء قمت به على الإطلاق. إنه [تحدي الألم](https://longform.asmartbear.com/startup-life/)، حتى لو كان أيضًا الشيء الأكثر إثارة الذي ستفعله في حياتك المهنية. كثير من الناس يتوقفون لأنه صعب للغاية. لا يمكنك إلقاء اللوم عليهم.
 
 ---
 
-## But you're not going to do this, are you...
+## لكنك لن تفعل هذا، أليس كذلك؟
 
-You have a fun feature idea so you're just building it.
+لديك فكرة ممتعة عن الميزة، لذا فأنت تقوم فقط ببنائها.
 
-You always wanted to learn Rust so you're just learning it.
+لقد أردت دائمًا أن تتعلم الصدأ، لذا فأنت تتعلمه فقط.
 
-AI is astounding and it's the future so you're building things with it, even though it's a technology and not a customer's problem that needs solving.
+الذكاء الاصطناعي أمر مذهل وهو المستقبل، لذا فأنت تبني الأشياء به، على الرغم من أنها تقنية وليست مشكلة العميل التي تحتاج إلى حل.
 
-You've started your own company in part because you don't want to be shackled by "processes" and "frameworks," so you're just doing whatever you want.
+لقد قمت بتأسيس شركتك الخاصة جزئيًا لأنك لا تريد أن تكون مقيدًا بـ "العمليات" و"الأطر"، لذا فأنت تفعل ما تريد فقط.
 
-Visual Studio is comfortable and Google Ad Manager is foreign and like Las Vegas is designed to separate you from your money, to say nothing of the discomfort of [asking for the sale](https://longform.asmartbear.com/startups-emotionally-draining/) or getting someone on a call to talk about their workflows or get an earful about how your [precious software](https://longform.asmartbear.com/startup-life/) actually sucks.
+يعد Visual Studio مريحًا، كما أن برنامج Google Ad Manager أجنبي، ومثل لاس فيغاس، تم تصميمه لفصلك عن أموالك، ناهيك عن الانزعاج الناتج عن [طلب البيع](https://longform.asmartbear.com/startups-emotionally-draining/) أو الحصول على مكالمة هاتفية من شخص ما للتحدث عن سير عمله أو الحصول على معلومات حول مدى سوء [برنامجك الثمين](https://longform.asmartbear.com/startup-life/).
 
-Uncomfortable. Scary. And you're lost, unskilled at those things, not making progress, not even _wanting_ to. So you slip back to Visual Studio where you know what to do, and enjoy doing it, and you're good at it.
+غير مريح. مخيف. وأنت ضائع، وغير ماهر في هذه الأشياء، ولا تحرز تقدمًا، ولا حتى ترغب في ذلك. لذلك يمكنك العودة إلى Visual Studio حيث تعرف ما يجب عليك فعله، وتستمتع بفعله، وتكون جيدًا في ذلك.
 
-Then you post on Twitter about how you have $1600 in MRR after 18 months but it's okay because perseverance is a virtue. When in fact you've fallen into the [well-known trap of doing what you're good at, what you love, but not what the business needs done](https://longform.asmartbear.com/fulfillment/).
+ثم تنشر على تويتر حول كيفية حصولك على 1600 دولار في MRR بعد 18 شهرًا ولكن لا بأس لأن المثابرة فضيلة. في حين أنك وقعت في الواقع في [الفخ المعروف المتمثل في القيام بما تجيده، وما تحبه، ولكن ليس ما يحتاج العمل إلى القيام به](https://longform.asmartbear.com/fulfillment/).
 
-Perseverance *is* a virtue, if you're doing the right work, with the right goals. It's a vice if it means you're moving diligently in the wrong direction.
+المثابرة هي فضيلة، إذا كنت تقوم بالعمل الصحيح، مع الأهداف الصحيحة. إنها رذيلة إذا كان ذلك يعني أنك تتحرك بجد في الاتجاه الخاطئ.
 
-## Smart Bear only halfway followed the roadmap
+## اتبع الدب الذكي خارطة الطريق في منتصف الطريق فقط
 
-But who am I to talk?
+لكن من أنا لأتحدث؟
 
-The company I founded in 2002, sold in 2007, and that gave me the online handle that persists to this day on this site, Smart Bear's first "product" Code Historian was a personal project, built because I want to learn .NET (we would later rewrite everything in Java), built because I thought there was value in the historical record encoded in version control (all products that operated under that assumption failed).
+الشركة التي أسستها في عام 2002، تم بيعها في عام 2007، وهذا أعطاني التعامل عبر الإنترنت الذي لا يزال قائمًا حتى يومنا هذا على هذا الموقع، أول "منتج" لشركة Smart Bear Code Historian كان مشروعًا شخصيًا، تم إنشاؤه لأنني أريد أن أتعلم .NET (سنقوم لاحقًا بإعادة كتابة كل شيء في Java)، تم إنشاؤه لأنني اعتقدت أن هناك قيمة في السجل التاريخي المشفر في التحكم في الإصدار (فشلت جميع المنتجات التي تعمل وفقًا لهذا الافتراض).
 
 ![Screenshot of viewing how old each line of code is, in Code Historian](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/recentchanges-simple.png)
 
-I didn't talk to customers ahead of time. I did talk to them a lot after they started paying, and learned that many didn't really want Code Historian at all, but rather they were abusing it to accomplish something else (in a story [told here](https://longform.asmartbear.com/predict-the-future/)). As a result, I created Code Reviewer, which sort of hit the need in question, but the architecture was all wrong and the features were all hacks. But all this customer feedback gave me the confidence to rewrite everything from scratch (which everyone says you should never do), resulting in a product called Code Collaborator, which made millions of dollars.
+لم أتحدث مع العملاء في وقت مبكر. لقد تحدثت معهم كثيرًا بعد أن بدأوا في الدفع، وعلمت أن الكثيرين لا يريدون حقًا Code Historian على الإطلاق، بل كانوا يسيئون استخدامه لإنجاز شيء آخر (في قصة [تُروى هنا](https://longform.asmartbear.com/predict-the-future/)). ونتيجة لذلك، قمت بإنشاء Code Reviewer، وهو ما يلبي الحاجة المعنية نوعًا ما، ولكن التصميم كان خاطئًا وكانت الميزات كلها عبارة عن اختراقات. لكن كل تعليقات العملاء هذه أعطتني الثقة لإعادة كتابة كل شيء من الصفر (وهو ما يقول الجميع إنه لا ينبغي عليك فعله أبدًا)، مما أدى إلى منتج يسمى Code Collaborator، والذي حقق ملايين الدولارات.
 
-Would I have found the idea for Code Collaborator by interviewing customers using the "Iterative-Hypothesis" method above? No, because I wouldn't have known what to ask them, and they wouldn't have known to tell me. I would have discovered that Code Historian wasn't a good business idea... and that's it. Maybe I would have had a completely different and better idea. Maybe. But the fact is, the actual "path to success" was to create something I liked, just interesting enough to attract initial customers even though it's not a great business, and then pivot to Code Reviewer, and then pivot to Code Collaborator. The interviews would have stopped everything cold. Does that make "interviewing" the wrong road to Product/Market Fit?
+هل كنت سأتوصل إلى فكرة Code Collaborator من خلال إجراء مقابلات مع العملاء باستخدام طريقة "الفرضية التكرارية" أعلاه؟ لا، لأنني لم أكن أعرف ماذا أسألهم، ولم يكونوا ليعرفوا أن يخبروني. كنت سأكتشف أن Code Historian لم تكن فكرة عمل جيدة... وهذا كل شيء. ربما كان لدي فكرة مختلفة تمامًا وأفضل. ربما. لكن الحقيقة هي أن "الطريق إلى النجاح" الفعلي هو إنشاء شيء أعجبني، وهو أمر مثير للاهتمام بدرجة كافية لجذب العملاء الأوليين على الرغم من أنه ليس عملاً رائعًا، ثم التحول إلى Code Reviewer، ثم التركيز على Code Collaborator. كانت المقابلات ستوقف كل شيء باردًا. هل هذا يجعل "إجراء المقابلات" الطريق الخطأ لملاءمة المنتج/السوق؟
 
-I do think building and getting product into customers hands is far more valuable than conversations. Smart Bear was an example of (1) having a specific idea matching my passions, which then because of (4) building and shipping and (5) marketing and selling and (6) building for retention by talking to customers, lead to the right idea. So, it was part of the path, but not the full path.
+أعتقد أن بناء المنتج وإيصاله إلى أيدي العملاء هو أكثر قيمة بكثير من المحادثات. كان Smart Bear مثالاً على (1) وجود فكرة محددة تتوافق مع شغفي، والتي أدت بعد ذلك إلى الفكرة الصحيحة بسبب (4) البناء والشحن و(5) التسويق والبيع و(6) البناء من أجل الاحتفاظ بالعملاء من خلال التحدث إلى العملاء. لذلك، كان جزءًا من المسار، ولكن ليس المسار الكامل.
 
-So, while the path to success didn't honor every step in the roadmap, it still would have failed if I had violated those other steps--coding in isolation, coding instead of selling, coding instead of honestly figuring out what customers really wanted.
+لذلك، على الرغم من أن الطريق إلى النجاح لم يحترم كل خطوة في خريطة الطريق، إلا أنه كان سيفشل إذا انتهكت تلك الخطوات الأخرى - البرمجة بشكل منفصل، والبرمجة بدلاً من البيع، والبرمجة بدلاً من معرفة ما يريده العملاء حقًا.
 
-## WP Engine followed the roadmap and became a unicorn
+## اتبع WP Engine خارطة الطريق وأصبح وحيد القرن
 
-That said, with WP Engine I traveled this roadmap exactly.
+ومع ذلك، مع WP Engine، قمت بنقل خريطة الطريق هذه تمامًا.
 
-WP Engine wasn't the initial idea. The first idea was for a marketing analytics tool with features that Google Analytics lacked: A real-time event dashboard, a clever goal-setting-and-measuring system that worked retroactively, and the ability to capture web form data even when it was only partially filled-in and never submitted, all with just one line of Javascript.[^7] But I ran that Iterative-Hypothesis method and after 20 interviews I learned that the idea wasn't strong enough.[^8] I was on the road; I (1) had a specific idea that (2) was clearly a great market and (3) vetted it with customers. Thanks to (3), I did not waste years on that project.
+لم تكن WP Engine هي الفكرة الأولية. كانت الفكرة الأولى هي إنشاء أداة تحليلات تسويقية تحتوي على ميزات تفتقر إليها Google Analytics: لوحة تحكم للأحداث في الوقت الفعلي، ونظام ذكي لتحديد الأهداف وقياسها يعمل بأثر رجعي، والقدرة على التقاط بيانات نماذج الويب حتى عندما يتم ملؤها جزئيًا فقط وعدم إرسالها مطلقًا، وكل ذلك باستخدام سطر واحد فقط من جافا سكريبت.[^7] لكنني قمت بتشغيل طريقة الفرضية التكرارية وبعد 20 مقابلة اكتشفت أن الفكرة لم تكن قوية بما فيه الكفاية.[^8] كان على الطريق؛ كان لدي (1) فكرة محددة مفادها أن (2) كان سوقًا رائعًا بشكل واضح و(3) قمت بفحصه مع العملاء. وبفضل (3)، لم أضيع سنوات في هذا المشروع.
 
-[^7]: These features are typical of analytics tools today, but in 2009 it was innovative.
+[^7]: تعتبر هذه الميزات نموذجية لأدوات التحليل اليوم، ولكنها كانت مبتكرة في عام 2009.
 
-[^8]: [This article gives the details of this invalidation](https://longform.asmartbear.com/good-startup-ideas/), and how it was different from WP Engine, which the same method validated.
+[^8]: [تعطي هذه المقالة تفاصيل هذا الإلغاء](https://longform.asmartbear.com/good-startup-ideas/)، وكيف كان مختلفًا عن WP Engine، الذي تم التحقق من صحته بنفس الطريقة.
 
-I then had the idea of a managed WordPress platform because I needed it myself--my blog would crash when I got to the top of Hackernews (a link-sharing site). I asked other bloggers what they use to keep WordPress fast and scalable; many said, "I don't know, but if you find it, tell me, because I need that too." I ran the [Iterative-Hypothesis method](https://longform.asmartbear.com/customer-development/) again, and this time it was very clear what the need was, what people would pay, and how to find them. And the market was already huge (WordPress powered 11% of the largest 10 million websites) yet growing fast (in 2023 it's 43%). I knew WordPress because I was a user, and for nearly twenty years I've loved code optimization problems, so this was a problem I understood and am ideal to solve, where customers agree the problem exists, are already spending money on it, and the market is large and growing. That's steps (1), (2), and (3), but this time the concept was validated.
+خطرت لي بعد ذلك فكرة منصة WordPress مُدارة لأنني كنت بحاجة إليها بنفسي - ستتعطل مدونتي عندما وصلت إلى الجزء العلوي من Hackernews (موقع مشاركة الروابط). سألت المدونين الآخرين عما يستخدمونه للحفاظ على سرعة WordPress وقابليته للتطوير؛ قال كثيرون: لا أعلم، ولكن إذا وجدتموه فأخبروني، فأنا بحاجة إليه أيضًا. لقد قمت بتشغيل [طريقة الفرضية التكرارية](https://longform.asmartbear.com/customer-development/) مرة أخرى، وهذه المرة كان من الواضح جدًا ما هي الحاجة إليه، وما الذي سيدفعه الأشخاص، وكيفية العثور عليه. وكان السوق ضخمًا بالفعل (يعمل WordPress على تشغيل 11% من أكبر 10 ملايين موقع ويب) ولكنه ينمو بسرعة (في عام 2023 سيصل إلى 43%). كنت أعرف WordPress لأنني كنت مستخدمًا، ومنذ ما يقرب من عشرين عامًا أحببت مشاكل تحسين التعليمات البرمجية، لذلك كانت هذه مشكلة فهمتها وأنا مثالي لحلها، حيث يتفق العملاء على وجود المشكلة، وينفقون الأموال عليها بالفعل، والسوق كبير ومتنامي. هذه هي الخطوات (1)، (2)، و (3)، ولكن هذه المرة تم التحقق من صحة المفهوم.
 
-I built just enough software to fulfill the promises of speed and scale, building the first version in 30 hours. Good enough to not only stay alive and fast on a Hackernews day, but with almost no load on the server, which meant I was still far away from a [capacity limit](https://longform.asmartbear.com/utilization/):
+لقد صممت ما يكفي من البرامج للوفاء بوعود السرعة والنطاق، وقمت ببناء الإصدار الأول في 30 ساعة. جيد بما يكفي ليس فقط للبقاء على قيد الحياة وسريعًا في يوم Hackernews، ولكن بدون تحميل تقريبًا على الخادم، مما يعني أنني كنت لا أزال بعيدًا عن [حد السعة](https://longform.asmartbear.com/utilization/):
 
 ![Hundreds of simultaneous connections on a Hackernews day in 2010](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/nginx-graph-simple.png)
 
-The first version didn't even have a customer dashboard. I took credit cards with the default website supplied by the online credit card service, and the rest was just WordPress.
+لم يكن الإصدار الأول يحتوي حتى على لوحة معلومات العميل. لقد حصلت على بطاقات الائتمان من موقع الويب الافتراضي الذي توفره خدمة بطاقات الائتمان عبر الإنترنت، والباقي كان مجرد WordPress.
 
-The first version of the website was... "spare," shall we say? (Figure 2)
+النسخة الأولى من الموقع كانت... "احتياطية"، هل نقول؟ (الشكل 2)
 
 ![Very plain initial website](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/wpengine-com-20100330-simple.png)
 
-The second version of the website was so bad, there were database errors shooting out the bottom. Database errors, on the home page, of the company that you're supposed to trust with your precious website (Figure 3).
+النسخة الثانية من الموقع كانت سيئة للغاية، وكانت هناك أخطاء في قاعدة البيانات تظهر في الأسفل. أخطاء في قاعدة البيانات، على الصفحة الرئيسية، للشركة التي من المفترض أن تثق بها في موقع الويب الثمين الخاص بك (الشكل 3).
 
 ![The market need must be overwhelming, if customers walk through this wall of fire and say "yeah just take my money."](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/footer-87f376b55fc470e7-simple.png)
 
-So that's step (4), the SLC product that fulfills the job completely with the absolute minimum of "Product."
+إذن هذه هي الخطوة (4)، منتج SLC الذي يفي بالمهمة بالكامل مع الحد الأدنى المطلق من "المنتج".
 
-We reached $1M ARR after 18 months. The reason--besides having the right product with the right promise in the right market, which was elements (2) and (3)--is step (5) focus on marketing and sales.
+لقد وصلنا إلى مليون دولار أمريكي بعد 18 شهرًا. السبب - إلى جانب الحصول على المنتج المناسب مع الوعد المناسب في السوق المناسب، والذي كان العنصرين (2) و(3) - هو التركيز على الخطوة (5) على التسويق والمبيعات.
 
-Because I did marketing and sales before even having a product login screen, I was able to launch with 30 paying customers. Sure I worked on the product and worked support tickets, but what I focused on was how to get customers:
+نظرًا لأنني قمت بالتسويق والمبيعات حتى قبل أن يكون لدي شاشة تسجيل دخول للمنتج، فقد تمكنت من الإطلاق مع 30 عميلاً يدفعون. بالتأكيد عملت على المنتج وعملت على تذاكر الدعم، لكن ما ركزت عليه هو كيفية الحصول على العملاء:
 
 ![From an "advisory group" email update from 2010; my asks were for marketing and sales, not product and engineering.](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/image-simple.png)
 
-When you do marketing and sales, with a product that people actually need, in a large and growing market (all covered by the exercise under (2)), then you might have a nice growth curve:
+عندما تقوم بالتسويق والمبيعات، باستخدام منتج يحتاجه الناس بالفعل، في سوق كبيرة ومتنامية (كل ذلك يغطيه التمرين الموجود تحت (2))، فقد يكون لديك منحنى نمو جيد:
 
-![Hit $1M ARR in first 18 months at WP Engine.
-But wait, the Product/Market Fit is still to come...](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/h2aiagzwtkvgh-ziuvhaoyqextusligoalcocyvkrrib17cf0r6pwq-p7nptl-nx5vsbjwvheitxjnsjykpvnqnrnse88h2ltvixjwrqegty5alj2udrrwoh7oqlwrfouqq03l6-e-zetqvx9abbdshh-nw-simple.png)
+![Hit $1M ARR in first 18 months at WP Engine. But wait, the Product/Market Fit is still to come...](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/h2aiagzwtkvgh-ziuvhaoyqextusligoalcocyvkrrib17cf0r6pwq-p7nptl-nx5vsbjwvheitxjnsjykpvnqnrnse88h2ltvixjwrqegty5alj2udrrwoh7oqlwrfouqq03l6-e-zetqvx9abbdshh-nw-simple.png)
 
-We've always spent a lot of time on (6) retention. Sometimes years would pass where we wouldn't add a new feature, because all our engineering time was spent on the [challenges of scale](https://longform.asmartbear.com/scale/) and continuing to improve on the promise of speed and uptime. As a result, we've had best-in-industry customer retention for 16 years.
+لقد أمضينا دائمًا الكثير من الوقت في (6) الاحتفاظ. في بعض الأحيان، تمر سنوات دون أن نضيف ميزة جديدة، لأن كل وقتنا الهندسي تم إنفاقه على [تحديات الحجم](https://longform.asmartbear.com/scale/) ومواصلة تحسين الوعد بالسرعة ووقت التشغيل. ونتيجة لذلك، فقد حصلنا على أفضل نسبة احتفاظ بالعملاء في الصناعة لمدة 16 عامًا.
 
-High retention due to happy customers folds back into growth through word-of-mouth referrals and a thousand top-of-class reviews:
+معدل الاحتفاظ العالي بسبب العملاء السعداء يعود إلى النمو من خلال الإحالات الشفهية وآلاف التقييمات من الدرجة الأولى:
 
 ![87% of 1007 Trustpilot reviews are 5-star](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/trustpilot1007-simple.png)
 
-All that, combined with the hard work, the craftsmanship, the large and growing market--did I mention the large and growing market?--and yes also the luck, meant that in early 2012 we hit [Product/Market Fit, as further detailed here](https://longform.asmartbear.com/product-market-fit/):
+كل ذلك، جنبًا إلى جنب مع العمل الجاد، والحرفية، والسوق الكبيرة والمتنامية - هل ذكرت السوق الكبيرة والمتنامية؟ - ونعم أيضًا الحظ، يعني أننا وصلنا في أوائل عام 2012 إلى [Product/Market Fit، كما هو مفصل هنا](https://longform.asmartbear.com/product-market-fit/):
 
 ![The previous chart's "up and to the right" growth from 2010-2012 looks almost flat compared to the sudden moment of Product/Market Fit, when it became hyper-growth, and never slowed.](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/wpengine-growth-simple.png)
 
 ---
 
-This roadmap worked for WP Engine, and it worked for others. Consider this thread from [Simon Hoiberg](https://www.simonhoiberg.com/), explaining why his second bootstrapped company succeeded ([FeedHive](https://www.feedhive.com/)) where his first failed. This roadmap echos within it--playing in a large, growing market, finding and focusing on an ICP, building only an SLC to start, and treating marketing and sales as more important than features and innovation:
+نجحت خريطة الطريق هذه مع WP Engine، وقد نجحت أيضًا مع الآخرين. خذ بعين الاعتبار هذا الموضوع من [Simon Hoiberg](https://www.simonhoiberg.com/)، الذي يشرح سبب نجاح شركته الثانية ([FeedHive](https://www.feedhive.com/)) حيث فشلت شركته الأولى. تنعكس خارطة الطريق هذه في داخلها - اللعب في سوق كبيرة ومتنامية، وإيجاد برنامج ICP والتركيز عليه، وبناء SLC فقط للبدء، والتعامل مع التسويق والمبيعات على أنهما أكثر أهمية من الميزات والابتكار:
 
 ![The PMF roadmap in action](https://public.asmartbear.com/books/anthology/chapters/product-market-fit-formula/image-4-simple.png)
 
-Do you *have* to walk this road like Simon discovered with FeedHive and I discovered at WP Engine, or can you stumble onto it halfway through like Smart Bear, or can you take a completely different route and just emerge at the finish line? Or can you just cherry-pick the things you like from this framework, and ignore the rest?
+هل *يجب عليك* السير في هذا الطريق كما اكتشفه Simon مع FeedHive واكتشفته أنا في WP Engine، أم يمكنك أن تتعثر فيه في منتصف الطريق مثل Smart Bear، أم يمكنك أن تسلك طريقًا مختلفًا تمامًا وتخرج عند خط النهاية؟ أو يمكنك فقط اختيار الأشياء التي تريدها من هذا الإطار، وتجاهل الباقي؟
 
-Yes to all the above. Everything is possible.
+نعم لكل ما سبق. كل شيء ممكن.
 
-But not all roads are equally likely to result in success. We enjoy stories about outliers because exceptions are interesting. But exceptions are not repeatable, and therefore they may not be teaching you anything useful. I believe the roadmap above _is_ repeatable. Not a guarantee of success, but a process that makes sense.
+ولكن ليس كل الطرق من المرجح أن تؤدي إلى النجاح على قدم المساواة. نحن نستمتع بالقصص حول القيم المتطرفة لأن الاستثناءات مثيرة للاهتمام. لكن الاستثناءات غير قابلة للتكرار، وبالتالي قد لا تعلمك أي شيء مفيد. أعتقد أن خريطة الطريق المذكورة أعلاه قابلة للتكرار. ليست ضمانة للنجاح، ولكنها عملية منطقية.
 
-It's your life; you can take any road you please.
+إنها حياتك؛ يمكنك أن تسلك أي طريق تريده.
 
-What are you going to do?
+ما كنت تنوي القيام به؟
 
 ---
 
-*Many thanks to [Gordon Daugherty](https://shockwaveinnovations.com/), [Rowan Udell](https://rowanudell.com/), and [Sathyanand S](https://www.linkedin.com/in/sathyanands/) for contributing insights to early drafts.*
+*شكرًا جزيلا لـ [جوردون دوجيرتي](https://shockwaveinnovations.com/)، و[روان أوديل](https://rowanudell.com/)، و[ساثياناند إس](https://www.linkedin.com/in/sathyanands/) لمساهمتهم بالأفكار في المسودات المبكرة.*

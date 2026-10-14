@@ -20,124 +20,111 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** متلازمة المحتال: لماذا شعرت بأني مخادع، وكيف تغلبت عليها تماماً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Impostor Syndrome: Why I felt like a fraud, and how I overcame it
-
-> **Executive Summary:** Most high-performing people experience Impostor Syndrome. I did too. When you understand the cause, you can defeat it.
-> **Original URL:** [https://longform.asmartbear.com/impostor-syndrome/](https://longform.asmartbear.com/impostor-syndrome/)
-
 ![Sometimes feel like an impostor? You're not alone.](https://public.asmartbear.com/books/anthology/chapters/impostor-syndrome/kisspng-groucho-glasses-stock-photography-disguise-glasses-5ab5a417ba32a2-9298949115218534637627-simple.png)
 
-> "**I feel like a fraud.** I've been at this for 16 years and I still feel like a fraud. I'm just waiting for the day they see through the façade, but they keep coming back every year."  
-> --Jason Young
+> "**أشعر وكأنني محتال.** لقد كنت في هذا لمدة 16 عامًا وما زلت أشعر وكأنني محتال. أنا فقط أنتظر اليوم الذي يرون فيه الواجهة، لكنهم يستمرون في العودة كل عام."
+> --جيسون يونغ
 
-Ah yes, the awe-inspiring words of confidence from the seasoned entrepreneur. My friend Jason intended this as soothing words of solace during (one of my) periods of personal freak-out while Smart Bear was in its infancy.
+آه، نعم، كلمات الثقة المذهلة من رجل الأعمال المخضرم. قصد صديقي جيسون أن تكون هذه كلمات عزاء مهدئة خلال فترات (واحدة) من الفزع الشخصي بينما كان Smart Bear في مهده.
 
-I felt like a fraud every day. Here I was, selling a wobbly, buggy tool and pawning myself off as an expert in a field that didn't exist.[^1] Every second I felt like I was putting one over on the world.
+شعرت وكأنني احتيال كل يوم. كنت هنا أبيع أداة متذبذبة وعربات التي تجرها الدواب وأراهن على نفسي كخبير في مجال غير موجود.[^1] في كل ثانية كنت أشعر وكأنني أضع واحدة في العالم.
 
-[^1]: Our software was the first commercial tool for peer code review. Now a standard practice for many developers, and a standard feature in many development tools, at the time we were creating a market that didn't exist.
+[^1]: كان برنامجنا أول أداة تجارية لمراجعة الأكواد البرمجية من قبل النظراء. أصبحت الآن ممارسة قياسية للعديد من المطورين، وميزة قياسية في العديد من أدوات التطوير، في الوقت الذي كنا ننشئ فيه سوقًا لم يكن موجودًا.
 
-I would explain how our tool "cuts code review time in half," but was that actually true or had I just repeated the argument so many times that I stopped questioning it? I would orchestrate purchases, but should I be handling large sums of money with no knowledge of [accounting](https://blog.asmartbear.com/cash-or-accrual-basis-accounting.html), cash-flow, invoicing, [purchase orders](https://blog.asmartbear.com/selling-to-large-companies.html), all while [being relentlessly belittled by Accounts Payable](https://longform.asmartbear.com/startups-emotionally-draining/)? I would instruct customers on "best practices" for code review, even publishing a whole book about it, but who am I to tell other people how to critique code?
+أود أن أشرح كيف أن أداتنا "تخفض وقت مراجعة التعليمات البرمجية إلى النصف"، ولكن هل كان ذلك صحيحًا بالفعل أم أنني كررت الحجة عدة مرات لدرجة أنني توقفت عن التشكيك فيها؟ سأقوم بتنظيم عمليات الشراء، ولكن هل يجب أن أتعامل مع مبالغ كبيرة من المال دون معرفة [بالمحاسبة](https://blog.asmartbear.com/cash-or-accrual-basis-accounting.html)، والتدفق النقدي، والفواتير، و[أوامر الشراء](https://blog.asmartbear.com/sale-to-large-companies.html)، وكل ذلك أثناء [الاستخفاف بلا هوادة من قبل الحسابات مستحق الدفع](https://longform.asmartbear.com/startups-emotionally-draining/)؟ أود أن أقوم بإرشاد العملاء حول "أفضل الممارسات" لمراجعة التعليمات البرمجية، وحتى نشر كتاب كامل عنها، ولكن من أنا لأخبر الآخرين بكيفية نقد التعليمات البرمجية؟
 
 ![my book "Best Kept Secrets of Peer Code Review" on the shelf at a used book store](https://public.asmartbear.com/books/anthology/chapters/impostor-syndrome/imag1070-simple.png)
 
-Aren't I too young? Isn't the tool too crappy to charge for? Aren't I too inexperienced? Don't I need an MBA or at least some sales training?
+ألست صغيرًا جدًا؟ أليست الأداة رديئة جدًا بحيث لا يمكن فرض رسوم عليها؟ ألست عديم الخبرة للغاية؟ ألا أحتاج إلى ماجستير إدارة الأعمال أو على الأقل بعض التدريب على المبيعات؟
 
-**Is Smart Bear a "real company?"** [What does that even mean](https://longform.asmartbear.com/real-company/)?
+**هل Smart Bear "شركة حقيقية؟"** [ماذا يعني ذلك حتى](https://longform.asmartbear.com/real-company/)؟
 
-Objectively, and with hindsight, my feelings were misplaced. The tool really did save time and headache; customers said so. As much as I doubted the title "Code Review Expert," I had developed more experience with more teams in more situations than any one person could (because everyone else was busy doing their actual jobs). And sales isn't as mystical and unknowable as I feared.
+بموضوعية وبعد فوات الأوان، كانت مشاعري في غير محلها. لقد وفرت الأداة الوقت والصداع حقًا؛ قال العملاء ذلك. بقدر ما كنت أشك في لقب "خبير مراجعة الكود"، فقد اكتسبت خبرة أكبر مع عدد أكبر من الفرق في مواقف أكثر مما يستطيع أي شخص واحد (لأن الجميع كانوا مشغولين بأداء وظائفهم الفعلية). والمبيعات ليست غامضة وغير معروفة كما كنت أخشى.
 
-Still, **emotions don't respond to logic.** Jason was telling me that these feelings don't go away, even when they ought.
+ومع ذلك، **العواطف لا تستجيب للمنطق.** كان جيسون يخبرني أن هذه المشاعر لا تختفي، حتى عندما ينبغي لها ذلك.
 
-The other thing he was saying is: **You're not alone.** It's not just business founders. Mike Meyers said "I still believe that at any time the No-Talent Police will come and arrest me." Jodie Foster said "I thought it [winning the Oscar] was a fluke. The same way as when I walked on the campus at Yale. I thought everybody would find out, and they'd take the Oscar back." June Huh, who dropped out of high-school to become a poet, and later won the Fields Medal--mathematics' highest honor--[says](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/) "Of course you are happy, but deep down, you're a little bit worried that they might eventually figure out that you're not actually that good. I am a reasonably good mathematician, but am I Fields Medal-worthy?"
+والشيء الآخر الذي كان يقوله هو: **أنت لست وحدك.** لا يقتصر الأمر على مؤسسي الأعمال فقط. قال مايك مايرز "ما زلت أعتقد أنه في أي وقت ستأتي شرطة عديمة المواهب وتعتقلني." قالت جودي فوستر "اعتقدت أن [الفوز بجائزة الأوسكار] كان مجرد صدفة. بنفس الطريقة التي كنت أسير بها في الحرم الجامعي في جامعة ييل. اعتقدت أن الجميع سيكتشفون ذلك، وسوف يستعيدون جائزة الأوسكار." جون هوه، التي تركت المدرسة الثانوية لتصبح شاعرة، وفازت لاحقًا بميدالية فيلدز - أعلى وسام في الرياضيات - [يقول] (https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/) "بالطبع أنت سعيد، ولكن في أعماقك، تشعر بالقلق قليلاً من أنهم قد يكتشفون في النهاية أنك لست كذلك في الواقع، أنا عالم رياضيات جيد إلى حدٍ ما، لكن هل أستحق وسام فيلدز؟"
 
 ![santa sees therapist people not believing in him](https://public.asmartbear.com/books/anthology/chapters/impostor-syndrome/d4324print-simple.png)
 
-The name for this is [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). [Studies show](https://www.inc.com/magazine/20060901/handson-leadership.html) that "40% of successful people consider themselves frauds" and that "[A staggering 84%](https://kajabi.com/blog/impostor-phenomenon-study) of the entrepreneurs and small business owners surveyed had scores indicating they feel like an impostor at moderate, frequent, or intense levels." Ask any small business coach; they'll [confirm how prevalent these feelings are](https://ingoodcompanyworkplaces.blogspot.com/2009/11/business-owners-imposter-complex.html). It's also [common with PhD candidates](https://sciencecareers.sciencemag.org/career_development/previous_issues/articles/2008_02_15/caredit_a0800025). People [constantly complain of it on Twitter](https://twitter.com/search?q=%22impostor+syndrome%22&src=typed_query), and that's just the <1% who are (a) on Twitter and (b) willing to admit it.
+الاسم لهذا هو [متلازمة المحتال](https://en.wikipedia.org/wiki/Impostor_syndrome). [تشير الدراسات](https://www.inc.com/magazine/20060901/handson-leadership.html) إلى أن "40% من الأشخاص الناجحين يعتبرون أنفسهم محتالين" وأن "[نسبة مذهلة تبلغ 84%](https://kajabi.com/blog/impostor-phenomenon-study) من رواد الأعمال وأصحاب الأعمال الصغيرة الذين شملهم الاستطلاع حصلوا على درجات تشير إلى أنهم يشعرون بأنهم محتالون بشكل معتدل أو متكرر أو مستويات مكثفة." اسأل أي مدرب أعمال صغيرة؛ سوف [يؤكدون مدى انتشار هذه المشاعر](https://ingoodcompanyworkplaces.blogspot.com/2009/11/business-owners-imposter-complex.html). وهو أيضًا [شائع بين مرشحي الدكتوراه](https://sciencecareers.sciencemag.org/career_development/previous_issues/articles/2008_02_15/caredit_a0800025). الناس [يشكون من ذلك باستمرار على تويتر](https://twitter.com/search?q=%22impostor+syndrome%22&src=typed_query)، وهؤلاء هم فقط <1% الذين (أ) على تويتر و(ب) على استعداد للاعتراف بذلك.
 
-Although not an official psychological disorder, and generally not crippling, if you have these feelings it's useful to know that it's common and there's something you can do about it.
+على الرغم من أنه ليس اضطرابًا نفسيًا رسميًا، وليس معوقًا بشكل عام، إذا كانت لديك هذه المشاعر فمن المفيد أن تعرف أنه أمر شائع وهناك شيء يمكنك فعله حيال ذلك.
 
-**See if these sound familiar:**
+**انظر إذا كانت هذه الأصوات مألوفة:**
 
-* You dismiss compliments, awards, and positive reinforcement as "no big deal."
-* You are crushed by mild, constructive criticism.
-* You believe you're not as smart/talented/capable as other people think you are.
-* You worry others will discover you're not as smart/talented/capable as they think you are.
-* You think other people with similar jobs are more "adult" than you are, and they "have their shit together" while you flounder around.
-* You feel your successes are due more to luck than ability; with your failures it's the other way around.
-* You find it difficult to take credit for your accomplishments.
-* You feel that you're the living embodiment of "fake it until you make it."
+* أنت ترفض المجاملات والجوائز والتعزيز الإيجابي باعتبارها "ليست مشكلة كبيرة".
+* يتم سحقك بالنقد الخفيف والبناء.
+* أنت تعتقد أنك لست ذكيًا/موهوبًا/قادرًا كما يعتقد الآخرون.
+* تشعر بالقلق من أن الآخرين سيكتشفون أنك لست ذكيًا/موهوبًا/قادرًا كما يعتقدون.
+* تعتقد أن الأشخاص الآخرين الذين لديهم وظائف مماثلة هم أكثر "بالغين" منك، وأنهم "يجمعون شتاتهم معًا" أثناء تخبطك.
+* تشعر أن نجاحاتك ترجع إلى الحظ أكثر من القدرة؛ أما مع إخفاقاتك فالأمر على العكس من ذلك.
+* تجد صعوبة في الحصول على الفضل في إنجازاتك.
+* تشعر أنك التجسيد الحي لفكرة "زيف الأمر حتى تصنعه".
 
-But wait, how can this be? **This overwhelming lack of self-confidence is the opposite of the traditional entrepreneurial stereotype.** Don't founders forge ahead even when others say success is impossible? Doesn't a founder invent a new product based on her [confidence that others will want it](https://longform.asmartbear.com/problem/)? Doesn't the very idea of starting your own company scream "I'm doing it my way, and my way is better?"
+ولكن مهلا، كيف يمكن أن يكون هذا؟ **هذا الافتقار الشديد للثقة بالنفس هو عكس الصورة النمطية التقليدية لريادة الأعمال.** ألا يمضي المؤسسون قدمًا حتى عندما يقول الآخرون إن النجاح مستحيل؟ ألا يخترع المؤسس منتجًا جديدًا بناءً على [ثقته في أن الآخرين سيريدونه](https://longform.asmartbear.com/problem/)؟ ألا تصرخ فكرة إنشاء شركتك الخاصة "أنا أفعل ذلك بطريقتي، وطريقتي هي الأفضل؟"
 
-Here's why it makes sense. Consider what it means to be a perfectionist. The perfectionist sees flaws in everyone else's work; there's always a way to make it better--*her* way. She doesn't respond well to authority dictating how things must be; neither is she comfortable [delegating](https://longform.asmartbear.com/delegation/) to those who (by her definition) clearly don't care as much as she does.
+هذا هو السبب في أنه منطقي. فكر فيما يعنيه أن تكون منشد الكمال. يرى الباحث عن الكمال العيوب في عمل الجميع؛ هناك دائمًا طريقة لجعل الأمر أفضل - طريقتها. إنها لا تستجيب بشكل جيد للسلطة التي تملي عليها كيف يجب أن تكون الأمور؛ كما أنها ليست مرتاحة [للتفويض](https://longform.asmartbear.com/delegation/) لأولئك الذين (بحسب تعريفها) من الواضح أنهم لا يهتمون بقدر ما تهتم به.
 
-Sounds like the stereotypical attitude of the arrogant startup founder, but wait! At the same time, the perfectionist is never happy with her *own* work either, seeing (inventing?) a never-ending stream of flaws that require attention. No matter how highly others regard her work, the perfectionist insists it's incomplete and unsatisfactory. She can't accept the idea that others would be impressed with her accomplishments, because to her eyes they're mediocre works-in-progress. She worries that one day they'll realize she's right.
+يبدو هذا وكأنه الموقف النمطي لمؤسس الشركة الناشئة المتعجرف، ولكن انتظر! في الوقت نفسه، لا تكون الباحثة عن الكمال سعيدة أبدًا بعملها أيضًا، حيث ترى (تخترع؟) تيارًا لا ينتهي من العيوب التي تتطلب الاهتمام. بغض النظر عن مدى تقدير الآخرين لعملها، فإن الباحثة عن الكمال تصر على أنها غير مكتملة وغير مرضية. إنها لا تستطيع قبول فكرة أن الآخرين سينبهرون بإنجازاتها، لأنها في نظرها أعمال متواضعة قيد التنفيذ. إنها تشعر بالقلق من أن يومًا ما سيدركون أنها على حق.
 
-Our entrepreneurial motivation is not confidence, it's an insatiable desire to do it our way. Doing it our own way is not the same as being confident that it is the correct way. It's about never accepting any idea as being best, even if you like your current ideas better than everyone else's.
+إن دافعنا الريادي ليس الثقة، بل الرغبة التي لا تشبع في القيام بذلك بطريقتنا. إن القيام بذلك بطريقتنا الخاصة لا يعني الثقة في أنها الطريقة الصحيحة. يتعلق الأمر بعدم قبول أي فكرة على أنها الأفضل، حتى لو كنت تحب أفكارك الحالية أفضل من أفكار أي شخص آخر.
 
-Can these feelings be constructive? Yes, if they're a sign that you're striving to learn and improve. As Andy Wibbels says:
+هل يمكن أن تكون هذه المشاعر بناءة؟ نعم، إذا كانت علامة على أنك تسعى جاهدة للتعلم والتحسين. كما يقول آندي ويبلز:
 
-> If I don't feel like a fraud at least once a day then I'm not reaching far enough.  
->   
-> If you aren't scared shitless then why bother?
+> إذا لم أشعر بأنني محتال مرة واحدة على الأقل يوميًا، فهذا يعني أنني لم أتمكن من الوصول إلى الحد الكافي.
+> 
+> إذا لم تكن خائفًا بلا خوف فلماذا تهتم؟
 
-Here's what it looks like when you're channeling these self-doubts into something **constructive**:
+إليك ما يبدو عليه الأمر عندما تقوم بتحويل هذه الشكوك الذاتية إلى شيء **بناء**:
 
-* I doubt my title as "expert," so every day I read, write, and immerse myself in my field.
-* I doubt the quality of my software, so I fix bugs as fast as possible, I write unit tests proactively, and I thank my customers for their patience.
-* I doubt I deserve my reputation, so I work hard to earn it.
-* I'm not as good as I want to be at speaking/<wbr/>writing/<wbr/>programming/<wbr/>designing/<wbr/>managing, but I can see myself slowly improving.
-* I'm not a "[real company](https://longform.asmartbear.com/real-company/)" yet, so I concentrate on making my customers successful, so they don't care about corporate size or structure.
+* أشك في لقبي كـ "خبير"، لذلك أقرأ وأكتب وأغوص في مجال عملي كل يوم.
+* أشك في جودة برنامجي، لذلك أقوم بإصلاح الأخطاء في أسرع وقت ممكن، وأكتب اختبارات الوحدة بشكل استباقي، وأشكر عملائي على صبرهم.
+* أشك في أنني أستحق سمعتي، لذلك أعمل بجد لأكسبها.
+* أنا لست جيدًا كما أريد أن أكون في التحدث/<wbr/>الكتابة/<wbr/>البرمجة/<wbr/>التصميم/<wbr/>الإدارة، ولكن يمكنني أن أرى نفسي أتحسن ببطء.
+* أنا لست "[شركة حقيقية](https://longform.asmartbear.com/real-company/)" حتى الآن، لذلك أركز على جعل عملائي ناجحين، حتى لا يهتموا بحجم الشركة أو هيكلها.
 
-On the other hand, here's what it looks like when these doubts are **harming** you:
+ومن ناحية أخرى، إليك ما يبدو عليه الأمر عندما تكون هذه الشكوك **تضرك**:
 
-* I doubt my title as "expert," so every night I worry about what will happen when I'm discovered as a fraud. I'm absent-mindedly looking for trivially-easy jobs I could take where this pressure won't exist. (Looking for an "escape-hatch" is a well-documented behavior.)
-* I doubt the quality of my software, so I spend lots of time covering it up with graphic design and heavy sales pitches.
-* I doubt I deserve my reputation, so I live in constant fear of exposure. I can't sleep at night and I loathe myself for lying.
-* I'm not as good as I want to be at speaking/<wbr/>writing/<wbr/>programming/<wbr/>designing/<wbr/>managing, so I go out of my way to avoid any of it, and feel like a trapped animal when I'm forced to do it.
-* I'm not a "real company" yet, so I feel guilty every time someone gives me money or believes anything I say.
+* أشك في لقبي كـ "خبير"، لذلك أشعر بالقلق كل ليلة بشأن ما سيحدث عندما يتم اكتشاف أنني محتال. أنا شارد الذهن أبحث عن وظائف سهلة تافهة يمكنني توليها حيث لا يوجد هذا الضغط. (البحث عن "فتحة الهروب" هو سلوك موثق جيدًا.)
+* أشك في جودة برنامجي، لذلك أقضي الكثير من الوقت في تغطيته بالتصميم الجرافيكي وعروض المبيعات الكبيرة.
+* أشك في أنني أستحق سمعتي، لذلك أعيش في خوف دائم من الانكشاف. لا أستطيع النوم ليلاً وأكره نفسي بسبب الكذب.
+* أنا لست جيدًا كما أريد أن أكون في التحدث/<wbr/>الكتابة/<wbr/>البرمجة/<wbr/>التصميم/<wbr/>الإدارة، لذلك أبذل قصارى جهدي لتجنب أي منها، وأشعر وكأنني حيوان محاصر عندما أجبر على القيام بذلك.
+* أنا لست "شركة حقيقية" حتى الآن، لذلك أشعر بالذنب في كل مرة يعطيني فيها شخص ما المال أو يصدق أي شيء أقوله.
 
-If you're letting these feelings get to you too, at least recognize it so you can deal with it logically.
+إذا كنت تسمح لهذه المشاعر بالوصول إليك أيضًا، فتعرف عليها على الأقل حتى تتمكن من التعامل معها بشكل منطقي.
 
 ![turns out my imposter syndrome was pretty much right on](https://public.asmartbear.com/books/anthology/chapters/impostor-syndrome/d8014print-simple.png)
 
-#### Here's some specific ways to answer the Impostor voice in your head:
+#### فيما يلي بعض الطرق المحددة للرد على صوت المحتال في رأسك:
 
-#### ...yet
-Whatever it is you think you're not good enough for, append the word "yet." I can't do this job... yet. This article isn't good enough... yet. I don't deserve the title I have... yet.
+#### ...حتى الآن
+مهما كان الأمر الذي تعتقد أنك لست جيدًا فيه بما فيه الكفاية، أضف كلمة "حتى الآن". لا أستطيع القيام بهذه المهمة... بعد. هذه المقالة ليست جيدة بما فيه الكفاية...حتى الآن. أنا لا أستحق اللقب الذي أملكه ... حتى الآن.
 
-#### "Am I a curious student?"[^2]
-A: When you meet a student, who is honesty, energetically, and humbly pursuing learning and growth, do you think "That's awesome, good for them, how can I help," or do you think "They're an impostor for not already being an expert?" So, when you act as a curious student, that's not being an impostor, that's the state of being a student. Which is awesome.
+#### "هل أنا طالب فضولي؟"[^2]
+ج: عندما تقابل طالبًا يتحلى بالصدق والنشاط والتواضع ويسعى إلى التعلم والنمو، هل تعتقد أن "هذا رائع، جيد بالنسبة له، كيف يمكنني مساعدته،" أو هل تعتقد "أنه محتال لأنه ليس خبيرًا بالفعل؟" لذا، عندما تتصرف كطالب فضولي، فهذا لا يعد محتالًا، هذه هي حالة كونك طالبًا. وهو أمر رائع.
 
-#### "Do I deserve to be peers with my peers?"
-A: Yes, unless you think Neil Gaiman [doesn't deserve to be at the same party](https://neil-gaiman.tumblr.com/post/160603396711/hi-i-read-that-youve-dealt-with-with-impostor) as Neil Armstrong or vice versa, because they feel the same way, and you know they're both wrong.
+#### "هل أستحق أن أكون أقرانًا مع زملائي؟"
+ج: نعم، إلا إذا كنت تعتقد أن نيل جيمان [لا يستحق أن يكون في نفس الحفلة](https://neil-gaiman.tumblr.com/post/160603396711/hi-i-read-that-youve-dealt-with-with-impostor) مثل نيل أرمسترونج أو العكس، لأنهما يشعران بنفس الطريقة، وأنت تعلم أنهما مخطئان.
 
-#### "Do I deserve the [title/position/responsibility] I have?"
-A: Do you think some idiot gave you a hand-out for nothing? If not, then yes, you deserve it.
+#### "هل أستحق [اللقب/المنصب/المسؤولية] التي أمتلكها؟"
+ج: هل تعتقد أن بعض الأحمق أعطاك صدقة بدون مقابل؟ إذا لم يكن الأمر كذلك، فنعم، أنت تستحق ذلك.
 
-#### "Sometimes I feel stretched and that I don't know what I'm doing."
-A: That is the human condition... for humans who strive. Only someone who is ignorant and foolhardy doesn't realize there's more to know, more to learn, and to be suspicious of confidence. If Mike Meyers isn't sure whether he's funny, then it's just the human condition. Even if sometimes you *are* stretched too far, that's _also_ the normal condition when striving. It's something to embrace and work on, not evidence that you shouldn't be doing it at all. Unless you think "learning and growing" is something you should never do, or if you think "learning and growing" should never feel uncomfortable.
+#### "أحيانًا أشعر بالإرهاق وأنني لا أعرف ما أفعله."
+ج: تلك هي حالة الإنسان... للبشر الذين يجتهدون. فقط الشخص الجاهل والمتهور لا يدرك أن هناك المزيد مما يجب معرفته، والمزيد مما يمكن تعلمه، والشك في الثقة. إذا لم يكن مايك مايرز متأكدًا مما إذا كان مضحكًا أم لا، فهذه مجرد حالة إنسانية. حتى لو كنت في بعض الأحيان *تتمدد* كثيرًا، فهذه أيضًا الحالة الطبيعية عند السعي. إنه شيء يجب أن تتبناه وتعمل عليه، وليس دليلاً على أنه لا ينبغي عليك القيام بذلك على الإطلاق. إلا إذا كنت تعتقد أن "التعلم والنمو" شيء لا ينبغي عليك فعله أبدًا، أو إذا كنت تعتقد أن "التعلم والنمو" لا يجب أن تشعرك بعدم الارتياح أبدًا.
 
-[^2]: Inspired by [Mihir Patel's article](https://mihirchronicles.com/beating-big-imposter/)
+[^2]: مستوحى من [مقالة ميهير باتيل](https://mihirchronicles.com/beating-big-imposter/)
 
-#### And when logic fails, maybe this will help:
+#### وعندما يفشل المنطق، ربما هذا سوف يساعد:
 
-You believe that Mike Meyers and Jodie Foster are talented, right? And June Huh deserves that medal? You might even believe that I'm an expert in peer code review and startups in general. Yet we doubt ourselves every day. *And we're wrong*.
+هل تعتقد أن مايك مايرز وجودي فوستر موهوبون، أليس كذلك؟ وجون هاه يستحق تلك الميدالية؟ ربما تعتقد أنني خبير في مراجعة الأكواد البرمجية والشركات الناشئة بشكل عام. ومع ذلك فإننا نشك في أنفسنا كل يوم. *ونحن مخطئون*.
 
-So if we're wrong, you're wrong too.
+لذا، إذا كنا مخطئين، فأنت مخطئ أيضًا.
 
-Don't stop striving, just stop holding yourself to an impossible standard, and don't worry what other people think.
+لا تتوقف عن السعي، فقط توقف عن تقييد نفسك بمعيار مستحيل، ولا تقلق مما يعتقده الآخرون.
 
-They're not thinking about you at all.
+إنهم لا يفكرون فيك على الإطلاق.
 
 ---
 
-*Many thanks to [Matt Cohen](https://twitter.com/zencohen) and [Scott W. Bradley](https://www.linkedin.com/in/scottwb69/) for contributing examples.*
+*شكرًا جزيلا لـ [مات كوهين](https://twitter.com/zencohen) و[سكوت دبليو برادلي](https://www.linkedin.com/in/scottwb69/) على المساهمة بالأمثلة.*

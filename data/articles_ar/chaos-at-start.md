@@ -20,108 +20,95 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** إنها فوضى مؤلمة وشاقة حتى تصبح فجأة أمراً منظماً ومربحاً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# It's a torturous chaos until it isn't
-
-> **Executive Summary:** Even at wildly successful startups, the first few years are gut-wrenching, uncertain, on the brink of collapse, where pessimism is realism, and yet optimism is required.
-> **Original URL:** [https://longform.asmartbear.com/chaos-at-start/](https://longform.asmartbear.com/chaos-at-start/)
-
-When you hear "explosive startup growth," a few darlings come to mind. Facebook, Slack, now OpenAI (Figure 1).
+عندما تسمع عبارة "نمو هائل في الشركات الناشئة"، يتبادر إلى ذهنك عدد قليل من الأشخاص المحبوبين. فيسبوك، سلاك، الآن OpenAI (الشكل 1).
 
 ![Years from $1M to $100M for various companies](https://public.asmartbear.com/books/anthology/chapters/chaos-at-start/openai-simple.png)
 
-I wonder... what did they all look like prior to reaching $1M ARR, i.e. prior to "year 1" on that chart?
+أتساءل... كيف كان شكلهم جميعًا قبل الوصول إلى مليون دولار أمريكي في معدل العائد السنوي، أي قبل "العام الأول" على هذا المخطط؟
 
-HubSpot is a good example, because all their data is public. They are a proper juggernaut of growth; as of the beginning of 2024, at a whopping $2B ARR, they're still growing quickly:
+تعتبر HubSpot مثالًا جيدًا، لأن جميع بياناتهم متاحة للعامة. إنهم قوة هائلة للنمو؛ اعتبارًا من بداية عام 2024، بسعر ARR ضخم قدره 2 مليار دولار، لا تزال تنمو بسرعة:
 
 ![Hubspot revenue 2018-2023](https://public.asmartbear.com/books/anthology/chapters/chaos-at-start/image-3-simple.png)
 
-Shifting eight years earlier, the curve looks similar, just with smaller absolute numbers:
+وبالتحول قبل ثماني سنوات، يبدو المنحنى مشابهًا، فقط مع أرقام مطلقة أصغر:
 
 ![HubSpot revenue 2010-2020](https://public.asmartbear.com/books/anthology/chapters/chaos-at-start/image-7-simple.png)
 
-Shifting earlier still, it still looks similar, but now we've arrived at the crux of our investigation: The beginning:
+بالانتقال سابقًا، لا يزال يبدو مشابهًا، لكننا وصلنا الآن إلى جوهر تحقيقنا: البداية:
 
 ![HubSpot revenue 2007-2011](https://public.asmartbear.com/books/anthology/chapters/chaos-at-start/image-simple.png)
 
-Wait, how long did it take them to get their first 500 customers? Two years?
+انتظر، كم من الوقت استغرقهم الأمر للحصول على أول 500 عميل؟ عامين؟
 
-Yes. In fact, after ending 2006 with just 3 (three!) customers, they ended the next year [with only 48](https://thegrowthplaybook.substack.com/p/if-youre-a-saas-entrepreneur-you). That's less than one per week. For a year.
+نعم. في الواقع، بعد إنهاء عام 2006 بثلاثة (ثلاثة!) عملاء فقط، أنهوا العام التالي [بـ 48 عميلًا فقط](https://thegrowthplaybook.substack.com/p/if-youre-a-saas-entrepreneur-you). وهذا أقل من واحد في الأسبوع. لمدة عام.
 
-See, here's HubSpot co-founder Dharmesh Shah standing in front of that data:
+انظر، هذا هو المؤسس المشارك لـ HubSpot، دهارميش شاه، يقف أمام تلك البيانات:
 
 ![HubSpot's founder Dharmesh Shah showing their slow linear growth rate for three years, then fast for five.](https://public.asmartbear.com/books/anthology/chapters/chaos-at-start/image-8-simple.png)
 
-That does not sound like a juggernaut of growth. In fact, that sounds downright bad. Like, maybe you should shut the company down because it's "obviously not working." Or at least, there should be an [existential struggle over whether it is wise to continue](https://longform.asmartbear.com/perseverance/).
+وهذا لا يبدو وكأنه قوة هائلة للنمو. في الواقع، يبدو ذلك سيئًا تمامًا. مثلًا، ربما ينبغي عليك إغلاق الشركة لأنه "من الواضح أنها لا تعمل". أو على الأقل يجب أن يكون هناك [صراع وجودي حول ما إذا كان من الحكمة الاستمرار](https://longform.asmartbear.com/perseverance/).
 
-What was going on during those first years? What it was _not_: an obviously bright future with a clear vision validated by a torrent of customers with open wallets.
+ماذا كان يحدث خلال تلك السنوات الأولى؟ ما لم يكن: مستقبل مشرق بشكل واضح مع رؤية واضحة تم التحقق من صحتها من خلال سيل من العملاء ذوي المحافظ المفتوحة.
 
-So, what _was_ it?
+إذًا، ما هو؟
 
-A barely-controlled chaos, awake at 2:43am worrying how to make payroll or whether the numbers will look good enough by next spring to raise another round? Unsure which product features to double-down on and which to kill, worried the wrong choice would tank the entire company? Staying bright and cheery on the outside for the press, customers, investors, and employees while that one horsehair tenuously suspending Damocles' Sword is looking awfully thin and worn?
+فوضى بالكاد يمكن السيطرة عليها، مستيقظًا في الساعة 2:43 صباحًا، قلقًا بشأن كيفية إعداد كشوف المرتبات أو ما إذا كانت الأرقام ستبدو جيدة بما يكفي بحلول الربيع المقبل لجمع جولة أخرى؟ هل أنت غير متأكد من ميزات المنتج التي يجب تحسينها وتلك التي يجب إيقافها، هل تشعر بالقلق من أن الاختيار الخاطئ قد يؤدي إلى تدمير الشركة بأكملها؟ هل ستبقى مشرقًا ومبتهجًا من الخارج بالنسبة للصحافة والعملاء والمستثمرين والموظفين بينما يبدو شعر الحصان الذي يعلق سيف ديموقليس ضعيفًا ومهترئًا إلى حد كبير؟
 
-Of course it was. It's always like that.
+بالطبع كان كذلك. انها دائما مثل هذا.
 
-Then again, the story is the same when the company "runs off a cliff without leaving skid-marks," never [reaching Product/Market Fit](https://longform.asmartbear.com/product-market-fit/); possibly never having extracted a single dime from a single person. The one that really *should* have shut down.
+ثم مرة أخرى، القصة هي نفسها عندما "تنحدر الشركة من الهاوية دون أن تترك علامات انزلاقية"، ولا [تصل إلى المنتج/السوق المناسب](https://longform.asmartbear.com/product-market-fit/)؛ ربما لم تستخرج أبدًا سنتًا واحدًا من شخص واحد. الشخص الذي * كان ينبغي * حقًا أن يغلق.
 
-The same struggle, same uncertainty, same near-impossibility, same mess.
+نفس الصراع، نفس عدم اليقين، نفس شبه الاستحالة، نفس الفوضى.
 
-So how do you tell the difference between the tortuous chaos that leads to unimaginable success and that which leads nowhere at all?
+إذن، كيف يمكنك التمييز بين الفوضى المتعرجة التي تؤدي إلى نجاح لا يمكن تصوره، وتلك التي لا تؤدي إلى أي شيء على الإطلاق؟
 
-I'm not sure you can.
+لست متأكدا من أنك تستطيع ذلك.
 
-I mean, [there are some questions you can ask yourself](https://longform.asmartbear.com/perseverance/). But:
+أعني، [هناك بعض الأسئلة التي يمكنك طرحها على نفسك](https://longform.asmartbear.com/perseverance/). لكن:
 
-Objectively, what's the difference between Basecamp v1.0 and any number of knock-offs? All of them "the tool we wish we had, [so we built it ourselves](https://longform.asmartbear.com/scratched-my-own-itch/)," all of them simple, all of them usable by relatively non-technical people, all of them web-based, all of them missing half the features that any one customer wished it had.
+من الناحية الموضوعية، ما الفرق بين Basecamp v1.0 وأي عدد من النسخ المقلدة؟ جميعها "الأداة التي نتمنى أن تكون لدينا، [لذا قمنا ببنائها بأنفسنا](https://longform.asmartbear.com/scratched-my-own-itch/)،" جميعها بسيطة، وجميعها قابلة للاستخدام من قبل أشخاص غير تقنيين نسبيًا، وجميعها تعتمد على الويب، وجميعها تفتقد نصف الميزات التي يتمنى أي عميل أن يمتلكها.
 
-Objectively, what's the difference between StackOverflow and the twenty copycat Q&A websites and thousands of forums? Why was Quora still able to stand out? Could you measure this difference? Could you plot it on a chart?
+من الناحية الموضوعية، ما الفرق بين StackOverflow ومواقع الأسئلة والأجوبة العشرين المقلدة وآلاف المنتديات؟ لماذا ظلت Quora قادرة على التميز؟ هل يمكنك قياس هذا الاختلاف؟ هل يمكنك رسمها على الرسم البياني؟
 
-One thing you know for sure--what *doesn't* explain it is a "feature comparison chart." Or a [SWOT](https://longform.asmartbear.com/swot/). Or financial metrics. Or social media. Or whether they raised money. Or whether they went to Stanford. Or whether the market was already there. Or whether the competition was already there.
+هناك شيء واحد تعرفه بالتأكيد - ما *لا* يفسره هو "مخطط مقارنة الميزات". أو [SWOT](https://longform.asmartbear.com/swot/). أو المقاييس المالية. أو وسائل التواصل الاجتماعي. أو ما إذا كانوا قد جمعوا المال. أو ما إذا كانوا قد ذهبوا إلى جامعة ستانفورد. أو ما إذا كان السوق موجودًا بالفعل. أو ما إذا كانت المنافسة موجودة بالفعل.
 
-Or anything else. Even with my [roadmap for Product/Market Fit](https://longform.asmartbear.com/product-market-fit-formula/) in hand, there are exceptions to everything. I say in that article that there needs to be founder-fit, but the founders of AirBnB weren't experienced in hotels or hospitality and the founders of Uber weren't experienced in car services. And that's just one assertion among dozens from that one article; there are exceptions to every "rule."
+أو أي شيء آخر. حتى مع وجود [خارطة الطريق الخاصة بالمنتج/السوق الملائمة](https://longform.asmartbear.com/product-market-fit-formula/) في متناول اليد، هناك استثناءات لكل شيء. أقول في هذا المقال إنه يجب أن يكون هناك مؤسس مناسب، لكن مؤسسي AirBnB لم يكونوا من ذوي الخبرة في الفنادق أو الضيافة ومؤسسو Uber لم يكونوا من ذوي الخبرة في خدمات السيارات. وهذا مجرد تأكيد واحد من بين عشرات من تلك المقالة؛ هناك استثناءات لكل "قاعدة".
 
-Take [Peldi](https://balsamiq.com/company/news/personal-whats-your-story-why-start-balsamiq/), founder of [Balsamiq Mockups](https://www.balsamiq.com/). He blogged a bit, but unlike StackOverflow he didn't have a head-start with an online presence, and English is his second language. He lives in Italy, not surrounded by an American startup culture. Prior to entrepreneurship he was a lifer at Adobe, so that didn't prepare him for bootstrapping a company from scratch.
+خذ على سبيل المثال [Peldi](https://balsamiq.com/company/news/personal-whats-your-story-why-start-balsamiq/)، مؤسس [Balsamiq Mockups](https://www.balsamiq.com/). لقد قام بالتدوين قليلاً، ولكن على عكس StackOverflow لم يكن لديه السبق في التواجد عبر الإنترنت، وكانت اللغة الإنجليزية هي لغته الثانية. يعيش في إيطاليا، غير محاط بثقافة الشركات الناشئة الأمريكية. قبل ريادة الأعمال، كان يعمل مدى الحياة في شركة Adobe، لذلك لم يؤهله ذلك لبدء شركة من الصفر.
 
-His growth chart in year #1:
+مخطط نموه في العام رقم 1:
 
 ![Balsamiq Markups revenue, 2008](https://public.asmartbear.com/books/anthology/chapters/chaos-at-start/balsamiq-cashflow-simple.png)
 
-How do you think Peldi felt during those first six months? Do you think the anguish subsided quickly? Or ever? Do you think Peldi was still sure his ideas and execution were good in June? Or even afterward--this was one-time revenue, not recurring, so it could stop at any time.
+كيف تعتقد أن بيلدي شعر خلال تلك الأشهر الستة الأولى؟ هل تعتقد أن الألم قد هدأ بسرعة؟ أو من أي وقت مضى؟ هل تعتقد أن بيلدي كان لا يزال متأكدًا من أن أفكاره وتنفيذه كان جيدًا في يونيو؟ أو حتى بعد ذلك--كان هذا إيرادات لمرة واحدة، وليس متكررًا، لذا يمكن أن يتوقف في أي وقت.
 
-Or more recently, [Nathan Barry](https://twitter.com/nathanbarry) with [Convertkit](https://convertkit.com/). How did it feel in January 2015, more than two years in and almost nothing to show for it? (Figure 7)
+أو مؤخرًا، [Nathan Barry](https://twitter.com/nathanbarry) مع [Convertkit](https://convertkit.com/). كيف كان شعورك في يناير/كانون الثاني 2015، بعد مرور أكثر من عامين ولم يظهر أي شيء تقريبًا؟ (الشكل 7)
 
 ![ConvertKit's early MRR growth](https://public.asmartbear.com/books/anthology/chapters/chaos-at-start/image-6-simple.png)
 
-Or more recently still, [Tim Bennetto](https://twitter.com/Timb03) with [Pallyy](https://pallyy.com/), with two years of making less than $3k/mo in MRR, and then it changed:
+أو في الآونة الأخيرة، [تيم بينيتو](https://twitter.com/Timb03) مع [Pallyy](https://pallyy.com/)، مع عامين من تحقيق أقل من 3 آلاف دولار شهريًا في MRR، ثم تغير الأمر:
 
 ![Pallyy's four-year MRR](https://public.asmartbear.com/books/anthology/chapters/chaos-at-start/image-4-simple.png)
 
-#### And it's not just startups.
+#### وهي ليست مجرد شركات ناشئة.
 
 ![Zen and the Art of Motorcycle Maintenance book cover](https://public.asmartbear.com/books/anthology/chapters/chaos-at-start/image-2-simple.png)
 
-Robert Pirsig's book _Zen and the Art of Motorcycle Maintenance_ was rejected by 121 publishers. How do you keep going after "just" 100 rejections? After 20, even?
+تم رفض كتاب روبرت بيرسيج "الزن وفن صيانة الدراجات النارية" من قبل 121 ناشرًا. كيف يمكنك الاستمرار بعد 100 رفض "فقط"؟ وبعد العشرين حتى؟
 
-Then it was published by William Morrow & Company in 1974 and stayed on best-seller lists for decades, with total sales of over 5 million copies. For comparison, Dr. Seuss's _Green Eggs and Ham_ has sold 8 million copies.
+ثم تم نشره من قبل شركة William Morrow & Company في عام 1974 وظل على قوائم الكتب الأكثر مبيعًا لعقود من الزمن، حيث تجاوز إجمالي مبيعاته 5 ملايين نسخة. للمقارنة، بيعت رواية دكتور سوس _Green Eggs and Ham_ 8 ملايين نسخة.
 
-Speaking of Dr. Seuss, he was rejected by 27 publishers before _Green Eggs_ was published. Stephen King's _Carrie_ was rejected 30 times before Doubleday took a chance on it. J.K. Rowling was rejected 12 times. "I was the biggest failure I knew" she said of herself during that time, before she went on to sell 450 million books and be worth over $1B (and became famous for things other than the world of wizards).
+بالحديث عن الدكتور سوس، فقد تم رفضه من قبل 27 ناشرًا قبل نشر رواية "البيض الأخضر". تم رفض _Carrie_ لستيفن كينغ 30 مرة قبل أن يغتنم Doubleday فرصة ذلك. ج.ك. تم رفض رولينج 12 مرة. قالت عن نفسها خلال تلك الفترة: "كنت أكبر فاشل عرفته"، قبل أن تبيع 450 مليون كتاب وتبلغ قيمتها أكثر من مليار دولار (وتصبح مشهورة بأشياء أخرى غير عالم السحرة).
 
-> "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game-winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed."  
-> --Michael Jordan
+> "لقد أضعت أكثر من 9000 تسديدة في مسيرتي. لقد خسرت ما يقرب من 300 مباراة. 26 مرة، تم الوثوق بي لتسديد التسديدة الفائزة في المباراة وأخطأت. لقد فشلت مرارًا وتكرارًا في حياتي. وهذا هو سبب نجاحي."
+> --مايكل جوردان
 
-Of course, your struggles might indeed be in vain. The vast majority of authors never succeed. Nor startups. Nor [new product lines](https://longform.asmartbear.com/adjacency/) inside established companies. Most of the time, it doesn't work; that's the brutal truth.
+وبطبيعة الحال، قد تكون نضالاتك بلا جدوى. الغالبية العظمى من المؤلفين لا تنجح أبدًا. ولا الشركات الناشئة. ولا [خطوط إنتاج جديدة](https://longform.asmartbear.com/adjacency/) داخل الشركات القائمة. في أغلب الأحيان، لا ينجح الأمر؛ هذه هي الحقيقة القاسية.
 
-But this I do know:
+لكن هذا ما أعرفه:
 
-The fact that you're in over your head, that you [almost cannot will yourself to continue](https://longform.asmartbear.com/startups-emotionally-draining/), that you're completely in the dark, that you're [working yourself to an early grave](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/), that you seem to [slide two steps back for every one forward](https://longform.asmartbear.com/perseverance/), that [nothing's ever good enough](https://longform.asmartbear.com/be-yourself/), that your friends and family can't understand why you're turning yourself inside out with no apparent progress, that you're supposed to be [enjoying the journey](https://longform.asmartbear.com/success-guaranteed/) but you're not, that you yourself [doubt whether you're even capable of this](https://longform.asmartbear.com/impostor-syndrome/)...
+حقيقة أنك في حالة من الفوضى، وأنك [تقريبًا لا تستطيع أن ترغب في الاستمرار](https://longform.asmartbear.com/startups-emotionally-draining/)، وأنك في الظلام تمامًا، وأنك [تعمل على الوصول إلى قبر مبكر](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/)، ويبدو أنك [تتراجع خطوتين إلى الوراء في كل مرة واحد للأمام](https://longform.asmartbear.com/perseverance/)، أن [لا يوجد شيء جيد بما فيه الكفاية على الإطلاق](https://longform.asmartbear.com/be-yourself/)، وأن أصدقائك وعائلتك لا يستطيعون فهم سبب تحولك رأسًا على عقب دون أي تقدم واضح، وأنه من المفترض أن [تستمتع بالرحلة](https://longform.asmartbear.com/success-guaranteed/) لكنك لست كذلك، أنت نفسك [تشك فيما إذا كنت قادرًا على ذلك](https://longform.asmartbear.com/impostor-syndrome/)...
 
-These things mean you haven't yet succeeded, but neither do they prove that you're failing.
+هذه الأشياء تعني أنك لم تنجح بعد، لكنها لا تثبت فشلك أيضًا.
 
-It's always like this, until it isn't.
+إنه دائمًا هكذا، حتى لا يكون كذلك.

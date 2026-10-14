@@ -20,58 +20,45 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** المزود الرائد لحلول تسويقية لا معنى لها: السخرية من لغة الشركات الجوفاء تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The leading provider of meaningless marketing solutions
-
-> **Executive Summary:** Marketing buzzwords and generic phrases hurts your brand. Use clear messaging instead of meaningless jargon.
-> **Original URL:** [https://longform.asmartbear.com/the-leading-provider/](https://longform.asmartbear.com/the-leading-provider/)
-
 ![scrabble tiles](https://longform.asmartbear.com/the-leading-provider/1c38b352.png)
 
-Why do so many marketing departments seem to thrive on ambiguity and meaninglessness?
+لماذا يبدو أن الكثير من أقسام التسويق تزدهر بالغموض واللامعنى؟
 
-Witness, for example, [this](http://www.omniture.com/press/568) gem of a company description.  As Dave Barry would say, I'm not making this up:
+شاهد، على سبيل المثال، [هذه](http://www.omniture.com/press/568) جوهرة وصف الشركة.  كما قال ديف باري، أنا لا أختلق هذا:
 
-> Omniture, Inc. is a leading provider of online business optimization software, enabling customers to manage and enhance online, offline and multi-channel business initiatives.
+> Omniture, Inc. هي شركة رائدة في مجال توفير برامج تحسين الأعمال التجارية عبر الإنترنت، مما يمكّن العملاء من إدارة وتعزيز مبادرات الأعمال عبر الإنترنت وغير المتصلة بالإنترنت ومتعددة القنوات.
 
-Huh?  Turns out they do web analytics.  Oh.  They could have just said so and spent the rest of their words telling you how they're different from other web analytics companies.
+هاه؟  اتضح أنهم يقومون بتحليلات الويب.  أوه.  كان من الممكن أن يقولوا ذلك للتو ويقضوا بقية كلماتهم في إخبارك بمدى اختلافهم عن شركات تحليل الويب الأخرى.
 
-What's the purpose of this language?  Does the phrase "a leading provider of" mean anything to you?  When you read it, do you whisper under your breath:
+ما الهدف من هذه اللغة؟  هل تعني عبارة "المزود الرائد" أي شيء بالنسبة لك؟  عندما تقرأها، هل تهمس تحت أنفاسك:
 
-> Awesome, I found the leader!  They lead the other providers around like cattle.  Then agin, they are ~a~ leading provider, not ~the~ leading provider, but still, one of the leaders!  I'm impressed.
+> رائع، لقد وجدت القائد!  إنهم يقودون مقدمي الخدمات الآخرين مثل الماشية.  ثم مرة أخرى، إنهم ~المزودون الرائدون، وليسوا ~المزودين الرائدين، ولكنهم يظلون أحد القادة!  أنا معجب.
 
-Nah.  At best you gloss over it--an [overused phrase, devoid of meaning](https://longform.asmartbear.com/authentic-is-dead/).  At worst you lose interest and click the "Back" button.
+ناه.  في أحسن الأحوال، تتجاهلها - [عبارة مفرطة الاستخدام، خالية من المعنى](https://longform.asmartbear.com/authentic-is-dead/).  في أسوأ الأحوال، تفقد الاهتمام وتنقر على زر "العودة".
 
-Perhaps the worst offender is the word "Solution." What is a "solution," and how does it differ from, say, a product?  The main menu of many web sites makes me choose between "Products" and "Solutions."  How oh how do I choose?
+ربما تكون أسوأ كلمة هي كلمة "الحل". ما هو "الحل" وكيف يختلف عن المنتج على سبيل المثال؟  القائمة الرئيسية للعديد من مواقع الويب تجعلني أختار بين "المنتجات" و"الحلول".  كيف يا كيف أختار؟
 
-My favorite example is AT Systems.  Their proud motto:
+المثال المفضل لدي هو AT Systems.  شعارهم الفخور:
 
 ![The system is the solution](https://longform.asmartbear.com/the-leading-provider/b7704165.png)
 
-Now that you know the company name and their motto, here comes the question: What do they do?  Turns out this printed on the side of an armored truck. They move money around. Oh?
+والآن بعد أن عرفت اسم الشركة وشعارها، هنا يأتي السؤال: ماذا يفعلون؟  تبين أن هذا مطبوع على جانب شاحنة مدرعة. إنهم ينقلون الأموال. أوه؟
 
-So back to the question: Why do marketing departments churn out meaningless phrases?
+لذا نعود إلى السؤال: لماذا تنتج أقسام التسويق عبارات لا معنى لها؟
 
-#### Possible Reason #1: Fear.
-Generic, widely-used phrases don't offend.  They avoid lawsuits; it's hard to sue over meaningless words.  This excuse might work at Big Company Inc, but in a startup you can't afford to be [bland](https://longform.asmartbear.com/is-it-ok-to-sucks/) and wishy-washy.
+#### السبب المحتمل رقم 1: الخوف.
+العبارات العامة المستخدمة على نطاق واسع لا تسيء.  يتجنبون الدعاوى القضائية. من الصعب مقاضاة الكلمات التي لا معنى لها.  قد ينجح هذا العذر في شركة Big Company Inc، ولكن في الشركة الناشئة لا يمكنك أن تكون [لطيفًا](https://longform.asmartbear.com/is-it-ok-to-sucks/) ومتمنّى.
 
-#### Possible Reason #2: Laziness.
-Saying "A leading provider of business solutions" is a lot easier than taking the time and effort to nail your message.  It's hard!  You have to know your customer, boil your company down to its essentials, and be succinct and evocative and [specific](https://longform.asmartbear.com/specificity/).  It's easier not to.
+#### السبب المحتمل رقم 2: الكسل.
+إن قول "مزود رائد لحلول الأعمال" أسهل كثيرًا من قضاء الوقت والجهد لتوصيل رسالتك.  إنه صعب!  عليك أن تعرف عميلك، وتلخص شركتك في أساسياتها، وأن تكون موجزًا ​​ومثيرًا للذكريات و[محددًا](https://longform.asmartbear.com/specity/).  من الأسهل عدم القيام بذلك.
 
-#### Possible Reason #3: Incompetence.
-What if you don't actually know what sets your product apart?  What if you can't articulate the niche your company owns?  What if you can't [describe your perfect customer](https://longform.asmartbear.com/icp-ideal-customer-persona/)?  Then you have to resort to generic phrases.
+#### السبب المحتمل رقم 3: عدم الكفاءة.
+ماذا لو كنت لا تعرف فعليًا ما الذي يميز منتجك؟  ماذا لو لم تتمكن من توضيح المجال الذي تمتلكه شركتك؟  ماذا لو لم تتمكن من [وصف عميلك المثالي](https://longform.asmartbear.com/icp-ideal-customer-persona/)؟  ثم عليك اللجوء إلى العبارات العامة.
 
-None of these excuses are valid, though. If you can't articulate your product in a few, choice, specific, words, your potential customers won't get it either. 
+لكن لا شيء من هذه الأعذار صحيح. إذا لم تتمكن من توضيح منتجك في بضع كلمات محددة ومختارة، فلن يفهمه عملاؤك المحتملون أيضًا.
 
-I'll leave you with a tragic example of what not to do.  See if you can guess what this company does:
+سأترككم مع مثال مأساوي لما لا يجب فعله.  انظر إذا كان بإمكانك تخمين ما تفعله هذه الشركة:
 
-> webMethods (Nasdaq: WEBM) provides business integration software to integrate, assemble and optimize available IT assets to drive business process productivity. webMethods delivers an innovative, enterprise-class business integration platform that incorporates proven integration technology with next generation capabilities into one interoperable set of tools that delivers a unique combination of efficiency, agility and control. webMethods combines industry leadership with a zealous commitment to customers to deliver tangible business value.
+> توفر شركة webMethods (Nasdaq: WEBM) برامج تكامل الأعمال لدمج وتجميع وتحسين أصول تكنولوجيا المعلومات المتاحة لتعزيز إنتاجية العمليات التجارية. توفر webMethods منصة تكامل أعمال مبتكرة على مستوى المؤسسات تتضمن تقنية تكامل مثبتة مع إمكانات الجيل التالي في مجموعة واحدة قابلة للتشغيل البيني من الأدوات التي توفر مزيجًا فريدًا من الكفاءة وخفة الحركة والتحكم. تجمع webMethods بين الريادة في الصناعة والالتزام الحماسي تجاه العملاء لتقديم قيمة أعمال ملموسة.
 
-Take a scalpel to your marketing content.  Make every word count.
+خذ مشرطًا إلى المحتوى التسويقي الخاص بك.  جعل كل كلمة العد.

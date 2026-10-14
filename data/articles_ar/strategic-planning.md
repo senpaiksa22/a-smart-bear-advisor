@@ -20,348 +20,329 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** التخطيط الاستراتيجي الفصلي: استخدام بنية القصة الخيالية في صياغة الأهداف تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Quarterly strategic planning using the fairytale structure
-
-> **Executive Summary:** Traditional fairytale structure fits naturally in our brains, and thus can guide strategic problem-analysis, and a plan that everyone understands.
-> **Original URL:** [https://longform.asmartbear.com/strategic-planning/](https://longform.asmartbear.com/strategic-planning/)
-
 ![case two kids chow down on witchs house then burn her alive](https://public.asmartbear.com/books/anthology/chapters/strategic-planning/d8067print-simple.png)
 
-Using the narrative structure of the fairytale, we can execute the classic "Double-Diamond" design pattern, driving our analysis, decision-making, actions, and our final exposition, in an intelligent, systematic way that everyone can easily understand.
+باستخدام البنية السردية للحكاية الخيالية، يمكننا تنفيذ نمط التصميم الكلاسيكي "الماسي المزدوج"، مما يقود تحليلنا وصنع القرار والإجراءات وعرضنا النهائي، بطريقة ذكية ومنهجية يمكن للجميع فهمها بسهولة.
 
-It's going to look like this:
+سوف يبدو مثل هذا:
 
-1. **Objectives:** What are we trying to get / what happens if we don't?
-2. **Obstacles:** What stands in our way?
-3. **Actions:** How do we overcome the obstacles while advancing our objectives?
-4. **Measures:** How will we know we've been successful?
-5. **Not Doing:** What important things have we chosen not to do, so that we can achieve the above?
+1. **الأهداف:** ما الذي نحاول الحصول عليه / ماذا يحدث إذا لم نفعل ذلك؟
+2. **العقبات:** ما الذي يقف في طريقنا؟
+3. **الإجراءات:** كيف يمكننا التغلب على العقبات أثناء تحقيق أهدافنا؟
+4. **الإجراءات:** كيف سنعرف أننا نجحنا؟
+5. **عدم القيام:** ما هي الأشياء المهمة التي اخترنا عدم القيام بها، حتى نتمكن من تحقيق ما سبق؟
 
-Now let's tap into humanity's collective unconscious, and see exactly how to run this framework in practice.
+الآن دعونا نستفيد من اللاوعي الجماعي للإنسانية، ونرى بالضبط كيفية تشغيل هذا الإطار عمليا.
 
-## The Fairytale cheat code
+## رمز الغش في القصص الخيالية
 
-The fairytale structure is thousands of years old, crossing all peoples of the globe, a reflection of a deep, shared humanity.
+يبلغ عمر بنية القصص الخيالية آلاف السنين، وهي تعبر عن جميع شعوب العالم، وهي انعكاس لإنسانية عميقة ومشتركة.
 
-You've heard it your entire life, from centuries-old childhood stories to [every Pixar film](https://www.aerogrammestudio.com/2013/06/05/back-to-the-story-spine/) to [advertising](https://twitter.com/theandreboso/status/1713910012051865602) to the news, so you need only a reminder, not an explanation:
+لقد سمعتها طوال حياتك، بدءًا من قصص الطفولة التي تعود إلى قرون مضت ووصولاً إلى [كل أفلام Pixar](https://www.aerogrammestudio.com/2013/06/05/back-to-the-story-spine/) ووصولاً إلى [الإعلانات](https://twitter.com/theandreboso/status/1713910012051865602) وحتى الأخبار، لذلك لا تحتاج إلا إلى تذكير، ليس تفسيرا:
 
-1. Once upon a time there was *<u>an unsuspecting hero</u>*.
-2. Every day, *<u>the way things are</u>*.
-3. But then, one day, *<u>change/event that motivates action</u>*.
-4. And so *<u>adventure begins</u>*.
-5. It was almost impossible because *<u>challenges/obstacles</u>*.
-6. Until finally *<u>victory</u>*.
-7. And forever after, *<u>the world is different</u>*.
+1. ذات مرة كان هناك *<u>بطل مطمئن</u>*.
+2. كل يوم، *<u>كما هي الأمور</u>*.
+3. ولكن بعد ذلك، في أحد الأيام، *<u>تغيير/حدث يحفز على العمل</u>*.
+4. وهكذا *<u>تبدأ المغامرة</u>*.
+5. كان الأمر شبه مستحيل بسبب *<u>التحديات/العقبات</u>*.
+6. حتى النهاية *<u>النصر</u>*.
+7. وبعد ذلك إلى الأبد، *<u>أصبح العالم مختلفًا</u>*.
 
-**Fairytale structure is a cheat code for effective communication**, as journalists have exploited for years. For example, this simple "case study" that I've used in sales calls at WP Engine takes less than a minute to tell:
+**بنية القصص الخيالية هي بمثابة رمز غش للتواصل الفعال**، وهو ما استغله الصحفيون لسنوات. على سبيل المثال، تستغرق "دراسة الحالة" البسيطة هذه التي استخدمتها في مكالمات المبيعات في WP Engine أقل من دقيقة لإخبارها:
 
-> One of our customers is ______. Like you, they are a popular food blogger, making money through advertising and occasional affiliate product sales. One Thanksgiving, on their busiest day of the year, their site crashed because of all the traffic; they missed out on thousands of dollars of revenue and hundreds of newsletter sign-ups. They moved their site to us, and that never happened again; they just focus on their work, build their brand and business, and never worry about technology.
+> أحد عملائنا هو ______. مثلك، هم مدونون مشهورون للطعام، ويكسبون المال من خلال الإعلانات ومبيعات المنتجات التابعة في بعض الأحيان. في أحد أيام عيد الشكر، وفي أكثر أيامهم ازدحامًا في العام، تعطل موقعهم بسبب كل حركة المرور؛ لقد فاتتهم عائدات بآلاف الدولارات ومئات الاشتراكات في النشرات الإخبارية. لقد نقلوا موقعهم إلينا، ولم يحدث ذلك مرة أخرى؛ إنهم يركزون فقط على عملهم، ويبنون علامتهم التجارية وأعمالهم، ولا يقلقون أبدًا بشأن التكنولوجيا.
 
-It's equally effective for presentations, fundraising, and product proposals--a ready-made outline, resulting in a straightforward narrative structure. **Our brains are pre-wired for fairy-tales**, so we naturally follow the presentation as it flows into those primordial ruts in our gray matter.
+إنها فعالة بنفس القدر بالنسبة للعروض التقديمية، وجمع التبرعات، ومقترحات المنتجات - مخطط تفصيلي جاهز، مما يؤدي إلى بنية سردية واضحة. **أدمغتنا مهيئة مسبقًا للحكايات الخيالية**، لذلك نتبع العرض التقديمي بشكل طبيعي وهو يتدفق إلى تلك الأخاديد البدائية في مادتنا الرمادية.
 
-A less obvious but extremely powerful application of this principle is in creating a **strategic plan**, i.e. **analyzing the current situation and deciding what needs to be done**. For a single team, this means being [in command](https://longform.asmartbear.com/in-command/) of the most critical things that need to be done right now. For a department at a larger company like WP Engine, this is how I build our quarterly strategic plans.[^1]
+هناك تطبيق أقل وضوحًا ولكنه قوي للغاية لهذا المبدأ وهو إنشاء **خطة إستراتيجية**، أي **تحليل الوضع الحالي وتحديد ما يجب القيام به**. بالنسبة لفريق واحد، هذا يعني أن تكون [مسيطرًا](https://longform.asmartbear.com/in-command/) على أهم الأشياء التي يجب القيام بها الآن. بالنسبة لقسم في شركة أكبر مثل WP Engine، هذه هي الطريقة التي أبني بها خططنا الإستراتيجية ربع السنوية.[^1]
 
-[^1]: It looks like I'm just slapping the word "strategic" on everything, to make it sound important. Indeed, people often do that. As you'll see, the purpose of this is to connect work to the strategy, so it really *is* strategic planning!
+[^1]: يبدو أنني أضع كلمة "إستراتيجي" على كل شيء فقط، لأجعلها تبدو مهمة. والواقع أن الناس غالبا ما يفعلون ذلك. وكما سترى، فإن الغرض من ذلك هو ربط العمل بالاستراتيجية، لذا فهو حقًا *تخطيط استراتيجي!
 
-Over the past two years, together with a few product teams at WP Engine, we've created and honed a simple but effective framework for the **Fairytale Plan**--strategic work-planning that has worked well both to drive the process of figuring out what the plan should even be, as well as communicating the result throughout the company. The process is akin to the widely-admired [Double-Diamond design process](https://en.wikipedia.org/wiki/Double_Diamond_%28design_process_model%29), and the final result matches the fairytale structure.
+على مدار العامين الماضيين، بالتعاون مع عدد قليل من فرق المنتجات في WP Engine، قمنا بإنشاء وصقل إطار عمل بسيط ولكنه فعال لـ **Fairytale Plan** - تخطيط العمل الاستراتيجي الذي نجح بشكل جيد في دفع عملية اكتشاف ما ينبغي أن تكون عليه الخطة، بالإضافة إلى توصيل النتيجة إلى جميع أنحاء الشركة. تشبه هذه العملية [عملية التصميم المزدوج الماسي] (https://en.wikipedia.org/wiki/Double_Diamond_%28design_process_model%29) التي تحظى بإعجاب واسع النطاق، وتتطابق النتيجة النهائية مع بنية القصص الخيالية.
 
-No wonder it works, and resonates with everyone.
+لا عجب أنه يعمل، ويتردد صداه مع الجميع.
 
-Here's how you can do this too.
+وإليك كيف يمكنك القيام بذلك أيضًا.
 
 ![understand burden exposition just see numbers](https://public.asmartbear.com/books/anthology/chapters/strategic-planning/d8412print-simple.png)
 
-## The narrative structure of the strategic Fairytale Plan
+## الهيكل السردي للخطة الخيالية الإستراتيجية
 
-Here's how our strategic plan will look, and the guiding questions that help us create each section.
+إليك كيف ستبدو خطتنا الإستراتيجية، والأسئلة التوجيهية التي تساعدنا في إنشاء كل قسم.
 
-|  | Strategic Plan Narrative | Guiding Questions |
-|:----|:----|:----|
-| **Objectives** | **We must advance our strategy by achieving these objectives.** <br/>  <br/> _Fairytale_ <br/> 1. Once upon a time... <br/> 2. Every day... <br/>  <br/>  | • What is happening now? <br/> • What do we want? <br/> • What happens if we don't get it? <br/> • If we weren't encumbered by roadblocks, with no distractions and no interruptions, how would we advance our strategy right now? <br/>  <br/>  |
-| **Obstacles** | **But obstacles stand in our way.** <br/>  <br/> _Fairytale_ <br/> 3. But then, one day... <br/> 5. Obstacles[^2] <br/>  <br/>  | • What is standing in the way[^3] of "what we want?" <br/> • What makes it difficult to achieve the objectives? <br/>  <br/>  |
-| **Actions** | **So here's what we're doing.** <br/>  <br/> _Fairytale_ <br/> 4. Adventure begins... <br/> 5. Tackling obstacles... <br/>  <br/>  | • How do we overcome the obstacles... <br/> • ...while advancing the objectives? <br/> • ...with the people and capabilities and strengths we currently have? <br/> • What changes need to be made, so that the answer becomes obvious? <br/>  <br/>  |
-| **Measures** | Here's how we'll know **whether we're making progress**, and **when we're finished.** <br/>  <br/> _Fairytale_ <br/> 6. Until victory... <br/> 7. The world anew. | • How will our company be different? <br/> • How will we know, objectively? |
-| **Not Doing** | **Important topics and ideas that we're not doing** (yet). | • What do we really _want_ to do, but have to wait so that even more important or urgent things can be done? <br/> • What did we leave out that is controversial? |
+|  | رواية الخطة الإستراتيجية | أسئلة إرشادية | |:----|:----|:----| | **الأهداف** | **يجب علينا تطوير استراتيجيتنا من خلال تحقيق هذه الأهداف.** <br/> <br/> _Fairytale_ <br/> 1. ذات مرة... <br/> 2. كل يوم... <br/> <br/> | • ماذا يحدث الآن؟ <br/> • ماذا نريد؟ <br/> • ماذا يحدث إذا لم نحصل عليه؟ <br/> • إذا لم نكن مثقلين بحواجز الطرق، دون أي تشتيتات أو انقطاعات، فكيف يمكننا تطوير استراتيجيتنا الآن؟ <br/> <br/> | | **العوائق** | **لكن العقبات تقف في طريقنا.** <br/> <br/> _Fairytale_ <br/> 3. ولكن ذات يوم... <br/> 5. العقبات[^2] <br/> <br/> | • ما الذي يعيق [^3] "ما نريده؟" <br/> • ما الذي يجعل من الصعب تحقيق الأهداف؟ <br/> <br/> | | **الإجراءات** | **إذًا، هذا ما نفعله.** <br/> <br/> _Fairytale_ <br/> 4. تبدأ المغامرة... <br/> 5. التغلب على العقبات... <br/> <br/> | • كيف نتغلب على العقبات...<br/> • ...مع تحقيق الأهداف؟ <br/> • ...مع الأشخاص والقدرات ونقاط القوة التي نمتلكها حاليًا؟ <br/> • ما هي التغييرات التي يجب إجراؤها حتى تصبح الإجابة واضحة؟ <br/> <br/> | | **التدابير** | إليك كيف سنعرف **ما إذا كنا نحرز تقدمًا**، و**متى ننتهي.** <br/> <br/> _Fairytale_ <br/> 6. حتى النصر... <br/> 7. العالم من جديد. | • كيف ستكون شركتنا مختلفة؟ <br/> • كيف سنعرف بشكل موضوعي؟ | | **لا تفعل** | **مواضيع وأفكار مهمة لم نقم بتنفيذها** (حتى الآن). | • ما الذي _نريد_ أن نفعله حقًا، ولكن يتعين علينا الانتظار حتى نتمكن من إنجاز الأمور الأكثر أهمية أو إلحاحًا؟ <br/> • ما الذي تركناه مثيرًا للجدل؟ |
 
-[^2]: In a fairytale it's fun to surprise the hero with obstacles. Our plan must do the opposite: Clarify the obstacles up front.
+[^2]: في القصص الخيالية، من الممتع مفاجأة البطل بالعقبات. خطتنا يجب أن تفعل العكس: توضيح العقبات في المقدمة.
 
-[^3]: There are many kinds of obstacles: internal execution challenges, interruptions, dependencies, competitive pressure, market dynamics, just to name a few.
+[^3]: هناك العديد من أنواع العقبات: تحديات التنفيذ الداخلي، والانقطاعات، والتبعيات، والضغوط التنافسية، وديناميكيات السوق، على سبيل المثال لا الحصر.
 
-There are techniques and pitfalls for each of these sections. Here's how to navigate it:
+هناك تقنيات ومزالق لكل قسم من هذه الأقسام. وإليك كيفية التنقل فيه:
 
-## Strategic Objectives
+## الأهداف الاستراتيجية
 
-#### Narrative Plot Point
+#### نقطة مؤامرة السرد
 
-We must advance our strategy by achieving these objectives.
+وعلينا أن نطور استراتيجيتنا من خلال تحقيق هذه الأهداف.
 
-#### Guiding question
+#### سؤال توجيهي
 
-If we weren't encumbered by roadblocks, with no distractions and no interruptions, how would we advance our strategy right now?
+إذا لم نكن مثقلين بحواجز الطرق، دون أي تشتيت أو انقطاع، فكيف يمكننا تطوير استراتيجيتنا الآن؟
 
-#### Why can't we skip this section?
+#### لماذا لا نستطيع تخطي هذا القسم؟
 
-If you run very fast in the wrong direction, you fail. This names the right direction.
+إذا ركضت بسرعة كبيرة في الاتجاه الخاطئ، فسوف تفشل. وهذا يسمي الاتجاه الصحيح.
 
 ---
 
 ![i think i see why were not getting anywhere](https://public.asmartbear.com/books/anthology/chapters/strategic-planning/d8072print-simple.png)
 
-Objectives shouldn't summarize the entire strategy; your [strategy document](https://longform.asmartbear.com/great-strategy/) already does that. Instead, link to that document for reference, and highlight 1-3 specific objectives as the subset of the strategy that make sense to advance right now.
+لا ينبغي أن تلخص الأهداف الاستراتيجية بأكملها؛ إن [وثيقة الإستراتيجية] (https://longform.asmartbear.com/great-strategy/) الخاصة بك تقوم بذلك بالفعل. بدلاً من ذلك، قم بالارتباط بهذه الوثيقة كمرجع، وقم بتسليط الضوء على 1-3 أهداف محددة باعتبارها مجموعة فرعية من الإستراتيجية التي من المنطقي التقدم فيها الآن.
 
-"Right now" is the difference between this _plan_ and your _strategy_. The strategy is the long-term vision and the main ways that you will achieve it. The plan is where you select the specific next steps that materially advance the strategy while achieving results that you need today. "Results today" is typically revenue growth, cost reduction, or some internal transformation.
+"الآن" هو الفرق بين هذه _الخطة_و_إستراتيجيتك_. الإستراتيجية هي الرؤية طويلة المدى والطرق الرئيسية التي ستحققها بها. الخطة هي المكان الذي تحدد فيه الخطوات التالية المحددة التي تعمل على تطوير الإستراتيجية بشكل ملموس مع تحقيق النتائج التي تحتاجها اليوم. "النتائج اليوم" عادة ما تكون نمو الإيرادات، أو خفض التكاليف، أو بعض التحول الداخلي.
 
-Later in the process of creating the plan, when you're determining _how_ to achieve these objectives while also dealing with the obstacles, you might get stuck, unable to invent anything that works. In that case, you might need to choose different objectives. Or you might decide that "eliminating obstacles" is all you can accomplish right now--unfortunate, but useful to declare if true. During the planning process you should expect and even encourage fluidity between exploring the problem-space and solution-space.
+في وقت لاحق من عملية إنشاء الخطة، عندما تحدد كيفية تحقيق هذه الأهداف مع التعامل أيضًا مع العقبات، قد تتعثر، غير قادر على اختراع أي شيء ناجح. في هذه الحالة، قد تحتاج إلى اختيار أهداف مختلفة. أو قد تقرر أن "إزالة العوائق" هو ​​كل ما يمكنك إنجازه الآن - وهو أمر مؤسف، ولكن من المفيد إعلان ما إذا كان ذلك صحيحًا. أثناء عملية التخطيط، يجب أن تتوقع، بل وتشجع، الانسيابية بين استكشاف مساحة المشكلة ومساحة الحل.
 
-The specific objectives will evolve over time, but it's OK if they're the same for a few quarters in a row. Indeed, that gives the team stability and focus. How do you know if you're sticking with an objective for too long? Later you'll be asking the question "how will the world be different." If there are good answers, then we'll know whether we're making progress, despite the objectives remaining the same.
+سوف تتطور الأهداف المحددة مع مرور الوقت، ولكن لا بأس إذا كانت هي نفسها لبضعة أرباع متتالية. في الواقع، هذا يمنح الفريق الاستقرار والتركيز. كيف تعرف إذا كنت متمسكًا بهدف ما لفترة طويلة جدًا؟ لاحقًا ستطرح السؤال "كيف سيكون العالم مختلفًا". إذا كانت هناك إجابات جيدة، فسنعرف ما إذا كنا نحرز تقدمًا، على الرغم من بقاء الأهداف كما هي.
 
-## Obstacles
+## عوائق
 
-#### Narrative Plot Point
+#### نقطة مؤامرة السرد
 
-But obstacles stand in our way.
+لكن العقبات تقف في طريقنا.
 
-#### Guiding question
+#### سؤال توجيهي
 
-What is preventing us from making rapid progress on the objectives?
+ما الذي يمنعنا من إحراز تقدم سريع في تحقيق الأهداف؟
 
-#### Why can't we skip this section?
+#### لماذا لا نستطيع تخطي هذا القسم؟
 
-Often the most important business challenges appear here, not in the objectives. This is where you face difficult truths about your current situation, which will ensure the work you select will actually overcome them.
+في كثير من الأحيان تظهر تحديات العمل الأكثر أهمية هنا، وليس في الأهداف. هذا هو المكان الذي تواجه فيه الحقائق الصعبة بشأن وضعك الحالي، مما سيضمن أن العمل الذي تختاره سوف يتغلب عليها بالفعل.
 
 ---
 
-> "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions."  
-> --Albert Einstein.
+> "إذا كان لدي ساعة لحل مشكلة ما، فسوف أقضي 55 دقيقة في التفكير في المشكلة و5 دقائق في التفكير في الحلول."
+> - ألبرت أينشتاين.
 
-I agree with Einstein (but then, who among us is in a position to argue against Einstein?). This is the most important section, and often where you'll spend the most time.
+أنا أتفق مع أينشتاين (ولكن من منا في وضع يسمح له بمجادلة أينشتاين؟). هذا هو القسم الأكثر أهمية، وغالبًا ما ستقضي فيه معظم الوقت.
 
-**You'll be tempted to ignore Einstein, but it is crucial that you do not.** You'll want to jump right to the solution. You'll say you've already talked about this stuff, and you know what to do. You'll say you don't want to rehash all our challenges; let's cut to the action.
+**قد تميل إلى تجاهل أينشتاين، ولكن من المهم ألا تفعل ذلك.** سوف ترغب في القفز مباشرة إلى الحل. ستقول أنك تحدثت بالفعل عن هذه الأشياء، وأنك تعرف ما يجب عليك فعله. ستقول أنك لا تريد إعادة صياغة كل التحديات التي نواجهها؛ دعونا ننتقل إلى العمل.
 
-I understand, I feel the same way. I want to activate on any reasonably-good idea right away. But without fully exploring the problem-space, you're not in a position to even know the goal of the solution-space. You'll just keep repeating mistakes, keep [avoiding the difficult truths](https://longform.asmartbear.com/failure-to-face-the-truth/), and you won't improve.
+أنا أفهم، أشعر بنفس الطريقة. أريد تفعيل أي فكرة جيدة إلى حد معقول على الفور. لكن بدون استكشاف مساحة المشكلة بشكل كامل، فأنت لست في وضع يسمح لك حتى بمعرفة الهدف من مساحة الحل. سوف تستمر في تكرار الأخطاء، وتستمر في [تجنب الحقائق الصعبة](https://longform.asmartbear.com/failure-to-face-the-truth/)، ولن تتحسن.
 
-It's important to generate many options first; only by exploring the whole space will you uncover the things which are the _most_ important to solve now. Your team will thank you for the clarity, not only about what they need to tackle, but what they're allowed to leave alone, even though it's on fire.
+من المهم إنشاء العديد من الخيارات أولاً؛ فقط من خلال استكشاف المساحة بأكملها، ستتمكن من اكتشاف الأشياء الأكثر أهمية لحلها الآن. سوف يشكرك فريقك على الوضوح، ليس فقط فيما يتعلق بما يحتاجون إلى معالجته، ولكن أيضًا بشأن ما يُسمح لهم بتركه بمفردهم، على الرغم من أن الأمر مشتعل.
 
-Here are some types of obstacles you should explore, in no particular order:
+فيما يلي بعض أنواع العقبات التي يجب عليك استكشافها، دون ترتيب معين:
 
-#### Difficulty executing the strategy: "Why is this hard?"
-Executing the strategy might be intrinsically difficult, like building something we've never built before (thus maximally risky and uncertain), or having to create novel algorithms, or having to deploy infrastructure [at scale](https://longform.asmartbear.com/scale-rare/), or pivots, rewriting, rebranding, or repositioning that will take intense effort and coordination. Whatever makes our strategic goals difficult or risky, is an obstacle that is definitionally strategic to remove.
+#### صعوبة تنفيذ الاستراتيجية: "لماذا هذا الأمر صعب؟"
+قد يكون تنفيذ الإستراتيجية أمرًا صعبًا بشكل جوهري، مثل بناء شيء لم نقم ببنائه من قبل (وبالتالي يكون محفوفًا بالمخاطر وغير مؤكد إلى أقصى حد)، أو الاضطرار إلى إنشاء خوارزميات جديدة، أو الاضطرار إلى نشر البنية التحتية [على نطاق واسع](https://longform.asmartbear.com/scale-rare/)، أو المحاور، أو إعادة الكتابة، أو إعادة تسمية العلامة التجارية، أو إعادة التموضع، الأمر الذي سيتطلب جهدًا وتنسيقًا مكثفين. كل ما يجعل أهدافنا الإستراتيجية صعبة أو محفوفة بالمخاطر، هو عقبة يجب إزالتها بشكل استراتيجي.
 
-#### Team challenges: Humans are hard.
-Do we have the right skillsets on the team? The right experience levels? The right motivation? Are they burned-out? Is there enough people to do all the work?
+#### تحديات الفريق: البشر صعبون.
+هل نمتلك المهارات المناسبة في الفريق؟ مستويات الخبرة الصحيحة؟ الدافع الصحيح؟ هل هم محترقون؟ هل هناك ما يكفي من الناس للقيام بكل العمل؟
 
-#### Competitive pressure
-Is a competitor winning business in a way that demands a response, even if it's not directly related to our long-term strategy?
+#### الضغط التنافسي
+هل يفوز المنافس بالعمل بطريقة تتطلب الاستجابة، حتى لو لم يكن ذلك مرتبطًا بشكل مباشر بإستراتيجيتنا طويلة المدى؟
 
-#### Customer retention
-Are customers leaving at high rates,[^4] and therefore we have to address that immediately even if it's unrelated to our long-term strategy?
+#### الاحتفاظ بالعملاء
+هل يغادر العملاء بمعدلات مرتفعة،[^4] وبالتالي يتعين علينا معالجة ذلك على الفور حتى لو لم يكن الأمر مرتبطًا بإستراتيجيتنا طويلة المدى؟
 
-#### Interruptions
-Are we dealing with interrupt-driven work instead of planned work, such that we're unable to make enough progress on strategic work? Do we need to do work to reduce the frequency or magnitude of the interruptions, perhaps through automation or rejecting certain types of work?
+#### انقطاعات
+هل نتعامل مع العمل القائم على المقاطعة بدلاً من العمل المخطط له، بحيث لا نكون قادرين على تحقيق تقدم كافٍ في العمل الاستراتيجي؟ هل نحن بحاجة إلى القيام بالعمل لتقليل تكرار أو حجم الانقطاعات، ربما من خلال الأتمتة أو رفض أنواع معينة من العمل؟
 
-#### Too many bugs
-Are we failing on our basic promises to our customers of quality and performance, due to mounting bugs or other issues? Do we need to attack those now, even if they are unrelated to our long-term vision?
+#### الكثير من الأخطاء
+هل نفشل في الوفاء بوعودنا الأساسية لعملائنا فيما يتعلق بالجودة والأداء، بسبب تزايد الأخطاء أو مشكلات أخرى؟ هل نحتاج إلى مهاجمة هذه الأمور الآن، حتى لو لم تكن ذات صلة برؤيتنا طويلة المدى؟
 
-#### Dependencies / coordination
-Is it impossible for us to execute or deploy or iterate, due to some other team or process or platform or architecture? Do we need special coordination of work in order to achieve our own goals?
+#### التبعيات / التنسيق
+هل من المستحيل بالنسبة لنا التنفيذ أو النشر أو التكرار بسبب فريق أو عملية أو منصة أو بنية أخرى؟ هل نحتاج إلى تنسيق خاص للعمل من أجل تحقيق أهدافنا؟
 
-#### Process bottlenecks
-Are our tools getting in our own way? Is our process preventing throughput? Not just nice-to-have improvements, but step-changes in our productivity, and likely also our happiness?
+#### اختناقات العملية
+هل أدواتنا تعترض طريقنا؟ هل عمليتنا تمنع الإنتاجية؟ ليس مجرد تحسينات لطيفة، بل تغييرات تدريجية في إنتاجيتنا، ومن المحتمل أيضًا أن تكون سعادتنا؟
 
-#### Market evolution
-Are there trends that are making our current product or positioning less effective or less relevant? Does this even mean our strategy needs to change, to keep up with the changing external landscape?
+#### تطور السوق
+هل هناك اتجاهات تجعل منتجنا الحالي أو موضعنا أقل فعالية أو أقل أهمية؟ فهل يعني هذا أن استراتيجيتنا تحتاج إلى التغيير لمواكبة المشهد الخارجي المتغير؟
 
-[^4]: My rule of thumb for "what is a 'good' cancellation rate" is: 3%/mo for consumer, 2%/mo for small business, 1%/mo for enterprise. [More on that here](https://longform.asmartbear.com/product-market-fit/).
+[^4]: قاعدتي الأساسية حول "ما هو معدل الإلغاء "الجيد" هي: 3%/شهريًا للمستهلك، 2%/شهريًا للشركات الصغيرة، 1%/شهريًا للمؤسسات. [المزيد عن ذلك هنا](https://longform.asmartbear.com/product-market-fit/).
 
-Narrow these down to 1-3 most critical issues. The guiding question is: Which are the few issues where, if we solved them or took a huge bite out of them, but allowed all others to fester without any progress whatsoever, we would have substantially improved our velocity, or competitiveness, or team dynamic, or retention rate, or something similarly critical. Whereas if we allowed those few issues to go untreated, then even if we completely solved five others, we would still be unable to achieve our strategic objectives?
+قم بتضييق نطاق هذه المشكلات إلى 1-3 قضايا أكثر أهمية. والسؤال التوجيهي هو: ما هي المشكلات القليلة التي، إذا قمنا بحلها أو أخذنا منها جزءًا كبيرًا، ولكن سمحنا لجميع المشكلات الأخرى بالتفاقم دون أي تقدم على الإطلاق، كنا سنحسن بشكل كبير من سرعتنا، أو قدرتنا التنافسية، أو ديناميكية الفريق، أو معدل الاحتفاظ، أو أي شيء بالغ الأهمية مماثل. أما إذا سمحنا لهذه القضايا القليلة بالمرور دون معالجة، فحتى لو قمنا بحل خمس قضايا أخرى بشكل كامل، فإننا سنظل غير قادرين على تحقيق أهدافنا الاستراتيجية؟
 
-If that question is still hard to answer, then as a guideline I like the following order of precedence. That is, if you have a _serious_ problem in some of these categories, I generally pick whichever comes first:
+إذا كانت الإجابة على هذا السؤال لا تزال صعبة، فكمبدأ توجيهي أحب ترتيب الأسبقية التالي. أي أنه إذا كانت لديك مشكلة _خطيرة_ في بعض هذه الفئات، فإنني عمومًا أختار أيهما يأتي أولاً:
 
-1. Retention (if customers are leaving, the business model and product isn't working)
-2. People (must have the right team)
-3. Throughput (can't do enough strategic work per month)
-4. Growth ([Details on how to tackle growth challenges](https://longform.asmartbear.com/growth-asymptote/))
-5. Competition
-6. Health of the code base
-7. Execution risk
+1. الاحتفاظ (إذا غادر العملاء، فإن نموذج العمل والمنتج لا يعملان)
+2. الأشخاص (يجب أن يكون لديهم الفريق المناسب)
+3. الإنتاجية (لا أستطيع القيام بما يكفي من العمل الاستراتيجي شهريًا)
+4. النمو ([تفاصيل حول كيفية مواجهة تحديات النمو](https://longform.asmartbear.com/growth-asymptote/))
+5. مسابقة
+6. صحة قاعدة الكود
+7. مخاطر التنفيذ
 
-> "A perfect formulation of a problem is already half its solution."  
-> --David Hilbert
+> "إن الصياغة المثالية للمشكلة هي بالفعل نصف حلها."
+> --ديفيد هيلبرت
 
-## Main Activities
+## الأنشطة الرئيسية
 
-#### Narrative Plot Point
+#### نقطة مؤامرة السرد
 
-Here's what we're doing.
+وهنا ما نقوم به.
 
-#### Guiding question
+#### سؤال توجيهي
 
-How do we overcome or side-step the obstacles, while advancing the strategic objectives, with our current people and capacity?
+كيف يمكننا التغلب على العقبات أو تجنبها، مع تعزيز الأهداف الاستراتيجية، مع موظفينا وقدراتنا الحالية؟
 
-#### Why can't we skip this section?
+#### لماذا لا نستطيع تخطي هذا القسم؟
 
-If you don't select a few, large, impactful things to do ("Rocks"), you will wile away your time chipping away at incremental things, believing that you're making progress because you are "agile," but in fact not tearing down the obstacles nor achieving the objectives quickly enough.
+إذا لم تقم باختيار عدد قليل من الأشياء الكبيرة والمؤثرة للقيام بها ("الصخور")، فسوف تضيع وقتك في تقطيع الأشياء الإضافية، معتقدًا أنك تحرز تقدمًا لأنك "رشيق"، ولكن في الواقع لا تزيل العقبات ولا تحقق الأهداف بسرعة كافية.
 
 ---
 
 ![witch old lady children deal](https://public.asmartbear.com/books/anthology/chapters/strategic-planning/d8705print-simple.png)
 
-While putting your finger on the crux of the challenges is often the most emotionally-difficult part, deciding what to do is the most intellectually-difficult. It's hard to think of great ideas, and no framework or process magically causes you to be creative and insightful.
+في حين أن وضع إصبعك على جوهر التحديات غالبًا ما يكون الجزء الأكثر صعوبة عاطفيًا، فإن تحديد ما يجب فعله هو الجزء الأكثر صعوبة فكريًا. من الصعب التفكير في أفكار عظيمة، ولا يوجد إطار عمل أو عملية تجعلك مبدعًا وبصيرًا.
 
-As with obstacles, you should start in "generation mode," coming up with as many ideas as possible, before switching into "selection" mode, where you pick which ones to do. You should already have [queues of ideas from around the company](https://longform.asmartbear.com/jit-backlogs/); if not, now is a good time to create some. If you're having trouble coming up with creative ideas, use [Extreme Brainstorming](https://longform.asmartbear.com/extreme-questions/) to shake things up.
+كما هو الحال مع العقبات، يجب أن تبدأ في "وضع التوليد"، والخروج بأكبر عدد ممكن من الأفكار، قبل التبديل إلى وضع "الاختيار"، حيث يمكنك اختيار الأفكار التي تريد تنفيذها. يجب أن يكون لديك بالفعل [قائمة انتظار من الأفكار من جميع أنحاء الشركة](https://longform.asmartbear.com/jit-backlogs/)؛ إذا لم يكن الأمر كذلك، فهذا هو الوقت المناسب لإنشاء بعضها. إذا كنت تواجه مشكلة في التوصل إلى أفكار إبداعية، فاستخدم [العصف الذهني الشديد](https://longform.asmartbear.com/extreme-questions/) لتغيير الأمور.
 
-If you're having trouble figuring out how to deal with the obstacles, consider the parable of Herbie (from [_The Goal_](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951) by Eliyahu M. Goldratt). A group of hikers are climbing a mountain. One hiker--Herbie--is constantly falling behind, preventing the group from achieving their goal of reaching the summit. There are three ways to deal with Herbie: (1) Leave Herbie behind; (2) Help Herbie get better; (3) Decide that you're not going to achieve your goal. These options help you think of solutions; respectively: (1) Let that problem burn or ignore certain work that you've been assuming "must" be done; (2) Do extra work that mitigates the problem; (3) Change your objectives to something you can actually achieve.
+إذا كنت تواجه مشكلة في معرفة كيفية التعامل مع العقبات، ففكر في حكاية هيربي (من [_The Goal_](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951) بقلم Eliyahu M. Goldratt). مجموعة من المتنزهين يتسلقون الجبل. أحد المتنزهين - هيربي - يتخلف باستمرار عن الركب، مما يمنع المجموعة من تحقيق هدفهم المتمثل في الوصول إلى القمة. هناك ثلاث طرق للتعامل مع هيربي: (1) اترك هيربي خلفك؛ (2) ساعد هيربي على التحسن؛ (3) قرر أنك لن تحقق هدفك. تساعدك هذه الخيارات على التفكير في الحلول؛ على التوالي: (1) دع هذه المشكلة تتجاهل أو تتجاهل عملًا معينًا كنت تفترض أنه "يجب" القيام به؛ (2) القيام بعمل إضافي يخفف من حدة المشكلة؛ (3) قم بتغيير أهدافك إلى شيء يمكنك تحقيقه بالفعل.
 
-Often the best solutions come from [synthesizing several ideas](https://longform.asmartbear.com/conflicting-choices/). For example, often at WP Engine an idea that increases website performance for our customers also decreases our costs, because it takes less CPU time or fewer bytes transferred over the internet to accomplish the same end result. This is another reason to use things like [Extreme Brainstorming](https://longform.asmartbear.com/extreme-questions/); even if an individual idea is bonkers, it might be synthesized with a practical idea into a great solution.
+غالبًا ما تأتي أفضل الحلول من [تجميع عدة أفكار](https://longform.asmartbear.com/conflicting-choices/). على سبيل المثال، في كثير من الأحيان في WP Engine، تؤدي فكرة زيادة أداء موقع الويب لعملائنا أيضًا إلى تقليل تكاليفنا، لأنها تستغرق وقتًا أقل لوحدة المعالجة المركزية أو عددًا أقل من وحدات البايت المنقولة عبر الإنترنت لتحقيق نفس النتيجة النهائية. وهذا سبب آخر لاستخدام أشياء مثل [العصف الذهني الشديد](https://longform.asmartbear.com/extreme-questions/)؛ حتى لو كانت الفكرة الفردية مجنونة، فمن الممكن دمجها مع فكرة عملية للحصول على حل رائع.
 
 ![ok but if we work together whammodepth perception](https://public.asmartbear.com/books/anthology/chapters/strategic-planning/d8070print-simple.png)
 
-For the final selection process I recommend the [Binstack method](https://longform.asmartbear.com/maximized-decision/), because you're picking one or just a few critical big things to do. Your objectives and obstacles act as natural filters, immediately eliminating anything that doesn't directly address those, but allowing yourself a few secondary prioritization dimensions.
+بالنسبة لعملية الاختيار النهائية، أوصي باستخدام [طريقة Binstack](https://longform.asmartbear.com/maximized-decision/)، لأنك تختار واحدًا أو بضعة أشياء كبيرة مهمة للقيام بها. تعمل أهدافك وعقباتك كمرشحات طبيعية، حيث تقضي على الفور على أي شيء لا يعالج تلك الأهداف والعقبات بشكل مباشر، ولكن تسمح لنفسك ببعض أبعاد الأولويات الثانوية.
 
-You might be tempted to use an [ROI analysis](https://longform.asmartbear.com/roi-rubric/), but this is the wrong framework. ROI is good for smaller activities, where the goal is to find the "best use of time." For your most critical pieces of work, the goal is not to optimize your time, but rather to maximize your impact on the most critical things.
+قد تميل إلى استخدام [تحليل عائد الاستثمار](https://longform.asmartbear.com/roi-rubric/)، ولكن هذا هو الإطار الخاطئ. يعد عائد الاستثمار مفيدًا للأنشطة الصغيرة، حيث يكون الهدف هو العثور على "أفضل استخدام للوقت". بالنسبة لأعمالك الأكثر أهمية، فإن الهدف ليس تحسين وقتك، بل زيادة تأثيرك إلى أقصى حد على الأشياء الأكثر أهمية.
 
-See this [Rocks, Pebbles, and Sand work-planning framework](https://longform.asmartbear.com/rocks-pebbles-sand/) for a complete system that covers all kinds of work, including these most-critical activities and medium-sized work where ROI analysis is appropriate.
+راجع [إطار عمل تخطيط عمل الصخور والحصى والرمال](https://longform.asmartbear.com/rocks-pebbles-sand/) للحصول على نظام كامل يغطي جميع أنواع العمل، بما في ذلك هذه الأنشطة الأكثر أهمية والأعمال متوسطة الحجم حيث يكون تحليل عائد الاستثمار مناسبًا.
 
-> "A successful solution to a problem makes the problem appear to have been nonexistent in the first place."  
-> --[James Surowiecki](https://twitter.com/JamesSurowiecki)
+> "الحل الناجح لمشكلة ما يجعل المشكلة تبدو وكأنها غير موجودة في المقام الأول."
+> --[جيمس سوروفيكي](https://twitter.com/JamesSurowiecki)
 
-## Metrics & Indicators
+## المقاييس والمؤشرات
 
-#### Narrative Plot Point
+#### نقطة مؤامرة السرد
 
-Here's how we'll know whether we're making progress, and when we're finished.
+إليك كيف سنعرف ما إذا كنا نحرز تقدمًا أم لا، ومتى ننتهي.
 
-#### Guiding question
+#### سؤال توجيهي
 
-How will we know whether it's working? What is changing? What did we learn?
+كيف سنعرف ما إذا كان يعمل؟ ما الذي يتغير؟ ماذا تعلمنا؟
 
-#### Why can't we skip this section?
+#### لماذا لا نستطيع تخطي هذا القسم؟
 
-It's easier to avoid accountability, believing that hard work and high throughput is the same as having an impact. Saying "focus on inputs, not outputs," which is true when executing work but false if it means we're not actually getting the outputs we need. We must not let ourselves off the hook, but neither should be measure ourselves against metrics we don't believe in, or insist that all important things can be boiled down to a number.
+من الأسهل تجنب المساءلة، معتقدًا أن العمل الجاد والإنتاجية العالية يعنيان إحداث تأثير. إن قول "التركيز على المدخلات، وليس المخرجات"، يكون صحيحًا عند تنفيذ العمل ولكنه غير صحيح إذا كان يعني أننا لا نحصل فعليًا على المخرجات التي نحتاجها. لا ينبغي لنا أن نسمح لأنفسنا بالخروج من هذا المأزق، ولكن لا ينبغي لنا أن نقيس أنفسنا بمقاييس لا نؤمن بها، أو نصر على أن كل الأشياء المهمة يمكن اختزالها في أرقام.
 
 ---
 
 ![weve got three sides now i think were making good progress](https://public.asmartbear.com/books/anthology/chapters/strategic-planning/d7887print-simple.png)
 
-The "Activities" are supposed to make progress on the objectives, but how will we know if that's actually happening? They're supposed to deflating the challenges, but are they really getting eliminated?
+من المفترض أن تحقق "الأنشطة" تقدمًا في تحقيق الأهداف، ولكن كيف سنعرف ما إذا كان هذا يحدث بالفعل؟ من المفترض أن يقوموا بتقليل التحديات، لكن هل سيتم القضاء عليهم حقًا؟
 
-In the ideal case, we should measure progress with numbers that are objective, well-defined, measured daily, and have a clear "stopping-point" where we can declare victory. But we all know that most things we can measure aren't so ideal, and sometimes the most important things aren't a number.
+في الحالة المثالية، يتعين علينا أن نقيس التقدم بأرقام موضوعية، ومحددة بشكل جيد، ويتم قياسها يومياً، ولها "نقطة توقف" واضحة يمكننا من خلالها إعلان النصر. لكننا نعلم جميعًا أن معظم الأشياء التي يمكننا قياسها ليست مثالية، وأحيانًا لا تكون الأشياء الأكثر أهمية أرقامًا.
 
-To the extent that important things _are_ numbers, use this [KPI framework](https://longform.asmartbear.com/product-metrics/) to decide what things should be measured, and as a checklist of what a "good" metric is.
+إلى الحد الذي تكون فيه الأشياء المهمة أرقامًا، استخدم [إطار عمل مؤشرات الأداء الرئيسية](https://longform.asmartbear.com/product-metrics/) لتحديد الأشياء التي يجب قياسها، وكقائمة مرجعية لماهية المقياس "الجيد".
 
-For concepts that are not a number, capture their essence in writing. Make the language crisp and obvious not only inside the team but to outside stakeholders. Nowadays you can use AI to take a rambling audio description and turn it into a pithy statement. An example might be: "Be revered as the most innovative product in the category" or "Have the best social media content."
+بالنسبة للمفاهيم التي ليست رقمًا، سجل جوهرها كتابيًا. اجعل اللغة واضحة وواضحة ليس فقط داخل الفريق ولكن أيضًا لأصحاب المصلحة الخارجيين. في الوقت الحاضر، يمكنك استخدام الذكاء الاصطناعي للحصول على وصف صوتي متشعب وتحويله إلى بيان بليغ. على سبيل المثال، قد يكون: "أن تحظى بالاحترام باعتباره المنتج الأكثر ابتكارًا في الفئة" أو "احصل على أفضل محتوى على وسائل التواصل الاجتماعي".
 
-These statements can be surprisingly powerful despite not being connected to a number. Even when people disagree later whether we're making progress against them, those are exactly the right sorts of debates to have, because you're sorting out how things are going, and whether you should make a change. That's the point of metrics.
+يمكن أن تكون هذه العبارات قوية بشكل مدهش على الرغم من عدم ارتباطها برقم. حتى عندما يختلف الناس لاحقًا حول ما إذا كنا نحرز تقدمًا ضدهم، فهذه هي بالضبط الأنواع الصحيحة من المناقشات التي يجب إجراؤها، لأنك تقوم بفرز كيفية سير الأمور، وما إذا كان يجب عليك إجراء تغيير. هذه هي نقطة المقاييس.
 
-## Not Doing
+## لا تفعل
 
-#### Narrative Plot Point
+#### نقطة مؤامرة السرد
 
-Here's what we're _not_ doing (yet).
+إليك ما لم نفعله (حتى الآن).
 
-#### Guiding question
+#### سؤال توجيهي
 
-What do we really _want_ to do, but we just have to wait so that even more important or urgent things can be done?
+ما الذي نريد فعله حقًا، ولكن علينا فقط الانتظار حتى نتمكن من القيام بأشياء أكثر أهمية أو إلحاحًا؟
 
-#### Why can't we skip this section?
+#### لماذا لا نستطيع تخطي هذا القسم؟
 
-Decisions are about [saying "no"](https://longform.asmartbear.com/say-yes/) even more than saying "yes." Without articulating the "no's," the team is less focused, the decisions are less clear, and stakeholders wonder whether you're even aware of the problems that you chose not to tackle.
+تتعلق القرارات بـ [قول "لا"](https://longform.asmartbear.com/say-yes/) أكثر من قول "نعم". وبدون توضيح "اللاءات"، يصبح الفريق أقل تركيزًا، والقرارات أقل وضوحًا، ويتساءل أصحاب المصلحة عما إذا كنت على دراية بالمشكلات التي اخترت عدم معالجتها.
 
 ---
 
-> "The difference between successful people and really successful people is that really successful people say no to almost everything."  
-> --Warren Buffett
+> "الفرق بين الأشخاص الناجحين والأشخاص الناجحين حقًا هو أن الأشخاص الناجحين حقًا يقولون لا لكل شيء تقريبًا."
+> --وارن بافيت
 
-Deciding to do a few things always means deciding not to do dozens of other things.
+إن اتخاذ قرار بالقيام ببعض الأشياء يعني دائمًا اتخاذ قرار بعدم القيام بالعشرات من الأشياء الأخرى.
 
-"Well, not doing them _for now_" we like to say, to put the listener at ease. But actually, most of them are "not ever," because we [always have 10x more ideas](https://longform.asmartbear.com/prioritization/) than we have time to execute. That's the lesson of every Jira backlog, feature-collection system, or prioritization spreadsheet.
+"حسنًا، لا أفعل ذلك _في الوقت الحالي_" نحب أن نقول لتهدئة المستمع. لكن في الواقع، معظمها "ليس أبدًا"، لأننا [لدينا دائمًا أفكار أكثر بعشرة أضعاف](https://longform.asmartbear.com/prioritization/) مما لدينا من الوقت للتنفيذ. هذا هو الدرس المستفاد من كل تراكمات Jira، أو نظام جمع الميزات، أو جدول بيانات تحديد الأولويات.
 
-When you don't articulate what we're _not_ doing, it can appear that you don't even know those things exist. Perception is reality. Stakeholders or even people on the team believe you're ignoring important things, when in fact you've _selected_ certain important things. You need to say that out loud.
+عندما لا توضح ما لا تفعله، قد يبدو أنك لا تعرف حتى بوجود هذه الأشياء. التصور هو الواقع. يعتقد أصحاب المصلحة أو حتى الأشخاص في الفريق أنك تتجاهل أشياء مهمة، في حين أنك في الواقع قد حددت بعض الأشياء المهمة. عليك أن تقول ذلك بصوت عال.
 
-It's not just about proving yourself to an executive, it's about reminding yourself and your own team, especially when a big customer complains about one of the things you're intentionally ignoring, and the pressure is on, the emotions are high, and you need the resolve to stand firm on "no."
+لا يقتصر الأمر على إثبات نفسك أمام مسؤول تنفيذي فحسب، بل يتعلق بتذكير نفسك وفريقك، خاصة عندما يشتكي أحد العملاء الكبار من أحد الأشياء التي تتجاهلها عمدًا، ويكون الضغط مستمرًا، والعواطف مرتفعة، وتحتاج إلى العزم على الوقوف بثبات على "لا".
 
-> "You can do anything, but not everything."  
-> --Derek Sivers
+> "يمكنك أن تفعل أي شيء، ولكن ليس كل شيء."
+> --ديريك سيفرز
 
-Next quarter, when you're going through this process again, this is a great list to revisit. You'll be surprised how many items seem less important now than before. And some might be more important; perhaps now is the time.
+في الربع القادم، عندما تقوم بهذه العملية مرة أخرى، فهذه قائمة رائعة يجب عليك إعادة النظر فيها. سوف تتفاجأ بعدد العناصر التي تبدو أقل أهمية الآن من ذي قبل. وبعضها قد يكون أكثر أهمية؛ ربما الآن هو الوقت المناسب.
 
-At WP Engine this a simple bullet-point list, just one line per bullet. It says what the topic is, and doesn't even explain why it wasn't selected. You could go further, explaining why each didn't make the cut. You could go still further, creating a "Now / Next / Later" roadmap.[^5]
+في WP Engine، هذه قائمة بسيطة من النقاط، سطر واحد فقط لكل رمز نقطي. إنه يوضح ما هو الموضوع، ولا يشرح حتى سبب عدم اختياره. يمكنك الذهاب إلى أبعد من ذلك، موضحًا سبب عدم قيام كل منهم بالقطع. يمكنك المضي قدمًا، من خلال إنشاء خريطة طريق "الآن / التالي / لاحقًا".[^5]
 
-[^5]: Or, my personal preference in that three-column genre: "Now / Likely / Maybe." This better indicates not only timeline but our confidence that those are even the right ideas. After all, how many of those "Later" items do you ever get to? If the answer isn't at least 50%, then they're _not_ "Later," they are merely a possibility.
+[^5]: أو تفضيلي الشخصي لهذا النوع المكون من ثلاثة أعمدة: "الآن / من المحتمل / ربما." وهذا لا يشير بشكل أفضل إلى الجدول الزمني فحسب، بل إلى ثقتنا في أن هذه هي الأفكار الصحيحة. بعد كل شيء، كم عدد العناصر "اللاحقة" التي وصلت إليها على الإطلاق؟ إذا لم تكن الإجابة 50% على الأقل، فهي ليست "لاحقًا"، بل مجرد احتمال.
 
-Remember, this isn't a random bucket of 100 feature-requests. It's a list of things that _are_ important, possibly even seem _urgent_, that you really do want to do, that maybe only barely didn't make the cut. In short, these were the difficult decisions.
+تذكر أن هذه ليست مجموعة عشوائية مكونة من 100 طلب ميزة. إنها قائمة بالأشياء _الهامة_، وربما تبدو _عاجلة_، والتي ترغب حقًا في القيام بها، والتي ربما لم تكن كافية لك. باختصار، كانت هذه القرارات الصعبة.
 
-> "I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1000 things."  
-> --Steve Jobs
+> "أنا في الواقع فخور بالأشياء التي لم نفعلها مثل الأشياء التي قمت بها. الابتكار هو أن تقول لا لألف شيء."
+> --ستيف جوبز
 
-## Full Example: Tesla
+## مثال كامل: تسلا
 
-The final result is clear and simple, hiding the complexity of the process that created it.
+والنتيجة النهائية واضحة وبسيطة، وتخفي تعقيد العملية التي خلقتها.
 
 ![once upon time lazy writing go ahead](https://public.asmartbear.com/books/anthology/chapters/strategic-planning/lazy-writing-simple.png)
 
-Let's use Tesla as the example, because although it's over-used, that means you're probably familiar with it, and thus you can see how it all comes together:
+دعونا نستخدم تسلا كمثال، لأنه على الرغم من الإفراط في استخدامه، فهذا يعني أنك على الأرجح على دراية به، وبالتالي يمكنك أن ترى كيف يجتمع كل ذلك معًا:
 
-#### Strategic Objectives
+#### الأهداف الاستراتيجية
 
-Tesla's long-term vision is to accelerate the world's transition to sustainable energy through the widespread adoption of electric vehicles (EVs).
+تتمثل رؤية تسلا طويلة المدى في تسريع انتقال العالم إلى الطاقة المستدامة من خلال الاعتماد الواسع النطاق على السيارات الكهربائية.
 
-To do that, we need to:
+وللقيام بذلك، نحتاج إلى:
 
-1. Invent vehicles that are not only battery-powered but also desirable, because of their performance and safety.
-2. Create production lines that are scalable but also cost-effective, so we can be profitable.
-3. Generate excitement and loyalty by bucking consumer expectations that EVs are impractical and have low performance.
+1. ابتكروا مركبات لا تعمل بالبطاريات فحسب، بل إنها مرغوبة أيضًا، بسبب أدائها وسلامتها.
+2. إنشاء خطوط إنتاج قابلة للتطوير ولكنها أيضًا فعالة من حيث التكلفة، حتى نتمكن من تحقيق الربح.
+3. يمكنك توليد الإثارة والولاء من خلال مخالفة توقعات المستهلكين بأن المركبات الكهربائية غير عملية وذات أداء منخفض.
 
-#### Obstacles
+#### عوائق
 
-*These obstacles stand in our way of achieving our vision:*
+*هذه العوائق تقف في طريقنا لتحقيق رؤيتنا:*
 
-* **Intrinsic difficulty:** Inventing new types of battery and production lines is near-impossible.
-* **Market Skepticism:** Overcoming consumer and industry skepticism about the viability of EVs.
-* **Manufacturing challenges:** Scaling up production to meet demand.
-* **Infrastructure:** Lack of widespread EV charging infrastructure creates range-anxiety.
+* **الصعوبة الجوهرية:** إن اختراع أنواع جديدة من البطاريات وخطوط الإنتاج أمر شبه مستحيل.
+* **شكوك السوق:** التغلب على شكوك المستهلكين والصناعة بشأن جدوى المركبات الكهربائية.
+* **تحديات التصنيع:** زيادة الإنتاج لتلبية الطلب.
+* **البنية التحتية:** يؤدي الافتقار إلى بنية تحتية واسعة النطاق لشحن المركبات الكهربائية إلى القلق بشأن النطاق.
 
-#### Main Activities
+#### الأنشطة الرئيسية
 
-*We will overcome these obstacles while achieving our strategic objectives by:*
+*سنتغلب على هذه العقبات لتحقيق أهدافنا الإستراتيجية من خلال:*
 
-* **Innovate in Battery Technology:** The insight is that the battery is the key. Develop more efficient, longer-lasting, fast-discharge batteries.
-* **Direct-to-Consumer Sales:** Bypass traditional dealership models to control pricing and customer experience.
-* **Scale Production:** Invest in Gigafactories to massively increase production capacity, hiring specialists and investing with the insight that factories are not just a necessary step but strategically vital.
-* **Infrastructure Development:** Invest in a network of Supercharger stations for convenient charging.
+* **الابتكار في تكنولوجيا البطاريات:** الفكرة هي أن البطارية هي المفتاح. تطوير بطاريات أكثر كفاءة وأطول أمدا وسريعة التفريغ.
+* **المبيعات المباشرة للمستهلك:** تجاوز نماذج الوكلاء التقليدية للتحكم في الأسعار وتجربة العملاء.
+* **الإنتاج على نطاق واسع:** استثمر في Gigafactories لزيادة القدرة الإنتاجية بشكل كبير، وقم بتعيين متخصصين واستثمر مع إدراك أن المصانع ليست مجرد خطوة ضرورية ولكنها حيوية من الناحية الاستراتيجية.
+* **تطوير البنية التحتية:** استثمر في شبكة من محطات الشحن الفائق للشحن المريح.
 
-#### Metrics & Indicators
+#### المقاييس والمؤشرات
 
-*We know whether these activities are working through:*
+*نعلم ما إذا كانت هذه الأنشطة تعمل من خلال:*
 
-* **Battery Cost and Efficiency:** Measure improvements in battery cost per kWh and immediate-discharge rate.
-* **Vehicle Sales and Market Share:** Track the number of units sold and market share in the EV sector.
-* **Production Capacity:** Measure fully-completed cars/day per Gigafactory.
-* **Infrastructure Expansion:** Number of new Supercharger stations operational.
-* **Consumer Delight:** People absolutely love their Teslas, calling it a magical experience and never wanting a gas-powered car again. *(not a number)*
+* **تكلفة البطارية وكفاءتها:** قياس التحسينات في تكلفة البطارية لكل كيلوواط ساعة ومعدل التفريغ الفوري.
+* **مبيعات المركبات وحصة السوق:** تتبع عدد الوحدات المباعة وحصة السوق في قطاع السيارات الكهربائية.
+* **السعة الإنتاجية:** قياس السيارات المكتملة بالكامل/اليوم لكل مصنع جيجا.
+* **توسيع البنية التحتية:** عدد محطات الشحن الجديدة العاملة.
+* **إسعاد المستهلك:** يحب الناس سيارات تيسلا الخاصة بهم تمامًا، ويصفونها بأنها تجربة سحرية ولا يرغبون أبدًا في الحصول على سيارة تعمل بالغاز مرة أخرى. *(ليس رقما)*
 
-#### Not doing
+#### لا تفعل
 
-*We are intentionally not doing these valuable, important things, so that we can focus on the above:*
+*نحن نتعمد عدم القيام بهذه الأشياء القيمة والمهمة، حتى نتمكن من التركيز على ما سبق:*
 
-* **Safety and Practicality**: Although we believe eventually we will make the safest sedans in the world, first we have to solve the challenges of batteries and performance, because those are the obstacles. We know that safety is a matter of good design, but we already know from existing EVs that if the car is safe, but not performant and low-range, then it will not be popular. So we have to solve those first.
-* **Affordable models**: The company will truly scale and make the impact we want in the world, when it is accessible to most people. But at first, before factories are at scale, before the bugs are worked out, before all the costs are minimized, our cars have to be expensive. So we have to start out as a luxury brand.
-* **Expand to China:** The second-largest market in the world, eventually will be the largest, and the first manufacturer there might have a decisive advantage. But it is its own special challenge, and we need a popular car that works before we jump into that pool.
+* **السلامة والعملية**: على الرغم من اعتقادنا أننا سنصنع سيارات السيدان الأكثر أمانًا في العالم في نهاية المطاف، إلا أنه يتعين علينا أولاً حل التحديات المتعلقة بالبطاريات والأداء، لأن هذه هي العقبات. نحن نعلم أن السلامة هي مسألة تصميم جيد، ولكننا نعلم بالفعل من السيارات الكهربائية الموجودة أنه إذا كانت السيارة آمنة، ولكنها ليست ذات أداء منخفض ومنخفضة المدى، فلن تحظى بشعبية كبيرة. لذلك علينا حل تلك أولا.
+* **نماذج ميسورة التكلفة**: ستعمل الشركة على التوسع وإحداث التأثير الذي نريده في العالم، عندما يكون ذلك في متناول معظم الأشخاص. لكن في البداية، قبل أن تصبح المصانع على نطاق واسع، وقبل إصلاح الأخطاء، وقبل تقليل جميع التكاليف، يجب أن تكون سياراتنا باهظة الثمن. لذلك علينا أن نبدأ كعلامة تجارية فاخرة.
+* **التوسيع إلى الصين:** ثاني أكبر سوق في العالم، سيصبح في نهاية المطاف هو الأكبر، وربما تتمتع الشركة المصنعة الأولى هناك بميزة حاسمة. ولكن هذا تحدي خاص به، ونحن بحاجة إلى سيارة شعبية تعمل قبل أن نقفز إلى تلك المجموعة.
 
 ---
 
-Tesla is often lauded for having a clear strategy, and you've heard them report the metrics above as indicators of progress or success.
+غالبًا ما يتم الإشادة بشركة Tesla لامتلاكها استراتيجية واضحة، وقد سمعتهم يشيرون إلى المقاييس المذكورة أعلاه كمؤشرات للتقدم أو النجاح.
 
-You need a plan that is just as clear. Each team needs one, and your company needs one.
+أنت بحاجة إلى خطة واضحة تمامًا. كل فريق يحتاج إلى واحد، وشركتك تحتاج إلى واحد.
 
-Otherwise, you're probably not working on the right things, and certainly not communicating what must be done, in a way that everyone can understand and implement.
+وبخلاف ذلك، فمن المحتمل أنك لا تعمل على الأمور الصحيحة، وبالتأكيد لا تقوم بتوصيل ما يجب القيام به، بطريقة يمكن للجميع فهمها وتنفيذها.
 
-Tell your story.
+أخبر قصتك.

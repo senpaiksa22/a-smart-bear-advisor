@@ -20,52 +20,39 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كيف أعرف أين أعلن عن منتجي وأين أجد عملائي؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+المعلن المغامر يكتب:
 
----
+> أنا على استعداد لإنفاق أول 1000 دولار أمريكي على شيء آخر غير AdWords.
+> 
+> هناك الكثير من الخيارات ولا أعرف من أين أبدأ. كيف يمكنني الاختيار؟
 
-### النص المرجعي للمقال (Original Reference):
-# How do I know where to advertise?
-
-> **Executive Summary:** Ready to advertise but unsure where? Measure outcomes fast, start affordably, and choose platforms you understand.
-> **Original URL:** [https://longform.asmartbear.com/begin-advertising/](https://longform.asmartbear.com/begin-advertising/)
-
-Adventurous Advertiser writes:
-
-> I'm ready to spend my first $1000 on something other than AdWords.
->
-> There's lots of options and I don't know where to start. How do I pick?
-
-Since you didn't say what field you're in, you'd think I have no answer, but I do!
+نظرًا لأنك لم تذكر المجال الذي تعمل فيه، فقد تعتقد أنه ليس لدي إجابة، ولكن لدي!
 
 ![bear making sales](https://longform.asmartbear.com/begin-advertising/ee79b35f.png)
 
-There's a thousand places to advertise and a hundred ways to do "lead-gen," i.e. getting CSV dumps of contact information for so-called "pre-qualified" people who were tricked into downloading a whitepaper you've supplied.
+هناك ألف مكان للإعلان ومائة طريقة للقيام بـ "الجيل الرائد"، أي الحصول على تفريغ CSV لمعلومات الاتصال للأشخاص "المؤهلين مسبقًا" الذين تم خداعهم لتنزيل المستند التقني الذي قدمته.
 
-Which are best? Are any actually good at generating sales?
+ما هي الأفضل؟ هل هناك أي شيء جيد بالفعل في توليد المبيعات؟
 
-At Smart Bear I tried literally a hundred campaigns: paid search, [trade shows](https://longform.asmartbear.com/tradeshow-tips-checklist/), postcard mailers, newsletter sponsorships, and magazine ads (yes, print!). I eventually built a system that could measure campaign efficacy with pinpoint accuracy, even with traditionally different media like print. (I once [promised an article](https://longform.asmartbear.com/vetting-startup-ideas/) describing this system and have yet to deliver... I'll remedy that...)
+في Smart Bear، جربت حرفيًا مائة حملة: البحث المدفوع، [المعارض التجارية](https://longform.asmartbear.com/tradeshow-tips-checklist/)، ورسائل البطاقات البريدية، ورعاية الرسائل الإخبارية، وإعلانات المجلات (نعم، مطبوعة!). وفي نهاية المطاف، قمت ببناء نظام يمكنه قياس فعالية الحملة بدقة متناهية، حتى مع وسائل الإعلام المختلفة تقليديًا مثل المطبوعات. (لقد [وعدت ذات مرة بمقال](https://longform.asmartbear.com/vetting-startup-ideas/) أصف فيه هذا النظام ولم أقم بتقديمه بعد... سأعالج ذلك...)
 
-So here's what I learned:
+إذن هذا ما تعلمته:
 
-Nothing. I learned I have zero ability at predicting which campaigns would produce. The only way to tell was to ensure accurate measurement was in place and try it. And negotiate a lower "first time" rate for the trial.
+لا شئ. لقد تعلمت أنه ليس لدي أي قدرة على التنبؤ بالحملات التي ستنتجها. الطريقة الوحيدة لمعرفة ذلك هي التأكد من إجراء القياس الدقيق وتجربته. والتفاوض على سعر أقل "لأول مرة" للمحاكمة.
 
-Also the quality of the campaign would change over time. When I first started with Dr. Dobbs magazine I had a little 1/4-page ad in the back. ("In the zoo" I'd say to the ad salesmen, who disagreed with my characterization of their remnants.) It worked great, and a full-page ad worked better. But as the years wore on it became less and less effective, like clockwork, and I kept demanding a lower and lower price.
+كما ستتغير جودة الحملة بمرور الوقت. عندما بدأت العمل مع مجلة دكتور دوبس لأول مرة، كان لدي إعلان صغير بحجم ربع الصفحة في الخلف. ("في حديقة الحيوان" أقول لبائعي الإعلانات، الذين اختلفوا مع وصفي لبقاياهم). لقد نجح الأمر بشكل رائع، وكان الإعلان على صفحة كاملة يعمل بشكل أفضل. ولكن مع مرور السنين، أصبحت أقل فعالية، مثل الساعة، وظللت أطالب بسعر أقل وأقل.
 
-"But our readership is increasing" the ad salesman would say, pointing to their BPA stats (a 3rd-party "auditor" who always certifies strong growth and a monied readership). "Besides that, you'll lose credibility if you stop advertising. People will wonder whether you've disappeared."
+"لكن عدد قرائنا يتزايد" كما يقول بائع الإعلانات، مشيرًا إلى إحصائيات BPA الخاصة بهم ("مدقق" طرف ثالث يشهد دائمًا على النمو القوي والقراء الماليين). "إلى جانب ذلك، ستفقد مصداقيتك إذا توقفت عن الإعلان. وسيتساءل الناس عما إذا كنت قد اختفيت".
 
-The magazine went under a few months later.
+توقفت المجلة بعد بضعة أشهر.
 
-But remember, three years before it died, it was one of the top lead sources. Things change. Can't predict.
+لكن تذكر، قبل ثلاث سنوات من وفاته، كان أحد أهم مصادر الرصاص. الأمور تتغير. لا يمكن التنبؤ.
 
-So here's how you decide which to start with. Of the dozen possibilities in front of you pick the one that maximizes these things, in this order of precedence:
+إذن إليك كيف تقرر ما الذي ستبدأ به. من بين عشرات الاحتمالات الموجودة أمامك، اختر الخيار الذي يزيد من هذه الأشياء إلى الحد الأقصى، حسب ترتيب الأسبقية:
 
-1. **Measurable**--you have to know objectively if the value to your company is greater than the amount of money spent. Generally online is easier to measure than offline, but that's not true for things like contests or special offers or secret landing pages.
-2. **Quickest** time to discover whether it worked. Fast learning means you get to a working advertising model faster.
-3. **Cheapest**--At this stage the valuable thing is seeking/learning what advertising works, not trying to maximize total revenue right out of the gate. Once you've got a handle on how to spend money to make money, it then makes sense to pour money on it as fast as possible.
-4. **Comfortable**--something you like, like a news site you already read, or a Twitter contest-runner that seems particularly smart about it. Since your gut isn't too useful, you might as well pick something you like, especially if you already understand the culture of the site, and therefore could build an ad perfect for that audience. For example at Smart Bear I was particularly successful on StackOverflow, which I was an early beta user in, and on Coding Horror, which I was a long-time reader of."
+1. **قابلة للقياس**-- عليك أن تعرف بشكل موضوعي ما إذا كانت القيمة بالنسبة لشركتك أكبر من مبلغ الأموال التي يتم إنفاقها. بشكل عام، يعد القياس عبر الإنترنت أسهل من قياسه دون الاتصال بالإنترنت، ولكن هذا لا ينطبق على أشياء مثل المسابقات أو العروض الخاصة أو الصفحات المقصودة السرية.
+2. **أسرع** وقت لاكتشاف ما إذا كان الأمر ناجحًا. التعلم السريع يعني أنك ستصل إلى نموذج إعلاني فعال بشكل أسرع.
+3. **الأرخص**--في هذه المرحلة، الشيء المهم هو البحث/التعرف على ما ينجح الإعلان، وليس محاولة تحقيق أقصى قدر من إجمالي الإيرادات فورًا. بمجرد أن تتعرف على كيفية إنفاق المال لكسب المال، فمن المنطقي أن تنفق المال عليه في أسرع وقت ممكن.
+4. **مريح**--شيء يعجبك، مثل موقع إخباري قرأته بالفعل، أو أحد المشاركين في مسابقة Twitter والذي يبدو ذكيًا بشكل خاص بشأنه. نظرًا لأن حدسك ليس مفيدًا للغاية، فمن الأفضل أن تختار شيئًا يعجبك، خاصة إذا كنت تفهم بالفعل ثقافة الموقع، وبالتالي يمكنك إنشاء إعلان مثالي لهذا الجمهور. على سبيل المثال، في Smart Bear، كنت ناجحًا بشكل خاص في StackOverflow، الذي كنت من أوائل مستخدمي الإصدار التجريبي منه، وفي Coding Horror، الذي كنت قارئًا له منذ فترة طويلة."
 
-So don't waste time fretting about picking the "right" campaign. You can't. So make sure these key things are in place, and just go.
+لذا، لا تضيع وقتك في القلق بشأن اختيار الحملة "الصحيحة". لا يمكنك. لذا تأكد من وجود هذه الأشياء الأساسية، وانطلق.

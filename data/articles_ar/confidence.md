@@ -20,184 +20,167 @@ summary_ar: "RICE والأطر الأخرى القائمة على الثقة ه�
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** فقدان الثقة بالنفس وكيفية استعادتها تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Lost confidence
-
-> **Executive Summary:** RICE and other confidence-based frameworks are mostly noise. Here's how to make decisions without pretending to know the unknowable.
-> **Original URL:** [https://longform.asmartbear.com/confidence/](https://longform.asmartbear.com/confidence/)
-
 ![no i dont want to make wish where did you get that](https://public.asmartbear.com/books/anthology/chapters/confidence/d0704print-simple.png)
 
-## Confidence games
+## العاب الثقة
 
-Many prioritization frameworks include a measure of confidence[^1]--how sure we are that we can execute, at more or less the predicted effort, resulting in more or less the predicted impact. This sounds rational: If two projects generate equal value for equal effort, but we're confident we can execute the first and unsure about the second, we should pick the first.
+تتضمن العديد من أطر عمل تحديد الأولويات مقياسًا للثقة[^1]--مدى تأكدنا من قدرتنا على التنفيذ، بالجهد المتوقع بشكل أو بآخر، مما يؤدي إلى التأثير المتوقع بشكل أو بآخر. يبدو هذا عقلانيًا: إذا كان هناك مشروعان يولدان قيمة متساوية لجهد متساوٍ، ولكننا واثقون من قدرتنا على تنفيذ الأول وغير متأكدين من الثاني، فيجب علينا اختيار الأول.
 
-[^1]: Or a measure of risk. The reader will decide whether or not $\text{risk} = 1 - \text{confidence}$.
+[^1]: أو مقياس للمخاطرة. سيقرر القارئ ما إذا كان $\text{risk} = 1 - \text{confidence}$ أم لا.
 
-This is not, however, how we use confidence scores. If it were, our process would look like this:
+ومع ذلك، هذه ليست الطريقة التي نستخدم بها درجات الثقة. إذا كان الأمر كذلك، فستبدو عمليتنا كما يلي:
 
-1. Score projects.
-2. If there's one clear winner, do it.
-3. If there's a tie, pick the one we are more confident in.
+1. نقاط المشاريع.
+2. إذا كان هناك فائز واحد واضح، افعل ذلك.
+3. إذا كان هناك ربطة عنق، فاختر التعادل الذي نثق به أكثر.
 
-That's not a bad idea, but popular frameworks like RICE include "confidence" in step one:
+هذه ليست فكرة سيئة، لكن الأطر الشائعة مثل RICE تتضمن "الثقة" في الخطوة الأولى:
 
-$$\text{Score} = \dfrac{\text{Reach}\times\text{Impact}\times\text{Confidence}}{\text{Effort}}$$
+$$\text{النتيجة} = \dfrac{\text{الوصول}\times\text{التأثير}\times\text{الثقة}}{\text{الجهد}}$$
 
-So does RPS:
+وكذلك يفعل RPS:
 
-$$\text{Score} = \text{Reach}\times\text{Potential}\times\text{Solution Confidence}$$
+$$\text{النتيجة} = \text{الوصول}\times\text {الإمكانات}\times\text{ثقة الحل}$$
 
-Which means, for example, the following two scenarios are deemed equally strong:
+مما يعني، على سبيل المثال، أن السيناريوهين التاليين يعتبران متساويين في القوة:
 
-1. A small incremental feature, that we're sure we can execute.
-2. A large feature, with large impact, that carries risk.
+1. ميزة إضافية صغيرة، نحن على يقين من أننا نستطيع تنفيذها.
+2. ميزة كبيرة، ذات تأثير كبير، تحمل مخاطر.
 
-This equality is false. Especially when you remember that these two scenarios are nearly always exactly what we're choosing from--we're typically confident in small projects and unconfident in larger projects, as well we should be.[^2] But that systematically skews the prioritization away from delivering as much value as possible, which I have often argued is the opposite of what a prioritization framework ought to do.
+وهذه المساواة زائفة. خاصة عندما تتذكر أن هذين السيناريوهين دائمًا ما يكونان بالضبط ما نختار من بينهما - فنحن عادةً ما نكون واثقين من المشاريع الصغيرة وغير واثقين من المشاريع الأكبر، كما ينبغي أن نكون كذلك.[^2] لكن هذا يؤدي بشكل منهجي إلى انحراف تحديد الأولويات بعيدًا عن تقديم أكبر قدر ممكن من القيمة، وهو ما جادلت كثيرًا بأنه عكس ما يجب أن يفعله إطار عمل تحديد الأولويات.
 
-[^2]: If you disagree, consider that the primary motivation for the Agile movement was the insight we should *always* have low confidence that large projects will be successful, despite our best techniques of planning, analysis, and estimation. And also consider [this theory of Rocks, Pebbles, and Sand](https://longform.asmartbear.com/rocks-pebbles-sand/).
+[^2]: إذا كنت لا توافق على ذلك، فضع في اعتبارك أن الدافع الأساسي لحركة Agile هو الرؤية التي يجب أن تكون لدينا *دائمًا* ثقة منخفضة في نجاح المشاريع الكبيرة، على الرغم من أفضل تقنيات التخطيط والتحليل والتقدير لدينا. وفكر أيضًا في [نظرية الصخور والحصى والرمال](https://longform.asmartbear.com/rocks-pebbles-sand/).
 
-**I don't believe your confidence score anyway.** First, because it's ill-defined. What does "30%" mean? [What it _should_ mean](https://longform.asmartbear.com/probability-words/), is you track your confidence scores across all projects, and then see how those projects went, and from that data, compute how accurate your "confidence" scores were [with mathematical precision](https://longform.asmartbear.com/forecast/). But you don't do that, do you? And if you only ship a few major features per year, you don't have enough data to know, [even in hindsight](https://longform.asmartbear.com/unmeasurable-metrics/).
+**أنا لا أصدق درجة ثقتك على أية حال. ** أولاً، لأنها غير محددة. ماذا يعني "30%"؟ [ما ينبغي أن يعنيه](https://longform.asmartbear.com/probability-words/)، هو أنك تتبع درجات ثقتك في جميع المشاريع، ثم ترى كيف سارت هذه المشاريع، ومن تلك البيانات، تحسب مدى دقة درجات "ثقتك" [بدقة رياضية](https://longform.asmartbear.com/forecast/). لكنك لا تفعل ذلك، أليس كذلك؟ وإذا كنت تشحن فقط بعض الميزات الرئيسية كل عام، فلن يكون لديك ما يكفي من البيانات لمعرفتها، [حتى بعد فوات الأوان](https://longform.asmartbear.com/unmeasurable-metrics/).
 
-The second reason I don't believe you is because we all know that projects are nearly always late, and often have less impact, less quickly, than we wanted--no matter how confident we were. Indeed, we were always at least "fairly confident" or else we wouldn't have agreed to do a nine-month, six-team project. So what weight should we place on "confidence?"
+السبب الثاني الذي يجعلني لا أصدقك هو أننا نعلم جميعًا أن المشاريع تتأخر دائمًا تقريبًا، وغالبًا ما يكون لها تأثير أقل، وبسرعة أقل، مما أردناه - بغض النظر عن مدى ثقتنا. في الواقع، كنا دائمًا على الأقل "واثقين إلى حد ما" وإلا لما اتفقنا على القيام بمشروع مدته تسعة أشهر مكون من ستة فرق. إذن ما هو الوزن الذي يجب أن نضعه على "الثقة"؟
 
-> **Hofstadter's Law**  
-> It always takes longer than you expect, even when you take Hofstadter's Law into account.
+> **قانون هوفستاتر**
+> يستغرق الأمر دائمًا وقتًا أطول مما تتوقع، حتى عندما تأخذ قانون هوفستاتر في الاعتبار.
 
-For more empirical evidence that "confidence" is useless, find any [experienced Product Manager](https://longform.asmartbear.com/great-product-manager/) and ask: "Can you recall a feature you were *certain* would be well-received, but wasn't?" Perhaps they had evidence from customer conversations, explicit requests, or purchase commitments--yet after building it, almost no one used it, including those who promised they would. Their eyes will roll as they share multiple stories. This doesn't make them a bad PM. Everyone has these stories. That's my point. The best PMs have techniques to mitigate this problem,[^3] but none will claim they can eliminate it entirely.
+للحصول على المزيد من الأدلة التجريبية على أن "الثقة" غير مجدية، ابحث عن أي [مدير منتج ذي خبرة](https://longform.asmartbear.com/great-product-manager/) واسأل: "هل يمكنك تذكر ميزة كنت *متأكدًا* منها أنها ستحظى بقبول جيد، ولكن لم يحدث ذلك؟" ربما كان لديهم أدلة من محادثات العملاء، أو الطلبات الصريحة، أو التزامات الشراء - ولكن بعد بنائها، لم يستخدمها أحد تقريبًا، بما في ذلك أولئك الذين وعدوا بذلك. سوف تدور أعينهم عندما يشاركون قصصًا متعددة. هذا لا يجعل منهم رئيس الوزراء سيئة. كل شخص لديه هذه القصص. هذه هي وجهة نظري. يمتلك أفضل مدراء المشروعات تقنيات للتخفيف من حدة هذه المشكلة،[^3] لكن لا أحد يدعي أنه قادر على التخلص منها تمامًا.
 
-[^3]: Some techniques to improve prediction include asking customers to describe exactly how they would use a feature in their normal workflow. Often people genuinely think they would use something, but when forced to walk through it step-by-step, they realize, "Oh wait, this would require me to rewrite this code, we probably wouldn't do that." Or, "I'd need to export it into another system--actually, never mind."
+[^3]: تتضمن بعض الأساليب لتحسين التنبؤ مطالبة العملاء بالوصف الدقيق لكيفية استخدامهم لميزة ما في سير العمل العادي لديهم. في كثير من الأحيان يعتقد الناس بصدق أنهم سيستخدمون شيئًا ما، ولكن عندما يضطرون إلى السير فيه خطوة بخطوة، يدركون، "أوه مهلًا، سيتطلب هذا مني إعادة كتابة هذا الرمز، ربما لن نفعل ذلك." أو، "سأحتاج إلى تصديره إلى نظام آخر - في الواقع، لا يهم."
 
-Similarly, ask content creators about their most successful work. Often it's something they hastily produced--a trivial piece they almost didn't publish because it felt uninsightful or trite--yet it generated more views and engagement than anything else that year. Conversely, pieces they spent dozens of hours crafting, work they're genuinely proud of and consider their best, generate minimal interest:
+وبالمثل، اسأل منشئي المحتوى عن أكثر أعمالهم نجاحًا. غالبًا ما يكون ذلك شيئًا أنتجوه على عجل - وهو مقال تافه لم ينشروه تقريبًا لأنه بدا غير ثاقب أو مبتذلاً - ومع ذلك فقد حقق عددًا أكبر من المشاهدات والمشاركة من أي شيء آخر في ذلك العام. على العكس من ذلك، فإن القطع التي أمضوا عشرات الساعات في صناعتها، والعمل الذي يفتخرون به حقًا ويعتبرون أفضل ما لديهم، لا تولد سوى الحد الأدنى من الاهتمام:
 
 ![The secret to growing on Twitter for me has been to spend hours writing threads that get no traction and then to spend 10 min writing two tweets that each attract 15K+ followers.](https://public.asmartbear.com/books/anthology/chapters/confidence/twitter-growth-simple.png)
 
-We can summarize the relationship between our confidence and actual results in a handy two-by-two table:
+يمكننا تلخيص العلاقة بين ثقتنا والنتائج الفعلية في جدول مفيد مكون من اثنين في اثنين:
 
-|  |  |  |
-|:---:|:---:|:---:|
-|  | **Was confident** | **Was not confident** |
-| **They loved it** | Lots of examples | Lots of examples |
-| **Nobody cared** | Lots of examples | Lots of examples |
+|  |  |  | |:---:|:---:|:---:| |  | **كان واثقًا** | **لم يكن واثقا** | | **لقد أحبوه** | الكثير من الأمثلة | الكثير من الأمثلة | | **لا أحد يهتم** | الكثير من الأمثلة | الكثير من الأمثلة |
 
-So, if "confidence" is too nebulous to define, and we shouldn't trust ourselves with it anyway, what should we do?
+لذا، إذا كانت "الثقة" غامضة للغاية بحيث لا يمكن تعريفها، ولا ينبغي لنا أن نثق في أنفسنا بها على أية حال، فماذا ينبغي لنا أن نفعل؟
 
-## What to use in place of confidence and risk
+## ما يجب استخدامه بدلاً من الثقة والمخاطر
 
-The answer lies in the realm of uncertainty, rather than of probability.
+الجواب يكمن في عالم عدم اليقين، وليس في عالم الاحتمال.
 
-Probability presumes you know the underlying distribution, enabling mathematical predictions about future events. You can predict that flipping a fair coin 100 times is highly likely to result in between 40 and 60 heads, because you know the underlying probability distribution of fair coin flips. If predicting whether a feature will create defensible differentiation were like flipping a coin 100 times, you could use probabilities.[^4]
+تفترض الاحتمالات أنك تعرف التوزيع الأساسي، مما يتيح التنبؤات الرياضية حول الأحداث المستقبلية. يمكنك التنبؤ بأن قلب العملة العادلة 100 مرة من المرجح أن يؤدي إلى ما بين 40 إلى 60 صورة، لأنك تعرف التوزيع الاحتمالي الأساسي لقلب العملة العادلة. إذا كان التنبؤ بما إذا كانت إحدى الميزات ستؤدي إلى تمايز يمكن الدفاع عنه كان مثل رمي عملة معدنية 100 مرة، فيمكنك استخدام الاحتمالات.[^4]
 
-Almost nothing in a startup is like that. Outcomes cannot be assigned meaningful probabilities because things like startup success, strategy, and features are unprecedented, or too complex to model accurately, or we have no precision on the input variables. This is the domain of uncertainty.[^5]
+لا شيء تقريبًا في الشركة الناشئة يشبه هذا. لا يمكن تعيين احتمالات ذات معنى للنتائج لأن أشياء مثل نجاح بدء التشغيل، والاستراتيجية، والميزات غير مسبوقة، أو معقدة للغاية بحيث لا يمكن تصميمها بدقة، أو ليس لدينا دقة بشأن متغيرات الإدخال. هذا هو مجال عدم اليقين.[^5]
 
-[^4]: If you're tempted to claim that Bayesian methods could still work, remember that you need numeric priors and conditional probabilities, both of which we established above are unknowable and ill-defined.
+[^4]: إذا كنت تميل إلى الادعاء بأن الأساليب البايزية لا تزال قادرة على العمل، فتذكر أنك تحتاج إلى سوابق رقمية واحتمالات شرطية، وكلاهما غير معروف وغير محدد بشكل جيد.
 
-[^5]: Often called "Knightian Uncertainty" after economist Frank Knight in his 1921 work "Risk, Uncertainty, and Profit."
+[^5]: يُطلق عليه غالبًا "عدم اليقين الفارسي" نسبة إلى الاقتصادي فرانك نايت في عمله الذي صدر عام 1921 بعنوان "المخاطر وعدم اليقين والأرباح".
 
-In the uncertainty domain we ask: What actions are wise regardless of the probability distribution?
+في مجال عدم اليقين نسأل: ما هي الإجراءات الحكيمة بغض النظر عن التوزيع الاحتمالي؟
 
-I've previously written about [embracing uncertainty in overall product strategy](https://longform.asmartbear.com/predict-the-future/). Below, I'll address a more specific question: How should we *prioritize* ideas in an uncertain world?
+لقد كتبت سابقًا عن [تبني عدم اليقين في استراتيجية المنتج الشاملة](https://longform.asmartbear.com/predict-the-future/). أدناه، سأتناول سؤالًا أكثر تحديدًا: كيف ينبغي لنا *ترتيب أولويات* الأفكار في عالم غير مؤكد؟
 
-Here are some techniques.
+وهنا بعض التقنيات.
 
-### True always
+### صحيح دائما
 
-What is always true under any circumstance? This is Bezos's principle of focusing on long-term constants.[^6] For instance, users universally appreciate fast, responsive software. They value web apps that feel native, with background synchronization and instant interactions, that work well on all their devices. Even in the worst case, where they don't care about speed, they still wouldn't say that speed was a negative; at best (in web apps like Notion, Figma, Miro, Gmail, and Google Docs), performance becomes a key differentiator that customers explicitly value.
+ما هو الصحيح دائما تحت أي ظرف من الظروف؟ هذا هو مبدأ بيزوس في التركيز على الثوابت طويلة المدى.[^6] على سبيل المثال، يقدر المستخدمون عالميًا البرامج السريعة والاستجابة. إنهم يقدرون تطبيقات الويب التي تبدو أصلية، مع مزامنة الخلفية والتفاعلات الفورية، والتي تعمل بشكل جيد على جميع أجهزتهم. حتى في أسوأ الحالات، حيث لا يهتمون بالسرعة، ما زالوا لا يقولون أن السرعة كانت سلبية؛ في أحسن الأحوال (في تطبيقات الويب مثل Notion وFigma وMiro وGmail وGoogle Docs)، يصبح الأداء عامل تمييز رئيسي يقدره العملاء بشكل واضح.
 
-[^6]: Bezos frequently said of Amazon's strategy: When you have something that you know is true, even over the long term, you can afford to put a lot of energy into it. His examples include customers wanting lower prices, faster shipping, and fast, fair customer service.
+[^6]: قال بيزوس كثيرًا عن استراتيجية أمازون: عندما يكون لديك شيء تعرف أنه صحيح، حتى على المدى الطويل، يمكنك أن تضع الكثير من الطاقة فيه. تشمل أمثلته العملاء الذين يريدون أسعارًا أقل، وشحنًا أسرع، وخدمة عملاء سريعة وعادلة.
 
-Not all features enjoy universal appeal. Rather than attempting precise numerical breakdowns of potential user interest, identify the features where essentially all customers will either value them, or at least enjoy them. Sometimes this certainty exists because it is mandatory, even if mundane. Enterprise requirements like SOC 2 compliance aren't exciting, but they're undeniably valuable when selling to enterprises. This certainty compensates for the lack of differentiation.
+لا تتمتع جميع الميزات بجاذبية عالمية. بدلاً من محاولة إجراء تحليلات رقمية دقيقة لاهتمامات المستخدم المحتملة، حدد الميزات التي سيقدرها جميع العملاء بشكل أساسي، أو على الأقل يستمتعون بها. وأحياناً يكون هذا اليقين موجوداً لأنه إلزامي، حتى ولو كان عادياً. إن متطلبات المؤسسات مثل الامتثال لـ SOC 2 ليست مثيرة، ولكنها ذات قيمة لا يمكن إنكارها عند البيع للمؤسسات. وهذا اليقين يعوض عن عدم التمايز.
 
-The caveat: your most innovative, differentiated ideas rarely fall into this "absolutely certain" category. While certainties are valuable, they're unlikely to be your strategic differentiators. This tension is natural--great products require both reliable improvements and innovative leaps of faith.
+التحذير: نادرًا ما تندرج أفكارك الأكثر ابتكارًا وتميزًا ضمن هذه الفئة "المؤكدة تمامًا". على الرغم من أن اليقينيات ذات قيمة، إلا أنه من غير المرجح أن تكون بمثابة عوامل تميزك الإستراتيجية. هذا التوتر طبيعي - فالمنتجات الرائعة تتطلب تحسينات موثوقة وقفزات إيمانية مبتكرة.
 
 ![Absolutely! 100 percent! Guaranteed! Most of the time.](https://public.asmartbear.com/books/anthology/chapters/confidence/d8580print-simple.png)
 
-### Quick discovery, quick recovery
+### اكتشاف سريع، انتعاش سريع
 
-I've been a long-time advocate of [systematically interviewing potential customers](https://longform.asmartbear.com/customer-development/) to validate ideas before you start building. Still, I have to admit that this falls into the "confidence" trap. You never really know until you build. (You can, however, *invalidate* before you build, saving you months if not years of wasted time; therefore this is still the right place to begin.)
+لقد كنت من المدافعين منذ فترة طويلة عن [إجراء مقابلات منهجية مع العملاء المحتملين](https://longform.asmartbear.com/customer-development/) للتحقق من صحة الأفكار قبل البدء في البناء. ومع ذلك، لا بد لي من الاعتراف بأن هذا يقع في فخ "الثقة". أنت لا تعرف أبدًا حقًا حتى تقوم بالبناء. (ومع ذلك، يمكنك *الإبطال* قبل البناء، مما يوفر عليك أشهرًا إن لم يكن سنوات من الوقت الضائع؛ وبالتالي لا يزال هذا هو المكان المناسب للبدء.)
 
-The typical solution is to build an [SLC](https://longform.asmartbear.com/slc/) (my upgrade to the concept of the MVP)--a simple but complete product that generates genuine feedback. Experience, rather than prediction. For existing products, that means maintaining a [balanced](https://longform.asmartbear.com/conflicting-choices/) portfolio between guaranteed wins and innovative bets, applying different validation methods to each.
+الحل النموذجي هو إنشاء [SLC](https://longform.asmartbear.com/slc/) (ترقيتي لمفهوم MVP) - منتج بسيط ولكنه كامل يولد تعليقات حقيقية. الخبرة وليس التنبؤ. بالنسبة للمنتجات الحالية، يعني ذلك الحفاظ على محفظة [متوازنة](https://longform.asmartbear.com/conflicting-choices/) بين المكاسب المضمونة والرهانات المبتكرة، مع تطبيق طرق تحقق مختلفة على كل منها.
 
-For example, consider implementing "dummy features"--buttons that, when clicked, reveal: "This feature isn't built yet. Tell us how you'd use it." This simple test provides real signals: a count of interested users and potential interview candidates who've demonstrated interest through action rather than words. They can provide insights before you build the feature.
+على سبيل المثال، فكر في تنفيذ "ميزات وهمية" - الأزرار التي عند النقر عليها تكشف: "لم يتم إنشاء هذه الميزة بعد. أخبرنا كيف ستستخدمها". يوفر هذا الاختبار البسيط إشارات حقيقية: عدد المستخدمين المهتمين والمرشحين المحتملين للمقابلة الذين أظهروا اهتمامًا من خلال الفعل وليس الكلمات. يمكنهم تقديم رؤى قبل إنشاء الميزة.
 
-This approach generates 100x better signal than surveys asking hypothetical questions. People easily say "yes" to survey questions about whether they'd use some feature, but taking an action--even clicking a button--requires genuine interest. Observed behavior beats stated intentions.
+يولد هذا النهج إشارة أفضل 100 مرة من الاستطلاعات التي تطرح أسئلة افتراضية. يقول الأشخاص "نعم" بسهولة للإجابة على الأسئلة حول ما إذا كانوا سيستخدمون بعض الميزات، ولكن اتخاذ إجراء - حتى النقر فوق زر - يتطلب اهتمامًا حقيقيًا. السلوك الملاحظ يتفوق على النوايا المعلنة.
 
-### Focus instead on customer impact
+### ركز بدلاً من ذلك على تأثير العملاء
 
-Replace confidence with impact. I define impact in two distinct ways:
+استبدل الثقة بالتأثير. أحدد التأثير بطريقتين مختلفتين:
 
-#### Majority rule
-When the majority of users regularly use a feature, it's undeniably important--likely a key reason people adopt and retain your software.
+#### حكم الأغلبية
+عندما يستخدم غالبية المستخدمين إحدى الميزات بانتظام، فهي مهمة بلا شك - ومن المحتمل أن تكون السبب الرئيسي وراء اعتماد الأشخاص لبرنامجك والاحتفاظ به.
 
-#### Passionate advocates
-Features that create passionate advocates among a smaller subset of users--people who say they bought your product _only_ because of _this one thing_. These "magnificent delighters" won't appeal universally, but they inspire deep loyalty in specific segments. Like a piece of music that's someone's all-time favorite, even if most people merely acknowledge it's decent.
+#### دعاة متحمسون
+الميزات التي تخلق مؤيدين متحمسين بين مجموعة فرعية أصغر من المستخدمين - الأشخاص الذين يقولون إنهم اشتروا منتجك _فقط_ بسبب _هذا الشيء الوحيد_. لن تحظى هذه "المبهجة الرائعة" بقبول عالمي، لكنها تلهم الولاء العميق لشرائح محددة. مثل قطعة موسيقية مفضلة لدى شخص ما، حتى لو كان معظم الناس يعترفون بأنها لائقة.
 
-These are what determine purchase decisions. Your product rarely satisfies every need perfectly, for every customer, but when users absolutely love certain aspects, they'll tolerate shortcomings elsewhere. Or the reverse--the magic of the iPod meant we put up with iTunes--possibly the worst software to be used by at least a billion people. We see this with [beautifully designed](https://longform.asmartbear.com/design/) software--users accept missing functionality or limited platform support because the design experience itself is so compelling. There are [many other reasons](https://longform.asmartbear.com/willingness-to-pay/) for a customer to [love you despite your failings](https://longform.asmartbear.com/customer-love/).
+هذه هي التي تحدد قرارات الشراء. نادرًا ما يلبي منتجك جميع احتياجات كل عميل بشكل مثالي، ولكن عندما يحب المستخدمون جوانب معينة تمامًا، فسوف يتسامحون مع أوجه القصور في أماكن أخرى. أو العكس – فسحر جهاز iPod كان يعني أننا نتحمل برنامج iTunes – والذي ربما يكون أسوأ برنامج يستخدمه ما لا يقل عن مليار شخص. نرى ذلك من خلال البرامج [المصممة بشكل جميل](https://longform.asmartbear.com/design/) - حيث يقبل المستخدمون الوظائف المفقودة أو دعم النظام الأساسي المحدود لأن تجربة التصميم نفسها مقنعة للغاية. هناك [العديد من الأسباب الأخرى](https://longform.asmartbear.com/willingness-to-pay/) التي تجعل العميل [يحبك بالرغم من إخفاقاتك](https://longform.asmartbear.com/customer-love/).
 
-I quantify this notion of impact with this definition: A high-impact feature is either (1) regularly used by at least 51% of customers, or (2) cited by at least 15% of customers in their top three reasons for choosing or retaining your product.
+أقوم بقياس مفهوم التأثير هذا من خلال هذا التعريف: الميزة عالية التأثير هي إما (1) يستخدمها بانتظام ما لا يقل عن 51% من العملاء، أو (2) يستشهد بها ما لا يقل عن 15% من العملاء في أهم ثلاثة أسباب لاختيار منتجك أو الاحتفاظ به.
 
-This sets a high bar, but innovative, risky features demand a high bar. If you're undertaking projects that might exceed timelines or have uncertain outcomes, the magnitude of the potential reward must justify that risk.
+وهذا يضع معايير عالية، ولكن الميزات المبتكرة والمحفوفة بالمخاطر تتطلب معايير عالية. إذا كنت تقوم بمشاريع قد تتجاوز الجداول الزمنية أو لها نتائج غير مؤكدة، فإن حجم المكافأة المحتملة يجب أن يبرر تلك المخاطرة.
 
-### Invest in leverage
+### استثمر في الرافعة المالية
 
-There are some aspects of the business or product where small, incremental changes yield large results. It sounds too good to be true, but there are mathematical or structural areas where it is almost always true.
+هناك بعض جوانب العمل أو المنتج حيث تؤدي التغييرات الصغيرة المتزايدة إلى نتائج كبيرة. قد يبدو الأمر رائعًا لدرجة يصعب تصديقها، ولكن هناك مجالات رياضية أو هيكلية حيث يكون هذا صحيحًا دائمًا تقريبًا.
 
-Here I'll promote [my new book _Hidden Multipliers_](https://hiddenmultipliers.com/), which details eleven such areas of leverage, where small changes create outsized growth with your current budget and team.
+سأقوم هنا بالترويج لـ [كتابي الجديد _Hidden Multipliers_] (https://hiddenmultipliers.com/)، والذي يعرض بالتفصيل أحد عشر مجالًا من مجالات الرافعة المالية، حيث تؤدي التغييرات الصغيرة إلى نمو كبير بميزانيتك الحالية وفريقك الحالي.
 
-There. End of advertisement.
+هناك. نهاية الإعلان.
 
-### Maximize optionality
+### تعظيم الاختيارية
 
-If we don't know how the future will unfold, we can make choices that maximize how many options we _will_ have when we get there. More than flexibility, more than avoiding lock-in, building systems that are built to handle anything that arises.
+إذا كنا لا نعرف كيف سيكشف المستقبل، فيمكننا أن نتخذ اختيارات تزيد من عدد الخيارات التي سنحصل عليها عندما نصل إلى هناك. أكثر من مجرد مرونة، وأكثر من مجرد تجنب الانغلاق، قم ببناء أنظمة مصممة للتعامل مع أي شيء يطرأ.
 
-Some examples:
+بعض الأمثلة:
 
-* Keeping costs low enables all manner of pricing and packaging while still being profitable, allowing for testing today and resilience in the future.
-* Selecting well-established, actively-developed, cross-platform libraries and frameworks for building user interfaces, so you're able to handle any evolution in platforms and devices.
-* Plug-in architecture, so that both you and your community can build things that you cannot imagine today.
-* API-first architecture to isolate teams, and connect your own front-end tools, back-end systems, and customer integrations.
-* Wrappers around vendor services, so that you can swap out vendors if one becomes unstable, or too expensive, or lags behind others.
+* إن الحفاظ على انخفاض التكاليف يتيح إمكانية التسعير والتعبئة بجميع أنواعها مع الحفاظ على الربحية، مما يسمح بإجراء الاختبارات اليوم والمرونة في المستقبل.
+* اختيار مكتبات وأطر عمل راسخة ومتطورة ومتعددة المنصات لبناء واجهات المستخدم، حتى تتمكن من التعامل مع أي تطور في الأنظمة الأساسية والأجهزة.
+* بنية المكونات الإضافية، حتى تتمكن أنت ومجتمعك من بناء أشياء لا يمكنك تخيلها اليوم.
+* بنية واجهة برمجة التطبيقات (API) الأولى لعزل الفرق وربط أدوات الواجهة الأمامية والأنظمة الخلفية وعمليات تكامل العملاء.
+* أغلفة حول خدمات البائعين، بحيث يمكنك استبدال البائعين إذا أصبح أحدهم غير مستقر، أو مكلفًا للغاية، أو متخلفًا عن الآخرين.
 
-Future optionality requires additional work today. For example, adding vendor-wrapping APIs doesn't add any value today. Those techniques are wise for [mature companies where stability and predictability are more important](https://longform.asmartbear.com/scale/) than releasing a feature a month earlier, but might be the wrong choice for early-stage companies that must rely on their velocity to [win against incumbents](https://longform.asmartbear.com/startup-beats-incumbent/).
+تتطلب الخيارات المستقبلية عملاً إضافيًا اليوم. على سبيل المثال، لا تضيف إضافة واجهات برمجة تطبيقات تغليف البائع أي قيمة اليوم. تعتبر هذه الأساليب حكيمة بالنسبة إلى [الشركات الناضجة التي يكون فيها الاستقرار والقدرة على التنبؤ أكثر أهمية](https://longform.asmartbear.com/scale/) من إطلاق ميزة ما قبل شهر، ولكنها قد تكون خيارًا خاطئًا للشركات في المرحلة المبكرة التي يجب أن تعتمد على سرعتها من أجل [الفوز على الشركات القائمة](https://longform.asmartbear.com/startup-beats-incumbent/).
 
-The way you maximize optionality for the future of the entire company, is to build a great company, by which I mean all the usual things: Healthy but sustained growth, large and expanding gross margins, customers who love you as evidenced by retention, upgrades, and online chatter; employees who love you as evidenced by longevity, career advancement, and online chatter, and so on. Because a great company has lots of options--could be acquired, and not on terrible terms, could run like this for a long time, could raise money, could never raise money, might go public if it gets big, might be passed down to employees or children if it doesn't.
+الطريقة التي يمكنك من خلالها تحقيق أقصى قدر من الاختيارية لمستقبل الشركة بأكملها، هي بناء شركة عظيمة، وأعني بذلك كل الأشياء المعتادة: النمو الصحي ولكن المستدام، والهوامش الإجمالية الكبيرة والمتوسعة، والعملاء الذين يحبونك كما يتضح من الاحتفاظ، والترقيات، والدردشة عبر الإنترنت؛ الموظفون الذين يحبونك كما يتضح من طول العمر، والتقدم الوظيفي، والدردشة عبر الإنترنت، وما إلى ذلك. نظرًا لأن الشركة العظيمة لديها الكثير من الخيارات - يمكن الحصول عليها، وليس بشروط رهيبة، يمكن أن تستمر بهذه الطريقة لفترة طويلة، يمكنها جمع الأموال، لا يمكنها أبدًا جمع الأموال، قد تصبح عامة إذا أصبحت كبيرة، قد تنتقل إلى الموظفين أو الأطفال إذا لم يحدث ذلك.
 
-### Portfolio of bets
+### محفظة الرهانات
 
-Portfolios reduce variability at the expense of also reducing maximum upside. That is, you're unlikely to have zero wins (so your downside isn't too bad), but wins have to make up for the losses, so even the occasional massive win isn't nearly as massive as it would have been. The old joke is that the best investment portfolio would have been to buy Amazon at IPO and hold forever. Sure, but if you applied that advice to some other IPOs that year, you'd have $0. A portfolio of stocks means you'll never go to zero, but your maximum growth will be far less than the best stock in the portfolio.
+تقلل المحافظ من التقلبات على حساب تقليل الحد الأقصى للاتجاه الصعودي أيضًا. وهذا يعني أنه من غير المرجح أن تحقق انتصارات صفرية (وبالتالي فإن الجانب السلبي الخاص بك ليس سيئًا للغاية)، ولكن يجب أن تعوض الانتصارات الخسائر، لذلك حتى الفوز الضخم العرضي ليس بالحجم الذي كان يمكن أن يكون عليه. النكتة القديمة هي أن أفضل محفظة استثمارية كانت لشراء أمازون عند الاكتتاب العام والاحتفاظ بها إلى الأبد. بالتأكيد، ولكن إذا قمت بتطبيق هذه النصيحة على بعض الاكتتابات العامة الأولية الأخرى في ذلك العام، فسيكون لديك 0 دولار. تعني محفظة الأسهم أنك لن تصل أبدًا إلى الصفر، ولكن الحد الأقصى لنموك سيكون أقل بكثير من أفضل سهم في المحفظة.
 
-#### Mathematical sidebar
-Why do portfolios work regardless of the underlying probability distributions? Because of [the Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem), which works like this: Suppose you draw a random sample of N items from a population. The population has a stable _but unknown_ probability distribution. That sample will have some mean. Now draw a new random sample of N items, and compute the new sample's mean. Keep repeating that, and plot a histogram of those sample means. _That_ histogram is converges to a Gaussian--a normal distribution--with mean equal to the population's mean and variance equal to $\frac{1}{n}$ of the population's variance. So, average portfolio results are normally-distributed regardless of the underlying probability distribution.
+#### الشريط الجانبي الرياضي
+لماذا تعمل المحافظ بغض النظر عن التوزيعات الاحتمالية الأساسية؟ بسبب [نظرية الحد المركزي](https://en.wikipedia.org/wiki/Central_limit_theorem)، والتي تعمل على النحو التالي: لنفترض أنك رسمت عينة عشوائية من عناصر N من مجموعة سكانية. يتمتع السكان بتوزيع احتمالي ثابت ولكنه غير معروف. سيكون لهذه العينة بعض المتوسط. الآن ارسم عينة عشوائية جديدة مكونة من N من العناصر، واحسب متوسط ​​العينة الجديدة. استمر في تكرار ذلك، وقم برسم رسم بياني لوسائل العينة تلك. _هذا_ الرسم البياني يتقارب مع توزيع غاوسي - توزيع طبيعي - بمتوسط ​​يساوي متوسط ​​المجتمع وتباين يساوي $\frac{1}{n}$ من تباين المجتمع. لذلك، يتم توزيع متوسط ​​نتائج المحفظة بشكل طبيعي بغض النظر عن التوزيع الاحتمالي الأساسي.
 
-Even further, the [The Lindeberg--Lévy Central Limit Theorem](https://en.wikipedia.org/wiki/Lindeberg%27s_condition) shows that the same is true even when each sample is drawn from a _different_ underlying probability distribution. This holds only under certain conditions (independence, finite variance, and no single variable dominates all others). Arguably these conditions fail with distributions common in startup environments, e.g. some Power Laws have infinite variance.
+علاوة على ذلك، توضح [نظرية ليندبيرج--ليفي للحد المركزي](https://en.wikipedia.org/wiki/Lindeberg%27s_condition) أن الأمر نفسه صحيح حتى عندما يتم سحب كل عينة من توزيع احتمالي أساسي _مختلف_. وهذا ينطبق فقط في ظل ظروف معينة (الاستقلال، والتباين المحدود، وعدم وجود متغير واحد يسيطر على جميع المتغيرات الأخرى). يمكن القول إن هذه الشروط تفشل مع التوزيعات الشائعة في بيئات بدء التشغيل، على سبيل المثال. بعض قوانين القوة لها تباين لا نهائي.
 
-Portfolios work when you value getting predictable but typical outcomes. They don't work when you want outlier results, but you have to accept a the large risk that you won't get that outcome. An example of the latter is a venture or angel portfolio, where [65% of those portfolios lose money](https://www.sethlevine.com/archives/2020/10/vc-fund-returns-are-more-skewed-than-you-think.html) and [only 10%](https://www.saastr.com/why-only-12-of-vcs-can-be-considered-successful-max/) generate returns high enough to justify the risk and illiquidity. When hunting outliers, you need [all-in investments](https://longform.asmartbear.com/investment/), not portfolios.[^7]
+تنجح المحافظ عندما تقدر الحصول على نتائج يمكن التنبؤ بها ولكن نموذجية. إنها لا تعمل عندما تريد نتائج غريبة، ولكن عليك أن تقبل المخاطرة الكبيرة المتمثلة في عدم حصولك على هذه النتيجة. مثال على الأخير هو محفظة المشاريع أو المشاريع الاستثمارية، حيث [65% من تلك المحافظ تخسر المال](https://www.sethlevine.com/archives/2020/10/vc-fund-returns-are-more-skewed-than-you-think.html) و[فقط 10%](https://www.saastr.com/why-only-12-of-vcs-can-be-considered-successful-max/) تحقق عوائد عالية بما يكفي لتبرير المخاطر وعدم السيولة. عند البحث عن القيم المتطرفة، تحتاج إلى [الاستثمارات الشاملة](https://longform.asmartbear.com/investment/)، وليس المحافظ.[^7]
 
-[^7]: Mathematically, the reason for this breakage is that the underlying distribution of startup returns is a Power Law that violates the Lindeberg criteria mentioned above.
+[^7]: من الناحية الرياضية، السبب وراء هذا الكسر هو أن التوزيع الأساسي لعوائد الشركات الناشئة هو قانون القوة الذي ينتهك معايير Lindeberg المذكورة أعلاه.
 
-Therefore, if the goal of your prioritization exercise is to find features that will be strong differentiators in the market and strong growth drivers, a portfolio is the wrong tool. On the other hand, if you're prioritizing a bunch of smaller things, where you want incremental but reliable results, a portfolio will get you those results. No need to argue about confidence.
+لذلك، إذا كان الهدف من عملية تحديد الأولويات الخاصة بك هو العثور على الميزات التي ستكون بمثابة عوامل تمييز قوية في السوق ومحركات قوية للنمو، فإن المحفظة هي الأداة الخاطئة. من ناحية أخرى، إذا كنت تعطي الأولوية لمجموعة من الأشياء الأصغر، حيث تريد نتائج تدريجية ولكن موثوقة، فإن المحفظة سوف تحصل على تلك النتائج. لا داعي للنقاش حول الثقة.
 
-### Asymmetric bets
+### الرهانات غير المتماثلة
 
-The natural counterpart to a portfolio. Portfolios work when you want reliability; asymmetric bets work when you want outliers. You're not predicting whether the bet pays off--we've established you can't--you're taking bets with limited and quantifiable downside, yet with large potential upside.
+النظير الطبيعي للمحفظة. تعمل المحافظ عندما تريد الموثوقية؛ الرهانات غير المتماثلة تعمل عندما تريد القيم المتطرفة. أنت لا تتنبأ بما إذا كان الرهان سيؤتي ثماره - لقد أثبتنا أنك لا تستطيع ذلك - فأنت تراهن على جانب سلبي محدود وقابل للقياس، ولكن مع احتمال كبير للارتفاع.
 
-If the worst case is "we lose two months" and the best case is "we're completely differentiated," the probability barely matters. You only need the downside to be survivable, and the upside large enough that one win pays for ten losses. The exact probabilities are unknowable; the *shape* of each bet is not.
+إذا كانت الحالة الأسوأ هي "أننا نخسر شهرين" والحالة الأفضل هي "نحن مختلفون تمامًا"، فإن الاحتمال بالكاد يهم. كل ما تحتاجه هو أن يكون الجانب السلبي قابلاً للنجاة، وأن يكون الجانب الصعودي كبيرًا بما يكفي بحيث يؤدي فوز واحد إلى تعويض عشر خسائر. الاحتمالات الدقيقة غير معروفة. *شكل* كل رهان ليس كذلك.
 
-Most asymmetric bets at the strategic level arrive pre-shaped--a new market with compounding referrals, a moat that gets deeper the longer you dig. At the feature level, you usually have to *construct* the asymmetry yourself, because the default shape of a software project is a slow drift from "two weeks" to "two months" to "we've spent so long we have to finish it." The mechanism is a budget you write down before you start: two engineers, three weeks, then we stop and look. The time-box is the bounded downside.
+تصل معظم الرهانات غير المتماثلة على المستوى الاستراتيجي إلى شكل مسبق - سوق جديدة ذات إحالات مركبة، وخندق يزداد عمقًا كلما قمت بالحفر لفترة أطول. على مستوى الميزات، يتعين عليك عادةً *إنشاء* عدم التماثل بنفسك، لأن الشكل الافتراضي لمشروع برمجي هو الانجراف البطيء من "أسبوعين" إلى "شهرين" إلى "لقد أمضينا وقتًا طويلاً وعلينا الانتهاء منه". الآلية عبارة عن ميزانية تكتبها قبل أن تبدأ: مهندسان، ثلاثة أسابيع، ثم نتوقف وننظر. المربع الزمني هو الجانب السلبي المحدود.
 
-Another thing you can do is replace "confidence" with "how asymmetric." RICE asks you to estimate a probability you've already conceded you can't know. Asymmetry asks you to estimate two things you actually can: the worst case in time and money, and the best case in customer value. Both are concrete. Both you can argue about in a meeting and converge on a number you'd defend, at least if you restrict yourself only to powers-of-ten for all numbers, [as you should anyway](https://longform.asmartbear.com/roi-rubric/).
+شيء آخر يمكنك القيام به هو استبدال عبارة "الثقة" بكلمة "مدى عدم التماثل". تطلب منك RICE تقدير الاحتمال الذي اعترفت به بالفعل ولا يمكنك معرفته. يطلب منك عدم التماثل تقدير شيئين يمكنك فعلًا تقديرهما: أسوأ حالة من حيث الوقت والمال، وأفضل حالة من حيث قيمة العميل. كلاهما ملموس. يمكنكما الجدال بشأنهما في اجتماع والتقارب حول رقم تدافع عنه، على الأقل إذا قيدت نفسك فقط بصلاحيات العشرة لجميع الأرقام، [كما ينبغي لك على أي حال](https://longform.asmartbear.com/roi-rubric/).
 
 ---
 
-Stop pretending you can quantify confidence, or even define it.
+توقف عن التظاهر بأنك قادر على قياس الثقة، أو حتى تحديدها.
 
-Instead, use techniques that work whenever the future is unpredictable.
+وبدلاً من ذلك، استخدم التقنيات التي تنجح عندما يكون المستقبل غير قابل للتنبؤ به.
 
-Because it always is.
+لأنه دائما كذلك.

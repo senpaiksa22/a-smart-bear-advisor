@@ -20,135 +20,122 @@ summary_ar: "A/B tests and accumulating Twitter followers is not a marketing str
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** إذا بنيت المنتج فلن يأتوا بمفردهم، إلا إذا امتلكت خطة توزيع حقيقية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+اسأل إحدى المؤسسات التقنية عن شركتها الناشئة، وسوف تصف لك بكل فخر برنامجها المذهل - البسيط والمقنع والمفيد والممتع. بعد ذلك، ستصف نظامها الأساسي المتطور - القائم على السحابة، والقابل للتطوير، والتحكم في الإصدار الموزع، والتكامل المستمر، والنشر بنقرة واحدة. ربما ستحصل حتى على عرض توضيحي متذبذب.
 
----
+"رائع"، أصرخ دائمًا، وأشارككم متعة تطوير البرمجيات الحديثة، "فكيف سيكتشف الناس هذا الموقع الرائع؟"
 
-### النص المرجعي للمقال (Original Reference):
-# If you build it, they won't come, unless…
-
-> **Executive Summary:** A/B tests and accumulating Twitter followers is not a marketing strategy, just as "we'll use salt and cheese" isn't a recipe.
-> **Original URL:** [https://longform.asmartbear.com/startup-marketing-ideas/](https://longform.asmartbear.com/startup-marketing-ideas/)
-
-Ask a technical founder about her startup, and she'll proudly describe her stunning software--simple, compelling, useful, fun. Then she'll describe her cutting-edge platform--cloud-based, scalable, distributed version control, continuous integration, one-click-deploy. Maybe you'll even get a wobbly demo.
-
-"Great," I always exclaim, sharing the thrill of modern software development, "so how will people find out about this brilliant website?"
-
-*Cue sound of cicadas buzzing.*
+* صوت جديلة من الزيز الأز. *
 
 ![cicada](https://public.asmartbear.com/books/anthology/chapters/startup-marketing-ideas/cicada-chirping1-simple.png)
 
-(Or "crickets chirping" but in Texas the [cicadas](https://en.wikipedia.org/wiki/Cicada) are louder.)
+(أو "زقزقة الصراصير" ولكن في تكساس يكون صوت [الزيز](https://en.wikipedia.org/wiki/Cicada) أعلى صوتًا.)
 
-Four uncomfortable seconds later, a smile breaks across the founder's face. "Here it comes," I think, "there *is* a strategy after all!"
+وبعد أربع ثوانٍ غير مريحة، ارتسمت ابتسامة على وجه المؤسس. "هنا يأتي"، أعتقد، "هناك *استراتيجية بعد كل شيء!"
 
-**Except the "strategy" is a tirade of drivel** I've heard so many times I can lip-sync as the words spew out the founder's mouth:
+**باستثناء أن "الاستراتيجية" هي عبارة عن خطبة من الهراء** لقد سمعت مرات عديدة أنني أستطيع مزامنة شفتي بينما تخرج الكلمات من فم المؤسس:
 
-* "We're going to A/B-test AdWords campaigns until we discover our hook."
-* "We're going to A/B-test our landing pages until the right message appears."
-* "We're better than everyone else at SEO."
-* "A friend of mine knows how to get popular on Twitter."
-* "We're going to get reviews on blogs."
-* "We're going to start with our own network and grow it from there."
-* "We're going to use an affiliate program so our customers sell it for us."
-* "We're putting a 'Retweet' button inside the product to encourage viral growth."
+* "سنقوم بإجراء اختبار A/B لحملات AdWords حتى نكتشف هدفنا."
+* "سنقوم باختبار A/B لصفحاتنا المقصودة حتى تظهر الرسالة الصحيحة."
+* "نحن أفضل من أي شخص آخر في تحسين محركات البحث."
+* "يعرف أحد أصدقائي كيف يصبح مشهورًا على تويتر."
+* "سنحصل على مراجعات على المدونات."
+* "سنبدأ بشبكتنا الخاصة وسنعمل على تنميتها من هناك."
+* "سنستخدم برنامجًا تابعًا حتى يبيعه عملاؤنا لنا."
+* "نحن نضع زر "إعادة التغريد" داخل المنتج لتشجيع النمو الفيروسي."
 
-The obvious problem is that **every new startup on Earth says exactly these things. Nowadays the "strategy" above sounds the same as:**
+المشكلة الواضحة هي أن **كل شركة ناشئة جديدة على وجه الأرض تقول هذه الأشياء بالضبط. في الوقت الحاضر تبدو "الاستراتيجية" المذكورة أعلاه كما يلي:**
 
-* "We'll have a website so people can read about us."
-* "We'll have an email address so people can communicate with us without picking up the phone."
+* "سيكون لدينا موقع على شبكة الإنترنت حتى يتمكن الناس من القراءة عنا."
+* "سيكون لدينا عنوان بريد إلكتروني حتى يتمكن الأشخاص من التواصل معنا دون رفع الهاتف."
 
-Yes, you're going to do those things, but **since millions of other people are doing that too, you're still invisible.** Visibility-fail. Anyone-gives-a-crap-fail.
+نعم، ستفعل هذه الأشياء، ولكن **بما أن الملايين من الأشخاص الآخرين يفعلون ذلك أيضًا، فأنت لا تزال غير مرئي.** فشل في الرؤية. أي شخص يعطي حماقة تفشل.
 
-OK, so what can you do to [rise above the cacophony](https://longform.asmartbear.com/standing-out-from-the-noise/) that is the internet?
+حسنًا، ما الذي يمكنك فعله [للارتقاء فوق النشاز](https://longform.asmartbear.com/standing-out-from-the-noise/) الذي يمثل الإنترنت؟
 
-## Frightening honesty
+## الصراحة مخيفة
 
-[Balsamiq Mockups](https://balsamiq.com/) is a ludicrously popular wire-framing tool. The software is good--don't get me wrong--but what sets Peldi (the founder) apart isn't prescient feature selection or bug-free releases, it's his startling transparency. He [published revenue](https://balsamiq.com/company/news/hit-100000-in-revenue-time-to-start-looking-up/) figures even when they were [still pathetic](https://balsamiq.com/blog/balsamiq-week-one-recap/), he pledged loudly and eagerly to [give away lots of free copies](https://balsamiq.com/blog/donating/) to non-profits, and he revealed all his (remarkably effective) [marketing strategies](https://balsamiq.com/company/news/balsamiq-roadmap-for-2010/) even though it meant competitors would learn them too.
+[Balsamiq Mockups](https://balsamiq.com/) هي أداة شائعة للغاية لتأطير الأسلاك. البرنامج جيد - لا تفهموني خطأ - ولكن ما يميز Peldi (المؤسس) ليس اختيار الميزات البصيرة أو الإصدارات الخالية من الأخطاء، بل شفافيته المذهلة. لقد [نشر الإيرادات](https://balsamiq.com/company/news/hit-100000-in-revenue-time-to-start-looking-up/) حتى عندما كانوا [لا يزالون مثيرين للشفقة](https://balsamiq.com/blog/balsamiq-week-one-recap/)، تعهد بصوت عالٍ وبشغف بـ [التخلي عن الكثير من الأموال المجانية نسخ](https://balsamiq.com/blog/donating/) للمؤسسات غير الربحية، وكشف عن جميع [استراتيجيات التسويق] (الفعالة بشكل ملحوظ) (https://balsamiq.com/company/news/balsamiq-roadmap-for-2010/) على الرغم من أن ذلك يعني أن المنافسين سيتعلمونها أيضًا.
 
 ![Balsamiq's public not-rocket-ship website growth](https://public.asmartbear.com/books/anthology/chapters/startup-marketing-ideas/image-2-simple.png)
 
-He didn't just have an "authentic voice," he made public promises. That's compelling.
+لم يكن لديه "صوت أصيل" فحسب، بل كان يقدم وعودًا علنية. هذا مقنع.
 
-He didn't just "tell it like it is," he gave up his marketing secrets and opened his company books. That's newsworthy.
+فهو لم يقل الأمر كما هو فحسب، بل تخلى عن أسراره التسويقية وفتح دفاتر شركته. هذا أمر يستحق النشر.
 
-This isn't merely "being human" and all that claptrap, it's almost *too much honesty*, like when you ask someone how it's going and they tell you about a weird pustule on their middle toe that's been oozing since last Wednesday.
+هذا ليس مجرد "كونك إنسانًا" وكل هذا الهراء، إنه تقريبًا *مبالغ فيه من الصدق*، كما هو الحال عندما تسأل شخصًا ما كيف تسير الأمور ويخبرك عن بثرة غريبة على إصبع قدمه الأوسط كانت تنزف منذ الأربعاء الماضي.
 
 ![Balsamiq: Still a small team of real, caring people, who don't dress up for photos.](https://public.asmartbear.com/books/anthology/chapters/startup-marketing-ideas/image-simple.png)
 
-In a world where everyone and their brother is "joining the conversation", you have to *truly* bare your soul if you want to compete on the transparency front. It's not for everyone, and I'm not suggesting it ought to be, but if you're going to employ it, don't half-ass it.
+في عالم "ينضم فيه الجميع وأخيهم إلى المحادثة"، عليك *حقًا* أن تكشف عن روحك إذا كنت تريد التنافس على جبهة الشفافية. إنه ليس مناسبًا للجميع، وأنا لا أقترح أنه ينبغي أن يكون كذلك، ولكن إذا كنت ستستخدمه، فلا تتجاهله.
 
-## Infection built-in, not bolt-on
+## العدوى مدمجة وليست مثبتة
 
-[Calendly](https://calendly.com/) lets people schedule meetings with you in currently-available time-slots without you having to share your calendar:
+يتيح [Calendly](https://calendly.com/) للأشخاص جدولة الاجتماعات معك في الفترات الزمنية المتاحة حاليًا دون الحاجة إلى مشاركة تقويمك:
 
 ![calendly screenshot](https://public.asmartbear.com/books/anthology/chapters/startup-marketing-ideas/image-4-simple.png)
 
-The key point is that Calendly's customer ("Reggie" in this screenshot) sends the link to other people, perhaps many times per month. Then, those other people have to _use the product_ to schedule a meeting. This is the viral step: Having now used the tool, the stranger might use it herself, and so on.
+النقطة الأساسية هي أن عميل Calendly ("Reggie" في لقطة الشاشة هذه) يرسل الرابط إلى أشخاص آخرين، ربما عدة مرات في الشهر. بعد ذلك، يتعين على هؤلاء الأشخاص الآخرين _استخدام المنتج_ لجدولة اجتماع. هذه هي الخطوة واسعة الانتشار: بعد استخدام الأداة الآن، قد يستخدمها الشخص الغريب بنفسه، وهكذا.
 
-Viral infection works so well, smaller bootstrapped companies like [YouCanBookMe](https://youcanbook.me/) and [SavvyCal](https://savvycal.com/) compete with Calendly, despite them being large, well-funded, profitable, and growing.
+تعمل العدوى الفيروسية بشكل جيد للغاية، حيث تتنافس الشركات الصغيرة مثل [YouCanBookMe](https://youcanbook.me/) و[SavvyCal](https://savvycal.com/) مع Calendly، على الرغم من كونها كبيرة وممولة بشكل جيد ومربحة ومتنامية.
 
-Note that at no point did I say "a button lets people 'like' this on Facebook." I know of no companies who have "[gone viral](https://longform.asmartbear.com/going-viral/)" because of buttons. Buttons are good--why *not* use them?--but they don't make your product *intrinsically* viral like Calendly.
+لاحظ أنني لم أقل في أي وقت من الأوقات أن "الزر يتيح للأشخاص الإعجاب بهذا على فيسبوك". لا أعرف أي شركة "[انتشرت على نطاق واسع](https://longform.asmartbear.com/going-viral/)" بسبب الأزرار. الأزرار جيدة - لماذا لا تستخدمها؟ - لكنها لا تجعل منتجك ينتشر بشكل جوهري مثل Calendly.
 
-Which is OK--not all products need to be viral! But if it's not viral you still need a killer method of finding customers, and if it *is* supposed to be viral it better be encoded in the DNA of the application, not bolted on as an afterthought.
+وهذا أمر جيد، فليس من الضروري أن تكون جميع المنتجات فيروسية! ولكن إذا لم يكن فيروسيًا، فلا تزال بحاجة إلى طريقة قاتلة للعثور على العملاء، وإذا كان من المفترض أن يكون فيروسيًا، فمن الأفضل أن يتم ترميزه في الحمض النووي للتطبيق، وليس تثبيته كفكرة لاحقة.
 
-## Making Oprah cry
+## جعل أوبرا تبكي
 
-The number one mistake founders make when trying to generate press is talking about what the company *does* rather than telling a compelling *story*.
+الخطأ الأول الذي يرتكبه المؤسسون عند محاولتهم إنشاء الصحافة هو التحدث عما *تفعله* الشركة بدلاً من سرد *قصة* مقنعة.
 
-Does Twitter get press when it helps Iranians fight an illegitimate government or when it creates a new internal IT process to increase up-time? Does Apple win the hearts (yes, *hearts*) of millions because of their obsession with design or because of their development APIs? Does 37signals have over three million users because their software is "better" than the competition, or is it because they motivate designers and entrepreneurs through their writing and philosophy?
+هل يحظى موقع تويتر بالتغطية الصحفية عندما يساعد الإيرانيين على محاربة حكومة غير شرعية أو عندما ينشئ عملية داخلية جديدة لتكنولوجيا المعلومات لزيادة وقت التشغيل؟ هل تفوز شركة Apple بقلوب الملايين (نعم، *القلوب*) بسبب هوسها بالتصميم أم بسبب واجهات برمجة التطبيقات الخاصة بالتطوير؟ هل لدى 37signals أكثر من ثلاثة ملايين مستخدم لأن برامجها "أفضل" من المنافسين، أم أنها تحفز المصممين ورجال الأعمال من خلال كتاباتهم وفلسفتهم؟
 
-Without a powerful narrative, your chances of getting big press and enthusiastic users who spread the word for you approach zero as a limit.
+بدون سرد قوي، فإن فرصك في الحصول على صحافة كبيرة ومستخدمين متحمسين ينشرون الكلمة نيابة عنك تقترب من الصفر كحد أقصى.
 
-It took me *years* to figure this out at Smart Bear. At first when someone asked what the Smart Bear tool suite was, I [would say](https://longform.asmartbear.com/little-company/):
+لقد استغرق الأمر * سنوات * لمعرفة ذلك في Smart Bear. في البداية عندما سألني أحد الأشخاص عن مجموعة أدوات Smart Bear، [كنت أقول](https://longform.asmartbear.com/little-company/):
 
-> Smart Bear makes data-mining tools for version control systems.
+> تقوم شركة Smart Bear بتصنيع أدوات التنقيب عن البيانات لأنظمة التحكم في الإصدارات.
 
-It's a description so esoteric that, although accurate, not even a hardcore geek would have any idea what it is, much less why it's useful.
+إنه وصف مقصور على فئة معينة، على الرغم من دقته، إلا أنه حتى المهووسين المتشددين لن يكون لديهم أي فكرة عن ماهيته، ناهيك عن سبب فائدته.
 
-Years later, when we refocused on code review software (eliminating our other 5 products), I got better at describing it:
+بعد سنوات، عندما أعدنا التركيز على برنامج مراجعة التعليمات البرمجية (مع استبعاد منتجاتنا الخمسة الأخرى)، أصبحت أفضل في وصفه:
 
 ![bear interviewing](https://public.asmartbear.com/books/anthology/chapters/startup-marketing-ideas/image-3-simple.png)
 
-> You know how Word has "track changes" where you can make modifications and comments and show them to someone else? We do that for software developers, integrating with their tools and workflows.
+> هل تعرف كيف يقوم Word بتتبع التغييرات حيث يمكنك إجراء التعديلات والتعليقات وإظهارها لشخص آخر؟ نحن نفعل ذلك لمطوري البرامج، ونتكامل مع أدواتهم وسير العمل.
 
-**Better, yes, and for a while I thought I nailed it, but still no press.** Eventually (thanks to helpful journalists) I realized that I was still just describing *what it is* rather than *why anyone ought to care*. I left it up to the reader to figure out why she should be excited.
+**الأفضل، نعم، ولفترة من الوقت اعتقدت أنني نجحت في ذلك، ولكن لم أتمكن من الصحافة بعد.** وفي نهاية المطاف (بفضل الصحفيين المساعدين) أدركت أنني كنت لا أزال أصف *ما هو الأمر* فقط وليس *لماذا يجب على أي شخص أن يهتم*. تركت الأمر للقارئ ليعرف سبب حماسته.
 
-Eventually I developed stories like the following, each tuned to a certain category of listener. Here's the one for the journalists:
+في نهاية المطاف، قمت بتطوير قصص مثل ما يلي، كل منها تم ضبطه لفئة معينة من المستمعين. وهنا للصحافيين:
 
-> It's always fun to tell a journalist like you that we enable software developers to review each other's code because your reaction is always: "Wait a minute, you're seriously telling me they don't do this already?" The idea of editing and review is so embedded in your industry you can't imagine life without it, *and you're right!* You know better than anyone how another person finds problems you can't see for yourself.  
->   
-> Of course this is true for everyone, in all kinds of work, but developers traditionally work in isolation, mainly because there's a dearth of tools which help teams bridge the social gap of an ocean, integrate with incumbent﻿ tools, and are lightweight enough to still be fun and relevant.  
->   
-> That's what we do: Bring the benefits of peer review to software development.
+> من الممتع دائمًا أن تخبر صحفيًا مثلك أننا نمكن مطوري البرامج من مراجعة أكواد بعضهم البعض لأن رد فعلك دائمًا هو: "انتظر لحظة، أنت تخبرني بجدية أنهم لم يفعلوا هذا بالفعل؟" إن فكرة التحرير والمراجعة متأصلة في مجال عملك بحيث لا يمكنك تخيل الحياة بدونها، *وأنت على حق!* أنت تعرف أكثر من أي شخص آخر كيف يجد شخص آخر مشاكل لا يمكنك رؤيتها بنفسك.
+> 
+> بالطبع هذا صحيح بالنسبة للجميع، في جميع أنواع العمل، لكن المطورين يعملون بشكل تقليدي بمعزل عن الآخرين، ويرجع ذلك أساسًا إلى ندرة الأدوات التي تساعد الفرق على سد الفجوة الاجتماعية للمحيط، والتكامل مع الأدوات الحالية﻿، كما أنها خفيفة الوزن بما يكفي لتظل ممتعة وذات صلة.
+> 
+> وهذا ما نقوم به: جلب فوائد مراجعة النظراء إلى تطوير البرمجيات.
 
-Now the reason for excitement is clear: We're transforming how software is created, applying the age-old techniques of peer review to an industry that needs it but where it's traditionally too hard to do. *That's* a story.
+الآن أصبح سبب الإثارة واضحًا: نحن نقوم بتغيير كيفية إنشاء البرامج، وتطبيق التقنيات القديمة لمراجعة النظراء على الصناعة التي تحتاج إليها ولكن حيث يكون من الصعب جدًا القيام بها تقليديًا. *هذه* قصة.
 
-It took me *five years* to figure out (a) I needed a story and (b) what the story was. It's hard. But one story beats a [pile of AdWords A/B tests](https://longform.asmartbear.com/p-hacking/).
+لقد استغرق الأمر *خمس سنوات* لمعرفة (أ) أنني بحاجة إلى قصة و(ب) ما هي القصة. إنه صعب. ولكن هناك قصة واحدة تتفوق على [كومة من اختبارات A/B في AdWords](https://longform.asmartbear.com/p-hacking/).
 
-## Advertising →﻿ [transmogrification] → Revenue
+## الإعلان →﻿ [التحويل] → الإيرادات
 
-Yeah yeah, nowadays marketing is about "relationships" and "[authenticity](https://longform.asmartbear.com/authentic-is-dead/)" and other things which [cost time but not money](https://longform.asmartbear.com/startup-money/). It's all I hear about anymore.
+نعم، التسويق في الوقت الحاضر يدور حول "العلاقات" و"[الأصالة](https://longform.asmartbear.com/authentic-is-dead/)" وأشياء أخرى [تكلف الوقت ولكن ليس المال](https://longform.asmartbear.com/startup-money/). هذا كل ما أسمع عنه بعد الآن.
 
-But don't be so quick to jettison the idea of spending money to make money. Advertising isn't dead; you can still buy eyeballs. I'm not talking about arbitrage strategies like buying AdWords that link to a page of ads, but most companies on Earth don't depend on "joining the conversation" to acquire customers.
+لكن لا تتسرع في التخلي عن فكرة إنفاق المال لكسب المال. الإعلان لم يمت؛ لا يزال بإمكانك شراء مقل العيون. أنا لا أتحدث عن استراتيجيات المراجحة مثل شراء AdWords الذي يرتبط بصفحة إعلانات، ولكن معظم الشركات على وجه الأرض لا تعتمد على "الانضمام إلى المحادثة" لاكتساب العملاء.
 
-It *sounds* simple: The average cost of acquiring a customer is `$C` (advertising, sales, support, doing demos) and the lifetime revenue you get from that customer is `$R`, so if `C < R` you have a business. `C` can be driven down with cheaper ads, better lead quality, a more efficient conversion rate, and straightforward trials with minimal tech support.
+*يبدو الأمر بسيطًا: متوسط ​​تكلفة اكتساب العميل هو `$C` (الإعلان، والمبيعات، والدعم، وتقديم العروض التوضيحية) والعائد الدائم الذي تحصل عليه من هذا العميل هو `$R`، لذلك إذا كان `C <R` لديك عمل تجاري. يمكن تخفيض "C" من خلال إعلانات أرخص، وجودة عملاء محتملين أفضل، ومعدل تحويل أكثر كفاءة، وتجارب مباشرة مع الحد الأدنى من الدعم الفني.
 
-Of course it's *not* that simple, and many business plans I've seen (unintentionally) omit many of the true costs of acquisition. Read this great interview with Sean Ellis at VentureHacks for a great discussion of [how to seek a repeatable, profitable model](https://venturehacks.com/articles/sean-ellis-interview) where `C < R`, and *then* [optimize and grow](https://venturehacks.com/articles/sean-ellis-interview-2). It's a little heavy on the "huge VC-style company" strategy, but you'll come away with a strong perspective on how to build a machine that turns advertising dollars into (a greater number of) revenue dollars.
+بالطبع الأمر *ليس* بهذه البساطة، والعديد من خطط الأعمال التي رأيتها (عن غير قصد) تغفل العديد من التكاليف الحقيقية للاستحواذ. اقرأ هذه المقابلة الرائعة مع Sean Ellis في VentureHacks لإجراء مناقشة رائعة حول [كيفية البحث عن نموذج مربح وقابل للتكرار](https://venturehacks.com/articles/sean-ellis-interview) حيث `C <R`، و*ثم* [التحسين والنمو](https://venturehacks.com/articles/sean-ellis-interview-2). إنها ثقيلة بعض الشيء بالنسبة لاستراتيجية "شركة ضخمة على غرار رأس المال الاستثماري"، لكنك ستحصل على منظور قوي حول كيفية بناء آلة تحول دولارات الإعلانات إلى (عدد أكبر) من دولارات الإيرادات.
 
-## Celebrity Championship
+## بطولة المشاهير
 
-I already beat you to death about how [celebrity endorsement can serve as an untouchable competitive advantage](https://longform.asmartbear.com/unfair-advantages/), and it's also an answer to how to burst out of the dull roar of internet marketing.
+لقد سبقتك بالفعل حتى الموت بشأن كيف يمكن أن يكون [تأييد المشاهير بمثابة ميزة تنافسية لا يمكن المساس بها](https://longform.asmartbear.com/unfair-advantages/)، وهو أيضًا إجابة لكيفية الخروج من الزئير الباهت للتسويق عبر الإنترنت.
 
-Take me. I'm no Seth Godin, but consider what I could do if I were a co-founder in a new software development tool company:
+خذني. أنا لست سيث جودين، ولكن فكر فيما يمكنني فعله إذا كنت مؤسسًا مشاركًا في شركة جديدة لأدوات تطوير البرمجيات:
 
-* I have personal relationships with the CEOs and other influencers at hundreds of software development companies. During ideation, they would brainstorm. During beta-testing they would be guinea pigs. After release of v3.0 some would be ready to become paying customers.
-* I have relationships with editors of nearly all software development publications (on-line and off); I've already published articles with them. Some would help vet our stories, some would publish our articles.
-* I've bought ads in every major (and quite a few minor) software development websites, magazines, newsletters, conferences, and webinars. So when it's time to advertise, we'll come in with the right message for the audience and probably cut a deal.
-* If you read this blog you're probably a software developer, so even just a few mentions here might be more powerful than $10,000 in A/B tested Google AdWords.
-* If we were trying to raise money, my previous success would not only get us the initial meetings but would be a significant bump in our chance of raising it.
+* لدي علاقات شخصية مع الرؤساء التنفيذيين وغيرهم من المؤثرين في مئات من شركات تطوير البرمجيات. أثناء التفكير، كانوا يقومون بالعصف الذهني. أثناء اختبار بيتا سيكونون خنازير غينيا. بعد إصدار الإصدار 3.0، سيكون البعض جاهزًا ليصبحوا عملاء يدفعون.
+* لدي علاقات مع محرري جميع منشورات تطوير البرمجيات تقريبًا (عبر الإنترنت وخارجها)؛ لقد قمت بالفعل بنشر مقالات معهم. قد يساعد البعض في فحص قصصنا، والبعض الآخر ينشر مقالاتنا.
+* لقد اشتريت إعلانات في كل مواقع الويب والمجلات والنشرات الإخبارية والمؤتمرات والندوات عبر الإنترنت الرئيسية (وعدد لا بأس به من المواقع الثانوية). لذلك، عندما يحين وقت الإعلان، سنأتي بالرسالة الصحيحة للجمهور وربما نبرم صفقة.
+* إذا قرأت هذه المدونة، فمن المحتمل أنك أحد مطوري البرامج، لذا فإن بعض الإشارات القليلة هنا قد تكون أقوى من مبلغ 10000 دولار أمريكي في Google AdWords الذي تم اختباره بواسطة A/B.
+* إذا كنا نحاول جمع الأموال، فإن نجاحي السابق لن يمكّننا من عقد الاجتماعات الأولية فحسب، بل سيكون بمثابة عقبة كبيرة في فرصتنا في جمع الأموال.
 
-While everyone else is mucking about with a new blog, blasting their LinkedIn network with pleading emails, and paying out the nose to test AdWord variants, we're years ahead in the marketing war.
+في حين أن الجميع يعبثون بمدونة جديدة، ويفجرون شبكة LinkedIn الخاصة بهم برسائل البريد الإلكتروني المناشدة، وينفقون أموالهم لاختبار متغيرات AdWord، فإننا نتقدم بسنوات في حرب التسويق.

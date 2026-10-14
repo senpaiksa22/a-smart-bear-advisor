@@ -20,145 +20,132 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** ماتت كلمة 'أصالة' وماتت معها كل الشعارات التسويقية المبتذلة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# "Authentic" is dead. And so is "is dead."
-
-> **Executive Summary:** It's lazy writing. It's boring and undifferentiated. Say something meaningful, specific, evocative, so your website wins, and you can be proud of it.
-> **Original URL:** [https://longform.asmartbear.com/authentic-is-dead/](https://longform.asmartbear.com/authentic-is-dead/)
-
-**It's time to retire the following phrases.** They should no longer be used in any context except derisive mocking:
+**حان الوقت للتخلي عن العبارات التالية.** لا ينبغي استخدامها بعد الآن في أي سياق باستثناء السخرية الساخرة:
 
 ![higher calling](https://public.asmartbear.com/books/anthology/chapters/authentic-is-dead/gapingvoid-yak-yak-yak1-simple.png)
 
-* The Holy Grail of
-* Designed with you in mind
-* Putting customers first
-* All new
-* Win-win
-* Proven track record
-* [Fast and easy](https://longform.asmartbear.com/opposite-test/)
-* [The leading provider of](https://longform.asmartbear.com/the-leading-provider/)
-* [And more](https://longform.asmartbear.com/and-more/)
-* [For everyone](https://longform.asmartbear.com/icp-ideal-customer-persona/)
-* The go-to choice for ______
-* Transforming the way you ______
-* Designed with ❤️ in ______
-* The future of ______ is here
-* Everything you think you know about ______ is wrong
-* ______ considered harmful
-* ______ is broken
-* ______ is dead
-* ______ [sucks](https://longform.asmartbear.com/is-it-ok-to-sucks/)
-* Saves you time, so you can get back to doing what you do best.
+* الكأس المقدسة
+* مصممة مع وضعك في الاعتبار
+* وضع العملاء في المقام الأول
+* كل جديد
+* الفوز
+* سجل حافل
+* [سريع وسهل](https://longform.asmartbear.com/opposite-test/)
+* [المزود الرائد لـ](https://longform.asmartbear.com/the-leading-provider/)
+* [والمزيد](https://longform.asmartbear.com/and-more/)
+* [للجميع](https://longform.asmartbear.com/icp-ideal-customer-persona/)
+* الخيار الأمثل ______
+* تغيير الطريقة ______
+* مصممة بـ ❤️ في ______
+* مستقبل ______ هنا
+* كل ما تعتقد أنك تعرفه عن ______ خطأ
+* ______ تعتبر ضارة
+* ______ مكسورة
+* ______ مات
+* ______ [سيء](https://longform.asmartbear.com/is-it-ok-to-sucks/)
+* يوفر عليك الوقت، حتى تتمكن من العودة إلى القيام بما تفعله بشكل أفضل.
 
-Also eschew these words, as devoid of meaning as a yogi's mantra and as useless as a simile that doesn't contribute new information:
+تجنب أيضًا هذه الكلمات، لأنها خالية من المعنى مثل تعويذة اليوغي وعديمة الفائدة مثل التشبيه الذي لا يساهم بمعلومات جديدة:
 
 ![welcome to NOBODY CARES, population 6 billion](https://public.asmartbear.com/books/anthology/chapters/authentic-is-dead/gapingvoid-welcome-nobody-cares-simple.png)
 
-* **Authentic**
-* Solution
-* Turnkey solution
-* Genuine
-* Powerful
-* Secure
-* Simple
-* Innovative
-* Insight
-* Revolutionary
-* Unsurpassed
-* Unparalleled
-* Cutting-edge
-* World-class
-* State-of-the-art
-* Game-changing
-* Ground-breaking
-* Value-add
-* [Disruptive](https://longform.asmartbear.com/disruptive/)
+* **أصلي**
+* حل
+* حل جاهز
+* أصيل
+* قوي
+* يؤمن
+* بسيط
+* إبداعي
+* بصيرة
+* ثوري
+* غير مسبوقة
+* لا مثيل لها
+* المتطور والحديث
+* من الطراز العالمي
+* مثال رائع من الفن
+* تغيير قواعد اللعبة
+* رائدة
+* القيمة المضافة
+* [تخريبية](https://longform.asmartbear.com/disruptive/)
 
-**These words have been corrupted by those who claim to honor their meaning but do not act accordingly.**
+**وقد أفسد هذه الألفاظ من زعموا احترام معانيها ولم يعملوا بمقتضاها.**
 
-When a company claims to "put customers first" but then [uses "Level 1 support" as a shield](https://longform.asmartbear.com/hello-support/) to prevent customers from intruding on profits, we realize talk is cheap.
+عندما تدعي إحدى الشركات أنها "تضع العملاء في المقام الأول" ولكن بعد ذلك [تستخدم "دعم المستوى الأول" كدرع](https://longform.asmartbear.com/hello-support/) لمنع العملاء من التطفل على الأرباح، فإننا ندرك أن الحديث رخيص.
 
-When a company claims to have "secure" payments but then 100,000 credit card numbers are stolen, we realize you don't need a permit to claim that you're secure.
+عندما تدعي إحدى الشركات أن لديها مدفوعات "آمنة" ولكن بعد ذلك يتم سرقة 100000 رقم بطاقة ائتمان، فإننا ندرك أنك لا تحتاج إلى تصريح للادعاء بأنك آمن.
 
-When a company claims to be "innovative and [disruptive](https://longform.asmartbear.com/disruptive/)" but then pitches an idea you've heard ten times in the past month, it reminds us that [if you have to say it, it's probably not true](https://longform.asmartbear.com/outside-in/).
+عندما تدعي إحدى الشركات أنها "مبتكرة و[مبتكرة](https://longform.asmartbear.com/disruptive/)" ولكن بعد ذلك تطرح فكرة سمعتها عشر مرات في الشهر الماضي، فهذا يذكرنا بأنه [إذا كان عليك أن تقول ذلك، فمن المحتمل أن يكون غير صحيح](https://longform.asmartbear.com/outside-in/).
 
-When 78% of "About Us" web pages claim "the leading provider" of something, we are no longer impressed.
+عندما تدعي 78% من صفحات الويب "نبذة عنا" أنها "المزود الرائد" لشيء ما، فإننا لم نعد منبهرين بذلك.
 
-Like a song over-played on the radio, like a restaurant over-hyped in the magazines, **repetition of even powerful, wonderful phrases will kill them.**
+مثل أغنية يتم تشغيلها بشكل مبالغ فيه على الراديو، مثل مطعم يتم الترويج له بشكل مفرط في المجلات، **تكرار حتى العبارات القوية والرائعة سوف يقتلهم.**
 
-Oh I know 21% of you stopped reading as soon as you saw that "authentic" made the list, and shot over to Twitter to unleash a scathing missive explaining how "authenticity" is the [prime mover](https://en.wikipedia.org/wiki/Cosmological_argument) of modern marketing, [honorable salesmanship](https://longform.asmartbear.com/bad-advice/), and meaningful relationships.
+أعلم أن 21% منكم توقفوا عن القراءة بمجرد أن رأوا أن كلمة "أصيلة" ظهرت في القائمة، وانتقلوا إلى تويتر لإطلاق رسالة لاذعة تشرح كيف أن "الأصالة" هي [المحرك الرئيسي](https://en.wikipedia.org/wiki/Cosmological_argument) للتسويق الحديث، [فن البيع المشرف](https://longform.asmartbear.com/bad-advice/)، وعلاقات ذات معنى.
 
-I agree! In fact all these words and phrases *theoretically* carry meaning, but theory is for people who don't need to sell $2,600 more software by next Friday so they can make rent.
+أنا موافق! في الواقع، كل هذه الكلمات والعبارات *من الناحية النظرية* تحمل معنى، ولكن النظرية مخصصة للأشخاص الذين لا يحتاجون إلى بيع برامج إضافية بقيمة 2600 دولار بحلول يوم الجمعة المقبل حتى يتمكنوا من دفع الإيجار.
 
-And sure, it actually _is_ good to be "authentic." I respect the work of all those bloggers and Twitter-ers and lecturers and consultants who drove this word deep into our psyches. Indeed, it is a gift: bringing genuine authenticity and the give-first-sell-later behavior, in contrast with to traditionally sterile, aggressive, non-engaging, selfish world of sales and marketing. The more people honor this code of conduct, the better for us all.
+ومن المؤكد أنه من الجيد حقًا أن تكون "أصيلًا". إنني أحترم عمل كل هؤلاء المدونين ومستخدمي تويتر والمحاضرين والمستشارين الذين أدخلوا هذه الكلمة إلى أعماق نفوسنا. في الواقع، إنها هدية: جلب الأصالة الحقيقية وسلوك العطاء أولاً ثم البيع لاحقًا، على النقيض من عالم المبيعات والتسويق الأناني العقيم والعدواني وغير الجذاب. كلما زاد عدد الأشخاص الذين يحترمون قواعد السلوك هذه، كلما كان ذلك أفضل لنا جميعًا.
 
 ![buzzword jargon hyperbole trite rhyming platitude looks good](https://public.asmartbear.com/books/anthology/chapters/authentic-is-dead/d7291print-simple.png)
 
-Nevertheless, it's time to retire words like "authentic." The misuse is to too widespread, the abuse too deep.
+ومع ذلك، فقد حان الوقت للتخلي عن كلمات مثل "أصيل". إن إساءة الاستخدام منتشرة على نطاق واسع للغاية، والإساءة عميقة للغاية.
 
-## What should you do instead?
+## ماذا يجب أن تفعل بدلا من ذلك؟
 
-### Be specific.
+### كن محددًا.
 
-Many of the dead words weren't especially illustrative to begin with. As far as I know, a "solution" just means "product and/or service," so the word isn't adding information. Instead, inspire me by being specific.
+العديد من الكلمات الميتة لم تكن توضيحية بشكل خاص في البداية. بقدر ما أعرف، "الحل" يعني فقط "المنتج و/أو الخدمة"، وبالتالي فإن الكلمة لا تضيف معلومات. بدلاً من ذلك، ألهمني بأن أكون محددًا.
 
-* Instead of "easy" say "so straightforward, you won't need a manual."
-* Instead of "inexpensive" say "just a dollar a day."
-* Instead of "powerful" say "processes 6,253,427 requests daily."
-* Instead of "secure" say "blocks 96 million attacks daily."
-* Instead of "disruptive" say "72% of our customers say they'll never go back to a normal email client."
-* Instead of "beloved" show your NPS or CSAT or G2 rating or a massive wall of real, unsolicited testimonials, like tweets.
+* بدلًا من "سهل" قل "مباشر جدًا، لن تحتاج إلى دليل".
+* بدلاً من "غير مكلف" قل "دولار واحد فقط في اليوم".
+* بدلاً من "قوي" قل "يعالج 6,253,427 طلبًا يوميًا".
+* بدلاً من كلمة "آمن"، قل "يمنع 96 مليون هجمة يوميًا".
+* بدلاً من كلمة "مزعجة" قل "72% من عملائنا يقولون أنهم لن يعودوا أبدًا إلى عميل البريد الإلكتروني العادي."
+* بدلاً من "الحبيب" اعرض تقييمك لـ NPS أو CSAT أو G2 أو جدارًا ضخمًا من الشهادات الحقيقية غير المرغوب فيها، مثل التغريدات.
 
-[Here's more about being specific](https://longform.asmartbear.com/specificity/).
+[إليك المزيد حول كونك محددًا](https://longform.asmartbear.com/specity/).
 
-### Show, don't tell
+### أظهر، لا تخبر
 
-Some dead words are descriptive, but they don't paint a picture. "Powerful" sounds nice I suppose, but how does that change my life? *Showing* something in action is more evocative than *describing* it.
+بعض الكلمات الميتة تكون وصفية، لكنها لا ترسم صورة. أعتقد أن كلمة "قوي" تبدو لطيفة، لكن كيف سيغير ذلك حياتي؟ *عرض* شيء ما أثناء العمل هو أكثر إثارة للذكريات من *وصفه*.
 
-* Instead of saying it's fast, show a speed test (especially against competitors).
-* Instead of saying it's easy, have a video demonstrating your tool solving someone's problem in 60 seconds flat.
-* Instead of saying you have eager, responsive, intelligent tech support, put a "chat now" bar on every page of your website.
-* Instead of saying that customers love you, show testimonials from 100 customers. (No one will read them all, but you can impress with sheer quantity.)
-* Instead of saying "we're innovative," show your change-log, impressing the viewer with your product velocity.
-* Instead of a bullet-list of benefits, quote actual customers describing your impact on their lives.
-* Instead of generic-sounding testimonials, reproduce unsolicited tweets that show genuine love and gratitude.
-* Instead of saying you [value your customers](https://longform.asmartbear.com/hello-support/), tell them to call you to test it out, and then answer the phone on the second ring.
+* بدلاً من القول بأنه سريع، اعرض اختبار السرعة (خاصة ضد المنافسين).
+* بدلًا من القول بأن الأمر سهل، اصنع مقطع فيديو يوضح أداتك التي تحل مشكلة شخص ما في 60 ثانية فقط.
+* بدلاً من القول إن لديك دعمًا فنيًا متحمسًا وسريع الاستجابة وذكيًا، ضع شريط "الدردشة الآن" في كل صفحة من صفحات موقع الويب الخاص بك.
+* بدلاً من القول أن العملاء يحبونك، اعرض شهادات من 100 عميل. (لن يقرأها أحد كلها، ولكن يمكنك إثارة إعجابك بكميتها الهائلة.)
+* بدلاً من قول "نحن مبتكرون"، اعرض سجل التغيير الخاص بك، وأبهر المشاهد بسرعة منتجك.
+* بدلاً من قائمة الفوائد، اقتبس من العملاء الفعليين الذين يصفون تأثيرك على حياتهم.
+* بدلاً من الشهادات التي تبدو عامة، قم بإعادة إنتاج التغريدات غير المرغوب فيها التي تظهر الحب الحقيقي والامتنان.
+* بدلاً من القول إنك [تقدر عملائك](https://longform.asmartbear.com/hello-support/)، اطلب منهم الاتصال بك لاختبار ذلك، ثم قم بالرد على الهاتف عند الرنين الثاني.
 
-### Name & Embrace
+### اسم واحتضان
 
-My favorite way to start a sales pitch is to make fun of typical sales pitches. What I always said at Smart Bear:
+طريقتي المفضلة لبدء عرض مبيعات هي السخرية من عروض المبيعات النموذجية. ما قلته دائمًا في Smart Bear:
 
-> I know you were hoping for a 22-slide PowerPoint deck with our mission statement and company history. I'm really sorry to disappoint! 'Cause I'm just going to start the demo and let you interrupt me with questions.
+> أعلم أنك كنت تأمل في الحصول على مجموعة PowerPoint مكونة من 22 شريحة تحتوي على بيان مهمتنا وتاريخ الشركة. أنا آسف حقا أن يخيب! لأنني سأبدأ العرض التوضيحي وسأدعك تقاطعني بالأسئلة.
 
-And:
+و:
 
-> People claim that peer code review tools will do magic things like make your developers smarter or fix existing social problems with the team. Actually, if anything, code review can magnify latent social issues! However, I do believe our tool will save you time and aggravation in these 4 specific ways [...], so as we go through the demo, see if you agree.
+> يزعم الناس أن أدوات مراجعة الأكواد النظيرة ستفعل أشياء سحرية مثل جعل المطورين لديك أكثر ذكاءً أو إصلاح المشكلات الاجتماعية الحالية مع الفريق. في الواقع، إذا كان هناك أي شيء، فإن مراجعة الكود يمكن أن تؤدي إلى تضخيم المشكلات الاجتماعية الكامنة! ومع ذلك، أعتقد أن أداتنا ستوفر عليك الوقت والقلق بهذه الطرق الأربع المحددة [...]، لذلك بينما نستعرض العرض التوضيحي، لنرى ما إذا كنت توافق على ذلك.
 
-Because you're willing to say the quiet bit out loud, to say what others hide, especially when we all know the truth, you earn credibility. (And often some laughs.) Now folks are more open to your claims--even those that are well-worn.
+لأنك على استعداد لقول الشيء الهادئ بصوت عالٍ، لقول ما يخفيه الآخرون، خاصة عندما نعرف الحقيقة جميعًا، فإنك تكتسب المصداقية. (وغالبًا ما يضحك البعض.) الآن أصبح الناس أكثر انفتاحًا على ادعاءاتك - حتى تلك التي تم ارتداؤها بشكل جيد.
 
-### Own it completely
+### امتلكها بالكامل
 
-You *can* still use an abused word if you totally, 100% own the concept.
+*لا يزال بإمكانك* استخدام كلمة مسيئة إذا كنت تملك المفهوم تمامًا بنسبة 100%.
 
-You can claim "legendary customer service" if you back that with first-ring, human phone service, online chat from your home page, quick-response Twitter monitoring, and 15-minute turn-around time on tech support emails even at 3am on a Sunday. Be sure to communicate all that too, because if you *lead* with the dead phrase I'll leave before you get the chance to prove it.
+يمكنك المطالبة بـ "خدمة العملاء الأسطورية" إذا دعمت ذلك من خلال خدمة الاتصال الهاتفي البشرية والدردشة عبر الإنترنت من صفحتك الرئيسية ومراقبة تويتر سريعة الاستجابة ووقت استجابة مدته 15 دقيقة لرسائل البريد الإلكتروني للدعم الفني حتى الساعة 3 صباحًا يوم الأحد. تأكد من توصيل كل ذلك أيضًا، لأنه إذا *تقدمت* بالعبارة الميتة سأغادر قبل أن تحصل على الفرصة لإثبات ذلك.
 
-> "Be the change you wish to see in the world."  
-> --Gandhi
+> "كن أنت التغيير الذي تتمنى أن تراه في العالم."
+> --غاندي
 
-When old ideas become cliché, that's an implicit call for new ideas. This time around, can you lead instead of follow?
+عندما تصبح الأفكار القديمة مبتذلة، فهذه دعوة ضمنية لأفكار جديدة. هذه المرة، هل يمكنك القيادة بدلاً من المتابعة؟
 
-Of course this is unfairly difficult. Quick: Come up with a compelling new philosophy for human interaction and global communication, marketing, sales, and relationships!
+بالطبع هذا صعب بشكل غير عادل. سريع: توصل إلى فلسفة جديدة مقنعة للتفاعل البشري والتواصل العالمي والتسويق والمبيعات والعلاقات!
 
-Yeah it's unreasonable, and not certainly required, but remember the best ideas often aren't reasonable (excuse the clichés) ground-breaking, innovative, out-of-the-box, Earth-shattering epiphanies. **Often great ideas are a synthesis of other ideas** with just a smidge of novel insight, or just **putting into words what others sense but cannot articulate**.
+نعم، إنه أمر غير معقول، وليس مطلوبًا بالتأكيد، ولكن تذكر أن أفضل الأفكار غالبًا ما لا تكون معقولة (أعذر الكليشيهات) وهي أفكار رائدة ومبتكرة وخارجة عن المألوف ومزلزلة للأرض. **في كثير من الأحيان، تكون الأفكار الرائعة عبارة عن توليفة من أفكار أخرى** مع القليل من المعرفة الجديدة، أو مجرد **صياغة ما يشعر به الآخرون ولكن لا يمكنهم التعبير عنه بالكلمات**.
 
-This is the hardest and most time-consuming way to break out of the mundane, but also the most rewarding. And if you do come up with something, then your [who will love you for it](https://longform.asmartbear.com/customer-love/), and then [help you grow and thrive](https://longform.asmartbear.com/needs-stack/).
+هذه هي الطريقة الأصعب والأكثر استهلاكًا للوقت للخروج من الحياة الدنيوية، ولكنها أيضًا الأكثر فائدة. وإذا توصلت إلى شيء ما، فإن [من سيحبك لذلك](https://longform.asmartbear.com/customer-love/)، ثم [يساعدك على النمو والازدهار](https://longform.asmartbear.com/needs-stack/).
 
-[You're a little company, so act like one.](https://longform.asmartbear.com/little-company/) And enjoy the love.
+[أنتم شركة صغيرة، لذا تصرفوا كواحدة.](https://longform.asmartbear.com/little-company/) واستمتعوا بالحب.

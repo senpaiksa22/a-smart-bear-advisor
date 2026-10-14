@@ -20,120 +20,107 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** أن تكون ثرياً أم ملكاً في العالم الواقعي: لماذا قررت بيع شركتي؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Rich vs. King in the Real World: Why I sold my company
-
-> **Executive Summary:** Reflecting on selling Smart Bear in 2007, offering insights for entrepreneurs facing similar decisions.
-> **Original URL:** [https://longform.asmartbear.com/rich-vs-king-sold-company/](https://longform.asmartbear.com/rich-vs-king-sold-company/)
-
 ![Sell out](https://public.asmartbear.com/books/anthology/chapters/rich-vs-king-sold-company/bdd-sellout-082112-simple.png)
 
-I sold my company, [Smart Bear](https://smartbear.com/), in December of 2007. I haven't talked about it at all on this blog, and it's time I spill my guts about the whole affair.
+لقد قمت ببيع شركتي، [Smart Bear](https://smartbear.com/)، في ديسمبر من عام 2007. ولم أتحدث عن الأمر على الإطلاق في هذه المدونة، وحان الوقت لأكشف عن شجاعتي بشأن الأمر برمته.
 
-You'd think selling a company would be a glamorous, exuberant experience, but I was surprised at the reactions I got. These are actual quotes:
+قد تظن أن بيع شركة ما سيكون بمثابة تجربة ساحرة ومفعمة بالحيوية، لكنني فوجئت بردود الفعل التي تلقيتها. هذه اقتباسات حقيقية:
 
-* "How could you sell your baby? I'm shocked."
-* "I thought you said things were going well. Hmm."
-* "**You're such a sell-out!** You used to be one of the few cool people I knew."
+* "كيف يمكنك بيع طفلك؟ أنا مصدومة."
+* "اعتقدت أنك قلت أن الأمور تسير على ما يرام. حسنًا."
+* "** أنت شخص خائن جدًا! ** لقد اعتدت أن تكون واحدًا من الأشخاص القلائل الرائعين الذين عرفتهم."
 
-Interestingly, 100% of the negative reactions were from people who had never started their own company. But that doesn't make them wrong, and it doesn't make their words sting less, especially when they're your friends.
+ومن المثير للاهتمام أن 100% من ردود الفعل السلبية جاءت من أشخاص لم ينشئوا شركتهم الخاصة من قبل. لكن هذا لا يجعلهم مخطئين، ولا يجعل كلماتهم أقل ألمًا، خاصة عندما يكونون أصدقائك.
 
-Now that almost two years have passed, I can relate exactly why "selling my baby" was right for me.
+الآن بعد مرور ما يقرب من عامين، أستطيع أن أشرح بالضبط لماذا كان "بيع طفلي" مناسبًا لي.
 
-Hopefully this thought process is interesting to you and possibly useful in the happy event that you're faced with the same choice, but the truth is I just need to get this off my chest.
+نأمل أن تكون عملية التفكير هذه مثيرة للاهتمام بالنسبة لك وربما مفيدة في الحدث السعيد الذي تواجه فيه نفس الاختيار، ولكن الحقيقة هي أنني فقط بحاجة إلى التخلص من هذا الأمر.
 
-**I need to explain to those who still consider me a sell-out.**
+**أريد أن أشرح لأولئك الذين ما زالوا يعتبرونني خائنًا.**
 
-You may have heard Noam Wasserman's ["Rich or King" choice](https://web.archive.org/web/20150925104158/https://www.noamwasserman.com/rich-versus-king-the-core-concept/): Company founders are either in it for the money ("Rich") or in it to build a lifestyle and personal identity ("King"). FogCreek and 37signals are built to be "King;" all venture-funded companies are built to be "Rich."
+ربما تكون قد سمعت اختيار نعوم واسرمان ["الغني أو الملك"](https://web.archive.org/web/20150925104158/https://www.noamwasserman.com/rich-versus-king-the-core-concept/): مؤسسو الشركة إما يشاركون فيها من أجل المال ("ريتش") أو لبناء نمط حياة وهوية شخصية ("الملك"). تم تصميم FogCreek و37signals ليكونا "King"؛ تم إنشاء جميع الشركات الممولة بالمشاريع لتكون "غنية".
 
-Noam says that successful founders make the "Rich or King" decision up front, and that though it doesn't matter which path you take, you must be consistent in your actions. You can't mix "be king" tactics with "get rich" end goals.
+يقول نعوم إن المؤسسين الناجحين يتخذون قرار "الغني أو الملك" مقدمًا، وعلى الرغم من أنه لا يهم المسار الذي تسلكه، إلا أنه يجب أن تكون متسقًا في أفعالك. لا يمكنك الخلط بين تكتيكات "أن تصبح ملكًا" والأهداف النهائية المتمثلة في "الثراء".
 
-**Except I did mix "Rich" and "King," and it worked.**
+**إلا أنني قمت بالمزج بين "Rich" و"King"، وقد نجح الأمر.**
 
 ![chile relleno](https://public.asmartbear.com/books/anthology/chapters/rich-vs-king-sold-company/chiles-rellenos-ground-beef-1024x683-simple.png)
 
-See, it's good to be "King," but what do you do when you're at Trudy's "North Star" Tex-Mex Restaurant tucking into a Chile Relleno (with salsa verde, black beans, and the ground beef filling), and the guy across the table looks you in the eye and **offers you enough money that you never have to work again?**
+كما ترى، من الجيد أن تكون "ملكًا"، ولكن ماذا تفعل عندما تكون في مطعم Trudy's "North Star" Tex-Mex وأنت تدخل مطعم تشيلي ريلينو (مع السالسا الخضراء، والفاصوليا السوداء، وحشوة اللحم البقري المفروم)، وينظر إليك الرجل الموجود عبر الطاولة في عينيك و** يقدم لك ما يكفي من المال حتى لا تضطر إلى العمل مرة أخرى؟**
 
-I was always in it for the money, especially in the form of acquisition. Everyone who came to work at Smart Bear was indoctrinated with this attitude in no uncertain terms; even before hiring someone, I would tell them that we're here to make money, and if someone offers to buy the company someday, I'm going to sell it, and all of us will make money.
+لقد كنت أسعى دائمًا للحصول على المال، خاصة في شكل الاستحواذ. كل من جاء للعمل في Smart Bear تم تلقينه هذا الموقف بعبارات لا لبس فيها. حتى قبل تعيين شخص ما، أود أن أخبره أننا هنا لكسب المال، وإذا عرض شخص ما شراء الشركة يومًا ما، فسوف أقوم ببيعها، وسنكسب المال جميعًا.
 
-**Profit was the rule behind every choice we made.** Although the end goal was always acquisition, my attitude was (and still is) that the best way to get yourself acquired is to be profitable.[^1] Profits prove the business is operating well. Profits validate the market. Profits make minimum valuation easy. Profits mean the buyer converts balance-sheet money into bottom-line profit-and-loss money--a trade every large company wants to make.
+**كان الربح هو القاعدة وراء كل خيار اتخذناه.** على الرغم من أن الهدف النهائي كان دائمًا الاستحواذ، إلا أن موقفي كان (ولا يزال) هو أن أفضل طريقة لتحقيق الاستحواذ هي تحقيق الربح.[^1] تثبت الأرباح أن النشاط التجاري يعمل بشكل جيد. الأرباح تؤكد صحة السوق. الأرباح تجعل الحد الأدنى من التقييم سهلاً. الأرباح تعني أن المشتري يحول أموال الميزانية العمومية إلى أموال الربح والخسارة - وهي تجارة ترغب كل شركة كبيرة في القيام بها.
 
-[^1]: Editor's Note: At this time the blog was written exclusively for bootstrappers with small companies. Obviously there are many examples of companies sold on the basis of growth or "daily active users," but small self-funded companies are most attractive when they are cash machines.
+[^1]: ملاحظة المحرر: في هذا الوقت، تمت كتابة المدونة حصريًا للمبتدئين في الشركات الصغيرة. من الواضح أن هناك العديد من الأمثلة على الشركات التي تم بيعها على أساس النمو أو "المستخدمين النشطين يوميًا"، لكن الشركات الصغيرة الممولة ذاتيًا تكون أكثر جاذبية عندما تكون عبارة عن ماكينات صرف آلي.
 
-Most of all, profits mean you don't *need* to sell, which gives you the ability to walk away from a deal. You have little negotiating power in any deal unless you can happily walk away.
+الأهم من ذلك كله، أن الأرباح تعني أنك لا تحتاج إلى البيع، مما يمنحك القدرة على الابتعاد عن الصفقة. لديك القليل من القوة التفاوضية في أي صفقة ما لم تتمكن من الانسحاب بسعادة.
 
-On the other hand, I knew I would only be happy building a genuine, great company, where the product solves a real pain, where customers are given white-glove service, where "tech support" is the only sales force, where we leave the world a little better than we found it, and where every employee is [smart and gets things done](https://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html) and is trusted with any decision.
+من ناحية أخرى، كنت أعلم أنني سأكون سعيدًا فقط ببناء شركة حقيقية وعظيمة، حيث يحل المنتج مشكلة حقيقية، وحيث يتم منح العملاء خدمة قفازات بيضاء، وحيث "الدعم الفني" هو قوة المبيعات الوحيدة، وحيث نترك العالم أفضل قليلاً مما وجدناه، وحيث يكون كل موظف [ذكيًا وينجز الأمور](https://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html) ويمكن الوثوق به في أي قرار.
 
-**And I wanted the ego-inflating trappings of running a company.** It's cool at parties to say "I run my own company." I [wrote a book](https://longform.asmartbear.com/impostor-syndrome/) that got so popular (in my little corner of the world) that people would bring it up to me to sign. (We gave the books away for free so the joke was that by signing I doubled its value.) When I walked onto a [tradeshow](https://longform.asmartbear.com/tradeshow-tips-checklist/) floor it was like Norm on Cheers--I knew everyone and they knew me. I got to present at cool venues like the [Business of Software Conference](https://businessofsoftware.org/2012/07/jason-cohen-asmartbear-founder-of-smart-bear-software-talks-on-creating-naked-businesses/).
+** وأردت الحصول على زخارف تضخيم الأنا في إدارة شركة. ** من الرائع أن أقول في الحفلات "أنا أدير شركتي الخاصة". لقد [كتبت كتابًا](https://longform.asmartbear.com/impostor-syndrome/) الذي نال شهرة كبيرة (في ركني الصغير من العالم) لدرجة أن الناس كانوا يعرضونه عليّ للتوقيع عليه. (لقد أعطينا الكتب مجانًا، لذلك كانت النكتة هي أنني من خلال التوقيع ضاعفت قيمتها.) عندما دخلت إلى أرضية [المعرض التجاري](https://longform.asmartbear.com/tradeshow-tips-checklist/) كان الأمر مثل Norm on Cheers - كنت أعرف الجميع وكانوا يعرفونني. لقد أتيحت لي الفرصة لتقديم عرض في أماكن رائعة مثل [Business of Software Conference](https://businessofsoftware.org/2012/07/jason-cohen-asmartbear-founder-of-smart-bear-software-talks-on-creating-naked-businesses/).
 
-And I write this blog, shamelessly exploiting Smart Bear's success to convince you that I'm worth reading.
+وأنا أكتب هذه المدونة، مستغلًا بلا خجل نجاح Smart Bear لإقناعكم بأنني أستحق القراءة.
 
-In short, **although the goal was "Rich," I achieved it by behaving like the goal was "King."** I don't know why people find this contradictory; after all, acting like "King" means building a long-term, sustainable business, and that's exactly the kind of business that gets acquired.
+باختصار، **على الرغم من أن الهدف كان "الثراء"، إلا أنني حققته من خلال التصرف وكأن الهدف كان "الملك".** لا أعرف لماذا يجد الناس هذا التناقض؛ بعد كل شيء، التصرف مثل "الملك" يعني بناء عمل تجاري طويل الأمد ومستدام، وهذا هو بالضبط نوع العمل الذي يتم اكتسابه.
 
-Still, because "King" was enjoyable and Smart Bear was profitable, I still need to explain why becoming a "sell-out" was the right choice.
+ومع ذلك، نظرًا لأن "King" كان ممتعًا وSmart Bear كان مربحًا، ما زلت بحاجة إلى شرح لماذا كان الاختيار الصحيح هو "البيع بالكامل".
 
-The first thing to understand is the non-linear relationship between "cash in personal savings" and "financial freedom":
+أول شيء يجب أن نفهمه هو العلاقة غير الخطية بين "النقد في المدخرات الشخصية" و"الحرية المالية":
 
 ![The freedom line](https://public.asmartbear.com/books/anthology/chapters/rich-vs-king-sold-company/lifestyle-versus-cash-in-bank-simple.png)
 
-There's a line you cross where your savings alone will fund a reasonably lavish lifestyle. At the risk of sounding like George Bush, this is a Freedom Line--freedom from restrictions about what you can do with your life, family, and career.
+هناك حد يمكنك تجاوزه حيث ستوفر مدخراتك وحدها تمويلًا لأسلوب حياة فخم إلى حد معقول. على الرغم من احتمال أن أبدو مثل جورج بوش، فهذا هو خط الحرية - التحرر من القيود المفروضة على ما يمكنك فعله بحياتك وعائلتك ومسيرتك المهنية.
 
-My observations:
+ملاحظاتي:
 
-1. A movement from left of the line to right of the line changes your life fundamentally, giving you the freedom to do whatever makes you happy, forever.
-2. If you're crossing from left to right, it doesn't matter how far to the right you go. (Sure, $100m is a different lifestyle than $10m, but it's not as critical to lifestyle or happiness as just crossing the line.)
+1. إن الحركة من يسار الخط إلى يمين الخط تغير حياتك بشكل أساسي، مما يمنحك الحرية في القيام بكل ما يجعلك سعيدًا، إلى الأبد.
+2. إذا كنت تعبر من اليسار إلى اليمين، فلا يهم إلى أي مدى تذهب إلى اليمين. (من المؤكد أن 100 مليون دولار هي أسلوب حياة مختلف عن 10 ملايين دولار، ولكنها ليست بالغة الأهمية لأسلوب الحياة أو السعادة مثل مجرد عبور الخط).
 
-(1) is what was offered to me at Trudy's Tex-Mex. (2) means it almost didn't matter what the offer was, so long as it was big enough.
+(1) هو ما تم تقديمه لي في Trudy's Tex-Mex. (٢) يعني أنه لا يهم تقريبًا ما هو العرض، طالما كان كبيرًا بدرجة كافية.
 
-Some people gave me a hard time about (2). The typical argument was:
+بعض الناس أزعجوني بشأن (٢). وكانت الحجة النموذجية هي:
 
-> Your company is growing 100% year over year. It's profitable and throwing off cash. Why not wait another year and let revenues double again, which will make the company **six times more valuable** (assuming 3x revenue valuation, a reasonable ballpark for a growing software company).[^2]
+> شركتك تنمو بنسبة 100% على أساس سنوي. إنها مربحة وتتخلص من النقود. لماذا لا تنتظر عامًا آخر وتسمح للإيرادات بالمضاعفة مرة أخرى، الأمر الذي سيجعل الشركة **أكثر قيمة بستة أضعاف** (بافتراض تقييم الإيرادات بثلاثة أضعاف، وهو ملعب معقول لشركة برمجيات متنامية).[^2]
 
-[^2]: Editor's Note: This was written in 2009; In 2023, a 5x-10x multiple on this type of company at that growth rate and profit is reasonable.
+[^2]: ملاحظة المحرر: تمت كتابة هذا في عام 2009؛ في عام 2023، سيكون مضاعف 5x-10x على هذا النوع من الشركات بمعدل النمو والأرباح هذا معقولًا.
 
-Here's the best analogy I've come up with to describe why this is flawed logic. It's called the **Box Game**:
+هذا هو أفضل تشبيه توصلت إليه لوصف سبب كون هذا المنطق معيبًا. إنها تسمى **لعبة الصندوق**:
 
 ![bear playing the box game](https://public.asmartbear.com/books/anthology/chapters/rich-vs-king-sold-company/bear-box-game-simple.png)
 
-Imagine I have two opaque boxes. Box A contains $10. Box B has a 50% chance of containing $20, and a 50% chance of containing nothing at all. You pick either box and take whatever's inside. Which box do you pick?
+تخيل أن لدي صندوقين غير شفافين. يحتوي المربع "أ" على 10 دولارات. المربع "ب" لديه فرصة بنسبة 50% أن يحتوي على 20 دولارًا، وفرصة بنسبة 50% ألا يحتوي على أي شيء على الإطلاق. يمكنك اختيار أي من الصندوقين وتأخذ كل ما بداخله. أي صندوق تختار؟
 
-Of course statistically there's no difference, so this isn't a question of math or economics or intelligence; it's a measure of your attitude towards risk.
+بالطبع لا يوجد فرق إحصائيًا، لذا فهذه ليست مسألة رياضيات أو اقتصاد أو ذكاء؛ إنه مقياس لموقفك تجاه المخاطرة.
 
-Most people pick box B. After all, the difference between $10 and $20 is trivial and it's more fun and exciting to pick B.
+يختار معظم الأشخاص المربع "ب". ففي نهاية المطاف، يعد الفرق بين 10 دولارات و20 دولارًا تافهًا، واختيار "ب" أكثر متعة وإثارة.
 
-But what if the numbers were different?
+ولكن ماذا لو كانت الأرقام مختلفة؟
 
-Now box A holds $10,000,000. Box B either holds $20,000,000 or nothing, 50/50 chance. Which do you pick?
+الآن الصندوق "أ" يحمل 10,000,000 دولار. الصندوق B إما يحمل 20,000,000 دولار أو لا شيء، فرصة 50/50. أيهما تختار؟
 
-You pick box A. Of course! Because it moves you from the left of the Freedom Line to the right. And because a "chance of moving even further" isn't worth giving up the certainty of that life-altering event.
+اخترت المربع أ. بالطبع! لأنه ينقلك من يسار خط الحرية إلى اليمين. ولأن "فرصة المضي قدمًا" لا تستحق التخلي عن اليقين بشأن هذا الحدث الذي يغير الحياة.
 
-This is my argument in favor of #2 and against "wait and see." This is why I sold.
+هذه هي حجتي لصالح رقم 2 وضد "انتظر وانظر". لهذا السبب بعت.
 
-In my case, the correctness of my choice was made painfully clear by the economic crash in 2008. Had I held out for "another year and far more money"--box B--I would have found an empty box.
+وفي حالتي، أصبحت صحة اختياري واضحة بشكل مؤلم بعد الانهيار الاقتصادي في عام 2008. ولو كنت صمد لمدة "عام آخر ومزيد من المال" ــ الصندوق ب ــ لكنت وجدت صندوقاً فارغاً.
 
-**I know this for a fact**--another company (can't say who, sorry!) was offered a deal at the same time I was. This founder wanted to roll the dice (box B) and delayed the buyer. Two quarters passed and revenue failed to grow; the buyer nixed the deal. Months later with the recession in sight, the founder approached the buyer again, this time willing to accept a low offer. The buyer refused; that ship had sailed.
+**أعرف هذا كحقيقة**--شركة أخرى (لا أستطيع أن أقول من، آسف!) عرضت عليها صفقة في نفس الوقت الذي عرضت فيه. أراد هذا المؤسس رمي النرد (المربع ب) وتأخير المشتري. مر ربعان وفشلت الإيرادات في النمو؛ ألغى المشتري الصفقة. وبعد أشهر، ومع ظهور الركود في الأفق، اقترب المؤسس من المشتري مرة أخرى، وكان هذه المرة على استعداد لقبول عرض منخفض. رفض المشتري؛ لقد أبحرت تلك السفينة.
 
-And I'm not the only one:
+وأنا لست الوحيد:
 
 ![founder didn't take a deal in 2007, then sold for a fraction in 2012](https://public.asmartbear.com/books/anthology/chapters/rich-vs-king-sold-company/image-2-simple.png)
 
-Of course there are also those for whom this calculus doesn't apply because they want to be "King" no matter what. I'll bet Jason Fried wouldn't sell 37signals for $100,000,000; neither would Joel Spolsky sell FogCreek. Are Joel and Jason being irrational? Of course not.
+بالطبع هناك أيضًا أولئك الذين لا تنطبق عليهم هذه الحسابات لأنهم يريدون أن يصبحوا "ملكًا" مهما حدث. أراهن أن جيسون فرايد لن يبيع 37 إشارة مقابل 100 مليون دولار؛ ولا جويل سبولسكي لن يبيع FogCreek. هل جويل وجيسون غير عقلانيين؟ بالطبع لا.
 
-But neither was I. Most of us are like me, and Codie, and Andrew:
+لكنني لم أكن كذلك. معظمنا مثلي، وكودي، وأندرو:
 
 ![tweet about how hard companies can be in the later years](https://public.asmartbear.com/books/anthology/chapters/rich-vs-king-sold-company/image-simple.png)
 
-As of December 2007, I have the freedom to work on any project I want for the rest of my life while simultaneously providing for my family, never again worrying about bills, debt, having a place to sleep, or sending our daughter to any college she wants.
+اعتبارًا من ديسمبر 2007، أصبحت لدي الحرية في العمل في أي مشروع أريده لبقية حياتي وفي الوقت نفسه إعالة أسرتي، وعدم القلق مرة أخرى بشأن الفواتير أو الديون أو الحصول على مكان للنوم أو إرسال ابنتنا إلى أي كلية تريدها.
 
-I can stay home with my wife and [new baby girl](https://longform.asmartbear.com/startup-life/) for as long as I want, having all the precious time and experiences and memories that they say money can't buy.
+يمكنني البقاء في المنزل مع زوجتي و[طفلتي الجديدة](https://longform.asmartbear.com/startup-life/) للمدة التي أريدها، والحصول على كل الوقت الثمين والتجارب والذكريات التي يقولون إن المال لا يشتريها.
 
-But, in the sense of securing that freedom, it can.
+ولكن فيما يتعلق بتأمين هذه الحرية، فهي قادرة على ذلك.
 
-**And by crossing the line, I did.**
+**وبتجاوز الخط، فعلت.**

@@ -20,31 +20,18 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** أنشودة الشركة الناشئة المرنة: الحكمة الحقيقية خلف منهجية Lean تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Ballad of The Lean Startup
-
-> **Executive Summary:** An ode to validated learning.
-> **Original URL:** [https://longform.asmartbear.com/lean-startup-ballad/](https://longform.asmartbear.com/lean-startup-ballad/)
-
 ![The Lean Startup book cover](https://public.asmartbear.com/books/anthology/chapters/lean-startup-ballad/image-simple.png)
 
-With IMVU not growing <br/> And revenue not flowing <br/> And with piles of cash monthly burning, <br/> They asked <br/> "Is it a mess, <br/> Or is it progress?" <br/> Then measured by validated learning.
+مع عدم نمو IMVU <br/> وعدم تدفق الإيرادات <br/> ومع أكوام النقد المحترق شهريًا، <br/> سألوا <br/> "هل هي فوضى، <br/> أم أنها تقدم؟" <br/> ثم يتم قياسها عن طريق التعلم المصادق عليه.
 
-With their customers confused <br/> Eric's ego was bruised-- <br/> All his basic assumptions were nixed. <br/> They had to unload <br/> All that beautiful code <br/> Before the product could ever be fixed.
+مع ارتباك عملائهم <br/> أصيبت غرور إيريك بكدمات-- <br/> تم إلغاء جميع افتراضاته الأساسية. <br/> كان عليهم تفريغ <br/> كل هذا الرمز الجميل <br/> قبل أن يتم إصلاح المنتج.
 
-"What's the last six months for, <br/> Tossing my code out the door?" <br/> Asked Eric all in a tizzy. <br/> But he got his first taste <br/> How to eliminate waste, <br/> And make progress instead of just being busy.
+"ما هي الأشهر الستة الماضية، <br/> رمي الكود الخاص بي خارج الباب؟" <br/> سأل إريك بذهول. <br/> لكنه تذوق طعمه الأول <br/> كيفية التخلص من الهدر، <br/> وإحراز التقدم بدلاً من مجرد الانشغال.
 
 ![idea-build-code-measure-data-learn-loop](https://public.asmartbear.com/books/anthology/chapters/lean-startup-ballad/image-3-simple.png)
 
-You must build and release <br/> (So says Eric Ries) <br/> Then validate by query, wallet, and churn. <br/> Ruthlessly measure <br/> Though it gives you no pleasure-- <br/> That's the only true way to learn.
+يجب عليك إنشاء <br/> وإصداره (كما يقول إريك ريس) <br/> ثم التحقق من صحته عن طريق الاستعلام والمحفظة والتدوير. <br/> قم بالقياس بلا رحمة <br/> على الرغم من أن ذلك لا يمنحك أي متعة - <br/> فهذه هي الطريقة الحقيقية الوحيدة للتعلم.
 
-So don't fly blind <br/> Or make up your mind <br/> Stuck to ideas like a Nazi guards soup. <br/> Relax your tight ass <br/> And gather data en masse <br/> To reduce total time through the loop.
+لذلك لا تطير أعمى <br/> أو اتخذ قرارك <br/> متمسكًا بأفكار مثل حساء الحراس النازيين. <br/> أرخِ مؤخرتك الضيقة <br/> واجمع البيانات بشكل جماعي <br/> لتقليل إجمالي الوقت خلال الحلقة.
 
-*Congrats, [Eric](https://www.startuplessonslearned.com/), on the success of [your book](https://tinyurl.com/3u6bqrk). It's well-deserved.*
+*تهانينا، [إيريك](https://www.startuplessonslearned.com/)، على نجاح [كتابك](https://tinyurl.com/3u6bqrk). إنه أمر مستحق.*

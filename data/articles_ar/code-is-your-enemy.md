@@ -20,65 +20,52 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الكود البرمجي هو عدوك اللدود: كلما زاد زادت التكاليف والأخطاء تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The Code is your Enemy
-
-> **Executive Summary:** A short pep talk I delivered to kick off a Three-Day Startup challenge event.  And overwhelming confirmation that the lesson is correct.
-> **Original URL:** [https://longform.asmartbear.com/code-is-your-enemy/](https://longform.asmartbear.com/code-is-your-enemy/)
-
 ![ugh i could feel them monetizing me with their eyes](https://public.asmartbear.com/books/anthology/chapters/code-is-your-enemy/d6034print-simple.png)
 
-## You're a builder. That's great. It's also the problem.
+## أنت بناء. هذا عظيم. إنها أيضًا المشكلة.
 
-You're a builder, a creator--whether a back-end programmer, a Linux hacker, a Javascript ninja, a UX magician, a designer. You make stuff.
+أنت منشئ، ومبدع - سواء كنت مبرمجًا خلفيًا، أو متسللًا لنظام Linux، أو نينجا جافا سكريبت، أو ساحرًا في تجربة المستخدم، أو مصممًا. أنت تصنع الأشياء.
 
-That's great of course, because in a new startup everyone needs to be either making stuff or selling stuff--there's no room for managers and executives and strategists. But **this also produces a natural weakness**, and when I look at what made me a successful entrepreneur--not just a great coder--one reason is that I discovered and overcame this weakness.
+وهذا أمر رائع بالطبع، لأنه في الشركة الناشئة الجديدة، يحتاج الجميع إما إلى صنع الأشياء أو بيعها - فلا يوجد مكان للمديرين والمديرين التنفيذيين والاستراتيجيين. ولكن **هذا ينتج أيضًا ضعفًا طبيعيًا**، وعندما أنظر إلى ما جعلني رائد أعمال ناجحًا - وليس مجرد مبرمج عظيم - فإن أحد الأسباب هو أنني اكتشفت هذا الضعف وتغلبت عليه.
 
-The weakness is the same as your strength [as they often are](https://longform.asmartbear.com/pivot-points/): Your love of creation. You love to write clean, tested, scalable, extensible, beautiful code. You love converting "JTBDs" into 960-wide artwork. You love developing an entire app in the browser against a scalable back-end.
+الضعف هو نفس قوتك [كما هي غالبًا](https://longform.asmartbear.com/pivot-points/): حبك للخليقة. تحب كتابة تعليمات برمجية جميلة ونظيفة وقابلة للتطوير وقابلة للتوسيع. تحب تحويل "JTBDs" إلى عمل فني بعرض 960 درجة. تحب تطوير تطبيق كامل في المتصفح مقابل واجهة خلفية قابلة للتطوير.
 
-And because you love it, you do it. You wake up in the morning thinking about what you can make, not how you can sell. You open Visual Studio before you consult your to-do list because there's something you just *need* to tweak. You launch xterm before your CRM (if you even have one, which you don't) because the server was running just a tad slower than you'd expect and you want to paw through log files.
+ولأنك تحب ذلك، فإنك تفعل ذلك. تستيقظ في الصباح وتفكر في ما يمكنك صنعه، وليس في كيفية بيعه. يمكنك فتح Visual Studio قبل الرجوع إلى قائمة المهام الخاصة بك لأن هناك شيئًا تحتاج فقط إلى تعديله. يمكنك تشغيل xterm قبل نظام إدارة علاقات العملاء (CRM) الخاص بك (إذا كان لديك واحدًا، وهو ما لا تملكه) لأن الخادم كان يعمل بشكل أبطأ قليلاً مما تتوقع وتريد تصفح ملفات السجل.
 
-The trouble is, this is almost certainly not the activity that would most benefit your startup.
+المشكلة هي أنه من المؤكد تقريبًا أن هذا ليس النشاط الذي من شأنه أن يفيد شركتك الناشئة أكثر من غيره.
 
-As much as you're a minor deity when it comes to vim or Balsamiq, so are almost all the technical founders of all high-tech startups. We can all write code--at least well enough to get a product launched and through a few iterations. We can all make a functional website--at least well enough to produce orders.
+بقدر ما تكون إلهًا صغيرًا عندما يتعلق الأمر بـ vim أو Balsamiq، كذلك الأمر بالنسبة لجميع المؤسسين التقنيين لجميع الشركات الناشئة ذات التقنية العالية. يمكننا جميعًا كتابة التعليمات البرمجية - على الأقل بشكل جيد بما يكفي لإطلاق منتج ما ومن خلال عدد قليل من التكرارات. يمكننا جميعًا إنشاء موقع ويب فعال - على الأقل بشكل جيد بما يكفي لإنتاج الطلبات.
 
-## Most startups fail, despite excellent coding and/<wbr/>or design skills.
+## تفشل معظم الشركات الناشئة، على الرغم من مهارات البرمجة و/>أو التصميم الممتازة.
 
-Read that headline again; [this should bother you](https://longform.asmartbear.com/avoid-blundering/) more than it does. Yet, because coding is your love, your passion, you just keep coding your way to failure.
+اقرأ هذا العنوان مرة أخرى؛ [يجب أن يزعجك هذا](https://longform.asmartbear.com/avoid-blundering/) أكثر مما يزعجك. ومع ذلك، نظرًا لأن البرمجة هي حبك وشغفك، فإنك تستمر في البرمجة طريقك إلى الفشل.
 
-Most startups fail because not enough people show up on the home page, or people show up but they don't try the product, or they don't pay for the product, or it's too expensive to get them to show up, or they don't tell their friends to come along, or because it's not solving a pain that people have, or it's not solving a pain that people know they have, or it's too hard to explain the pain, or a bunch of other things **that are *not* whether the code works or whether it looks good.** It's a [Drake Equation](https://longform.asmartbear.com/startup-drake-equation/).
+تفشل معظم الشركات الناشئة بسبب عدم ظهور عدد كافٍ من الأشخاص على الصفحة الرئيسية، أو ظهور الأشخاص ولكنهم لا يجربون المنتج، أو لأنهم لا يدفعون ثمن المنتج، أو أن حثهم على الظهور مكلف للغاية، أو لأنهم لا يطلبون من أصدقائهم الحضور، أو لأنه لا يحل الألم الذي يعاني منه الناس، أو لأنه لا يحل الألم الذي يعرف الناس أنهم يعانون منه، أو أنه من الصعب جدًا شرح الألم، أو مجموعة من الأشياء الأخرى ** التي *ليست* سواء الكود يعمل أو ما إذا كان يبدو جيدًا. ** إنها [معادلة دريك](https://longform.asmartbear.com/startup-drake-equation/).
 
-Customers don't open their wallets based on your unit test coverage or whether you used Bodoni instead of Times New Roman on the home page. In fact I've made millions of dollars on companies with [hideously ugly websites](https://longform.asmartbear.com/design/) and [buggy code](https://longform.asmartbear.com/software-quality-mortgage/). Those things are actually not the [most important things](https://longform.asmartbear.com/the-important-thing/).
+لا يفتح العملاء محافظهم بناءً على تغطية اختبار الوحدة الخاصة بك أو ما إذا كنت تستخدم Bodoni بدلاً من Times New Roman في الصفحة الرئيسية. في الواقع، لقد ربحت ملايين الدولارات من الشركات التي لديها [مواقع ويب قبيحة بشكل مخيف](https://longform.asmartbear.com/design/) و[كود عربات التي تجرها الدواب](https://longform.asmartbear.com/software-quality-mortgage/). هذه الأشياء ليست في الواقع [أهم الأشياء](https://longform.asmartbear.com/the-important-thing/).
 
-So if these things--the raw materials and skills used in web-based startups--are necessary but insufficient, what are those things outside your comfort zone which nevertheless are the things that are actually valuable to your company?
+لذا، إذا كانت هذه الأشياء - المواد الخام والمهارات المستخدمة في الشركات الناشئة القائمة على الويب - ضرورية ولكنها غير كافية، فما هي تلك الأشياء خارج منطقة الراحة الخاصة بك والتي مع ذلك هي الأشياء ذات القيمة الفعلية لشركتك؟
 
-Here are two:
+هنا اثنان:
 
-1. Have you talked to 50 potential customers? By that I mean *fifty*, not a dozen. I once vetted an idea and after the first 10 interviews I thought I was really on to something. Suddenly things changed and future interviews weren't so clear. Turns out there was accidental bias in the people I selected, obvious only in hindsight. Another time, [everyone said it was a great idea, but it wasn't](https://longform.asmartbear.com/good-startup-ideas/), which was only clear after dozens of interviews. Do you find it hard to locate that many people? Well it will still be hard to locate them after you've built a product, but then it's unlikely you built the right product, so now you've wasted months of time. So solve that hard problem now. Don't forget to [vet the price at the same time](https://longform.asmartbear.com/pricing-determines-your-business-model/) and make sure they're [actually going to buy it](https://longform.asmartbear.com/customer-validation/), otherwise it doesn't count. [Here's how to interview.](https://longform.asmartbear.com/customer-development/)
-2. Are people coming to your website every day? If not, solving that is *much* harder and *much* more outside your control than building software. Consider: Would you rather get hired as the CTO of a company with 1,000 daily new, unique, qualified visitors with a buggy product, or the CTO of a company with a clean, stable product and 10 uniques visits to the home page? You *know* you can fix the first case; no one knows if the second will ever be a real business. But if you stay nose-down in the code instead of working on getting attention, you're building the second case. Are you sure [the market even exists?](https://longform.asmartbear.com/problem/)
+1. هل تحدثت مع 50 عميلاً محتملاً؟ وأعني بذلك *خمسين*، وليس دزينة. لقد قمت ذات مرة بتدقيق فكرة ما وبعد المقابلات العشرة الأولى اعتقدت أنني كنت على وشك تحقيق شيء ما. فجأة تغيرت الأمور ولم تكن المقابلات المستقبلية واضحة. تبين أن هناك تحيزًا عرضيًا لدى الأشخاص الذين اخترتهم، ولم يكن واضحًا إلا بعد فوات الأوان. وفي مرة أخرى، [قال الجميع إنها فكرة رائعة، لكنها لم تكن كذلك](https://longform.asmartbear.com/good-startup-ideas/)، وهو ما لم يتضح إلا بعد عشرات المقابلات. هل تجد صعوبة في تحديد هذا العدد من الأشخاص؟ حسنًا، سيظل من الصعب تحديد موقعهم بعد إنشاء منتج ما، ولكن من غير المرجح أن تكون قد قمت ببناء المنتج المناسب، لذا فقد أضعت الآن أشهرًا من الوقت. لذا قم بحل هذه المشكلة الصعبة الآن. لا تنس [فحص السعر في نفس الوقت](https://longform.asmartbear.com/pricing-determines-your-business-model/) والتأكد من أنهم [سيشترونه بالفعل](https://longform.asmartbear.com/customer-validation/)، وإلا فلن يتم احتسابه. [إليك كيفية إجراء المقابلة.](https://longform.asmartbear.com/customer-development/)
+2. هل يأتي الأشخاص إلى موقع الويب الخاص بك كل يوم؟ إذا لم يكن الأمر كذلك، فإن حل ذلك أصعب *كثيرًا* وأكثر خارج نطاق سيطرتك من إنشاء البرامج. ضع في اعتبارك: هل تفضل أن يتم تعيينك كمدير تنفيذي للتكنولوجيا في شركة لديها 1000 زائر جديد وفريد ​​ومؤهل يوميًا مع منتج عربات التي تجرها الدواب، أو كمدير تقني لشركة لديها منتج نظيف ومستقر و10 زيارات فريدة للصفحة الرئيسية؟ أنت *تعلم* أنه يمكنك إصلاح الحالة الأولى؛ لا أحد يعرف ما إذا كان الثاني سيكون عملاً حقيقياً على الإطلاق. لكن إذا ظللت مهتمًا بالشفرة بدلًا من العمل على جذب الانتباه، فأنت تقوم ببناء الحالة الثانية. هل أنت متأكد من أن [السوق موجود أصلاً؟](https://longform.asmartbear.com/problem/)
 
-[This article gives much more detail](https://longform.asmartbear.com/product-market-fit-formula/) about what you should be doing, and even how to find those potential customers to interview.
+[تقدم هذه المقالة المزيد من التفاصيل](https://longform.asmartbear.com/product-market-fit-formula/) حول ما يجب عليك فعله، وحتى كيفية العثور على هؤلاء العملاء المحتملين لإجراء مقابلات معهم.
 
-Here's a coder-centric way of thinking about all this more generically: When you tackle a large development project, do you tackle the high-risk, inadequately-understood modules first, or leave those to the end? First, of course, because you understand the rest and you need to solve the unknown problems while you still have time to pivot and re-plan.
+فيما يلي طريقة للتفكير تتمحور حول المبرمجين حول كل هذا بشكل أكثر عمومية: عندما تتعامل مع مشروع تطوير كبير، هل تتعامل مع الوحدات عالية المخاطر وغير المفهومة بشكل كافٍ أولاً، أم تتركها حتى النهاية؟ أولاً، بالطبع، لأنك تفهم الباقي وتحتاج إلى حل المشكلات غير المعروفة بينما لا يزال لديك الوقت للتمحور وإعادة التخطيط.
 
-This is the same thing, it's just that in a business it's the attention, marketing, positioning, selling, defining part that's high-risk and inadequately-understood, and *all of the coding and design* is low-risk and well-understood in comparison.
+هذا هو نفس الشيء، إنه فقط في الأعمال التجارية، يكون الاهتمام والتسويق وتحديد المواقع والبيع وتحديد الجزء عالي المخاطر وغير مفهوم بشكل كافٍ، و *كل البرمجة والتصميم* منخفض المخاطر ومفهوم جيدًا بالمقارنة.
 
-**So force yourself out of your comfort zone.** You'll also do coding and design, and that's fine of course. But force yourself to *mostly* do those *other* things that create a valuable business.
+** لذا أخرج نفسك من منطقة الراحة الخاصة بك. ** وستقوم أيضًا بالبرمجة والتصميم، وهذا جيد بالطبع. لكن أجبر نفسك على القيام *في الغالب* بتلك الأشياء *الأخرى* التي تخلق عملاً قيمًا.
 
-[Put down the compiler and talk to customers](https://longform.asmartbear.com/put-down-the-compiler/).
+[أترك المترجم وتحدث إلى العملاء](https://longform.asmartbear.com/put-down-the-compiler/).
 
 ---
 
-## Proof from your peers
+## إثبات من أقرانك
 
-_The above was written in 2013; in 2024 engineering founders still won't listen, as was on display with a tweet from the great [Rob Walling](https://robwalling.com/). Here's that tweet, and many successful bootstrapped founders concurring, and lamenting that still no one listens._
+_ما ورد أعلاه كتب عام 2013؛ في عام 2024، لا يزال مؤسسو الهندسة يرفضون الاستماع، كما ظهر في تغريدة من العظيم [Rob Walling](https://robwalling.com/). إليكم هذه التغريدة، والعديد من المؤسسين الناجحين يوافقون على ذلك، ويأسفون لأنه لا يزال لا أحد يستمع._
 
 ![developer realizes that marketing is important](https://public.asmartbear.com/books/anthology/chapters/code-is-your-enemy/image-2-simple.png)
 
@@ -90,12 +77,12 @@ _The above was written in 2013; in 2024 engineering founders still won't listen,
 
 ![lessons paid in blood](https://public.asmartbear.com/books/anthology/chapters/code-is-your-enemy/image-4-simple.png)
 
-The Twitter thread has far more responses, all just like these.
+يحتوي موضوع تويتر على ردود أكثر بكثير، وكلها مثل هذه تمامًا.
 
-Can you learn this lesson today, without having to "find out for yourself?"
+هل يمكنك تعلم هذا الدرس اليوم، دون الحاجة إلى "اكتشاف ذلك بنفسك؟"
 
-Just this once?
+هذه المرة فقط؟
 
 ---
 
-*Thanks to [Simón Muñoz](https://x.com/simonvlc) for translating into [Spanish](https://www.estrategiadeproducto.com/p/el-codigo-es-tu-enemigo).*
+*شكرًا لـ [سيمون مونيوز](https://x.com/simonvlc) على الترجمة إلى [الإسبانية](https://www.estrategiadeproducto.com/p/el-codigo-es-tu-enemigo).*

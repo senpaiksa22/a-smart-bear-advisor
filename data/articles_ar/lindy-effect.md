@@ -20,70 +20,57 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** تأثير ليندي (Lindy Effect) على مستقبل وبقاء الشركات الناشئة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+> "أول 90% من الكود يمثل أول 90% من وقت التطوير. و10% المتبقية من الكود تمثل 90% الأخرى من الوقت."
+> --توم كارجيل، مختبرات بيل
 
----
-
-### النص المرجعي للمقال (Original Reference):
-# The Lindy Effect on startup potential
-
-> **Executive Summary:** On average, you're halfway to your final destination. How, then, do we not only double from here, but 10x?
-> **Original URL:** [https://longform.asmartbear.com/lindy-effect/](https://longform.asmartbear.com/lindy-effect/)
-
-> "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the time."  
-> --Tom Cargill, Bell Labs
-
-However long it has taken us to get a project "close to done," it will probably take that much time again to *really* be done. **It's funny because it's true.**
+مهما طال الوقت الذي استغرقناه حتى أصبح المشروع "على وشك الانتهاء"، فمن المحتمل أن يستغرق الأمر الكثير من الوقت مرة أخرى حتى يتم إنجازه *فعليًا*. **إنه أمر مضحك لأنه صحيح.**
 
 ![no its too late for oversight committee send it to hindsight committee](https://public.asmartbear.com/books/anthology/chapters/lindy-effect/d1515print-simple.png)
 
-Why is it true? Here's a novel way to frame it: When you're exploring something new, where the terminus is unknown, you never know how far along the path you are. **On average, however, you're halfway there.** This is due to the very definition of "average"--you'll spend 50% your time before the half-way point, and 50% after.
+لماذا هذا صحيح؟ إليك طريقة جديدة لتأطير الأمر: عندما تستكشف شيئًا جديدًا، حيث تكون النهاية غير معروفة، فإنك لا تعرف أبدًا مدى المسافة التي قطعتها على طول المسار. **ومع ذلك، فأنت في منتصف الطريق في المتوسط.** ويرجع ذلك إلى تعريف "المتوسط" ذاته - حيث ستقضي 50% من وقتك قبل نقطة منتصف الطريق، و50% بعد ذلك.
 
-This general rule is called the [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_Effect): For certain non-perishable things (like technology, companies, books, and ideas), the expected lifespan is twice its current age.
+تُسمى هذه القاعدة العامة بـ [تأثير ليندي](https://en.wikipedia.org/wiki/Lindy_Effect): بالنسبة لبعض الأشياء غير القابلة للتلف (مثل التكنولوجيا والشركات والكتب والأفكار)، فإن العمر المتوقع هو ضعف عمرها الحالي.
 
-Rewriting the same rule with different language allows us to apply this rule to startup growth:
+تتيح لنا إعادة كتابة نفس القاعدة بلغة مختلفة تطبيق هذه القاعدة على نمو الشركات الناشئة:
 
-**However large you've gotten, you can probably double it.**
+**مهما كان حجمك، فمن المحتمل أن تتمكن من مضاعفته.**
 
-If you've gotten 10 customers you can probably get another 10 in a similar way. Will you ever get 2000? I hope so, but *most* companies that do get 10 *never* get 2000. Putting it another way, doubling the size of the company always sounds plausible, because you've done it once, so you can probably do it again, even faster this time. But 10x or 100x is not obvious at all.
+إذا كان لديك 10 عملاء، فمن المحتمل أن تتمكن من الحصول على 10 آخرين بطريقة مماثلة. هل ستحصل على 2000 يوما؟ أتمنى ذلك، ولكن *معظم* الشركات التي تحصل على 10 *لا تحصل أبدًا على 2000. وبعبارة أخرى، فإن مضاعفة حجم الشركة يبدو دائمًا أمرًا معقولًا، لأنك فعلت ذلك مرة واحدة، لذلك ربما يمكنك القيام بذلك مرة أخرى، وبشكل أسرع هذه المرة. لكن 10x أو 100x ليس واضحًا على الإطلاق.
 
-One way to understand why 2x is plausible but 20x requires innovation, is to observe that the actions that got you your first 10 customers are probably not sufficient for generating 100, even though they're probably sufficient for getting another 10. You might have scratched and clawed inside your social network to get the first 10, but that doesn't scale to 100, and just because you were successful at convincing customers one-at-a-time to convert through hour-long Zoom calls doesn't mean you can convert 100 no-sales-touch customers via Google ads.
+إحدى الطرق لفهم سبب كون 2x أمرًا معقولًا ولكن 20x يتطلب الابتكار، هي ملاحظة أن الإجراءات التي حصلت لك على أول 10 عملاء ربما لا تكون كافية لتوليد 100، على الرغم من أنها ربما تكون كافية للحصول على 10 آخرين. ربما تكون قد خدشت وحفرت داخل شبكتك الاجتماعية للحصول على أول 10، لكن هذا لا يصل إلى 100، وذلك فقط لأنك نجحت في إقناع العملاء واحدًا تلو الآخر بالتحويل من خلال لا تعني مكالمات Zoom التي تستغرق ساعة أنه يمكنك تحويل 100 عميل لا يتعاملون مع المبيعات عبر إعلانات Google.
 
-Or you might have gotten to 1000 customers through one marketing channel. Although surely that same channel can produce another 1000, it's unlikely that there is 10x the [inventory inside that one channel](https://longform.asmartbear.com/exponential-growth/) to get you to 10,000 customers. Thus you'll need to make other channels work, which is not easy to accomplish, as anyone who's gone through that challenge can attest. In fact, to achieve 10x you'll probably need *multiple* new channels. Yikes! Possible? Sure. Likely? No, or at least, not with the confidence you have in 2x.
+أو ربما تكون قد وصلت إلى 1000 عميل من خلال قناة تسويقية واحدة. على الرغم من أنه من المؤكد أن نفس القناة يمكنها إنتاج 1000 عميل آخر، فمن غير المرجح أن يكون هناك 10 أضعاف [المخزون داخل تلك القناة الواحدة](https://longform.asmartbear.com/exponential-growth/) للوصول إلى 10000 عميل. ومن ثم، ستحتاج إلى تشغيل قنوات أخرى، وهو أمر ليس من السهل تحقيقه، كما يشهد بذلك أي شخص خاض هذا التحدي. في الواقع، لتحقيق 10x، ستحتاج على الأرجح إلى *قنوات* متعددة* جديدة. ييكيس! ممكن؟ بالتأكيد. محتمل؟ لا، أو على الأقل، ليس مع الثقة التي تتمتع بها في 2x.
 
-So the "startup growth" version of this rule is:
+لذا فإن نسخة "نمو الشركات الناشئة" من هذه القاعدة هي:
 
-**You can probably double your size by doing what you're already doing, but 10x will require innovation.**
+**ربما يمكنك مضاعفة حجمك من خلال القيام بما تفعله بالفعل، ولكن 10x سيتطلب الابتكار.**
 
-Figure 1 shows an example.
+ويبين الشكل 1 مثالا.
 
 ![Tweet: Can see way to $10k MRR but not $100k MRR](https://public.asmartbear.com/books/anthology/chapters/lindy-effect/image-2-simple.png)
 
-Or, instead of innovation, time and luck. Specifically, waiting a long time for the existing mechanism to keep working, and lucky that nothing stops that slow but predictable growth: the channel doesn't saturate and get worse, new competitors don't arise, market conditions don't make the product less desirable, the economy doesn't slow, and so on. Again, *possible*, but in the fast-moving world of tech, *unlikely*.
+أو بدلاً من الابتكار، الوقت والحظ. على وجه التحديد، الانتظار لفترة طويلة حتى تستمر الآلية الحالية في العمل، ومن حسن الحظ أن لا شيء يوقف هذا النمو البطيء ولكن المتوقع: القناة لا تتشبع وتزداد سوءا، ولا يظهر منافسون جدد، وأحوال السوق لا تجعل المنتج أقل جاذبية، ولا يتباطأ الاقتصاد، وما إلى ذلك. مرة أخرى، *ممكن*، ولكن في عالم التكنولوجيا سريع الحركة، *غير مرجح*.
 
-Indeed, at some point 10x is strictly impossible. At the high end, you hit market size limits (Facebook has 2B users; there aren't 20B humans) or run out of marketing channels for acquisition (GoDaddy's customer growth rate is [13%/yr since 2009](https://www.sec.gov/Archives/edgar/data/1609711/000119312514230425/d728713ds1.htm); at that rate it will take 18 years for them to 10x, assuming market size and conditions would even allow them to sustain that). At the low end, maybe there really isn't a market, or the market really doesn't want that product, at least not at a profitable price, so you can squeeze out some early sales but it can't get substantially bigger.
+في الواقع، في مرحلة ما 10x أمر مستحيل تمامًا. في النهاية، قد تصل إلى حدود حجم السوق (يمتلك فيسبوك ملياري مستخدم، ولا يوجد 20 مليار إنسان) أو تنفد قنوات التسويق للاكتساب (يبلغ معدل نمو عملاء GoDaddy [13% سنويًا منذ ذلك الحين) 2009](https://www.sec.gov/Archives/edgar/data/1609711/000119312514230425/d728713ds1.htm)؛ وبهذا المعدل، سيستغرق الأمر 18 عامًا حتى يصلوا إلى 10x، بافتراض أن حجم السوق وظروفه ستسمح لهم بالحفاظ على ذلك). عند الحد الأدنى، ربما لا يوجد سوق حقًا، أو أن السوق لا يريد هذا المنتج حقًا، على الأقل ليس بسعر مربح، لذا يمكنك الضغط على بعض المبيعات المبكرة ولكن لا يمكن أن تصبح أكبر بشكل كبير.
 
-*Editor's Note: This article was written in 2014, so now in 2024 we can actually look back 10 years and see whether my GoDaddy prediction was correct. Annual revenue in 2014 was just under $1B, and in 2024 it is about $4B, so indeed they did not 10x--didn't even 5x--over a ten-year period. Also, GoDaddy expanded into several additional product lines; had they "done what we've always done," the growth would have been even lower. Their growth since 2014:*
+*ملاحظة المحرر: تمت كتابة هذه المقالة في عام 2014، لذا يمكننا الآن في عام 2024 أن ننظر إلى الوراء 10 سنوات ونرى ما إذا كانت توقعات GoDaddy صحيحة أم لا. كانت الإيرادات السنوية في عام 2014 أقل بقليل من مليار دولار، وفي عام 2024 بلغت حوالي 4 مليار دولار، لذلك لم يصلوا بالفعل إلى 10 أضعاف - ولم يصلوا حتى 5 أضعاف - على مدى فترة عشر سنوات. أيضًا، توسعت GoDaddy لتشمل عدة خطوط إنتاج إضافية؛ ولو أنهم "فعلوا ما كنا نفعله دائما"، لكان النمو أقل من ذلك. نموها منذ عام 2014:*
 
 ![GoDaddy's annual revenue, in billions of USD, 2014-2024](https://public.asmartbear.com/books/anthology/chapters/lindy-effect/image-simple.png)
 
-**You get 2x by assumption but 10x you have to prove.** If you're in the business of raising money, you actually have to prove it. But how do you prove something that we just agreed was unlikely?
+**تحصل على 2x بالافتراض، ولكن عليك إثبات 10x.** إذا كنت تعمل في مجال جمع الأموال، فيجب عليك إثبات ذلك بالفعل. لكن كيف تثبت أن شيئًا اتفقنا للتو على أنه غير محتمل؟
 
-**One answer is having *very fast* growth.** If you're doubling every six months, you clearly have line-of-sight for more growth than just 2x. Your trajectory proves intense market demand is getting coupled with an ability to find and service it. If the underlying market is large and/or growing, you have a good case that 10x is already within reach, and innovation could potentially get you 100x or 1000x. And indeed, the companies who have shown that sort of growth at interesting size [^1] have indeed shown 100x or 1000x size thereafter.[^2]
+**أحد الإجابات هو تحقيق نمو *سريع جدًا*. ** إذا كنت تتضاعف كل ستة أشهر، فمن الواضح أن لديك مجال رؤية لتحقيق نمو أكبر من مجرد ضعفين. يثبت مسارك أن الطلب المكثف في السوق يقترن بالقدرة على العثور عليه وخدمته. إذا كان السوق الأساسي كبيرًا و/أو متنامًا، فلديك حالة جيدة مفادها أن 10x في متناول اليد بالفعل، ومن المحتمل أن يمنحك الابتكار 100x أو 1000x. وبالفعل، فإن الشركات التي أظهرت هذا النوع من النمو بحجم مثير للاهتمام [^1] أظهرت بالفعل حجمًا 100x أو 1000x بعد ذلك.[^2]
 
-This is why investors (and founders) wishing to build enormous companies are so fixated on *hyper*-growth.[^3] It's the only way to have even the potential of building something enormous.
+ولهذا السبب يركز المستثمرون (والمؤسسون) الذين يرغبون في بناء شركات ضخمة على النمو *المفرط*.[^3] إنها الطريقة الوحيدة لامتلاك إمكانية بناء شيء هائل.
 
-[^1]: "Interesting size" doesn't mean going from 10 customers to 20 in six months and then being proud of your "rapid growth." Going from 1000 to 2000 in six months is more like it.
+[^1]: "الحجم المثير للاهتمام" لا يعني الانتقال من 10 عملاء إلى 20 عميلًا في ستة أشهر ثم الشعور بالفخر بـ "النمو السريع" الخاص بك. إن الانتقال من 1000 إلى 2000 في ستة أشهر هو أشبه بذلك.
 
-[^2]: With 10 years of hindsight, our company WP Engine was another one of these which [experienced hyper-growth](https://longform.asmartbear.com/product-market-fit/) since hitting $1M ARR, and achieved 100x that six years later.
+[^2]: بعد مرور 10 سنوات من الإدراك المتأخر، كانت شركتنا WP Engine إحدى الشركات الأخرى التي [شهدت نموًا مفرطًا](https://longform.asmartbear.com/product-market-fit/) منذ أن وصلت إلى مليون دولار أمريكي في المتوسط، وحققت 100 ضعف ذلك المبلغ بعد ست سنوات.
 
-[^3]: And "exponential growth," though [that is a misnomer](https://longform.asmartbear.com/exponential-growth/).
+[^3]: و"النمو الأسي"، رغم أن [هذه تسمية خاطئة](https://longform.asmartbear.com/exponential-growth/).
 
-**Another way to break the Lindy Effect is to change something substantial.** I think of this as [expanding into an adjacency](https://longform.asmartbear.com/adjacency/). As explained in that article, this means keep one foot planted in the areas you're already strong, and expanding into something new, risky, but with much higher upside than incremental improvement on the existing business.
+** هناك طريقة أخرى لكسر تأثير ليندي وهي تغيير شيء جوهري. ** أعتقد أن هذا هو [التوسع في المنطقة المجاورة](https://longform.asmartbear.com/adjacency/). كما هو موضح في تلك المقالة، هذا يعني الحفاظ على قدم واحدة في المناطق التي أنت قوي فيها بالفعل، والتوسع في شيء جديد، محفوف بالمخاطر، ولكن مع جانب إيجابي أعلى بكثير من التحسين التدريجي في الأعمال التجارية الحالية.
 
-Of course not everyone cares about building something that services a million customers, or cares to expand into other areas for the sake of growth. Nor should they.
+بالطبع لا يهتم الجميع ببناء شيء يخدم مليون عميل، أو يهتم بالتوسع في مجالات أخرى من أجل النمو. ولا ينبغي لهم ذلك.
 
-Even so, the Lindy Effect is helpful understanding what will be easy, and what will require something new.
+ومع ذلك، فإن تأثير ليندي مفيد في فهم ما سيكون سهلاً، وما الذي سيتطلب شيئًا جديدًا.

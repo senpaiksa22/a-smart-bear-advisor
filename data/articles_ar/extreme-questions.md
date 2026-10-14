@@ -20,211 +20,198 @@ summary_ar: "We know, \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** أسئلة العصف الذهني الجريئة لتوليد أفكار ريادية متفوقة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Extreme brainstorming questions to trigger new, better ideas
-
-> **Executive Summary:** We know, "no idea is a bad idea," but brainstorming is often unsuccessful. These prompts actually work. They could even lead to a unique business model.
-> **Original URL:** [https://longform.asmartbear.com/extreme-questions/](https://longform.asmartbear.com/extreme-questions/)
-
 ![boy what day huh](https://public.asmartbear.com/books/anthology/chapters/extreme-questions/d6064print-simple.png)
 
-How do you generate ideas?
+كيف تولد الأفكار؟
 
-"Brainstorming" is hard--staring at a blank whiteboard, wondering whether someone could make a real-life "dark mode" whiteboard, then realizing that's what a blackboard is, only dustier.
+يعد "العصف الذهني" أمرًا صعبًا - التحديق في سبورة بيضاء فارغة، والتساؤل عما إذا كان بإمكان شخص ما إنشاء سبورة بيضاء "بالوضع المظلم" في الحياة الواقعية، ثم إدراك أن هذه هي السبورة السوداء، ولكنها أكثر غبارًا فقط.
 
-Or the modern version, seventeen pointers flying around a Miro board, zooming to 2000% to read that auto-scaled-down text in each standard-sized virtual sticky-note.
+أو الإصدار الحديث، الذي يحتوي على سبعة عشر مؤشرًا تحلق حول لوحة Miro، وتكبيرها بنسبة 2000% لقراءة النص الذي تم تصغير حجمه تلقائيًا في كل ملاحظة لاصقة افتراضية ذات حجم قياسي.
 
-We're blinded by our daily work: No forest, all trees. It's too easy to glom onto an idea that's been knocking around for year, its importance undeservedly increased by the familiarity of repetition. It's hard to think past the last seven customer interviews or support tickets or sales calls. Those are great for generating tactical ideas that fuel our roadmaps, but they are tiny increments that cement our tiny thinking.
+لقد أعمانا عملنا اليومي: لا توجد غابة، كل الأشجار. من السهل جدًا أن نتطلع إلى فكرة ظلت تتداول منذ عام، وقد زادت أهميتها بشكل غير مستحق بسبب اعتياد التكرار. من الصعب التفكير فيما وراء المقابلات السبع الأخيرة مع العملاء أو تذاكر الدعم أو مكالمات المبيعات. تعتبر هذه الأشياء رائعة لتوليد أفكار تكتيكية تغذي خرائط الطريق لدينا، ولكنها زيادات صغيرة تعزز تفكيرنا الصغير.
 
-**The following prompts jostle you out of tiny thinking.** Each stretches some dimension of reality to an extreme. So extreme that it is nearly nonsense. But dramatically different perspectives can reveal distinctly new ideas. An idea that would be a 60% solution in an extreme hypothetical case, could be a 2x or even a 10x idea in reality.
+**المطالبات التالية تدفعك إلى التفكير الضئيل. ** كل منها يوسع بعض أبعاد الواقع إلى أقصى الحدود. متطرف للغاية لدرجة أنه يكاد يكون هراء. لكن وجهات النظر المختلفة بشكل كبير يمكن أن تكشف عن أفكار جديدة بشكل واضح. الفكرة التي قد تكون حلاً بنسبة 60% في حالة افتراضية متطرفة، يمكن أن تكون فكرة 2x أو حتى 10x في الواقع.
 
-Sometimes the extreme is surprisingly appropriate. Unique business models emerge when at least one dimension is so extreme that it defies critics and competitors to even conceive of its possibility.[^1] A fantastic idea fulfilling the right extreme can be a company's entire strategy, unlocking a long-term competitive moat.
+في بعض الأحيان يكون التطرف مناسبًا بشكل مدهش. تظهر نماذج الأعمال الفريدة عندما يكون أحد الأبعاد على الأقل متطرفًا للغاية لدرجة أنه يتحدى النقاد والمنافسين حتى لتصور إمكانية ذلك.[^1] يمكن أن تكون الفكرة الرائعة التي تحقق التطرف الصحيح بمثابة استراتيجية الشركة بأكملها، مما يفتح خندقًا تنافسيًا طويل المدى.
 
-[^1]: All of these were considered impossible barriers or business models, until a company did it anyway and won because of it: Zappos' free shoe returns 364 days after purchase, Robinhood's $0 trading fees, Amazon's free delivery with Prime, Netflix's mail-order DVD rental, open-source software companies charging for something that's 100% free and 0% secret intellectual property (now hundreds of billions of dollars in combined public-company value), AirBnB, Uber, and Lyft trusting that strangers will trust strangers in the intimate spaces of cars and homes.
+[^1]: كل هذه كانت تعتبر حواجز أو نماذج أعمال مستحيلة، إلى أن قامت الشركة بذلك على أي حال وفازت بسببها: إرجاع حذاء Zappos المجاني بعد 364 يومًا من الشراء، ورسوم تداول Robinhood البالغة 0 دولار، والتوصيل المجاني من Amazon مع Prime، واستئجار أقراص DVD عبر الطلب عبر البريد من Netflix، وشركات البرمجيات مفتوحة المصدر تفرض رسومًا على شيء مجاني 100% وملكية فكرية سرية 0% (الآن تبلغ قيمة الشركة العامة مجتمعة مئات المليارات من الدولارات)، AirBnB، تثق شركتا Uber وLyft في أن الغرباء سوف يثقون في الغرباء في الأماكن الحميمة للسيارات والمنازل.
 
-It's worth a try.
+الأمر يستحق المحاولة.
 
-## 10x prices
+## أسعار 10x
 
-If you were forced to increase your prices by 10x, what would you have to do to [justify it](https://longform.asmartbear.com/more-value-not-save-money/)?
+إذا اضطررت إلى زيادة أسعارك بمقدار 10 أضعاف، فما الذي يتعين عليك فعله [لتبرير ذلك](https://longform.asmartbear.com/more-value-not-save-money/)؟
 
-What sort of brand looks and feels like something that expensive? What positioning would you take? How would the design of both the website and the product need to change?
+ما هو نوع العلامة التجارية التي تبدو وكأنها شيء باهظ الثمن؟ ما هو الموقف الذي ستتخذه؟ كيف يجب أن يتغير تصميم كل من الموقع الإلكتروني والمنتج؟
 
-What subset of your market would you have to target? Do they have different problems that need solving, or different needs? Would they consider the high price a positive, because it fulfills a need to be seen as someone who is successful, or because they feel "buying from the best" lowers the risk of their decision? What would you need to do for them to be able to display that badge? What sort of relationship would you want to cultivate with each customer? How would [your business model](https://longform.asmartbear.com/problem/) change?
+ما هي المجموعة الفرعية من السوق التي يجب عليك استهدافها؟ هل لديهم مشاكل مختلفة تحتاج إلى حل، أو احتياجات مختلفة؟ فهل يعتبرون السعر المرتفع أمرا إيجابيا، لأنه يلبي الحاجة إلى أن ينظر إليهم على أنهم شخص ناجح، أو لأنهم يشعرون أن "الشراء من الأفضل" يقلل من مخاطر قرارهم؟ ما الذي يتعين عليك فعله حتى يتمكنوا من عرض تلك الشارة؟ ما نوع العلاقة التي ترغب في تنميتها مع كل عميل؟ كيف سيتغير [نموذج نشاطك التجاري](https://longform.asmartbear.com/problem/)؟
 
-What expensive services might you need to supply? Human support? Infrastructure? Is it possible for those costs to be "only" 2x or 3x more than today, so that the net impact is massive profitability?
+ما هي الخدمات باهظة الثمن التي قد تحتاج إلى توفيرها؟ الدعم البشري؟ بنية تحتية؟ هل من الممكن أن تكون هذه التكاليف "فقط" ضعفين أو ثلاثة أضعاف ما هي عليه اليوم، بحيث يكون التأثير الصافي هو الربحية الهائلة؟
 
-*Often early startups charge too little, and established companies struggle to charge more to existing customers. Thinking about what could justify a massive hike, you might be able to do some of those things and justify at least 2x.*
+*في كثير من الأحيان تتقاضى الشركات الناشئة المبكرة رسومًا قليلة للغاية، وتكافح الشركات الراسخة لتحصيل رسوم أكبر من العملاء الحاليين. بالتفكير في ما يمكن أن يبرر ارتفاعًا كبيرًا، قد تتمكن من القيام ببعض هذه الأشياء وتبرير ذلك على الأقل مرتين.*
 
-## No customers
+## لا يوجد عملاء
 
-If all our customers vanished, and we had to earn our growth and brand from scratch, what would we do?
+إذا اختفى جميع عملائنا، وكان علينا أن نحقق نمونا وعلامتنا التجارية من الصفر، فماذا سنفعل؟
 
-How would we distinguish ourselves with a unique compelling message, as a fresh competitor in our market? What would we put on our home page? Would we use a different pricing model to compete better? Would our brand need to change to align with the message?
+كيف يمكننا أن نميز أنفسنا برسالة فريدة ومقنعة، كمنافس جديد في سوقنا؟ ماذا سنضع على صفحتنا الرئيسية؟ هل سنستخدم نموذج تسعير مختلف للمنافسة بشكل أفضل؟ هل تحتاج علامتنا التجارية إلى التغيير لتتوافق مع الرسالة؟
 
-Would we throw out some features that take a lot of work but not many people actually use (since there's no pesky customers hanging on to the expectation of the old features)? Would we build some new feature that would make us more competitive? Would we change our infrastructure or architecture or UX dramatically because of what we now know, since we're not ladened with existing customers?
+هل سنتخلص من بعض الميزات التي تتطلب الكثير من العمل ولكن لا يستخدمها الكثير من الأشخاص فعليًا (نظرًا لعدم وجود عملاء مزعجين يتمسكون بتوقعات الميزات القديمة)؟ هل سنبني بعض الميزات الجديدة التي من شأنها أن تجعلنا أكثر قدرة على المنافسة؟ هل سنغير بنيتنا التحتية أو بنيتنا التحتية أو تجربة المستخدم بشكل كبير بسبب ما نعرفه الآن، بما أننا لسنا مثقلين بالعملاء الحاليين؟
 
-*Often we don't make important changes because we've gotten complacent with our marketing, or we never got around to having a truly compelling unique positioning statement, or we don't want to incur the penalty of big changes on our customer base, even if it means we're doing the wrong thing today from a competitive standpoint, and the wrong thing for the future. We don't want to make even 5% of our customers mad, even if it would be better for the other 95%. There will be 10x more customers in the future than there are now, but only if we build for them, today.*
+*في كثير من الأحيان، لا نقوم بإجراء تغييرات مهمة لأننا أصبحنا راضين عن تسويقنا، أو لأننا لم نتمكن أبدًا من الحصول على بيان تحديد موقع فريد ومقنع حقًا، أو لأننا لا نريد أن نتحمل عقوبة التغييرات الكبيرة على قاعدة عملائنا، حتى لو كان ذلك يعني أننا نفعل الشيء الخطأ اليوم من وجهة نظر تنافسية، والشيء الخطأ للمستقبل. لا نريد أن نثير غضب حتى 5% من عملائنا، حتى لو كان ذلك أفضل للـ 95% الآخرين. سيزيد عدد العملاء في المستقبل بمقدار 10 أضعاف عما هو موجود الآن، ولكن فقط إذا بنينا لهم اليوم.*
 
-## No tech support
+## لا يوجد دعم فني
 
-If you were never allowed to provide tech support, in any form, what would have to change?
+إذا لم يُسمح لك مطلقًا بتقديم الدعم الفني، بأي شكل من الأشكال، فما الذي يجب أن يتغير؟
 
 ![so as you can see customer satisfaction up considerably since phasing out complaint forms](https://public.asmartbear.com/books/anthology/chapters/extreme-questions/d0512print-simple.png)
 
-How would on-boarding need to be improved, to the point where customers would self-serve and be happy doing it? This might be the hardest step, because the customer is least-familiar with your product, and least-motivated to power through barriers to their success. And setup stuff often has to be done only once, so you might not learn how to improve those things from existing customers.
+كيف يجب تحسين عملية الالتحاق، إلى الحد الذي يجعل العملاء يخدمون أنفسهم بأنفسهم ويكونون سعداء بفعل ذلك؟ قد تكون هذه هي الخطوة الأصعب، لأن العميل هو الأقل دراية بمنتجك، والأقل تحفيزًا للطاقة من خلال العوائق التي تحول دون نجاحه. وغالبًا ما يجب إجراء أمور الإعداد مرة واحدة فقط، لذلك قد لا تتعلم كيفية تحسين هذه الأشياء من العملاء الحاليين.
 
-Where would the product provide the user with more control, since they can't ask Support to do it for them? What information requires better visibility, since they can't ask Support to look it up for them? What actions would need to be become more intuitive, because they can't ask Support how to use functionality that they know "is in here somewhere?"
+أين يمكن للمنتج أن يوفر للمستخدم مزيدًا من التحكم، حيث أنه لا يمكنه أن يطلب من الدعم القيام بذلك نيابةً عنه؟ ما هي المعلومات التي تتطلب رؤية أفضل، حيث لا يمكنهم مطالبة الدعم بالبحث عنها؟ ما هي الإجراءات التي يجب أن تكون أكثر سهولة، لأنهم لا يستطيعون سؤال الدعم عن كيفية استخدام الوظيفة التي يعرفون أنها "موجوده هنا في مكان ما؟"
 
-_Self-service isn't just better for your costs and scaling, it also makes customers happier and [more loyal](https://www.amazon.com/Effortless-Experience-Conquering-Battleground-Customer/dp/1591845815). Therefore, dramatically improving self-service is often profitable for both the top- and bottom-line._
+_الخدمة الذاتية ليست أفضل بالنسبة لتكاليفك وتوسيع نطاقك فحسب، بل إنها تجعل العملاء أكثر سعادة و[أكثر ولاءً](https://www.amazon.com/Effortless-Experience-Conquering-Battleground-Customer/dp/1591845815). ولذلك، فإن تحسين الخدمة الذاتية بشكل كبير غالبًا ما يكون مربحًا لكل من الربح والخسارة.
 
-## Maximize fun
+## تعظيم المتعة
 
-What would be the most *fun* thing to build?
+ما هو الشيء الأكثر متعة في البناء؟
 
-It has to be something that makes our product better, not a random technology or unrelated market. Aside from that constraint, it can be anything--building a feature you just think would be cool for customers to use, developing a technology that would be fun to work on (that happens to deliver a feature customers want), refactoring infrastructure or architecture using some interesting modern technology that would also improve something like cost-efficiency, scalability, testability, or maintainability.
+يجب أن يكون شيئًا يجعل منتجنا أفضل، وليس تقنية عشوائية أو سوقًا غير ذات صلة. وبصرف النظر عن هذا القيد، يمكن أن يكون أي شيء - بناء ميزة تعتقد أنها ستكون رائعة للعملاء لاستخدامها، أو تطوير تقنية سيكون من الممتع العمل عليها (وهذا يحدث لتقديم ميزة يريدها العملاء)، أو إعادة هيكلة البنية التحتية أو الهندسة المعمارية باستخدام بعض التقنيات الحديثة المثيرة للاهتمام والتي من شأنها أيضًا تحسين شيء مثل كفاءة التكلفة، أو قابلية التوسع، أو قابلية الاختبار، أو قابلية الصيانة.
 
-What if you held a one-week hackathon and actually tried to build one of those things?
+ماذا لو عقدت هاكاثونًا لمدة أسبوع وحاولت بالفعل بناء أحد هذه الأشياء؟
 
-*When we work on things that are fun, we work better and harder, yet are happy to do it. Therefore, biasing towards fun is also biasing towards productivity and long-term fulfillment, which is practical and logical, not merely indulgent as it first appears. Ultimately, work still needs to advance the strategy while improving something substantial for the customer or the team, but typical prioritization under-appreciates the power of fun.*
+*عندما نعمل على أشياء ممتعة، فإننا نعمل بشكل أفضل وأكثر جدية، ومع ذلك نكون سعداء للقيام بذلك. ولذلك فإن الانحياز للمتعة هو أيضًا انحياز للإنتاجية والإنجاز على المدى الطويل، وهو أمر عملي ومنطقي، وليس مجرد تساهل كما يبدو للوهلة الأولى. في نهاية المطاف، لا يزال العمل بحاجة إلى تطوير الإستراتيجية مع تحسين شيء جوهري للعميل أو الفريق، ولكن تحديد الأولويات النموذجية يقلل من تقدير قوة المرح.*
 
-## Complete rip-off
+## التمزق الكامل
 
-If our biggest competitor copied every feature we have, how would we still win?
+إذا قام أكبر منافس لنا بنسخ كل ميزة لدينا، فكيف سنفوز؟
 
-Is the answer inside our product, in something other than the utility of the features? What is that, and how could we make more of that, so we're differentiated even in the face of a copy-cat? Is it ease of use, ease of sharing, pleasure of great design? Is it building the next unique feature so quickly that no competitor can catch up (since in this hypothetical they're just copying us rather than being insightful on their own), and if so, what is the killer next feature that would leap-frog us from a customer's perspective?
+هل الجواب داخل منتجنا، في شيء آخر غير فائدة الميزات؟ ما هذا، وكيف يمكننا أن نصنع المزيد من ذلك، حتى نتميز حتى في وجه القط المقلد؟ هل هي سهولة الاستخدام، أو سهولة المشاركة، أو متعة التصميم الرائع؟ هل هو بناء الميزة الفريدة التالية بسرعة كبيرة بحيث لا يستطيع أي منافس اللحاق بها (نظرًا لأنهم في هذا الافتراض يقومون فقط بنسخنا بدلاً من أن يكونوا ثاقبين من تلقاء أنفسهم)، وإذا كان الأمر كذلك، ما هي الميزة التالية القاتلة التي من شأنها أن تقفز علينا من وجهة نظر العميل؟
 
-If the answer is outside of our product, where is it? A higher purpose or brand-promise that our customers buy into, aside from the product? Is that because we are good at communicating how we make the world better, or because our customers are "rooting for David against Goliath," or how our culture is special, or because our brand is distinctive (even if just "it's the best" or "it's the biggest"), or because our customers trust us, maybe because of our customer service, or because of how we handle situations that go poorly, or because we "give back" in forms like open-source or community-building or significant philanthropy?
+إذا كانت الإجابة خارج منتجنا، فأين هي؟ غرض أسمى أو وعد بالعلامة التجارية يشتريه عملاؤنا، بخلاف المنتج؟ هل هذا لأننا جيدون في التواصل حول كيفية جعل العالم أفضل، أو لأن عملائنا "يشجعون داود ضد جالوت"، أو لأن ثقافتنا مميزة، أو لأن علامتنا التجارية مميزة (حتى لو كانت "الأفضل" أو "الأكبر")، أو لأن عملائنا يثقون بنا، ربما بسبب خدمة العملاء التي نقدمها، أو بسبب الطريقة التي نتعامل بها مع المواقف التي تسير بشكل سيئ، أو لأننا "نرد الجميل" في أشكال مثل المصدر المفتوح أو بناء المجتمع أو العمل الخيري الكبير؟
 
-*All your good ideas will be copied; it's just a question of when. Competing only on features results in bullet-point battles; this is the weakest way to win sales. Creating bigger and more emotional distinction is a powerful way to win, and breaks us of the habit of believing that incremental product updates will dramatically increase differentiation, or growth.*
+*سيتم نسخ جميع أفكارك الجيدة؛ إنها مجرد مسألة متى. يؤدي التنافس على الميزات فقط إلى معارك نقطية؛ هذه هي أضعف طريقة لكسب المبيعات. إن خلق تمييز أكبر وأكثر عاطفية هو وسيلة قوية للفوز، ويكسر عادة الاعتقاد بأن تحديثات المنتج المتزايدة ستزيد بشكل كبير من التميز أو النمو.*
 
-## No time
+## لا وقت
 
-What if we are forced to ship a full, completed MVP ([or actually, SLC](https://longform.asmartbear.com/slc/)) new feature, in just two weeks, that would delight and surprise some fraction of our customers.
+ماذا لو اضطررنا إلى شحن ميزة MVP كاملة ومكتملة ([أو في الواقع، SLC](https://longform.asmartbear.com/slc/)) ميزة جديدة، في غضون أسبوعين فقط، من شأنها أن تُسعد وتفاجئ بعض عملائنا.
 
-> "To achieve great things, two things are needed: a plan, and not quite enough time."  
-> --Leonard Bernstein
+> "لتحقيق أشياء عظيمة، هناك حاجة إلى شيئين: خطة، وليس ما يكفي من الوقت."
+> --ليونارد بيرنشتاين
 
-Every bit of complexity has to be stripped out--we can add it back later. Scope has to be reduced to a minimum, which reduces how many people can use it on day one, but increases how much we'll learn on day one.
+يجب إزالة كل جزء من التعقيد، ويمكننا إضافته مرة أخرى لاحقًا. يجب تقليل النطاق إلى الحد الأدنى، مما يقلل من عدد الأشخاص الذين يمكنهم استخدامه في اليوم الأول، ولكنه يزيد من مقدار ما سنتعلمه في اليوم الأول.
 
-Can we stub out an API, implementing it manually for now? Can we hook up some 3rd-party system, implementing something more efficient later? Can we skip documentation and internal support training and perfect error handling, not forever, but just long enough to see how people like this new functionality?
+هل يمكننا إيقاف واجهة برمجة التطبيقات (API) وتنفيذها يدويًا في الوقت الحالي؟ هل يمكننا ربط نظام تابع لجهة خارجية وتنفيذ شيء أكثر كفاءة لاحقًا؟ هل يمكننا تخطي التدريب على التوثيق والدعم الداخلي والتعامل بشكل مثالي مع الأخطاء، ليس إلى الأبد، ولكن لفترة كافية لمعرفة مدى إعجاب الأشخاص بهذه الوظيفة الجديدة؟
 
-A 1000-page book can be summarized in a 40-page Cliff's Notes. The key lessons of Cliff's Notes can be summarized in a 1-page blog post. The main theme and one unique perspective of the book can be summarized in one sentence. It can always be smaller, if we trade off detail, or precision, or completeness.
+يمكن تلخيص كتاب مكون من 1000 صفحة في ملاحظات كليف المكونة من 40 صفحة. يمكن تلخيص الدروس الأساسية المستفادة من Cliff's Notes في منشور مدونة مكون من صفحة واحدة. يمكن تلخيص الموضوع الرئيسي والمنظور الفريد للكتاب في جملة واحدة. يمكن أن يكون دائمًا أصغر، إذا قمنا باستبدال التفاصيل أو الدقة أو الاكتمال.
 
-*Hackathons prove that we can code really cool things in a short time, when we want to, and if we make certain trade-offs. It's not fully finished, not polished, not ready to scale, but it's something substantial and far more "agile" than teams normally are. If you feel like you've lapsed into a waterfall with two-week report-outs, this might be the shake-up everyone needs.*
+*تثبت فعاليات الهاكاثون أنه يمكننا برمجة أشياء رائعة حقًا في وقت قصير، عندما نريد ذلك، وإذا قمنا بمقايضات معينة. لم يتم الانتهاء منه بالكامل، ولم يتم صقله، وليس جاهزًا للتوسع، ولكنه شيء جوهري وأكثر "مرونة" بكثير من الفرق عادةً. إذا كنت تشعر وكأنك قد سقطت في شلال مع تقارير لمدة أسبوعين، فقد يكون هذا هو التغيير الذي يحتاجه الجميع.*
 
-## Flipped business model
+## نموذج الأعمال المقلوب
 
-What if you were forced to charge customers in a completely different manner? The product isn't free, but somehow you have to justify value (and costs) differently. If you're usage-based, you're forced to charge a flat monthly rate; if monthly with tiers, you're forced to measure and charge daily with some formula.
+ماذا لو اضطررت إلى فرض رسوم على العملاء بطريقة مختلفة تمامًا؟ المنتج ليس مجانيًا، ولكن بطريقة ما عليك تبرير القيمة (والتكاليف) بشكل مختلف. إذا كنت تعتمد على الاستخدام، فستضطر إلى فرض سعر شهري ثابت؛ إذا كان شهريًا مع المستويات، فأنت مجبر على القياس والشحن يوميًا باستخدام بعض الصيغ.
 
 ![instead of allowance how about subscription model](https://public.asmartbear.com/books/anthology/chapters/extreme-questions/d6535print-simple.png)
 
-How would you have to change how you position the value you deliver? Would you have different kinds of customers due to prices effectively being much higher or lower, and how would that affect brand, messaging, marketing, or sales?
+كيف يتعين عليك تغيير طريقة تحديد القيمة التي تقدمها؟ هل سيكون لديك أنواع مختلفة من العملاء نظرًا لأن الأسعار أعلى أو أقل بكثير، وكيف سيؤثر ذلك على العلامة التجارية أو الرسائل أو التسويق أو المبيعات؟
 
-How would costs have to change, so that the vast majority of customers were still profitable? Would software architectures need to change? Would marketing or sales structures change? Is tech support suddenly much more or much less possible?
+كيف يجب أن تتغير التكاليف، بحيث تظل الغالبية العظمى من العملاء مربحة؟ هل تحتاج بنيات البرمجيات إلى التغيير؟ هل ستتغير هياكل التسويق أو المبيعات؟ هل أصبح الدعم الفني فجأة أكثر أم أقل بكثير؟
 
-Are there features which you'd need to build (e.g. so customers could control their costs), or features you'd now be able to supply (e.g. because customers would now see the utility in it, or would be happy to pay more because of it)? Would you create features which caused higher prices, but in concert with additional value, so that customers would be happy to grow with you?
+هل هناك ميزات تحتاج إلى إنشائها (على سبيل المثال، حتى يتمكن العملاء من التحكم في تكاليفهم)، أو ميزات ستتمكن الآن من توفيرها (على سبيل المثال، لأن العملاء سيرون الآن الأداة المساعدة فيها، أو سيكونون سعداء بدفع المزيد بسببها)؟ هل ستنشئ ميزات تؤدي إلى ارتفاع الأسعار، ولكن بالتنسيق مع القيمة الإضافية، بحيث يكون العملاء سعداء بالنمو معك؟
 
-*Business models force you into certain frames of thinking about how to monetize value that you create, and how costs need to scale with sales and infrastructure. The general idea for any company is to generate far more value than it charges for, so customers are genuinely better off in the exchange, and are happy to be long-term customers. Shaking up the business model shakes up the value/cost equation; sometimes a different business model is actually better for everyone.*
+*تجبرك نماذج الأعمال على اتباع أطر معينة من التفكير حول كيفية تحقيق الدخل من القيمة التي تنشئها، وكيف يجب زيادة التكاليف مع المبيعات والبنية التحتية. الفكرة العامة لأي شركة هي توليد قيمة أكبر بكثير مما تتقاضاه، لذلك يكون العملاء أفضل حالًا حقًا في البورصة، ويسعدهم أن يكونوا عملاء على المدى الطويل. إن تغيير نموذج الأعمال يؤدي إلى تغيير معادلة القيمة/التكلفة؛ في بعض الأحيان يكون نموذج العمل المختلف أفضل للجميع.*
 
-## No website
+## لا يوجد موقع على شبكة الإنترنت
 
-If you were not allowed to have a website, how would you still grow your business?
+إذا لم يُسمح لك بامتلاك موقع ويب، فكيف ستستمر في تنمية عملك؟
 
 ![web developer](https://public.asmartbear.com/books/anthology/chapters/extreme-questions/image-2-simple.png)
 
-Could you grow by word-of-mouth? Does the product help people do that proactively?
+هل يمكن أن تنمو عن طريق الكلام الشفهي؟ هل يساعد المنتج الأشخاص على القيام بذلك بشكل استباقي؟
 
-Could you create advocacy, as in channel partners or ambassadors? Could your social media be so good, someone would sign up for the product without needing to know more?
+هل يمكنك إنشاء مناصرة، كما هو الحال مع شركاء القنوات أو السفراء؟ هل يمكن أن تكون وسائل التواصل الاجتماعي الخاصة بك جيدة جدًا، بحيث يقوم شخص ما بالتسجيل في المنتج دون الحاجة إلى معرفة المزيد؟
 
-Could your product *be* marketing? Could you cheat, where your "website" is inside the product, where potential customers are caught up learning more and trying things in the moment, so that they become users before they realize what's happening?
+هل يمكن أن يكون منتجك تسويقيًا؟ هل يمكنك الغش، حيث يكون "موقع الويب" الخاص بك موجودًا داخل المنتج، حيث ينشغل العملاء المحتملون بمعرفة المزيد وتجربة الأشياء في الوقت الحالي، بحيث يصبحون مستخدمين قبل أن يدركوا ما يحدث؟
 
-*Your advocates are already using your product, yet so often we leave "getting more customers" to the marketing department, rather than realizing the product is already a platform for growth. Truly viral products know this already (e.g. you can't use a chat service unless you invite other people to the chat service), but non-viral products can still create growth machines from inside the product. What if "in-product marketing" is more impactful on growth than any useful feature?*
+*يستخدم المدافعون عن منتجك منتجك بالفعل، ولكن في كثير من الأحيان نترك مسألة "الحصول على المزيد من العملاء" لقسم التسويق، بدلاً من إدراك أن المنتج هو بالفعل منصة للنمو. تعرف المنتجات سريعة الانتشار هذا بالفعل (على سبيل المثال، لا يمكنك استخدام خدمة الدردشة إلا إذا قمت بدعوة أشخاص آخرين إلى خدمة الدردشة)، ولكن لا يزال بإمكان المنتجات غير الفيروسية إنشاء آلات نمو من داخل المنتج. ماذا لو كان "التسويق داخل المنتج" أكثر تأثيرًا على النمو من أي ميزة مفيدة؟*
 
-## No meetings
+## لا اجتماعات
 
-What if you made your most introverted teammates' dreams come true: No more synchronous meetings, ever again?
+ماذا لو حققت أحلام زملائك الأكثر انطوائية في الفريق: لا مزيد من الاجتماعات المتزامنة، مرة أخرى؟
 
-What if you had to on-board new employees without meetings? Or operate the software, deploy the software, find where things are located? What systems would need to exist, and what materials would need to go in there? What format would allow you to update that easily?
+ماذا لو اضطررت إلى تعيين موظفين جدد دون اجتماعات؟ أو تشغيل البرنامج، ونشر البرنامج، والعثور على مكان وجود الأشياء؟ ما هي الأنظمة التي يجب وجودها، وما هي المواد التي يجب إدخالها هناك؟ ما التنسيق الذي يسمح لك بالتحديث بهذه السهولة؟
 
-What if you had to make decisions without meetings--the process as well as the result of that decision? Deciding what to build, prioritizing big or small things, brainstorming new things? Is it possible that brainstormed ideas could be even better without meetings (because people aren't being influenced by other people, ahead of having their own thoughts) or that decisions could be even stronger without meetings (because people have the time and space to think, to research, to try things out, thus more completely exploring the solution space?).
+ماذا لو كان عليك اتخاذ قرارات دون اجتماعات - العملية وكذلك نتيجة هذا القرار؟ اتخاذ قرار بشأن ما سيتم بناؤه، وتحديد أولويات الأشياء الكبيرة أو الصغيرة، والعصف الذهني لأشياء جديدة؟ هل من الممكن أن تكون أفكار العصف الذهني أفضل بدون اجتماعات (لأن الناس لا يتأثرون بأشخاص آخرين، قبل أن يكون لديهم أفكارهم الخاصة) أو أن القرارات يمكن أن تكون أقوى بدون اجتماعات (لأن الناس لديهم الوقت والمساحة للتفكير والبحث وتجربة الأشياء، وبالتالي استكشاف مساحة الحل بشكل أكثر اكتمالًا؟).
 
-How would you create social ties and inside jokes and 1:1 as well as group relationships, if you're never in the same space at the same time?
+كيف يمكنك إنشاء روابط اجتماعية ونكات داخلية وعلاقات فردية بالإضافة إلى علاقات جماعية، إذا لم تكونا أبدًا في نفس المكان وفي نفس الوقت؟
 
-*Meetings are still the best way to accomplish certain things: Social bonding, deep discussions where ideas rapidly ricochet off each other, decisions where it's important to "look in everyone's eyes" to get the final agreement, and more. But one of the most common complaints in any company is "too many meetings," or at least, "too many useless/<wbr/>bad/<wbr/>wasteful/<wbr/>inefficient/<wbr/>boring meetings." Besides the usual admonitions about meeting hygiene, a bigger question is whether your systems and processes can not only prevent them, but increase utility beyond that. For example, how much faster could a new team member get up-to-speed if they could read "the why" behind the last 20 major decisions?*
+*لا تزال الاجتماعات هي أفضل طريقة لإنجاز أشياء معينة: الترابط الاجتماعي، والمناقشات العميقة حيث ترتد الأفكار بسرعة من بعضها البعض، والقرارات التي يكون فيها من المهم "النظر في أعين الجميع" للحصول على الاتفاق النهائي، والمزيد. ولكن إحدى الشكاوى الأكثر شيوعًا في أي شركة هي "عدد كبير جدًا من الاجتماعات"، أو على الأقل، "عدد كبير جدًا من الاجتماعات غير المفيدة/<wbr/>السيئة/<wbr/>المهدرة/<wbr/>غير الفعالة/<wbr/>المملة." إلى جانب التحذيرات المعتادة حول الالتزام بالنظافة، فإن السؤال الأكبر هو ما إذا كانت أنظمتك وعملياتك لا يمكنها منعها فحسب، بل تزيد من فائدتها بعد ذلك. على سبيل المثال، ما مدى السرعة التي يمكن بها لعضو جديد في الفريق أن يواكب التطورات إذا كان بإمكانه قراءة "السبب" وراء آخر 20 قرارًا رئيسيًا؟*
 
-## No customer contact
+## لا يوجد اتصال بالعملاء
 
-If we could never talk to our customers again, how would we figure out what to build?
+إذا لم نتمكن من التحدث مع عملائنا مرة أخرى، فكيف سنكتشف ما يجب أن نبنيه؟
 
 ![bear tech support](https://public.asmartbear.com/books/anthology/chapters/extreme-questions/image-simple.png)
 
-Could you measure their behavior so well that you could quickly measure whether any change was positive or negative, so at least you could iterate your way to a better product? Are there clear signs of value or happiness that you could use like marketers use conversion with A/B testing?
+هل يمكنك قياس سلوكهم بشكل جيد بحيث يمكنك بسرعة قياس ما إذا كان أي تغيير إيجابيًا أم سلبيًا، بحيث يمكنك على الأقل تكرار طريقك إلى منتج أفضل؟ هل هناك علامات واضحة على القيمة أو السعادة يمكنك استخدامها مثلما يستخدم المسوقون التحويل مع اختبار A/B؟
 
-Could you be even faster at testing new ideas? Could a feature start out as just a button that says "coming soon" or asks "why did you want this" or "what did you expect to happen" or "get emailed when we make this feature," so you could directly measure what people are likely to use, before you invest in building it?
+هل يمكن أن تكون أسرع في اختبار الأفكار الجديدة؟ هل يمكن أن تبدأ الميزة كزر يقول "قريبًا" أو يسأل "لماذا أردت هذا" أو "ماذا كنت تتوقع أن يحدث" أو "يتم إرسال بريد إلكتروني إلينا عندما نقوم بإنشاء هذه الميزة،" حتى تتمكن من قياس ما من المحتمل أن يستخدمه الأشخاص بشكل مباشر، قبل أن تستثمر في إنشائه؟
 
-What could you analyze online, in what customers or competitors or observers are saying, that would inform your strategy or even product roadmap? Could you do better than just copying what others are doing? Could you analyze what people are saying about us or competitors online, understanding that the loudest voices aren't a random sample of the population, but still might have something useful to tell us, even when they're not being constructive about it?
+ما الذي يمكنك تحليله عبر الإنترنت، وما يقوله العملاء أو المنافسون أو المراقبون، والذي من شأنه أن يفيد استراتيجيتك أو حتى خريطة طريق المنتج؟ هل يمكنك أن تفعل ما هو أفضل من مجرد تقليد ما يفعله الآخرون؟ هل يمكنك تحليل ما يقوله الناس عنا أو عن المنافسين عبر الإنترنت، مع إدراك أن الأصوات الأعلى ليست عينة عشوائية من السكان، ولكن لا يزال من الممكن أن يكون لديهم شيء مفيد ليخبرونا به، حتى عندما لا يكونون بنّاءين بشأنه؟
 
-*Sometimes you interview customers and come away with the wrong feature ideas anyway. Sometimes you ask them whether they'd use something, and they say yes, and they even meant it, but after spending five months building it, they don't actually use it. Stretching your ability to get empirical signal helps you avoid those issues, and might even create breakthrough ideas, or avoid ideas that seem great, but aren't.*
+*في بعض الأحيان، تجري مقابلات مع العملاء وتخرج بأفكار ميزات خاطئة على أي حال. في بعض الأحيان تسألهم ما إذا كانوا سيستخدمون شيئًا ما، فيجيبون بنعم، بل إنهم يقصدون ذلك، ولكن بعد قضاء خمسة أشهر في بنائه، فإنهم لا يستخدمونه فعليًا. إن توسيع نطاق قدرتك على الحصول على إشارات تجريبية يساعدك على تجنب تلك المشكلات، بل وربما يخلق أفكارًا خارقة، أو يتجنب الأفكار التي تبدو رائعة ولكنها ليست كذلك.*
 
-## Cost is no object
+## التكلفة ليست كائن
 
-What if it didn't matter how unprofitable you were?
+ماذا لو لم يكن يهم مدى عدم ربحك؟
 
-Maybe prices stay the same but you can spend 10x or 100x more, even if that's wildly unprofitable. Or maybe the product is free, too. How would you spend the money? How much value could you deliver, if you thought of the product as an exercise in philanthropy?
+ربما تظل الأسعار كما هي ولكن يمكنك إنفاق 10 أضعاف أو 100 ضعف أكثر، حتى لو كان ذلك غير مربح إلى حد كبير. أو ربما يكون المنتج مجانيًا أيضًا. كيف ستنفق المال؟ ما مقدار القيمة التي يمكنك تقديمها، إذا كنت تعتبر المنتج بمثابة تمرين في العمل الخيري؟
 
-It could be infrastructure or software, but what about the personal touch? What would a dedicated, personal concierge do? If software could do just 30% of that job, but at 1/100th of the cost, that could be a good feature.
+يمكن أن تكون البنية التحتية أو البرمجيات، ولكن ماذا عن اللمسة الشخصية؟ ما الذي يمكن أن يفعله الكونسيرج الشخصي المخصص؟ إذا كان بإمكان البرنامج أن يقوم بـ 30% فقط من هذه المهمة، ولكن بـ 1/100 من التكلفة، فقد تكون هذه ميزة جيدة.
 
-*It can be surprisingly difficult to convert money to real customer or business value, even when money is free. If there is a way, it might lead to a new pricing tier, leveraging that idea but adding back a sustainable business model.*
+*قد يكون من الصعب للغاية تحويل الأموال إلى قيمة حقيقية للعملاء أو الأعمال، حتى عندما تكون الأموال مجانية. إذا كانت هناك طريقة، فقد تؤدي إلى مستوى تسعير جديد، مع الاستفادة من هذه الفكرة ولكن مع إضافة نموذج أعمال مستدام.*
 
-## Sociopathic CEO
+## الرئيس التنفيذي المعتل اجتماعيا
 
-What if you could change anything, regardless of what anyone thinks or feels?
+ماذا لو كان بإمكانك تغيير أي شيء، بغض النظر عما يفكر فيه أو يشعر به أي شخص؟
 
-Terminating an entire product line would shake the organization, and possibly incur layoffs in multiple departments. But what if it's the best thing to do, despite that? What if you allowed yourself to explore what that would be like? What if it turns out you can make that pivot by reorganization rather than layoffs, and now company is executing a much better strategy?
+إن إنهاء خط إنتاج كامل من شأنه أن يهز المنظمة، وربما يؤدي إلى تسريح العمال في أقسام متعددة. ولكن ماذا لو كان هذا هو أفضل شيء يمكنك القيام به، على الرغم من ذلك؟ ماذا لو سمحت لنفسك باستكشاف كيف سيكون الأمر؟ ماذا لو اتضح أنه يمكنك تحقيق هذا المحور من خلال إعادة التنظيم بدلاً من تسريح العمال، والآن تنفذ الشركة استراتيجية أفضل بكثير؟
 
-Pivoting the entire company could break the organization, destroy trust in leadership, cause people to leave, and piss off investors. But what if that's exactly the transformation required to fix the strategy? Is there anything that might actually be worth such a move?
+إن تمحور الشركة بأكملها يمكن أن يؤدي إلى كسر المنظمة، وتدمير الثقة في القيادة، ودفع الناس إلى المغادرة، وإثارة غضب المستثمرين. ولكن ماذا لو كان هذا هو بالضبط التحول المطلوب لإصلاح الاستراتيجية؟ هل هناك أي شيء قد يستحق بالفعل مثل هذه الخطوة؟
 
 ![restructuring im tom tom anne anne copier copier in charge](https://public.asmartbear.com/books/anthology/chapters/extreme-questions/d7278print-simple.png)
 
-*You never want to contemplate catastrophic actions like layoffs, whole-company pivots, terminating an entire product line, and for good reason--the consequences are dire, arguably even inhumane. At the same time, that aversion prevents you from thinking certain thoughts. You should at least be able to explore the thoughts. The very best ideas should not be avoided only because they are hard.*
+* لا ترغب أبدًا في التفكير في إجراءات كارثية مثل تسريح العمال، أو تغيير الشركة بأكملها، أو إنهاء خط إنتاج كامل، ولسبب وجيه - العواقب وخيمة، ويمكن القول إنها غير إنسانية. وفي الوقت نفسه، يمنعك هذا النفور من التفكير في أفكار معينة. يجب أن تكون على الأقل قادرًا على استكشاف الأفكار. لا ينبغي تجنب أفضل الأفكار لمجرد أنها صعبة.*
 
-## Mortal wound
+## جرح مميت
 
-What externality has the potential to kill the entire company?
+ما هي العوامل الخارجية التي لديها القدرة على قتل الشركة بأكملها؟
 
-Is there a company X, which released product Y, at price Z, that would reduce your new sales to a trickle, and would mean half your customers leave within a year? Can you think of a security breech so significant, most of the customer base leaves within a year? How could the economy change, in which no one would buy your software?
+هل هناك شركة X، التي أصدرت المنتج Y، بالسعر Z، من شأنه أن يقلل مبيعاتك الجديدة إلى حد كبير، ويعني مغادرة نصف عملائك في غضون عام؟ هل يمكنك التفكير في وجود ثغرة أمنية كبيرة جدًا لدرجة أن معظم قاعدة العملاء تغادر في غضون عام؟ كيف يمكن أن يتغير الاقتصاد، حيث لن يشتري أحد برامجك؟
 
-Now, is there something you could do to mitigate that effect? Or something that pivots the company such that it is no longer a threat?
+الآن، هل هناك شيء يمكنك القيام به للتخفيف من هذا التأثير؟ أو شيء يحرك الشركة بحيث لم تعد تمثل تهديدًا؟
 
-*I ran this exercise at WP Engine and we came up with 35 existential threats; it's not wise to worry about all of them, and try to negate all of them. Sometimes, however, you find an idea which is wise to do anyway, that also shores up your defenses. Or, one threat sticks out as being so likely that it warrants acting ahead of time.*
+*لقد أجريت هذا التمرين في WP Engine وتوصلنا إلى 35 تهديدًا وجوديًا؛ فليس من الحكمة القلق بشأنها كلها، ومحاولة نفيها كلها. ومع ذلك، في بعض الأحيان، تجد فكرة من الحكمة القيام بها على أي حال، والتي تدعم أيضًا دفاعاتك. أو قد يظهر أحد التهديدات على أنه محتمل جدًا لدرجة أنه يستدعي التصرف مسبقًا.*
 
-## Philanthropist
+## محسن
 
-What if our only goal were to create the most good in the world, personally for our customers?
+ماذا لو كان هدفنا الوحيد هو تحقيق أقصى قدر من الخير في العالم، شخصيًا لعملائنا؟
 
-Ignore how to make money; assume that works itself out. But still talking about our customers (don't argue about which world-wide causes are "most important"). How could we make their lives better, not because our product has greater utility, but because our product is doing something important. How could we help them achieve [their ultimate goals](https://longform.asmartbear.com/needs-stack/) rather than just "use features?"
+تجاهل كيفية كسب المال؛ نفترض أن يعمل نفسه. ولكن لا نزال نتحدث عن عملائنا (لا تتجادل حول الأسباب العالمية التي تعتبر "الأكثر أهمية"). كيف يمكننا أن نجعل حياتهم أفضل، ليس لأن منتجنا له فائدة أكبر، ولكن لأن منتجنا يقوم بشيء مهم. كيف يمكننا مساعدتهم على تحقيق [أهدافهم النهائية](https://longform.asmartbear.com/needs-stack/) بدلاً من مجرد "استخدام الميزات؟"
 
-If our customers are small businesses, could we help them grow and thrive? If our customers are writers, could we help them improve their craft? If our customers are performers, could we get them more attention? If our customers are enormous companies, could we help them use their greater scale and wealth to create more good in the world? If our customers come from all walks of life, could we increase the access and equity in their reach and power?
+إذا كان عملاؤنا شركات صغيرة، فهل يمكننا مساعدتهم على النمو والازدهار؟ إذا كان عملاؤنا كتابًا، فهل يمكننا مساعدتهم على تحسين حرفتهم؟ إذا كان عملاؤنا فنانين، فهل يمكننا جذب المزيد من الاهتمام لهم؟ إذا كان عملاؤنا شركات ضخمة، فهل يمكننا مساعدتهم على استخدام حجمهم وثرواتهم الأكبر لخلق المزيد من الخير في العالم؟ إذا كان عملاؤنا يأتون من جميع مناحي الحياة، فهل يمكننا زيادة الوصول والمساواة في نطاق وصولهم وقوتهم؟
 
-_There's already strong evidence that having a [mission bigger than yourself](https://longform.asmartbear.com/mission-vision/), more than metrics, [creates more--and more loyal--customers and fulfilled employees](https://longform.asmartbear.com/fulfillment/) both. Recent surveys of Gen Z show that they care about whether a company does good in the world just as much as they care about compensation. So, even aside from the ethical reasons, there are "self-interested capitalist" reasons to create more good, not just more MRR._
+_هناك بالفعل دليل قوي على أن وجود [مهمة أكبر منك](https://longform.asmartbear.com/mission-vision/)، أكثر من المقاييس، [يخلق المزيد من العملاء - والأكثر ولاءً - والموظفين الملتزمين](https://longform.asmartbear.com/fulfillment/) على حد سواء. تظهر الدراسات الاستقصائية الأخيرة للجيل Z أنهم يهتمون بما إذا كانت الشركة تفعل الخير في العالم بقدر ما يهتمون بالتعويضات. لذا، فحتى بعيداً عن الأسباب الأخلاقية، هناك أسباب "رأسمالية أنانية" تدفعنا إلى خلق المزيد من الخير، وليس مجرد المزيد من معدل العائد على الموارد.
 
-## Only one thing this year
+## شيء واحد فقط هذا العام
 
-What if you could only ship one thing this year?
+ماذا لو كان بإمكانك شحن شيء واحد فقط هذا العام؟
 
-What single initiative would make the most difference? What's so impactful that it would actually be OK if we shipped nothing else? You get the entire year, so there's time for a release, and fixes, and enhancements, but it has to be only one topic.
+ما هي المبادرة الوحيدة التي من شأنها أن تحدث الفرق الأكبر؟ ما هو الشيء المؤثر جدًا لدرجة أنه سيكون من المقبول حقًا إذا لم نقم بشحن أي شيء آخر؟ تحصل على العام بأكمله، لذلك يكون هناك وقت للإصدار والإصلاحات والتحسينات، ولكن يجب أن يكون موضوعًا واحدًا فقط.
 
-What would generate the most revenue? What would be so differentiated in the market, and so desirable, that customers still buy and stay even with your lack of any other substantial product changes? What would be so exciting that customers would stay even if other things are missing or have on-going bugs?
+ما الذي من شأنه أن يولد أكبر قدر من الإيرادات؟ ما الذي سيكون مميزًا جدًا في السوق، ومرغوبًا جدًا، بحيث يستمر العملاء في الشراء والبقاء حتى مع عدم وجود أي تغييرات جوهرية أخرى في المنتج؟ ما الذي قد يكون مثيرًا للغاية لدرجة أن العملاء سيبقون حتى في حالة فقدان أشياء أخرى أو وجود أخطاء مستمرة؟
 
-*When you look back over years of a business, often the whole trajectory comes down to 1-2 big decisions per year. A critical product launch, a key decision to enter a market for expansion or exit one market to focus on a healthier one, a key hire, a competitive insight. It's difficult to know in the moment which will be seminal, but thinking this way forces you to think of only the absolutely most impactful ideas, which are probably the ones you should be focused on regardless.*
+*عندما تنظر إلى الوراء على مدى سنوات من العمل التجاري، فغالبًا ما يتلخص المسار بأكمله في اتخاذ قرار أو قرارين كبيرين سنويًا. إطلاق منتج مهم، أو قرار رئيسي لدخول سوق للتوسع أو الخروج من سوق واحد للتركيز على سوق أكثر صحة، أو توظيف رئيسي، أو رؤية تنافسية. من الصعب أن تعرف في اللحظة التي ستكون حاسمة، لكن التفكير بهذه الطريقة يجبرك على التفكير في الأفكار الأكثر تأثيرًا فقط، والتي ربما تكون هي الأفكار التي يجب التركيز عليها بغض النظر.*
 
-> "The dangerous man is the one who has only one idea, because then he'll fight and die for it. The way real science goes is that you come up with lots of ideas, and most of them will be wrong."  
-> --Francis Crick
+> "الرجل الخطير هو الذي لديه فكرة واحدة فقط، لأنه حينها سوف يقاتل ويموت من أجلها. الطريقة التي يسير بها العلم الحقيقي هي أن تتوصل إلى الكثير من الأفكار، ومعظمها سيكون خاطئا."
+> --فرانسيس كريك

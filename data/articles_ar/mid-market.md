@@ -20,65 +20,52 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** حقل الأشواك في السوق المتوسط: تحديات استهداف الشركات المتوسطة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The mid-market briar patch
-
-> **Executive Summary:** Mid-sized companies: Small enough to have small budgets, big enough for bureaucratic nightmares.
-> **Original URL:** [https://longform.asmartbear.com/mid-market/](https://longform.asmartbear.com/mid-market/)
-
-During the summer, one of the [Capital Factory](https://www.capitalfactory.com/) companies developed a plan to sell into the "mid-sized" corporate market. Uh oh.
+خلال فصل الصيف، قامت إحدى شركات [Capital Factory](https://www.capitalfactory.com/) بوضع خطة للبيع في سوق الشركات "متوسطة الحجم". اه اه.
 
 ![Cartoon 9e400ada](https://longform.asmartbear.com/mid-market/66219ce1.png)
 
-The startup graveyards are littered with companies who tried to target this seemingly alluring market segment--customers small enough to be intelligent and nimble, young enough to embrace new technology, yet big enough to spend real money to alleviate real pain.
+تمتلئ مقابر الشركات الناشئة بالشركات التي حاولت استهداف هذا القطاع الذي يبدو مغريًا من السوق - العملاء الصغار بما يكفي ليكونوا أذكياء وذكيين، وصغارًا بما يكفي لتبني التكنولوجيا الجديدة، لكنهم كبار بما يكفي لإنفاق أموال حقيقية لتخفيف الألم الحقيقي.
 
-It sounds like it's [the best of both worlds](https://longform.asmartbear.com/conflicting-choices/). But the reality is **it's the worst of both worlds.**
+يبدو أنه [أفضل ما في العالمين](https://longform.asmartbear.com/conflicting-choices/). ولكن الحقيقة هي **أنها أسوأ ما في العالمين.**
 
-They're not "small enough to be nimble," because at four hundred employees they've already established much of the lumbering process and bureaucracy of companies ten times their size. Shackled by budgets and internal politics, technology changes require expensive coordination and retraining, and **fear of change trumps potential rewards from improvement.**
+إنهم ليسوا "صغيرين بما يكفي ليكونوا أذكياء"، لأنهم يبلغون أربعمائة موظف، وقد أنشأوا بالفعل الكثير من العمليات المتثاقلة والبيروقراطية في الشركات بعشرة أضعاف حجمها. وتتطلب التغييرات التكنولوجية، المقيدة بالميزانيات والسياسات الداخلية، تنسيقًا وإعادة تدريب باهظي الثمن، و**الخوف من التغيير يتفوق على المكافآت المحتملة من التحسين.**
 
-All this makes for an arduous sales process just as with big companies. But although they have the process and controls of a large company, they don't have large-company budgets; there's no large reward for successfully [navigating the painful, Herculean sales adventure](https://longform.asmartbear.com/startups-emotionally-draining/).
+كل هذا يجعل عملية البيع شاقة كما هو الحال مع الشركات الكبرى. ولكن على الرغم من أن لديهم الإجراءات والضوابط التي تتمتع بها شركة كبيرة، إلا أنهم لا يملكون ميزانيات شركة كبيرة؛ ليست هناك مكافأة كبيرة للنجاح في [التنقل في مغامرة المبيعات الشاقة والمؤلمة](https://longform.asmartbear.com/startups-emotionally-draining/).
 
-Worst of both worlds.
+أسوأ ما في العالمين.
 
-Why is it like this? Maybe they're stingy because they're still being run by a parsimonious small-business founder (like me!) who is still straightening used staples to save pennies. Maybe it's because with even a few dozen people, the segmentation of teams, departments, roles, and behavior is inevitable. Whether because of physical limitations of communication or a human tendency towards tribal behavior, we fall into semi-autonomous isolation coupled with [formal processes](https://longform.asmartbear.com/tension-autonomy-admin/) to ensure [command-and-control](https://longform.asmartbear.com/in-command/), and a bureaucracy is born, self-generating and largely inescapable.  [There are also genuinely good reasons for it.](https://longform.asmartbear.com/scale/)
+لماذا هو مثل هذا؟ ربما يكونون بخيلين لأنهم ما زالوا يُدارون من قبل مؤسس شركة صغيرة شحيح (مثلي!) والذي لا يزال يقوم بتسوية المواد الغذائية الأساسية المستخدمة لتوفير المال. ربما لأنه حتى مع وجود بضع عشرات من الأشخاص، فإن تقسيم الفرق والأقسام والأدوار والسلوك أمر لا مفر منه. سواء كان ذلك بسبب القيود المادية للتواصل أو الميل البشري نحو السلوك القبلي، فإننا نقع في عزلة شبه مستقلة مقترنة بـ [عمليات رسمية](https://longform.asmartbear.com/tension-autonomy-admin/) لضمان [القيادة والسيطرة](https://longform.asmartbear.com/in-command/)، وتولد البيروقراطية، وتولد نفسها بنفسها ولا مفر منها إلى حد كبير.  [هناك أيضًا أسباب وجيهة لذلك.](https://longform.asmartbear.com/scale/)
 
-Whatever the reason, it's a tar-pit.
+مهما كان السبب، فهي حفرة قطران.
 
-Then there's the numbers game. There are 220,000 businesses in America having 50-500 employees, and only 18,000 businesses with more than 500. That's often the argument for going after those mid-sized businesses--look how many there are!
+ثم هناك لعبة الأرقام. هناك 220.000 شركة في أمريكا تضم ​​ما بين 50 إلى 500 موظف، و18.000 شركة فقط تضم أكثر من 500 موظف. غالبًا ما تكون هذه هي الحجة لملاحقة تلك الشركات متوسطة الحجم - انظر كم يوجد منها!
 
-But the average employee count of the mid-sized is 119 and of the large is 3,100, so if your goal is to sell a copy of your software to everyone inside a company, you have to sell 30 mid-sized for every large. Or looking at it another way, the total number of employees of mid-sized companies is 26M, whereas large is 60M.
+لكن متوسط ​​عدد الموظفين في الشركات المتوسطة الحجم هو 119 موظفًا والشركات الكبيرة هو 3100، لذلك إذا كان هدفك هو بيع نسخة من برنامجك لكل شخص داخل الشركة، فيجب عليك بيع 30 نسخة متوسطة الحجم لكل شركة كبيرة. أو إذا نظرنا إلى الأمر بطريقة أخرى، فإن إجمالي عدد الموظفين في الشركات المتوسطة الحجم يبلغ 26 مليونًا، بينما يبلغ العدد الكبير 60 مليونًا.
 
-And since the sales effort isn't much different between selling 75 seats or 750, this is a lot more work for the revenue.
+وبما أن جهد المبيعات لا يختلف كثيرًا بين بيع 75 مقعدًا أو 750 مقعدًا، فهذا يمثل عملاً أكبر بكثير بالنسبة للإيرادات.
 
-Even setting aside the internal machinery, "mid-sized companies" **isn't really a market segment anyway**.
+حتى لو وضعنا جانبًا الآليات الداخلية، فإن "الشركات متوسطة الحجم" ** ليست في الواقع شريحة من السوق على أي حال **.
 
-"Mid-sized companies" have less in common than you'd think; it's much more important to know what industry they're in, or what problems they're trying to solve, and in what manner. A 100-person technology startup has a certain makeup of employees--ratios of developers, QA, tech support, sales staff, HR, etc--whereas a 100-person plastics manufacturing company has a very different make-up, for example having no software developers, probably not tech-savvy, and IT is run by a guy who is a Windows "power user," runs Exchange, has never used Google Apps, and doesn't know how to open a port in the firewall "my Cisco guy" installed.
+"الشركات متوسطة الحجم" لديها قواسم مشتركة أقل مما تعتقد؛ من المهم جدًا معرفة الصناعة التي يعملون فيها، أو ما هي المشكلات التي يحاولون حلها، وبأي طريقة. تمتلك شركة ناشئة في مجال التكنولوجيا مكونة من 100 شخص تركيبة معينة من الموظفين - نسب المطورين، وضمان الجودة، والدعم الفني، وموظفي المبيعات، والموارد البشرية، وما إلى ذلك - في حين أن شركة تصنيع البلاستيك المكونة من 100 شخص لديها تركيبة مختلفة تمامًا، على سبيل المثال لا يوجد بها مطورو برامج، وربما لا يكونون ماهرين في التكنولوجيا، ويتم تشغيل تكنولوجيا المعلومات من قبل شخص "مستخدم قوي" لنظام التشغيل Windows، ويدير Exchange، ولم يستخدم Google Apps مطلقًا، ولا يعرف كيفية فتح منفذ في جدار الحماية "My Cisco" الرجل "تثبيت.
 
-So for example if you're selling server monitoring software, everything about how to sell into these two companies is different: How you find them, what pain you're solving for them, what that user wants to see in the interface, etc.. The fact that both are monitoring 100 computers is only vaguely "the same;" there's more differences than similarities[^1].
+لذلك، على سبيل المثال، إذا كنت تبيع برنامج مراقبة الخادم، فإن كل شيء يتعلق بكيفية البيع في هاتين الشركتين مختلف: كيف تجدهم، وما المشكلة التي تحلها لهم، وما يريد هذا المستخدم رؤيته في الواجهة، وما إلى ذلك. وحقيقة أن كلتا الشركتين تراقبان 100 جهاز كمبيوتر هي "نفس الشيء" بشكل غامض. هناك اختلافات أكثر من أوجه التشابه[^1].
 
-[^1]:  [This is a better way to figure out your target market.](https://longform.asmartbear.com/problem/)
+[^1]: [هذه طريقة أفضل لمعرفة السوق المستهدف.](https://longform.asmartbear.com/problem/)
 
-The most common argument I hear targeting the middle is:
+الحجة الأكثر شيوعًا التي أسمعها تستهدف الوسط هي:
 
-> "Small businesses have no money, and large companies already use Entrenched Competitors X and Y, so the opportunity is in the middle."
+> "لا تملك الشركات الصغيرة المال، والشركات الكبيرة تستخدم بالفعل المنافسين الراسخين X وY، لذا فإن الفرصة موجودة في المنتصف."
 
-But there isn't *necessarily* an opportunity. Maybe those competitors have figured out that it's not cost-effective to sell to the middle.
+ولكن ليس هناك *بالضرورة* فرصة. ربما اكتشف هؤلاء المنافسون أن البيع للوسط ليس فعالاً من حيث التكلفة.
 
-WP Engine is a perfect example of this. My initial idea was to target the "mid-market" of the WordPress ecosystem--bloggers and websites big enough that cheap hosting was no longer delivering the speed, scale, and support they required, but not big enough that they could afford full-time WordPress experts or the $2500/mo (and up) cost of Automattic's excellent but expensive "WordPress VIP" program[^2].
+يعد WP Engine مثالاً مثاليًا على ذلك. كانت فكرتي الأولية هي استهداف "السوق المتوسطة" لنظام WordPress البيئي - المدونون ومواقع الويب الكبيرة بما يكفي بحيث لم تعد الاستضافة الرخيصة توفر السرعة والحجم والدعم الذي يحتاجونه، ولكنها ليست كبيرة بما يكفي بحيث يمكنهم تحمل تكلفة خبراء WordPress بدوام كامل أو تكلفة 2500 دولار شهريًا (وما فوق) لبرنامج "WordPress VIP" الممتاز والمكلف من Automattic[^2].
 
-[^2]:  _Editor's Note:_  This observation was correct in 2012 when this article was written. In 2024, we [intentionally expanded](https://longform.asmartbear.com/adjacency/) into mid-market and even enterprise, but only made that decision once we could spend tens of millions of dollars on marketing, sales, service, account management, compliance, and other things that made it work.
+[^2]: _ملاحظة المحرر: _ كانت هذه الملاحظة صحيحة في عام 2012 عندما تم كتابة هذا المقال. في عام 2024، [توسّعنا عمدًا](https://longform.asmartbear.com/adjacency/) إلى السوق المتوسطة وحتى المؤسسات، ولكننا لم نتخذ هذا القرار إلا عندما تمكنا من إنفاق عشرات الملايين من الدولارات على التسويق والمبيعات والخدمات وإدارة الحسابات والامتثال والأشياء الأخرى التي ساعدت على نجاحه.
 
-There are some drawbacks here to be sure. People with $50/mo blogs have many of the same problems as people with $2000/mo blogs but can afford 40x less, which might imply we should focus on the high-end blogger. But there's lots of $50/mo bloggers who never call and never have a problem where the profit *margin* is great (even if the absolute dollar profit is less), whereas a $2000/mo blogger is constantly running into new speed and scalability challenges since even small changes to their configuration are magnified by 10,000,000 hits a month, vaporizing that so-called profit with expensive expert human time.
+هناك بعض العيوب هنا للتأكد. يواجه الأشخاص الذين يملكون مدونات تبلغ قيمتها 50 دولارًا شهريًا العديد من المشكلات نفسها التي يواجهها الأشخاص الذين لديهم مدونات بقيمة 2000 دولار شهريًا، ولكن يمكنهم تحمل تكاليف أقل بـ 40 مرة، مما قد يعني أنه يجب علينا التركيز على المدونين المتميزين. ولكن هناك الكثير من المدونين بقيمة 50 دولارًا شهريًا الذين لا يتصلون أبدًا ولا يواجهون أبدًا مشكلة حيث يكون الربح *هامش* عظيمًا (حتى لو كان الربح المطلق بالدولار أقل)، في حين أن المدون الذي يبلغ 2000 دولار شهريًا يواجه باستمرار تحديات جديدة تتعلق بالسرعة وقابلية التوسع نظرًا لأنه حتى التغييرات الصغيرة في تكوينهم يتم تضخيمها بمقدار 10.000.000 زيارة شهريًا، مما يؤدي إلى تبخير هذا الربح المزعوم مع وقت بشري خبير باهظ الثمن.
 
-In other words, exactly the problems of "selling the middle"--with small-blogger budget meets big-blogger problems.
+وبعبارة أخرى، فإن مشاكل "بيع الوسط" - مع ميزانية المدونين الصغار تلبي مشاكل المدونين الكبار.
 
-If we chose just one or the other, we could optimize the rest of the business around it--hiring, automation, marketing, sales--and maybe we should _(Narrator: They did.)_
+إذا اخترنا واحدًا فقط أو الآخر، فيمكننا تحسين بقية الأعمال حوله - التوظيف، والأتمتة، والتسويق، والمبيعات - وربما ينبغي علينا _(الراوي: لقد فعلوا ذلك.)_
 
-So my immediate reaction to anyone "selling to middle" is always: Yuck. If you're going to do it anyway, I hope you have some nice, extenuating circumstances that truly makes you the exception to the rule.
+لذا فإن رد فعلي الفوري على أي شخص "يبيع للوسط" هو دائمًا: مقزز. إذا كنت ستفعل ذلك على أي حال، أتمنى أن يكون لديك بعض الظروف المخففة اللطيفة التي تجعلك حقًا استثناءً للقاعدة.

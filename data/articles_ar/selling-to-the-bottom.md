@@ -20,59 +20,46 @@ summary_ar: "More than a decade before \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** البيع للطبقات الأقل سعراً في السوق: مخاطر استهداف العملاء الأرخص تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Selling to the Bottom
-
-> **Executive Summary:** More than a decade before "Product-Led Growth" became a thing, I was selling non-recurring-revenue-software to Fortune 500 companies from the bottom up.
-> **Original URL:** [https://longform.asmartbear.com/selling-to-the-bottom/](https://longform.asmartbear.com/selling-to-the-bottom/)
-
 ![non-dairy creamer packet with trash ingredients](https://longform.asmartbear.com/selling-to-the-bottom/be77da18.png)
 
-The golden rules of coffee, cream, and sugar:
+القواعد الذهبية للقهوة والكريمة والسكر:
 
-1. The worse the coffee the more cream it needs.
-2. In the limiting case, great coffee needs no cream. (See: Turkish)
-3. No coffee is improved by sugar.
-4. Not even sugar in the raw.
-5. (In the raw? WTF?)
-6. Cream is supposed to be made from liquid that comes from cows. Why do I even have to say this? "Non-dairy creamer" is not cream. I don't write code with a "Non-Java compiler."
-7. Oh really? Read the ingredients and tell me that's "cream." Go on, I know the lighting is bad, but see if you recognize any of those ingredients as "food."
+1. كلما كانت القهوة أسوأ كلما زادت الحاجة إلى الكريمة.
+2. في الحالة المحدودة، القهوة الرائعة لا تحتاج إلى كريم. (انظر: التركية)
+3. لا يتم تحسين القهوة بالسكر.
+4. ولا حتى السكر في الخام.
+5. (في الخام؟ وتف؟)
+6. من المفترض أن يكون الكريم مصنوعًا من سائل يأتي من الأبقار. لماذا يجب علي أن أقول هذا؟ "مبيض خالي من الألبان" ليس كريما. لا أكتب تعليمات برمجية باستخدام "مترجم غير جافا".
+7. أوه حقًا؟ اقرأ المكونات وأخبرني أن هذا "كريم". هيا، أعرف أن الإضاءة سيئة، ولكن انظر إذا كنت تتعرف على أي من هذه المكونات على أنها "طعام".
 
-Today we're pitching our software to the CTO of a public company. This is not the usual route for us.
+نحن اليوم نعرض برنامجنا على كبير مسؤولي التكنولوجيا في إحدى الشركات العامة. هذا ليس الطريق المعتاد بالنسبة لنا.
 
-We usually sell our code review software to software developers who have to review code. (Is that a palindrome?) Put another way, we sell a pain reliever. How?
+نبيع عادةً برنامج مراجعة التعليمات البرمجية الخاص بنا لمطوري البرامج الذين يتعين عليهم مراجعة التعليمات البرمجية. (هل هذا متناظر؟) وبعبارة أخرى، نحن نبيع مسكنات الألم. كيف؟
 
-It's easy to see why managers like peer code review. It will result in finding and fixing bugs, especially those related to documentation and maintainability and mentoring that no automated tool or unit test can find. They get nice reports they can show to each other "proving" productivity advantages.
+من السهل معرفة سبب تفضيل المديرين لمراجعة أكواد الأقران. سيؤدي ذلك إلى العثور على الأخطاء وإصلاحها، خاصة تلك المتعلقة بالتوثيق وقابلية الصيانة والتوجيه التي لا يمكن لأي أداة آلية أو اختبار وحدة العثور عليها. يحصلون على تقارير لطيفة يمكنهم إظهار مزايا الإنتاجية لبعضهم البعض "لإثباتها".
 
-But it's the software developers who bear the burden of this process. They have to gather files and file-differences for review, packaging them and sending them to someone else. They have to paw through comments that start with "On lines 834-837 of //depot/trunk/project/foo/bar.c." (Of course those lines have shifted around by now.) They have to track review comments over a pile of email across two continents. They have to track the problems-found and bother other developers to fix them. They have to sit there with stop-watches and line-counters to generate those precious metrics.
+لكن مطوري البرامج هم الذين يتحملون عبء هذه العملية. يتعين عليهم جمع الملفات واختلافات الملفات لمراجعتها وتعبئتها وإرسالها إلى شخص آخر. عليهم أن يتصفحوا التعليقات التي تبدأ بـ "على الأسطر 834-837 من //depot/trunk/project/foo/bar.c." (بالطبع لقد تغيرت هذه الخطوط الآن.) يتعين عليهم تتبع تعليقات المراجعة عبر كومة من رسائل البريد الإلكتروني عبر قارتين. يتعين عليهم تتبع المشكلات التي تم العثور عليها وإزعاج المطورين الآخرين لإصلاحها. عليهم أن يجلسوا هناك مع ساعات التوقف وعدادات الخط لتوليد تلك المقاييس الثمينة.
 
-This is dull. It's a waste of time. Proof-reading code is common sense, but all this process baggage [sucks](https://longform.asmartbear.com/is-it-ok-to-sucks/).
+هذا ممل. إنها مضيعة للوقت. يعتبر كود التدقيق المنطقي منطقيًا، ولكن كل هذه الأمتعة العملية [سيء](https://longform.asmartbear.com/is-it-ok-to-sucks/).
 
-That's where our tool comes in. Sparing you the features chart, let's just say we remove this baggage.
+وهنا يأتي دور أداتنا. مع توفير مخطط الميزات، دعنا نقول فقط أننا قمنا بإزالة هذه الأمتعة.
 
-Code Collaborator removes pain.
+Code Collaborator يزيل الألم.
 
-This is really the only reason anyone buys our tool. If it only generated metrics and reports, the managers would like it but developers would (rightly!) revolt and circumvent the system. And then the reports wouldn't mean anything anyway.
+هذا هو حقًا السبب الوحيد الذي يجعل أي شخص يشتري أداتنا. إذا كان ينتج مقاييس وتقارير فقط، فإن المديرين سيحبون ذلك ولكن المطورين (على حق!) سوف يثورون ويتحايلون على النظام. ومن ثم فإن التقارير لن تعني أي شيء على أي حال.
 
-This is a "bottom-up" sales strategy: Genuinely solve a genuine problem for the folks in the trenches, then they beg their bosses to buy the tool to alleviate pain. Sounds reasonable, and even sounds like a positive contribution to the world.
+هذه هي استراتيجية المبيعات "من القاعدة إلى القمة": حل مشكلة حقيقية للناس في الخنادق، ثم يتوسلون إلى رؤسائهم لشراء الأداة لتخفيف الألم. يبدو الأمر معقولًا، بل ويبدو أيضًا بمثابة مساهمة إيجابية للعالم.
 
-But this next sale is "top-down." Start with the CTO and show why he should push this down everyone else's throats.
+ولكن هذا البيع القادم هو "من أعلى إلى أسفل". ابدأ مع CTO واشرح لماذا يجب عليه أن يضغط على الجميع.
 
-Of course we hope it's not that negative. But you always have to be skeptical when the boss comes by and says "Hey we just bought a new tool! Time to do code reviews! I've need those report,s so get cracking!"
+بالطبع نأمل ألا يكون الأمر سلبيًا. ولكن يجب عليك دائمًا أن تكون متشككًا عندما يأتي مديرك ويقول "مرحبًا، لقد اشترينا للتو أداة جديدة! حان الوقت لإجراء مراجعات التعليمات البرمجية! أحتاج إلى تلك التقارير، لذا ابدأ العمل!"
 
-Some software tools companies work solely this way. There are [ROI charts](https://longform.asmartbear.com/roi-selling/) showing how you'll save $142,245 in the first 9 months of operation. There is the promise of "reports and metrics" (never mind interpretation). Sure the software is $75k just to get started but think of the long-term rewards.
+تعمل بعض شركات أدوات البرمجيات بهذه الطريقة فقط. توجد [مخططات عائد الاستثمار](https://longform.asmartbear.com/roi-sale/) توضح كيف ستوفر 142,245 دولارًا أمريكيًا في أول 9 أشهر من التشغيل. هناك الوعد بـ "التقارير والمقاييس" (ناهيك عن التفسير). من المؤكد أن سعر البرنامج هو 75 ألف دولار فقط للبدء ولكن فكر في المكافآت طويلة المدى.
 
-Not us. I don't mind selling to the top, but to me this isn't about some imagined ROI. If you don't believe that proof-reading code will uncover defects, an ROI formula isn't going to convince you otherwise! If you do believe review will uncover defects, the cost of our little tool is clearly trivial compared to the cost of an undiscovered defect--especially if delivered to a customer.
+ليس نحن. لا أمانع في البيع بسعر أعلى، لكن بالنسبة لي لا يتعلق الأمر ببعض عائد الاستثمار المتخيل. إذا كنت لا تعتقد أن كود التدقيق اللغوي سيكشف عن العيوب، فلن تقنعك صيغة عائد الاستثمار بخلاف ذلك! إذا كنت تعتقد أن المراجعة ستكشف عن العيوب، فمن الواضح أن تكلفة أداتنا الصغيرة تافهة مقارنة بتكلفة العيب غير المكتشف - خاصة إذا تم تسليمها إلى العميل.
 
-So I sell to the top exactly as I sell to the developer: "This will save your developers time and increase happiness." The sales books say otherwise, but I think you have to stick to the truth and stick by your mates in the trenches. If we're not truly making software better and people's lives better, screw it!
+لذا فإنني أبيع للأعلى تمامًا كما أبيع للمطور: "سيوفر هذا وقت المطورين لديك ويزيد من سعادتهم". تقول كتب المبيعات خلاف ذلك، لكن أعتقد أنه يتعين عليك الالتزام بالحقيقة والتمسك بزملائك في الخنادق. إذا لم نكن نجعل البرمجيات أفضل وحياة الناس أفضل، تبا!
 
-The brass aren't as insensitive as the sales books would have you believe.
+النحاس ليسوا حساسين كما تعتقد كتب المبيعات.
 
-*Editor's Note from 2024: This was written more than a decade before the world decided that "Product-Led Growth" was a good idea.  So, maybe it always was!*
+*ملاحظة المحرر من عام 2024: تمت كتابة هذا قبل أكثر من عقد من الزمن قبل أن يقرر العالم أن "النمو الذي يقوده المنتج" كان فكرة جيدة.  لذا، ربما كان الأمر كذلك دائمًا!*

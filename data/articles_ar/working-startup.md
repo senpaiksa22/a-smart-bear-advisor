@@ -20,126 +20,112 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الجمع بين الوظيفة الثابتة وبناء شركة ناشئة على الهامش تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+يبدأ معظم الأشخاص شركتهم الأولى بينما لا يزال لديهم وظيفة يومية.
 
----
+هذا منطقي: لا تحتاج إلى قروض، ولا تحتاج إلى تمويل. إذا "فشلت" فكل ما خسرته هو الوقت، ولكن بالنظر إلى المتعة والقصص وكل ما ستتعلمه، فهذا ليس فشلًا.
 
-### النص المرجعي للمقال (Original Reference):
-# Employed with a side of startup
-
-> **Executive Summary:** Starting a side gig during your 9-to-5: Avoid legal issues and maximize success.
-> **Original URL:** [https://longform.asmartbear.com/working-startup/](https://longform.asmartbear.com/working-startup/)
-
-Most people start their first company while they still have a day job.
-
-It makes sense: You don't need loans, and you don't need funding. If you "fail" all you've lost is time, but considering the fun, the stories, and everything you'll have learned, that's hardly a failure.
-
-You just need to give up all your free time which, if you've caught the "founders" bug, is A-OK with you.
+كل ما عليك فعله هو أن تتخلى عن كل وقت فراغك، وإذا اكتشفت خطأ "المؤسسين"، فهذا أمر جيد بالنسبة لك.
 
 ![Cartoon 0180938f](https://longform.asmartbear.com/working-startup/48d2462a.png)
 
-**But you've also placed yourself in a hazardous, potentially legally ambiguous situation.** If managed improperly, you're unnecessarily risking lawsuits and worse.
+**لكنك أيضًا قد وضعت نفسك في موقف خطير، ومن المحتمل أن يكون غامضًا من الناحية القانونية.** إذا تمت إدارته بشكل غير صحيح، فإنك تخاطر دون داعٍ برفع دعاوى قضائية وما هو أسوأ من ذلك.
 
-**I've been on both sides of the table:** I've done a startup while working and I've employed people who either were or are very capable of having their own startup on the side. And I've known people **who were sued** because of it, and not all of them won.
+**لقد كنت على جانبي الطاولة:** لقد قمت بإنشاء شركة ناشئة أثناء العمل وقمت بتوظيف أشخاص كانوا أو قادرين جدًا على إنشاء شركة ناشئة خاصة بهم على الجانب. وقد عرفت أشخاصًا **تمت مقاضاتهم** بسبب ذلك، ولم يفزوا جميعًا.
 
-Here are my tips for how to pull this off.
+فيما يلي نصائحي حول كيفية سحب هذا.
 
-## IANAL
-Ho hum, hedging is so tedious. But I have to say it: I Am Not A Lawyer. None of this is legal advice. If you do or don't do anything listed here and anything bad happens, it's not my fault.
+## إيانال
+هو همهمة، التحوط مملة جدا. ولكن يجب أن أقول ذلك: أنا لست محاميا. لا شيء من هذا يعتبر نصيحة قانونية. إذا فعلت أو لم تفعل أي شيء مدرج هنا وحدث أي شيء سيئ، فهذا ليس خطأي.
 
-If anything good happens, I'm thrilled and honored to accept your munificent cash donation.
+إذا حدث أي شيء جيد، يسعدني ويشرفني قبول تبرعك النقدي السخي.
 
-## Pick a business that can thrive within your constraints
-Your side venture has constraints a "normal" business doesn't have:
+## اختر عملاً يمكنه أن يزدهر ضمن القيود التي تفرضها عليك
+يحتوي مشروعك الجانبي على قيود لا توجد في الأعمال "العادية":
 
-1. You can't answer the phone during normal business hours.
-2. You can't answer emails during normal business hours.
-3. You can't afford to hire three developers to add features and bugs.
-4. You have to work in fits and spurts.
+1. لا يمكنك الرد على الهاتف خلال ساعات العمل العادية.
+2. لا يمكنك الرد على رسائل البريد الإلكتروني خلال ساعات العمل العادية.
+3. لا يمكنك استئجار ثلاثة مطورين لإضافة الميزات والأخطاء.
+4. عليك أن تعمل في نوبات وطفرات.
 
-Your natural tendency is to fight these constraints, but that's the wrong approach. For example, you know that to avoid [social media shitstorms](http://virtualimpax.com/2009/07/13/social-media-shit-storm/) you're supposed to have [stupendous customer service](https://longform.asmartbear.com/hello-support/), so you claim as much on your website. But then you don't have a phone number and emails sent to you at 10:00am don't get answered until that night (which means they're not viewed until the following day).
+إن ميلك الطبيعي هو محاربة هذه القيود، لكن هذا هو النهج الخاطئ. على سبيل المثال، أنت تعلم أنه لتجنب [العواصف المزعجة على وسائل التواصل الاجتماعي](http://virtualimpax.com/2009/07/13/social-media-shit-storm/)، من المفترض أن يكون لديك [خدمة عملاء مذهلة](https://longform.asmartbear.com/hello-support/)، لذا يمكنك المطالبة بنفس القدر على موقع الويب الخاص بك. ولكن بعد ذلك ليس لديك رقم هاتف ولا يتم الرد على رسائل البريد الإلكتروني المرسلة إليك في الساعة 10:00 صباحًا حتى تلك الليلة (مما يعني أنه لن يتم عرضها حتى اليوم التالي).
 
-That's called a "missed expectation." It's also called pissing in the wind--it's just going to come right back at you.
+وهذا ما يسمى "التوقع المفقود". يُطلق عليه أيضًا التبول في مهب الريح، فهو سيعود إليك مباشرة.
 
-**The right attitude is not only to work inside your constraints, but to turn them into competitive advantages!**
+**السلوك الصحيح لا يتمثل في العمل ضمن القيود التي تواجهك فحسب، بل في تحويلها إلى مزايا تنافسية!**
 
-For example, your regular income affords you the luxury of underpricing your service. So if anyone complains that there's no phone number, you can just point out that for $5/mo you can't afford a phone staff.
+على سبيل المثال، يتيح لك دخلك المنتظم ترف تسعير خدمتك بأقل من قيمتها. لذا، إذا اشتكى أي شخص من عدم وجود رقم هاتف، يمكنك فقط الإشارة إلى أنه مقابل 5 دولارات شهريًا، لا يمكنك تحمل تكلفة توفير موظفين للهاتف.
 
-As another example, pick a product in which simplicity and having very few features is an advantage. "We do only one thing and we do it better than anyone" is a great marketing slogan. You don't have the time to make a Microsoft Excel knock-off, so don't!
+وكمثال آخر، اختر منتجًا تكون فيه البساطة مع وجود عدد قليل جدًا من الميزات ميزة. "نحن نفعل شيئًا واحدًا فقط ونفعله أفضل من أي شخص آخر" هو شعار تسويقي رائع. ليس لديك الوقت الكافي لإنشاء نسخة طبق الأصل من برنامج Microsoft Excel، فلا تفعل ذلك!
 
-## Embrace slow growth
-We all have dreams of stratospheric growth, whether it's hoping the next blog post will get 267 votes on [Hacker News](http://news.ycombinator.com/) and double your RSS subscribers, or hoping that the advent of release v1.1 will set the blogosphere ablaze.
+## احتضان النمو البطيء
+لدينا جميعًا أحلام بالنمو الهائل، سواء كنا نأمل أن تحصل مشاركة المدونة التالية على 267 صوتًا على [Hacker News](http://news.ycombinator.com/) ومضاعفة عدد المشتركين في خدمة RSS، أو نأمل أن يؤدي ظهور الإصدار v1.1 إلى إشعال النيران في عالم المدونات.
 
-Good work if you can get it, but it's not a "plan," especially not for a business you're running in your spare time. In fact, any bootstrapped company [should be aiming for slow, consistent growth rather than explosive growth](http://www.joelonsoftware.com/articles/fog0000000056.html).
+عمل جيد إذا تمكنت من الحصول عليه، ولكنه ليس "خطة"، خاصة بالنسبة لشركة تديرها في وقت فراغك. في الواقع، أي شركة ذات إمكانيات تمهيدية [يجب أن تهدف إلى تحقيق نمو بطيء ومتسق بدلاً من النمو الهائل](http://www.joelonsoftware.com/articles/fog0000000056.html).
 
-**This is not a bad thing!** Slow growth maximizes your chance for success. Slow means your success is not dependent on some unlikely, massive event that's totally outside your control. Slow means you can [change drastically during the early days](https://longform.asmartbear.com/your-idea-sucks-do-it-anyway/) without sinking the company. You have a job, so you don't require explosive growth to be successful anyway.
+**هذا ليس بالأمر السيئ!** النمو البطيء يزيد من فرصتك في النجاح. البطء يعني أن نجاحك لا يعتمد على بعض الأحداث الضخمة غير المتوقعة والتي تكون خارجة تمامًا عن سيطرتك. يعني البطء أنه يمكنك [التغيير بشكل جذري خلال الأيام الأولى](https://longform.asmartbear.com/your-idea-sucks-do-it-anyway/) دون إغراق الشركة. لديك وظيفة، لذلك لا تحتاج إلى نمو هائل لتكون ناجحًا على أي حال.
 
-Remember, your immediate goal isn't to make millions of dollars, it's to **build a business just solid enough to quit your day job**. It's not quitting your job, taking a course from a "[top online MBA programs](http://www.onlinemba.com/)" and thinking your business will pull in revenue. It really means enough profits that you can already live (frugally) off the company. Or it might mean you have enough customers to have "proved" you have a viable business model, so now you can raise money with sensible terms.
+تذكر أن هدفك المباشر ليس تحقيق ملايين الدولارات، بل **إنشاء مشروع تجاري قوي بما يكفي لترك وظيفتك اليومية**. لا يعني ذلك ترك وظيفتك، أن تأخذ دورة تدريبية من "[أفضل برامج ماجستير إدارة الأعمال عبر الإنترنت](http://www.onlinemba.com/)" وتعتقد أن عملك سيحقق إيرادات. وهذا يعني حقًا أرباحًا كافية يمكنك العيش بها (بشكل مقتصد) خارج الشركة. أو قد يعني ذلك أن لديك عددًا كافيًا من العملاء "لإثبات" أن لديك نموذج عمل قابلاً للتطبيق، لذا يمكنك الآن جمع الأموال بشروط معقولة.
 
-## Don't lie at work
-The best way to avoid a lawsuit is to prove that your employer knows you have a side project.
+## لا تكذب في العمل
+أفضل طريقة لتجنب رفع دعوى قضائية هي إثبات أن صاحب العمل يعلم أن لديك مشروعًا جانبيًا.
 
-I know, you really *really* want to ignore me and operate in secret. You're afraid to tell them because they're might do something--fire you, distrust you, or look at you funny at lunch.
+أعلم أنك تريد حقًا أن تتجاهلني وتعمل في الخفاء. أنت خائف من إخبارهم لأنهم قد يفعلون شيئًا ما - مثل طردك أو عدم الثقة بك أو النظر إليك بطريقة مضحكة أثناء الغداء.
 
-Yes, that might happen. But what's worse--one of those things or a lawsuit? If you don't think they'll sue you, then you shouldn't be afraid of telling them! They are going to find out anyway. You need to tell them on your own terms.
+نعم، قد يحدث ذلك. ولكن ما هو الأسوأ - واحد من تلك الأشياء أو دعوى قضائية؟ إذا كنت لا تعتقد أنهم سيقاضونك، فلا يجب أن تخاف من إخبارهم! سوف يكتشفون ذلك على أي حال. عليك أن تخبرهم بشروطك الخاصة.
 
-I've always told my employer, and it always worked out for the best.
-Here are those stories.
+لقد أخبرت صاحب العمل دائمًا، وكان الأمر دائمًا للأفضل. وهنا تلك القصص.
 
-**How do you tell them?** Write a simple document explaining what you're doing. Here's my template:
+**كيف تخبرهم؟** اكتب مستندًا بسيطًا تشرح فيه ما تفعله. هذا هو القالب الخاص بي:
 
-> To Whom it may Concern:
+> إلى من يهمه الأمر:
 > 
-> I have a hobby which does not in any way conflict with work. I'm writing this letter to make sure you're aware of it so there's no misunderstanding.
+> لدي هواية لا تتعارض بأي حال من الأحوال مع العمل. أكتب هذه الرسالة للتأكد من أنك على علم بها حتى لا يكون هناك سوء فهم.
 > 
-> My hobby is ....
+> هوايتي هي ....
 > 
-> I work on my hobby only at home and on my own time; it is not in conflict with my employee agreement. I own it; [Company] has no ownership or rights to it. Like any hobby, it could generate a small amount of income.
+> أنا أمارس هوايتي فقط في المنزل وفي وقتي الخاص؛ لا يتعارض مع اتفاقية الموظف الخاصة بي. أنا أملكها؛ [الشركة] ليس لديها ملكية أو حقوق فيها. مثل أي هواية، يمكن أن تدر دخلاً بسيطًا.
 > 
-> Although I don't anticipate it, I understand that if my hobby ever became in conflict with my job that it's my responsibility to notify you immediately.
->
-> Thank you.
+> على الرغم من أنني لا أتوقع ذلك، إلا أنني أدرك أنه إذا تعارضت هوايتي مع وظيفتي، فمن مسؤوليتي إخطارك على الفور.
+> 
+> شكرًا لك.
 
-**Then you get this letter signed by someone with *authority*****.** "Authority" means someone who can legally represent the company. This will of course depend on the company, but typically C*Os or the company's legal council is a good bet.
+**ثم تحصل على توقيع هذه الرسالة من قبل شخص لديه *السلطة*****.** تعني كلمة "السلطة" الشخص الذي يمكنه تمثيل الشركة بشكل قانوني. سيعتمد هذا بالطبع على الشركة، ولكن عادةً ما يكون C*Os أو المجلس القانوني للشركة رهانًا جيدًا.
 
-Getting a supportive boss to sign it isn't good enough. He can't speak for the company.
+الحصول على رئيس داعم للتوقيع عليه ليس جيدًا بما فيه الكفاية. لا يمكنه التحدث باسم الشركة.
 
-## Check your employment agreement
-There's a phrase in the template letter about your side business not conflicting with your employment agreement. Is that true? It'd better be.
+## تحقق من اتفاقية التوظيف الخاصة بك
+هناك عبارة في نموذج الرسالة حول عملك الجانبي لا تتعارض مع اتفاقية التوظيف الخاصة بك. هل هذا صحيح؟ من الأفضل أن يكون.
 
-Employment agreements are typically biased in favor of the employer, sometimes with outrageous clauses saying that anything you do, even at home and on your own time and unrelated to anything at work, is automatically owned by the company, *and*that furthermore you're responsible for identifying and reporting on those things, *and*if you don't do all of the above there's *no limit* to the damage you could have caused.
+عادة ما تكون اتفاقيات التوظيف متحيزة لصالح صاحب العمل، وأحيانًا تحتوي على بنود فاحشة تنص على أن أي شيء تفعله، حتى في المنزل وفي وقتك الخاص ولا علاقة له بأي شيء في العمل، يكون مملوكًا تلقائيًا للشركة، *و*وأنك علاوة على ذلك مسؤول عن تحديد هذه الأشياء والإبلاغ عنها، *و*إذا لم تفعل كل ما سبق، فليس هناك *حدود* للضرر الذي يمكن أن تسببه.
 
-Courts have thrown out some of these egregious contracts, but that's unusual, and you can't depend on that. You don't want to go to court at all. Besides, you signed it.
+لقد ألغت المحاكم بعض هذه العقود الفاضحة، لكن هذا أمر غير معتاد، ولا يمكنك الاعتماد على ذلك. أنت لا تريد الذهاب إلى المحكمة على الإطلاق. علاوة على ذلك، قمت بالتوقيع عليه.
 
-Read over your agreement and make sure it's legal to have the side business. If it isn't, you *must* write a letter like the one above *specifically stating* that this is a valid exception to your employment agreement.
+اقرأ اتفاقيتك وتأكد من أنه من القانوني أن يكون لديك عمل جانبي. إذا لم يكن الأمر كذلك، *يجب عليك* كتابة خطاب مثل الرسالة المذكورة أعلاه *تشير فيها على وجه التحديد* إلى أن هذا استثناء صالح لاتفاقية التوظيف الخاصة بك.
 
-## Don't use company property or internet, *for reals
-Another clause in most employment agreements is that anything you do physically at work, or on software and equipment owned by the company (e.g. laptop, customer lists, Photoshop) is automatically the property of the company.
+## لا تستخدم ممتلكات الشركة أو الإنترنت، *في الواقع
+بند آخر في معظم اتفاقيات التوظيف هو أن أي شيء تفعله فعليًا في العمل، أو على البرامج والمعدات المملوكة للشركة (مثل الكمبيوتر المحمول، وقوائم العملاء، وفوتوشوب) هو تلقائيًا ملك للشركة.
 
-**This clause is fair.** If your project is really *on the side*, you have no business doing business at work. If your project is really *yours alone*, it cannot be assisted by a company laptop, company software, or company internet connection.
+**هذا الشرط عادل.** إذا كان مشروعك *جانبيًا* حقًا، فلا داعي للقيام بأعمال تجارية في العمل. إذا كان مشروعك *ملكك وحدك* حقًا، فلا يمكن دعمه بواسطة كمبيوتر محمول خاص بالشركة، أو برامج الشركة، أو اتصال الشركة بالإنترنت.
 
-When it comes to company property, be paranoid. **Assume Big Brother is watching.** Assume every laptop has a secret program that records all keystrokes, mouse clicks, screen shots, web sites, and emails you read or write. Assume everything you do on the internet is recorded, cataloged, tagged, and monitored continuously by a methamphetamine-powered slave-army.
+عندما يتعلق الأمر بممتلكات الشركة، كن مذعورا. **افترض أن الأخ الأكبر يراقب.** افترض أن كل كمبيوتر محمول لديه برنامج سري يسجل جميع ضغطات المفاتيح، ونقرات الماوس، ولقطات الشاشة، ومواقع الويب، ورسائل البريد الإلكتروني التي تقرأها أو تكتبها. افترض أن كل ما تفعله على الإنترنت يتم تسجيله وفهرسته ووضع علامات عليه ومراقبته بشكل مستمر بواسطة جيش العبيد الذي يعمل بالميثامفيتامين.
 
-Now I realize you're super clever. You want to sneak in some tech support emails during the day, so you use a cocktail of  [Anonymizer](http://www.anonymizer.com/) plus [GMail-over-SSL](http://mail.google.com/support/bin/answer.py?hl=en&answer=8155) to confound the network admin. Because of course covering up your activity is a sure sign you're doing something legal...
+الآن أدركت أنك ذكي للغاية. إذا كنت ترغب في التسلل إلى بعض رسائل البريد الإلكتروني الخاصة بالدعم الفني خلال اليوم، فيمكنك استخدام مزيج من [Anonymizer](http://www.anonymizer.com/) بالإضافة إلى [GMail-over-SSL](http://mail.google.com/support/bin/answer.py?hl=ar&answer=8155) لإرباك مسؤول الشبكة. لأن التستر على نشاطك هو بالطبع علامة أكيدة على أنك تفعل شيئًا قانونيًا...
 
-Even that is not enough. If they decide to sue, they get to look through your email records (it's called "discovery"). Then they have 100 emails you sent during work hours. **You lose.**
+وحتى هذا ليس كافيا. إذا قرروا رفع دعوى قضائية، عليهم الاطلاع على سجلات البريد الإلكتروني الخاصة بك (وهو ما يسمى "الاكتشاف"). ثم لديهم 100 رسالة بريد إلكتروني أرسلتها خلال ساعات العمل. **تخسر.**
 
-Get the picture? Just don't do it.
+الحصول على الصورة؟ فقط لا تفعل ذلك.
 
-## Time management is critical
-I'm naturally awful at personal time management. [I procrastinate](https://longform.asmartbear.com/procrastinate/), I'm disorganized, and if I'm not careful I'll burn two hours ROTFL at [FailBlog](http://failblog.net) with nothing to show for it but tears of laughter puddled under my keyboard. Which maybe would be fine if I'd won a load of money at an [online casino](http://www.casino.com/sv/) dawdling around playing blackjack. Then at least I'd have money to show for it.
+## إدارة الوقت أمر بالغ الأهمية
+أنا بطبيعتي فظيعة في إدارة الوقت الشخصي. [أنا مماطل](https://longform.asmartbear.com/procrastinate/)، أنا غير منظم، وإذا لم أكن حذرًا، فسوف أحرق ساعتين من ROTFL في [FailBlog](http://failblog.net) دون أن أعرض أي شيء سوى دموع الضحك التي تتساقط تحت لوحة المفاتيح. قد يكون الأمر جيدًا إذا فزت بمبلغ كبير من المال في [كازينو عبر الإنترنت](http://www.casino.com/sv/) أثناء لعب لعبة البلاك جاك. ثم على الأقل سيكون لدي المال لأعرضه.
 
-A startup already generates an infinite amount of work. It takes all your time, which for you is 40 hours/week less than it ought to be. You can't afford to waste time, whether that means bad habits or working on the wrong tasks.
+تولد الشركة الناشئة بالفعل قدرًا لا حصر له من العمل. يستغرق الأمر كل وقتك، وهو بالنسبة لك 40 ساعة في الأسبوع أقل مما ينبغي. لا يمكنك تحمل إضاعة الوقت، سواء كان ذلك يعني عادات سيئة أو العمل على مهام خاطئة.
 
-There's no silver bullet--workflow is a personal matter--but here are some techniques to get you started:
+ليس هناك حل سحري، فسير العمل مسألة شخصية، ولكن إليك بعض الأساليب التي تساعدك على البدء:
 
-* [Check email infrequently](http://unclutterer.com/2009/12/15/cure-your-e-mail-addiction/).
-* [Inbox Zero](http://inboxzero.com/articles/)--Processing email until nothing remains has both psychological and practical advantages.
-* [GTD](http://www.43folders.com/2004/09/08/getting-started-with-getting-things-done) (Getting Things Done)--This technique literally changed my life. Few people implement 100% of this system, but everyone can take away a trick or two that makes them more productive.
-* [Work in sprints](http://www.pomodorotechnique.com/index.html)--Short, focussed bursts of activity eliminate the surprisingly large waste that comes from context-switching and interrupt-driven behavior.
-* If you don't sleep enough, your productivity plummets. Trading an hour of sleep for an hour of coding *is never efficient*.
-* Use a tool like [RescueTime](http://rescuetime.com) (free!) to empirically discover where you're spending time; the waste becomes clear. P.S. Tony Wright, founder of RescueTime, started that company while employed and [wrote about what he learned](http://venturehacks.com/articles/half-assed).
-* [Optimize slowest tasks first](https://longform.asmartbear.com/double-your-productivity/)--Identifying and optimizing the slowest tasks increases your overall productivity more than you think.
+* [التحقق من البريد الإلكتروني بشكل غير متكرر](http://unclutterer.com/2009/12/15/cure-your-e-mail-addiction/).
+* [Inbox Zero](http://inboxzero.com/articles/)--إن معالجة البريد الإلكتروني حتى لا يتبقى منه شيء له مزايا نفسية وعملية.
+* [GTD](http://www.43folders.com/2004/09/08/getting-started-with-getting-things-done) (Getting Things Done)--هذه التقنية غيرت حياتي حرفيًا. قليل من الناس يطبقون هذا النظام بنسبة 100%، ولكن يمكن للجميع الاستفادة من خدعة أو اثنتين تجعلهم أكثر إنتاجية.
+* [العمل في سباقات السرعة] (http://www.pomodorotechnique.com/index.html)-- تعمل دفعات النشاط القصيرة والمركزة على التخلص من الهدر الكبير المفاجئ الذي يأتي من تبديل السياق والسلوك القائم على المقاطعة.
+* إذا كنت لا تنام بما فيه الكفاية، فإن إنتاجيتك تنخفض. إن مقايضة ساعة من النوم بساعة من البرمجة *ليست فعالة على الإطلاق*.
+* استخدم أداة مثل [RescueTime](http://rescuetime.com) (مجانًا!) لاكتشاف المكان الذي تقضي فيه الوقت بشكل تجريبي؛ تصبح النفايات واضحة. ملاحظة: بدأ توني رايت، مؤسس شركة RescueTime، تلك الشركة أثناء عمله و[كتب عما تعلمه] (http://venturehacks.com/articles/half-assed).
+* [تحسين المهام الأبطأ أولاً](https://longform.asmartbear.com/double-your-productivity/)--يؤدي تحديد المهام الأبطأ وتحسينها إلى زيادة إنتاجيتك الإجمالية أكثر مما تعتقد.

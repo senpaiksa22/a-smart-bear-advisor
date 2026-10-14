@@ -20,58 +20,45 @@ summary_ar: "An objectively \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** أن تكون أسوأ ولكن فريداً ومميزاً خير من أن تكون نسخة مكررة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Worse, but unique
-
-> **Executive Summary:** An objectively "worse" strategy can win, if it leverages something unique or unexpected. Startups can use this concept to beat incumbents.
-> **Original URL:** [https://longform.asmartbear.com/worse-but-unique/](https://longform.asmartbear.com/worse-but-unique/)
-
 ![chess bishop qbert dating moves](https://public.asmartbear.com/books/anthology/chapters/worse-but-unique/d8851print-simple.png)
 
-A perfect storm created a renaissance in chess: COVID driving people to occupy their minds in physical isolation, the hit Netflix show "The Queen's Gambit," and a surge of chess Twitch streamers and YouTubers fueling that nascent interest in chess with equal parts education and entertainment.
+خلقت عاصفة كاملة نهضة في لعبة الشطرنج: دفع فيروس كورونا الناس إلى شغل عقولهم في العزلة الجسدية، وعرض Netflix الناجح "The Queen's Gambit"، وزيادة عدد مستخدمي الشطرنج على Twitch ومستخدمي YouTube مما أدى إلى تغذية هذا الاهتمام الناشئ بالشطرنج مع التعليم والترفيه بأجزاء متساوية.
 
-And so beginners learned openings like the titular Queen's Gambit--one of the most popular ways for white to open the game. It's easy to find courses, books, and online content about the Queen's Gambit because it's been popular for more than a hundred years. The top chess players in the world today still play the Queen's Gambit; if they play it, it must be good! And it is.
+وهكذا تعلم المبتدئون عمليات فتح مثل لعبة Queen's Gambit الفخرية - وهي إحدى الطرق الأكثر شعبية بالنسبة للبيض لفتح اللعبة. من السهل العثور على الدورات التدريبية والكتب والمحتوى عبر الإنترنت حول Queen's Gambit لأنها تحظى بشعبية كبيرة منذ أكثر من مائة عام. لا يزال أفضل لاعبي الشطرنج في العالم اليوم يلعبون مناورة الملكة؛ إذا لعبوها، يجب أن تكون جيدة! وهو كذلك.
 
-Except, it's smarter for beginners to play worse openings.
+باستثناء أنه من الأفضل للمبتدئين أن يلعبوا فتحات أسوأ.
 
-"Worse" is an objective evaluation. There are openings, like the *King's* Gambit for example, which were popular in the 1800s but have since been "refuted," meaning that for each move by white, black always has a counter-move which results in black ultimately achieving a superior position. "Superior" as consistently demonstrated in games between top-level humans, as well as computers that are orders of magnitude stronger than those humans. Thus, the King's Gambit is objectively worse than the Queen's Gambit.
+"الأسوأ" هو تقييم موضوعي. هناك فتحات، مثل مناورة *الملك* على سبيل المثال، والتي كانت شائعة في القرن التاسع عشر ولكن تم "دحضها" منذ ذلك الحين، مما يعني أنه مقابل كل حركة للأبيض، يكون للأسود دائمًا حركة مضادة تؤدي إلى تحقيق الأسود في النهاية لمركز متفوق. "متفوق" كما هو موضح باستمرار في الألعاب بين البشر ذوي المستوى الأعلى، وكذلك أجهزة الكمبيوتر التي هي أقوى من هؤلاء البشر من حيث الحجم. وبالتالي، فإن مناورة الملك هي من الناحية الموضوعية أسوأ من مناورة الملكة.
 
-So why should beginners use the refuted King's Gambit opening?
+فلماذا يجب على المبتدئين استخدام افتتاحية King's Gambit المرفوضة؟
 
-First of all, beginners aren't playing top chess players; they are playing someone near their own strength. At their level, the King's Gambit isn't refuted, because neither player has memorized the sprawling branching sequences of all possible moves and counter-moves and counter-counter-moves, *ad nauseam*. Nor can they figure out the best move in the moment. Anyway, [the game will be decided by stupid blunders](https://longform.asmartbear.com/avoid-blundering/), not brilliant tactics.
+بادئ ذي بدء، لا يلعب المبتدئون أفضل لاعبي الشطرنج؛ إنهم يلعبون دور شخص قريب من قوتهم. على مستواهم، لم يتم دحض مناورة الملك، لأنه لم يحفظ أي من اللاعبين تسلسلات المتفرعة المترامية الأطراف لجميع التحركات الممكنة والتحركات المضادة والتحركات المضادة، *إلى حد الغثيان*. ولا يمكنهم معرفة أفضل خطوة في الوقت الحالي. على أية حال، [سيتم حسم المباراة من خلال أخطاء غبية](https://longform.asmartbear.com/avoid-blundering/)، وليس من خلال التكتيكات الرائعة.
 
-Second, and more importantly, exactly because the Queen's Gambit is popular, it's likely that your opponent has also studied it. So it's quite possible that your opponent knows a defense to the Queen's Gambit better than you know the attack of the Queen's Gambit. As you progress in chess, this becomes more and more likely. So now the question becomes: Is your preparation--memorization of the branching forest of moves--better than your opponent's preparation?
+ثانيًا، والأهم من ذلك، نظرًا لأن مناورة الملكة تحظى بشعبية كبيرة، فمن المحتمل أن يكون خصمك قد درسها أيضًا. لذلك من المحتمل جدًا أن يكون خصمك يعرف كيفية الدفاع عن مناورة الملكة أفضل مما تعرف أنت عن هجوم مناورة الملكة. كلما تقدمت في لعبة الشطرنج، يصبح هذا الأمر أكثر احتمالا. لذا يصبح السؤال الآن: هل استعدادك - حفظ مجموعة الحركات المتفرعة - أفضل من استعداد خصمك؟
 
-That's not the sort of "luck" you want to depend on. That's not a good strategy.
+هذا ليس نوع "الحظ" الذي تريد الاعتماد عليه. هذه ليست استراتيجية جيدة.
 
-The solution is to learn a refuted-but-not-completely-atrocious opening like the King's Gambit. It isn't refuted at your level, and also there's almost no chance your opponent has memorized any specific defense for it, because "no one plays that." So they're reacting to it for the first time, surely not finding all the best counter-moves in the moment. But you *have* memorized a few of the best moves. So you have a clear advantage, even though you're a beginner.
+الحل هو أن تتعلم افتتاحية مرفوضة ولكن ليست فظيعة تمامًا مثل مناورة الملك. لم يتم دحضها على مستواك، كما أنه من غير المحتمل أن يكون خصمك قد حفظ أي دفاع محدد لها، لأنه "لا أحد يلعب ذلك". لذا فهم يتفاعلون معها للمرة الأولى، وبالتأكيد لم يجدوا أفضل التحركات المضادة في الوقت الحالي. لكنك *حفظت* بعضًا من أفضل الحركات. لذلك لديك ميزة واضحة، على الرغم من أنك مبتدئ.
 
-This is why [leverage, as defined here](https://longform.asmartbear.com/leverage/), results in a superior strategy for products and companies, even if many things about you, your team, your product, and your company, are "worse" than the competition. Playing on your own terms changes the game. "Worse, but unique," is in fact "better."
+ولهذا السبب، تؤدي [الرافعة المالية، كما هو محدد هنا](https://longform.asmartbear.com/leverage/)، إلى استراتيجية متفوقة للمنتجات والشركات، حتى لو كانت أشياء كثيرة عنك، وفريقك، ومنتجك، وشركتك، "أسوأ" من المنافسة. اللعب بشروطك الخاصة يغير اللعبة. "أسوأ، ولكن فريد من نوعه،" هو في الواقع "أفضل".
 
-A startup is a "beginner" in the market, facing a variety of "opponents" who have varying degrees of preparation and skill (age, capabilities, customers, brand, funding). A startup needs to fight the competitive battle on its own terms, not attack where the opponent is already strong.
+تعتبر الشركة الناشئة "مبتدئة" في السوق، وتواجه مجموعة متنوعة من "المعارضين" الذين لديهم درجات متفاوتة من الإعداد والمهارة (العمر، والقدرات، والعملاء، والعلامة التجارية، والتمويل). تحتاج الشركة الناشئة إلى خوض المعركة التنافسية بشروطها الخاصة، وليس الهجوم حيث يكون الخصم قويًا بالفعل.
 
-Even on a personal level, you must use your leverage to do something special, be something special, at [the intersection of what is special, enjoyable, and what the world needs](https://longform.asmartbear.com/fulfillment/).
+حتى على المستوى الشخصي، يجب عليك استخدام نفوذك للقيام بشيء مميز، وأن تكون شيئًا مميزًا، عند [تقاطع ما هو مميز وممتع وما يحتاجه العالم](https://longform.asmartbear.com/fulfillment/).
 
-> "Be yourself. Everyone else is taken."  
-> --Oscar Wilde
+> "كن نفسك. يتم أخذ الجميع."
+> --أوسكار وايلد
 
-Many potential customers won't want to play your game, and you'll feel bad when you lose them to a competitor, and when they say mean things about you and your product and your decisions. Especially when it's in public, on review sites and social media. But don't worry, you weren't going to win them anyway--they're just not into you.
+لن يرغب العديد من العملاء المحتملين في ممارسة لعبتك، وستشعر بالسوء عندما تخسرهم أمام أحد المنافسين، وعندما يقولون أشياء سيئة عنك وعن منتجك وقراراتك. خاصة عندما يكون الأمر علنيًا، على مواقع المراجعة ووسائل التواصل الاجتماعي. لكن لا تقلق، فأنت لن تفوز بهم على أي حال، فهم ليسوا معجبين بك.
 
-The customers who *do* want to play your game, will see that you're the best in that game. Even if you're two people and there's a dozen competitors ranging from well-funded, well-covered-by-the-media startups to old-but-reliable incumbents. If you pick a different game, you're the best at that game, and you can become extremely successful.[^1]
+العملاء الذين *يرغبون* في لعب لعبتك، سيرون أنك الأفضل في تلك اللعبة. حتى لو كنتما شخصين وكان هناك العشرات من المنافسين بدءًا من الشركات الناشئة الممولة جيدًا والمغطاة جيدًا من قبل وسائل الإعلام إلى الشركات القائمة القديمة ولكن الموثوقة. إذا اخترت لعبة مختلفة، فأنت الأفضل في تلك اللعبة، ويمكنك أن تصبح ناجحًا للغاية.[^1]
 
-[^1]: In my case, WP Engine powers as many substantial websites as Google Cloud or Digital Ocean, and we still have only 2.3% of that market. That means 98% of potential customers are in fact not customers, and yet WP Engine is a unicorn. By the way, this is another reason why it's wise to [seek large markets](https://longform.asmartbear.com/problem/).
+[^1]: في حالتي، يعمل WP Engine على تشغيل العديد من مواقع الويب المهمة مثل Google Cloud أو Digital Ocean، وما زال لدينا 2.3% فقط من هذا السوق. وهذا يعني أن 98% من العملاء المحتملين ليسوا في الواقع عملاء، ومع ذلك فإن WP Engine هو وحيد القرن. بالمناسبة، هذا سبب آخر يجعل من الحكمة [البحث عن أسواق كبيرة](https://longform.asmartbear.com/problem/).
 
-Even better than "different," is to be extreme in that difference. Not just a minimal UI, but so minimal it works on the command-line. Not just great design, but so remarkable people buy it only for that, and it's written up on designer's blogs. Not just a new algorithm that solves an old problem, but one that uncovers new things that no one else does, even at the expense of missing things that others catch. You can't do this for all aspects of your product and business--indeed, even a single one is already powerful--but extremity is how you maximize the power of the few things that make you special.
+والأفضل من "مختلف" هو التطرف في هذا الاختلاف. ليس مجرد واجهة مستخدم بسيطة، ولكنه يعمل على سطر الأوامر. ليس فقط تصميمًا رائعًا، ولكن الأشخاص المتميزون يشترونه فقط من أجل ذلك، ويتم كتابته على مدونات المصممين. ليست مجرد خوارزمية جديدة تحل مشكلة قديمة، ولكنها خوارزمية تكشف أشياء جديدة لا يفعلها أي شخص آخر، حتى على حساب فقدان الأشياء التي يلتقطها الآخرون. لا يمكنك القيام بذلك لجميع جوانب منتجك وعملك - في الواقع، حتى عنصر واحد قوي بالفعل - ولكن التطرف هو كيفية تعظيم قوة الأشياء القليلة التي تجعلك مميزًا.
 
-All those competitors *cannot* play the game as well as you, because you picked something that was not only different, but extreme. They can't make every choice you made, and since they didn't, they're definitionally not the best at your game.
+كل هؤلاء المنافسين *لا يمكنهم* أن يلعبوا اللعبة مثلك، لأنك اخترت شيئًا لم يكن مختلفًا فحسب، بل كان متطرفًا أيضًا. لا يمكنهم اتخاذ كل خيار قمت به، وبما أنهم لم يفعلوا ذلك، فهم بالتأكيد ليسوا الأفضل في لعبتك.
 
-Play your King's Gambit. Don't worry if others claim your strategy is refuted. It's not refuted for you.
+العب مناورة الملك الخاص بك. لا تقلق إذا ادعى الآخرون أن استراتيجيتك قد تم دحضها. لا يتم دحضه بالنسبة لك.
 
-Indeed, the fact that they *think* it's refuted, is why you will win.
+في الواقع، حقيقة أنهم *يعتقدون* أنه تم دحضها، هي سبب فوزك.

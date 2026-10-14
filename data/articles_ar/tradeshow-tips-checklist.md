@@ -20,126 +20,113 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** قائمة مرجعية واقعية للمشاركة في المعارض التجارية مبنية على التجربة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# A Tradeshow Checklist, born of experience
-
-> **Executive Summary:** My tips from running booths at dozens of tradeshows.
-> **Original URL:** [https://longform.asmartbear.com/tradeshow-tips-checklist/](https://longform.asmartbear.com/tradeshow-tips-checklist/)
-
 ![Smart Bear tradeshow boothYou can tell he's a "smart" bear because of the glasses.](https://longform.asmartbear.com/tradeshow-tips-checklist/52f98408.png)
 
-A lot of tradeshows have been cancelled due to low attendance (which in turn is probably due to slashed travel budgets), but those which remain are that much more interesting.
+تم إلغاء الكثير من المعارض التجارية بسبب انخفاض الحضور (والذي بدوره ربما يرجع إلى انخفاض ميزانيات السفر)، ولكن المعارض المتبقية هي الأكثر إثارة للاهتمام.
 
-It's easy to waste time and money at tradeshows. It's not just the booth ($2k-$20k) and travel expenses ($1000/day including airline, hotel, rent car, shipping, and buying an extension cable at an outrageously overpriced convention center office supply center), it's the week of time spent at the show (including travel days) plus weeks of time spent preparing your strategy, crafting your sales pitches, organizing the booth crap, and chewing out the stoned guy at the print shop counter who claims to not see that the "red" in the color swatch is not the same as the "red" in your 6′ x 6′ banner.
+من السهل إضاعة الوقت والمال في المعارض التجارية. لا يقتصر الأمر على الكشك (من 2 ألف دولار إلى 20 ألف دولار) ونفقات السفر (1000 دولار في اليوم بما في ذلك شركات الطيران والفندق واستئجار السيارات والشحن وشراء كابل تمديد في مركز إمداد مكتب مركز المؤتمرات باهظ الثمن)، إنه أسبوع الوقت الذي يقضيه في المعرض (بما في ذلك أيام السفر) بالإضافة إلى أسابيع من الوقت الذي تقضيه في إعداد إستراتيجيتك، وصياغة عروض المبيعات الخاصة بك، وتنظيم حماقة الكشك، ومضغ الرجل المحشش في محل الطباعة الذي يدعي أنه لا يرى أن "الأحمر" في عينة الألوان ليس هو نفسه "الأحمر" في شعارك مقاس 6 × 6 بوصات.
 
-Tradeshows are a combination of high-level strategy and low-level minutiae, so a checklist comes in handy.
+المعارض التجارية عبارة عن مزيج من الإستراتيجية عالية المستوى والتفاصيل ذات المستوى المنخفض، لذا فإن القائمة المرجعية تكون مفيدة.
 
-## 3-6 months before the tradeshow
-* **Have a goal.** Although there are many benefits of attending a show, you need a primary goal. A goal helps you make the decisions below and provides a yardstick for whether the tradeshow was "successful," and therefore whether you should do more. Examples:
-  * Make a sale on the tradeshow floor
-  * Get at least 20 genuine prospects
-  * Talk with 10 industry leaders
-  * Find 10 good recruiting prospects
-  * Find 3 serious investors.
-  * Ask potential customers 3 specific things (market research)
-* **Schedule a vendor presentation.** Most shows allow vendors to give presentations, sometimes for a fee. *Always do this.* Even if just 20 people come to your talk, that's 20 people you get to talk to in depth for 45 minutes--far more valuable than talking to 100 of people at your booth for 5-60 seconds. I frequently get a few sales just from the presentation.
+## 3-6 أشهر قبل المعرض التجاري
+* **لديك هدف.** على الرغم من وجود العديد من الفوائد لحضور العرض، إلا أنك تحتاج إلى هدف أساسي. يساعدك الهدف على اتخاذ القرارات الموضحة أدناه ويوفر مقياسًا لمعرفة ما إذا كان المعرض التجاري "ناجحًا"، وبالتالي ما إذا كان ينبغي عليك القيام بالمزيد. أمثلة:
+  * إجراء عملية بيع على أرضية المعرض التجاري
+  * احصل على ما لا يقل عن 20 احتمالا حقيقيا
+  * تحدث مع 10 من قادة الصناعة
+  * ابحث عن 10 فرص توظيف جيدة
+  * ابحث عن 3 مستثمرين جادين.
+  * اسأل العملاء المحتملين عن 3 أشياء محددة (أبحاث السوق)
+* **حدد موعدًا لعرض تقديمي للبائع.** تسمح معظم العروض للبائعين بتقديم عروض تقديمية، مقابل رسوم في بعض الأحيان. *افعل هذا دائمًا.* حتى لو حضر 20 شخصًا فقط إلى محادثتك، فهذا يعني أنه يمكنك التحدث إلى 20 شخصًا بعمق لمدة 45 دقيقة - وهو أكثر قيمة بكثير من التحدث إلى 100 شخص في جناحك لمدة 5-60 ثانية. كثيرا ما أحصل على بعض المبيعات فقط من العرض التقديمي.
 
-* **Decide on your main message.** Just like your home page, you get 3 seconds to convince someone to stop at your booth. You'll need this message elsewhere (e.g. banner) so you need to decide what it is early on. Remember the goal is to get people to *stop*, not to explain everything about who you are and what you do! Boil it down to a single, short sentence.
+* **حدد رسالتك الرئيسية.** تمامًا مثل صفحتك الرئيسية، لديك 3 ثوانٍ لإقناع شخص ما بالتوقف عند جناحك. ستحتاج إلى هذه الرسالة في مكان آخر (على سبيل المثال، لافتة) لذا عليك أن تقرر ما هي في وقت مبكر. تذكر أن الهدف هو حث الناس على *التوقف*، وليس شرح كل شيء عنك وماذا تفعل! اختصرها في جملة واحدة قصيرة.
 
-* **Pick your booth.** Booths go fast, and location *does* matter. Booths next to the bathroom are good even though they're "in the back" because everyone's going to hit the head. Booths near the front doors are good. Booths nearer to the center of the room are better than the ends. Booths at the ends of isles are good because you have a "corner" which means more traffic *and* your stuff can spill out over the edge.
+* **اختر كشكك.** الأكشاك تسير بسرعة، والموقع *مهم*. تعتبر الأكشاك المجاورة للحمام جيدة على الرغم من أنها "في الخلف" لأن الجميع سيضربون رؤوسهم. الأكشاك القريبة من الأبواب الأمامية جيدة. الأكشاك الأقرب إلى وسط الغرفة أفضل من الأطراف. تعتبر الأكشاك الموجودة في نهايات الجزر جيدة لأن لديك "زاوية" مما يعني المزيد من حركة المرور *و* يمكن أن تمتد أغراضك إلى الحافة.
 
-* **Design your banner and handouts.** Printing takes longer than you think because you'll need to iterate. I've never gotten the result I wanted from a print shop on the first try. Never. The colors on your screen aren't the colors on their paper. The Pantone® colors you selected for your banner won't look the same as the samples. The sales guy you see at the counter screws things up. You need time to iterate and complain. And to find the right person:
+* **صمم الشعار والنشرات الخاصة بك.** تستغرق الطباعة وقتًا أطول مما تعتقد لأنك ستحتاج إلى التكرار. لم أحصل أبدًا على النتيجة التي أردتها من المطبعة من المحاولة الأولى. أبداً. الألوان التي تظهر على شاشتك ليست هي الألوان الموجودة على الورق. لن تبدو ألوان Pantone® التي حددتها للشعار الخاص بك مماثلة للعينات. رجل المبيعات الذي تراه على المنضدة يفسد الأمور. أنت بحاجة إلى وقت للتكرار والشكوى. وللعثور على الشخص المناسب:
 
-* **Find the techie in the back of the print shop.** The first person you see at the sign shop is typically the sales guy, who knows nothing about Adobe InDesign, DPI, CMYK, vector vs. raster, or anything else important to making your stuff come out properly. Ask for the techie and talk to her directly.
+* **ابحث عن فني في الجزء الخلفي من محل الطباعة.** أول شخص تراه في متجر اللافتات هو عادة مندوب المبيعات، الذي لا يعرف شيئًا عن Adobe InDesign، أو DPI، أو CMYK، أو المتجه مقابل البيانات النقطية، أو أي شيء آخر مهم لإخراج الأشياء الخاصة بك بشكل صحيح. اطلب التقنية وتحدث معها مباشرة.
 
-* **Plan on at least 3 people.** You need two people at the booth to allow for busy times, to restock items, and to take breaks. Then you need another who can be walking around and going to meetings. Doesn't have to be a strict separation of powers, just need enough people to do all of the above simultaneously.
+* **خطط لثلاثة أشخاص على الأقل.** أنت بحاجة إلى شخصين في المقصورة للسماح بأوقات الانشغال، وإعادة تخزين العناصر، وأخذ فترات راحة. فأنت بحاجة إلى شخص آخر يمكنه التجول والذهاب إلى الاجتماعات. ليس من الضروري أن يكون هناك فصل صارم بين السلطات، فقط تحتاج إلى عدد كافٍ من الأشخاص للقيام بكل ما سبق في وقت واحد.
 
-* **Finish all the travel arrangements.** Airplane tickets, hotels, rent cars. Fares are cheaper and there's no last-minute surprises with things being full.
+* **إنهاء جميع ترتيبات السفر.** تذاكر الطائرة والفنادق وتأجير السيارات. الأسعار أرخص ولا توجد مفاجآت في اللحظة الأخيرة مع امتلاء الأشياء.
 
-* **Decide how your booth will be different.** Attendees will see a ton of booths, all essentially identical. A logo, a banner, some "clever" phrase, and 8 adjectives like "fast" and "scalable." Snore. You have to do *something* different. It doesn't have to be amazingly unique, just different.
+* **قرر كيف سيكون كشكك مختلفًا.** سيرى الحاضرون عددًا كبيرًا من الأكشاك، كلها متطابقة بشكل أساسي. شعار ولافتة وبعض العبارات "الذكية" و8 صفات مثل "سريع" و"قابل للتطوير". شخير. عليك أن تفعل *شيئًا* مختلفًا. ليس من الضروري أن تكون فريدة بشكل مدهش، فقط مختلفة.
 
-* **Buy shirts and other swag.** With customization (i.e. your logo on a shirt), it can sometimes take a while, so get this done early. At least have a "tradeshow shirt." (It's the law.)
+* **اشترِ القمصان والهدايا الأخرى.** مع التخصيص (أي شعارك على القميص)، قد يستغرق الأمر بعض الوقت أحيانًا، لذا عليك إنجاز ذلك مبكرًا. على الأقل احصل على "قميص المعرض التجاري". (إنه القانون).
 
-## 1 month before the tradeshow
-* **Postcard mailers work!** I know, you thought "print media" was dead. Well not before a tradeshow, and not if you do it right. Best is to offer something cool/expensive at your booth, but only if they bring the postcard to you. This means they keep the postcard handy starting now and even during the tradeshow, which means whatever else you put on there (marketing material) gets seen repeatedly. It also means they seek you out on the tradeshow floor. Then, because you collect the card, you have their contact info (their name, company, and address), so you get to follow up later. Don't forget to put your booth number on there!  (Another reason to pick the booth early.)
+## 1 شهر قبل المعرض التجاري
+* **تعمل مرسلات البطاقات البريدية!** أعلم أنك كنت تعتقد أن "وسائط الطباعة" قد انتهت. حسنًا، ليس قبل المعرض التجاري، وليس إذا قمت بذلك بشكل صحيح. الأفضل هو تقديم شيء رائع/باهظ الثمن في جناحك، ولكن فقط إذا أحضروا لك البطاقة البريدية. وهذا يعني أنهم يحتفظون بالبطاقة البريدية في متناول اليد بدءًا من الآن وحتى أثناء المعرض التجاري، مما يعني أن أي شيء آخر تضعه هناك (المواد التسويقية) سيتم رؤيته بشكل متكرر. وهذا يعني أيضًا أنهم يبحثون عنك في صالة العرض التجاري. وبعد ذلك، نظرًا لأنك تقوم بجمع البطاقة، يكون لديك معلومات الاتصال الخاصة بهم (الاسم والشركة والعنوان)، حتى تتمكن من المتابعة لاحقًا. لا تنسى أن تضع رقم جناحك هناك!  (سبب آخر لاختيار الكشك مبكرًا.)
 
-* **Emails probably work.** Because you can use the tradeshow's name in the subject of the email, people will probably read your email blast.
+* **ربما تعمل رسائل البريد الإلكتروني.** نظرًا لأنه يمكنك استخدام اسم المعرض التجاري في موضوع البريد الإلكتروني، فمن المحتمل أن يقرأ الأشخاص بريدك الإلكتروني بشكل كبير.
 
-* **Set up meetings. Yes meetings!** Tradeshows are a rare chance to get face-time with:
-	* Editors of on-line and off-line magazines. Often overlooked, editors are your key to real press. **I've been published in every major programming magazine**; almost all of that I can directly attribute to talking with editors at tradeshows! It works.
-	* Bloggers you like, especially if you wish they'd write about you
-	* Existing Customers
-	* Potential customers currently trialing your stuff
-	* Your vendors
-	* Your competition
-	* Potential partners
-Proactively set meetings. Call/email everyone you can find. It's easy to use email titles which will be obviously non-spam such as "At [Tradeshow]: Can we chat for 5 minutes?" I try to get at least 5 meetings per day. Organizing dinner and/or drinks after the show is good too.
+* **إعداد الاجتماعات. نعم الاجتماعات!** تعد المعارض التجارية فرصة نادرة للقاء:
+	* محرري المجلات الإلكترونية وغير الإلكترونية. غالبًا ما يتم التغاضي عن المحررين، فهم مفتاحك للصحافة الحقيقية. ** لقد تم نشر أعمالي في كل مجلة برمجة كبرى **؛ يمكنني أن أعزو كل ذلك تقريبًا إلى التحدث مع المحررين في المعارض التجارية! إنها تعمل.
+	* المدونون الذين تحبهم، خاصة إذا كنت ترغب في أن يكتبوا عنك
+	* العملاء الحاليين
+	* يقوم العملاء المحتملون حاليًا بتجربة أغراضك
+	* البائعين الخاص بك
+	* منافسيك
+	* الشركاء المحتملين
+تحديد الاجتماعات بشكل استباقي. اتصل/أرسل بريدًا إلكترونيًا إلى كل شخص يمكنك العثور عليه. من السهل استخدام عناوين البريد الإلكتروني التي من الواضح أنها ليست بريدًا عشوائيًا مثل "في [المعرض التجاري]: هل يمكننا الدردشة لمدة 5 دقائق؟" أحاول الحصول على 5 اجتماعات على الأقل يوميًا. يعد تنظيم العشاء و/أو المشروبات بعد العرض أمرًا جيدًا أيضًا.
 
-* **Promote the show.** You want people showing up and going to your booth, especially people who live in the area where attending the show just means getting half a day leave from work. Add a line to everyone's email signature with the show info and your booth number. If you have a giveaway or something else interesting, say that too.
+* **الترويج للعرض.** أنت تريد أن يحضر الأشخاص ويذهبوا إلى جناحك، وخاصة الأشخاص الذين يعيشون في المنطقة التي يعني فيها حضور العرض الحصول على إجازة لمدة نصف يوم من العمل. أضف سطرًا إلى توقيع البريد الإلكتروني للجميع يتضمن معلومات العرض ورقم جناحك. إذا كان لديك هدية أو أي شيء آخر مثير للاهتمام، قل ذلك أيضًا.
 
-* **Box of everything.** I can't tell you how many times we've been saved by a box of stuff. A small, cheap plastic box from Walmart is fine. You won't use *all* the stuff *every* time, but I guarantee you will use an unpredictable subset *every* time. The box should contain:
-  * pens (multiple, different colors)
-  * Sharpie
-  * Scotch tape
-  * masking tape
-  * extension cord
-  * electric plug bar
-  * post-it notes
-  * rubber bands
-  * tiny stapler
-  * highlighter
-  * paper clips
-  * scissors
-  * all-in-one tool (screwdriver, can opener)
-  * medicine (Tylenol, Advil, Motrin, DayQuil)
-  * zip-ties
-  * Generic business cards (in case anyone runs out)
-* **Comfortable shoes.** You'll be standing for much longer than you're used to; comfortable shoes are a must. Attendees can't see your shoes so sneakers or clogs might be OK; you can change into your pumps when you leave the booth. You can also bring floor pads designed for people who stand all day, or for a fee most venues can put padding under your booth's carpeting.
+* **صندوق به كل شيء.** لا أستطيع أن أخبرك كم مرة أنقذنا صندوق الأشياء. صندوق بلاستيكي صغير ورخيص من Walmart جيد. لن تستخدم *كل* العناصر *في كل* مرة، ولكنني أضمن لك أنك ستستخدم مجموعة فرعية لا يمكن التنبؤ بها *في كل* مرة. يجب أن يحتوي الصندوق على:
+  * أقلام (متعددة، ألوان مختلفة)
+  * شاربي
+  * شريط لاصق من نوع سكوتش
+  * شريط اخفاء
+  * سلك التمديد
+  * شريط التوصيل الكهربائي
+  * الملاحظات اللاحقة
+  * الأربطة المطاطية
+  * دباسة صغيرة
+  * هيغليغتر
+  * مقاطع الورق
+  * مقص
+  * أداة الكل في واحد (مفك البراغي، فتاحة العلب)
+  * الطب (تايلينول، أدفيل، موترين، دايكويل)
+  * العلاقات المضغوطة
+  * بطاقات العمل العامة (في حالة نفاد أي شخص)
+* **حذاء مريح.** سوف تقف لفترة أطول بكثير مما اعتدت عليه؛ الأحذية المريحة أمر لا بد منه. لا يمكن للحاضرين رؤية حذائك، لذا قد تكون الأحذية الرياضية أو القباقيب مناسبة؛ يمكنك التغيير إلى المضخات الخاصة بك عند مغادرة الكشك. يمكنك أيضًا إحضار وسادات أرضية مصممة للأشخاص الذين يقفون طوال اليوم، أو مقابل رسوم يمكن لمعظم الأماكن وضع حشوة تحت سجادة كشكك.
 
-## At the tradeshow
-* **A/B test your pick-up line.** This is no different than your landing pages! A tradeshow is a wonderful place to test attention-grabbers. What gets people to stop? To laugh? To say "OK, fair enough, tell me more?" Test all show long. After the 100th pitch, you'll know exactly what gets people's attention--now **put that on your home page!**
-* **Ask questions instead of pitching.** Everyone else "pitches at" people; be different and actually have a conversation.  Good conversationalists are genuinely interested in the other person--what do they do, what are they interested in.  If you start chatting they will actually *ask* you for a pitch as a form of reciprocation.  Then you've got permission to "sell," and they're truly listening.
-* **Don't ask how they're doing.** Your opening line should engage them with something *you specifically* have to offer. "Hello, how's it going" is not interesting or unique. Even just a simple "Are you interested in [thing you do]" is better, although still weak.
-* **Ask questions, don't just transmit.** Sure you want to pitch your stuff, but **this is a fantastic opportunity for direct market research on your potential customers!** Come up with 3-5 questions that you're going to ask of people who walk by the booth, then ask away. No need to carefully record the results--the big trends will be obvious and the rest is noise.
-* **Stand, don't sit.** Sitting looks like you don't want to be there. It's uninviting. The head-height differential is psychologically off-putting. I know your feet hurt; stand.
-* **Get into the aisle.** Just because there's a table there doesn't mean you have to stand behind it. Break out of your 10'x10′ prison and engage people in the aisle. Best is to have someone inside the booth to talk to folks who walk up and another in the aisle getting attention and directing folks inward. Especially during high-traffic, just being a barrier in the middle forces people to squeeze by your booth, which gives you a chance to engage. [Learn from the guy in the bear suit](https://longform.asmartbear.com/guy-in-a-bear-suit/)!
-* **Moving pictures rock.** When you're sitting at a bar and there's a TV behind the person you're talking to, it's really hard not to look, right? We tend to look at moving images, especially when they're bright. So your booth should have a big monitor or better yet a bright projector. Don't just show a static screenshot or PowerPoint image, and don't leave it stuck wherever the last demo left off--get a demo movie going and catch some eyes. We did this at Smart Bear and I can't count the number of times another vendor said "OMG we have to do that next year."
-* **Always be able to demo.** Nothing is more sticky than a live demo. Not swag, not brochures, not clever phrases, not raffles. That other stuff is good--both for getting traffic and as a reminder--but you need a demo to make the experience memorable. I prefer demoing on a projector so it's big and passers-by get hooked as well, but a large monitor works too. *Large.* Not your laptop screen.
-* **Make notes on business cards.** You'll talk to hundreds of people; you'll never remember what one guy said or what he wants. Always write it down on *their* business card. If they have one of those silly cards where you can't make notes (why people, why?), use a post-it from your box-o-stuff to keep notes together with the card.
-* **Sales people aren't enough.** Most attendees don't want to talk to sales people anyway; if they're interested at all they want to geek out with their peers. Air out some of those folks who typically don't get to go on sales calls.
-* **Build your own happy hour party** Rent a room at or near the conference site with wine, beer, and basic food. Pass out invites at the show and on your pre-show mailers. Who can resist free booze and free food? It's cheaper than you think and you get to pitch people in a relaxed atmosphere. People are willing to talk about your product to reciprocate.
-* **Don't depend on the internet.** Tradeshow internet is spotty at best. Your demos and note-taking *must* operate without being online.
-* **Use LinkedIn every night.** Most people will accept, especially if you add the contact the same day and reference the conference. Take advantage of this opportunity to significantly expand your online network.
-* **Walk the floor and talk to everyone.** As a fellow vendor, you can commiserate about how the show is going and how it compares to other shows. Try to think of a way your two companies could work together; usually it doesn't work out but the discussion helps them remember who you are. Try to skip past their salespeople. Meet the founder if she's there.
-* **Note the jokes.** People will make fun of you. Actually, if they don't, maybe that's a bad sign because they can't figure out what you do. Usually you get some wise-cracks. That's interesting, right? Could be a good thing, could be a bad thing.
-* **Free food.** Works better than almost any other free thing. The more "real" the food is (i.e. not just candy) the better. Cookies are good. Put it at the center of your booth so it's harder for someone to take without talking.
-* **Raffle something.** I'm not a fan of raffles as a way to get sales, but I do like them at tradeshows because it gets a crowd to appear at your booth. Crowds make other people think your booth is interesting. We've seen people stop by our booth a day after a big crowd saying "I didn't want to stop yesterday because you guys were swamped, but I guess whatever you're doing is interesting!" Make sure you have to provide contact info to enter (fill form, scan badge, drop business card). Those leads won't be particularly qualified but it's better than nothing.
-* **Take names instead of pushing brochures**.  Attendees get dozens of pieces of paper pushed into their hands and pre-filled in their tote bags.  Even if yours is clever, funny, and useful, it's still going to be lost.  Instead of hand-outs, scan their badge or get a business card, and *mail* them something.  It will be waiting on their desk one morning without all the distraction of a tradeshow.
-* **Quality not quantity.** It's cliché, but it's better to have six solid conversations with people who will buy your software than to give away 200 pieces of branded swag to people who can't remember who you are.
+## في المعرض التجاري
+* **اختبر أ/ب خط الالتقاط الخاص بك.** وهذا لا يختلف عن صفحاتك المقصودة! يعد المعرض التجاري مكانًا رائعًا لاختبار جاذبي الانتباه. ما الذي يجعل الناس يتوقفون؟ أن تضحك؟ ليقول "حسنًا، عادل بما فيه الكفاية، أخبرني المزيد؟" اختبار جميع تظهر طويلة. بعد العرض الترويجي رقم 100، ستعرف بالضبط ما الذي يلفت انتباه الأشخاص - الآن **ضع ذلك على صفحتك الرئيسية!**
+* **اطرح الأسئلة بدلًا من الترويج.** الجميع "يطرحون" الأسئلة على الآخرين؛ كن مختلفًا وقم بإجراء محادثة بالفعل.  يهتم المتحدثون الجيدون حقًا بالشخص الآخر - ماذا يفعلون، وما الذي يهتمون به. إذا بدأت الدردشة فسوف *يطلبون منك عرضًا تقديميًا كشكل من أشكال المعاملة بالمثل.  ثم تحصل على إذن "للبيع"، وهم يستمعون حقًا.
+* **لا تسأل عن أحوالهم.** يجب أن يشركهم خطك الافتتاحي بشيء *على وجه التحديد* يجب أن تقدمه. "مرحبًا، كيف الحال" ليست مثيرة للاهتمام أو فريدة من نوعها. حتى مجرد "هل أنت مهتم بـ [الشيء الذي تفعله]" هو أفضل، على الرغم من أنه لا يزال ضعيفًا.
+* **اطرح الأسئلة، لا تنقلها فحسب.** من المؤكد أنك تريد عرض منتجاتك، ولكن **هذه فرصة رائعة لإجراء أبحاث سوقية مباشرة حول عملائك المحتملين!** اطرح من 3 إلى 5 أسئلة ستطرحها على الأشخاص الذين يمرون بجانب الكشك، ثم اطرحها. لا داعي لتسجيل النتائج بعناية، فالاتجاهات الكبيرة ستكون واضحة والباقي مجرد ضجيج.
+* **قف، لا تجلس.** الجلوس يبدو وكأنك لا تريد أن تكون هناك. انها غير جذابة. إن الفارق في ارتفاع الرأس أمر مزعج من الناحية النفسية. أعلم أن قدميك تؤلمانك؛ يقف.
+* **ادخل إلى الممر.** لا يعني وجود طاولة هناك أن عليك الوقوف خلفها. اخرج من سجنك الذي تبلغ مساحته 10 × 10 بوصات واشرك الناس في الممر. الأفضل هو أن يكون لديك شخص داخل المقصورة للتحدث مع الأشخاص الذين يصعدون، وآخر في الممر لجذب انتباه الأشخاص وتوجيههم إلى الداخل. خاصة أثناء حركة المرور المزدحمة، فإن مجرد وجود حاجز في المنتصف يجبر الناس على الضغط على كشكك، مما يمنحك فرصة للمشاركة. [تعلم من الرجل الذي يرتدي بدلة الدب](https://longform.asmartbear.com/guy-in-a-bear-suit/)!
+* **الصور المتحركة مذهلة.** عندما تجلس في حانة ويوجد تلفزيون خلف الشخص الذي تتحدث إليه، فمن الصعب جدًا ألا تنظر إليه، أليس كذلك؟ نحن نميل إلى النظر إلى الصور المتحركة، خاصة عندما تكون مشرقة. لذلك يجب أن تحتوي كشكتك على شاشة كبيرة أو الأفضل من ذلك جهاز عرض ساطع. لا تعرض فقط لقطة شاشة ثابتة أو صورة PowerPoint، ولا تتركها عالقة في المكان الذي توقف فيه العرض التوضيحي الأخير - احصل على فيلم تجريبي يجذب الأنظار. لقد فعلنا ذلك في Smart Bear ولا أستطيع إحصاء عدد المرات التي قال فيها بائع آخر "يا إلهي، علينا أن نفعل ذلك في العام المقبل."
+* ** كن قادرًا دائمًا على العرض التجريبي. ** ليس هناك ما هو أكثر صعوبة من العرض التجريبي المباشر. ليست غنيمة، ولا كتيبات، ولا عبارات ذكية، ولا سحوبات. تعتبر هذه الأشياء الأخرى جيدة - سواء للحصول على حركة المرور أو للتذكير - ولكنك تحتاج إلى عرض توضيحي لتجعل التجربة لا تُنسى. أفضّل العرض التوضيحي على جهاز عرض بحيث يكون كبيرًا بحيث يجذب المارة أيضًا، لكن الشاشة الكبيرة تعمل أيضًا. *كبيرة.* ليست شاشة الكمبيوتر المحمول الخاص بك.
+* **دوّن ملاحظات على بطاقات العمل.** ستتحدث إلى مئات الأشخاص؛ لن تتذكر أبدًا ما قاله أحد الأشخاص أو ما يريده. قم دائمًا بتدوين ذلك على بطاقة العمل *الخاصة بهم*. إذا كان لديهم واحدة من تلك البطاقات السخيفة التي لا يمكنك تدوين الملاحظات فيها (لماذا الناس، لماذا؟)، استخدم ورقة لاصقة من صندوق الأشياء الخاص بك للاحتفاظ بالملاحظات مع البطاقة.
+* **مندوبو المبيعات ليسوا كافيين.** معظم الحاضرين لا يريدون التحدث إلى مندوبي المبيعات على أية حال؛ إذا كانوا مهتمين على الإطلاق، فهم يريدون قضاء الوقت مع أقرانهم. قم بإعلام بعض هؤلاء الأشخاص الذين لا يتمكنون عادةً من إجراء مكالمات المبيعات.
+* ** قم ببناء حفلة الساعة السعيدة الخاصة بك ** استأجر غرفة في موقع المؤتمر أو بالقرب منه مع النبيذ والبيرة والأطعمة الأساسية. قم بتوزيع الدعوات في المعرض وعلى رسائل البريد الخاصة بك قبل العرض. من يستطيع مقاومة الخمر المجاني والطعام المجاني؟ إنه أرخص مما تعتقد ويمكنك عرض الأشخاص في جو مريح. الناس على استعداد للحديث عن منتجك للرد بالمثل.
+* **لا تعتمد على الإنترنت.** الإنترنت الخاص بالمعارض التجارية متقطع في أحسن الأحوال. *يجب* أن تعمل عروضك التوضيحية وتدوين الملاحظات دون الاتصال بالإنترنت.
+* **استخدم LinkedIn كل ليلة.** سيقبل معظم الأشخاص، خاصة إذا أضفت جهة الاتصال في نفس اليوم وأشرت إلى المؤتمر. استفد من هذه الفرصة لتوسيع شبكتك على الإنترنت بشكل كبير.
+* **تحدث إلى الجميع.** باعتبارك بائعًا زميلًا، يمكنك التعبير عن مدى تقدم العرض ومقارنته بالعروض الأخرى. حاول أن تفكر في طريقة يمكن لشركتك أن تعمل بها معًا؛ عادة لا ينجح الأمر ولكن المناقشة تساعدهم على تذكر هويتك. حاول تخطي مندوبي المبيعات لديهم. تعرف على المؤسس إذا كانت هناك.
+* **لاحظ النكات.** سوف يسخر منك الناس. في الواقع، إذا لم يفعلوا ذلك، فربما تكون هذه علامة سيئة لأنهم لا يستطيعون معرفة ما تفعله. عادة ما تحصل على بعض الشقوق الحكيمة. هذا مثير للاهتمام، أليس كذلك؟ يمكن أن يكون شيئًا جيدًا، ويمكن أن يكون شيئًا سيئًا.
+* **الطعام المجاني.** يعمل بشكل أفضل من أي شيء مجاني آخر تقريبًا. كلما كان الطعام "حقيقيًا" (أي ليس الحلوى فقط) كلما كان ذلك أفضل. ملفات تعريف الارتباط جيدة. ضعه في وسط كشكك حتى يصعب على أي شخص أن يأخذه دون أن يتحدث.
+* **السحب على شيء ما.** أنا لست من محبي السحوبات كوسيلة للحصول على المبيعات، ولكني أحبها في المعارض التجارية لأنها تجذب حشدًا من الناس للظهور في جناحك. الحشود تجعل الآخرين يعتقدون أن كشكك مثير للاهتمام. لقد رأينا أشخاصًا يتوقفون عند جناحنا بعد يوم من حشد كبير قائلين "لم أرغب في التوقف بالأمس لأنكم كنتم غارقين في العمل، ولكن أعتقد أن كل ما تفعلونه مثير للاهتمام!" تأكد من أنه يتعين عليك تقديم معلومات الاتصال لإدخالها (ملء النموذج، مسح الشارة، إسقاط بطاقة العمل). لن يكون هؤلاء العملاء المتوقعون مؤهلين بشكل خاص ولكنه أفضل من لا شيء.
+* ** خذ الأسماء بدلاً من نشر الكتيبات **.  يحصل الحاضرون على عشرات القطع من الورق التي يتم دفعها في أيديهم ويتم تعبئتها مسبقًا في حقائبهم.  حتى لو كان ما لديك ذكيًا ومضحكًا ومفيدًا، فسوف يضيع.  بدلاً من النشرات، قم بمسح شارتهم ضوئيًا أو احصل على بطاقة عمل، وأرسل لهم شيئًا بالبريد.  سيكون في انتظارهم على مكتبهم في صباح أحد الأيام دون أي تشتيت انتباه للمعرض التجاري.
+* **الجودة وليس الكمية.** هذا أمر مبتذل، ولكن من الأفضل إجراء ست محادثات قوية مع الأشخاص الذين سيشترون برنامجك بدلاً من تقديم 200 قطعة من الغنائم ذات العلامات التجارية للأشخاص الذين لا يستطيعون تذكر هويتك.
 
-## After the tradeshow
-* **Follow up!** Attendees are saturated with presentations and vendor pitches, so there's a 99% chance they've forgotten about you. Yes, even if they took your oh-so-memorable swag or your fabulously-designed brochure. It's up to you to follow up and remind them who you were, and take them up on their offer to get a demo, trial the software, or look at a draft of an article you want published.
+## بعد المعرض التجاري
+* **متابعة!** الحضور مشبعون بالعروض التقديمية وعروض البائعين، لذا هناك احتمال بنسبة 99% أنهم قد نسوك. نعم، حتى لو أخذوا غنيمتك التي لا تنسى أو كتيبك المصمم بشكل رائع. الأمر متروك لك للمتابعة وتذكيرهم بمن أنت، وقبول عرضهم للحصول على عرض توضيحي، أو تجربة البرنامج، أو الاطلاع على مسودة مقال تريد نشره.
 
-* **Apply what you learned about selling.** You talked to hundreds of people, pitching a hundred different ways, with mixed results. What did you learn? Some questions to get you started:
-  * Which one-liners got people's attention, and what did people not relate to?
-  * How can you incorporate the successful one-liners in your home page?
-  * What new AdWords text do you want to try?
-  * How should you change your 2-minute demo?
-  * What were people saying about your competition? What were your best retorts?
-* **Apply what you learned about your software.** Having to demo the product 50 times always uncovers invaluable product information. Some questions to get your started:
-  * What features did people ask about which you already have, but it wasn't obvious?
-  * What features did people keep asking for which you *don't* have?
-  * What part of your demo seemed to drag because your workflow wasn't easy enough?
-  * What part confused viewers because the interface wasn't obvious?
-  * What terminology made no sense to newbies?
-  * What did people hate about your competitors, and how can you maintain that advantage?
-  * What did people love about your competitors, and how can you close that gap?
+* **طبِّق ما تعلمته عن البيع.** لقد تحدثت إلى مئات الأشخاص، وعرضت مائة طريقة مختلفة، وكانت النتائج مختلطة. ماذا تعلمت؟ بعض الأسئلة لتبدأ:
+  * ما هي الخطوط التي جذبت انتباه الناس، وما الذي لم يرتبط به الناس؟
+  * كيف يمكنك دمج السطور الفردية الناجحة في صفحتك الرئيسية؟
+  * ما نص AdWords الجديد الذي تريد تجربته؟
+  * كيف يجب عليك تغيير العرض التوضيحي الذي تبلغ مدته دقيقتين؟
+  * ماذا قال الناس عن منافسيك؟ ما هي أفضل ردودك؟
+* **طبق ما تعلمته عن برنامجك.** إن الاضطرار إلى عرض المنتج 50 مرة يكشف دائمًا عن معلومات لا تقدر بثمن عن المنتج. بعض الأسئلة للبدء:
+  * ما هي الميزات التي سأل عنها الناس والتي تمتلكها بالفعل، ولكنها لم تكن واضحة؟
+  * ما هي الميزات التي ظل الناس يطلبونها والتي *لا تمتلكها*؟
+  * أي جزء من العرض التوضيحي الخاص بك بدا وكأنه متعثر لأن سير عملك لم يكن سهلاً بما فيه الكفاية؟
+  * ما هو الجزء الذي أربك المشاهدين لأن الواجهة لم تكن واضحة؟
+  * ما هي المصطلحات التي لا معنى لها للمبتدئين؟
+  * ما الذي يكرهه الناس في منافسيك، وكيف يمكنك الحفاظ على هذه الميزة؟
+  * ما الذي أحبه الناس في منافسيك، وكيف يمكنك سد هذه الفجوة؟
 
-Have fun!  It's fun too.
+استمتع!  إنها ممتعة أيضًا.

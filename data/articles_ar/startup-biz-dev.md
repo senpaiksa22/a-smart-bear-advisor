@@ -20,67 +20,54 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** لماذا تفشل صفقات الشراكة الاستراتيجية والتطوير التجاري للشركات الناشئة؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Why startup biz dev deals almost never get done
-
-> **Executive Summary:** Startups fail at biz dev because their proposals don't make sense to bigger companies. Here's how to adjust your approach.
-> **Original URL:** [https://longform.asmartbear.com/startup-biz-dev/](https://longform.asmartbear.com/startup-biz-dev/)
-
 ![Cartoon 33333d58](https://longform.asmartbear.com/startup-biz-dev/71128fbf.png)
 
-As the founder of WP Engine, I receive weekly emails from startups proposing a "[win-win](https://longform.asmartbear.com/authentic-is-dead/)" deal.  So far, approximately zero have resulted in a successful deal.
+باعتباري مؤسس WP Engine، أتلقى رسائل بريد إلكتروني أسبوعية من الشركات الناشئة تقترح صفقة "[مربحة للجانبين](https://longform.asmartbear.com/authentic-is-dead/)".  حتى الآن، ما يقرب من الصفر أدى إلى صفقة ناجحة.
 
-**Here's what they're doing wrong**, and how you can change your approach to business development so that it can succeed.
+**إليك الأخطاء التي يرتكبونها**، وكيف يمكنك تغيير أسلوبك في تطوير الأعمال حتى تحقق النجاح.
 
 ---
 
-Distribution is the hardest thing for a young startup, defined as "getting in front of potential customers." Large companies, on the other hand, have solved the distribution problem (proof: 100,000 paying customers).
+التوزيع هو أصعب شيء بالنسبة لشركة ناشئة، ويُعرف بأنه "الوصول إلى العملاء المحتملين". من ناحية أخرى، تمكنت الشركات الكبيرة من حل مشكلة التوزيع (الدليل: 100000 عميل يدفعون).
 
-But, startups make things that people love. Larger companies started that way, but [scale makes it hard](https://longform.asmartbear.com/scale/) to keep doing that while delivering quickly and with additional requirements.  This is one reason [why startups can beat incumbents](https://longform.asmartbear.com/startup-beats-incumbent/).
+لكن الشركات الناشئة تصنع أشياء يحبها الناس. بدأت الشركات الكبرى بهذه الطريقة، ولكن [الحجم يجعل من الصعب](https://longform.asmartbear.com/scale/) الاستمرار في القيام بذلك مع التسليم بسرعة وبمتطلبات إضافية.  وهذا هو أحد الأسباب [لمدى قدرة الشركات الناشئة على التغلب على الشركات القائمة](https://longform.asmartbear.com/startup-beats-incumbent/).
 
-When each party's weakness map onto the other party's strength, that feels like the kernel of a deal.
+عندما تتطابق نقاط ضعف كل طرف مع نقاط قوة الطرف الآخر، يبدو ذلك بمثابة نواة الصفقة.
 
-"Maybe," thinks the startup founder, "I can tap that asset."
+"ربما،" يعتقد مؤسس الشركة الناشئة، "يمكنني الاستفادة من هذا الأصل."
 
-But how to gain access? Big companies are surely scrounging around for new excuses to up-sell their customer base. However, big companies are neither adept nor efficient at innovation, thus they lack up-sell material. But that's what startups are good at! Fresh product.
+ولكن كيف يمكن الوصول؟ من المؤكد أن الشركات الكبرى تبحث عن أعذار جديدة لزيادة مبيعات قاعدة عملائها. ومع ذلك، فإن الشركات الكبرى ليست ماهرة ولا فعالة في الابتكار، وبالتالي فهي تفتقر إلى المواد اللازمة للترويج لها. ولكن هذا ما تجيده الشركات الناشئة! منتج طازج.
 
-Thus, the startup founder poses a deal in classic micro-economics-101 fashion. Let's trade innovation for distribution. Large company should send a few emails to its customer base, generating easy sales at no cost, and the revenues are split. Money for nothing, gross margin for free.
+وهكذا، يطرح مؤسس الشركة الناشئة صفقة بأسلوب الاقتصاد الجزئي الكلاسيكي. دعونا نستبدل الابتكار بالتوزيع. يجب على الشركات الكبيرة إرسال عدد قليل من رسائل البريد الإلكتروني إلى قاعدة عملائها، مما يؤدي إلى تحقيق مبيعات سهلة دون أي تكلفة، ويتم تقسيم الإيرادات. المال مقابل لا شيء، هامش الربح الإجمالي مجانا.
 
-However, this [win-steeped](https://longform.asmartbear.com/creativity-over-optimization/) proposal is never accepted by the big company. The problem is, once again, their scale: The amount of revenue in question is not interesting for the big company, yet it requires the big company to spend something not accounted for in the above equation: Reputation.
+ومع ذلك، فإن هذا الاقتراح [المربح للربح](https://longform.asmartbear.com/creativity-over-optimization/) لم يتم قبوله أبدًا من قبل الشركة الكبيرة. تكمن المشكلة، مرة أخرى، في حجمها: إن حجم الإيرادات المعني ليس مثيرًا للاهتمام بالنسبة للشركة الكبيرة، ومع ذلك فهو يتطلب من الشركة الكبيرة إنفاق شيء لم يتم احتسابه في المعادلة أعلاه: السمعة.
 
-To see why, let's use an example from my own company [WP Engine](https://wpengine.com) where we serve millions of websites belonging to hundreds of thousands of paying customers. A typical email will be from a WordPress plug-in or theme inventor, who has a product selling for $20, $50, or even $200, that they would like to market to our customers. They point out that a subset of our customers *must* genuinely desire the functionality of the plugin, and thus this is in fact a *service* to our customers, not to mention a way for both of us to make easy money.
+لمعرفة السبب، دعنا نستخدم مثالاً من شركتي [WP Engine](https://wpengine.com) حيث نخدم ملايين مواقع الويب التي تنتمي إلى مئات الآلاف من العملاء الذين يدفعون. ستكون رسالة البريد الإلكتروني النموذجية من أحد مكونات WordPress الإضافية أو مخترع السمات، الذي لديه منتج يباع بمبلغ 20 دولارًا أو 50 دولارًا أو حتى 200 دولار، ويرغب في تسويقه لعملائنا. ويشيرون إلى أن مجموعة فرعية من عملائنا *يجب* أن يرغبوا حقًا في وظيفة البرنامج الإضافي، وبالتالي فإن هذه في الواقع *خدمة* لعملائنا، ناهيك عن وسيلة لكل منا لكسب المال بسهولة.
 
-But let's look at the economics. Let's be extremely optimistic and say that 1% of our customer base converts and buys the theme. Let's also assume that WP Engine will receive $50 per sale, which is higher than the typical offer.
+ولكن دعونا ننظر إلى الاقتصاد. لنكن متفائلين للغاية ونقول أن 1% من قاعدة عملائنا يقومون بتحويل وشراء السمة. لنفترض أيضًا أن WP Engine سيحصل على 50 دولارًا لكل عملية بيع، وهو أعلى من العرض النموذجي.
 
-Looking at our pricing [from 2014], you know some customers give us $29/mo, and many (most?) pay $99/mo or more, so assume an average of $50/mo[^1]. So this biz dev proposal means 1% of our customers will give us an extra one months' revenue. That equates to a 1% revenue boost. For just one month; next month we *don't* get that boost. Increasing revenue by 1% for just one month is completely uninteresting to any company of any size--it's not enough to even discuss or negotiate.
+بالنظر إلى أسعارنا [من عام 2014]، فإنك تعلم أن بعض العملاء يقدمون لنا 29 دولارًا أمريكيًا/شهريًا، ويدفع العديد (معظمهم؟) 99 دولارًا أمريكيًا/شهريًا أو أكثر، لذا افترض أن متوسط ​​50 دولارًا أمريكيًا/شهريًا[^1]. لذا فإن اقتراح تطوير الأعمال هذا يعني أن 1% من عملائنا سيمنحوننا إيرادات إضافية لمدة شهر واحد. وهذا يعادل زيادة في الإيرادات بنسبة 1٪. لمدة شهر واحد فقط؛ في الشهر القادم *لن* نحصل على هذه الدفعة. إن زيادة الإيرادات بنسبة 1% لمدة شهر واحد فقط أمر غير مثير للاهتمام على الإطلاق لأي شركة مهما كان حجمها - فهي لا تكفي حتى للمناقشة أو التفاوض.
 
-[^1]:  The true average is higher but this makes the math simple.
+[^1]: المتوسط ​​الحقيقي أعلى ولكن هذا يجعل العملية الحسابية بسيطة.
 
-By definition a company earns 1% of their monthly revenue in about 8 hours. Increasing revenue, once, by 8 hours, isn't interesting.
+حسب التعريف، تكسب الشركة 1% من إيراداتها الشهرية في حوالي 8 ساعات. زيادة الإيرادات، مرة واحدة، بمقدار 8 ساعات، ليست مثيرة للاهتمام.
 
-And in exchange, you're essentially asking us to spam our customer base.
+وفي المقابل، أنت تطلب منا إرسال رسائل غير مرغوب فيها إلى قاعدة عملائنا.
 
-**A much better approach for business development is by answering this question:**
+**أفضل طريقة لتطوير الأعمال هي الإجابة على هذا السؤال:**
 
-How can the smaller company make money for the larger company *in the manner that the larger company already makes money?*
+كيف يمكن لشركة صغيرة أن تجني المال للشركة الأكبر *بنفس الطريقة التي تحقق بها الشركة الأكبر المال بالفعل؟*
 
-Said another way, how can you grow the larger company in a way that matches their existing business model?
+وبطريقة أخرى، كيف يمكنك تنمية الشركة الأكبر بطريقة تتوافق مع نموذج أعمالها الحالي؟
 
-In our working example, the question is: How can you create new hosting customers for WP Engine? For example, when you sell your plug-in or theme you could ask your own customers whether they'd like to purchase hosting as well, maybe for a limited-time discount. If you can generate a couple of dozen new hosting customers per month, that can move the needle for us, not because that's a huge percentage of our overall growth, but because that revenue repeats month after month. Also, even a small customer might recommend others, and we can understand that value even if we don't track it.
+في مثالنا العملي، السؤال هو: كيف يمكنك إنشاء عملاء استضافة جدد لـ WP Engine؟ على سبيل المثال، عندما تبيع مكونك الإضافي أو قالبك، يمكنك أن تسأل عملائك عما إذا كانوا يرغبون في شراء استضافة أيضًا، ربما للحصول على خصم لفترة محدودة. إذا كان بإمكانك توليد بضع عشرات من عملاء الاستضافة الجدد شهريًا، فيمكن أن يحرك هذا الإبرة بالنسبة لنا، ليس لأن هذه نسبة كبيرة من نمونا الإجمالي، ولكن لأن هذه الإيرادات تتكرر شهرًا بعد شهر. كما أن حتى العميل الصغير قد يوصي بآخرين، ويمكننا أن نفهم تلك القيمة حتى لو لم نتتبعها.
 
-With that arrangement in place, it would be easy to justify an announcement to our customers that we have a new partner who is optimized for our hosting platform, both in code and in business, and therefore is a solution they should indeed seriously consider.
+مع وجود هذا الترتيب، سيكون من السهل تبرير الإعلان لعملائنا بأن لدينا شريكًا جديدًا تم تحسينه لمنصة الاستضافة الخاصة بنا، سواء في الكود أو في الأعمال، وبالتالي فهو حل يجب عليهم التفكير فيه بجدية.
 
-If you can bring customers to a big company--even a few--rather than milking their existing customers for a sliver of revenue, you're much more likely to execute a deal that genuinely makes both of you significant money.
+إذا تمكنت من جلب العملاء إلى شركة كبيرة - حتى لو كان عدد قليل منها - بدلاً من حلب عملائها الحاليين للحصول على جزء صغير من الإيرادات، فمن الأرجح أن تقوم بتنفيذ صفقة تدر على كلاكما أموالاً كبيرة حقًا.
 
-Or, find a mechanism that generates material revenue for the larger company.  "Material" is 2% or more of their top-line revenue, repeatedly.
+أو ابحث عن آلية تدر إيرادات مادية للشركة الأكبر.  تمثل "المواد" 2% أو أكثر من إجمالي إيراداتهم بشكل متكرر.
 
-Not easy to find? Of course not; that's why most biz dev deals don't work.
+ليس من السهل العثور عليها؟ بالطبع لا؛ لهذا السبب لا تنجح معظم صفقات تطوير الأعمال.
 
-But now you know the criteria for creating a deal that might actually work, might actually be the elusive "win-win," and might mint your company.
+لكنك الآن تعرف معايير إنشاء صفقة قد تنجح بالفعل، وقد تكون في الواقع "مربحًا للجانبين" بعيد المنال، وقد تبرم شركتك.

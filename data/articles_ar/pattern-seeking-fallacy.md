@@ -20,125 +20,112 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** مغالطة البحث عن أنماط وهمية في فوضى البيانات الريادية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The Pattern-Seeking Fallacy
-
-> **Executive Summary:** We humans are terrible at discerning patterns from randomness, and in marketing data we unwittingly find "insights" that are actually noise. Here's how to fix that.
-> **Original URL:** [https://longform.asmartbear.com/pattern-seeking-fallacy/](https://longform.asmartbear.com/pattern-seeking-fallacy/)
-
 ![Which of these sets of dots were placed randomly? We think "right," but the answer is "left." Humans are bad at seeing the difference between patterns and randomness. (From Steven Pinker's The Better Angels of Our Nature 2011)](https://public.asmartbear.com/books/anthology/chapters/pattern-seeking-fallacy/d15089890159-27acc5046c-o-simple.png)
 
-What do these have in common?
+ما هو القاسم المشترك بين هؤلاء؟
 
-* "This pitcher has retired 5 of the last 7 batters."
-* "We tried 10 AdWords variants and combination D is the clear winner."
-* "The Bible Code predicted the Sept 11 attacks 5,000 years ago."
-* "We sliced our Google Analytics data every which way, and these 4 patterns emerged."
+* "لقد اعتزل هذا الرامي 5 من آخر 7 لاعبين."
+* "لقد جربنا 10 أشكال مختلفة من AdWords وكانت المجموعة D هي الفائز الواضح."
+* "لقد تنبأت مدونة الكتاب المقدس بهجمات 11 سبتمبر قبل 5000 عام."
+* "لقد قمنا بتقسيم بيانات Google Analytics الخاصة بنا بكل الطرق، وظهرت هذه الأنماط الأربعة."
 
-All are examples of a common fallacy that I'm dubbing the "Pattern-Seeker."
+كلها أمثلة على مغالطة شائعة أطلق عليها اسم "الباحث عن الأنماط".
 
-You probably laugh at Nostradamus, yet it's likely you're committing the same error with your own data.
+ربما تضحك على نوستراداموس، ولكن من المحتمل أنك ترتكب نفس الخطأ فيما يتعلق ببياناتك الخاصة.
 
-## Patterns in Chaos
+## أنماط في الفوضى
 
-It's commonly said that basketball players are "streaky"--they get on a roll hitting 3-pointers (have a "hot hand") or develop a funk where they can't seem to land a shot ("gone cold"). These observations are made by fans, announcers, pundits, and the players themselves.
+من الشائع أن يقال أن لاعبي كرة السلة "مخطّطون" - فهم يسددون رميات ثلاثية (لديهم "يد ساخنة") أو يطورون حالة من الفوضى حيث لا يبدو أنهم يسددون الكرة ("أصبحوا باردين"). يتم تقديم هذه الملاحظات من قبل المشجعين والمذيعين والنقاد واللاعبين أنفسهم.
 
 ![he can play like this but hell only be able to give 105 percent](https://public.asmartbear.com/books/anthology/chapters/pattern-seeking-fallacy/d3008print-simple.png)
 
-In 1985 Thomas Gilovich tested whether players really did exhibit streaky behavior. It's simple--just record hits and misses in strings like: `HMHHMMMMHMMHH`, then use [standard statistical tests](https://en.wikipedia.org/wiki/Autocorrelation) to measure whether those strings are typical of a random process, or whether there is something more systematic going on.
+في عام 1985، اختبر توماس جيلوفيتش ما إذا كان اللاعبون يظهرون بالفعل سلوكًا معرقًا. الأمر بسيط - ما عليك سوى تسجيل النتائج والأخطاء في سلاسل مثل: `HMHHMMMMHMMHH`، ثم استخدم [الاختبارات الإحصائية القياسية](https://en.wikipedia.org/wiki/Autocorrelation) لقياس ما إذا كانت هذه السلاسل نموذجية لعملية عشوائية، أو ما إذا كان هناك شيء أكثر منهجية يحدث.
 
-Turns out players are *not* streaky;[^1] simply flipping a coin produces the same sort of runs of `H`'s and `M`'s. The scientists gleefully explained this result to basketball pundits; the pundits remained unimpressed and unconvinced. (Surprised?)
+اتضح أن اللاعبين *ليسوا* مخططين؛[^1] يؤدي مجرد رمي العملة إلى إنتاج نفس النوع من تشغيل `H''s و`M`'s. وقد شرح العلماء هذه النتيجة بكل سرور لنقاد كرة السلة. ظل النقاد غير متأثرين وغير مقتنعين. (متفاجئ؟)
 
-[^1]: *Editor's Note:* Eight years after this article was published, a critical analysis of the Gilovich data suggested that perhaps there _is_ such a thing as the "hot hand." Others joined the fray; the final result is inconclusive. [More from Wikipedia](https://en.wikipedia.org/wiki/Hot_hand). What we _can_ conclude, is that it's extremely difficult to know whether something is random, even when you're a paper-writing statistician.
+[^1]: *ملاحظة المحرر:* بعد ثماني سنوات من نشر هذه المقالة، أشار تحليل نقدي لبيانات جيلوفيتش إلى أنه ربما يكون هناك شيء مثل "اليد الساخنة". وانضم آخرون إلى المعركة. النتيجة النهائية غير حاسمة. [المزيد من ويكيبيديا](https://en.wikipedia.org/wiki/Hot_hand). ما يمكن أن نستنتجه هو أنه من الصعب للغاية معرفة ما إذا كان شيء ما عشوائيًا، حتى عندما تكون إحصائيًا كاتبًا للأبحاث.
 
-So they tried the same experiment backward: They created their own strings of `H`'s and `M`'s with varying degrees of true streakiness and showed those to pundits and fans, asking them to classify which were streaky and which were random. Again they failed completely, much like the "star field" test at the top of the article.
+لذا فقد جربوا نفس التجربة بشكل عكسي: قاموا بإنشاء سلاسل خاصة بهم من "H" و"M" بدرجات متفاوتة من الخطوط الحقيقية وعرضوها على النقاد والمعجبين، وطلبوا منهم تصنيف أي منها مخطط وأيها عشوائي. ومرة أخرى، فشلوا تمامًا، تمامًا مثل اختبار "المجال النجمي" الموجود في أعلى المقالة.
 
-We perceive patterns in randomness, and it extends beyond casual situations like basketball punditry, plaguing us even when we're trying to be intentionally, objectively analytical.
+نحن ندرك الأنماط في العشوائية، وهي تمتد إلى ما هو أبعد من المواقف غير الرسمية مثل النقد في كرة السلة، مما يصيبنا حتى عندما نحاول أن نكون تحليليين بشكل متعمد وموضوعي.
 
-Take the "interesting statistic" given by the baseball announcers in the first example above. Sure the last 5 of 7 batters were retired, but the act of **picking the number 7 implies that number 8 got on base, and so did the one before the sample window.** So it's at least "5 of 9," not "5 of 7," but that doesn't sound as impressive, even though it's the same data.
+خذ "الإحصائيات المثيرة للاهتمام" التي قدمها مذيعو لعبة البيسبول في المثال الأول أعلاه. من المؤكد أن آخر 5 من 7 ضاربين قد تم سحبهم، ولكن اختيار الرقم 7 يعني أن الرقم 8 وصل إلى القاعدة، وكذلك الرقم الذي كان قبل نافذة العينة. ** إذن فهو على الأقل "5 من 9"، وليس "5 من 7"، لكن هذا لا يبدو مثيرًا للإعجاب، على الرغم من أنها نفس البيانات.
 
-Unlike the basketball example, the baseball announcer's error runs deeper, and following that thread will bring us to our own marketing data and the heart of the fallacy.
+على عكس مثال كرة السلة، فإن خطأ مذيع البيسبول أعمق، وتتبع هذا الخيط سيوصلنا إلى بياناتنا التسويقية وجوهر المغالطة.
 
-## Seeking combinations
+## تسعى مجموعات
 
-Baseball statisticians record a dizzying smorgasbord of statistics that announcers eagerly regurgitate. Maybe it's because baseballers are a little OCD (evidenced by pre-bat and pre-pitch rituals) or maybe it's because they need something to say to soak up the time between pitches, but in any case the result is a mountain of data.
+يسجل الإحصائيون في لعبة البيسبول مجموعة متنوعة مذهلة من الإحصائيات التي يتقيأها المذيعون بفارغ الصبر. ربما يرجع السبب في ذلك إلى أن لاعبي البيسبول يعانون من الوسواس القهري قليلاً (كما يتضح من طقوس ما قبل المضرب وما قبل الملعب) أو ربما لأنهم بحاجة إلى شيء يقولونه لامتصاص الوقت بين الملاعب، ولكن على أي حال فإن النتيجة هي جبل من البيانات.
 
-Announcers exploit that data for the most esoteric of observations:
+يستغل المذيعون تلك البيانات للحصول على أكثر الملاحظات سرية:
 
-> "You know, Rodriguez is 7 for 8 against left-handed pitchers in asymmetric ballparks when the tide is going out during El Niño."
+> "كما تعلم، رودريغيز هو 7 مقابل 8 ضد الرماة الذين يستخدمون اليد اليسرى في ملاعب كرة غير متماثلة عندما ينحسر المد خلال ظاهرة النينيو."
 
-**This is the epitome of Pattern-Seeking--combing through a mountain of data until you find a pattern.**
+**هذا هو مثال البحث عن الأنماط--التمشيط عبر جبل من البيانات حتى تجد النمط.**
 
-Some statistician examined millions of combinations of player data and external factors until he happened across a combination which included a "7 of the last 8," which sure sounds impressive and relevant. Then he proudly delivered the result as if it were insight.
+قام بعض الإحصائيين بفحص الملايين من مجموعات بيانات اللاعبين والعوامل الخارجية حتى عثر على مجموعة تضمنت "7 من آخر 8"، والتي تبدو بالتأكيد مثيرة للإعجاب وذات صلة. ثم ألقى النتيجة بكل فخر وكأنها بصيرة.
 
-So what's wrong with stumbling across curious observations? Isn't that how you make unexpected discoveries?
+إذن، ما العيب في التعثر في ملاحظات غريبة؟ أليست هذه هي الطريقة التي تقوم بها باكتشافات غير متوقعة؟
 
-No, it's how to convince yourself you've made a discovery when in fact you're looking at pure randomness. Let's see why.
+لا، إنها كيفية إقناع نفسك بأنك قد توصلت إلى اكتشاف بينما في الحقيقة أنت تنظر إلى عشوائية خالصة. دعونا نرى لماذا.
 
-Perhaps the best example of this is the famous [Bible Code](https://en.wikipedia.org/wiki/Bible_code)--a "discovery" (turned into a best-selling book) that all sorts of predictions have been cleverly hidden in the Bible. We're supposed to then be excited with the tantalizing prospect of finding new predictions (though of course none were proffered).
+ولعل أفضل مثال على ذلك هو [شفرة الكتاب المقدس] الشهيرة (https://en.wikipedia.org/wiki/Bible_code) - "الاكتشاف" (الذي تحول إلى كتاب الأكثر مبيعًا) حيث تم إخفاء جميع أنواع التنبؤات بذكاء في الكتاب المقدس. من المفترض بعد ذلك أن نكون متحمسين للاحتمال المحير المتمثل في العثور على تنبؤات جديدة (رغم أنه لم يتم تقديم أي منها بالطبع).
 
-The encoding worked as follows: Strip out everything that's not a letter (e.g. punctuation, whitespace, and so on), and arrange the letters in a grid. Then, look for works encoded along regular intervals of rows and columns in that grid. For example, Figure 1.
+يعمل التشفير على النحو التالي: قم بإزالة كل ما ليس حرفًا (مثل علامات الترقيم والمسافات البيضاء وما إلى ذلك)، وقم بترتيب الحروف في شبكة. ثم ابحث عن الأعمال المشفرة على فترات منتظمة من الصفوف والأعمدة في تلك الشبكة. على سبيل المثال، الشكل 1.
 
 ![example correlation from the Bible Code](https://public.asmartbear.com/books/anthology/chapters/pattern-seeking-fallacy/bible-code-example-simple.png)
 
-Words might be found at any interval, with any sized grid, so we'll have to experiment with many combinations. When we do, we find all sorts of words and phrases that match things that happened in the past two thousand years.
+يمكن العثور على الكلمات في أي فاصل زمني، وبأي حجم للشبكة، لذلك سيتعين علينا تجربة العديد من المجموعات. وعندما نفعل ذلك، نجد كل أنواع الكلمات والعبارات التي تتطابق مع الأشياء التي حدثت في الألفي عام الماضية.
 
-At this point, you should already see the problem. A huge set of letters, in a huge set of combinations, will automatically create words that you recognize. Indeed, why didn't we mention which translation we were using? Why does this work in English when it wasn't originally written in English? Because none of it matters.
+في هذه المرحلة، يجب أن ترى المشكلة بالفعل. مجموعة ضخمة من الحروف، في مجموعة ضخمة من المجموعات، ستنشئ تلقائيًا كلمات تتعرف عليها. في الواقع، لماذا لم نذكر الترجمة التي كنا نستخدمها؟ لماذا يعمل هذا باللغة الإنجليزية عندما لم يكن مكتوبًا باللغة الإنجليزية في الأصل؟ لأن لا شيء من ذلك يهم.
 
-Indeed, when you look for encoded messages in _War and Peace_ using the same methods, [you also get coded messages](https://chance.dartmouth.edu/chance_news/full_text/6.12/CodesinWarPeace.html). All you need is a lot of letters and combinations.
+في الواقع، عندما تبحث عن الرسائل المشفرة في _الحرب والسلام_ باستخدام نفس الأساليب، [تحصل أيضًا على رسائل مشفرة](https://chance.dartmouth.edu/chance_news/full_text/6.12/CodesinWarPeace.html). كل ما تحتاجه هو الكثير من الحروف والمجموعات.
 
-Not unlike your A/B tests and combinations of "patterns" in your web analytics software.
+لا يختلف عن اختبارات A/B ومجموعات "الأنماط" في برنامج تحليلات الويب الخاص بك.
 
-## Even a fair coin appears unfair if you're Pattern-Seeking
+## حتى العملة العادلة تبدو غير عادلة إذا كنت تبحث عن الأنماط
 
-The fallacy is clearer when you look at an extreme yet accurate analogy.
+تصبح المغالطة أكثر وضوحًا عندما تنظر إلى تشبيه متطرف ولكنه دقيق.
 
-I'm running an experiment to test whether a certain coin is biased. During one "trial" I'll flip the coin 10 times and count how often it comes up heads. 5 heads out of 10 would suggest a fair coin; so would 6 or even 7, due to typical random variation.
+أقوم بإجراء تجربة لاختبار ما إذا كانت عملة معينة متحيزة. خلال "تجربة" واحدة، سأقلب العملة 10 مرات وأحسب عدد مرات ظهور الصورة. 5 صور من أصل 10 تشير إلى عملة معدنية عادلة؛ وكذلك الأمر بالنسبة إلى 6 أو حتى 7، وذلك بسبب الاختلاف العشوائي النموذجي.
 
-What if I get 10 heads in a row? Well a fair coin *could* exhibit that behavior, but it would be rare--a 1 in 1024 event. So if my experiment consists of just one trial and I get 10 heads, the coin is suspicious.
+ماذا لو حصلت على 10 رؤوس متتالية؟ حسنًا، يمكن أن تُظهر العملة العادلة هذا السلوك، لكنه سيكون نادرًا - حدث 1 في 1024. لذا، إذا كانت تجربتي تتكون من تجربة واحدة فقط وحصلت على 10 صور، فإن العملة تكون مشبوهة.
 
-But suppose I did a "10-flip trial" one thousand times. A fair coin should still come up heads 3-7 times in each trial, but every once in a while it will come up 9 or 10 times. **Those events are rare, but I'm flipping so much that rare events will naturally occur.** In fact, in 1000 trials there's a 62% chance that I'll see 10 heads at least once.
+لكن لنفترض أنني قمت بإجراء "تجربة 10 شقلبات" ألف مرة. يجب أن تظهر العملة العادلة على الصورة من 3 إلى 7 مرات في كل تجربة، ولكن بين الحين والآخر ستظهر 9 أو 10 مرات. **تلك الأحداث نادرة، لكنني أقلب كثيرًا لدرجة أن الأحداث النادرة ستحدث بشكل طبيعي. ** في الواقع، في 1000 تجربة، هناك احتمال بنسبة 62% أن أرى 10 رؤوس مرة واحدة على الأقل.
 
-This is the crux of the fallacy. When an experiment produces a result that is highly unlikely to have happened by chance, you conclude that something systematic is at work. But when you're "seeking interesting results" instead of performing an experiment, highly unlikely events will *necessarily* happen, yet still you conclude something systematic is at work.
+وهذا هو جوهر المغالطة. عندما تنتج إحدى التجارب نتيجة من غير المرجح أن تكون قد حدثت عن طريق الصدفة، فإنك تستنتج أن هناك شيئًا منهجيًا يحدث. ولكن عندما "تبحث عن نتائج مثيرة للاهتمام" بدلاً من إجراء تجربة، فإن أحداثًا غير محتملة إلى حد كبير ستحدث *بالضرورة*، ومع ذلك تستنتج أن شيئًا منهجيًا يحدث.
 
-Indeed, this is one reason why [scaling a business is so hard](https://longform.asmartbear.com/scale/): [Scale makes rare things common](https://longform.asmartbear.com/scale-rare/).
+في الواقع، هذا هو أحد أسباب [صعوبة توسيع نطاق الأعمال التجارية](https://longform.asmartbear.com/scale/): [الحجم يجعل الأشياء النادرة شائعة](https://longform.asmartbear.com/scale-rare/).
 
-## Bringing it home to marketing and sales data
+## إعادته إلى بيانات التسويق والمبيعات
 
-Let's apply the general lesson of the coin-flipping experiment to Google Analytics. There's a hundred ways to slice and dice data, so that's what you do. If you compare enough variables enough ways, you'll find some correlations:
+فلنطبق الدرس العام من تجربة رمي العملة على Google Analytics. هناك مائة طريقة لتقسيم البيانات إلى شرائح، وهذا ما تفعله. إذا قمت بمقارنة ما يكفي من المتغيرات بطرق كافية، فستجد بعض الارتباطات:
 
-> "Oh look, when we use landing page variation C along with AdWord text F, our conversion rate is really high on Monday mornings."
+> "أوه، عندما نستخدم الشكل C للصفحة المقصودة مع نص AdWord F، يكون معدل التحويل لدينا مرتفعًا جدًا في صباح يوم الاثنين."
 
-**Except you sound just like the baseball announcer**, tumbling combinations of factors until something "significant" falls out.
+**إلا أنك تبدو مثل مذيع لعبة البيسبول**، حيث تتقلب مجموعات من العوامل حتى يسقط شيء "مهم".
 
-**Except you're running 1000 coin-flip trials**, looking only at the trial where it came up all heads and declaring the coin "biased."
+**باستثناء أنك تجري 1000 تجربة لقلب العملة المعدنية**، فلا تنظر إلا إلى التجربة التي ظهرت فيها كل الرؤوس وتعلن أن العملة "متحيزة".
 
-**Except you're seeing streaks**, hoping that this extra-high conversion rate is evidence of a systematic, controllable force.
+**إلا أنك ترى خطوطًا**، على أمل أن يكون معدل التحويل المرتفع هذا دليلاً على وجود قوة منهجية يمكن التحكم فيها.
 
-## The solution: Form a theory, test the theory
+## الحل: قم بتكوين نظرية، واختبر النظرية
 
-You can use apparent patterns to form a theory; that's good.
+يمكنك استخدام الأنماط الواضحة لتكوين نظرية؛ هذا جيد.
 
-> "The most exciting phrase in science isn't "eureka," but rather, "that's funny."  
-> --Isaac Asimov
+> "إن العبارة الأكثر إثارة في العلم ليست "وجدتها"، بل "هذا مضحك".
+> - إسحاق عظيموف
 
-But then you have to test it, so that it's science, not baseball announcing.
+ولكن بعد ذلك عليك أن تختبره، بحيث يكون علمًا، وليس إعلانًا عن لعبة البيسبول.
 
-So:
+لذا:
 
-* Instead of using a thesaurus to generate 10 ad variants, decide what pain-points or language you think will grab potential customers and [test that theory specifically](https://longform.asmartbear.com/p-hacking/).
-* Instead of rooting around Google Analytics hoping to find a combination of factors with a good conversion rate, decide beforehand which conversion rates are important for which cohorts, then measure and track those only.
-* Instead of asking customers leading questions or collecting scattered thoughts, [form hypotheses and intentionally test them](https://longform.asmartbear.com/customer-development/).
-* Instead of blindly following the startup founder who dramatically succeeded ([the 1-in-1000 coin flip?](https://longform.asmartbear.com/survivor-bias/)), gather advice and observations that [align with your style and goals](https://longform.asmartbear.com/bad-advice/).
+* بدلاً من استخدام قاموس المرادفات لإنشاء 10 أشكال مختلفة للإعلانات، حدد نقاط الضعف أو اللغة التي تعتقد أنها ستجذب العملاء المحتملين و[اختبر هذه النظرية على وجه التحديد](https://longform.asmartbear.com/p-hacking/).
+* بدلاً من البحث في Google Analytics على أمل العثور على مجموعة من العوامل ذات معدل تحويل جيد، حدد مسبقًا معدلات التحويل المهمة بالنسبة لأي مجموعات، ثم قم بقياسها وتتبعها فقط.
+* بدلاً من طرح أسئلة إرشادية على العملاء أو جمع الأفكار المتناثرة، [قم بتكوين فرضيات واختبارها عمدًا](https://longform.asmartbear.com/customer-development/).
+* بدلاً من اتباع مؤسس الشركة الناشئة الذي نجح بشكل كبير ([قلب العملة بنسبة 1 في 1000؟](https://longform.asmartbear.com/survivor-bias/)) بشكل أعمى، اجمع النصائح والملاحظات التي [تتوافق مع أسلوبك وأهدافك](https://longform.asmartbear.com/bad-advice/).
 
-And then never stop testing your theories, because you never know when the environment changes, or you change, or you find something even better.
+وبعد ذلك لا تتوقف أبدًا عن اختبار نظرياتك، لأنك لا تعرف أبدًا متى تتغير البيئة، أو تتغير أنت، أو تجد شيئًا أفضل.
 
-> "There are two possible outcomes: if the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery."  
-> --Enrico Fermi
+> "هناك نتيجتان محتملتان: إذا كانت النتيجة تؤكد الفرضية، فقد قمت بالقياس. وإذا كانت النتيجة مخالفة للفرضية، فقد قمت باكتشاف."
+> --إنريكو فيرمي

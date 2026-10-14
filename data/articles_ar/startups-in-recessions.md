@@ -20,59 +20,46 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** أصغر من أن تفشل: كيف تنمو الشركات الناشئة وتزدهر في فترات الركود تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Too small to fail: How startups can grow in recessions
-
-> **Executive Summary:** These two little startups are exploding in sales, even in recession. Here's how they're doing it, and how you can too.
-> **Original URL:** [https://longform.asmartbear.com/startups-in-recessions/](https://longform.asmartbear.com/startups-in-recessions/)
-
-**A little product called [Bingo Card Creator](http://www.bingocardcreator.com/) just had its biggest month ever.** [Patrick McKenzie](http://www.kalzumeus.com/about/) runs this one-man software company.
+**لقد حقق منتج صغير يسمى [Bingo Card Creator](http://www.bingocardcreator.com/) أكبر شهر له على الإطلاق.** يدير [باتريك ماكنزي](http://www.kalzumeus.com/about/) شركة البرمجيات الفردية هذه.
 
 ![sales of Bingo Card Creator](https://longform.asmartbear.com/startups-in-recessions/06b92bcb.png)
 
-In fact, February, March and April were its [three biggest months](http://www.bingocardcreator.com/stats/sales-by-month) since its inception in 2006. **What recession?**
+في الواقع، كانت شهري فبراير ومارس وأبريل [أكبر ثلاثة أشهر](http://www.bingocardcreator.com/stats/sales-by-month) منذ إنشائها في عام 2006. **ما هو الركود؟**
 
-Yes, you read that right. The Bingo-card-generation-software industry is growing while every sector of the economy is simultaneously in the toilet.
+نعم، لقد قرأت ذلك بشكل صحيح. تنمو صناعة برمجيات إنشاء بطاقات البنغو بينما يكون كل قطاع من قطاعات الاقتصاد في المرحاض في وقت واحد.
 
-**Patrick McKensie is too small to fail.**
+**باتريك ماكينزي أصغر من أن يفشل.**
 
-Think Patrick is alone? [Balsamiq Studios](http://www.balsamiq.com/) is growing even faster. After their user interface mock-up design product netted $162k in their [first year of business](http://www.balsamiq.com/blog/2009/01/03/a-look-back-at-2008/), today they're making so much money [they're embarrassed about it](http://www.balsamiq.com/blog/2009/05/09/why-i-havent-been-blogging-as-much/). They [pulled in $35k](http://antoniocangiano.com/2009/04/13/startup-interviews-balsamiq-studio-llc/) during the first week of April alone.
+هل تعتقد أن باتريك وحيد؟ [استوديوهات Balsamiq] (http://www.balsamiq.com/) تنمو بشكل أسرع. بعد أن حقق منتج تصميم نموذج واجهة المستخدم الخاص بهم صافي 162 ألف دولار في [السنة الأولى من العمل](http://www.balsamiq.com/blog/2009/01/03/a-look-back-at-2008/)، اليوم يكسبون الكثير من المال [إنهم يشعرون بالحرج حيال ذلك] it](http://www.balsamiq.com/blog/2009/05/09/why-i-havent-been-blogging-as-much/). لقد [حصلوا على 35 ألف دولار](http://antoniocangiano.com/2009/04/13/startup-interviews-balsamiq-studio-llc/) خلال الأسبوع الأول من شهر أبريل وحده.
 
 ![sales of Balsamiq Mockups](https://longform.asmartbear.com/startups-in-recessions/d0289e9a.png)
 
-**Balsamiq Studios is too small to fail.**
+**استوديوهات Balsamiq أصغر من أن تفشل.**
 
-How?
+كيف؟
 
-If your [niche](https://longform.asmartbear.com/icp-ideal-customer-persona/) is small enough, the [customer need](https://longform.asmartbear.com/problem/) strong enough, your [marketing targeted](https://longform.asmartbear.com/specificity/) enough, your product good enough, your customers [happy enough](https://longform.asmartbear.com/willingness-to-pay/), they are going to buy, recession or not.
+إذا كان [التخصص](https://longform.asmartbear.com/icp-ideal-customer-persona/) صغيرًا بدرجة كافية، فإن [حاجة العميل](https://longform.asmartbear.com/problem/) قوية بما فيه الكفاية، و[التسويق المستهدف](https://longform.asmartbear.com/specity/) كافٍ، ومنتجك جيد بما فيه الكفاية، وعملاؤك [سعيدون] بما فيه الكفاية](https://longform.asmartbear.com/willingness-to-pay/)، سوف يشترون، سواء أكانوا في حالة ركود أم لا.
 
-That sounds like a lot of "if"s, but let me show you that it can work.
+يبدو هذا كثيرًا من "إذا"، لكن دعني أوضح لك أنه يمكن أن ينجح.
 
-If your goal is to have a huge company and sell $100,000,000 of software per year, you're going to have a tough time. You'll almost certainly fail, it will take years, it will take cooperation among many people you haven't yet met or hired, it will take a massive market, it will take beatable competitors, and it will probably take debt and/or investors. And yeah, a down economy could be your undoing.
+إذا كان هدفك هو إنشاء شركة ضخمة وبيع برامج بقيمة 100 مليون دولار سنويًا، فسوف تواجه وقتًا عصيبًا. من المؤكد أنك ستفشل، وسوف يستغرق الأمر سنوات، وسيتطلب تعاونًا بين العديد من الأشخاص الذين لم تقابلهم أو توظفهم بعد، وسيتطلب سوقًا ضخمة، وسيتطلب منافسين يمكن التغلب عليهم، ومن المحتمل أن يتطلب الأمر ديونًا و/أو مستثمرين. ونعم، يمكن أن يكون الاقتصاد المنخفض هو التراجع.
 
-**But if your goal is to run a smaller successful business and be independently wealthy, it's different.** If you'd be happy making $1,000,000/year or even $200,000/year, many potential problems fall away. A small, focused market changes the rules.
+**ولكن إذا كان هدفك هو إدارة مشروع صغير ناجح وأن تكون ثريًا بشكل مستقل، فالأمر مختلف. ** إذا كنت سعيدًا بجني مليون دولار سنويًا أو حتى 200000 دولار سنويًا، فإن العديد من المشكلات المحتملة ستختفي. السوق الصغيرة المركزة تغير القواعد.
 
-In a small, focused market, you don't need a big marketing budget to get noticed. You know where your customers hang out--the forums, blogs, community sites, influencers, local groups. You even know the keywords for AdWords and it's easy to optimize, like [Patrick did](http://www.kalzumeus.com/2007/11/10/conversion-optimizer-adwords-done-right/). It takes time--but not a lot of money--to participate and get noticed.
+في سوق صغيرة ومركزة، لا تحتاج إلى ميزانية تسويقية كبيرة حتى تتمكن من جذب الانتباه. أنت تعرف أين يتواجد عملاؤك - المنتديات والمدونات ومواقع المجتمع والمؤثرين والمجموعات المحلية. بل إنك تعرف الكلمات الرئيسية لبرنامج AdWords ومن السهل تحسينها، كما فعل [باتريك](http://www.kalzumeus.com/2007/11/10/conversion-optimizer-adwords-done-right/). يستغرق الأمر وقتًا - ولكن ليس الكثير من المال - للمشاركة وجذب الانتباه.
 
-In a small, focused market, you can become the world [expert](https://longform.asmartbear.com/expert-harmful/) of your niche. You can build the most popular blog, the most frequented forum, the best collection of how-tos, the most comprehensive eBook, the simplest, yet most complete software. Or, in my case, the most popular [paperback book](https://longform.asmartbear.com/impostor-syndrome/) on a subject (50,000 copies and counting).
+في سوق صغيرة ومركزة، يمكنك أن تصبح [الخبير] العالمي (https://longform.asmartbear.com/expert-harmful/) في مجال تخصصك. يمكنك إنشاء المدونة الأكثر شهرة، والمنتدى الأكثر ترددًا، وأفضل مجموعة من الإرشادات، والكتاب الإلكتروني الأكثر شمولاً، وأبسط البرامج وأكثرها اكتمالًا. أو، في حالتي، [الكتاب الورقي] الأكثر شهرة (https://longform.asmartbear.com/impostor-syndrome/) حول موضوع ما (50000 نسخة وما زال العدد في ازدياد).
 
-In a small, focused market, you can deal with competitors. The competition might be weak or there might be plenty of room for several winners. Competitors are easy to find and track and analyze. It's possible that you'll never see an [800-lb gorilla](https://longform.asmartbear.com/competing-big-companies/) because the addressable market is too small for them to ever be profitable (Microsoft isn't going to make a Bingo-card creator). Any other competitor starting now will be way behind; if you [keep moving](http://www.joelonsoftware.com/articles/fog0000000339.html) they won't catch up.
+في سوق صغير ومركز، يمكنك التعامل مع المنافسين. قد تكون المنافسة ضعيفة أو قد يكون هناك مجال كبير لعدد من الفائزين. من السهل العثور على المنافسين وتتبعهم وتحليلهم. من المحتمل أنك لن ترى أبدًا [غوريلا يبلغ وزنها 800 رطل] (https://longform.asmartbear.com/competing-big-companies/) لأن السوق القابلة للتوجيه صغير جدًا بحيث لا يمكن أن تكون مربحة على الإطلاق (لن تقوم Microsoft بإنشاء منشئ بطاقات Bingo). أي منافس آخر يبدأ الآن سيكون متأخراً كثيراً؛ إذا [واصلت التحرك](http://www.joelonsoftware.com/articles/fog0000000339.html) فلن يتمكنوا من اللحاق بالركب.
 
-In a small, focussed market, you can delight customers one by one. You can develop fans and cheerleaders [who will buy anything and everything you make](http://www.kk.org/thetechnium/archives/2008/03/1000_true_fans.php) and spread the word to everyone else in the community. You can quickly amass testimonials for your website that sell your services and products better than any brochure possibly could. It's easier than you think; just [be yourself](https://longform.asmartbear.com/be-yourself/).
+في سوق صغير ومركز، يمكنك إسعاد العملاء واحدًا تلو الآخر. يمكنك تطوير المعجبين والمشجعين [الذين سيشترون أي شيء وكل شيء تصنعه](http://www.kk.org/thetechnium/archives/2008/03/1000_true_fans.php) ونشر الكلمة لكل شخص آخر في المجتمع. يمكنك بسرعة جمع الشهادات لموقعك على الويب الذي يبيع خدماتك ومنتجاتك بشكل أفضل من أي كتيب. إنه أسهل مما تعتقد؛ فقط [كن على طبيعتك](https://longform.asmartbear.com/be-yourself/).
 
-In a small, focused market, recessions don't hit as hard. Your potential customers have a strong need, not a passing interest. Your existing customers have a personal relationship with you and will go out of their way to help you succeed, even in tough times. Because of your small size, 99.99% of your customers are still in your future, so there's always new customers to discover.
+في سوق صغيرة ومركزة، لا يكون الركود قويا. عملاؤك المحتملون لديهم حاجة قوية، وليس مصلحة عابرة. يتمتع عملاؤك الحاليون بعلاقة شخصية معك وسيبذلون قصارى جهدهم لمساعدتك على النجاح، حتى في الأوقات الصعبة. نظرًا لصغر حجمك، فإن 99.99% من عملائك ما زالوا في مستقبلك، لذلك هناك دائمًا عملاء جدد يمكنك اكتشافهم.
 
-Small means all sorts of options open up to you, that [incumbents can't compete with](https://longform.asmartbear.com/startup-beats-incumbent/) even if they try!
+صغير يعني أن جميع أنواع الخيارات متاحة لك، والتي [لا يستطيع شاغلو الوظائف التنافس معها](https://longform.asmartbear.com/startup-beats-incumbent/) حتى لو حاولوا!
 
-**Prevailing wisdom is that "small is risky." It's just the opposite. When you just need to be [Ramen-profitable](https://longform.asmartbear.com/ramen-profitable/), you can do so even in a recession.**
+**الحكمة السائدة هي أن "الصغيرة محفوفة بالمخاطر". إنه العكس تمامًا. عندما تحتاج فقط إلى أن تكون [رامن مربحًا](https://longform.asmartbear.com/ramen-profitable/)، يمكنك القيام بذلك حتى في فترات الركود.**
 
-Care to wager? In one year, who's more likely to survive: Balsamiq Studios, or a company with $30m paid-in capital that wasn't profitable even before the recession but has "amazing growth potential in a hot market?" **Whose founders are more likely to put $1m *cash* in their pocket over the next few years?**
+رعاية الرهان؟ في غضون عام واحد، من هو الأكثر احتمالا للبقاء على قيد الحياة: استوديوهات بالساميك، أم شركة برأس مال مدفوع قدره 30 مليون دولار لم تكن مربحة حتى قبل الركود ولكن لديها "إمكانات نمو مذهلة في سوق ساخنة؟" **من هم المؤسسون الأكثر احتمالاً لوضع مليون دولار *نقودًا* في جيوبهم خلال السنوات القليلة المقبلة؟**
 
-Remind me again--what's wrong with small?
+ذكرني مرة أخرى - ما العيب في الأشياء الصغيرة؟

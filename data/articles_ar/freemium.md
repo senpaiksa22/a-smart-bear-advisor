@@ -20,106 +20,93 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** ميكانيكا النماذج المجانية Freemium: متى تفتح أبواب النمو ومتى تصبح عبئاً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Reframing "Freemium" by charging the marketing department
-
-> **Executive Summary:** Freemium means high costs, low conversion, and customer feedback dominated by the non-ideal customer. Treat it as a marketing expense to ensure ROI.
-> **Original URL:** [https://longform.asmartbear.com/freemium/](https://longform.asmartbear.com/freemium/)
-
 ![by way im having special this month have one breakthrough get another free](https://public.asmartbear.com/books/anthology/chapters/freemium/d6178print-simple.png)
 
-Seems like every third startup nowadays is using the "Freemium" business model: The lowest service tier is free-forever (so it's easy to get started), with trip-wires thoughtfully arranged in all directions, causing "real users" who are getting "real value" to start paying.
+يبدو أن كل شركة ناشئة ثالثة في الوقت الحاضر تستخدم نموذج الأعمال "Freemium": أدنى مستوى من الخدمة مجاني إلى الأبد (لذا فمن السهل البدء)، مع ترتيب أسلاك التعثر بعناية في جميع الاتجاهات، مما يجعل "المستخدمين الحقيقيين" الذين يحصلون على "قيمة حقيقية" يبدأون في الدفع.
 
-It can work wonderfully of course, but usually it crushes companies, not only because of direct costs, but because the founders didn't realize the business model itself caused them to make incorrect strategic decisions.
+يمكن أن يعمل بشكل رائع بالطبع، لكنه عادةً ما يسحق الشركات، ليس فقط بسبب التكاليف المباشرة، ولكن لأن المؤسسين لم يدركوا أن نموذج العمل نفسه دفعهم إلى اتخاذ قرارات استراتيجية غير صحيحة.
 
-## Foibles of Freemium
+## نقاط ضعف الفريميوم
 
-Let's dispose of some misconceptions about what Freemium actually does for you and how much it costs.
+دعونا نتخلص من بعض المفاهيم الخاطئة حول ما يفعله Freemium لك بالفعل ومدى تكلفته.
 
-### Freemium is not customer development
+### Freemium ليس تطويرًا للعملاء
 
-Just imagine how much you'll learn once you have 1,000 real, *active* users of the system: Everything from behavioral statistics (which features are actually used) to democratic product development (voting on which features customers would like to see next).
+فقط تخيل مقدار ما ستتعلمه بمجرد أن يكون لديك 1000 مستخدم حقيقي *نشط* للنظام: كل شيء بدءًا من الإحصائيات السلوكية (أي الميزات المستخدمة فعليًا) وحتى تطوير المنتجات بشكل ديمقراطي (التصويت على الميزات التي يرغب العملاء في رؤيتها بعد ذلك).
 
-Trouble is, **those freemium users are not like those who will actually give you money.** Frequently the features that paying customers want don't show up on the free-riders' radar.
+المشكلة هي أن **هؤلاء المستخدمين المجانيين ليسوا مثل أولئك الذين سيعطونك المال فعليًا. ** في كثير من الأحيان، لا تظهر الميزات التي يريدها العملاء الذين يدفعون مقابل ذلك على رادار المستفيدين المجانيين.
 
-Think about it: Almost no freeloader will convert, ever. Even to the lowest tier. If you suddenly started charging merely $1/mo for your service, most would just quit. Why is that? Because the need, the interest-level, the value to that person isn't pressing enough for even a pittance. But those who will pay $10/mo or $100/mo *do* have needs, and it's not just a matter of scale, it's a difference *in kind*.
+فكر في الأمر: لن يقوم أي برنامج مستقل تقريبًا بالتحويل على الإطلاق. حتى إلى أدنى مستوى. إذا بدأت فجأة في تحصيل 1 دولار شهريًا فقط مقابل خدمتك، فسيتوقف معظمهم عن العمل. لماذا هذا؟ لأن الحاجة، ومستوى الاهتمام، والقيمة بالنسبة لذلك الشخص ليست ملحة بدرجة كافية حتى مقابل مبلغ زهيد. لكن أولئك الذين سيدفعون 10 دولارات شهريًا أو 100 دولار شهريًا *يفعلون* احتياجاتهم، والأمر لا يتعلق فقط بالحجم، بل إنه فرق *في النوع*.
 
-Counterintuitively, the freemium-tier customers _are not your target customer_, not your ["ICP"](https://longform.asmartbear.com/icp-ideal-customer-persona/). There are ICPs among those freemium users; your strategy is to use price as a sieve for those ICPs to rise up, giving them as much time as needed for them to realize it. 95% will never rise up.
+وعلى النقيض من الحدس، فإن عملاء الطبقة المجانية _ليسوا عميلك المستهدف_، وليسوا ["ICP"](https://longform.asmartbear.com/icp-ideal-customer-persona/). هناك ICPs بين مستخدمي freemium؛ استراتيجيتك هي استخدام السعر كغربال لبرامج المقارنات الدولية للارتقاء، مما يمنحها الوقت اللازم لتحقيق ذلك. 95% لن يرتفعوا أبداً.
 
-Your problem is that freemium users outnumber your paying customers 20:1 or even 100:1, so in feedback forums **they drown out the voices of those who actually matter**.
+مشكلتك هي أن عدد مستخدمي freemium يفوق عدد عملائك الذين يدفعون بنسبة 20:1 أو حتى 100:1، لذلك في منتديات التعليقات **تحجب أصوات الأشخاص المهمين حقًا**.
 
-### Freemium conversion rates makes marketing expensive
+### معدلات تحويل Freemium تجعل التسويق مكلفًا
 
-A really good conversion rate for free-to-paid is 4%, [like Dropbox](https://www.forbes.com/sites/victoriabarret/2012/11/13/dropbox-hits-100-million-users-says-drew-houston/). Awesome for them, but it [took a ton of work](https://x.com/StartupArchive_/status/1853781815821287845) to get there, with one of the most successful Freemium products of all time. Normal rates are more like 1%, especially when you remember that most freemium users not only won't convert, but won't even stay active.
+معدل التحويل الجيد حقًا للإصدارات المجانية إلى المدفوعة هو 4%، [مثل Dropbox](https://www.forbes.com/sites/victoriabarret/2012/11/13/dropbox-hits-100-million-users-says-drew-houston/). إنه أمر رائع بالنسبة لهم، ولكن [استغرق الأمر الكثير من العمل](https://x.com/StartupArchive_/status/1853781815821287845) للوصول إلى هذا الهدف، مع أحد أكثر منتجات Freemium نجاحًا على الإطلاق. المعدلات العادية هي أكثر من 1%، خاصة عندما تتذكر أن معظم مستخدمي freemium لن يقوموا بالتحويل فحسب، بل لن يظلوا نشطين أيضًا.
 
-I surveyed[^1] a dozen small startups who *don't* use freemium, and on average they see a 1% conversion rate from web traffic to purchase. The conversion rate to a free tier is higher than the conversion rate directly to a paid-tier (it'd better be, right?), but sadly it's not typically that much higher: 3%-5% is normal, 10% at the extreme. But you only get paid on the few percent of those freemium users who convert, which again might be 2%-5% (with outliers like Slack and Spotify which are around 30%), which means your total conversion rate of web visitors to actual money can be many times worse than other startups.[^2]
+لقد قمت بإجراء استبيان[^1] لعدد من الشركات الناشئة الصغيرة التي *لا* تستخدم فريميوم، وفي المتوسط ​​يرون معدل تحويل يبلغ 1% من حركة مرور الويب إلى الشراء. معدل التحويل إلى الطبقة المجانية أعلى من معدل التحويل مباشرة إلى الطبقة المدفوعة (من الأفضل أن يكون كذلك، أليس كذلك؟)، ولكن للأسف ليس أعلى بكثير عادةً: 3%-5% طبيعي، و10% كحد أقصى. ولكنك لا تحصل على أموال إلا مقابل نسبة قليلة من مستخدمي freemium الذين يقومون بالتحويل، والتي قد تتراوح مرة أخرى بين 2% و5% (مع القيم المتطرفة مثل Slack وSpotify التي تبلغ حوالي 30%)، مما يعني أن إجمالي معدل تحويل زوار الويب إلى أموال فعلية يمكن أن يكون أسوأ بعدة مرات من الشركات الناشئة الأخرى.[^2]
 
-[^1]: Andy Brice has [much more data](https://successfulsoftware.net/2009/04/23/the-truth-about-conversion-ratios-for-software/) that supports my informal observation.
+[^1]: لدى آندي برايس [المزيد من البيانات](https://successfulsoftware.net/2009/04/23/the-truth-about-conversion-ratios-for-software/) التي تدعم ملاحظتي غير الرسمية.
 
-[^2]: In [OpenView's Product Benchmark data](https://encharge.io/saas-free-trial-conversion-rates/) of 458 respondents, the visitor → freemium conversion rate was 6%, and freemium → paid rate of 5%, for a total visitor → paid rate of 0.3%. Or [FirstPageSage's 2025 report](https://firstpagesage.com/seo-blog/saas-free-trial-conversion-rate-benchmarks/), which showed a larger visitor → freemium rate of 13%, but a smaller freemium → paid rate of 2.6%, for a total visitor → paid rate of again 0.3%.
+[^2]: في [بيانات قياس أداء منتجات OpenView](https://encharge.io/saas-free-trial-conversion-rates/) لـ 458 مشاركًا، كان معدل تحويل الزائر ← freemium 6%، وfreemium ← معدل مدفوع 5%، لإجمالي الزائر ← معدل مدفوع 0.3%. أو [تقرير FirstPageSage لعام 2025] (https://firstpagesage.com/seo-blog/saas-free-trial-conversion-rate-benchmarks/)، الذي أظهر زائرًا أكبر ← معدل فريميوم بنسبة 13%، ولكن فريميوم أصغر ← معدل مدفوع قدره 2.6%، لإجمالي الزائرين ← معدل مدفوع مرة أخرى 0.3%.
 
-Which means it costs many times as much as [it usually does](https://longform.asmartbear.com/bootstrapped-cpc/) for marketing campaigns to achieve the equivalent revenue. [Annual pre-pay might solve it](https://longform.asmartbear.com/annual-prepay/), but maybe not--it's a huge hill to climb.
+مما يعني أن الحملات التسويقية تكلف عدة أضعاف ما تكلفه عادةً](https://longform.asmartbear.com/bootstrapped-cpc/) لتحقيق الإيرادات المعادلة. [قد يحل الدفع المسبق السنوي المشكلة](https://longform.asmartbear.com/annual-prepay/)، ولكن ربما لا يحلها - إنها تلة ضخمة يجب تسلقها.
 
-This essentially takes paid-advertising and almost all other forms of marketing off the table for driving growth in a freemium business, **unless you're willing to take big losses to get things rolling.**
+يؤدي هذا بشكل أساسي إلى استبعاد الإعلانات المدفوعة وجميع أشكال التسويق الأخرى تقريبًا من أجل دفع النمو في الأعمال التجارية المجانية، **إلا إذا كنت على استعداد لتحمل خسائر كبيرة لبدء الأمور.**
 
-It also means you essentially *have* to build a [viral product](https://longform.asmartbear.com/going-viral/), because you can't afford advertising. Getting true viral behavior is very hard--again most companies who attempt this will fail--and even so you need to seed it at the beginning, so you still have the marketing expense problem.
+ويعني هذا أيضًا أنه *يجب عليك* إنشاء [منتج سريع الانتشار](https://longform.asmartbear.com/going-viral/)، لأنك لا تستطيع تحمل تكاليف الإعلانات. يعد الحصول على سلوك فيروسي حقيقي أمرًا صعبًا للغاية - مرة أخرى، ستفشل معظم الشركات التي تحاول ذلك - ومع ذلك تحتاج إلى زرعه في البداية، لذلك لا تزال تواجه مشكلة نفقات التسويق.
 
-The few companies who were clear winners with this business model also raised tens or hundreds millions in funding, in part to get over this hump.
+الشركات القليلة التي كانت فائزة بشكل واضح من خلال نموذج الأعمال هذا جمعت أيضًا عشرات أو مئات الملايين من التمويل، جزئيًا للتغلب على هذه العقبة.
 
-### Freemium tech support is expensive
+### الدعم الفني Freemium مكلف
 
-It's easy to say "We'll just direct everyone to forums," but when people email tech support they want a response. And are you sure other customers want to spend their time being your support team? Is that something you _ought_ to expect of your customers?
+من السهل أن تقول "سنقوم فقط بتوجيه الجميع إلى المنتديات"، ولكن عندما يرسل الأشخاص بريدًا إلكترونيًا إلى الدعم الفني فإنهم يريدون الرد. وهل أنت متأكد من أن العملاء الآخرين يريدون قضاء وقتهم في فريق الدعم الخاص بك؟ هل هذا شيء يجب أن تتوقعه من عملائك؟
 
-It's easy to say "We won't provide tech support for the free tier--they'll understand since it's free," but if you really do ignore them they'll be less successful with your tool, which means far less chance of them converting, and less chance they'll evangelize to friends and coworkers. "Spreading the word" is one of the main benefits of Freemium, so losing this might be fatal.
+من السهل أن تقول "لن نقدم الدعم الفني للطبقة المجانية - فسوف يتفهمون ذلك لأنه مجاني"، ولكن إذا تجاهلتهم حقًا فسيكونون أقل نجاحًا باستخدام أداتك، مما يعني فرصة أقل بكثير لتحويلهم، وفرصة أقل في التبشير للأصدقاء وزملاء العمل. يعد "نشر الكلمة" أحد المزايا الرئيسية لـ Freemium، لذا فإن فقدان هذا قد يكون قاتلاً.
 
-It's easy to say "We'll provide a lesser grade of support for the free tier," but then each rep is making a determination on "how much to help." How will that conversation with the customer actually go? Even setting aside how that will make the customer feel, how will that make the support reps feel, day in and day out, that they're intentionally providing less help to people who need help?
+من السهل القول "سنقدم درجة أقل من الدعم للطبقة المجانية"، ولكن بعد ذلك يتخذ كل ممثل قرارًا بشأن "مقدار المساعدة". كيف ستسير هذه المحادثة مع العميل فعليًا؟ حتى لو وضعنا جانبًا ما سيشعر به العميل، كيف سيشعر ممثلو الدعم، يومًا بعد يوم، أنهم يقدمون مساعدة أقل عن عمد للأشخاص الذين يحتاجون إلى المساعدة؟
 
-Are you prepared for people who say, "If you help me through this, then I'll pay." Are you hard enough to shut the door in their face, even knowing that in fact they probably still won't pay?
+هل أنت مستعد للأشخاص الذين يقولون: "إذا ساعدتني خلال هذا، فسوف أدفع". هل أنت قوي بما فيه الكفاية لتغلق الباب في وجههم، حتى مع علمك أنهم في الواقع ربما لن يدفعوا؟
 
-If you care about good support--one of the few true [competitive advantages a small startup has](https://longform.asmartbear.com/startup-beats-incumbent/)--can you really segment who gets treated well and who gets the cold shoulder? Should you really turn your back on the [benefits created by great tech support](https://longform.asmartbear.com/tech-support-is-sales/)? Is that conducive to converting free accounts to paid accounts? Is it helping your company's reputation?
+إذا كنت تهتم بالدعم الجيد - إحدى [المزايا التنافسية القليلة التي تتمتع بها الشركات الناشئة الصغيرة] (https://longform.asmartbear.com/startup-beats-incumbent/) - هل يمكنك حقًا تقسيم من يحصل على معاملة جيدة ومن يحظى بالبرودة؟ هل يجب عليك حقًا أن تدير ظهرك لـ [الفوائد التي يوفرها الدعم الفني الرائع](https://longform.asmartbear.com/tech-support-is-sales/)؟ هل هذا يساعد على تحويل الحسابات المجانية إلى حسابات مدفوعة؟ هل يساعد ذلك على سمعة شركتك؟
 
-## Advantages of Freemium
+## مميزات الفريميوم
 
-Obviously freemium also has important benefits which cannot be denied:
+من الواضح أن freemium له أيضًا فوائد مهمة لا يمكن إنكارها:
 
-* **Easy to start.** Even a "30-day free trial" or "money-back guarantee" is a much bigger barrier than "free." Getting a web visitor to stop perusing and start using the product is a critical step in any customer acquisition, and you've just diminished the barrier as much as possible.
-* **Easy to upsell.** They're already using your tool, so whether it's by special offer, changing the pay scale, or the user simply outgrows the confines of their service tier, there's many ways a person can start giving you money.
-* **Stats for selling.** It's awesome marketing to be able to say "Join 10,000 happy users." It's social proof, just like the subscription counter in the corner of a newsletter implicitly saying "if 65,000 people think it's worth their time to read this every week, maybe it's worth yours too." It's also useful when bagging bigger customers because it proves your system can scale, both in technology and in training new users with minimum effort.
-* **Not using the competition.** One more user for you is one fewer user for them. Market share is its own value, especially in [zero-sum games](https://longform.asmartbear.com/zero-sum-marketing/).
+* **من السهل البدء.** حتى أن "الإصدار التجريبي المجاني لمدة 30 يومًا" أو "ضمان استعادة الأموال" يمثل عائقًا أكبر بكثير من "المجاني". يعد إقناع زائر الويب بالتوقف عن التصفح والبدء في استخدام المنتج خطوة حاسمة في أي عملية اكتساب للعملاء، وقد قمت للتو بتقليل الحاجز قدر الإمكان.
+* **من السهل زيادة المبيعات.** إنهم يستخدمون أداتك بالفعل، لذا سواء كان ذلك عن طريق عرض خاص، أو تغيير جدول الأجور، أو ببساطة تجاوز المستخدم حدود مستوى الخدمة، فهناك العديد من الطرق التي يمكن لأي شخص من خلالها البدء في منحك المال.
+* **إحصائيات البيع.** إنه أمر تسويقي رائع أن تتمكن من القول "انضم إلى 10000 مستخدم سعيد". إنه دليل اجتماعي، تمامًا مثل عداد الاشتراك الموجود في زاوية الرسالة الإخبارية الذي يقول ضمنيًا "إذا كان 65000 شخص يعتقدون أن الأمر يستحق وقتهم لقراءة هذا كل أسبوع، فربما يستحق وقتك أيضًا". كما أنه مفيد أيضًا عند جذب عملاء أكبر لأنه يثبت أن نظامك يمكنه التوسع، سواء في مجال التكنولوجيا أو في تدريب المستخدمين الجدد بأقل جهد.
+* **عدم استخدام المنافسة.** وجود مستخدم إضافي لك يعني مستخدمًا أقل له. تمثل الحصة السوقية قيمتها الخاصة، خاصة في [الألعاب ذات المحصلة الصفرية](https://longform.asmartbear.com/zero-sum-marketing/).
 
-So in the face of the positives and negatives, how do you decide whether it's right for you and, if it is, how do you think about it so that you're reaping the benefits while mitigating the costs?
+لذا، في مواجهة الإيجابيات والسلبيات، كيف يمكنك أن تقرر ما إذا كان ذلك مناسبًا لك، وإذا كان الأمر كذلك، كيف تفكر فيه حتى تجني الفوائد مع تخفيف التكاليف؟
 
-## Charge Freemium to the marketing department
+## قم بشحن Freemium إلى قسم التسويق
 
-A pattern emerges from those "advantages" bullets: **They are marketing**, as opposed to utility. They are lead-gen, reducing barriers to conversion, and competitive advantage.
+يبرز نمط من تلك النقاط "المزايا": **إنها تسويق**، بدلاً من المنفعة. فهي تؤدي إلى تقليل الحواجز التي تحول دون التحويل والميزة التنافسية.
 
-Retool your expectations of Freemium: It's a *marketing cost.* It's more expensive than you give it credit for, but it could very well be the best marketing strategy.
+أعد تنظيم توقعاتك من Freemium: إنها *تكلفة تسويقية.* وهي أغلى مما تعتقد، ولكنها قد تكون أفضل استراتيجية تسويقية.
 
-So how do you decide whether those costs are worth the benefits? My technique is to "charge the marketing department" exactly like AdWords or any other lead-gen campaign: measuring the total cost of acquiring new paying customers.
+إذن، كيف يمكنك أن تقرر ما إذا كانت هذه التكاليف تستحق الفوائد؟ أسلوبي هو "تحميل قسم التسويق" تمامًا مثل AdWords أو أي حملة رائدة أخرى: قياس التكلفة الإجمالية لاكتساب عملاء جدد يدفعون.
 
-The reasoning is: You have a theory that by spending the money to support these freeloaders, you're in fact building an efficient path to real, paying customers. That goal--revenue--could be attained other ways: AdWords, SEO, [social media](https://longform.asmartbear.com/first-marketing-channel/), or [any other marketing technique](https://longform.asmartbear.com/startup-marketing-ideas/). So just like any marketing campaign, the marketing department should pay, measure the results, and compare the ROI against other methods.
+السبب هو: لديك نظرية مفادها أنه من خلال إنفاق المال لدعم هؤلاء المستغلين، فإنك في الواقع تبني طريقًا فعالاً للوصول إلى عملاء حقيقيين يدفعون. ويمكن تحقيق هذا الهدف - الإيرادات - بطرق أخرى: AdWords، أو تحسين محركات البحث، أو [وسائل التواصل الاجتماعي](https://longform.asmartbear.com/first-marketing-channel/)، أو [أي أسلوب تسويق آخر](https://longform.asmartbear.com/startup-marketing-ideas/). لذا، تمامًا مثل أي حملة تسويقية، يجب على قسم التسويق الدفع وقياس النتائج ومقارنة عائد الاستثمار بالطرق الأخرى.
 
-(And make sure the cost is much less than [total lifetime revenue](https://longform.asmartbear.com/ltv/)--the equation that many startups fail to achieve, exactly because they don't honestly consider the total cost to acquire.)
+(وتأكد من أن التكلفة أقل بكثير من [إجمالي الإيرادات الدائمة](https://longform.asmartbear.com/ltv/) - وهي المعادلة التي تفشل العديد من الشركات الناشئة في تحقيقها، وذلك بالضبط لأنها لا تأخذ في الاعتبار التكلفة الإجمالية للاكتساب.)
 
-**How much should you charge the marketing department?** Suppose you really were charging those free-loading customers, but only enough to recoup costs, not to be profitable. Amortize those costs--infrastructure and tech support--and come up with an effective "price" for the free tier.
+**ما هو المبلغ الذي يجب أن تفرضه على قسم التسويق؟** لنفترض أنك كنت تفرض رسومًا على هؤلاء العملاء الذين يقومون بالتحميل مجانًا، ولكن بما يكفي فقط لاسترداد التكاليف، وليس لتحقيق الربح. قم بإطفاء هذه التكاليف - البنية التحتية والدعم الفني - وتوصل إلى "سعر" فعال للطبقة المجانية.
 
-That's what those users *should* be paying (excluding profit), so that's the amount the marketing department needs to "reimburse" the rest of the company.
+هذا هو ما *يجب* أن يدفعه هؤلاء المستخدمون (باستثناء الربح)، وهذا هو المبلغ الذي يحتاجه قسم التسويق "لتعويض" بقية الشركة.
 
-That said, we agreed there were additional benefits of having free-loading users, such as the value of a competitor _not_ having that customer, or the word-of-mouth growth benefit of larger market-share. You can decide what those things are worth, and deduct that from the marketing expense. That is, you could answer the question: "What would you be wiling to pay, per customer, per month, _only_ to _prevent_ them from being a customer of a competitor?" The answer is probably more than $0 (unless you really have no money, in which case Freemium is probably not the right model for you!), but not infinite either.
+ومع ذلك، اتفقنا على أن هناك فوائد إضافية لوجود مستخدمين مجانيين، مثل قيمة عدم وجود منافس لديه هذا العميل، أو فائدة النمو الشفهي المتمثلة في الحصول على حصة أكبر في السوق. يمكنك أن تقرر ما هي قيمة هذه الأشياء، وخصم ذلك من نفقات التسويق. بمعنى أنه يمكنك الإجابة على السؤال: "ما الذي ترغب في دفعه لكل عميل شهريًا، _فقط_ لمنعه من أن يصبح عميلاً لمنافس؟" ربما يكون الجواب أكثر من 0 دولار (إلا إذا لم يكن لديك أموال حقًا، وفي هذه الحالة ربما لا يكون Freemium هو النموذج المناسب لك!)، ولكنه ليس بلا حدود أيضًا.
 
-You have no excuse to not be measuring this net cost-per-user so that you're running this Freemium program with full knowledge of the costs, and comparing it to other forms of marketing.
+ليس لديك أي عذر لعدم قياس صافي التكلفة لكل مستخدم بحيث تقوم بتشغيل برنامج Freemium هذا بمعرفة كاملة بالتكاليف، ومقارنته بأشكال التسويق الأخرى.
 
-## Further Reading
+## مزيد من القراءة
 
-More great articles on the subject:
+المزيد من المقالات الرائعة حول هذا الموضوع:
 
-* [Andy Singleton](https://www.onstartups.com/tabid/3339/bid/37737/Secrets-Of-Freemium-Pricing-Make-The-Cheapskates-Pay.aspx) on how to "make those cheapskates pay."
-* [Andrew Chen](https://andrewchen.com/how-to-create-a-profitable-freemium-startup-spreadsheet-model-included/) on the precise financial model of freemium (spreadsheet included).
-* [Eric Ries](https://www.startuplessonslearned.com/2009/01/three-freemium-strategies.html) on three strategies for "free" that still lead to making money.
+* [آندي سينجلتون](https://www.onstartups.com/tabid/3339/bid/37737/Secrets-Of-Freemium-Pricing-Make-The-Cheapskates-Pay.aspx) حول كيفية "جعل هؤلاء المتزلجين الرخيصين يدفعون".
+* [أندرو تشين] (https://andrewchen.com/how-to-create-a-profitable-freemium-startup-spreadsheet-model-included/) حول النموذج المالي الدقيق لـ freemium (جدول البيانات متضمن).
+* [إريك ريس] (https://www.startuplessonslearned.com/2009/01/three-freemium-strategies.html) يتحدث عن ثلاث استراتيجيات "مجانية" لا تزال تؤدي إلى كسب المال.

@@ -20,47 +20,34 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** يا للغباء! قصة شرائي لنطاق SmartBear.com والدروس القاسية المستفادة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Idiot! Buying SmartBear.com
-
-> **Executive Summary:** How my hesitation on SmartBear.com led to a $2000 expense. A lesson in acting fast.
-> **Original URL:** [https://longform.asmartbear.com/idiot-buying-smartbear-com/](https://longform.asmartbear.com/idiot-buying-smartbear-com/)
-
 ![idiot!](https://public.asmartbear.com/books/anthology/chapters/idiot-buying-smartbear-com/image-simple.png)
 
-Being slow cost me $2000. **IDIOT!**
+التباطؤ كلفني 2000 دولار. **غبي!**
 
-Yesterday I bought `smartbear.com`.
+اشتريت بالأمس موقع "smartbear.com".
 
-Smart Bear started as a [sole proprietorship](https://en.wikipedia.org/wiki/Sole_proprietorship). I switched it to a single-member [LLC](https://en.wikipedia.org/wiki/Limited_liability_company) in Feb 2003, mostly just to see what it was like. (Single-member LLC's and sole proprietorships have identical tax consequences--none.)
+بدأت شركة Smart Bear باعتبارها [مؤسسة فردية](https://en.wikipedia.org/wiki/Sole_proprietorship). لقد قمت بتحويلها إلى شركة [LLC] ذات عضو واحد (https://en.wikipedia.org/wiki/Limited_liability_company) في فبراير 2003، وكان ذلك في الغالب فقط لمعرفة كيف كان الأمر. (الشركات ذات المسؤولية المحدودة والملكية الفردية لها عواقب ضريبية متطابقة - لا شيء.)
 
-At the time Code Historian and Code Reviewer were shareware and the company name didn't seem to matter. After all, I had `http://codehistorian.com`, and that's better! So I didn't register `smartbear.com`.
+في ذلك الوقت، كان Code Historian وCode Reviewer من البرامج التجريبية، ولا يبدو أن اسم الشركة مهم. بعد كل شيء، كان لدي موقع http://codehistorian.com، وهذا أفضل! لذلك لم أسجل في "smartbear.com".
 
-Let me repeat that. I didn't register `smartbear.com`.
+اسمحوا لي أن أكرر ذلك. لم أسجل في "smartbear.com".
 
-I could tell you I didn't have any money to spend on such things, which was true, but that's not an excuse, it's cheap. I could tell you I didn't think things would go so well, which was true, but that's not an excuse, it would have been cheap insurance. I could tell you I didn't think anyone was paying attention to little ol' me, which was true, but that's not an excuse, the domain trollers watch the chamber of commerce records and grab anything they can find.
+يمكنني أن أخبرك أنه لم يكن لدي أي أموال لإنفاقها على مثل هذه الأشياء، وهذا كان صحيحًا، لكن هذا ليس عذرًا، فهو رخيص. يمكنني أن أخبرك أنني لم أكن أعتقد أن الأمور ستسير على ما يرام، وكان هذا صحيحًا، لكن هذا ليس عذرًا، كان من الممكن أن يكون تأمينًا رخيصًا. يمكنني أن أخبرك أنني لم أعتقد أن أحدًا كان يهتم بي الصغير، وهذا كان صحيحًا، لكن هذا ليس عذرًا، حيث يراقب متصيدو النطاق سجلات غرفة التجارة ويحصلون على أي شيء يمكنهم العثور عليه.
 
-There's no excuse.
+ليس هناك عذر.
 
-By the time I came to my senses, a squatter had taken the domain. For a while the page was just broken. Then the page simply said the domain was for sale. $2000. I ended up getting `smartbearsoftware.com`.
+بحلول الوقت الذي عدت فيه إلى صوابي، كان أحد واضعي اليد قد استولى على المجال. لفترة من الوقت كانت الصفحة مكسورة للتو. ثم قالت الصفحة ببساطة إن النطاق معروض للبيع. 2000 دولار. انتهى بي الأمر بالحصول على "smartbearsoftware.com".
 
-The way you pronounce "`smartbearsoftware.com`" over the phone is:
+طريقة نطق ""smartbearsoftware.com"" عبر الهاتف هي:
 
-> "Smart Bear Software. One word. That's "bear" as in the animal. No, Smart Bear Software. You have to have the software. (pause) Yeah, I know, that's taken by a squatter. (pause) two thousand dollars. (pause) Yeah, we really should. It's the principle of the thing though."
+> "برنامج الدب الذكي. كلمة واحدة. هذا هو "الدب" كما هو الحال في الحيوان. لا، برنامج الدب الذكي. يجب أن يكون لديك البرنامج. (وقفة) نعم، أعلم أن هذا قد استولى عليه واضع اليد. (وقفة) ألفي دولار. (وقفة) نعم، يجب علينا فعل ذلك. رغم ذلك، هذا هو مبدأ الأمر."
 
-And it really was. I offered the guy $1000. Rejected. I sent a lawyer-letter. Ignored. I asked the lawyer how much it would cost to actually pursue this. Minimum $2500. (Oh. That's how the price is set.)
+وكان حقا. عرضت على الرجل 1000 دولار. مرفوض. لقد أرسلت خطابًا للمحامي. تم التجاهل. سألت المحامي عن تكلفة متابعة هذا الأمر فعليًا. الحد الأدنى 2500 دولار. (أوه. هذه هي الطريقة التي يتم بها تحديد السعر.)
 
-I pointed out the trademark. He responded by saying it wasn't a registered trademark. I started the process of registering all our trademarks, but years later we're in the last stage of the process but still waiting.
+أشرت إلى العلامة التجارية. أجاب بالقول إنها ليست علامة تجارية مسجلة. لقد بدأت عملية تسجيل جميع علاماتنا التجارية، ولكن بعد مرور سنوات، وصلنا إلى المرحلة الأخيرة من العملية ولكننا لا نزال ننتظر.
 
-I was goaded into this by the other Bears. "Just get the domain. We know it sucks. We know it's unfair. But stop making us type 'software' all the time like chumps."
+لقد تم حثي على هذا من قبل الدببة الآخرين. "فقط احصل على النطاق. نحن نعلم أنه أمر سيئ. ونعلم أنه غير عادل. لكن توقف عن جعلنا نكتب "البرمجيات" طوال الوقت مثل الخشبات."
 
-The final straw was a conversation with Chris Boyd, co-founder of the Best Little ISP on the Planet, Midas Networks. I told him about the domain. "Yeah," he said, "you just have to pay those guys." Chris always tells it straight. That's when I know I was sunk.
+القشة التي قصمت ظهر البعير كانت محادثة مع كريس بويد، المؤسس المشارك لأفضل مزود خدمة إنترنت صغير على الكوكب، Midas Networks. قلت له عن المجال. قال: "نعم، عليك فقط أن تدفع لهؤلاء الرجال". كريس يقول ذلك دائما بشكل مستقيم. وذلك عندما أعرف أنني غرقت.
 
-So I did it.
+لذلك فعلت ذلك.

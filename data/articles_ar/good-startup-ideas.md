@@ -20,91 +20,78 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** نظرية التقارب: كيف تجد الحقيقة وتلتقط الأفكار الريادية العظيمة وسط الظلام؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The "Convergent" theory of finding truth in darkness
-
-> **Executive Summary:** How to tell the difference between a truly great startup idea, and people saying "Sure, sounds good" when they really mean "No, I'm not buying."
-> **Original URL:** [https://longform.asmartbear.com/good-startup-ideas/](https://longform.asmartbear.com/good-startup-ideas/)
-
 ![i dunno kind of defeats purpose doesnt it](https://public.asmartbear.com/books/anthology/chapters/good-startup-ideas/d6125print-simple.png)
 
-How do you know if your startup idea is a good one? Even after twenty systematic [customer interviews](https://longform.asmartbear.com/customer-development/)? So often, people say nice things to your face, but really they're not buying.
+كيف تعرف إذا كانت فكرة شركتك الناشئة فكرة جيدة؟ حتى بعد عشرين [مقابلة مع العملاء] منهجية (https://longform.asmartbear.com/customer-development/)؟ في كثير من الأحيان، يقول الناس أشياء لطيفة لوجهك، لكنهم في الحقيقة لا يشترون.
 
-How do you know when to give up and try a different idea?
+كيف تعرف متى تستسلم وتجرب فكرة مختلفة؟
 
-The usual answers: [It's a balance](https://longform.asmartbear.com/conflicting-choices/). Trust your gut. But your gut is wrong so trust data. But you don't have data so trust your gut. [Don't give up just because it's hard](https://longform.asmartbear.com/perseverance/). [If it's hard it's not a good fit](https://longform.asmartbear.com/product-market-fit-formula/). [Don't listen to the haters](https://longform.asmartbear.com/criticize-create/). [Haters have something to teach us](https://longform.asmartbear.com/bad-advice/).
+الإجابات المعتادة: [إنه التوازن](https://longform.asmartbear.com/conflicting-choices/). ثق بأمعائك. لكن حدسك خاطئ، لذا ثق بالبيانات. لكن ليس لديك بيانات، لذا ثق بحدسك. [لا تستسلم لمجرد أن الأمر صعب](https://longform.asmartbear.com/perseverance/). [إذا كان الأمر صعبًا، فهو ليس مناسبًا](https://longform.asmartbear.com/product-market-fit-formula/). [لا تستمع إلى الكارهين](https://longform.asmartbear.com/criticize-create/). [الكارهون لديهم شيء ليعلمونا إياه](https://longform.asmartbear.com/bad-advice/).
 
-[Follow the formula](https://longform.asmartbear.com/customer-development/). The formula says there's no one formula. The formula is to ask "the right" questions. The formula doesn't know what to do with the answers. Everyone is a unique snowflake. "It depends."
+[اتبع الصيغة](https://longform.asmartbear.com/customer-development/). تقول الصيغة أنه لا توجد صيغة واحدة. الصيغة هي طرح الأسئلة "الصحيحة". الصيغة لا تعرف ماذا تفعل بالإجابات. كل شخص هو ندفة ثلج فريدة من نوعها. "هذا يعتمد."
 
-Until recently I haven't had a good way to explain my idea of the answer. But recently I was rereading [Richard Feynman's Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics) and, in one of those brief flashes of comprehension that comes when your mind is active yet wandering, I stumbled across my explanation.
+حتى وقت قريب لم يكن لدي طريقة جيدة لشرح فكرتي عن الإجابة. لكن مؤخرًا كنت أعيد قراءة [محاضرات ريتشارد فاينمان في الفيزياء] (https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics)، وفي إحدى ومضات الفهم القصيرة تلك التي تأتي عندما يكون عقلك نشطًا ولكنه متجول، عثرت على تفسيري.
 
-Fluid dynamics are famously complex and incalculable. Consider the drag forces on this Harrier jet (Figure 1)--swirling currents pulling it backward as it crashes through the air, sluicing through curved surfaces, jarred by every seam and rivet, twisting and colliding with itself. It's so chaotic, even modern simulators can't model it perfectly, so we resort to wind tunnels, where we ask the universe to just tell us the answer.
+من المعروف أن ديناميكيات الموائع معقدة ولا يمكن حسابها. خذ بعين الاعتبار قوى السحب المؤثرة على طائرة هارير هذه (الشكل 1) - التيارات الدوامة التي تسحبها إلى الخلف أثناء اصطدامها في الهواء، واختراقها للأسطح المنحنية، واهتزازها بكل درزات وبرشام، والتواءها واصطدامها بنفسها. إنها فوضوية للغاية، حتى أجهزة المحاكاة الحديثة لا يمكنها تصميمها بشكل مثالي، لذلك نلجأ إلى أنفاق الرياح، حيث نطلب من الكون أن يخبرنا بالإجابة.
 
 ![Airflow around a Harrier jet](https://public.asmartbear.com/books/anthology/chapters/good-startup-ideas/harrier-2-simple.png)
 
-Given this complexity and chaos, it is astounding that the force of drag on an airplane can be approximated as being simply proportional to the square of its velocity. That is:
+ونظرًا لهذا التعقيد والفوضى، فمن المذهل أن قوة السحب على الطائرة يمكن تقريبها على أنها تتناسب ببساطة مع مربع سرعتها. إنه:
 
-$$F_{\text{drag}} = Cv^2$$
+$$F_{\text{drag}} = السيرة الذاتية^2$$
 
-How could such a simple formula summarize such a fantastically complex process?
+كيف يمكن لمثل هذه الصيغة البسيطة أن تلخص مثل هذه العملية المعقدة بشكل خيالي؟
 
-Humans love this sort of thing--emergent simplicity from complex chaos. There's beauty in its brevity and power in its utility. We love it so much, the urge is in constant overdrive, and [we see patterns and meaning even when there are none](https://longform.asmartbear.com/pattern-seeking-fallacy/).
+يحب البشر هذا النوع من الأشياء - البساطة الناشئة عن الفوضى المعقدة. هناك جمال في إيجازه وقوة في فائدته. نحن نحبها كثيرًا، والرغبة في ذلك في حالة تزايد مستمر، و[نرى الأنماط والمعنى حتى في حالة عدم وجودها](https://longform.asmartbear.com/pattern-seeking-fallacy/).
 
-We're tempted, therefore, to call $F_{\text{drag}} = Cv^2$ a "law"--a rule by which a mere human brain can get a handle on a phenomenon too complex for the fastest supercomputers.
+ولذلك، فإننا نميل إلى تسمية $F_{\text{drag}} = Cv^2$ بـ "القانون" - وهي القاعدة التي يمكن من خلالها للعقل البشري أن يتعامل مع ظاهرة معقدة للغاية بالنسبة لأسرع أجهزة الكمبيوتر العملاقة.
 
-But it turns out it's not a law at all. It's not power, it's a tenuous coincidence, and not one of great utility.
+لكن اتضح أنه ليس قانونًا على الإطلاق. إنها ليست قوة، إنها مصادفة واهية، وليست ذات فائدة كبيرة.
 
-How do we know this?
+كيف نعرف هذا؟
 
-Because as soon as we try to understand similar situations using this law, it breaks down. If the airplane is flying slowly, it becomes completely inaccurate. If the airplane flies very fast it's wrong again. If we make small perturbations on the wing, the constant $C$ can change dramatically. If you physically remove one of the wings, that changes the drag on the remaining wing.
+لأنه بمجرد أن نحاول فهم مواقف مماثلة باستخدام هذا القانون، فإنه ينهار. إذا كانت الطائرة تحلق ببطء، يصبح الأمر غير دقيق على الإطلاق. إذا كانت الطائرة تحلق بسرعة كبيرة فهذا خطأ مرة أخرى. إذا قمنا باضطرابات صغيرة على الجناح، فإن الثابت $C$ يمكن أن يتغير بشكل كبير. إذا قمت بإزالة أحد الأجنحة فعليًا، فإن ذلك يغير قوة السحب على الجناح المتبقي.
 
-There are forces inside and outside the aircraft, hidden to a casual observer, uncaptured by simple formulas.
+هناك قوى داخل الطائرة وخارجها، مخفية عن المراقب العادي، ولا يمكن التقاطها بواسطة الصيغ البسيطة.
 
-Where is all this in our simple "law?" Nowhere. If we step outside our little safe space, the law crumbles. It's not a *fundamental* law, because it does not predict what happens in novel situations.
+أين كل هذا في "قانوننا" البسيط؟ في أي مكان. إذا خرجنا من مساحتنا الآمنة الصغيرة، سينهار القانون. إنه ليس قانونًا *أساسيًا*، لأنه لا يتنبأ بما يحدث في المواقف الجديدة.
 
-Contrast this to another so-called law--Conservation of Energy--which states that the total energy of a closed system remains constant over time. So if a ball falls in a gravitational field, it loses potential energy (height) while gaining kinetic energy (speed), such that the total energy never changes.
+قارن هذا بما يسمى قانون آخر - قانون حفظ الطاقة - الذي ينص على أن الطاقة الإجمالية للنظام المغلق تظل ثابتة مع مرور الوقت. لذا، إذا سقطت كرة في مجال الجاذبية، فإنها تفقد طاقة الوضع (الارتفاع) بينما تكتسب طاقة حركية (السرعة)، بحيث لا يتغير إجمالي الطاقة أبدًا.
 
-Is this a true "law?" How can we tell?
+هل هذا "قانون" حقيقي؟ كيف يمكننا أن نقول؟
 
-We can make a complex series of ramps inside a vacuum, starting a ball at different heights and positions and letting it roll down and up and around, measuring the velocity the whole time. We find that the ball's speed everywhere exactly ensures the two energies remain equal, regardless of the configuration of the ramp. This feels powerful--in arbitrary configurations, the law accurately predicts the result.
+يمكننا إنشاء سلسلة معقدة من المنحدرات داخل الفراغ، بدءاً بالكرة على ارتفاعات ومواضع مختلفة وتركها تتدحرج للأسفل وللأعلى وللدور، مع قياس السرعة طوال الوقت. ونجد أن سرعة الكرة في كل مكان تضمن بقاء الطاقتين متساويتين، بغض النظر عن شكل المنحدر. يبدو هذا قويًا - في التكوينات التعسفية، يتنبأ القانون بدقة بالنتيجة.
 
 ![balls and ramps in vacuum](https://public.asmartbear.com/books/anthology/chapters/good-startup-ideas/balls-and-ramps-in-vacuum-simple.png)
 
-With a real ball and a real ramp, friction slows the ball, thereby reducing total energy and therefore a violation of the law! Ah, but we realize that "heat" is also energy--something we can measure and convert into other forms of energy--and when we measure the increase in heat in our ball-and-ramp experiment we find that the energy due to heat exactly replaces the energy lost as the ball slows, and again our law is proven correct. In fact, our law predicts *how much* heat, and we find exactly that amount, so now the law has just predicted the existence of new *kinds* of energy, and did so with accuracy, which is even more impressive!
+مع كرة حقيقية ومنحدر حقيقي، يؤدي الاحتكاك إلى إبطاء الكرة، وبالتالي تقليل الطاقة الإجمالية وبالتالي انتهاك القانون! آه، لكننا ندرك أن "الحرارة" هي أيضًا طاقة - شيء يمكننا قياسه وتحويله إلى أشكال أخرى من الطاقة - وعندما نقيس الزيادة في الحرارة في تجربة الكرة والمنحدر، نجد أن الطاقة الناتجة عن الحرارة تحل تمامًا محل الطاقة المفقودة عندما تتباطأ الكرة، ومرة ​​أخرى ثبت صحة قانوننا. في الواقع، يتنبأ قانوننا بكمية الحرارة، وقد وجدنا تلك الكمية بالضبط، لذا فقد تنبأ القانون للتو بوجود *أنواع* جديدة من الطاقة، وفعل ذلك بدقة، وهو أمر أكثر إثارة للإعجاب!
 
-Then from other experiments we learn that matter is in fact composed of gargantuan quantities of tiny objects (molecules, atoms), moving and colliding and vibrating. That suggests a different definition of heat itself--that it's not a "new" form of energy at all, but rather the total kinetic energy from jiggling particles! Under this hypothesis we can make definite predictions about how much energy heat contains, how heat and particle density and pressure would change in a gas under various conditions, and so on, all on the sole basis that energy must be conserved, and in fact all those predictions are again accurate.
+ومن ثم نتعلم من تجارب أخرى أن المادة في الواقع تتكون من كميات هائلة من الأجسام الصغيرة (الجزيئات والذرات)، التي تتحرك وتتصادم وتهتز. يشير هذا إلى تعريف مختلف للحرارة نفسها، فهي ليست شكلاً "جديدًا" من الطاقة على الإطلاق، بل هي إجمالي الطاقة الحركية الناتجة عن اهتزاز الجزيئات! بموجب هذه الفرضية، يمكننا إجراء تنبؤات محددة حول مقدار الطاقة الحرارية التي تحتوي عليها، وكيف تتغير الحرارة وكثافة الجسيمات والضغط في الغاز في ظل ظروف مختلفة، وما إلى ذلك، كل ذلك على أساس وحيد وهو أنه يجب الحفاظ على الطاقة، وفي الواقع كل هذه التنبؤات دقيقة مرة أخرى.
 
-Even in the modern era with Relativity bending and weaving time and space, and Quantum Mechanics so strange that Feynman himself said that no one really understands it, still the conservation of energy has always been found to be perfectly correct.
+حتى في العصر الحديث، حيث تعمل النسبية على ثني الزمان والمكان ونسجها، وميكانيكا الكم الغريبة جدًا لدرجة أن فاينمان نفسه قال إنه لا أحد يفهمها حقًا، لا يزال مبدأ حفظ الطاقة دائمًا صحيحًا تمامًا.
 
-With the drag-force equation, the deeper we dug the more we discovered that the "law" doesn't encompass much truth; with Conservation of Energy, the closer we look the more powerful the law becomes, the more applications we have for it, the more accurate predictions it makes, and *that* is the characteristic of a bona fide Fundamental Law of the Universe.
+مع معادلة قوة السحب، كلما تعمقنا أكثر اكتشفنا أن "القانون" لا يشمل الكثير من الحقيقة؛ مع حفظ الطاقة، كلما نظرنا عن قرب كلما أصبح القانون أكثر قوة، وكلما زاد عدد التطبيقات لدينا، زادت دقة التنبؤات التي يقدمها، و*هذه* هي سمة القانون الأساسي الحقيقي للكون.
 
-Truth in startups converges or diverges in the same way.
+الحقيقة في الشركات الناشئة تتقارب أو تتباعد بنفس الطريقة.
 
-Specifically, before I validated the ideas behind WP Engine, I [validated another idea for a startup](https://longform.asmartbear.com/customer-development/). The key thing to notice is that during my customer development, everyone said "That's a great idea, you should do it!"
+على وجه التحديد، قبل أن أتحقق من صحة الأفكار الكامنة وراء WP Engine، قمت [بالتحقق من فكرة أخرى لبدء التشغيل](https://longform.asmartbear.com/customer-development/). الشيء الرئيسي الذي يجب ملاحظته هو أنه أثناء تطوير العملاء، قال الجميع "هذه فكرة رائعة، يجب عليك القيام بها!"
 
-Everyone.
+الجميع.
 
-Except, as I dug in with each person, the "truth" started diverging. One said I should target enterprises, charging $1000/mo and selling through consultants. One said I should make it freemium and figure out how to make money converting 5% to $5/mo. Another said charge a minimum of $50/mo to cut out the moochers who email support but don't pay for stuff. Another said [the small-to-mid-sized business market](https://longform.asmartbear.com/mid-market/) is the untapped niche. One said I should use it to measure online ads and forget about measuring leads; the next said I should use it to feed leads into Salesforce and forget about measuring online ads; the next said I should use it to reveal general marketing efficacy and not try to close leads.
+إلا أنه عندما تعمقت مع كل شخص، بدأت "الحقيقة" تتباعد. قال أحدهم إنني يجب أن أستهدف الشركات، وأتقاضى 1000 دولار شهريًا وأبيع من خلال المستشارين. قال أحدهم إنني يجب أن أجعله مجانيًا وأكتشف كيفية جني الأموال من تحويل 5٪ إلى 5 دولارات شهريًا. وقال آخر إنه يتقاضى ما لا يقل عن 50 دولارًا شهريًا للتخلص من المتطفلين الذين يرسلون الدعم عبر البريد الإلكتروني ولكنهم لا يدفعون مقابل الأشياء. وقال آخر إن [سوق الأعمال الصغيرة والمتوسطة الحجم] (https://longform.asmartbear.com/mid-market/) هو المجال غير المستغل. قال أحدهم إنني يجب أن أستخدمه لقياس الإعلانات عبر الإنترنت وأنسى قياس العملاء المحتملين؛ قال التالي إنه يجب علي استخدامه لتغذية العملاء المحتملين في Salesforce ونسيان قياس الإعلانات عبر الإنترنت؛ قال التالي إنه يجب علي استخدامه للكشف عن فعالية التسويق العامة وعدم محاولة إغلاق العملاء المتوقعين.
 
-Like the airplane law, I had discovered something intriguing, even exciting, but not something fundamental, not something with clear steps forward, not a Venn Diagram of ideas creating a large, dark area filled with [perfect customers](https://longform.asmartbear.com/icp-ideal-customer-persona/), but rather a blotchy Venn Diagram with twenty lobes of dissonance and no discernible center:
+مثل قانون الطيران، اكتشفت شيئًا مثيرًا للاهتمام، بل ومثيرًا، ولكنه ليس شيئًا أساسيًا، وليس شيئًا بخطوات واضحة للأمام، وليس مخطط Venn للأفكار التي تخلق منطقة كبيرة مظلمة مليئة بـ [العملاء المثاليين](https://longform.asmartbear.com/icp-ideal-customer-persona/)، بل مخطط Venn المبقع الذي يحتوي على عشرين فصًا من التنافر ولا يوجد مركز واضح:
 
 ![Venn diagram with 7 areas](https://public.asmartbear.com/books/anthology/chapters/good-startup-ideas/image-2-simple.png)
 
-But my experience vetting WP Engine was convergent. The more people I spoke with, the more agreement there was over the pain they had, whether my solution was an acceptable, and the amount they were willing to spend. $50/mo to make a WordPress site fast, scalable, secure, and when tech support answers the phone, they should be knowledgeable about WordPress. Kick in a staging area and backups and it's a done deal. Thirty of forty people agreed to sign up during their interview. (Twenty of the thirty later did, and we launched with a total of thirty customers. [More of the story is here](https://longform.asmartbear.com/product-market-fit-formula/).)
+لكن تجربتي في فحص WP Engine كانت متقاربة. كلما زاد عدد الأشخاص الذين تحدثت معهم، زاد الاتفاق حول الألم الذي يعانون منه، وما إذا كان الحل الذي قدمته مقبولاً، والمبلغ الذي كانوا على استعداد لإنفاقه. 50 دولارًا شهريًا لجعل موقع WordPress سريعًا وقابلًا للتطوير وآمنًا، وعندما يرد الدعم الفني على الهاتف، يجب أن يكونوا على دراية بـ WordPress. ابدأ في منطقة التدريج والنسخ الاحتياطي، وقد تم الأمر. وافق ثلاثون من أربعين شخصًا على التسجيل أثناء المقابلة. (عشرون من الثلاثين فعلوا ذلك لاحقًا، وأطلقنا مع ما مجموعه ثلاثين عميلاً. [المزيد من القصة هنا](https://longform.asmartbear.com/product-market-fit-formula/).)
 
-I had found the startup equivalent of a fundamental law--not an immutable physical law of course but something that behaves like truth--where multiple areas of inquisition lead to a common destination instead of leading to different planets.
+لقد وجدت المعادل الناشئ للقانون الأساسي - ليس قانونًا فيزيائيًا ثابتًا بالطبع ولكن شيئًا يتصرف مثل الحقيقة - حيث تؤدي مجالات البحث المتعددة إلى وجهة مشتركة بدلاً من القيادة إلى كواكب مختلفة.
 
-Of course there'll be no rubric to determine whether an idea is tenable or whether the situation is so bleak that you should give up. But in my experience this feeling of convergence or divergence is very strong if you're being [introspective and honest with yourself](https://longform.asmartbear.com/failure-to-face-the-truth/).
+بالطبع لن يكون هناك معيار لتحديد ما إذا كانت الفكرة قابلة للدفاع عنها أو ما إذا كان الوضع قاتمًا جدًا لدرجة أنه يجب عليك التخلي عنها. لكن من خلال تجربتي، يكون هذا الشعور بالتقارب أو الاختلاف قويًا جدًا إذا كنت [متأملًا وصادقًا مع نفسك](https://longform.asmartbear.com/failure-to-face-the-truth/).
 
 ![tweet: after talking to 10 people, I'm sure this isn't going to work](https://public.asmartbear.com/books/anthology/chapters/good-startup-ideas/image-3-simple.png)
 
-Your hardest battle is indeed with yourself, as you're constantly tempted to bias the evidence in the most convenient direction (validation), and your fear of figuring out that your pet idea, while undeniably cool, is not a business, in that other people are not going to give you money for it.
+إن أصعب معركتك هي في الواقع مع نفسك، لأنك تميل دائمًا إلى تحيز الأدلة في الاتجاه الأكثر ملاءمة (التحقق من الصحة)، وخوفك من اكتشاف أن فكرتك المفضلة، رغم أنها رائعة بشكل لا يمكن إنكاره، ليست عملاً تجاريًا، حيث لن يعطك الآخرون المال مقابلها.
 
-Just remember how expensive it is to remain ignorant. You will meet the same, bitter end, only after a significantly larger [investment](https://longform.asmartbear.com/investment/) in time, money, heart, and reputation.
+فقط تذكر كم هو مكلف أن تظل جاهلاً. لن تواجه نفس النهاية المريرة إلا بعد [استثمار] أكبر بكثير (https://longform.asmartbear.com/investment/) في الوقت والمال والقلب والسمعة.

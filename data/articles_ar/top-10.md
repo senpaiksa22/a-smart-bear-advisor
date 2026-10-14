@@ -20,57 +20,44 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كم عدد الأولويات التي يجب أن تحددها؟ (تلميح: بالتأكيد ليست 10) تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# How many things should there be? (Hint: Not 10)
-
-> **Executive Summary:** If we happened to evolve with nine fingers, we would have "Top 9" lists. So, a "Top 10" list probably doesn't have the correct number of things.
-> **Original URL:** [https://longform.asmartbear.com/top-10/](https://longform.asmartbear.com/top-10/)
-
-How many things should there be on the list?
+كم عدد الأشياء التي يجب أن تكون في القائمة؟
 
 ![lots of acronyms acrostic help remember](https://public.asmartbear.com/books/anthology/chapters/top-10/d8527print-simple.png)
 
-#### 1: Focus
+#### 1: التركيز
 
-It's reductive to say [only one thing is important](https://longform.asmartbear.com/maximized-decision/), but it also ensures that it gets done, as quickly as possible.
+من الاختزال أن نقول [شيء واحد فقط مهم](https://longform.asmartbear.com/maximized-decision/)، ولكنه يضمن أيضًا إنجازه في أسرع وقت ممكن.
 
-#### 3: Magic Number
+#### 3: الرقم السحري
 
-Humans across the globe have always liked when things come in threes. Also you can remember them all.
+لقد أحب البشر في جميع أنحاء العالم دائمًا عندما تأتي الأشياء في ثلاثات. كما يمكنك تذكرهم جميعا.
 
-#### 7: Because 7 ± 2
+#### 7: لأن 7 ± 2
 
-From one of the most-cited [papers in psychology](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two), seven items is what the average person can keep in their head simultaneously. If you can't keep it in your head, even when you're trying very hard, it's too many items.
+من إحدى [الأبحاث في علم النفس] الأكثر استشهادًا بها (https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)، سبعة عناصر هي ما يمكن للشخص العادي أن يحتفظ به في رأسه في وقت واحد. إذا لم تتمكن من الاحتفاظ بها في رأسك، حتى عندما تحاول جاهدًا، فهي عناصر كثيرة جدًا.
 
-#### 5: Because with post-COVID brains, now it's 5 ± 2
+#### 5: لأنه مع أدمغة ما بعد كوفيد، أصبحت الآن 5 ± 2
 
-I have no data to support this claim, but I claim it nonetheless.
+ليس لدي أي بيانات تدعم هذا الادعاء، ولكنني أدعي ذلك على الرغم من ذلك.
 
-#### 17: One per team
+#### 17: واحد لكل فريق
 
-If you have 17 teams, perhaps you have 17 items. Normally this is too many items, but this is actually a repeat of "1: Focus" at the team level. It's still arguably too many if projects span multiple teams.
+إذا كان لديك 17 فريقًا، فربما يكون لديك 17 عنصرًا. عادةً ما يكون هذا عددًا كبيرًا جدًا من العناصر، ولكن هذا في الواقع تكرار لـ "1: التركيز" على مستوى الفريق. لا يزال هناك عدد كبير جدًا إذا كانت المشاريع تشمل فرقًا متعددة.
 
-#### 132: 100% completion
+#### 132: اكتمال 100%
 
-If there are 132 flags in the security audit, you could set a goal to address all of them. Getting through 100% of a specific set of things is a powerful statement. One could call this the same as "1: Focus" but with sub-items, where it's nice to have a checklist, and nice to feel progress as the team gets through the checklist, and clarity on why there are 132 items specifically, and a clear state-change when the very last item is finished (e.g. "We pass this audit, and then [large customer] renews for three years.")
+إذا كان هناك 132 علامة في التدقيق الأمني، فيمكنك تحديد هدف لمعالجتها جميعًا. يعد الحصول على 100% من مجموعة محددة من الأشياء بمثابة بيان قوي. يمكن للمرء أن يطلق على هذا نفس اسم "1: التركيز" ولكن مع عناصر فرعية، حيث من الجيد أن يكون لديك قائمة مرجعية، ومن الجيد أن تشعر بالتقدم أثناء مرور الفريق من خلال قائمة التحقق، والوضوح حول سبب وجود 132 عنصرًا على وجه التحديد، وتغيير واضح للحالة عند الانتهاء من العنصر الأخير (على سبيل المثال، "لقد اجتزنا عملية التدقيق هذه، ثم يتم تجديد [العميل الكبير] لمدة ثلاث سنوات.")
 
-#### 402,302: Bankruptcy
+#### 402,302 : الإفلاس
 
-An inbox with this many unread emails is the same as an inbox with no unread emails, except a number looms over your head. Declare "bankruptcy"--whether it's the email inbox or the Jira backlog. Archive[^1] it all. The important things will come back.
+البريد الوارد الذي يحتوي على العديد من رسائل البريد الإلكتروني غير المقروءة هو نفسه البريد الوارد الذي لا يحتوي على رسائل بريد إلكتروني غير مقروءة، باستثناء الرقم الذي يلوح في الأفق فوق رأسك. أعلن "الإفلاس" - سواء كان ذلك في صندوق البريد الإلكتروني أو تراكم Jira. أرشيف[^1] كل شيء. الأشياء المهمة سوف تعود
 
-[^1]: "Archive," rather than "delete," because disk space is close to free, and if you _really_ needed something after all, you still have it. Not quite Marie Condo.
+[^1]: "أرشفة" بدلاً من "حذف"، لأن مساحة القرص أصبحت قريبة من المساحة الحرة، وإذا كنت _حقًا_ بحاجة إلى شيء ما، فلا يزال لديك ذلك. ليس تماما ماري كوندو.
 
 ---
 
-Always Ask: **What is the purpose of this list?**
+اسأل دائمًا: **ما هو الغرض من هذه القائمة؟**
 
-Given its purpose, should there be more things or fewer things? Is there a _good reason_ why this the right number of things?
+وبالنظر إلى غرضه، هل يجب أن يكون هناك أشياء أكثر أم أقل؟ هل هناك سبب وجيه لماذا هذا العدد الصحيح من الأشياء؟
 
-Usually, fewer is better, and the right answer is almost never "10."
+عادةً ما يكون العدد الأقل هو الأفضل، والإجابة الصحيحة تقريبًا لا تكون "10".

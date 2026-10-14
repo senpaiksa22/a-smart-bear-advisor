@@ -20,115 +20,99 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كيف تميز بين النقد البنّاء والنصائح التجارية السيئة والمضللة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+## فرانكس وجيريز
 
----
+![Haiku: With their eyes of ice high-powered executives know better than you.](https://public.asmartbear.com/books/anthology/chapters/bad-advice/executives-high-powered-haiku-simple.png)
 
-### النص المرجعي للمقال (Original Reference):
-# Distinguishing constructive criticism from bad business advice
+لقد ذهلت عندما ظهر فرانك بعد 18 شهرًا من إنشاء شركتي Smart Bear. تخيل ذلك: كان فرانك نائبًا سابقًا للمبيعات ذو الشعر الفضي لشركة كبيرة وناجحة. لقد جعله الاكتتاب العام ثريًا بشكل مريح، والآن أراد الارتباط بشركة ناشئة جديدة واعدة. ومع سيرته الذاتية وما يكفي من المال حتى لا يضطر إلى العمل مرة أخرى، يمكن أن يكون انتقائيًا.
 
-> **Executive Summary:** Beware of advice that tries to change who you are. True wisdom guides you to a better version of yourself.
-> **Original URL:** [https://longform.asmartbear.com/bad-advice/](https://longform.asmartbear.com/bad-advice/)
+واختارني الصغير!
 
-## Franks & Gerrys
+والصبي هل (أعتقد أنني) بحاجة إليه. "أنا مجرد مطور برامج، ولا أعرف أي شيء عن المبيعات" شرحت لجيري، المؤسس المشارك في شركتي السابقة ITWatchDogs التي كانت تديرها في نفس الوقت، والذي كان قد عزز نفسه بالفعل كمرشد لي دون قصد. "أنا مجرد مهندس متواضع، وجاهل بالشعوذة الغامضة المتمثلة في أوامر الشراء المكونة من ستة أرقام. أنا لا ألعب الجولف حتى! *لقد كان فرانك هناك*."
 
-![Haiku:
-With their eyes of ice
-high-powered executives
-know better than you.](https://public.asmartbear.com/books/anthology/chapters/bad-advice/executives-high-powered-haiku-simple.png)
+حاول جيري أن يشرح. "ليس هناك سحر في ذلك. لقد بعت شركات مقابل 100 مليون دولار دون أن تطأ قدماك ملعب للجولف. لديك منتج جيد، ولديك بعض العملاء، لماذا تعتقد أنك بحاجة إلى التغيير؟ ماذا سيحدث لو واصلت العمل؟"
 
-I was starry-eyed when Frank showed up 18 months after the birth of my company, Smart Bear. Picture it: Frank was a silver-haired ex-VP-of-Sales for a big, successful company. An IPO had made him comfortably wealthy, and now he wanted to hook up with a promising new startup. With his résumé and enough money that he never had to work again, he could be choosy.
+نصيحة حكيمة! لذلك بالطبع لم أستمع.
 
-And he chose little ol' me!
+لقد توجهنا أنا وفرانك نحو الشراكة. كان لدى فرانك الكثير من الأفكار التي "علينا تنفيذها، وإلا فلن تقدم لنا أي شركة كبيرة المال". على سبيل المثال، كان علينا تغيير اسمنا. بدا "Smart Bear" لفرانك وكأنه موقع برامج تجريبية غبي لرجل واحد. ([مهم](https://longform.asmartbear.com/customer-love/)...) كنا بحاجة إلى شيء رواقي ومؤسسي. كان اقتراحه هو "Software Test and Deployment Systems, Inc" أو STDS[^1] للاختصار. وأوضح قائلاً: "الشركات الكبرى تحب الاختصارات"، كما لو كانت الشركات الكبرى كياناً قادراً على إبداء الرأي.
 
-And boy did I (think I) needed him. "I'm just a software developer, I don't know anything about sales" I explained to Gerry, my co-founder in my previous-and-also-running-simultaneously company ITWatchDogs, who had already unknowingly cemented himself as my mentor. "I'm just a lowly engineer, ignorant of the mystical voodoo of six-figure purchase orders. I don't even play golf! *Frank has been there*."
-
-Gerry tried to explain. "There's no magic to it. I've sold companies for $100 million without stepping foot on a golf course. You have a good product, you have some customers, why do you think you need to change? What would happen if you just kept going?"
-
-Sage advice! So of course I didn't listen.
-
-Frank and I headed down the road to partnership. Frank had lots of ideas that "we have to implement, otherwise no big company will give us money." For example, we had to change our name. "Smart Bear" sounded to Frank like a dorky one-man shareware site. ([Ahem](https://longform.asmartbear.com/customer-love/)...) We needed something stoic and corporate. His suggestion was "Software Test and Deployment Systems, Inc," or STDS[^1] for short. "Big companies like acronyms," he explained, as if Big Company were an entity capable of having an opinion.
-
-[^1]: It apparently didn't occur to him that this acronym is already taken. At least we could have leveraged viral marketing! (I could have said "used" but Frank would have said "leveraged".)
+[^1]: يبدو أنه لم يخطر بباله أن هذا الاختصار مأخوذ بالفعل. على الأقل كان بإمكاننا الاستفادة من التسويق الفيروسي! (كان بإمكاني أن أقول "مستخدم" لكن فرانك كان سيقول "مستفيد".)
 
 ![older wiser bear](https://public.asmartbear.com/books/anthology/chapters/bad-advice/bear-older-simple.png)
 
-There was more: We needed patents ("to keep competitors at bay"), we needed a sales team ("software doesn't sell itself"), and we needed to lighten up ("I like to knock off early on Fridays"). In fact, very little of what I was doing, was right.
+كان هناك المزيد: كنا بحاجة إلى براءات اختراع ("لإبعاد المنافسين")، وكنا بحاجة إلى فريق مبيعات ("البرمجيات لا تبيع نفسها")، وكنا بحاجة إلى التخفيف ("أحب التوقف مبكرًا في أيام الجمعة"). في الواقع، القليل جدًا مما كنت أفعله كان صحيحًا.
 
-Fortunately Gerry finally punched through Frank's dazzling fog. "Let me get this straight," he rightly admonished me for the fourth time, "this guy wants 50% of the company, he wants a salary while you get none, he's going to work 35 hours a week while you work weekends, he's not investing money into the company, and his big idea about how to get more customers is to change your name to venereal disease? Does this sound like a 50/50 partner? Or even someone you want involved at all?"
+لحسن الحظ، نجح جيري أخيرًا في اختراق ضباب فرانك المبهر. "دعني أوضح الأمر،" حذرني بحق للمرة الرابعة، "هذا الرجل يريد 50% من الشركة، ويريد راتباً بينما أنت لا تحصل على أي شيء، وسيعمل 35 ساعة في الأسبوع بينما تعمل أنت في عطلات نهاية الأسبوع، وهو لا يستثمر أموالاً في الشركة، وفكرته الكبيرة حول كيفية الحصول على المزيد من العملاء هي تغيير اسمك إلى مرض تناسلي؟ هل يبدو هذا وكأنه شريك 50/50؟ أو حتى شخص تريده على الإطلاق؟"
 
-Gerry's criticism of Frank was harsh--as harsh as Frank's criticism of me--but Gerry was right and luckily I (finally!) heeded him.
+كان انتقاد جيري لفرانك قاسيًا - بنفس قسوة انتقاد فرانك لي - لكن جيري كان على حق ولحسن الحظ أنني (أخيرًا!) أصغيت إليه.
 
-Two weeks later I landed a $50,000 deal with a Big Company. (It was Intuit.) **A few years later we were doing millions in revenue with Big Companies, still called Smart Bear, still no patents, still no sales guys.** Who knew? (Gerry knew.)[^2]
+وبعد أسبوعين حصلت على صفقة بقيمة 50 ألف دولار مع شركة كبيرة. (لقد كان Intuit.) ** وبعد بضع سنوات كنا نجني إيرادات بالملايين مع الشركات الكبرى، التي لا تزال تسمى Smart Bear، ولا توجد حتى الآن براءات اختراع، ولا يوجد رجال مبيعات.** من كان يعلم؟ (كان جيري يعلم.)[^2]
 
-[^2]: Editor's Note: I later [sold Smart Bear](https://longform.asmartbear.com/rich-vs-king-sold-company/), and [now it's worth](https://www.pehub.com/vista-equity-invests-in-franciscos-smartbear-pushing-valuation-to-1-8bn-plus/?utm_source=longform.asmartbear.com&utm_campaign=longform.asmartbear.com&utm_medium=post) over $2,000,000,000. And it's still called Smart Bear.
+[^2]: ملاحظة المحرر: قمت لاحقًا [ببيع Smart Bear](https://longform.asmartbear.com/rich-vs-king-sold-company/)، و[الآن أصبح الأمر كذلك] تبلغ قيمتها](https://www.pehub.com/vista-equity-invests-in-franciscos-smartbear-pushing-valuation-to-1-8bn-plus/?utm_source=longform.asmartbear.com&utm_campaign=longform.asmartbear.com&utm_medium=post) أكثر من 2,000,000,000 دولار. ولا يزال يسمى الدب الذكي.
 
-You have to understand though, saying no to Frank was hard. He had the expertise; I didn't. I was convinced that he was right and I was wrong. If it wasn't for Gerry's guidance, I would have gone through with it.
+عليك أن تفهم أن قول لا لفرانك كان أمرًا صعبًا. كان لديه الخبرة. لم أكن. كنت مقتنعا بأنه كان على حق وأنا على خطأ. لولا توجيهات جيري لكنت قد أكملت الأمر.
 
-So how do you separate the good counsel from the bad--the Gerrys from the Franks? Both sounded like practical advice and criticism, both were experienced, both were strong-willed, and both truly believed in what he was saying.
+فكيف يمكنك إذن أن تفصل بين المشورة الجيدة والمشورة السيئة، بين آل جيري وفرانك؟ بدا كلاهما وكأنه نصيحة عملية ونقد، وكلاهما كانا من ذوي الخبرة، وكلاهما كانا قويي الإرادة، وكلاهما كان مؤمنًا حقًا بما كان يقوله.
 
-## Dieting
+## اتباع نظام غذائي
 
-The answer can be found in the brutal world of dieting.
+يمكن العثور على الجواب في عالم الحمية الغذائية القاسي.
 
 ![bear eating a sandwich](https://public.asmartbear.com/books/anthology/chapters/bad-advice/bear-cooking-sandwich-2-simple.png)
 
-One thing we've learned from the diet crazes since the 1980s is that every single thing has been alternately touted as healthy or poison. No-fat, carb-heavy. Scratch that, no-carb and fat doesn't matter. Scratch that, it's only about low-cal. Scratch that, whole-30 and don't track calories. Scratch that, fast for sixteen hours a day and do anything for the other eight.
+شيء واحد تعلمناه من جنون النظام الغذائي منذ الثمانينيات هو أن كل شيء تم وصفه بالتناوب على أنه صحي أو سام. خالي من الدهون، غني بالكربوهيدرات. خدش ذلك، لا يهم عدم وجود الكربوهيدرات والدهون. اخدش ذلك، فالأمر يتعلق فقط بالسعرات الحرارية المنخفضة. اخدش ذلك، 30 قطعة كاملة ولا تتتبع السعرات الحرارية. خدش ذلك، صوم لمدة ستة عشر ساعة في اليوم وافعل أي شيء للثمانية الأخرى.
 
-Ask any person and they're equally variable: Which thing worked for them, or didn't, or worked for a while but it wasn't sustainable.
+اسأل أي شخص وستجده متغيرًا بنفس القدر: ما هو الشيء الذي نجح بالنسبة له، أو لم ينجح، أو الذي نجح لفترة من الوقت ولكنه لم يكن مستدامًا.
 
-So there is no objective answer to the question: What is the best diet?
+لذلك ليس هناك إجابة موضوعية على السؤال: ما هو النظام الغذائي الأفضل؟
 
-The only question is: What works *for me*?
+السؤال الوحيد هو: ما الذي يناسبني*؟
 
-Start-up advice is the same. For every example that incontrovertibly proves "X is right," there's another equally compelling story of success where the mantra was "X is wrong." The company that won [because prices were low](https://longform.asmartbear.com/never-compete-on-price/) and the company that won because [prices were high](https://longform.asmartbear.com/more-or-less/). The founder who built the company [on top of a thriving Twitter following](https://longform.asmartbear.com/zero-sum-marketing/) with no advertising and the company where the founder [ran ads](https://longform.asmartbear.com/begin-advertising/) and isn't on social media at all. The company that started because "[I scratched my own itch](https://longform.asmartbear.com/scratched-my-own-itch/)" and the company that started because "I researched and located an [underserved niche in the market](https://longform.asmartbear.com/problem/)." The company where the founder won because [she was an expert](https://longform.asmartbear.com/expert-harmful/) in that field and the company where the founder won because she adopted a [new perspective](https://longform.asmartbear.com/worse-but-unique/) in that field.
+نصيحة البدء هي نفسها. مقابل كل مثال يثبت بشكل لا يقبل الجدل أن "X على حق"، هناك قصة نجاح أخرى مقنعة بنفس القدر حيث كان الشعار "X على خطأ". الشركة التي فازت [لأن الأسعار كانت منخفضة](https://longform.asmartbear.com/never-compete-on-price/) والشركة التي فازت لأن [الأسعار كانت مرتفعة](https://longform.asmartbear.com/more-or-less/). المؤسس الذي أنشأ الشركة [بالإضافة إلى متابعي تويتر المزدهرين](https://longform.asmartbear.com/zero-sum-marketing/) بدون إعلانات والشركة التي [عرض فيها المؤسس إعلانات](https://longform.asmartbear.com/begin-advertising/) ولا يتواجد على وسائل التواصل الاجتماعي على الإطلاق. الشركة التي بدأت لأنني "[خدشت حكة نفسي](https://longform.asmartbear.com/scratched-my-own-itch/)" والشركة التي بدأت لأنني "بحثت وعثرت على [مكانة محرومة في السوق](https://longform.asmartbear.com/problem/)." الشركة التي فاز فيها المؤسس لأنها [كانت خبيرة](https://longform.asmartbear.com/expert-harmful/) في هذا المجال والشركة التي فاز فيها المؤسس لأنها تبنت [منظورًا جديدًا](https://longform.asmartbear.com/worse-but-unique/) في هذا المجال.
 
-So how do we answer the question: **Which advice is right *for me*?**
+فكيف نجيب على السؤال: **ما هي النصيحة المناسبة *بالنسبة لي*؟**
 
-In diets, half the answer is physiological--how your body reacts. The analog in startups is: What is right for this company, [in this market](https://longform.asmartbear.com/problem/), with [these competitors](https://longform.asmartbear.com/compete-on-profit/), with [these customers](https://longform.asmartbear.com/icp-ideal-customer-persona/), at [this price-point](https://longform.asmartbear.com/pricing-determines-your-business-model/), with [this business model](https://blog.asmartbear.com/advice-from-internet.html), with this team, with [our strengths](https://longform.asmartbear.com/leverage/), with our goals, with [our financing](https://longform.asmartbear.com/annual-prepay/), with [our culture](https://longform.asmartbear.com/success-guaranteed/). Usually the answer is different from what made sense for Steve Jobs or Bill Gates or Mark Zuckerberg or Jason Fried or Pieter Levels, even though those are the stories we constantly hear. Indeed, all of those are outliers even among their contemporaries; no one should attempt to follow their unique paths.
+في الأنظمة الغذائية، نصف الإجابة فسيولوجية – كيف يتفاعل جسمك. التناظرية في الشركات الناشئة هي: ما هو المناسب لهذه الشركة، [في هذا السوق](https://longform.asmartbear.com/problem/)، مع [هؤلاء المنافسين](https://longform.asmartbear.com/compete-on-profit/)، مع [هؤلاء العملاء](https://longform.asmartbear.com/icp-ideal-customer-persona/)، في [هذا نقطة السعر](https://longform.asmartbear.com/pricing-determines-your-business-model/)، مع [نموذج الأعمال هذا](https://blog.asmartbear.com/advice-from-internet.html)، مع هذا الفريق، مع [نقاط القوة لدينا](https://longform.asmartbear.com/leverage/)، مع أهدافنا، مع [لدينا التمويل](https://longform.asmartbear.com/annual-prepay/)، مع [ثقافتنا](https://longform.asmartbear.com/success-guaranteed/). عادةً ما تكون الإجابة مختلفة عما كان منطقيًا بالنسبة لستيف جوبز أو بيل جيتس أو مارك زوكربيرج أو جايسون فرايد أو بيتر ليفيلز، على الرغم من أن هذه هي القصص التي نسمعها باستمرار. في الواقع، كل هؤلاء يعتبرون متطرفين حتى بين معاصريهم؛ لا ينبغي لأحد أن يحاول اتباع مساراته الفريدة.
 
-In diets, the other half of the answer is sustainability--can you keep doing this for a long time? Diets work only with a lifestyle change, not when it takes fresh willpower every single day. It's fine to say "[social media is the key](https://longform.asmartbear.com/first-marketing-channel/) to your marketing success", but if you think Twitter is [insipid](https://longform.asmartbear.com/social-media-marketing/) and Facebook is unserious and Instagram is fake, will you really be successful if you force yourself to post there? Or should you follow the path of most companies, whose marketing is not primarily powered by social media? It's fine to say user interface design is critical, but thousands of [successful companies have crappy design](https://longform.asmartbear.com/design/), so if you're not a designer and don't care to invest in one, you should be asking what [makes companies successful *despite* poor design](https://longform.asmartbear.com/buy-both/).
+في الأنظمة الغذائية، النصف الآخر من الإجابة هو الاستدامة - هل يمكنك الاستمرار في القيام بذلك لفترة طويلة؟ تعمل الأنظمة الغذائية فقط مع تغيير نمط الحياة، وليس عندما يتطلب الأمر قوة إرادة جديدة كل يوم. من الجيد أن تقول "[وسائل التواصل الاجتماعي هي المفتاح](https://longform.asmartbear.com/first-marketing-channel/) لنجاحك التسويقي"، ولكن إذا كنت تعتقد أن Twitter [غير لذيذ](https://longform.asmartbear.com/social-media-marketing/) وأن Facebook غير جاد وInstagram مزيف، فهل ستنجح حقًا إذا أجبرت نفسك على النشر هناك؟ أم يجب عليك اتباع مسار معظم الشركات التي لا يعتمد تسويقها بشكل أساسي على وسائل التواصل الاجتماعي؟ من الجيد أن نقول إن تصميم واجهة المستخدم أمر بالغ الأهمية، ولكن الآلاف من [الشركات الناجحة لديها تصميم سيئ](https://longform.asmartbear.com/design/)، لذلك إذا لم تكن مصممًا ولا تهتم بالاستثمار في واحدة، فيجب أن تسأل ما الذي [يجعل الشركات ناجحة *على الرغم من* التصميم السيئ](https://longform.asmartbear.com/buy-both/).
 
-How do you determine those personal dimensions ("Who am I?") or the corporate ones (the list above)? This takes real work; [this article explains my system for finding both](https://longform.asmartbear.com/pivot-points/).
+كيف يمكنك تحديد تلك الأبعاد الشخصية ("من أنا؟") أو الأبعاد المؤسسية (القائمة أعلاه)؟ وهذا يتطلب عملاً حقيقياً؛ [تشرح هذه المقالة نظامي للعثور على كليهما](https://longform.asmartbear.com/pivot-points/).
 
-## Finding your truth
+## العثور على الحقيقة الخاصة بك
 
-Beyond the tools in that article, the following have helped me discern the Franks from the Gerrys:
+بالإضافة إلى الأدوات الموجودة في تلك المقالة، فقد ساعدني ما يلي في تمييز الفرانكيين عن الجيريين:
 
 ![we used to sit on peoples shoulders give conflicting advice?searchid=44934](https://public.asmartbear.com/books/anthology/chapters/bad-advice/d7603print-simple.png)
 
-#### Insight, or an excuse?
-Ask yourself: Do I like this advice because it's justifying some behavior that deep down I know is actually wrong? Or do I like it because it's clearly articulating a ground truth? For example, if you inherently dislike social media, of course you can find advice telling you how social media isn't important, but did you enjoy that because it feels correct deep down that social media is a farce, or did you enjoy that because it's an excuse to [avoid the truth](https://longform.asmartbear.com/failure-to-face-the-truth/) that social media is critical in your chosen market. If you proactively ask yourself--even though these are feelings--the answer will often be clear.
+#### بصيرة أم عذر؟
+اسأل نفسك: هل تعجبني هذه النصيحة لأنها تبرر بعض السلوكيات التي أعرف في أعماقي أنها خاطئة بالفعل؟ أم أنني أحب ذلك لأنه يعبر بوضوح عن حقيقة أساسية؟ على سبيل المثال، إذا كنت تكره وسائل التواصل الاجتماعي بطبيعتك، بالطبع يمكنك العثور على نصيحة تخبرك بأن وسائل التواصل الاجتماعي ليست مهمة، ولكن هل استمتعت بذلك لأنه يبدو صحيحًا في أعماقك أن وسائل التواصل الاجتماعي مجرد مهزلة، أم استمتعت بذلك لأنها ذريعة [لتجنب الحقيقة](https://longform.asmartbear.com/failure-to-face-the-truth/) أن وسائل التواصل الاجتماعي مهمة في السوق الذي اخترته. إذا سألت نفسك بشكل استباقي - على الرغم من أن هذه مشاعر - فإن الإجابة غالبًا ما تكون واضحة.
 
-#### Context
-Advice is valid only within a certain context, yet the boundary of that context is often unknown to both advisor and advisee. The rule of thumb is: Advisors give advice to themselves. Meaning: Within the boundaries of their personal goals, their world-view, the markets and products and customers and competitors that they've experienced, they can probably provide some great advice. Outside of that, who knows? So ask yourself: Does the person behind the advice match me on all those dimensions? If so, this could be relevant wisdom, even if the message is hard to hear. If not, you can either ignore it completely (["Focus!"](https://longform.asmartbear.com/focus/)) or sift it through a substantial mental filter.
+#### سياق
+تكون النصيحة صالحة فقط ضمن سياق معين، ومع ذلك فإن حدود هذا السياق غالبًا ما تكون غير معروفة لكل من المستشار والمستشار. القاعدة الأساسية هي: المستشارون يقدمون النصائح لأنفسهم. المعنى: ضمن حدود أهدافهم الشخصية، ونظرتهم للعالم، والأسواق والمنتجات والعملاء والمنافسين الذين جربوهم، ربما يمكنهم تقديم بعض النصائح الرائعة. خارج ذلك، من يدري؟ لذا اسأل نفسك: هل الشخص الذي يقف وراء النصيحة يطابقني في كل هذه الأبعاد؟ إذا كان الأمر كذلك، فقد تكون هذه حكمة ذات صلة، حتى لو كان من الصعب سماع الرسالة. إذا لم يكن الأمر كذلك، فيمكنك إما تجاهلها تمامًا ("التركيز!"](https://longform.asmartbear.com/focus/)) أو غربلتها من خلال مرشح عقلي كبير.
 
-#### Questions, not answers
-The best advice doesn't come as a barrage of commands but rather from a series of questions, asked by a devil's advocate. Rarely will an advisor know more than you do about your domain of expertise but that doesn't mean an outside voice is useless. Pointed questions force you to defend your choices. A healthy debate challenges your assumptions without implying they're false. New ideas are batted around as a brainstorm rather than handed down as gospel. Even Roger Federer has a coach, not because the coach is "better at tennis" or giving him commands, but because he is a mirror and a provocateur. In my case, Frank presented his view as a series of statements; axioms, even. Gerry couched his perspective as pointed questions that required either rebuttal or agreement. In fact, playing devil's advocate is a great exercise to do periodically. Find an intelligent foe, take her to lunch, and follow Scott Berkun's advice about [Rude Q&A](https://longform.asmartbear.com/devils-advocate/).
+#### أسئلة وليست إجابات
+إن أفضل النصائح لا تأتي كوابل من الأوامر، بل من خلال سلسلة من الأسئلة التي يطرحها أحد محامي الشيطان. نادرًا ما يعرف المستشار أكثر مما تعرفه عن مجال خبرتك، لكن هذا لا يعني أن الصوت الخارجي عديم الفائدة. الأسئلة المدببة تجبرك على الدفاع عن اختياراتك. إن النقاش الصحي يتحدى افتراضاتك دون الإشارة إلى أنها خاطئة. يتم طرح الأفكار الجديدة كعصف ذهني بدلاً من تسليمها كإنجيل. حتى روجر فيدرر لديه مدرب، ليس لأن المدرب "أفضل في التنس" أو يعطيه الأوامر، ولكن لأنه مرآة ومستفز. في حالتي، قدم فرانك وجهة نظره في شكل سلسلة من التصريحات؛ البديهيات، حتى. صاغ جيري وجهة نظره على أنها أسئلة محددة تتطلب إما الدحض أو الموافقة. في الواقع، لعب دور محامي الشيطان هو تمرين رائع يجب القيام به بشكل دوري. ابحث عن عدو ذكي، واصطحبها لتناول الغداء، واتبع نصيحة سكوت بيركون حول [أسئلة وأجوبة وقحة](https://longform.asmartbear.com/devils-advocate/).
 
-#### Some learning starts with revulsion
-Pay attention to advice where you have an immediate, automatic revulsion. Often this feeling is correct, because you're want advice that matches your context, and revulsion indicates a mismatch. But, if you are wrong about something, this is what it feels like to discover that. This is an opportunity; don't waste it!
+#### بعض التعلم يبدأ بالاشمئزاز
+انتبه إلى النصائح التي تشعر فيها بالاشمئزاز الفوري والتلقائي. غالبًا ما يكون هذا الشعور صحيحًا، لأنك تريد نصيحة تتوافق مع سياقك، والاشمئزاز يشير إلى عدم التطابق. ولكن، إذا كنت مخطئًا بشأن شيء ما، فهذا هو ما تشعر به عندما تكتشف ذلك. هذه فرصة؛ لا تضيعوه!
 
-#### "This is how it's done"
-"This is how it's done" is almost never a good reason. If the sole basis for the advice is "tradition," it's just momentum and you might be right to buck the trend. Example: Smart Bear posts its prices on the internet rather than negotiating. Enterprise software sales are rarely done that way, but posting your price is honest and [makes business sense](https://longform.asmartbear.com/discount-gambit/), so we do it anyway. That said, many founders act like tradition is there to be contradicted. Much of tradition is hard-won wisdom. So, traditional answers carry neither positive nor negative baggage; they should be investigated like all other ideas.
+#### "هكذا يتم الأمر"
+"هذه هي الطريقة التي يتم بها الأمر" لا تعد سببًا وجيهًا على الإطلاق. إذا كان الأساس الوحيد للنصيحة هو "التقاليد"، فهذا مجرد زخم وقد يكون من حقك أن تخالف هذا الاتجاه. مثال: تقوم شركة Smart Bear بنشر أسعارها على الإنترنت بدلاً من التفاوض. نادرًا ما تتم مبيعات برامج المؤسسات بهذه الطريقة، ولكن نشر سعرك أمر صادق و[أمر منطقي من الناحية التجارية](https://longform.asmartbear.com/discount-gambit/)، لذلك نحن نقوم بذلك على أي حال. ومع ذلك، فإن العديد من المؤسسين يتصرفون وكأن التقاليد موجودة ويجب مناقضتها. الكثير من التقاليد هي حكمة تم الحصول عليها بشق الأنفس. لذا فإن الإجابات التقليدية لا تحمل أي حمولة إيجابية أو سلبية؛ وينبغي التحقيق فيها مثل كل الأفكار الأخرى.
 
-#### Constructive vs critical
-[It's easy to cut down ideas](https://longform.asmartbear.com/criticize-create/); it's hard to create and execute them. Give me any idea and I can find someone who thinks it's dumb. So what? "Constructive" criticism means constructing, not just blasting. Look for advice with a clear method for implementation and a clear way to know whether it is working, especially since an idea worked for one company might not work for another.
+#### البناءة مقابل الحرجة
+[من السهل اختصار الأفكار](https://longform.asmartbear.com/criticize-create/)؛ فمن الصعب إنشائها وتنفيذها. أعطني أي فكرة ويمكنني العثور على شخص يعتقد أنها غبية. وماذا في ذلك؟ النقد "البناء" يعني البناء، وليس التفجير فقط. ابحث عن النصائح بطريقة واضحة للتنفيذ وطريقة واضحة لمعرفة مدى نجاحها، خاصة أن الفكرة التي نجحت في شركة قد لا تنجح في شركة أخرى.
 
-#### Put your metrics where your mouth is
-Does the advisor volunteer a [clear way to measure](https://longform.asmartbear.com/product-metrics/) the success of her new idea? If so, the idea is self-evaluating, and you can change if it happens to not work for you. This is the guiding principle behind our marketing efforts at Smart Bear.
+#### ضع مقاييسك حيث فمك
+هل يتطوع المستشار بـ [طريقة واضحة لقياس](https://longform.asmartbear.com/product-metrics/) مدى نجاح فكرته الجديدة؟ إذا كان الأمر كذلك، فإن الفكرة تخضع للتقييم الذاتي، ويمكنك التغيير إذا لم تنجح معك. هذا هو المبدأ التوجيهي وراء جهودنا التسويقية في Smart Bear.
 
-#### Develop relationships
-Actively develop a network of trusted advisors. These could be local entrepreneurs, on-line forums, even bloggers you like. Everyone needs a Gerry or two. Advisors won't always agree with each other of course, but nothing beats running ideas past people you respect and who truly have your interests at heart, even if their advice ends up being wrong.
+#### تطوير العلاقات
+تطوير شبكة من المستشارين الموثوق بهم بشكل فعال. يمكن أن يكون هؤلاء رواد أعمال محليين ومنتديات عبر الإنترنت وحتى مدونين تحبهم. الجميع يحتاج إلى جيري أو اثنين. لن يتفق المستشارون دائمًا مع بعضهم البعض بالطبع، ولكن لا شيء يتفوق على عرض الأفكار على الأشخاص الذين تحترمهم والذين لديهم اهتماماتك حقًا، حتى لو كانت نصيحتهم في النهاية خاطئة.
 
-#### Gut feel
-Your gut often knows the answer. I know you don't want the answer to be "feelings," but sometimes [feelings are wiser than thoughts](https://longform.asmartbear.com/perseverance/). In a world where both "X" and "Not-X" are convincingly peddled as The One True Way, you might need something outside of pure logic to resolve the path. If you find yourself vigorously agreeing with some new idea, that might be all the evidence you need.
+#### الشعور الغريزي
+غالبًا ما تعرف أمعائك الإجابة. أعلم أنك لا تريد أن تكون الإجابة "مشاعر"، ولكن في بعض الأحيان تكون [المشاعر أكثر حكمة من الأفكار](https://longform.asmartbear.com/perseverance/). في عالم يتم فيه الترويج لكل من "X" و"Not-X" بشكل مقنع على أنهما "الطريق الصحيح الوحيد"، قد تحتاج إلى شيء خارج المنطق الخالص لحل المسار. إذا وجدت نفسك توافق بشدة على فكرة جديدة ما، فقد يكون هذا هو كل الدليل الذي تحتاجه.
 
-Besides, [no one knows what's right, not even me](https://longform.asmartbear.com/survivor-bias/).
+علاوة على ذلك، [لا أحد يعرف ما هو الصواب، ولا حتى أنا](https://longform.asmartbear.com/survivor-bias/).
 
-Seek advice that helps you become a better version of yourself, not advice that aims to change who you are.
+اطلب النصيحة التي تساعدك على أن تصبح نسخة أفضل من نفسك، وليس النصيحة التي تهدف إلى تغيير شخصيتك.
 
-Being yourself is the only thing you're going to be [good at](https://longform.asmartbear.com/fulfillment/), anyway, which is what will give you the [leverage you need to win](https://longform.asmartbear.com/leverage/).
+أن تكون على طبيعتك هو الشيء الوحيد الذي ستكون [جيدًا فيه](https://longform.asmartbear.com/fulfillment/)، على أي حال، وهو ما سيمنحك [الرافعة المالية التي تحتاجها للفوز](https://longform.asmartbear.com/leverage/).

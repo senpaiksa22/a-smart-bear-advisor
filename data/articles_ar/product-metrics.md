@@ -20,132 +20,119 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كيف تختار مقاييس الأداء الصحيحة لمنتجك (KPIs) تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Selecting the right product metrics (KPIs)
-
-> **Executive Summary:** A novel system for selecting and presenting product KPIs, satisfying not only the product team, but also stakeholders, executives, and customers.
-> **Original URL:** [https://longform.asmartbear.com/product-metrics/](https://longform.asmartbear.com/product-metrics/)
-
 ![you redefine key metrics dynamic optimization alignment you figure what that means](https://public.asmartbear.com/books/anthology/chapters/product-metrics/d6720print-simple.png)
 
-Executives want financial outcomes, strategists want systemic impact, managers want team accountability, teams want credit for executing work, planners want to track progress, ops wants to know that systems are stable and secure.
+يريد المسؤولون التنفيذيون نتائج مالية، ويريد الاستراتيجيون تأثيرًا نظاميًا، ويريد المديرون مساءلة الفريق، وتريد الفرق الحصول على ائتمان لتنفيذ العمل، ويريد المخططون تتبع التقدم، ويريد قسم العمليات معرفة أن الأنظمة مستقرة وآمنة.
 
-How do we select metrics that satisfy everyone?
+كيف نختار المقاييس التي ترضي الجميع؟
 
-Much blood has been spilled on this topic. Frameworks range from poster-sized interconnected [networks of boxes and arrows](https://tinyurl.com/ybylrxq9), to reductively selecting a single [North Star metric](https://amplitude.com/blog/product-north-star-metric) to [rule them all](https://future.com/north-star-metrics/), to cascading goals like [OKRs](https://en.wikipedia.org/wiki/OKR). An organization should pick whichever framework is most likely to be adopted and honored.
+لقد أريق الكثير من الدماء حول هذا الموضوع. تتراوح الأطر من [شبكات من الصناديق والأسهم] مترابطة بحجم الملصق (https://tinyurl.com/ybylrxq9)، إلى اختيار [مقياس North Star] واحد بشكل اختزالي (https://amplitude.com/blog/product-north-star-metric) إلى [الحكم عليهم جميعًا](https://future.com/north-star-metrics/)، إلى الأهداف المتتالية مثل [الأهداف والأهداف OKR](https://en.wikipedia.org/wiki/OKR). يجب على المنظمة أن تختار إطار العمل الذي من المرجح أن يتم اعتماده وتكريمه.
 
-I used to believe that "one true metric" with a smattering of operational indicators was the best way to focus a team on "what matters most." But I've come to believe in a more comprehensive system, that addresses all of the needs outlined in the opening paragraph.
+كنت أعتقد أن "مقياسًا حقيقيًا واحدًا" مع عدد قليل من المؤشرات التشغيلية هو أفضل طريقة لتركيز الفريق على "الأمور الأكثر أهمية". لكنني أصبحت أؤمن بنظام أكثر شمولاً، يعالج جميع الاحتياجات الموضحة في الفقرة الافتتاحية.
 
-Here is that system. Because all departments can "see themselves" in the result, I believe it makes stakeholders more comfortable, while giving the product team at the center of the maelstrom a practical view, not only of everything they do, but of everything they affect. It allows the team to measure things in the short-run while also maintaining the long view.
+وهنا هذا النظام. نظرًا لأن جميع الأقسام يمكن أن "ترى نفسها" في النتيجة، أعتقد أن ذلك يجعل أصحاب المصلحة أكثر راحة، بينما يمنح فريق المنتج في قلب الدوامة رؤية عملية، ليس فقط لكل ما يفعلونه، ولكن لكل ما يؤثرون عليه. فهو يسمح للفريق بقياس الأشياء على المدى القصير مع الحفاظ أيضًا على الرؤية الطويلة.
 
-## Metrics as a value-chain
+## المقاييس كسلسلة قيمة
 
-A product sits in the middle of a chain of events, executed by the team, customers, and peers across all departments. The first step in understanding metrics, is to plot these events in time, by actor, and by the type of so-called "value" we might measure:
+يقع المنتج في منتصف سلسلة من الأحداث، ينفذها الفريق والعملاء والأقران في جميع الأقسام. الخطوة الأولى في فهم المقاييس هي رسم هذه الأحداث في الوقت المناسب، حسب الممثل، ونوع ما يسمى "القيمة" التي قد نقيسها:
 
 ![Product KPI Framework](https://public.asmartbear.com/books/anthology/chapters/product-metrics/product-kpi-framework-simple.png)
 
-Use coloring to specify which metrics you are [maximizing vs satisficing](https://longform.asmartbear.com/maximizing/). Often "maximizers" are critical for the success of the product, whereas "satisficers" are important operational indicators that can't be ignored, and require attention if they become a problem,[^1] but under normal circumstances shouldn't distract us from what is most important.
+استخدم التلوين لتحديد المقاييس التي تريد [تعظيمها مقابل إرضائك](https://longform.asmartbear.com/maximizing/). غالبًا ما تكون "عوامل التعظيم" حاسمة لنجاح المنتج، في حين أن "عوامل الرضا" هي مؤشرات تشغيلية مهمة لا يمكن تجاهلها، وتتطلب الاهتمام إذا أصبحت مشكلة،[^1] ولكن في الظروف العادية لا ينبغي أن تصرف انتباهنا عن ما هو أكثر أهمية.
 
-Once you have this map, the metrics almost write themselves. Each box has one or more metrics that explains whether "it is happening" or "we're making progress." You could go a step further, adding arrows[^2] to indicate influences or funnels or conversions, adding metrics to each arrow.
+بمجرد حصولك على هذه الخريطة، ستكتب المقاييس نفسها تقريبًا. يحتوي كل مربع على مقياس واحد أو أكثر يوضح ما إذا كان "هذا يحدث" أو "إننا نحرز تقدمًا". يمكنك المضي قدمًا بإضافة أسهم[^2] للإشارة إلى التأثيرات أو مسارات التحويل أو التحويلات، وإضافة مقاييس إلى كل سهم.
 
-[^1]: At [WP Engine](https://wpengine.com/) we're very happy with [Google's system for managing SLOs](https://sre.google/workbook/implementing-slos/), in which "satisficing" KPIs are tracked continuously, but the team acts only when a KPI slips into "violation" territory, as opposed to fielding requests to invest in improving those KPIs. This threshold is pre-agreed with stakeholders, in periodic meetings outside of high-emotion catastrophes, when everyone can soberly decide under what circumstances we will interrupt high-value work to address a critical problem.
+[^1]: في [WP Engine](https://wpengine.com/) نحن سعداء جدًا بـ [نظام Google لإدارة SLOs](https://sre.google/workbook/implementing-slos/)، حيث يتم تتبع مؤشرات الأداء الرئيسية "المُرضية" بشكل مستمر، ولكن الفريق يتصرف فقط عندما ينزلق مؤشر الأداء الرئيسي إلى منطقة "الانتهاك"، بدلاً من إرسال طلبات للاستثمار في تحسين مؤشرات الأداء الرئيسية هذه. يتم الاتفاق على هذه العتبة مسبقًا مع أصحاب المصلحة، في اجتماعات دورية خارج نطاق الكوارث ذات المشاعر العالية، عندما يستطيع الجميع أن يقرروا تحت أي ظروف سنوقف العمل عالي القيمة لمعالجة مشكلة حرجة.
 
-[^2]: Also called a [systems diagram](https://www.focusedchaos.co/p/your-startup-is-a-system-you-can-map), it could make the chart too busy, especially when "many things affect many things," resulting in a dizzying bird's nest of arrows. Perhaps the simplicity of "boxes only" outweighs the benefit of specifying all the value-flows. Or maybe include only the few, most-important arrows.
+[^2]: يُطلق عليه أيضًا [مخطط الأنظمة](https://www.focusedchaos.co/p/your-startup-is-a-system-you-can-map)، وقد يجعل المخطط مزدحمًا للغاية، خاصة عندما "تؤثر أشياء كثيرة على أشياء كثيرة"، مما يؤدي إلى مجموعة من الأسهم المذهلة. ولعل بساطة "المربعات فقط" تفوق فائدة تحديد جميع تدفقات القيمة. أو ربما تتضمن فقط الأسهم القليلة الأكثر أهمية.
 
-## The axis of "time, immediacy, and control"
+## محور "الوقت والفورية والسيطرة"
 
-The horizontal axis emphasizes that some events happen prior to activity controlled by the product team, and some happen after. Most metrics frameworks have this concept of "leading" and "lagging" indicators, though some confusingly mix them all together.[^3]
+ويؤكد المحور الأفقي على أن بعض الأحداث تحدث قبل النشاط الذي يتحكم فيه فريق المنتج، وبعضها يحدث بعد ذلك. تحتوي معظم أطر عمل المقاييس على مفهوم المؤشرات "الرائدة" و"المتأخرة"، على الرغم من أن البعض يخلطها جميعًا معًا بشكل مربك.[^3]
 
-[^3]: For example, often top-level OKRs are multi-input, lagging indicators, whereas team KPIs might be immediate, and it's unclear where leading indicators go. This leads to unhappy conversations when teams meet their immediate KPIs, but the company's overall KPIs appear unaffected.
+[^3]: على سبيل المثال، غالبًا ما تكون الأهداف والنتائج الرئيسية ذات المستوى الأعلى عبارة عن مؤشرات متعددة المدخلات ومتأخرة، في حين أن مؤشرات الأداء الرئيسية للفريق قد تكون فورية، وليس من الواضح إلى أين تذهب المؤشرات الرئيسية. ويؤدي هذا إلى محادثات غير سعيدة عندما تلبي الفرق مؤشرات الأداء الرئيسية الخاصة بها، ولكن يبدو أن مؤشرات الأداء الرئيسية الإجمالية للشركة لم تتأثر.
 
-Between those temporal bookends, we highlight that some of a product team's activity can (1) be measured immediately and (2) the team is [in full control](https://longform.asmartbear.com/in-command/) of those effects, and therefore the team should be held directly accountable to those things.
+بين هذه العطل الزمنية، نسلط الضوء على أن بعض أنشطة فريق المنتج يمكن (1) قياسها على الفور و(2) الفريق [في السيطرة الكاملة](https://longform.asmartbear.com/in-command/) على تلك التأثيرات، وبالتالي يجب أن يكون الفريق مسؤولاً بشكل مباشر عن هذه الأشياء.
 
-This resolves the typical conflict that arises when executives ask "why isn't the team more focused on increasing revenue in the next 60 days" while the team insists "other people don't understand that we're doing a lot of important work." Work can--and should--be measured sprint-by-sprint, whereas revenue is a multi-input, lagging indicator of success. The product team *is* responsible for generating revenue, but it is not the *only* team or actor contributing to that final result, and a change in the product can take a while to show up in revenue; [individual features often cannot be directly linked to revenue](https://longform.asmartbear.com/unmeasurable-metrics/) at all.
+وهذا يحل الصراع النموذجي الذي ينشأ عندما يسأل المسؤولون التنفيذيون "لماذا لا يركز الفريق بشكل أكبر على زيادة الإيرادات في الستين يومًا القادمة" بينما يصر الفريق على أن "الأشخاص الآخرين لا يفهمون أننا نقوم بالكثير من العمل المهم". يمكن - بل وينبغي - قياس العمل سباقًا تلو الآخر، في حين أن الإيرادات تعد مؤشرًا متعدد المدخلات ومتأخرًا للنجاح. فريق المنتج *هو* المسؤول عن تحقيق الإيرادات، ولكنه ليس الفريق أو الممثل *الوحيد* الذي يساهم في تلك النتيجة النهائية، وقد يستغرق التغيير في المنتج بعض الوقت حتى يظهر في الإيرادات؛ [في كثير من الأحيان لا يمكن ربط الميزات الفردية بشكل مباشر بالإيرادات](https://longform.asmartbear.com/unmeasurable-metrics/) على الإطلاق.
 
-This doesn't make "revenue" less important--indeed, it might be *the* most important metric! Rather, we have placed the metric in context, and understood that it can lag by months or even years,[^4] and therefore isn't a good measure of what's happening right now. If we're successful at our "work" but not our "financial impact," our conversation is naturally directed towards diagnosing that disconnect. If we're not even successfully completing our "work," or if the features that we made aren't being used often, those are immediate facts and within the team's control, and metrics should reveal it, regardless of downstream consequences on revenue. You can't argue against solving for the customer!
+هذا لا يجعل "الإيرادات" أقل أهمية - في الواقع، قد تكون *المقياس* الأكثر أهمية! وبدلاً من ذلك، وضعنا المقياس في سياقه، وأدركنا أنه يمكن أن يتأخر لعدة أشهر أو حتى سنوات،[^4] وبالتالي فهو ليس مقياسًا جيدًا لما يحدث الآن. إذا كنا ناجحين في "عملنا" ولكن ليس "تأثيرنا المالي"، فإن محادثتنا موجهة بشكل طبيعي نحو تشخيص هذا الانفصال. إذا لم نقم بإكمال "عملنا" بنجاح، أو إذا كانت الميزات التي قمنا بإنشائها لا يتم استخدامها كثيرًا، فهذه حقائق فورية وتقع ضمن سيطرة الفريق، ويجب أن تكشفها المقاييس، بغض النظر عن العواقب النهائية على الإيرادات. لا يمكنك الجدال ضد الحل للعميل!
 
-[^4]: Blackberry's revenue continued to grow for two years after the iPhone launched; other KPIs were changing far more rapidly, and therefore were even more important to track.
+[^4]: استمرت إيرادات بلاك بيري في النمو لمدة عامين بعد إطلاق iPhone؛ وكانت مؤشرات الأداء الرئيسية الأخرى تتغير بسرعة أكبر بكثير، وبالتالي كان تتبعها أكثر أهمية.
 
-Notice that often the "definition of success" also resides in those lagging indicators. This is another traditional cause of confusion, often articulated as "we should celebrate outcomes, not work." It is true that if our work doesn't result in the desired outcomes, we're not finished yet. But, if we believe that [the world is inherently unpredictable](https://longform.asmartbear.com/predict-the-future/), that [not all work will yield a large outcome](https://longform.asmartbear.com/rocks-pebbles-sand/), that outcomes require a [combination of execution and luck](https://longform.asmartbear.com/survivor-bias/), then we should agree that the job of an agile team is to continuously tackle that complex challenge, as opposed to expecting every idea to consistently produce the desired outcome.
+لاحظ أن "تعريف النجاح" غالبًا ما يكمن أيضًا في تلك المؤشرات المتأخرة. وهذا سبب تقليدي آخر للارتباك، والذي يتم التعبير عنه غالبًا على أنه "يجب علينا أن نحتفل بالنتائج، وليس العمل". صحيح أنه إذا لم يسفر عملنا عن النتائج المرجوة، فإننا لم ننتهي بعد. ولكن، إذا كنا نعتقد أن [العالم لا يمكن التنبؤ به بطبيعته](https://longform.asmartbear.com/predict-the-future/)، وأن [ليس كل عمل سيؤدي إلى نتائج كبيرة](https://longform.asmartbear.com/rocks-pebbles-sand/)، وأن النتائج تتطلب [مزيجًا من التنفيذ والحظ](https://longform.asmartbear.com/survivor-bias/)، فيجب علينا نتفق على أن مهمة فريق Agile هي التعامل باستمرار مع هذا التحدي المعقد، بدلاً من توقع أن تؤدي كل فكرة إلى النتيجة المرجوة باستمرار.
 
-Seeing how *all* the metrics are performing gives the team and stakeholders the information needed to completely understand what's going on. Which is the whole point of KPIs.
+إن رؤية كيفية أداء *جميع* المقاييس يمنح الفريق وأصحاب المصلحة المعلومات اللازمة لفهم ما يحدث بشكل كامل. وهذا هو بيت القصيد من مؤشرات الأداء الرئيسية.
 
-The agile team must honestly and clearly measure *both* direct results *and* lagging outcomes. They are accountable for all of it, and measuring is required for accountability. But "not yet achieving the outcome" is [not a complete failure](https://longform.asmartbear.com/fail/), but rather a learning that will shape the work that will be executed in the next two weeks.
+يجب على فريق Agile أن يقيس بأمانة ووضوح النتائج المباشرة * والنتائج المتأخرة. إنهم مسؤولون عن كل ذلك، والقياس مطلوب للمساءلة. لكن "عدم تحقيق النتيجة بعد" [ليس فشلًا كاملاً](https://longform.asmartbear.com/fail/)، بل هو تعلم سيشكل العمل الذي سيتم تنفيذه في الأسبوعين المقبلين.
 
-> "If the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery."  
-> --Enrico Fermi
+> "إذا كانت النتيجة تؤكد الفرضية، فقد أجريت قياسًا. وإذا كانت النتيجة مخالفة للفرضية، فقد قمت باكتشاف."
+> --إنريكو فيرمي
 
-## The axis of "hidden, internal, external, and strategic"
+## محور "الخفي، الداخلي، الخارجي، الاستراتيجي"
 
-We control what we do in our sprint; we don't control what customers do. The company controls what other teams are doing; the product team doesn't directly control that (much to the chagrin of [product managers](https://longform.asmartbear.com/great-product-manager/)).
+نحن نتحكم في ما نقوم به في سباقنا؛ نحن لا نتحكم في ما يفعله العملاء. تتحكم الشركة في ما تفعله الفرق الأخرى؛ لا يتحكم فريق المنتج في ذلك بشكل مباشر (مما يثير استياء [مديري المنتجات](https://longform.asmartbear.com/great-product-manager/)).
 
-It's useful to draw a bright line between what is external and what is internal. Often completely different people work in these two domains, e.g. product, design, support, and sales working directly with customers, whereas engineering, infrastructure, and security work inside the company. The diagram helps us appreciate everyone's role, and use the right metrics for the right things.
+من المفيد رسم خط واضح بين ما هو خارجي وما هو داخلي. غالبًا ما يعمل أشخاص مختلفون تمامًا في هذين المجالين، على سبيل المثال. يعمل المنتج والتصميم والدعم والمبيعات مباشرة مع العملاء، بينما تعمل الهندسة والبنية التحتية والأمن داخل الشركة. يساعدنا الرسم البياني في تقدير دور كل فرد واستخدام المقاييس الصحيحة للأشياء الصحيحة.
 
-Furthermore, some internal activities are close to the customer (e.g. releasing new features), while others are far away (e.g. applying a security patch). If all our work is invisible, we have a problem: Customers perceive a stagnant product, competitors appear to be moving faster, sales doesn't have new things to say. On the other hand, if we value only the visible things, we end up with a bad product, with tech debt and unhappy engineers with slow delivery due to an under-invested foundation. The diagram makes this clear, honoring all of these important types of work.
+علاوة على ذلك، تكون بعض الأنشطة الداخلية قريبة من العميل (مثل إطلاق ميزات جديدة)، بينما تكون أنشطة أخرى بعيدة (مثل تطبيق التصحيح الأمني). إذا كان كل عملنا غير مرئي، فلدينا مشكلة: يرى العملاء منتجًا راكدًا، ويبدو أن المنافسين يتحركون بشكل أسرع، وليس لدى المبيعات أشياء جديدة لتقولها. من ناحية أخرى، إذا قمنا بتقييم الأشياء المرئية فقط، فسوف ينتهي بنا الأمر إلى منتج سيئ، مع ديون تكنولوجية ومهندسين غير سعداء مع بطء التسليم بسبب عدم استثمار الأساس. ويوضح الرسم البياني ذلك، مع احترام كل هذه الأنواع المهمة من العمل.
 
-The most valuable, strategic outcomes are often even more distant from the product team, whether because they are down-stream, or because they are second-order effects for the customer. We control "satisfaction" more than [self-motivated external "advocacy,"](https://longform.asmartbear.com/willingness-to-pay/) yet the latter is clearly not only the ultimate measure of the success of the product, but also drives efficient growth. Product teams should take ownership of creating those outcomes, while not allowing those lagging, multi-factor metrics to be the *only* way we measure progress.
+غالبًا ما تكون النتائج الإستراتيجية الأكثر قيمة بعيدة عن فريق المنتج، سواء لأنها تكون في المراحل النهائية، أو لأنها تأثيرات من الدرجة الثانية بالنسبة للعميل. نحن نتحكم في "الرضا" أكثر من ["الدعوة" الخارجية ذات الدوافع الذاتية](https://longform.asmartbear.com/willingness-to-pay/) ولكن من الواضح أن الأخيرة ليست فقط المقياس النهائي لنجاح المنتج، ولكنها أيضًا تدفع النمو الفعال. يجب أن تتولى فرق المنتجات مسؤولية إنشاء هذه النتائج، مع عدم السماح لتلك المقاييس المتأخرة والمتعددة العوامل بأن تكون الطريقة *الوحيدة* التي نقيس بها التقدم.
 
-The most valuable thing is for the customer to achieve their own ultimate goal, as defined by the [Needs Stack](https://longform.asmartbear.com/needs-stack/). If the customer's business doesn't thrive, they'll stop paying for your software, no matter how good the software is. While of course the customer's business is again a multi-factor, lagging metric, where nearly all the factors are outside of your control, it's still ultimately the greatest form of value. Even if you can't control it, you can notice the attributes of [customers who tend to thrive](https://longform.asmartbear.com/icp-ideal-customer-persona/), and direct your marketing, sales, and features towards that subset of the market, yielding higher growth and retention, and likely higher profitability.
+الشيء الأكثر قيمة هو أن يحقق العميل هدفه النهائي، كما هو محدد في [Needs Stack](https://longform.asmartbear.com/needs-stack/). إذا لم تزدهر أعمال العميل، فسوف يتوقف عن الدفع مقابل برنامجك، بغض النظر عن مدى جودة البرنامج. في حين أن عمل العميل هو بالطبع مقياس متعدد العوامل ومتأخر، حيث تكون جميع العوامل تقريبًا خارجة عن سيطرتك، إلا أنه لا يزال في النهاية أعظم شكل من أشكال القيمة. حتى إذا لم تتمكن من التحكم فيها، يمكنك ملاحظة سمات [العملاء الذين يميلون إلى النجاح](https://longform.asmartbear.com/icp-ideal-customer-persona/)، وتوجيه التسويق والمبيعات والميزات نحو تلك المجموعة الفرعية من السوق، مما يؤدي إلى نمو أعلى واحتفاظ، ومن المحتمل أن تكون أعلى الربحية.
 
-## Checklist for great metrics
+## قائمة مرجعية للمقاييس الرائعة
 
-From [SMART goals](https://asana.com/resources/smart-goals) to [FAST goals](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/) to [North Star Metrics](https://amplitude.com/books/north-star), there's plenty of prior art on how to pick good metrics. This is my own list.
+من [الأهداف الذكية](https://asana.com/resources/smart-goals) إلى [الأهداف السريعة](https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/) إلى [North Star Metrics](https://amplitude.com/books/north-star)، هناك الكثير من المعلومات السابقة حول كيفية اختيار المقاييس الجيدة. هذه هي قائمتي الخاصة
 
-#### Defined in normal language
-"Customers are using feature X" makes sense. "Total unique IPs which caused at least one event from P, Q, or R to fire in our analytics system over a rolling 14 day period, divided by total unique IPs from the same system in the same period" is a precise way of measuring "using feature X," but it's too hard for normal people to scan and understand.
+#### تم تعريفه باللغة العادية
+"العملاء يستخدمون الميزة X" أمر منطقي. "إجمالي عناوين IP الفريدة التي تسببت في إطلاق حدث واحد على الأقل من P أو Q أو R في نظام التحليلات الخاص بنا على مدار فترة 14 يومًا، مقسومًا على إجمالي عناوين IP الفريدة من نفس النظام في نفس الفترة" هي طريقة دقيقة لقياس "استخدام الميزة X"، ولكن من الصعب جدًا على الأشخاص العاديين فحصها وفهمها.
 
-#### Defined precisely
-In the previous example, you need that technical definition also. Frequently that definition is where we realize either (a) we can't get exactly the metric we wanted, or (b) we have to do engineering work before we get the metric we want. This is especially important with concepts like "cancellation rate" or "cost to acquire a customer" which can be defined in myriad ways; it's often useful to use different precise definitions for different metrics within the same company.
+#### محددة بدقة
+في المثال السابق، تحتاج إلى هذا التعريف الفني أيضًا. في كثير من الأحيان، يكون هذا التعريف هو المكان الذي ندرك فيه إما (أ) أننا لا نستطيع الحصول على المقياس الذي نريده بالضبط، أو (ب) يتعين علينا القيام بعمل هندسي قبل أن نحصل على المقياس الذي نريده. وهذا مهم بشكل خاص مع مفاهيم مثل "معدل الإلغاء" أو "تكلفة الحصول على عميل" والتي يمكن تعريفها بطرق لا تعد ولا تحصى؛ غالبًا ما يكون من المفيد استخدام تعريفات دقيقة مختلفة لمقاييس مختلفة داخل نفس الشركة.
 
-#### Matches the intent
-Often the technical metric doesn't actually measure what we stated in plain language. For example, we intend to measure "User Portal usage" but instead we measure "User Portal logins," which only triggers when someone's session expires. It is common to want to measure P, but P is too difficult or maybe even impossible, so we pick a proxy metric Q. That *can* be OK, but make sure the proxy really does measure the intended concept.
+#### يتوافق مع القصد
+في كثير من الأحيان، لا يقيس المقياس الفني في الواقع ما ذكرناه بلغة واضحة. على سبيل المثال، نعتزم قياس "استخدام بوابة المستخدم" ولكننا بدلاً من ذلك نقيس "تسجيلات دخول بوابة المستخدم"، والتي يتم تشغيلها فقط عند انتهاء صلاحية جلسة شخص ما. من الشائع الرغبة في قياس P، لكن P صعب للغاية أو ربما مستحيل، لذلك نختار مقياسًا بديلاً Q. يمكن أن يكون ذلك جيدًا، ولكن تأكد من أن الوكيل يقيس بالفعل المفهوم المقصود.
 
-#### Causes action
-If the metric does something differently from what we expect, would we act? Would we re-plan the next sprint, or even interrupt the current one? If the answer is "no," it doesn't belong on our main metrics board. It might belong on an operational board, if it's explanatory, helping us to understand how things are functioning.
+#### يسبب الفعل
+إذا كان المقياس يفعل شيئًا مختلفًا عما نتوقعه، فهل سنتصرف؟ هل سنعيد التخطيط للسباق التالي، أو حتى سنقاطع السباق الحالي؟ إذا كانت الإجابة "لا"، فهي لا تنتمي إلى لوحة المقاييس الرئيسية لدينا. قد تنتمي إلى لوحة العمليات، إذا كانت توضيحية، مما يساعدنا على فهم كيفية سير الأمور.
 
-#### Obvious what "good" look like
-Not all metrics should be attached to explicit goals, because some are for monitoring and understanding the situation, as opposed to something we're actively trying to change or maintain. However, it should be obvious "what good looks like." That could be as simple as "not changing," or directional rather than specific (e.g. "usage increasing" as opposed to "usage going up 10% month-over-month").
+#### من الواضح كيف تبدو كلمة "جيد".
+لا ينبغي ربط جميع المقاييس بأهداف واضحة، لأن بعضها مخصص لرصد الموقف وفهمه، وليس شيئًا نحاول تغييره أو الحفاظ عليه. ومع ذلك، يجب أن يكون واضحًا "كيف يبدو المظهر الجيد". يمكن أن يكون ذلك بسيطًا مثل "عدم التغيير" أو توجيهي وليس محددًا (على سبيل المثال "زيادة الاستخدام" بدلاً من "ارتفاع الاستخدام بنسبة 10% شهريًا").
 
-#### Measures "what is happening" (not "work")
-You already track work; metrics shouldn't duplicate or summarize that. Metrics are about "what is happening" around us--[the dials on the airplane dashboard](https://longform.asmartbear.com/whos-lying/), not the actions the pilots are taking. (Exception: Metrics that explicitly measure whether we are completing a volume or quality of work.) If the metric can be moved by, or applies to only one possible course of action, it's measuring work and even presupposing solutions, instead of measuring "what is."
+#### تدابير "ما يحدث" (وليس "العمل")
+لقد قمت بالفعل بتتبع العمل؛ لا ينبغي للمقاييس تكرار أو تلخيص ذلك. تتعلق المقاييس بـ "ما يحدث" من حولنا - [الأقراص الموجودة على لوحة عدادات الطائرة](https://longform.asmartbear.com/whos-lying/)، وليس الإجراءات التي يتخذها الطيارون. (الاستثناء: المقاييس التي تقيس بشكل واضح ما إذا كنا نكمل حجمًا أو جودة العمل.) إذا كان من الممكن تحريك المقياس من خلال مسار عمل واحد محتمل أو تطبيقه على مسار عمل واحد فقط، فهو يقيس العمل ويفترض حلولًا مسبقًا، بدلاً من قياس "ما هو كائن".
 
-#### Measured easily
-Many metrics are useful, but remain un-updated in spreadsheets because it's too hard to get them. Best is automated; second-best is manual-but-trivial.
+#### يتم قياسها بسهولة
+تعتبر العديد من المقاييس مفيدة، ولكنها تظل غير محدثة في جداول البيانات لأنه من الصعب جدًا الحصول عليها. الأفضل هو الآلي. ثاني أفضل هو يدوي ولكن تافهة.
 
-#### Measured frequently
-Daily is best. One of the advantages of "rolling N days" is that you can update it daily, yet still think in units like "week" or "month" if that's sensible. Caveat: if the number doesn't naturally change frequently, then it's not important to measure it frequently. Still, in that case you won't check it often, which diminishes its value.
+#### يتم قياسها بشكل متكرر
+يوميا هو الأفضل. تتمثل إحدى مزايا "عدد N من الأيام" في أنه يمكنك تحديثه يوميًا، مع الاستمرار في التفكير في وحدات مثل "الأسبوع" أو "الشهر" إذا كان ذلك معقولًا. تحذير: إذا كان الرقم لا يتغير بشكل متكرر بشكل طبيعي، فليس من المهم قياسه بشكل متكرر. ومع ذلك، في هذه الحالة، لن تقوم بفحصه كثيرًا، مما يقلل من قيمته.
 
-#### Stable definition and applicability
-Measure things whose definition is stable over time, ensuring that any observed changes are the result of deliberate actions or environmental shifts, rather than random fluctuations or alterations in the nature of measurement itself. This stability allows for meaningful month-to-month comparisons and more accurate assessments of strategies and outcomes.
+#### تعريف مستقر وقابلية التطبيق
+قياس الأشياء التي يكون تعريفها ثابتًا مع مرور الوقت، مما يضمن أن أي تغييرات ملحوظة هي نتيجة إجراءات متعمدة أو تحولات بيئية، وليس تقلبات أو تغيرات عشوائية في طبيعة القياس نفسه. يسمح هذا الاستقرار بإجراء مقارنات شهرية ذات معنى وتقييمات أكثر دقة للاستراتيجيات والنتائج.
 
-#### Uses common definitions when possible
-It's tempting to invent your own metric, even when there are so-called "industry standards" or "best-practices." Standard definitions might not be appropriate for your business, or violate one of the other rules above. Inventing your own language is also a form of team-cohesion. However, reinventing the wheel makes it harder for others to understand what you're doing and precludes using benchmarks to see whether your metric is "good" objectively. There are even metrics where special definitions hide the signal; sometimes these are even used for deception.[^5] Don't do that.
+#### يستخدم تعريفات مشتركة عندما يكون ذلك ممكنا
+من المغري أن تخترع المقياس الخاص بك، حتى عندما يكون هناك ما يسمى "معايير الصناعة" أو "أفضل الممارسات". قد لا تكون التعريفات القياسية مناسبة لنشاطك التجاري، أو قد تنتهك إحدى القواعد الأخرى المذكورة أعلاه. يعد اختراع لغتك الخاصة أيضًا شكلاً من أشكال تماسك الفريق. ومع ذلك، فإن إعادة اختراع العجلة يجعل من الصعب على الآخرين فهم ما تفعله ويمنع استخدام المعايير لمعرفة ما إذا كان مقياسك "جيدًا" بشكل موضوعي. بل إن هناك مقاييس حيث تخفي تعريفات خاصة الإشارة؛ وفي بعض الأحيان يتم استخدامها للخداع.[^5] لا تفعل ذلك.
 
-#### Signal at least 2x stronger than noise
-Metrics often vary for reasons unrelated to the underlying signal.
+#### إشارة أقوى مرتين على الأقل من الضوضاء
+غالبًا ما تختلف المقاييس لأسباب لا علاقة لها بالإشارة الأساسية.
 
-Monthly revenue is like this--new, upgrade, and cancellation alike. Calendar months vary in days by ±5%. Furthermore, daily numbers can vary by 2x between a week-day and week-end, and calendar months vary in the number of weekdays by ±10%. So, if you're tracking something like new revenue per month, even a real change as large as 10% is the same size as the noise, so you can't actually tell if there was a real change.
+تكون الإيرادات الشهرية على هذا النحو: الجديد والترقية والإلغاء على حدٍ سواء. تختلف أشهر التقويم في الأيام بنسبة ±5%. علاوة على ذلك، يمكن أن تختلف الأرقام اليومية بمقدار 2x بين يوم الأسبوع ونهاية الأسبوع، وتختلف الأشهر التقويمية في عدد أيام الأسبوع بنسبة ±10%. لذا، إذا كنت تتتبع شيئًا مثل الإيرادات الجديدة شهريًا، فحتى التغيير الحقيقي الذي يصل إلى 10% هو نفس حجم الضجيج، لذلك لا يمكنك معرفة ما إذا كان هناك تغيير حقيقي أم لا.
 
-Sometimes a clever alteration to the definition can remove noise. For example, "new revenue over rolling 28 days" eliminates the two factors just mentioned, and is fairly close to a calendar-month worth of revenue.[^6] Or if noise is infrequent, something like "median" or "95%tile" can ignore outliers.
+في بعض الأحيان يمكن أن يؤدي التغيير الذكي في التعريف إلى إزالة الضوضاء. على سبيل المثال، يؤدي "الإيرادات الجديدة على مدار 28 يومًا" إلى إلغاء العاملين المذكورين للتو، ويكون قريبًا إلى حد ما من قيمة الإيرادات في شهر تقويمي.[^6] أو إذا كانت الضوضاء نادرة، فيمكن لشيء مثل "الوسيط" أو "مربع 95%" أن يتجاهل القيم المتطرفة.
 
-But often noise is less predictable. In that case, it's useful to ask how much is noise, and whether it's so much that the metric isn't useful. If you don't know how much is noise, it's probably a bad metric.
+ولكن في كثير من الأحيان تكون الضوضاء أقل قابلية للتنبؤ بها. في هذه الحالة، من المفيد أن نسأل عن مقدار الضوضاء، وما إذا كانت كبيرة لدرجة أن المقياس غير مفيد. إذا كنت لا تعرف مقدار الضوضاء، فمن المحتمل أن يكون مقياسًا سيئًا.
 
-#### The team actually cares about it
-Whenever management requires a KPI that the team doesn't believe in, doesn't respect, doesn't care about, the team always wins. You're lucky if six months later the number is even being tracked; certainly they won't be taking action on it. The team has to *want* to depend on it, look at it weekly at least, and change behavior if it hits some threshold. If you just assign it, or if there's a sense that the number is meaningless or unfair, they simply will not react to it at best, and decrease morale at worst.
+#### الفريق يهتم فعلا بذلك
+عندما تطلب الإدارة مؤشر أداء رئيسي لا يؤمن به الفريق، ولا يحترمه، ولا يهتم به، فإن الفريق يفوز دائمًا. أنت محظوظ إذا تم تعقب الرقم بعد ستة أشهر؛ بالتأكيد لن يتخذوا أي إجراء بشأن ذلك. يجب على الفريق *الرغبة* في الاعتماد عليه، والنظر إليه أسبوعيًا على الأقل، وتغيير السلوك إذا وصل إلى حد معين. إذا قمت بتخصيصه للتو، أو إذا كان هناك شعور بأن الرقم لا معنى له أو غير عادل، فلن يتفاعلوا معه ببساطة في أحسن الأحوال، وسيخفضون الروح المعنوية في أسوأ الأحوال.
 
-[^5]: Common examples are revenue-recognition, classifying costs in or out of COGS/<wbr/>GPM, and conveniently leaving certain costs out of EBITDA.
+[^5]: الأمثلة الشائعة هي الاعتراف بالإيرادات، وتصنيف التكاليف داخل أو خارج COGS/<wbr/>GPM، وترك تكاليف معينة خارج الأرباح قبل الفوائد والضرائب والإهلاك والاستهلاك (EBITDA).
 
-[^6]: To make it an "average calendar month," you can multiply your trailing 28-day figure by `52/48`, which scales it to the average number of weeks in a month.
+[^6]: لجعله "متوسط ​​شهر تقويمي"، يمكنك ضرب رقم الـ 28 يومًا اللاحق في `52/48`، مما يؤدي إلى تحويله إلى متوسط ​​عدد الأسابيع في الشهر.
 
-I hope this system will be as useful to you as it has been for us.
+آمل أن يكون هذا النظام مفيدًا لك كما كان بالنسبة لنا.
 
 ---
 
-*Many thanks to [Jaakko Piipponen](https://jaakkopiipponen.com/), [Jonathan Drake](https://twitter.com/JonathanDrake), and [Vinod Valloppillil](https://twitter.com/vinodv) for contributing insights to early drafts.*
+*شكرًا جزيلا لـ [Jaakko Piipponen](https://jaakkopiipponen.com/) و[Jonathan Drake](https://twitter.com/JonathanDrake) و[Vinod Valloppillil](https://twitter.com/vinodv) لمساهمتهم بالأفكار في المسودات المبكرة.*

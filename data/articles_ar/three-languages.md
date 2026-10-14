@@ -20,127 +20,108 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** فك تشابك اللغات الثلاث في الشركة: العملاء، المنتج، وإدارة الأعمال تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Disentangling the three languages: Customers, Product, Business
-
-> **Executive Summary:** Stop talking past each other. Translate between the three "languages" of  customer desires, product features, and business goals.
-> **Original URL:** [https://longform.asmartbear.com/three-languages/](https://longform.asmartbear.com/three-languages/)
-
 ![today were going to start with league building exercises](https://public.asmartbear.com/books/anthology/chapters/three-languages/d7776print-simple.png)
 
-## Using the right language for each context
+## استخدام اللغة المناسبة لكل سياق
 
-Punchline first:
+النكتة أولا:
 
-|  | CUSTO­MER | PRO­DUCT | BUSI­NESS |
-|----:|:----|:----|:----|
-| **Lang­uage** | *Industry-specific jargon in the first person* <br/>  <br/> "I can only use this if..." <br/> "I'd get a raise if..." <br/> "It would be cool if..." <br/> "Everyone needs..." | *Gather­ing input, deciding, building, deploy­ing* <br/>  <br/> Mission, ICP, positioning, features, releases, workflows, adoption, usage, deprecation, integration | *Financial success* <br/>  <br/> Growth, profit, negative net churn, scale, compe­tition, intellectual property, margins, multiples, enter­prise value |
-| **Who** | Named Customer Personas | PM, PgM, UX, Engineer­ing | Executive team, Finance team, Board |
-| **Work** | creating, building, designing, trouble­shooting, calculating, reporting, organizing | epics, stories, sprints, designs, research, planning, strategy, releases, launches, stakeholder alignment, customer feedback | financial forecasting, budget, hiring plans, project ROI, capital allocation, public company comps |
-| **Metrics** | activation, activity, abandonment, support tickets, time-to-first-success, WAU/<wbr/>MAU, value-creation, reviews | conversion rate, volume, feature-use, API calls/<wbr/>day, deploys/<wbr/>week, sprint velocity, bug backlog, latency, SLOs | MRR (new, cancelled, up­grade, down­grade), R40, NRR, ARPU, GPM, LTV, CAC, EV, IRR, Magic Number, variable costs, fixed costs |
-| **Trans­lation** | **CUSTOMER → PRODUCT** <br/> JTBDs and user-stories connect the work of the Customer to the work of Product |  | **PRODUCT → BUSINESS** <br/> Correct strategy + excellent execution → business success |
+|  | العميل | المنتج | عمل | |----:|:----|:----|:----| | **اللغة** | *المصطلحات الخاصة بالصناعة بضمير المتكلم* <br/> <br/> "لا يمكنني استخدام هذا إلا إذا..." <br/> "سأحصل على علاوة إذا..." <br/> "سيكون الأمر رائعًا إذا..." <br/> "الجميع يحتاج..." | *جمع المدخلات، اتخاذ القرار، البناء، النشر* <br/> <br/> المهمة، برنامج المقارنات الدولية، تحديد المواقع، الميزات، الإصدارات، سير العمل، التبني، الاستخدام، الإهمال، التكامل | *النجاح المالي* <br/> <br/> النمو، الربح، صافي التدفق السلبي، الحجم، المنافسة، الملكية الفكرية، الهوامش، المضاعفات، قيمة المؤسسة | | **من** | شخصيات العملاء المسماة | PM، PgM، UX، الهندسة | الفريق التنفيذي، الفريق المالي، مجلس الإدارة | | **العمل** | إنشاء، بناء، تصميم، استكشاف الأخطاء وإصلاحها، حساب، إعداد التقارير، تنظيم | ملاحم، قصص، سباقات سريعة، تصميمات، بحث، تخطيط، إستراتيجية، إصدارات، إطلاقات، توافق أصحاب المصلحة، تعليقات العملاء | التنبؤ المالي، الميزانية، خطط التوظيف، عائد الاستثمار للمشروع، تخصيص رأس المال، شركات الشركة العامة | | **المقاييس** | التنشيط، النشاط، التخلي، تذاكر الدعم، وقت النجاح الأول، WAU/<wbr/>MAU، إنشاء القيمة، المراجعات | معدل التحويل، الحجم، استخدام الميزات، استدعاءات واجهة برمجة التطبيقات (API)/<wbr/>اليوم، النشر/<wbr/>الأسبوع، سرعة العدو، تراكم الأخطاء، زمن الوصول، SLOs | MRR (جديد، ملغى، ترقية، تخفيض)، R40، NRR، ARPU، GPM، LTV، CAC، EV، IRR، الرقم السحري، التكاليف المتغيرة، التكاليف الثابتة | | **ترجمة** | **العميل → المنتج** <br/> تربط JTBDs وقصص المستخدمين عمل العميل بعمل المنتج |  | **المنتج → الأعمال** <br/> الإستراتيجية الصحيحة + التنفيذ الممتاز → نجاح الأعمال |
 
-## One team, yet cross-purposes
+## فريق واحد لكن أهدافه متناقضة
 
-The CEO asks "Why isn't 'grow revenue' your main goal for the quarter?" She's not wrong; revenue is the reason we're all here. The Product Manager says "My goal is delivering value to the customer, as quickly as possible. Revenue reflects more than that--sales effectiveness, marketing effectiveness, and market swings from things like COVID or inflation or economic pull-back." He's not wrong: "Revenue" is a shared goal and might not be correlated with product development or even customer satisfaction.[^1]
+يسأل الرئيس التنفيذي "لماذا لا يكون "زيادة الإيرادات" هو هدفك الرئيسي خلال هذا الربع؟" إنها ليست مخطئة؛ الإيرادات هي سبب وجودنا جميعًا هنا. يقول مدير المنتج "هدفي هو تقديم القيمة للعميل في أسرع وقت ممكن. وتعكس الإيرادات أكثر من ذلك - فعالية المبيعات، وفعالية التسويق، وتقلبات السوق من أشياء مثل فيروس كورونا أو التضخم أو التراجع الاقتصادي." إنه ليس مخطئًا: "الإيرادات" هي هدف مشترك وقد لا تكون مرتبطة بتطوير المنتج أو حتى رضا العملاء.[^1]
 
-[^1]: My solution to this "who is responsible for what number" problem is in [this article about Product KPIs](https://longform.asmartbear.com/product-metrics/).
+[^1]: الحل الخاص بي لمشكلة "من المسؤول عن أي رقم" موجود في [هذه المقالة حول مؤشرات الأداء الرئيسية للمنتج](https://longform.asmartbear.com/product-metrics/).
 
-The customer says "of course *everyone* needs [feature], so it's *crazy* that you don't have it." The Product Manager [tries to understand](https://longform.asmartbear.com/customer-development/) the underlying pain, the core "job that is being done." The customer feels that they've already explained what they want. Six months later, when the feature still isn't added, the customer thinks no one listened. The Product Manager knows that the feature wouldn't make sense to most other customers, but a different update later in the year will solve the use-case in question.
+يقول العميل "بالطبع يحتاج *الجميع* إلى [الميزة]، لذا فمن *الجنون* ألا تمتلكها." يحاول مدير المنتج أن يفهم](https://longform.asmartbear.com/customer-development/) الألم الأساسي، وهو "المهمة الأساسية التي يتم إنجازها". يشعر العميل أنه قد أوضح بالفعل ما يريده. وبعد مرور ستة أشهر، عندما لم تتم إضافة الميزة بعد، يعتقد العميل أن أحداً لم يستمع إليه. يعلم مدير المنتج أن الميزة لن تكون منطقية بالنسبة لمعظم العملاء الآخرين، ولكن تحديثًا مختلفًا في وقت لاحق من العام سيحل حالة الاستخدام المعنية.
 
-The marketing department asks what features will be delivered by September 17th, because that's when the big global event is happening. The finance team wants projections for the next twelve months, not because they're filling in spreadsheets (although that too), but because projected revenue informs hiring plans in sales and support, and investment plans in marketing, and with a nine-month lag-time for both hiring and training, we [have to start that process today](https://longform.asmartbear.com/scale/). The product team has only planned out the next few sprints, because who knows what will happen later in the year; we're _agile!_
+يسأل قسم التسويق عن الميزات التي سيتم تقديمها بحلول 17 سبتمبر، لأن ذلك هو موعد انعقاد الحدث العالمي الكبير. يريد الفريق المالي توقعات للأشهر الاثني عشر القادمة، ليس لأنهم يملأون جداول البيانات (على الرغم من ذلك أيضًا)، ولكن لأن الإيرادات المتوقعة تُعلم خطط التوظيف في المبيعات والدعم، وخطط الاستثمار في التسويق، ومع فترة تأخير مدتها تسعة أشهر لكل من التوظيف والتدريب، [علينا أن نبدأ هذه العملية اليوم](https://longform.asmartbear.com/scale/). لقد خطط فريق المنتج فقط للسباقات القليلة القادمة، لأنه من يدري ما سيحدث في وقت لاحق من العام؛ نحن_رشيقون!_
 
-## Three Languages
+## ثلاث لغات
 
-The key to resolving these ([apparent, not real](https://longform.asmartbear.com/conflicting-choices/)) conflicts is to recognize that there are three distinct "languages" being spoken simultaneously.
+إن مفتاح حل هذه الصراعات ([ظاهرية وليست حقيقية](https://longform.asmartbear.com/conflicting-choices/)) هو إدراك أن هناك ثلاث "لغات" متميزة يتم التحدث بها في وقت واحد.
 
-I mean "languages" literally--people using different words, even when they're talking about similar things, like the marketing calendar, the fiscal quarters, the sprint planning, the feature-prioritization, and the jobs-to-be-done-that-the-customers-are-doing. And beyond words: the concepts, the goals, the requirements, the specific challenges they face each day.
+أعني "اللغات" حرفيًا - الأشخاص الذين يستخدمون كلمات مختلفة، حتى عندما يتحدثون عن أشياء متشابهة، مثل التقويم التسويقي، والأرباع المالية، والتخطيط السريع، وتحديد أولويات الميزات، والوظائف التي يجب إنجازها والتي يقوم بها العملاء. وما وراء الكلمات: المفاهيم والأهداف والمتطلبات والتحديات المحددة التي يواجهونها كل يوم.
 
-Conflicts happen when one party applies their language to a party that is using a different language. It doesn't translate automatically. So it's up to us to create systems that not only translate, but that help achieve each others' goals.
+تحدث النزاعات عندما يطبق أحد الأطراف لغته على الطرف الذي يستخدم لغة مختلفة. ولا يترجم تلقائيا. لذا فإن الأمر متروك لنا لإنشاء أنظمة لا تترجم فقط، بل تساعد في تحقيق أهداف بعضنا البعض.
 
-#### Language of the Customer
-This is what I'm trying to accomplish. This is what's preventing me from doing my job. This would [make me a hero in the eyes of my boss](https://longform.asmartbear.com/startups-emotionally-draining/) or client. This would [make me more money](https://longform.asmartbear.com/more-value-not-save-money/). This would increase my reputation. This fulfills a [higher-level need](https://longform.asmartbear.com/needs-stack/). This de-risks my project. This is what I will say in a case study. This is what I'm going to say on Twitter. This is what I have written in an online review.
+#### لغة العميل
+هذا ما أحاول تحقيقه. وهذا ما يمنعني من القيام بعملي. هذا من شأنه أن [يجعلني بطلاً في نظر مديري](https://longform.asmartbear.com/startups-emotionally-draining/) أو العميل. هذا من شأنه أن [يجني المزيد من المال](https://longform.asmartbear.com/more-value-not-save-money/). وهذا من شأنه أن يزيد من سمعتي. وهذا يلبي [حاجة المستوى الأعلى](https://longform.asmartbear.com/needs-stack/). وهذا يزيل المخاطر عن مشروعي. وهذا ما سأقوله في دراسة الحالة. هذا ما سأقوله على تويتر. هذا ما كتبته في مراجعة عبر الإنترنت.
 
-#### Language of the Product
-[Strategy: How we will win](https://longform.asmartbear.com/great-strategy/). Competitive analysis and [market analysis](https://longform.asmartbear.com/problem/). Long-term versus short-term competitive advantages. [Leveraging our strengths](https://longform.asmartbear.com/leverage/). Defining [the ideal customer](https://longform.asmartbear.com/icp-ideal-customer-persona/). Scrum and kanban. Sprints and frequent delivery. Epics and stories and cards and tickets. Tasks and bugs and features. Delivering "customer value" (whatever that means). Retros. Sequencing. Reducing costs. Feature-usage and abandonment.
+#### لغة المنتج
+[الاستراتيجية: كيف سنفوز](https://longform.asmartbear.com/great-strategy/). التحليل التنافسي و[تحليل السوق](https://longform.asmartbear.com/problem/). المزايا التنافسية على المدى الطويل مقابل المزايا التنافسية على المدى القصير. [الاستفادة من نقاط قوتنا](https://longform.asmartbear.com/leverage/). تعريف [العميل المثالي](https://longform.asmartbear.com/icp-ideal-customer-persona/). سكروم وكانبان. سباقات السرعة والتسليم المتكرر. ملاحم وقصص وبطاقات وتذاكر. المهام والأخطاء والميزات. تقديم "قيمة العميل" (مهما كان ذلك يعني). الرجعية. التسلسل. خفض التكاليف. استخدام الميزة والتخلي عنها.
 
-#### Language of the Business
-Growth. Profitable / sustainable / maximized growth. Profitability. Sales and marketing efficiency. Product ROI. Predictable results. Annual and [quarterly planning](https://longform.asmartbear.com/strategic-planning/). Hiring plan. Budget-to-actual. Ratios that increase the stock price relative to current revenue.
+#### لغة الأعمال
+نمو. نمو مربح / مستدام / أقصى حد. الربحية. كفاءة المبيعات والتسويق. عائد الاستثمار للمنتج. نتائج يمكن التنبؤ بها. التخطيط السنوي و [الربع سنوي](https://longform.asmartbear.com/strategic-planning/). خطة التوظيف. الميزانية إلى الفعلية. النسب التي تزيد من سعر السهم مقارنة بالإيرادات الحالية.
 
-## Translation
+## ترجمة
 
-Of course, everyone is "correct," in the sense that all of this is critical for the success of the business, and they are using appropriate language for their corner of the universe.
+وبطبيعة الحال، الجميع "على حق"، بمعنى أن كل هذا أمر بالغ الأهمية لنجاح الأعمال، وأنهم يستخدمون اللغة المناسبة لركنهم من الكون.
 
-Therefore, we need translations to bridge the languages. And often in a high-tech company, it's [Product's job](https://longform.asmartbear.com/great-product-manager/) to do that.
+ولذلك، نحن بحاجة إلى ترجمات لجسر اللغات. وغالبًا ما تكون [وظيفة المنتج](https://longform.asmartbear.com/great-product-manager/) هي [وظيفة المنتج] للقيام بذلك.
 
 ![jargon buzzword lingo](https://public.asmartbear.com/books/anthology/chapters/three-languages/d9207print-simple.png)
 
-### Translating from "Customer" to "Product"
+### الترجمة من "العميل" إلى "المنتج"
 
-The bridge between customer language and product language, in modern terms, is the JTBD (Job To Be Done), further broken down into the "story."
+الجسر بين لغة العميل ولغة المنتج، بالمصطلحات الحديثة، هو JTBD (المهمة الواجب إنجازها)، والتي تم تقسيمها إلى "القصة".
 
-Customers can completely describe their own pain or requests. They often have ideas for features but lack the context and expertise to [integrate their desires](https://longform.asmartbear.com/jit-backlogs/) with the constraints of development, in capacity and against architectural evolution and other customers' desires. Product work requires definition--requirements, requests, and enough of a description that everyone can decide what work might result in the desired outcome.
+يمكن للعملاء وصف آلامهم أو طلباتهم بشكل كامل. غالبًا ما يكون لديهم أفكار للميزات ولكنهم يفتقرون إلى السياق والخبرة اللازمة [لدمج رغباتهم](https://longform.asmartbear.com/jit-backlogs/) مع قيود التطوير والقدرات وضد التطور المعماري ورغبات العملاء الآخرين. يتطلب عمل المنتج تعريفًا - متطلبات وطلبات وما يكفي من الوصف حتى يتمكن الجميع من تحديد العمل الذي قد يؤدي إلى النتيجة المرجوة.
 
-The high-level translation of the customer's life into product language is the JTBD, in which you project their world onto internal language of your company. For example, in WP Engine's case,[^2] customers who are worried about "hackers," or scared that getting hacked will hit the news or will cause expensive damage (their language), would be translated into JTBD concepts like:
+إن الترجمة عالية المستوى لحياة العميل إلى لغة المنتج هي JTBD، حيث يمكنك عرض عالمه على اللغة الداخلية لشركتك. على سبيل المثال، في حالة WP Engine،[^2] العملاء الذين يشعرون بالقلق من "المتسللين"، أو يخشون أن يتعرضوا للاختراق سيصلون إلى الأخبار أو سيتسببون في أضرار باهظة الثمن (لغتهم)، ستتم ترجمتهم إلى مفاهيم JTBD مثل:
 
-[^2]: Top ten public website platform, as measured by the percent of the highest-traffic ten million domains.
+[^2]: أفضل عشرة منصات عامة لمواقع الويب، وفقًا للقياس بالنسبة المئوية للنطاقات العشرة ملايين ذات أعلى حركة مرور.
 
-* **Context:** Marketers are scared of security breaches that (a) hurt their brand, (b) cost them time and money.
-* **Inciting Event:** After getting hacked once, marketers become highly motivated to move their website to a secure platform, even at increased cost.
-* **Job-to-be-done**: My website is fast, scalable, and secure.
+* **السياق:** يخشى المسوقون من الاختراقات الأمنية التي (أ) تضر بعلامتهم التجارية، (ب) تكلفهم الوقت والمال.
+* **حدث مثير:** بعد تعرض المسوقين للاختراق مرة واحدة، يصبح لديهم دافع كبير لنقل موقعهم على الويب إلى منصة آمنة، حتى بتكلفة متزايدة.
+* **المهمة التي يتعين إنجازها**: موقع الويب الخاص بي سريع وقابل للتطوير وآمن.
 
-While that characterizes the customer's life in company- and product-centric terms, it's not yet a list of things to actually _do_, which is another role of product. Here we use the language of work. A common tool is the "user story," which often comes in forms such as:
+في حين أن هذا يميز حياة العميل من حيث الشركة والمنتجات، إلا أنها ليست قائمة بالأشياء التي يجب القيام بها بالفعل، وهو دور آخر للمنتج. هنا نستخدم لغة العمل. إحدى الأدوات الشائعة هي "قصة المستخدم"، والتي غالبًا ما تأتي في أشكال مثل:
 
-* **As a** [who]**, I want** [feature] **so that I** [benefit] **because** [why]**.**
+* **باعتباري** [من]**، أريد** [ميزة] **حتى ** [أستفيد] **لأن** [لماذا]**.**
 
-Applying to the security sample, we might have:
+وبالتطبيق على العينة الأمنية، قد يكون لدينا:
 
-* **As a** [non-technical marketer]**, I want** [a report about how many nefarious attacks were thwarted in the past week] **so that I** [can show my boss] **because** [it proves I'm proactive and intelligent about security; if we get still hacked, my job is still secure]**.**
+* **باعتباري** [مسوقًا غير تقني]**، أريد** [تقريرًا حول عدد الهجمات الشائنة التي تم إحباطها في الأسبوع الماضي] **حتى ** [أتمكن من إظهار مديري] **لأنه** [يثبت أنني استباقي وذكي فيما يتعلق بالأمن؛ إذا استمر اختراقنا، فإن وظيفتي لا تزال آمنة]**.**
 
-Now we can do the work.
+الآن يمكننا القيام بهذا العمل.
 
-(And we can write the sales and marketing copy; this is exactly the bones needed for a sales person to explain both what the product does, and why it matters, from the point of view of the customer.)
+(ويمكننا كتابة نسخة المبيعات والتسويق؛ وهذا هو بالضبط الأساس الذي يحتاجه مندوب المبيعات لشرح ما يفعله المنتج، وسبب أهميته، من وجهة نظر العميل.)
 
-### Translating from "Product" to "Business"
+### الترجمة من "المنتج" إلى "الأعمال"
 
-The bridge between product language and business language, shows how the activities of product advance the strategy and goals of the business.
+يوضح الجسر بين لغة المنتج ولغة الأعمال كيف تعمل أنشطة المنتج على تعزيز استراتيجية وأهداف العمل.
 
-Often the most critical thing the business wants to know is "how much will we grow?" Of course much of this comes from Product:
+غالبًا ما يكون الشيء الأكثر أهمية الذي تريد الشركة معرفته هو "كم سننمو؟" بالطبع الكثير من هذا يأتي من المنتج:
 
-* Are we [positioned intelligently](https://longform.asmartbear.com/more-value-not-save-money/) and [competitively](https://longform.asmartbear.com/needs-stack/)?
-* Are we [targeting the right market segment](https://longform.asmartbear.com/icp-ideal-customer-persona/)?
-* Is our product [paying off the promise](https://longform.asmartbear.com/talk-vs-walk/) we made on the website?
-* Are we [building the right features](https://longform.asmartbear.com/customer-development/)?
-* Do we have the [right pricing](https://longform.asmartbear.com/pricing-determines-your-business-model/)?
-* Are customers [delighted by our product](https://longform.asmartbear.com/willingness-to-pay/), so much that they stay forever, growth with us, and advocate for us with word-of-mouth and great reviews?
-* Are we [expanding into adjacent segments and products](https://longform.asmartbear.com/adjacency/), at the right time?
+* هل نحن [في وضع ذكي](https://longform.asmartbear.com/more-value-not-save-money/) و[بشكل تنافسي](https://longform.asmartbear.com/needs-stack/)؟
+* هل [نستهدف شريحة السوق المناسبة](https://longform.asmartbear.com/icp-ideal-customer-persona/)؟
+* هل منتجنا [يفي بالوعد](https://longform.asmartbear.com/talk-vs-walk/) الذي قطعناه على الموقع الإلكتروني؟
+* هل نحن [نبني الميزات الصحيحة](https://longform.asmartbear.com/customer-development/)؟
+* هل لدينا [السعر المناسب](https://longform.asmartbear.com/pricing-determines-your-business-model/)؟
+* هل العملاء [مسرورون بمنتجنا](https://longform.asmartbear.com/willingness-to-pay/)، لدرجة أنهم يبقون إلى الأبد، وينموون معنا، ويدافعون عنا من خلال الأحاديث الشفهية والمراجعات الرائعة؟
+* هل نقوم [بالتوسع في القطاعات والمنتجات المجاورة](https://longform.asmartbear.com/adjacency/) في الوقت المناسب؟
 
-But much doesn't:
+ولكن الكثير لا:
 
-* Are our marketing campaigns effective?
-* Is our sales pitch and sales organization effective?
-* Is our white-glove on-boarding team being effective?
-* Is our support team increasing retention?
-* Is our account management team building high quality relationships?
-* Is our corporate development team building high quality partnerships?
-* Are we expanding into new geographies?
-* Are we budgeted properly across the company?
+* هل حملاتنا التسويقية فعالة؟
+* هل عرض المبيعات وتنظيم المبيعات لدينا فعال؟
+* هل فريقنا على متن الطائرة ذو القفاز الأبيض فعال؟
+* هل يعمل فريق الدعم لدينا على زيادة معدلات الاحتفاظ بالمنتجين؟
+* هل يقوم فريق إدارة الحسابات لدينا ببناء علاقات عالية الجودة؟
+* هل يقوم فريق تطوير الشركات لدينا ببناء شراكات عالية الجودة؟
+* هل نتوسع في مناطق جغرافية جديدة؟
+* هل تم وضع الميزانية بشكل صحيح في جميع أنحاء الشركة؟
 
-Therefore, it's Product's job to clearly articulate how they are contributing, without having full responsibility for the total impact on the business's goals.
+ولذلك، فإن مهمة المنتج هي توضيح كيفية مساهمته بوضوح، دون تحمل المسؤولية الكاملة عن التأثير الإجمالي على أهداف الشركة.
 
-A good way to do this is with [this metrics framework](https://longform.asmartbear.com/product-metrics/), in which everyone's KPIs are represented as being important, but with context and areas of responsibility and accountability.
+هناك طريقة جيدة للقيام بذلك وهي باستخدام [إطار عمل المقاييس هذا](https://longform.asmartbear.com/product-metrics/)، حيث يتم تمثيل مؤشرات الأداء الرئيسية للجميع على أنها مهمة، ولكن مع سياق ومجالات المسؤولية والمساءلة.
 
 ![Product KPI Framework](https://public.asmartbear.com/books/anthology/chapters/three-languages/product-kpi-framework-simple.png)
 
 ---
 
-The first step in resolving these apparent conflicts is to recognize that everyone is doing what they think is best, operating from their own area of excellence. The second step is to translate.
+الخطوة الأولى في حل هذه الصراعات الواضحة هي إدراك أن الجميع يفعلون ما يعتقدون أنه الأفضل، ويعملون من مجال التميز الخاص بهم. الخطوة الثانية هي الترجمة.
 
-Using the right language for the right things creates clarity and insight and helps us work better together.
+إن استخدام اللغة المناسبة للأشياء الصحيحة يخلق الوضوح والبصيرة ويساعدنا على العمل معًا بشكل أفضل.

@@ -20,74 +20,61 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** صعود الشركات 'الناجحة ظاهرياً' غير القابلة للاستدامة مالياً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The rise of the "successful" unsustainable company
-
-> **Executive Summary:** We're funding too many unsustainable companies.
-> **Original URL:** [https://longform.asmartbear.com/unsustainable-companies/](https://longform.asmartbear.com/unsustainable-companies/)
-
-It's appalling what passes for "successful entrepreneurship" in the press or the Valley, but it's not their fault.
+إنه لأمر مروع ما يتم وصفه بـ "ريادة الأعمال الناجحة" في الصحافة أو الوادي، لكن هذا ليس خطأهم.
 
 ![Cartoon a03f22d1](https://longform.asmartbear.com/unsustainable-companies/dedb70c6.png)
 
-Witness, for example, this terrific [Fast Company article on Bill Nguyen](http://www.fastcompany.com/magazine/160/bill-nguyen-startups), a serial entrepreneur who's seventh startup "Color" famously raised $41m for a new mobile app before it even launched. (The launch, by the way, was a failure. And it's now bankrupt.) Outspoken investor [Paul Kedrosky](http://paul.kedrosky.com/) characterizes Color's reputation:
+شاهد، على سبيل المثال، هذا [مقال شركة Fast Company الرائع عن Bill Nguyen] (http://www.fastcompany.com/magazine/160/bill-nguyen-startups)، وهو رجل أعمال متسلسل وشركته الناشئة السابعة "Color" اشتهرت بجمع 41 مليون دولار لتطبيق جوال جديد حتى قبل إطلاقه. (وكان الإطلاق، بالمناسبة، فاشلاً. وهو الآن مفلس.) يصف المستثمر الصريح [بول كيدروسكي](http://paul.kedrosky.com/) سمعة كولور:
 
-> "It's become a punch line. You can stand up at VC events and say, 'Color,' and people literally laugh without anything else being said."
+> "لقد أصبح الأمر بمثابة جملة نقاشية. يمكنك الوقوف في فعاليات رأس المال الاستثماري وقول "اللون"، فيضحك الناس حرفيًا دون أن يقال أي شيء آخر."
 
-Not long ago it was the opposite. Before the doomed launch I had people asking me what I thought about Color. I said I didn't understand what it was. They said I don't understand mobile. They're right, probably. But it doesn't explain what Color *is*.
+وقبل وقت ليس ببعيد كان العكس. قبل الإطلاق المحكوم عليه بالفشل، سألني الناس عن رأيي في اللون. قلت أنني لم أفهم ما هو. قالوا لا أفهم الجوال. ربما هم على حق. لكنه لا يفسر ما هو اللون *.
 
-How did Bill Nguyen get $41m for a vague idea? Because he's built six successful companies. Hey, actually that *is* a pretty good reason! How much more proof do you need that even his crazy ideas are worth backing? However he begins, he'll pivot until he strikes gold.
+كيف حصل بيل نجوين على 41 مليون دولار مقابل فكرة غامضة؟ لأنه قام ببناء ست شركات ناجحة. مهلا، في الواقع هذا * هو * سبب وجيه جدا! ما هو الدليل الإضافي الذي تحتاجه على أنه حتى أفكاره المجنونة تستحق الدعم؟ كيفما بدأ، سيدور حول نفسه حتى يحصل على الذهب.
 
-Except I disagree with that definition of "success." Here's the summary of his track record (excerpted from the Fast Company article):
+باستثناء أنني لا أتفق مع تعريف "النجاح". فيما يلي ملخص لسجله الحافل (مقتطف من مقالة شركة Fast Company):
 
-* **Forefront**--IPO'ed in 1995 by CBT--CBT stock fell 85% in 1998 and prompted class-action lawsuits.
-* **Freeloader**--On $3m invested, sold for $38m in 1996--shut down in 1997.
-* **Support.com**--On 2.5m invested, IPO'ed in 2000 for $32/share--stock price now $2.
-* **OneBox.com**--On $60m invested, sold for $850m 18 months after launch to J2 just before market crash--score!
-* **Seven**--On $60m invested, still private, cancelled an IPO.
-* **Lala**--On $35m invested, sold to Apple for $80m--shut down in June.
+* ** المقدمة ** - الاكتتاب العام الأولي في عام 1995 من قبل CBT - انخفض سهم CBT بنسبة 85٪ في عام 1998 وأثار دعاوى قضائية جماعية.
+* **Freeloader**--استثمرت فيه 3 ملايين دولار، وتم بيعها بمبلغ 38 مليون دولار في عام 1996 - وتم إغلاقها في عام 1997.
+* **Support.com**--على استثمار 2.5 مليون دولار، تم طرح الاكتتاب العام الأولي في عام 2000 مقابل 32 دولارًا للسهم - سعر السهم الآن 2 دولار.
+* **OneBox.com**--استثمرت 60 مليون دولار، وتم بيعها بمبلغ 850 مليون دولار بعد 18 شهرًا من إطلاقها إلى J2 قبل انهيار السوق مباشرةً - النتيجة!
+* **سبعة**--تم إلغاء الاكتتاب العام الأولي على مبلغ 60 مليون دولار مستثمر، ولا يزال خاصًا.
+* **Lala**--استثمرت 35 مليون دولار، وتم بيعها لشركة Apple مقابل 80 مليون دولار - وتم إغلاقها في يونيو.
 
-The pattern: Build up a business, create impressive "shareholder value," then it fails.
+النمط: قم ببناء مشروع تجاري، وخلق "قيمة للمساهمين" مثيرة للإعجاب، ثم يفشل.
 
-You could argue it's not Nguyen's fault that his acquirers mishandled his babies. But really, are *all* those acquirers so stupid? Surely not. After I sold Smart Bear, that division has increased revenue and profit every year, for five years, even through the 2008/2009 economic disaster[^1]. And the same thing happened after we sold IT WatchDogs in 2005.
+يمكنك القول إنه ليس خطأ نغوين أن من استحوذوا عليه أساءوا التعامل مع أطفاله. ولكن في الحقيقة، هل *جميع* هؤلاء المستحوذين أغبياء جدًا؟ بالتأكيد لا. بعد أن قمت ببيع Smart Bear، زاد هذا القسم الإيرادات والأرباح كل عام، لمدة خمس سنوات، حتى خلال الكارثة الاقتصادية 2008/2009[^1]. وحدث الشيء نفسه بعد أن قمنا ببيع IT WatchDogs في عام 2005.
 
-[^1]:  Editor's Note: Sartm Bear was later sold for $1.8B in 2020.
+[^1]: ملاحظة المحرر: تم بيع Sartm Bear لاحقًا مقابل 1.8 مليار دولار في عام 2020.
 
-The crap of it is, **those VC's who continue to invest in Nguyen are acting rationally**. After all, before the house of cards inevitably tumbles, private equity investors get a tidy return. Nguyen knows how to keep the magic going long enough for the payday.
+والأمر السيئ هو أن ** أصحاب رأس المال الاستثماري الذين يواصلون الاستثمار في Nguyen يتصرفون بعقلانية **. ففي نهاية المطاف، قبل أن ينهار بيت الورق حتماً، يحصل مستثمرو الأسهم الخاصة على عائد جيد. يعرف نجوين كيف يحافظ على استمرار السحر لفترة كافية ليوم الدفع.
 
-And it *is* magic. When you read quotes from people who've worked with Nguyen, ask yourself whether he's driven by truth or deception:
+وهو * سحر . عندما تقرأ اقتباسات من الأشخاص الذين عملوا مع نغوين، اسأل نفسك ما إذا كان مدفوعًا بالحقيقة أم بالخداع:
 
-> "Many salespeople blur the line between reality and potential to move a deal forward. Bill seems to delight in willfully disregarding the line altogether." *--unnamed source for Fast Company*
+> "يطمس العديد من مندوبي المبيعات الخط الفاصل بين الواقع وإمكانية المضي قدمًا في الصفقة. ويبدو أن بيل مسرور بتجاهل الخط الفاصل تمامًا عمدًا." *--مصدر غير مسمى لشركة Fast Company*
 > 
-> "He paints pictures with the best in the world, And storyteller doesn't give it the richness it deserves. He's Jobsian in his ability to get you on his side." *--Geoff Ralston, Lala's CEO, board member Color*
->
-> "Bill is able to say something and have the person he's talking to believe it, and believe that they want to buy it. ... He has what I call 'the Jedi.'" *--Ross Bott, CEO of Seven,  former CEO of OneBox*
+> "إنه يرسم الصور بأفضل ما في العالم، والراوي لا يمنحها الثراء الذي تستحقه. إنه جوبسيان في قدرته على جعلك تقف إلى جانبه." *--جيف رالستون، الرئيس التنفيذي لشركة Lala، عضو مجلس الإدارة Color*
+> 
+> "بيل قادر على قول شيء ما وجعل الشخص الذي يتحدث إليه يصدقه، ويعتقد أنه يريد شراءه. ... لديه ما أسميه "الجيداي"." *--روس بوت، الرئيس التنفيذي لشركة Seven، والرئيس التنفيذي السابق لشركة OneBox*
 
-But to me the bigger problem isn't with deceivers, but rather with what [Dan Lyons](http://en.wikipedia.org/wiki/Daniel_Lyons) characterizes as the rise of **unsustainable companies which people *honestly* believed were sustainable**.
+لكن بالنسبة لي، المشكلة الأكبر لا تكمن في المخادعين، بل فيما يصفه [دان ليونز](http://en.wikipedia.org/wiki/Daniel_Lyons) بأنه صعود **الشركات غير المستدامة التي يعتقد الناس *بصراحة* أنها مستدامة**.
 
-Like Groupon, with a product that everyone agreed was brilliant, spawning 1,000 copy-cats.  But all that investment in growth and sales force didn't have a long-term payback, and the actual value of the product to small businesses wasn't as high as claimed, even though the simplest of customer development reveals this fact (ask any restaurateur).  So it IPO'ed at a $13b valuation but has dropped month-over-month to one-fourth that value and appears to be in "constant pivot mode" while they try to figure out a new, massive market for which their existing infrastructure is an asset.  In other words, they're back to seeking product/market fit, and only an immense market (and excellent fit) will counterbalance their crushing costs and pay back past investments.
+مثل Groupon، مع منتج اتفق الجميع على أنه رائع، حيث أنتج 1000 نسخة مقلدة.  لكن كل هذا الاستثمار في النمو وقوة المبيعات لم يكن له عائد طويل الأجل، ولم تكن القيمة الفعلية للمنتج بالنسبة للشركات الصغيرة مرتفعة كما يُزعم، على الرغم من أن أبسط عملية تنمية العملاء تكشف هذه الحقيقة (اسأل أي صاحب مطعم).  لذلك تم الاكتتاب العام الأولي بتقييم قدره 13 مليار دولار ولكنه انخفض على أساس شهري إلى ربع هذه القيمة ويبدو أنه في "وضع محوري ثابت" أثناء محاولتهم اكتشاف سوق جديدة ضخمة تعد بنيتهم ​​التحتية الحالية أحد الأصول لها.  بمعنى آخر، لقد عادوا إلى البحث عن المنتج/السوق المناسب، ولن يتمكن سوى السوق الهائل (والملاءمة الممتازة) من موازنة تكاليفهم الساحقة وسداد الاستثمارات السابقة.
 
-Or like Zynga, a smart, seemingly unstoppable Facebook game company, whose individual product successes are fleeting, who were financially successful at a certain scale, but it's doubtful they can continue innovating enough games to justify their current size. And when someone else succeeds in their space (e.g. Draw Something), they buy it as it immediately fades in popularity and thus in value (e.g. Draw Something, [bought for $200m and lost 5m active users](http://www.forbes.com/sites/insertcoin/2012/05/04/draw-something-loses-5m-users-a-month-after-zynga-purchase/) one month after).  Which explains why their stock price is at $2.43 from an IPO under a year ago of $10.
+أو مثل Zynga، وهي شركة ألعاب فيسبوك ذكية لا يمكن إيقافها على ما يبدو، والتي تعتبر نجاحات منتجاتها الفردية عابرة، والتي حققت نجاحًا ماليًا على نطاق معين، ولكن من المشكوك فيه أن تتمكن من الاستمرار في ابتكار ما يكفي من الألعاب لتبرير حجمها الحالي. وعندما ينجح شخص آخر في مجاله (على سبيل المثال، ارسم شيئًا ما)، فإنه يشترونه حيث تتلاشى شعبيته على الفور وبالتالي قيمته (على سبيل المثال، ارسم شيئًا، [تم شراؤه مقابل 200 مليون دولار وخسر 5 ملايين مستخدم نشط](http://www.forbes.com/sites/insertcoin/2012/05/04/draw-something-loses-5m-users-a-month-after-zynga-purchase/) بعد شهر).  وهو ما يفسر سبب وصول سعر سهمهم إلى 2.43 دولارًا أمريكيًا من الاكتتاب العام الأولي قبل أقل من عام بقيمة 10 دولارات أمريكية.
 
-The thing is, *these* companies are not like Nguyen's Color. For years they demonstrated real, growing revenues (not just "active users"), a repeatable, scalable business model (not just flash-in-the-pan ideas), ownership of a large market (SMB lead-gen, social gaming), and they survived the operational challenges inherent in rapid-growth companies.
+الأمر هو أن هذه الشركات ليست مثل شركة Nguyen's Color. لقد أظهروا لسنوات إيرادات حقيقية ومتنامية (وليس فقط "المستخدمين النشطين")، ونموذج أعمال قابل للتكرار وقابل للتطوير (وليس فقط أفكار سريعة)، وملكية سوق كبيرة (قائد الشركات الصغيرة والمتوسطة، والألعاب الاجتماعية)، وتمكنوا من التغلب على التحديات التشغيلية الكامنة في الشركات سريعة النمو.
 
-These are all the substantial things we want in healthy companies, and yet it seems to me they're either more short-lived than we've all thought (i.e. that "Facebook games" is a fad rather than an industry) or that executives and investors are over-eager to value growth over sustainability (i.e. Groupon's engine that turned capital into revenue growth was a form of force-feeding rather than building a product).
+هذه هي كل الأشياء الجوهرية التي نريدها في الشركات السليمة، ومع ذلك يبدو لي أنها إما قصيرة الأجل أكثر مما كنا نظن جميعًا (أي أن "ألعاب Facebook" هي موضة وليست صناعة) أو أن المديرين التنفيذيين والمستثمرين متحمسون للغاية لتقييم النمو على الاستدامة (أي أن محرك Groupon الذي حول رأس المال إلى نمو الإيرادات كان شكلاً من أشكال التغذية القسرية بدلاً من بناء منتج).
 
-Of course this is hindsight-based armchair speculation, easy to do from the comfort of a blog post. On the other hand, I do see companies that are sustainable even with high growth, like HubSpot whose [revenue curve is as predictable](https://longform.asmartbear.com/chaos-at-start/) as a plot on your TI-90 while also able to [obsess over customer satisfaction and retention](http://onstartups.com/tabid/3339/bid/54126/Video-of-Dharmesh-Shah-at-Business-of-Software-2010-Conference.aspx), or like Freshbooks who maintains an enviable corporate culture in addition to an unflagging revenue curve, or like SEOMoz whose insistence on [TAGFEE](http://www.seomoz.org/about/mission) wins over employees, customers, [and investors](http://www.feld.com/wp/archives/2012/05/seomoz-tagfee-and-me.html) alike, creating consistent growth even in the tumultuous market of SEO tools, or like Rackspace whose maniacal obsession with excellence in customer service allows them to charge premium prices and sustain an amazing 30% annual growth even at the massive scale of $1b in revenue.
+بالطبع هذه مجرد تكهنات مبنية على الإدراك المتأخر، ومن السهل القيام بها من خلال مشاركة مدونة مريحة. من ناحية أخرى، أرى أن الشركات المستدامة حتى مع النمو المرتفع، مثل HubSpot التي يكون [منحنى إيراداتها يمكن التنبؤ به](https://longform.asmartbear.com/chaos-at-start/) كمؤامرة على جهاز TI-90 الخاص بك بينما تكون أيضًا قادرة على [الهوس برضا العملاء و الاحتفاظ](http://onstartups.com/tabid/3339/bid/54126/Video-of-Dharmesh-Shah-at-Business-of-Software-2010-Conference.aspx)، أو مثل Freshbooks الذي يحافظ على ثقافة مؤسسية تحسد عليها بالإضافة إلى منحنى إيرادات ثابت، أو مثل SEOMoz الذي ينتصر إصراره على [TAGFEE](http://www.seomoz.org/about/mission) الموظفين والعملاء [والمستثمرين] (http://www.feld.com/wp/archives/2012/05/seomoz-tagfee-and-me.html) على حد سواء، مما يؤدي إلى نمو ثابت حتى في السوق المضطرب لأدوات تحسين محركات البحث (SEO)، أو مثل شركة Rackspace التي يتيح لها هوسها المهووس بالتميز في خدمة العملاء فرض أسعار متميزة والحفاظ على نمو سنوي مذهل بنسبة 30٪ حتى على نطاق ضخم يبلغ مليار دولار من الإيرادات.
 
-Note that some of those companies were bootstrapped, some bootstrapped and took money later, and some had huge funding from the start. It's not about the financing path, it's about what you've decided to build.
+لاحظ أن بعض هذه الشركات تم تمهيدها، وبعضها حصلت على أموال في وقت لاحق، وبعضها كان لديه تمويل ضخم منذ البداية. لا يتعلق الأمر بمسار التمويل، بل يتعلق بما قررت بناءه.
 
-**It's my goal to join the ranks of those excellent companies at WP Engine**. With thirty employees, millions in revenue, a Rackspace-like commitment to customer service (we employ more WordPress experts per 1000 customers than anyone),  an SEOMoz-like commitment to honesty and transparency, and a HubSpot-like obsession on introspective measurement, not just on marketing and growth but on customer happiness and retention, we're experiencing fantastic growth, but in a way that I believe is sustainable.
+**هدفي هو الانضمام إلى صفوف تلك الشركات الممتازة في WP Engine**. مع ثلاثين موظفًا وملايين الإيرادات، والتزام يشبه Rackspace لخدمة العملاء (نحن نوظف خبراء WordPress لكل 1000 عميل أكثر من أي شخص آخر)، والتزام يشبه SEOMoz بالصدق والشفافية، وهوس يشبه HubSpot في القياس الاستبطاني، ليس فقط فيما يتعلق بالتسويق والنمو ولكن أيضًا فيما يتعلق بسعادة العملاء والاحتفاظ بهم، نحن نشهد نموًا رائعًا، ولكن بطريقة أعتقد أنها مستدامة.
 
-So now it's your turn to think about this with your own company. Is your company building something of lasting value? Are you valuing growth over sustainable growth? Are you articulating and then living up to company-cultural values which attract and retain the right sort of people who then turn around and create the right sort of product and service?
+والآن حان دورك للتفكير في هذا الأمر مع شركتك الخاصة. هل تقوم شركتك ببناء شيء ذي قيمة دائمة؟ هل تقدر النمو على النمو المستدام؟ هل تقوم بتوضيح القيم الثقافية للشركة ثم الارتقاء بها والتي تجتذب النوع المناسب من الأشخاص وتحافظ عليهم، والذين يتحولون بعد ذلك ويخلقون النوع المناسب من المنتج والخدمة؟
 
-If you *know* you're building a flash-in-the-pan, like a cool mobile app, then that's fun too of course!
+إذا كنت *تعرف* أنك تنشئ تطبيقًا سريعًا، مثل تطبيق جوال رائع، فهذا أمر ممتع أيضًا بالطبع!
 
-But if your goal is to build a lasting company, be honest about what "lasting" means. **Growth is necessary, but not sufficient.**
+ولكن إذا كان هدفك هو بناء شركة دائمة، فكن صادقًا بشأن معنى كلمة "دائم". **النمو ضروري، ولكنه غير كاف.**

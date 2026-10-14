@@ -20,269 +20,249 @@ summary_ar: "This fresh take on \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** التسعير المرتكز على استعداد العميل للدفع (WTP) واقتناص القيمة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Willingness-to-pay: Creating permanent competitive advantage for the right reasons
-
-> **Executive Summary:** This fresh take on "Willingness-to-Pay" analyzes three types of customer motivation, leading to superior strategies for growth that also better the world.
-> **Original URL:** [https://longform.asmartbear.com/willingness-to-pay/](https://longform.asmartbear.com/willingness-to-pay/)
-
 ![ok lets not get into profit shaming here](https://public.asmartbear.com/books/anthology/chapters/willingness-to-pay/d7444print-simple.png)
 
-## Traditional economics: WTP and Consumer Surplus
+## الاقتصاد التقليدي: WTP وفائض المستهلك
 
-The best businesses deliver $4 of value, charge $2, and costs them $1 to do it.
+تقدم أفضل الشركات قيمة بقيمة 4 دولارات، وتتقاضى 2 دولارًا، وتكلفها دولارًا واحدًا للقيام بذلك.
 
-It's an obvious formula for both profit and happy customers, but what does "$4 of value" even mean?
+إنها معادلة واضحة لكل من الربح والعملاء السعداء، ولكن ماذا تعني عبارة "قيمة 4 دولارات"؟
 
-Economists have labels for this formula:
+لدى الاقتصاديين تسميات لهذه الصيغة:
 
 ![Diagram explaining that the excess WTP over price is called "Customer Surplus," and excess price over cost is "Profit"](https://public.asmartbear.com/books/anthology/chapters/willingness-to-pay/wtp-simple.png)
 
-Willingness-to-pay (WTP) is the maximum price the customer *would have* paid for the product, which the economist claims is how much the customer *values* the product. "Value" could come from anything--utility, pleasure, status, even irrational confusion. The economist claims that any transaction is evidence that WTP > Price, and the difference between those numbers is "Consumer Surplus."
+الاستعداد للدفع (WTP) هو الحد الأقصى للسعر الذي *كان من الممكن* أن يدفعه العميل مقابل المنتج، وهو ما يدعي الاقتصادي أنه مقدار *تقدير* العميل للمنتج. يمكن أن تأتي "القيمة" من أي شيء - المنفعة، أو المتعة، أو المكانة، أو حتى الارتباك غير العقلاني. ويزعم الخبير الاقتصادي أن أي معاملة هي دليل على أن WTP > السعر، والفرق بين تلك الأرقام هو "فائض المستهلك".
 
-It looks trivial at a first glance, but I've come to believe that analyzing "WTP" is not only non-trivial, but also leads to very different strategies, business models, and outcomes.
+قد يبدو الأمر تافهًا للوهلة الأولى، لكنني توصلت إلى الاعتقاد بأن تحليل "الرغبة في الشراء" ليس أمرًا غير تافه فحسب، بل يؤدي أيضًا إلى استراتيجيات ونماذج أعمال ونتائج مختلفة تمامًا.
 
-## "Willingness" to pay
+## "الاستعداد" للدفع
 
-I'm irked by this word "willingness."
+أنا منزعج من هذه الكلمة "الاستعداد".
 
-In 2015, Martin Shkreli, then-CEO of Turing Pharmaceuticals, bought the rights to the drug Daraprim, which for 62 years had been used to treat a deadly parasitic disease. He raised the price of a pill from $13 to $750, [skyrocketing](https://www.cbsnews.com/news/turing-pharmaceuticals-ceo-martin-shkreli-defends-5000-percent-price-hike-on-daraprim-drug/) the typical cost of treatment from $1,000 to $63,000.
+في عام 2015، اشترى مارتن شكريلي، الرئيس التنفيذي لشركة تورينج للأدوية آنذاك، حقوق عقار دارابريم، الذي تم استخدامه لمدة 62 عامًا لعلاج مرض طفيلي مميت. لقد رفع سعر الحبة من 13 دولارًا إلى 750 دولارًا، [ارتفاعًا صاروخيًا] (https://www.cbsnews.com/news/turing-pharmaceuticals-ceo-martin-shkreli-defends-5000-percent-price-hike-on-daraprim-drug/) التكلفة النموذجية للعلاج من 1000 دولار إلى 63000 دولار.
 
 ![Martin Shkreli testifying before congress on a hearing on drug prices, before calling lawmakers "imbeciles"](https://public.asmartbear.com/books/anthology/chapters/willingness-to-pay/martin-shkreli-simple.png)
 
-"Profit" was his only justification for this abuse, in his own words:
+وكان "الربح" هو مبرره الوحيد لهذا الاستغلال، على حد تعبيره:
 
-> "I think it will be huge.... So 5,000 paying bottles at the new price is $375,000,000--almost all of it is profit, and I think we will get 3 years of that or more. Should be a very handsome investment for all of us." _--Martin Shkreli, [in communication](https://www.latimes.com/business/la-fi-senate-drug-price-study-20161221-story.html) with investors_
+> "أعتقد أنه سيكون ضخمًا.... لذا فإن دفع 5000 زجاجة بالسعر الجديد يساوي 375 مليون دولار - وكلها تقريبًا عبارة عن ربح، وأعتقد أننا سنحصل على 3 سنوات من ذلك أو أكثر. يجب أن يكون استثمارًا جيدًا جدًا لنا جميعًا." _--مارتن شكريلي، [في التواصل](https://www.latimes.com/business/la-fi-senate-drug-price-study-20161221-story.html) مع المستثمرين_
 
-Patients have no choice: It's pay or die. The economist would say, patients objectively have a high "willingness" to pay. But is this how we should define "willing?"
+ليس أمام المرضى خيار: إما الدفع أو الموت. قد يقول الخبير الاقتصادي أن المرضى لديهم بشكل موضوعي "استعداد" مرتفع للدفع. ولكن هل هذه هي الطريقة التي يجب أن نحدد بها "الرغبة"؟
 
-And when patients cannot afford a $63,000 treatment, and therefore don't purchase the drug, and die, should we say "well, I suppose they weren't 'willing' to pay?" This phrase captures neither the intent nor the ability to pay, both of which are critical factors in questions of price, profit, and consumer surplus.
+وعندما لا يتمكن المرضى من تحمل تكاليف العلاج الذي تبلغ قيمته 63 ألف دولار، وبالتالي لا يشترون الدواء ويموتون، فهل ينبغي لنا أن نقول "حسنًا، أعتقد أنهم لم يكونوا على استعداد للدفع؟" هذه العبارة لا تعبر عن النية ولا القدرة على الدفع، وكلاهما عاملان حاسمان في مسائل السعر والأرباح وفائض المستهلك.
 
-While there are many[^1] such examples, it's more instructive to point out mundane, non-life-threatening examples of why "willing" is not the right word.
+على الرغم من وجود العديد من[^1] هذه الأمثلة، إلا أنه من المفيد الإشارة إلى أمثلة عادية وغير مهددة للحياة توضح سبب عدم كون كلمة "مستعد" هي الكلمة الصحيحة.
 
-[^1]: There were at least [four egregious cases](https://www.latimes.com/business/la-fi-senate-drug-price-study-20161221-story.html) in 2015 alone. More recently, Moderna quadrupled the price of their COVID vaccines, its CEO Stephane Bancel [saying](https://pluralistic.net/2023/01/25/nationalize-moderna/) that the new price is "consistent with the value" of mRNA vaccines at 45 times the manufacturing cost, after the US government [paid them billions](https://pluralistic.net/2023/01/25/nationalize-moderna/) to cover the cost of developing the drug. Are we "willing" to pay even more? "Yes" in the sense that human life is valuable, but "no" in the usual sense of the word "willing."
+[^1]: كانت هناك على الأقل [أربع حالات فظيعة](https://www.latimes.com/business/la-fi-senate-drug-price-study-20161221-story.html) في عام 2015 وحده. في الآونة الأخيرة، ضاعفت شركة موديرنا سعر لقاحاتها المضادة لفيروس كورونا أربع مرات، وقال رئيسها التنفيذي ستيفان بانسيل (https://pluralistic.net/2023/01/25/nationalize-moderna/) إن السعر الجديد "يتوافق مع قيمة" لقاحات mRNA التي تبلغ 45 ضعف تكلفة التصنيع، بعد أن دفعت الحكومة الأمريكية لهم مليارات](https://pluralistic.net/2023/01/25/nationalize-moderna/) لتغطية تكلفة تطوير الدواء. هل نحن "مستعدون" لدفع المزيد؟ "نعم" بمعنى أن الحياة البشرية ذات قيمة، ولكن "لا" بالمعنى المعتاد لكلمة "راغبة".
 
-It happens with commodities, which [economists say are a "perfect market."](https://www.investopedia.com/terms/p/perfectcompetition.asp) When crude oil prices go up, prices at the pump go up immediately, even though costs haven't yet risen. When crude oil prices go down, prices at the pump go down slowly, even after costs have in fact fallen. The same thing is [happening now with eggs](https://pluralistic.net/2023/05/05/wmds-two-point-oh/). Is that because we're all "willing" to over-pay for gas and eggs?
+ويحدث ذلك مع السلع الأساسية، التي يقول الاقتصاديون إنها "سوق مثالية". عندما تنخفض أسعار النفط الخام، تنخفض الأسعار عند المحطات ببطء، حتى بعد انخفاض التكاليف فعليًا. نفس الشيء [يحدث الآن مع البيض](https://pluralistic.net/2023/05/05/wmds-two-point-oh/). هل هذا لأننا جميعًا "مستعدون" لدفع مبالغ زائدة مقابل الغاز والبيض؟
 
-It happens with bundling--[often touted as a wonderful strategy](https://stratechery.com/outline/bundling-and-unbundling/). I never liked paying for cable TV, because it seemed expensive considering I still had to watch ads all the time. Most of the channels I paid for, I didn't watch. Cable companies know that of course; they bundle channels specifically because they know consumers are not "willing" to pay for all of them. Because the content-owners have a near-monopoly, consumers have no choice. Even with modern streaming services the problem persists, because whether it's Hulu Live or YouTube TV, it's still bundled, and still the same price.
+ويحدث ذلك مع التجميع - [غالبًا ما يوصف بأنه استراتيجية رائعة](https://stratechery.com/outline/bundling-and-unbundling/). لم أحب أبدًا الدفع مقابل تلفزيون الكابل، لأنه بدا مكلفًا بالنظر إلى أنني لا أزال مضطرًا لمشاهدة الإعلانات طوال الوقت. معظم القنوات التي دفعت ثمنها لم أشاهدها. شركات الكابلات تعرف ذلك بالطبع؛ إنهم يجمعون القنوات على وجه التحديد لأنهم يعرفون أن المستهلكين ليسوا "على استعداد" للدفع مقابلها جميعًا. ولأن مالكي المحتوى شبه احتكاريين، فليس أمام المستهلكين أي خيار. حتى مع خدمات البث الحديثة، تستمر المشكلة، لأنه سواء كانت Hulu Live أو YouTube TV، فإنها لا تزال مجمعة، ولا تزال بنفس السعر.
 
 ![i prefer to call it profit sharing](https://public.asmartbear.com/books/anthology/chapters/willingness-to-pay/d0207print-simple.png)
 
-There's also "willing" versus "able." Perhaps many more consumers would be "willing" to pay $1000 for a fully tricked-out smartphone, but most are not "able." This is a vital fact when determining strategy, [business models](https://longform.asmartbear.com/pricing-determines-your-business-model/), and [company viability](https://longform.asmartbear.com/problem/), but an economist would just say "few consumers are 'willing' to pay $1000 for a high-end phone."
+هناك أيضًا "راغب" و"قادر". ربما يكون عدد أكبر من المستهلكين "مستعدين" لدفع 1000 دولار مقابل هاتف ذكي تم خداعه بالكامل، لكن معظمهم "غير قادرين". وهذه حقيقة حيوية عند تحديد الإستراتيجية و[نماذج الأعمال](https://longform.asmartbear.com/pricing-determines-your-business-model/) و[قابلية استمرارية الشركة](https://longform.asmartbear.com/problem/)، ولكن قد يقول خبير اقتصادي فقط "عدد قليل من المستهلكين "مستعدون" لدفع 1000 دولار أمريكي مقابل هاتف متطور."
 
-But it's not all bogus. There *is* a genuine concept of being "willing" to pay more, and thus genuine "Customer Surplus." I am willing to pay more for [Anker](https://www.anker.com/) products (power strips and chargers) because they're extremely high-quality; I don't even notice if there's a competing product that is 20% cheaper. I'm loyal even though there is neither lock-in nor recurring revenue. People pay more for TOMS[^2] and Patagonia[^3] products because of their [authentic missions](https://longform.asmartbear.com/mission-vision/). People routinely pay more for coffee that has a fair and sustainable supply-chain, because they're willing to pay more to have a positive impact on the world, not just to consume the product.
+لكنها ليست كلها وهمية. هناك *مفهوم حقيقي لكونك "مستعدًا" لدفع المزيد، وبالتالي "فائض العميل" الحقيقي. أنا على استعداد لدفع المزيد مقابل منتجات [Anker](https://www.anker.com/) (شرائط الطاقة وأجهزة الشحن) لأنها ذات جودة عالية للغاية؛ ولا ألاحظ حتى ما إذا كان هناك منتج منافس أرخص بنسبة 20%. أنا مخلص على الرغم من عدم وجود إيرادات ثابتة أو متكررة. يدفع الأشخاص مبالغ أكبر مقابل منتجات TOMS[^2] وPatagonia[^3] بسبب [مهامهم الأصلية](https://longform.asmartbear.com/mission-vision/). يدفع الناس بشكل روتيني المزيد مقابل القهوة التي تتمتع بسلسلة توريد عادلة ومستدامة، لأنهم على استعداد لدفع المزيد ليكون لهم تأثير إيجابي على العالم، وليس فقط لاستهلاك المنتج.
 
-[^2]: Blake Mycoskie [was vacationing](https://www.businessinsider.com/blake-mycoskie-argentina-toms-shoes-2011-09) in Argentina, when a knowledgeable American opened his eyes to the outsized impact that a lack of shoes has on poor children. Unprotected feet are susceptible to punctures and infection, and prohibit walking long distances, which in turn means one cannot go to school. He founded TOMS shoes, selling an Argentinian-style shoe, with the logo of the Argentinian flag, with a marketing strategy he dubbed One for One: Every time you buy a pair of shoes, TOMS would give a pair to a needy child. After TOMS's financial success, Sketchers copied the strategy exactly, even down to the style of the shoe, the name ("BOBS"), and the altruism. Consumers were so outraged by this inauthentic strategy, Sketchers was forced to cancel the product line after just 24 hours (although they revived the brand later with a different mission). That strategy was individual to TOMS; it was irrelevant that the strategy was publicly visible and copy-able. TOMS has weaknesses--[people complain](https://www.sitejabber.com/reviews/toms.com) about poor customer service and shoes quickly developing holes--but they win anyway on the strength of the individualized story.
+[^2]: بليك ميكوسكي [كان يقضي إجازته](https://www.businessinsider.com/blake-mycoskie-argentina-toms-shoes-2011-09) في الأرجنتين، عندما فتح أمريكي مطلع عينيه على التأثير الهائل الذي يحدثه نقص الأحذية على الأطفال الفقراء. الأقدام غير المحمية معرضة للثقوب والعدوى، وتمنع المشي لمسافات طويلة، وهذا بدوره يعني أنه لا يمكن للمرء الذهاب إلى المدرسة. أسس شركة TOMS للأحذية، حيث كان يبيع حذاءً على الطراز الأرجنتيني، يحمل شعار العلم الأرجنتيني، مع استراتيجية تسويقية أطلق عليها اسم One for One: في كل مرة تشتري فيها زوجًا من الأحذية، ستعطي TOMS زوجًا لطفل محتاج. بعد النجاح المالي لشركة TOMS، قامت Sketchers بنسخ الإستراتيجية تمامًا، حتى وصولاً إلى نمط الحذاء، والاسم ("BOBS")، والإيثار. كان المستهلكون غاضبين جدًا من هذه الإستراتيجية الزائفة، مما اضطر شركة Sketchers إلى إلغاء خط الإنتاج بعد 24 ساعة فقط (على الرغم من أنهم أعادوا إحياء العلامة التجارية لاحقًا بمهمة مختلفة). كانت تلك الإستراتيجية فردية لشركة TOMS؛ ولم يكن من المهم أن تكون الإستراتيجية مرئية للعامة وقابلة للنسخ. لدى TOMS نقاط ضعف - [يشكو الناس] (https://www.sitejabber.com/reviews/toms.com) من سوء خدمة العملاء والأحذية التي تتطور بسرعة إلى ثغرات - لكنهم يفوزون على أي حال بفضل قوة القصة الفردية.
 
-[^3]: Besides their publicly-lauded sustainable practices and an outdoor-worshipping culture, they even have a [formal company policy](https://twitter.com/patagonia/status/776223080779833344) to bail employees out of jail if arrested while protesting peacefully.
+[^3]: إلى جانب ممارساتهم المستدامة التي تحظى بإشادة علنية وثقافة العبادة في الهواء الطلق، لديهم أيضًا [سياسة رسمية للشركة](https://twitter.com/patagonia/status/776223080779833344) لإخراج الموظفين بكفالة من السجن إذا تم القبض عليهم أثناء الاحتجاج السلمي.
 
-Indeed, genuine "willingness" creates the best, most durable, most profitable businesses. Consumers not only pay more, they're *happy* to pay more, creating profit margin. They become evangelists, driving efficient growth. The company is resilient to competition, because consumers are buying for reasons other than "features" and "price." The world becomes a better place, transcending a zero-sum game of winners and losers.
+والحقيقة أن "الاستعداد" الحقيقي يخلق أفضل الأعمال وأكثرها ديمومة وربحية. لا يدفع المستهلكون أكثر فحسب، بل إنهم *سعيدون* بدفع المزيد، مما يخلق هامش ربح. لقد أصبحوا مبشرين، مما أدى إلى النمو الفعال. تتمتع الشركة بالمرونة في مواجهة المنافسة، لأن المستهلكين يشترون لأسباب أخرى غير "الميزات" و"السعر". يصبح العالم مكانًا أفضل، ويتجاوز لعبة المحصلة الصفرية بين الفائزين والخاسرين.
 
-Analyzing the differences between these kinds of WTP yields insights that all products and companies can [leverage](https://longform.asmartbear.com/leverage/) to build the best strategies.
+يؤدي تحليل الاختلافات بين هذه الأنواع من WTP إلى الحصول على رؤى يمكن لجميع المنتجات والشركات [الاستفادة منها](https://longform.asmartbear.com/leverage/) لبناء أفضل الاستراتيجيات.
 
-## Three kinds of WTP
+## ثلاثة أنواع من WTP
 
-I divide WTP into three categories, each having different drivers, and much different strategic value:
+أقوم بتقسيم WTP إلى ثلاث فئات، لكل منها دوافع مختلفة، وقيمة استراتيجية مختلفة كثيرًا:
 
-## Love
+## حب
 
 ![bear loving its baby bear](https://public.asmartbear.com/books/anthology/chapters/willingness-to-pay/bear-baby-with-teddy-simple.png)
 
-* Mission: the joy of supporting a change that's [bigger than all of us](https://longform.asmartbear.com/fulfillment/), or a community or movement you want to see flourish
-* Reciprocity: when the company gives before taking, or gives more than it takes, or provides exceptional customer service, or is deeply human
-* Exceptional design: a joy to use, a product that seems to genuinely care about your experience
-* Exceptional quality: the pleasure and relief generated by reliability
-* Personal identification: leveraging the company's brand as visible component of your own personal brand
-* Culture: supporting an organization that treats employees and vendors well [^4]
-* Transparency: openness from companies sharing their ups and downs[^5]
-* Social or environmental impact: supporting sustainable, fair practices
-* Community: a welcoming space where members learn and teach, support each other, create personal connections, grow their career or business, and be part of a tribe
-* Ecosystem: wherein all members make more money or gain more prestige than had they not been part of the group
+* المهمة: متعة دعم تغيير [أكبر منا جميعًا](https://longform.asmartbear.com/fulfillment/)، أو مجتمع أو حركة ترغب في رؤيتها تزدهر
+* المعاملة بالمثل: عندما تعطي الشركة قبل أن تأخذ، أو تعطي أكثر مما تأخذ، أو تقدم خدمة عملاء استثنائية، أو تكون إنسانية بعمق
+* تصميم استثنائي: متعة الاستخدام، منتج يبدو أنه يهتم حقًا بتجربتك
+* جودة استثنائية: المتعة والراحة الناتجة عن الموثوقية
+* الهوية الشخصية: الاستفادة من العلامة التجارية للشركة باعتبارها مكونًا مرئيًا لعلامتك التجارية الشخصية
+* الثقافة: دعم مؤسسة تعامل الموظفين والموردين بشكل جيد [^4]
+* الشفافية: انفتاح الشركات التي تشارك صعودها وهبوطها[^5]
+* الأثر الاجتماعي أو البيئي: دعم الممارسات المستدامة والعادلة
+* المجتمع: مساحة ترحيبية حيث يتعلم الأعضاء ويعلمون، ويدعمون بعضهم البعض، ويقيمون اتصالات شخصية، وينمون حياتهم المهنية أو أعمالهم، ويكونون جزءًا من قبيلة
+* النظام البيئي: حيث يكسب جميع الأعضاء أموالاً أكثر أو يكتسبون مكانة أكبر مما لو لم يكونوا جزءًا من المجموعة
 
-*<u>Result: Allyship</u>. Consumers are genuinely happy to do business with you, and root for your success; when you make a profit, they cheer, because they want you to thrive; they advocate for you publicly,[^6] tying their personal brand with yours; they don't even consider the competition; the old saying that "people buy from the person they like;" they would be OK with a small price-increase.*
+*<u>النتيجة: التحالف</u>. المستهلكون سعداء حقًا بالتعامل معك، ويشجعون نجاحك؛ عندما تحقق ربحًا، فإنهم يهتفون، لأنهم يريدون لك أن تزدهر؛ يدافعون عنك علنًا،[^6] ويربطون علامتهم التجارية الشخصية بعلامتك التجارية؛ حتى أنهم لا يفكرون في المنافسة؛ المثل القديم القائل بأن "الناس يشترون من الشخص الذي يحبونه"؛ سيكونون على ما يرام مع زيادة طفيفة في الأسعار.
 
-[^4]: Counter-example: Walmart and Amazon, known for exploiting workers and suppliers
+[^4]: مثال مضاد: Walmart وAmazon، المعروفتان باستغلال العمال والموردين
 
-[^5]: Often used by solopreneurs or bootstrapped companies in their early days, with [Buffer](https://buffer.com/) being the most extreme (and well-loved!) example, sharing everything from salaries to strategy to monthly revenue.
+[^5]: غالبًا ما يستخدمه رواد الأعمال المنفردون أو الشركات التي تم تأسيسها في أيامها الأولى، مع كون [Buffer](https://buffer.com/) هو المثال الأكثر تطرفًا (والمحبوب جدًا!) حيث يشارك كل شيء بدءًا من الرواتب وحتى الإستراتيجية وحتى الإيرادات الشهرية.
 
-[^6]: [This single tweet](https://twitter.com/sweatystartup/status/1621548157187284994?s=20) demonstrates this with thousands of responses.
+[^6]: [هذه التغريدة المنفردة](https://twitter.com/sweatystartup/status/1621548157187284994?s=20) توضح ذلك من خلال آلاف الردود.
 
-## Utility
+## جدوى
 
 ![bear selling tools](https://public.asmartbear.com/books/anthology/chapters/willingness-to-pay/bear-selling-tools-simple.png)
 
-* Cheap: even if quality and functionality is low, it's better than not having the product
-* Integrations: providing functionality while also more difficult to switch vendors
-* System-of-record: being the official place for important data, making it risky and expensive to switch vendors
-* Training: invested in having trained an organization, making it expensive and disruptive to switch vendors
-* Market-share leader: the social-proof of selecting the market-leader is a reason to buy
-* Location: coffee inside the airport is more expensive than on the street corner
-* Convenience: groceries delivered to your doorstep are substantially more expensive than getting them yourself
-* Simplicity: surprising ease is as delightful as it is useful
-* Quality: a seamless experience with no defects is often worth paying for
-* Risk-reduction: mitigating potential problems is difficult to measure, but valuable
-* Unique functionality: a capability that no competitor can match is a sensible criterium for a purchase decision
-* On-boarding experience: [data shows](https://www.profitwell.com/recur/all/positive-onboarding-boosts-retention-wtp) that ease and reciprocity results in higher WTP
-* Familiarity: having used a product or a workflow paradigm for years, it is the comfortable way to work
+* رخيص: حتى لو كانت الجودة والأداء منخفضين، فهذا أفضل من عدم امتلاك المنتج
+* التكامل: توفير الوظائف مع صعوبة تبديل البائعين أيضًا
+* نظام السجل: كونه المكان الرسمي للبيانات المهمة، مما يجعل تبديل البائعين أمرًا محفوفًا بالمخاطر ومكلفًا
+* التدريب: الاستثمار في تدريب منظمة ما، مما يجعل تبديل البائعين أمرًا مكلفًا ومزعجًا
+* زعيم حصة السوق: الدليل الاجتماعي لاختيار الشركة الرائدة في السوق هو سبب للشراء
+* الموقع: القهوة داخل المطار أغلى من تلك الموجودة في زاوية الشارع
+* الراحة: تعتبر منتجات البقالة التي يتم توصيلها إلى عتبة داركم أغلى بكثير من الحصول عليها بنفسك
+* البساطة: السهولة المدهشة تكون مبهجة بقدر ما هي مفيدة
+* الجودة: تجربة سلسة خالية من العيوب غالبًا ما تستحق الدفع مقابلها
+* الحد من المخاطر: من الصعب قياس تخفيف المشاكل المحتملة، ولكنه مفيد
+* الوظيفة الفريدة: القدرة التي لا يمكن لأي منافس أن يضاهيها هي معيار معقول لاتخاذ قرار الشراء
+* تجربة الإعداد: [تظهر البيانات](https://www.profitwell.com/recur/all/positive-onboarding-boosts-retention-wtp) أن السهولة والمعاملة بالمثل تؤدي إلى زيادة الرغبة في الدفع
+* الإلمام: بعد استخدام منتج أو نموذج سير عمل لسنوات، فهذه هي الطريقة المريحة للعمل
 
-*<u>Result: Fair exchange of value</u>. Your product is useful and not excessively painful; the "devil we know;" getting your money's worth; easier to stay than to leave, and no particular desire to leave.*
+*<u>النتيجة: تبادل عادل للقيمة</u>. منتجك مفيد وغير مؤلم بشكل مفرط؛ "الشيطان الذي نعرفه" ؛ الحصول على قيمة أموالك؛ البقاء أسهل من الرحيل، ولا توجد رغبة خاصة في الرحيل.*
 
-## Coercion
+## الإكراه
 
 ![bear giving money](https://public.asmartbear.com/books/anthology/chapters/willingness-to-pay/bear-giving-money-simple.png)
 
-* Contract lock-in: retaining your business through paperwork rather than by choice
-* Data lock-in: retaining your business by holding your data hostage rather than by choice
-* Effective monopoly: being the only feasible option[^7]
-* Effective price-fixing: breaking the so-called "free market"
-* Middle-man: placing yourself in the middle of a transaction, increasing consumer price while decreasing supplier's profit[^8]
-* Bundle-stuffing: combining many things the customer doesn't want with the few they do want, to charge more in total[^9]
-* Scale Anti-Pricing: raising prices once an installation is at-scale, knowing that although an alternative might be more effective, more desirable, and cheaper, the one-time cost of switching is incredibly high
-* Predatory Pricing: using lower-than-cost pricing to destroy competitors and ward off investors (funded by another business unit like Amazon does or [by VCs as companies like Uber did](https://pluralistic.net/2023/05/19/fake-it-till-you-make-it/)), then increase prices once the competitive market has been decimated and customers have no choice.
-* Patents: abusing a system meant to temporarily protect inventions to block normal competition.
-* Corporate policy: once a product is written into a company's formal policy (site-wide license or the only approved vendor for some application), that product "wins" even if every user hates it
-* Government fiat or regulation: required by law[^10]
+* تأمين العقد: الاحتفاظ بعملك من خلال الأوراق وليس عن طريق الاختيار
+* قفل البيانات: الاحتفاظ بعملك من خلال احتجاز بياناتك كرهينة وليس عن طريق الاختيار
+* الاحتكار الفعال: كونه الخيار الوحيد الممكن[^7]
+* تحديد الأسعار بشكل فعال: كسر ما يسمى بـ "السوق الحرة"
+* الوسيط: وضع نفسك في منتصف المعاملة، مما يؤدي إلى زيادة سعر المستهلك مع تقليل أرباح المورد[^8]
+* حشو الحزم: الجمع بين العديد من الأشياء التي لا يريدها العميل مع الأشياء القليلة التي يريدها، لتحصيل رسوم أكبر إجمالاً[^9]
+* مكافحة التسعير على نطاق واسع: رفع الأسعار بمجرد أن يكون التثبيت على نطاق واسع، مع العلم أنه على الرغم من أن البديل قد يكون أكثر فعالية وأكثر مرغوبة وأرخص، إلا أن تكلفة التبديل لمرة واحدة مرتفعة بشكل لا يصدق
+* التسعير الجشع: استخدام أسعار أقل من التكلفة لتدمير المنافسين وإبعاد المستثمرين (بتمويل من وحدة أعمال أخرى مثل أمازون أو [بواسطة شركات رأس المال المغامر كما فعلت شركات مثل أوبر](https://pluralistic.net/2023/05/19/fake-it-till-you-make-it/))، ثم زيادة الأسعار بمجرد القضاء على السوق التنافسية وعدم وجود خيار أمام العملاء.
+* براءات الاختراع: إساءة استخدام نظام يهدف إلى حماية الاختراعات بشكل مؤقت لمنع المنافسة العادية.
+* سياسة الشركة: بمجرد كتابة المنتج في السياسة الرسمية للشركة (ترخيص على مستوى الموقع أو البائع الوحيد المعتمد لبعض التطبيقات)، فإن هذا المنتج "يفوز" حتى لو كان كل مستخدم يكرهه
+* أمر أو لائحة حكومية: مطلوبة بموجب القانون[^10]
 
-*<u>Result: Adversarial</u>. Customers want to leave; they idly comment that they wish some new competitor would arrive and disrupt you; they hate seeing your charges on their bill; they do business with you only begrudgingly; they lobby their boss to switch vendors.*
+*<u>النتيجة: عدائية</u>. العملاء يريدون المغادرة؛ يعلقون بلا مبالاة بأنهم يتمنون وصول منافس جديد وتعطيلك؛ إنهم يكرهون رؤية الرسوم الخاصة بك على فاتورتهم؛ إنهم لا يتعاملون معك إلا على مضض؛ إنهم يضغطون على رئيسهم لتبديل البائعين.*
 
-[^7]: This can be constructed purposefully, e.g. Uber spending tens of billions of dollars subsidizing rides to drive rival taxi and ride-share services out of business, so that they are the only option, and can raise prices, as [they now have done](https://pluralistic.net/2023/04/21/bondage-fees/).
+[^7]: يمكن إنشاء هذا بشكل هادف، على سبيل المثال. تنفق شركة أوبر عشرات المليارات من الدولارات لدعم الرحلات لإبعاد خدمات سيارات الأجرة ومشاركة الرحلات المنافسة عن العمل، بحيث تكون الخيار الوحيد، ويمكنها رفع الأسعار، كما فعلت الآن (https://pluralistic.net/2023/04/21/bondage-fees/).
 
-[^8]: A classic example is the person who buys a bunch of tickets to a concert, then resells them at 10x the price after the concert is "sold out." Here's an even more [appalling example](https://twitter.com/doctorow/status/1628948906657878016?s=20).
+[^8]: المثال الكلاسيكي هو الشخص الذي يشتري مجموعة من التذاكر لحفل موسيقي، ثم يعيد بيعها بـ 10 أضعاف السعر بعد "بيع" الحفل الموسيقي. إليك [مثالًا مروعًا] أكثر (https://twitter.com/doctorow/status/1628948906657878016?s=20).
 
-[^9]: There is also a positive version of bundling, in which the items are mostly things the customer *does* want, purchased at a discount over buying each item individually, possibly with some useful interoperability.
+[^9]: هناك أيضًا نسخة إيجابية من التجميع، حيث تكون العناصر في الغالب أشياء يريدها العميل *لا*، ويتم شراؤها بخصم على شراء كل عنصر على حدة، وربما مع بعض قابلية التشغيل البيني المفيدة.
 
-[^10]: Here Uber is an example of "love," breaking the "coercive" stranglehold of taxi industry regulations.
+[^10]: هنا أوبر هو مثال على "الحب"، حيث يكسر القبضة "القسرية" للوائح صناعة سيارات الأجرة.
 
 ![hit her with lower expectations first](https://public.asmartbear.com/books/anthology/chapters/willingness-to-pay/d9174print-simple.png)
 
-All of these things contribute equally to the economist's definition of WTP: The customer is in fact paying, and might pay more if you raise prices. But strategically they are completely different.
+تساهم كل هذه الأشياء بشكل متساوٍ في تعريف الاقتصاديين لـ WTP: العميل يدفع في الواقع، وقد يدفع أكثر إذا قمت برفع الأسعار. لكن من الناحية الاستراتيجية فإنهما مختلفان تماما.
 
-## Effect on growth and competitive pressure
+## التأثير على النمو والضغوط التنافسية
 
-#### **Love** creates *inexpensive, non-linear growth*, because your customers are your allies.
+#### **الحب** يخلق *نموًا غير مكلف وغير خطي*، لأن عملائك هم حلفاؤك.
 
-You get repeat purchases, whether it's a one-time revenue product or a loyal recurring-revenue customer. This creates growth with no additional marketing and sales costs.
+تحصل على عمليات شراء متكررة، سواء كان ذلك منتجًا يدر إيرادات لمرة واحدة أو عميلًا مخلصًا يدر إيرادات متكررة. وهذا يخلق النمو دون أي تكاليف تسويق ومبيعات إضافية.
 
-You get word-of-mouth advocacy. When someone asks what to buy on Twitter, your rabid fans answer the question. When there's a review site, your product ranks number one. When Customer Surplus is enormous, consumers reciprocate by selling new customers on your behalf.[^11] Once again, this is growth without additional marketing and sales costs. Furthermore, the effect grows as your customer base grows: A non-linear effect.
+تحصل على تأييد شفهي. عندما يسألك أحد الأشخاص عما يجب شراؤه على تويتر، يجيب المعجبون المسعورون على هذا السؤال. عندما يكون هناك موقع للمراجعة، فإن منتجك يحتل المرتبة الأولى. عندما يكون فائض العملاء هائلاً، يقوم المستهلكون بالمثل عن طريق بيع عملاء جدد نيابةً عنك.[^11] ومرة ​​أخرى، يعد هذا نموًا بدون تكاليف تسويق ومبيعات إضافية. علاوة على ذلك، فإن التأثير ينمو مع نمو قاعدة عملائك: تأثير غير خطي.
 
-When a new competitor arrives, *even when it is superior* in features or price, your customers will stay, because they're here for more than just the features and the price. This yields retention, which is another form of growth.[^12] There is a limit to this effect of course--at some point the product simply isn't good enough--but it carries you through the vacillations of typical competitive one-upmanship.
+عندما يصل منافس جديد، *حتى لو كان متفوقًا* في الميزات أو السعر، سيبقى عملاؤك، لأنهم موجودون هنا من أجل أكثر من مجرد الميزات والسعر. يؤدي هذا إلى الاحتفاظ بالمنتج، وهو شكل آخر من أشكال النمو.[^12] هناك حد لهذا التأثير بالطبع - في مرحلة ما، لا يكون المنتج جيدًا بدرجة كافية - ولكنه يحملك خلال تقلبات المنافسة التنافسية النموذجية.
 
-[^11]: Hollow Knight is a high-quality indie game, made primarily by just three people. Released in 2017, people still make YouTube videos about it in 2023. The soundtrack has millions of listens on Spotify. Everyone says it's far too cheap at $15. Plus you get 4 expansion packs for free--something games normally charge for. Everyone repeats the story about how it's just two guys plus one other guy who did the amazing music. Fans even begged them to charge more but they don't--they'd rather be accessible, and people love them all more for it. The economist would say they should raise prices because they can. Yes they *can*, but it's obvious that rabid fans generate millions of purchases, and that financial impact is so much larger than closing the WTP/Price gap to "demonstrate you have market power."
+[^11]: Hollow Knight هي لعبة مستقلة عالية الجودة، تم إنشاؤها في المقام الأول بواسطة ثلاثة أشخاص فقط. تم إصداره في عام 2017، ولا يزال الأشخاص يصنعون مقاطع فيديو حول هذا الموضوع على YouTube في عام 2023. وقد حظيت الموسيقى التصويرية بملايين الاستماع على Spotify. يقول الجميع أنها رخيصة جدًا بسعر 15 دولارًا. بالإضافة إلى أنك تحصل على 4 حزم توسعة مجانًا، وهو ما تتقاضاه الألعاب عادةً. يكرر الجميع القصة حول كيف أن رجلين فقط بالإضافة إلى شخص آخر قاما بأداء الموسيقى الرائعة. حتى أن المعجبين توسلوا إليهم أن يتقاضوا المزيد من الرسوم لكنهم لم يفعلوا ذلك - فهم يفضلون أن يكونوا في متناول الجميع، والناس يحبونهم أكثر بسبب ذلك. قد يقول الاقتصاديون إن عليهم رفع الأسعار لأنهم يستطيعون ذلك. نعم يمكنهم ذلك، ولكن من الواضح أن المشجعين المسعورين يحققون ملايين المشتريات، وأن التأثير المالي أكبر بكثير من سد فجوة WTP/السعر "لإظهار أن لديك قوة سوقية".
 
-[^12]: Don't believe me? [Look at the growth curve](https://longform.asmartbear.com/product-market-fit/) of any startup that went from 7%/mo cancellation to 2%/mo.
+[^12]: ألا تصدقني؟ [أنظر إلى منحنى النمو](https://longform.asmartbear.com/product-market-fit/) لأي شركة ناشئة ارتفعت معدلات الإلغاء فيها من 7% شهريًا إلى 2% شهريًا.
 
-#### **Utility** *grows existing customers*, and is neutral-to-positive on attracting new ones.
+#### ** المنفعة ** * تعمل على تنمية العملاء الحاليين *، وهي محايدة إلى إيجابية في جذب عملاء جدد.
 
-As an organization grows, it will naturally buy more seats of software for teams in customer support, sales, engineering, and so on. It will naturally buy more infrastructure and incur more credit card transaction fees. This isn't a negative, and does creates internal growth, which is a powerful growth-driver for any business, especially at scale.[^13]
+مع نمو المؤسسة، من الطبيعي أن تشتري المزيد من مقاعد البرامج لفرق دعم العملاء والمبيعات والهندسة وما إلى ذلك. ومن الطبيعي أن تشتري المزيد من البنية التحتية وتتحمل المزيد من رسوم معاملات بطاقات الائتمان. وهذا ليس أمرًا سلبيًا، بل يؤدي إلى نمو داخلي، وهو محرك قوي للنمو في أي نشاط تجاري، وخاصة على نطاق واسع.[^13]
 
-But, a customer's willingness to buy another ten seats of JIRA doesn't imply the customer is going on forums, spending personal credibility to advocate on your behalf. And it doesn't mean they won't take a look at an interesting new competitor.[^14]
+لكن رغبة العميل في شراء عشرة مقاعد أخرى في JIRA لا تعني أن العميل يذهب إلى المنتديات، وينفق مصداقيته الشخصية للدفاع نيابة عنك. وهذا لا يعني أنهم لن يلقوا نظرة على منافس جديد مثير للاهتمام.[^14]
 
-[^13]: At scale, new customers can be added only so quickly, whereas you have an enormous existing customer base, so growth inside the base is a larger factor than growth from new customers.
+[^13]: على نطاق واسع، لا يمكن إضافة عملاء جدد إلا بهذه السرعة، في حين أن لديك قاعدة عملاء حالية هائلة، لذا فإن النمو داخل القاعدة يعد عاملًا أكبر من النمو من العملاء الجدد.
 
-[^14]: Indeed, new JIRA competitor Linear has quickly amassed a rabid fan base on the basis of exceptional UX. It's easy to imagine JIRA users trying Linear and even advocating to switch, whereas it's laughable to imagine a Linear user trying to convince their team to switch to JIRA.
+[^14]: في الواقع، نجح Linear المنافس الجديد لـ JIRA في حشد قاعدة جماهيرية مسعورة على أساس تجربة المستخدم الاستثنائية. من السهل أن نتخيل مستخدمي JIRA وهم يحاولون استخدام Linear بل ويؤيدون التبديل، في حين أنه من المضحك أن نتخيل مستخدمًا Linear يحاول إقناع فريقهم بالتبديل إلى JIRA.
 
-#### **Coercion** causes your customers to be *allied with competitors*; they're internally motivated to leave, so they will.
+#### **الإكراه** يتسبب في تحالف عملائك مع المنافسين*؛ لديهم دوافع داخلية للمغادرة، لذلك سيفعلون.
 
-"Just give me an excuse." Your customers, locked in against their will, cannot *wait* for a viable competitor to appear. They will go out of their way to switch, coming up with reasons why investing in the switch will pay for itself ten-fold, despite the cost. Exactly the case you *don't* want your customers building.
+"فقط أعطني عذرا." عملاؤك، المحصورون ضد إرادتهم، لا يمكنهم *الانتظار* حتى يظهر منافس قابل للحياة. سوف يبذلون قصارى جهدهم للتبديل، ويتوصلون إلى الأسباب التي تجعل الاستثمار في التبديل سيدفع تكاليفه عشرة أضعاف، على الرغم من التكلفة. بالضبط هي الحالة التي *لا* تريد أن يبنيها عملاؤك.
 
-When your contract is up for renewal, you should be very afraid. When someone asks on Twitter what tool they should use, your customers say: "Well we use X, but don't make the same mistake!"
+عندما يكون عقدك جاهزًا للتجديد، يجب أن تكون خائفًا جدًا. عندما يسأل أحد الأشخاص على تويتر عن الأداة التي يجب عليه استخدامها، يقول عملاؤك: "حسنًا، نستخدم X، لكن لا ترتكب نفس الخطأ!"
 
-You are constantly vulnerable to disruption, even by mediocre competition. This is the weakest position you could be in, because you're coercing customers instead of delighting them.
+أنت عرضة باستمرار للتعطيل، حتى من خلال المنافسة المتواضعة. هذا هو أضعف موقف يمكن أن تكون فيه، لأنك تجبر العملاء بدلاً من إسعادهم.
 
 ![higher next time hankering](https://public.asmartbear.com/books/anthology/chapters/willingness-to-pay/d9173print-simple.png)
 
-## Profit done right: Create more WTP, then split it with the customer
+## تحقيق الربح بشكل صحيح: قم بإنشاء المزيد من خطط الدفع، ثم قم بتقسيمها مع العميل
 
-> "[When you increase WTP], you're adding value for the consumer, and then figuring out how to split that with the consumer."  
-> _--Michael Mauboussin, [interviewed on](https://open.spotify.com/episode/30smJfSR30QI1Nwk7YO130?go=1&sp_cid=210062e5df3dc0948de5cef2743a25d6) the Invest like the Best podcast._
+> "[عندما تقوم بزيادة WTP]، فإنك تضيف قيمة للمستهلك، ثم تكتشف كيفية تقسيم ذلك مع المستهلك."
+> _--مايكل موبوسان، [تمت المقابلة على](https://open.spotify.com/episode/30smJfSR30QI1Nwk7YO130?go=1&sp_cid=210062e5df3dc0948de5cef2743a25d6) الاستثمار مثل أفضل بودكاست._
 
-Creating value for the customer comes first. Then--and only then--you can decide how to "split it with the customer," either leveraging Consumer Surplus for advocacy, high-retention, and growth, or indeed by raising prices.
+خلق القيمة للعميل يأتي أولا. عندها - وعندها فقط - يمكنك أن تقرر كيفية "تقسيمها مع العميل"، إما الاستفادة من فائض المستهلك من أجل الدعوة، والاحتفاظ المرتفع، والنمو، أو في الواقع من خلال رفع الأسعار.
 
-When you create that value through Love or Utility, this is both sustainable and profitable. When it's through Coercion, it is temporary at best.
+عندما تقوم بإنشاء هذه القيمة من خلال الحب أو المنفعة، يكون هذا مستدامًا ومربحًا. عندما يتم ذلك من خلال الإكراه، فهو مؤقت في أحسن الأحوال.
 
-The strongest organizations have all three. For example, Apple generates Love through appealing design, being a statement of personal brand, and maintaining the highest standard of privacy even if it means the product is less functional or interoperable. Apple also leverages utility, becoming familiar and convenient (and thus a mental effort to switch away), and trying to become the center of everything from family photos to shared files to 10,000 notes to the common way to purchase things, creating a form of "lock-in" that feels useful rather than evil. But it leverages Coercion as well, as users are locked-in even when they'd prefer not to be, unable to export data from apps like Notes, and being forced to buy new devices as older ones suspiciously stop working well after applying new (mandatory) operating system upgrades, and changing the connectors on charging cables every 5-10 years.
+أقوى المنظمات لديها الثلاثة. على سبيل المثال، تولد شركة Apple الحب من خلال التصميم الجذاب، وكونها بيانًا لعلامتها التجارية الشخصية، والحفاظ على أعلى مستوى من الخصوصية حتى لو كان ذلك يعني أن المنتج أقل وظيفية أو قابلاً للتشغيل البيني. تستفيد شركة Apple أيضًا من المنفعة، فتصبح مألوفة ومريحة (وبالتالي جهدًا عقليًا للابتعاد)، وتحاول أن تصبح مركزًا لكل شيء بدءًا من الصور العائلية إلى الملفات المشتركة إلى 10000 ملاحظة إلى الطريقة الشائعة لشراء الأشياء، مما يخلق شكلاً من أشكال "الانغلاق" الذي يبدو مفيدًا وليس شريرًا. ولكنه يعزز الإكراه أيضًا، حيث يظل المستخدمون محبوسين حتى عندما لا يفضلون ذلك، وغير قادرين على تصدير البيانات من تطبيقات مثل Notes، ويضطرون إلى شراء أجهزة جديدة لأن الأجهزة القديمة تتوقف بشكل مثير للريبة عن العمل بشكل جيد بعد تطبيق ترقيات نظام التشغيل الجديدة (الإلزامية)، وتغيير الموصلات على كابلات الشحن كل 5 إلى 10 سنوات.
 
-In any case, Apple has increased WTP in all three ways over the past ten years, and they've split that with their customers, as evidenced by a consistent profit margin:
+على أية حال، قامت شركة Apple بزيادة WTP بجميع الطرق الثلاثة على مدار السنوات العشر الماضية، وقد قامت بتقسيم ذلك مع عملائها، كما يتضح من هامش الربح الثابت:
 
 ![Apple's net profit margin has ranged from 21-26% from 2010 to 2022.](https://public.asmartbear.com/books/anthology/chapters/willingness-to-pay/d4b63fc22-e70c-4c73-b979-2ba286e6fe6a-simple.png)
 
-## Even the cold-blooded capitalist should eschew Coercion
+## حتى الرأسمالي ذو الدم البارد يجب أن يتجنب الإكراه
 
-Here's why Love and Utility results in more valuable companies, even though it prioritizes Consumer Surplus over profits:
+لهذا السبب يؤدي الحب والمنفعة إلى شركات أكثر قيمة، على الرغم من أنها تعطي الأولوية لفائض المستهلك على الأرباح:
 
-Imagine there are two companies, alike in every way: Same product, same industry, same market, same number of customers at the same price, at the same costs, and thus the same revenue, same profit, and same WTP. The only difference is:
+تخيل أن هناك شركتين متشابهتين في كل شيء: نفس المنتج، ونفس الصناعة، ونفس السوق، ونفس عدد العملاء بنفس السعر، وبنفس التكاليف، وبالتالي نفس الإيرادات، ونفس الربح، ونفس الرغبة في الشراء. الفرق الوحيد هو:
 
-1. Company's WTP is generated only by Love.
-2. Company's WTP is generated only by Coercion.
+1. يتم إنشاء برنامج WTP الخاص بالشركة فقط عن طريق الحب.
+2. يتم إنشاء خطة الدفع الخاصة بالشركة فقط عن طريق الإكراه.
 
-Which one is most likely to grow in volume and profit over the next five years? Which is more likely to capture more market share? In other words, which is the better investment for a Venture Capitalist?
+أيهما من المرجح أن ينمو من حيث الحجم والأرباح خلال السنوات الخمس القادمة؟ ما الذي من المرجح أن يستحوذ على حصة أكبر في السوق؟ بمعنى آخر، ما هو الاستثمار الأفضل لصاحب رأس المال المغامر؟
 
-I'd pick (1). I know their customer base will help them grow efficiently, while competitors look on helplessly, unable to convert customers even with the lure of unique features and lower prices. Whereas I know (2)'s customer base will be trying to leave, praying another competitor comes to save them, publicly warding away potential customers from repeating their mistake.
+سأختار (١). أعلم أن قاعدة عملائهم ستساعدهم على النمو بكفاءة، بينما ينظر المنافسون إليهم بلا حول ولا قوة، وغير قادرين على تحويل العملاء حتى مع إغراء الميزات الفريدة والأسعار المنخفضة. على الرغم من أنني أعلم أن قاعدة عملاء (2) ستحاول المغادرة، إلا أنني أدعو الله أن يأتي منافس آخر لإنقاذهم، ويمنع العملاء المحتملين علنًا من تكرار خطأهم.
 
-It is also possible for (1) to add Utility or even Coercive WTP to their strategy, further strengthening their position, whereas it is much more difficult for (2) to generate Love starting from their current position. It's not that Coercion is never an appropriate ingredient, but rather that the other two are better.[^15]
+من الممكن أيضًا لـ (1) إضافة المنفعة أو حتى الدفع القسري إلى استراتيجيتهم، مما يعزز موقفهم بشكل أكبر، في حين أنه من الصعب جدًا على (2) توليد الحب بدءًا من موقعهم الحالي. لا يعني ذلك أن الإكراه ليس عنصرًا مناسبًا على الإطلاق، بل أن العنصرين الآخرين أفضل.[^15]
 
-[^15]: It's like the [Agile Manifesto](https://agilemanifesto.org/): When it says "Working software over comprehensive documentation," it isn't saying "Documentation is bad." Rather, it's saying "Working software" is *more* valuable, so that's where we should spend most of our energy.
+[^15]: إنه مثل [Agile Manifesto](https://agilemanifesto.org/): عندما يقول "العمل على البرامج بدلاً من التوثيق الشامل"، فهو لا يعني أن "التوثيق سيء". بدلاً من ذلك، فهو يقول إن "البرامج العاملة" هي *أكثر* قيمة، لذلك يجب أن ننفق معظم طاقتنا في هذا المجال.
 
-Love beats Coercion, even as cold-blooded, money-grubbing capitalist investor, indifferent to ethics or the betterment of the world.
+الحب يتغلب على الإكراه، حتى لو كان المستثمر الرأسمالي بدم بارد، ينهمك المال، غير مبال بالأخلاق أو بتحسين العالم.
 
-And yet Love makes money while in fact bettering the world, and making everyone happier.
+ومع ذلك، فإن الحب يجني المال بينما يعمل في الواقع على تحسين العالم، ويجعل الجميع أكثر سعادة.
 
-**So choose Love** by building it into your strategy, investing in it, and then reveling in what you've created.
+**لذلك اختر الحب** من خلال دمجه في استراتيجيتك، والاستثمار فيه، ثم الاستمتاع بما قمت بإنشائه.
 
 ---
 
-## Appendix: Relationship to other frameworks
+## ملحق: العلاقة مع الأطر الأخرى
 
-You can apply this concept directly to your strategy, and merge it with other techniques.
+يمكنك تطبيق هذا المفهوم مباشرة على استراتيجيتك، ودمجه مع تقنيات أخرى.
 
-#### Kano (Figure 3)
+#### كانو (الشكل 3)
 
-"Love" feels a lot like [Kano](https://foldingburritos.com/blog/kano-model)'s "Delight"--a joyous, perhaps even unexpected upside. "Utility" maps to "Performance"--where the more of it there is, the more value it is to the customer. "Coercive" maps to "Inverse"--something that customers actively dislike, even though you gain the selfish corporate benefit of retention.
+"الحب" يشبه إلى حد كبير أغنية "Delight" لـ [Kano](https://foldingburritos.com/blog/kano-model) - وهي عبارة عن جانب صعودي بهيج، وربما غير متوقع. يتم تعيين "المنفعة" إلى "الأداء" - حيث كلما زاد عددها، زادت قيمتها بالنسبة للعميل. "الإكراه" يرتبط بـ "المعكوس" - وهو الأمر الذي يكرهه العملاء بشدة، على الرغم من حصولك على المنفعة الأنانية للشركة المتمثلة في الاحتفاظ بالعملاء.
 
 ![Kano model](https://public.asmartbear.com/books/anthology/chapters/willingness-to-pay/kanomodel-simple.png)
 
-#### Moats
+#### الخنادق
 
-Many of these things sound like [moats](https://longform.asmartbear.com/moats/), and for good reason: Increasing WTP of any type increases your ability to capture and retain customers. The more forceful (whether positive or negative), the more that becomes a permanent advantage that others cannot dislodge. No one can take away a fantastic brand, and government fiat can last for decades.
+تبدو العديد من هذه الأشياء وكأنها [خنادق](https://longform.asmartbear.com/moats/)، وذلك لسبب وجيه: زيادة الرغبة في الدفع من أي نوع تزيد من قدرتك على جذب العملاء والاحتفاظ بهم. وكلما كانت القوة (سواء كانت إيجابية أو سلبية)، كلما أصبحت ميزة دائمة لا يستطيع الآخرون إزاحتها. لا يمكن لأحد أن يسلب علامة تجارية رائعة، ويمكن أن يستمر الأمر الحكومي لعقود من الزمن.
 
-An interesting example is "network effect," because it shows up in all three types:
+أحد الأمثلة المثيرة للاهتمام هو "تأثير الشبكة"، لأنه يظهر في الأنواع الثلاثة:
 
-* "Love" network effects include community and ecosystem, where participants help one another personally and professionally.
-* One "Utility" network effect is a functioning marketplace, so e.g. eBay was for decades the destination having the greater number of buyers and sellers of collectable objects, and thus genuinely the most useful place to transact. You might not "love" eBay, but certainly people went there because it was useful, not because they were forced to.
-* One "Coercive" network effect is when choice is limited to "preferred vendors," creating a cartel rather than creating choice. For example, the United States health care system features insurance companies who each support their own network of doctors. A consequence is that switching insurance can mean you have to switch family doctors--an unnecessary and "value-destroying" activity as an economist would say.
+* تشمل تأثيرات شبكة "الحب" المجتمع والنظام البيئي، حيث يساعد المشاركون بعضهم البعض شخصيًا ومهنيًا.
+* أحد تأثيرات شبكة "الأدوات المساعدة" هو وجود سوق فعال، على سبيل المثال. لقد كان موقع eBay لعقود من الزمن الوجهة التي تضم عددًا أكبر من المشترين والبائعين للأشياء القابلة للتحصيل، وبالتالي فهو حقًا المكان الأكثر فائدة للمعاملات. قد لا تحب موقع eBay، لكن من المؤكد أن الناس ذهبوا إلى هناك لأنه كان مفيدًا، وليس لأنهم مجبرون على ذلك.
+* أحد تأثيرات الشبكة "القسرية" هو عندما يقتصر الاختيار على "البائعين المفضلين"، مما يؤدي إلى إنشاء كارتل بدلاً من خلق الاختيار. على سبيل المثال، يتميز نظام الرعاية الصحية في الولايات المتحدة بوجود شركات تأمين تدعم كل منها شبكتها الخاصة من الأطباء. والنتيجة هي أن تبديل التأمين قد يعني أنه يتعين عليك تبديل طبيب الأسرة - وهو نشاط غير ضروري و"مدمر للقيمة" كما يقول خبير اقتصادي.
 
-#### Start with "Why"
+#### ابدأ بـ "لماذا"
 
-"Love" reinforces the Simon Sinek's admonition that [companies must "Start with Why,"](https://longform.asmartbear.com/fulfillment/) i.e. understand and articulate its higher purpose, it's mission, because when that's strong and important, when it permeates everything from its market-positioning to its culture to its employees, it's extremely powerful, and impossible for a competitor to destroy.
+يعزز "الحب" نصيحة سيمون سينك بأن [الشركات يجب أن "تبدأ بالسبب"] (https://longform.asmartbear.com/fulfillment/) أي أن تفهم وتوضح هدفها الأسمى، فهي مهمة، لأنه عندما يكون ذلك قويًا ومهمًا، عندما يتخلل كل شيء بدءًا من موقعها في السوق إلى ثقافتها إلى موظفيها، يكون قويًا للغاية، ومن المستحيل على المنافس تدميره.
 
-Example: [Buffer](https://buffer.com/) has a relatively undifferentiated product and pays lower salaries than many people can get elsewhere, but their culture and transparency is second-to-none, and people want to be a part of that. Example: TruthSocial, which can't pay salaries like Twitter, and doesn't have the reach of Twitter, and [has technical issues with downtime and slow innovation](https://www.washingtonpost.com/technology/2022/04/05/trump-truth-social-media-failure/), nevertheless possesses a rabid fanbase because of the mission and community.
+على سبيل المثال: تقدم شركة [Buffer](https://buffer.com/) منتجًا غير متميز نسبيًا وتدفع رواتب أقل مما يمكن للعديد من الأشخاص الحصول عليه في أي مكان آخر، ولكن ثقافتهم وشفافيتهم لا مثيل لهما، ويريد الأشخاص أن يكونوا جزءًا من ذلك. على سبيل المثال: شركة TruthSocial، التي لا يمكنها دفع الرواتب مثل Twitter، ولا يمكنها الوصول إلى Twitter، و[تعاني من مشكلات فنية تتعلق بتوقف العمل وبطء الابتكار](https://www.washingtonpost.com/technology/2022/04/05/trump-truth-social-media-failure/)، مع ذلك تمتلك قاعدة جماهيرية مسعورة بسبب المهمة والمجتمع.
 
-#### Blue Ocean Strategy: The six kinds of "buyer utility"
+#### استراتيجية المحيط الأزرق: الأنواع الستة من "منفعة المشتري"
 
-In [*Blue Ocean Strategy*](https://www.blueoceanstrategy.com/what-is-blue-ocean-strategy/), W. Chan Kim and Renée Mauborgne highlight six ways in which you can deliver "value" to customers. These are a subset of the more general reasons why people are compelled to buy, but it's useful to emphasize the cases where the customer is benefiting directly:
+في [*Blue Ocean Strategy*](https://www.blueoceanstrategy.com/what-is-blue-ocean-strategy/)، يسلط دبليو تشان كيم ورينيه موبورن الضوء على ست طرق يمكنك من خلالها تقديم "قيمة" للعملاء. هذه مجموعة فرعية من الأسباب الأكثر عمومية التي تدفع الأشخاص إلى الشراء، ولكن من المفيد التأكيد على الحالات التي يستفيد فيها العميل بشكل مباشر:
 
-| Blue Ocean <br/> Buyer Utility | WTP Category | Commentary |
-|:----|:----|:----|
-| Customer <br/> Productivity | Utility | This category is too broad; it is important to distinguish between "more value" and "less cost." Both contribute to "productivity," but it is an order of magnitude [more important to increase value](https://longform.asmartbear.com/more-value-not-save-money/). It's also important to [define value](https://longform.asmartbear.com/needs-stack/). |
-| Simplicity | Utility | Included above. |
-| Convenience | Utility | Included above, in several forms; for example "location" is a specific kind of convenience. |
-| Risk | Utility | Included above. |
-| Fun & Image | Love | Included above. |
-| Environmental <br/> Friendliness | Love | Included in a more expansive "social and environmental impact," as nowadays (2023) it is more common for customers to make buying decisions on factors like [Fairtrade](https://www.fairtrade.net/), or purchasing from local or minority-owned business, or supporting businesses with specific values and public commitments, in addition to the idea of being friendly to the environment. |
+| المحيط الأزرق <br/> فائدة المشتري | فئة WTP | تعليق | |:----|:----|:----| | إنتاجية العميل <br/> | فائدة | هذه الفئة واسعة جدًا؛ ومن المهم التمييز بين "القيمة الأكبر" و"التكلفة الأقل". كلاهما يساهم في "الإنتاجية"، لكنه أمر من حيث الحجم [الأهم لزيادة القيمة](https://longform.asmartbear.com/more-value-not-save-money/). من المهم أيضًا [تحديد القيمة](https://longform.asmartbear.com/needs-stack/). | | البساطة | فائدة | المدرجة أعلاه. | | الراحة | فائدة | وقد ورد أعلاه، بعدة أشكال؛ على سبيل المثال، يعد "الموقع" نوعًا محددًا من وسائل الراحة. | | خطر | فائدة | المدرجة أعلاه. | | المرح والصورة | الحب | المدرجة أعلاه. | | الصداقة البيئية | الحب | ويندرج في ذلك "التأثير الاجتماعي والبيئي" الأكثر اتساعًا، كما هو الحال في الوقت الحاضر (2023)، أصبح من الشائع للعملاء اتخاذ قرارات الشراء بناءً على عوامل مثل [التجارة العادلة](https://www.fairtrade.net/)، أو الشراء من الشركات المحلية أو المملوكة للأقليات، أو دعم الشركات ذات القيم المحددة والالتزامات العامة، بالإضافة إلى فكرة كونها صديقة للبيئة. |
 
-#### Long-term engagement metrics
+#### مقاييس المشاركة طويلة المدى
 
-Many products wish to "drive engagement." Some point to Facebook as the pinnacle of "growth hacking," driving up numbers, often slipping away from Utility (to say nothing of Love) and into Coercive tricks.
+ترغب العديد من المنتجات في "تحفيز المشاركة". يشير البعض إلى فيسبوك باعتباره قمة "اختراق النمو"، مما يؤدي إلى ارتفاع الأرقام، وغالبًا ما يبتعد عن المنفعة (ناهيك عن الحب) ويتجه إلى الحيل القسرية.
 
-But even at Facebook, solving for Utility over Coercion worked better. In a fascinating [multi-year UX experiment](https://medium.com/@AnalyticsAtMeta/notifications-why-less-is-more-how-facebook-has-been-increasing-both-user-satisfaction-and-app-9463f7325e7d), Facebook found that when they reduced the quantity of notifications (by keeping the quality high), it had the expected negative result on engagement: Customer satisfaction increased, but app usage decreased (because it was leading you back to the app less often). But, after a year, app usage actually increased and remained higher that it was before the change. Increasing genuine satisfaction created more engagement in the long run. They had to be patient to see the results; traditional "growth hacking" did not discover the best solution.
+ولكن حتى في فيسبوك، كان حل مشكلة المنفعة بدلاً من الإكراه أفضل. في [تجربة تجربة مستخدم متعددة السنوات] رائعة (https://medium.com/@AnalyticsAtMeta/notifications-why-less-is-more-how-facebook-has-been-increasing-both-user-satisfaction-and-app-9463f7325e7d)، وجد فيسبوك أنه عندما خفض كمية الإشعارات (من خلال الحفاظ على الجودة العالية)، كان له النتيجة السلبية المتوقعة على التفاعل: رضا العملاء زاد، ولكن انخفض استخدام التطبيق (لأنه كان يعيدك إلى التطبيق بشكل أقل). ولكن بعد مرور عام، زاد استخدام التطبيق فعليًا وظل أعلى مما كان عليه قبل التغيير. أدت زيادة الرضا الحقيقي إلى مزيد من المشاركة على المدى الطويل. وكان عليهم التحلي بالصبر لرؤية النتائج؛ "قرصنة النمو" التقليدية لم تكتشف الحل الأفضل.
 
 ---
 
-*Many thanks to [John Doherty](https://twitter.com/dohertyjf) for contributing insights to early drafts.*
+*شكرًا جزيلا لـ [جون دوهرتي](https://twitter.com/dohertyjf) لمساهمته بالأفكار في المسودات المبكرة.*

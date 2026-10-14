@@ -20,92 +20,79 @@ summary_ar: "\"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** إياك أن تقول 'لا' لعملائك، ولكن نادراً جداً ما تقول 'نعم' تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Never say "no," but rarely say "yes."
-
-> **Executive Summary:** "Focus" requires saying "no" to most things, but there's a way to do it that allows you to say "yes" exactly when it matters most.
-> **Original URL:** [https://longform.asmartbear.com/say-yes/](https://longform.asmartbear.com/say-yes/)
-
 ![i know hes not much to look at but symbiosis great](https://public.asmartbear.com/books/anthology/chapters/say-yes/d5934print-simple.png)
 
-Everyone says small startups require focus. Say "no" to anything that distracts from your goal, your vision, your strategy, tempting though it is to explore all opportunities, hoping each time that *this* is the one that will catapult you to "[success](https://longform.asmartbear.com/success-guaranteed/)" (whatever that is).
+يقول الجميع أن الشركات الناشئة الصغيرة تتطلب التركيز. قل "لا" لأي شيء يشتت انتباهك عن هدفك، ورؤيتك، واستراتيجيتك، رغم أنه من المغري استكشاف جميع الفرص، على أمل في كل مرة أن *هذا* هو الذي سيدفعك إلى "[النجاح](https://longform.asmartbear.com/success-guaranteed/)" (مهما كان ذلك).
 
-Lack of focus results in half-assed initiatives, each interrupted by apparently greener pastures before you've invested the time and devotion it deserves. Learn to say "no!"
+يؤدي الافتقار إلى التركيز إلى مبادرات غير مكتملة، يتم مقاطعة كل منها بمراعي أكثر خضرة على ما يبدو قبل أن تستثمر الوقت والتفاني الذي تستحقه. تعلم أن تقول "لا!"
 
-**Ah, but then again** you must also experiment with new ideas. [Fail fast](https://longform.asmartbear.com/fail/)! [Pivot](https://longform.asmartbear.com/predict-the-future/)! [Test](https://longform.asmartbear.com/customer-development/)! [Doubt](https://longform.asmartbear.com/impostor-syndrome/)! Always be collecting evidence that you're wrong, always be trying new things in case you've been blind. Never pass up an opportunity to change, learn, grow.
+**آه، ولكن مرة أخرى** يجب عليك أيضًا تجربة أفكار جديدة. [فشل سريع](https://longform.asmartbear.com/fail/)! [محور](https://longform.asmartbear.com/predict-the-future/)! [اختبار](https://longform.asmartbear.com/customer-development/)! [الشك](https://longform.asmartbear.com/impostor-syndrome/)! اجمع دائمًا الأدلة التي تثبت أنك مخطئ، وحاول دائمًا تجربة أشياء جديدة في حالة ما إذا كنت أعمى. لا تفوت أبدًا فرصة للتغيير والتعلم والنمو.
 
-So... how are you supposed to explore other ideas if you're also supposed to be saying "no" to anything that diverges from The Plan?
+إذًا... كيف من المفترض أن تستكشف أفكارًا أخرى إذا كان من المفترض أيضًا أن تقول "لا" لأي شيء يبتعد عن الخطة؟
 
-**Here's what I do: I never say "no." But I carefully qualify "yes."**
+**هذا ما أفعله: أنا لا أقول "لا" أبدًا. ولكنني أؤهل بعناية "نعم".**
 
-I learned this trick in high school. In the mid '90s it was clear that Apple had lost the personal computer battle and all their developers were fleeing like rats off a sinking ship into the ocean of opportunity that was Windows 95. As a maven of the Macintosh API and still willing to admit it, I landed small contracting jobs fixing up code that other developers wouldn't touch.
+لقد تعلمت هذه الخدعة في المدرسة الثانوية. في منتصف التسعينيات، كان من الواضح أن شركة Apple قد خسرت معركة الكمبيوتر الشخصي وكان جميع مطوريها يفرون مثل الفئران من سفينة غارقة في محيط من الفرص التي كانت Windows 95. باعتباري خبيرًا في واجهة برمجة تطبيقات Macintosh وما زلت على استعداد للاعتراف بذلك، حصلت على وظائف تعاقدية صغيرة لإصلاح التعليمات البرمجية التي لن يلمسها المطورون الآخرون.
 
-My typical rate was $25 per hour, which feels like a lot of money when you're 17 in the '90s.
+كان أجري النموذجي هو 25 دولارًا للساعة، وهو ما يبدو وكأنه مبلغ كبير من المال عندما يكون عمرك 17 عامًا في التسعينيات.
 
-One day I got a call from some poor schleps I didn't want to help. They had just completed a new product written in Java and it was broken on a Mac, and could I help? None of their customers used Macs, so they didn't think Macs were important, but then it turns out the main investor is keen on seeing the demo on a Mac, and when they tried it, it didn't work. (Yay investors! Yay supposedly-cross-platform-platforms-that-aren't-really!)
+في أحد الأيام تلقيت مكالمة من بعض الفقراء الذين لم أرغب في مساعدتهم. لقد أكملوا للتو منتجًا جديدًا مكتوبًا بلغة Java وتم تعطله على جهاز Mac، فهل يمكنني المساعدة؟ لم يستخدم أي من عملائهم أجهزة Mac، لذلك لم يعتقدوا أن أجهزة Mac مهمة، ولكن بعد ذلك اتضح أن المستثمر الرئيسي حريص على رؤية العرض التوضيحي على جهاز Mac، وعندما جربوه، لم ينجح الأمر. (مرحبًا أيها المستثمرون! من المفترض أن تكون هذه منصات متعددة المنصات، ولكنها ليست كذلك حقًا!)
 
-I wanted no part of this. Java was brand new and known to be full of bugs, and anyway I was a C/C++ kind of guy, and I didn't want to get involved in an academic fad language like Java.[^1]
+لم أكن أريد أي جزء من هذا. كانت لغة Java جديدة تمامًا ومعروفة بأنها مليئة بالأخطاء، وعلى أية حال كنت من محبي لغة C/C++، ولم أرغب في الانخراط في لغة أكاديمية مثل Java.[^1]
 
-[^1]: So yeah, I simultaneously decided that (1) Java is a fad and (2) I'm sticking with the Macintosh Toolkit; five years later one those platforms had zero developers and the other had one million, and I picked exactly wrong. [Predicting the future](https://longform.asmartbear.com/predict-the-future/) is hard.
+[^1]: نعم، قررت في نفس الوقت أن (1) Java أصبحت موضة و(2) سألتزم بمجموعة أدوات Macintosh؛ وبعد خمس سنوات، لم يكن لدى إحدى تلك المنصات أي مطور، بينما كان لدى الأخرى مليون مطور، وقد اخترت خطأً تامًا. [التنبؤ بالمستقبل](https://longform.asmartbear.com/predict-the-future/) أمر صعب.
 
-I could have said "no." Given my specialty and my goals, traditional career (or startup) theory says I should have said "no."
+كان بإمكاني أن أقول "لا". نظرًا لتخصصي وأهدافي، تقول نظرية المهنة التقليدية (أو الشركة الناشئة) إنه كان ينبغي عليّ أن أقول "لا".
 
-But instead, on the advice of an older, wiser friend, I showed up at their office and said I'd do it for $100 per hour.
+لكن بدلًا من ذلك، بناءً على نصيحة صديق أكبر سنًا وأكثر حكمة، ذهبت إلى مكتبهم وقلت لهم إنني سأفعل ذلك مقابل 100 دولار في الساعة.
 
-I fully expected them to laugh in my face. Maybe I would receive a condescending talking-to about the audacity--nay, the *impudence!--* of someone of my tender age and meager experience walking in here and demanding such outrageous compensation, someone who, let's be clear, is technically too young to even enter into a legal consulting agreement in the first place.
+لقد توقعت تمامًا أن يضحكوا في وجهي. ربما أتلقى محادثة متعالية حول الجرأة - بل *الوقاحة!--* لشخص في عمري الصغير وخبرتي الضئيلة يدخل هنا ويطالب بمثل هذا التعويض الفاحش، شخص، لنكن واضحين، أصغر من أن يدخل في اتفاقية استشارة قانونية في المقام الأول.
 
-And then I would have slinked out of there, embarrassed but ultimately no worse for wear.
+وبعد ذلك كنت سأخرج من هناك، محرجًا ولكن في النهاية ليس أسوأ من ذلك.
 
-But that's not what happened. They looked me up and down, their faces painted with both incredulity and surrender. They said OK. An hour and a half later, everything was working. The difference between saying "no" and getting $150 for about two hours of my life was all in how I phrased "yes."
+ولكن هذا ليس ما حدث. نظروا إليّ من أعلى إلى أسفل، وكانت وجوههم ملطخة بالشك والاستسلام. قالوا حسنا. وبعد ساعة ونصف كان كل شيء على ما يرام. الفرق بين قول "لا" والحصول على 150 دولارًا مقابل ساعتين تقريبًا من حياتي كان كله في كيفية صياغة "نعم".
 
-**And I have stories that went the other way, which are just as important.**
+**ولدي قصص ذهبت في الاتجاه الآخر، والتي لا تقل أهمية.**
 
-At [WP Engine](https://wpengine.com/), for example, we're constantly talking to large bloggers who want to move to our system. These are folks with big requirements--tens of millions of monthly page-views, traffic spikes, custom code, perfect up-time, and 24/7 support.
+في [WP Engine](https://wpengine.com/)، على سبيل المثال، نتحدث باستمرار مع كبار المدونين الذين يرغبون في الانتقال إلى نظامنا. هؤلاء هم الأشخاص الذين لديهم متطلبات كبيرة - عشرات الملايين من مشاهدات الصفحة شهريًا، وارتفاع عدد الزيارات، والتعليمات البرمجية المخصصة، ووقت التشغيل المثالي، والدعم على مدار الساعة طوال أيام الأسبوع.
 
-Should we take on those clients? Maybe not--after all the stated goal of WP Engine is to serve the "middle market"--the folks who have outgrown free blogs, don't like maintaining their own servers, but aren't so large that they have extreme hosting demands. That's our profitable niche.[^2]
+هل يجب أن نتعامل مع هؤلاء العملاء؟ ربما لا - بعد كل شيء، الهدف المعلن لـ WP Engine هو خدمة "السوق المتوسطة" - الأشخاص الذين تجاوزوا المدونات المجانية، لا يحبون الحفاظ على خوادمهم الخاصة، لكنهم ليسوا كبيرًا جدًا لدرجة أن لديهم متطلبات استضافة شديدة. هذا هو مكاننا المربح.[^2]
 
-[^2]: Editor's note: This was written about 1 year into WP Engine's life; in 2023 WP Engine is 13 years old with 200,000 customers, and powers more large WordPress sites than anyone on Earth. This *was* a great segment to start off with, but we evolved as we scaled.
+[^2]: ملاحظة المحرر: تمت كتابة هذا بعد حوالي عام من عمر WP Engine؛ في عام 2023، يبلغ عمر WP Engine 13 عامًا مع 200000 عميل، ويعمل على تشغيل مواقع WordPress الكبيرة أكثر من أي موقع آخر على وجه الأرض. *كان* هذا قطاعًا رائعًا للبدء به، ولكننا تطورنا مع تقدمنا.
 
-Or so we think. But if we just say "no" to these big bloggers, maybe we're closing the door on big, important orders. Perhaps the entire company should pivot--maybe it's easier or more profitable to serve 100 large blogs than 1000 medium ones. But how do we know if we say "no?"
+أو هكذا نعتقد. ولكن إذا قلنا "لا" لهؤلاء المدونين الكبار، فربما نغلق الباب أمام الطلبات الكبيرة والمهمة. ربما يجب على الشركة بأكملها أن تركز على نفسها - ربما يكون من الأسهل أو الأكثر ربحية خدمة 100 مدونة كبيرة بدلاً من 1000 مدونة متوسطة الحجم. ولكن كيف نعرف إذا قلنا "لا"؟
 
-Then again, if we say "yes" we might really be screwed. If we can't provide them the human and technical service they expect, now we've hurt a blogger, we get bad press, and we've wasted a bunch of time. Or even worse, we hold on for dear life but it's extremely unprofitable, and now we have this expensive, time-consuming albatross around our necks.
+ثم مرة أخرى، إذا قلنا "نعم" فقد نكون في فخ حقيقي. إذا لم نتمكن من تزويدهم بالخدمة البشرية والتقنية التي يتوقعونها، فإننا نكون قد أذينا أحد المدونين، وتعرضنا لضغوط إعلامية سيئة، وأهدرنا الكثير من الوقت. أو الأسوأ من ذلك، أننا نتمسك بحياتنا العزيزة ولكنها غير مربحة على الإطلاق، والآن لدينا طائر القطرس الباهظ الثمن والمستهلك للوقت حول أعناقنا.
 
-So we've said "yes" by quoting high enough that we know for certain we will make good money on the deal, so much so that it will partially fund something else we want to do. Maybe that means a big new advertising campaign, or hiring another WordPress expert for our staff.
+لذلك قلنا "نعم" من خلال عرض أسعار مرتفع بدرجة كافية بحيث نعرف على وجه اليقين أننا سنجني أموالًا جيدة من الصفقة، لدرجة أنها ستمول جزئيًا شيئًا آخر نريد القيام به. ربما يعني ذلك حملة إعلانية جديدة كبيرة، أو تعيين خبير WordPress آخر لموظفينا.
 
-There was one especially large customer where we literally thought of it like this: This deal needs to be big enough to not only make a reasonable profit on the operating expenses, but pay for an entire developer's salary (assuming bootstrapped, put-in-elbow-grease-for-stock low salary), because we know this new customer will occupy a lot of that person's time, but all the remaining time we get "for free."
+كان هناك عميل كبير بشكل خاص حيث فكرنا في الأمر حرفيًا على هذا النحو: يجب أن تكون هذه الصفقة كبيرة بما يكفي ليس فقط لتحقيق ربح معقول على نفقات التشغيل، ولكن أيضًا لدفع راتب المطور بالكامل (بافتراض الراتب المنخفض، لأننا نعلم أن هذا العميل الجديد سيشغل الكثير من وقت ذلك الشخص، لكننا نحصل على كل الوقت المتبقي "مجانًا".
 
-So we've given a lot of qualified yeses, and many were rejected. (P.S. Now we're able to say "yes" to those same bloggers, but that's because over time we've taken on bigger and bigger customers, and now a blogger with 30 million month page-views is something we know we can handle.)
+لذا فقد أعطينا الكثير من الإجابات المشروطة، وتم رفض العديد منها. (ملاحظة: نحن الآن قادرون على قول "نعم" لهؤلاء المدونين أنفسهم، ولكن هذا لأننا بمرور الوقت اكتسبنا عملاء أكبر وأكبر، والآن أصبح المدون الذي لديه 30 مليون مشاهدة للصفحة في الشهر هو شيء نعلم أنه يمكننا التعامل معه.)
 
-At [Smart Bear](https://smartbear.com/) I used this principle yet again. Companies would fly me out to help them implement a peer code review process, which half the time actually meant that "management" wanted me to convince everyone else that code review was a good idea, and invent a process painless enough that they might actually do it.
+في [Smart Bear](https://smartbear.com/) استخدمت هذا المبدأ مرة أخرى. ستنقلني الشركات لمساعدتهم في تنفيذ عملية مراجعة الكود النظير، وهو ما كان يعني في الواقع نصف الوقت أن "الإدارة" أرادت مني إقناع الجميع بأن مراجعة الكود كانت فكرة جيدة، واختراع عملية غير مؤلمة بدرجة كافية حتى يتمكنوا من القيام بها بالفعل.
 
-From a business perspective, this was a poor use of my time. These folks had already bought our software, so it didn't sell more seats. When you counted a travel day on either side of the engagement, the time I lost could have been spent landing just one additional customer or make some important changes to the code, either of which almost certainly makes us more money.
+من وجهة نظر الأعمال، كان هذا استغلالًا سيئًا لوقتي. كان هؤلاء الأشخاص قد اشتروا برنامجنا بالفعل، لذا لم يبيعوا المزيد من المقاعد. عندما تحسب يوم سفر على جانبي المشاركة، كان من الممكن أن أقضي الوقت الذي أضعته في الوصول إلى عميل إضافي واحد فقط أو إجراء بعض التغييرات المهمة على الكود، ومن المؤكد أن أيًا منهما يكسبنا المزيد من المال.
 
-Therefore, initially I just said "no." But again that's wrong. Eventually I said "yes," but the price was $2500/day *including travel days*, which for these sorts of engagements is unheard of. (Typically you get reimbursed for travel expenses but not paid for that time.)
+لذلك، في البداية قلت للتو "لا". ولكن مرة أخرى هذا خطأ. في النهاية قلت "نعم"، ولكن السعر كان 2500 دولارًا في اليوم *بما في ذلك أيام السفر*، وهو أمر لم يُسمع به من قبل بالنسبة لهذا النوع من التعاقدات. (عادةً ما يتم تعويضك عن نفقات السفر ولكنك لا تدفع مقابل ذلك الوقت.)
 
-This immediately cut out most trips, but some remained. On those trips I'd haul in $10,000 for a week of easy work, which I'd often combine with a long weekend with my wife. And anyway those people *really wanted me there*, which made the work that much more enjoyable.
+أدى هذا إلى قطع معظم الرحلات على الفور، لكن بقي بعضها. في تلك الرحلات، كنت أجمع 10.000 دولار مقابل أسبوع من العمل السهل، والذي غالبًا ما كنت أجمعه مع عطلة نهاية أسبوع طويلة مع زوجتي. وعلى أية حال، هؤلاء الأشخاص *أرادوني حقًا هناك*، مما جعل العمل أكثر متعة.
 
-**So the principle is straightforward:** Set the conditions of "yes" such that:
+** إذن المبدأ واضح ومباشر: ** ضع شروط "نعم" بحيث:
 
-1. **If they say "yes," you're happy** because the terms or money are *so good*, it more than compensates for the distraction, perhaps funding the thing you really want to do.
-2. **If they say "no," you're happy** because it wasn't a great fit anyway; it's not a worthwhile return on your time and effort.
+1. **إذا قالوا "نعم"، فأنت سعيد** لأن الشروط أو المال *جيد جدًا*، فهو يعوض عن الإلهاء، وربما يمول الشيء الذي تريد فعله حقًا.
+2. **إذا قالوا "لا"، فأنت سعيد** لأنه لم يكن مناسبًا لك على أي حال؛ إنه ليس عائدًا جديرًا بالاهتمام على وقتك وجهدك.
 
-So that's the punch-line, but before you leave I'd like to **over-emphasize the idea of "funding the thing you really want to do."**
+هذه هي النقطة المهمة، ولكن قبل أن تغادر، أود أن **أبالغ في التأكيد على فكرة "تمويل الشيء الذي تريد حقًا القيام به."**
 
-This can take many forms, but it's the single best way of figuring out *how* to qualify your "yes." Examples:
+يمكن أن يتخذ هذا أشكالًا عديدة، ولكنه أفضل طريقة لمعرفة *كيفية* تأهيل "نعم". أمثلة:
 
-* "Yes" if it pays for an entire additional person.
-* "Yes" if this extends the runway of our startup by at least three months.
-* "Yes" if it completely funds development we'd like to do anyway.
-* "Yes" if it means one of the co-founders can quit her day-job.
-* "Yes" if it will completely pay for three new marketing efforts.
+* "نعم" إذا كان يدفع لشخص إضافي كامل.
+* "نعم" إذا أدى ذلك إلى تمديد مدرج شركتنا الناشئة لمدة ثلاثة أشهر على الأقل.
+* "نعم" إذا كان يمول التطوير بالكامل، فنحن نرغب في القيام بذلك على أي حال.
+* "نعم" إذا كان ذلك يعني أن أحد المؤسسين يمكنهم ترك وظيفتها اليومية.
+* "نعم" إذا كانت ستدفع بالكامل مقابل ثلاثة جهود تسويقية جديدة.
 
-Think of it like another form of funding. **Funding is always a distraction from actually running your business, so the amount of money you get must be transformative to the business.** Each of those bullet points *are* transformative, in that each has the potential to move your company from "hobby" to "real business."
+فكر في الأمر كشكل آخر من أشكال التمويل. **يمثل التمويل دائمًا مصدر إلهاء عن إدارة أعمالك فعليًا، لذلك يجب أن يكون المبلغ المالي الذي تحصل عليه بمثابة تحويل لنشاطك التجاري. ** كل نقطة من هذه النقاط *تعتبر* تحويلية، حيث أن كل واحدة منها لديها القدرة على نقل شركتك من "الهواية" إلى "العمل الحقيقي".
 
-And if they say "no," you're fine with that, because it would have been a distraction which wouldn't have moved the needle.
+وإذا قالوا "لا"، فلا بأس بذلك، لأنه سيكون إلهاءً لا يحرك الإبرة.

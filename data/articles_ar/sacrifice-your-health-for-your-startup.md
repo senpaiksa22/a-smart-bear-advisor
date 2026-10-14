@@ -20,75 +20,62 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** التضحية بصحتك من أجل شركتك الناشئة: الوهم القاتل الذي يجب تجنبه تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Sacrifice your health for your startup
-
-> **Executive Summary:** Maximizing your chance for success means sacrificing health and family. This sounds controversial, but it's not just me.
-> **Original URL:** [https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/)
-
 ![cassette surgery pencil](https://public.asmartbear.com/books/anthology/chapters/sacrifice-your-health-for-your-startup/d8328print-simple.png)
 
 ---
 
-> *Editor's Note: This was written in 2009, before "Hustle Culture" and indeed two years before Lean Startup. It was somewhat controversial even then, but did not have the stigma of modern ideas of work and life, and especially what some call toxic hustle culture. I stand by the assertion in the original article--that startups take all the time, and take sacrifice, without also accepting the ways people interpret these things more than 15 years later.*
+> *ملاحظة المحرر: تمت كتابة هذا في عام 2009، قبل "ثقافة الزحام" وفي الواقع قبل عامين من بدء التشغيل العجاف. لقد كانت مثيرة للجدل إلى حد ما حتى ذلك الحين، لكنها لم تكن تحمل وصمة الأفكار الحديثة حول العمل والحياة، وخاصة ما يسميه البعض ثقافة الزحام السامة. إنني أؤيد التأكيد الوارد في المقالة الأصلية، وهو أن الشركات الناشئة تأخذ كل الوقت، وتقدم التضحيات، دون قبول الطرق التي يفسر بها الناس هذه الأشياء بعد مرور أكثر من 15 عامًا.*
 
 ---
 
-The internet is full of good advice about how to lead a healthy, balanced work/home life.
+الإنترنت مليء بالنصائح الجيدة حول كيفية عيش حياة صحية ومتوازنة في العمل/المنزل.
 
-* Leo Bauboa of Zen Habits built his Technorati 100 blog on [one hour a day](https://www.problogger.net/archives/2009/01/07/the-essential-guide-to-growing-your-blog-on-minimal-time/), leaving plenty of time for a day job and a family.
-* Tim Brownson [reshuffles our priorities](https://www.adaringadventure.com/blog/wordpress/featured/imagine-this/) so we realize what's important to accomplish and what's not important to worry about.
-* Merlin Mann of 43folders shows us how merely [admitting what we don't like](https://www.43folders.com/2005/01/15/patching-your-personal-suck) about ourselves and our life leads to a vast menu of options for fixing it.
-* Penelope Trunk demonstrates that [the point of a job is fulfillment and happiness](https://blog.penelopetrunk.com/2008/03/20/dont-wait-for-retirement-to-live-the-good-life-do-it-now/), not the blind pursuit of money.
+* أنشأ ليو بوبوا من Zen Habits مدونته Technorati 100 على [ساعة واحدة يوميًا](https://www.problogger.net/archives/2009/01/07/the-essential-guide-to-growing-your-blog-on-minimal-time/)، مما يترك متسعًا من الوقت للعمل اليومي ولعائلة.
+* تيم براونسون [يعيد ترتيب أولوياتنا](https://www.adaringadventure.com/blog/wordpress/featured/imagine-this/) حتى ندرك ما هو مهم لإنجازه وما ليس من المهم أن نقلق بشأنه.
+* يوضح لنا ميرلين مان من 43folders كيف أن مجرد [الاعتراف بما لا نحبه] (https://www.43folders.com/2005/01/15/patching-your-personal-suck) عن أنفسنا وحياتنا يؤدي إلى قائمة واسعة من الخيارات لإصلاحها.
+* توضح بينيلوبي ترانك أن [الهدف من الوظيفة هو الإنجاز والسعادة](https://blog.penelopetrunk.com/2008/03/20/dont-wait-for-retirement-to-live-the-good-life-do-it-now/)، وليس السعي الأعمى وراء المال.
 
-If you don't have your health and your family, nothing else matters. On your deathbed will you wish you had worked longer hours or been a better parent? Will you wish you had spent more time Twittering or more time exercising, extending your life by five years?
+إذا لم تكن تتمتع بصحتك وعائلتك، فلا شيء آخر يهم. هل ستتمنى وأنت على فراش الموت لو عملت لساعات أطول أو كنت والدًا أفضل؟ هل تتمنى لو أنك قضيت المزيد من الوقت في استخدام تويتر أو المزيد من الوقت في ممارسة الرياضة، مما يطيل عمرك لمدة خمس سنوات؟
 
-Compelling. And yet, in my experience this attitude is not the path to success in small business.
+مقنعة. ومع ذلك، من خلال تجربتي، فإن هذا الموقف ليس هو الطريق إلى النجاح في الأعمال التجارية الصغيرة.
 
-**Maximizing your chance for success means sacrificing health and family.**
+**تعظيم فرصتك للنجاح يعني التضحية بصحتك وعائلتك.**
 
-This sounds controversial, but it's not just me:
+يبدو هذا مثيرًا للجدل، لكنه ليس أنا وحدي:
 
-* [Jeremiah Owyang of Web Strategist](https://www.web-strategist.com/blog/2009/05/08/how-do-i-keep-up/): "How do I Keep Up?" This is one of the most common questions I get from folks, or a variant: "Do you sleep?" or "Do you have a family?" I can answer succinctly: "I don't, in shifts, and yes... I think." ... I'm lucky I fell into my passion. It comes with costs however, I'm out of shape, stressed, I don't sleep well, and my blood pressure is up.
-* Mark Cuban, self-made millionaire and owner of the Dallas Mavericks on [how he achieved success](https://blogmaverick.com/2007/12/24/success-and-motivation/): "I slept on the couch or floor ... Because I was living on happy hour food, and the 2 beer cover charge, I was gaining weight like a pig. But I was having fun. ... Every night I would read [software manuals], no matter how late. ... I remember sitting in that little office till 10pm ... I would get so involved with learning that I would forget to eat ...
-* More from Mark in an interview with YoungMoney Magazine: Question: "Did you have to sacrifice your personal life in order to become a business success?" Answer: "Sure, ask about five of my former girlfriends that question. I went seven years without a vacation. I didn't even read a fiction book in that time. I was focused."
-* Penelope Trunk (yes, she has insights on both sides of this issue) on how [all-consuming her company is](https://blog.penelopetrunk.com/2009/01/05/7-things-to-consider-before-launching-a-startup/): "I'm desperate. ... You're always sick, but not take-a-day-off-work sick. ... So I suffer with the pink eye, because it's not having all that gross green discharge yet, so I think I can deal with it after funding. ... I diagnose my [temporary] blindness as stress related. ... I say, 'My eyes are nothing compared to the pain of raising money.' ... There's no time for family.
+* [إرميا أويانغ من خبير إستراتيجي الويب](https://www.web-strategist.com/blog/2009/05/08/how-do-i-keep-up/): "كيف يمكنني مواكبة ذلك؟" هذا أحد الأسئلة الأكثر شيوعًا التي أتلقاها من الناس، أو البديل: "هل تنام؟" أو "هل لديك عائلة؟" أستطيع أن أجيب بإيجاز: "لا أفعل ذلك، في المناوبات، ونعم... أعتقد". ... أنا محظوظ لأنني وقعت في شغفي. ومع ذلك، فإن الأمر له تكاليف، فأنا خارج اللياقة البدنية، ومتوتر، ولا أنام جيدًا، ويرتفع ضغط دمي.
+* مارك كوبان، المليونير العصامي ومالك فريق دالاس مافريكس يتحدث عن [كيف حقق النجاح](https://blogmaverick.com/2007/12/24/success-and-motivation/): "كنت أنام على الأريكة أو الأرض... لأنني كنت أعيش على طعام الساعة السعيدة، ورسوم غطاء البيرة، كنت أكتسب وزنًا مثل خنزير. لكنني كنت أستمتع. ... كل ليلة كنت أقرأ [أدلة البرامج]، بغض النظر عن الوقت المتأخر... أتذكر الجلوس في ذلك المكتب الصغير حتى الساعة 10 مساءً... كنت منشغلًا جدًا بالتعلم لدرجة أنني أنسى تناول الطعام...
+* المزيد من مارك في مقابلة مع مجلة YoungMoney: سؤال: "هل كان عليك التضحية بحياتك الشخصية لكي تصبح ناجحًا في العمل؟" الإجابة: "بالتأكيد، اسأل هذا السؤال عن خمس من صديقاتي السابقات. قضيت سبع سنوات دون إجازة. ولم أقرأ حتى كتابًا خياليًا في ذلك الوقت. لقد كنت مركزًا."
+* بينيلوب ترنك (نعم، لديها رؤى حول كلا الجانبين من هذه القضية) حول كيفية [استهلاك شركتها بالكامل] (https://blog.penelopetrunk.com/2009/01/05/7-things-to-consider-before-launching-a-startup/): "أنا يائسة. ... أنت مريضة دائمًا، لكن لا تأخذين إجازة من العمل مريضة. ... لذا فأنا أعاني من العين الوردية، لأن "لم أحصل على كل تلك الإفرازات الخضراء الجسيمة حتى الآن، لذلك أعتقد أنني أستطيع التعامل معها بعد التمويل. ... لقد قمت بتشخيص العمى [المؤقت] على أنه مرتبط بالإجهاد ... أقول: "عيناي لا تقارن بألم جمع المال". ... ليس هناك وقت للعائلة.
 
-"So what," you could argue, "just because many successful entrepreneurs are workaholics doesn't mean that's the *only* path to success."
+"وماذا في ذلك،" يمكنك أن تجادل، "إن مجرد كون العديد من رواد الأعمال الناجحين مدمنين على العمل لا يعني أن هذا هو الطريق *الوحيد** للنجاح."
 
 ![Sign next to Van Gogh painting with bandaged ear says "Do Not Attempt."](https://public.asmartbear.com/books/anthology/chapters/sacrifice-your-health-for-your-startup/d8563print-simple.png)
 
-Indeed, study after study has shown that "working more hours" doesn't translate into "accomplishing more shit." If you're not getting enough sleep, for instance, working extra hours doesn't make up for your foggy brain.
+في الواقع، أظهرت الدراسات تلو الأخرى أن "العمل لساعات أطول" لا يُترجم إلى "إنجاز المزيد من المهام". إذا كنت لا تحصل على قسط كافٍ من النوم، على سبيل المثال، فإن العمل لساعات إضافية لا يعوض عقلك المشوش.
 
-Also, optimizing *how* you spend your time can [increase productivity several times over](https://longform.asmartbear.com/double-your-productivity/)--an increase you couldn't possibly match by working more hours.
+كما أن تحسين *كيفية* قضاء وقتك يمكن أن [يزيد الإنتاجية عدة مرات](https://longform.asmartbear.com/double-your-productivity/)--وهي زيادة لا يمكنك مطابقتها من خلال العمل لساعات إضافية.
 
-Yeah, but here's the problem.
+نعم، ولكن هنا المشكلة.
 
-The "Rule of Closets" is that the amount of crap you own will expand to fill all available closet space. You can create more space by adding shelves and organizers, but then you'll soon discover you have more stuff.
+"قاعدة الخزانات" هي أن كمية الفضلات التي تمتلكها سوف تتوسع لملء كل مساحة الخزانة المتاحة. يمكنك إنشاء مساحة أكبر عن طريق إضافة الرفوف والمنظمات، ولكن بعد ذلك ستكتشف أن لديك المزيد من الأشياء.
 
-Well I have a "Rule of Time in Startups": **How much time does a bootstrapped company take? All of it.**
+حسنًا، لدي "قاعدة الوقت في الشركات الناشئة": **ما هو الوقت الذي تستغرقه الشركة التي تعمل بتمهيد؟ كل ذلك.**
 
-Even ten people could hardly keep up with everything you do in small business--creating, consulting, designing, fixing, self-promotion, blogging, networking, bookkeeping, taxes, customer support and cultivation, reading startup blogs for ideas and inspiration (!), and all those little crappy things like losing an afternoon troubleshooting your fancy outsourced IP phone system that was supposed to let you "work from anywhere."
+حتى عشرة أشخاص بالكاد يستطيعون مواكبة كل ما تفعله في الأعمال التجارية الصغيرة - الإنشاء، والاستشارة، والتصميم، والإصلاح، والترويج الذاتي، والتدوين، والشبكات، ومسك الدفاتر، والضرائب، ودعم العملاء وتطويرهم، وقراءة مدونات الشركات الناشئة بحثًا عن الأفكار والإلهام (!)
 
-One, two, or even three people can't do everything, so *of course* it takes *all* your time. If you're working a day job while starting something on the side, *of course* you don't have time to exercise or play with your kids before bed.
+لا يستطيع شخص واحد أو اثنان أو حتى ثلاثة أشخاص القيام بكل شيء، لذلك *بالطبع* يستغرق الأمر *كل* وقتك. إذا كنت تعمل في وظيفة يومية بينما تبدأ شيئًا جانبيًا، *بالطبع* ليس لديك الوقت لممارسة الرياضة أو اللعب مع أطفالك قبل النوم.
 
-**It takes obsession to make a little company go.** Forget "passion"--everyone's favorite word--it's "obsession." It's not just that you love working, it's that you can't stop working. You're putting your entire self on the line--your finances, your career, your ideas.
+** يتطلب الأمر هوسًا لجعل شركة صغيرة تنطلق. ** انسَ كلمة "العاطفة" - الكلمة المفضلة لدى الجميع - إنها "الهوس". لا يقتصر الأمر على أنك تحب العمل، بل لا يمكنك التوقف عن العمل. أنت تضع نفسك بالكامل على المحك - أموالك، وحياتك المهنية، وأفكارك.
 
-The obsession is there even when you're away from the office, having lunch with a friend or reading to your kids. As my wife would frequently point out in the early years of Smart Bear, my "mental and emotional bandwidth" was entirely consumed. You're physically there, but you're not really there.
+هذا الهوس موجود حتى عندما تكون بعيدًا عن المكتب، أو تتناول الغداء مع صديق أو تقرأ لأطفالك. وكما كانت زوجتي تشير في كثير من الأحيان في السنوات الأولى لـ Smart Bear، فقد تم استهلاك "نطاقي الترددي العقلي والعاطفي" بالكامل. أنت هناك جسديًا، لكنك لست هناك حقًا.
 
-Read those quotes above again and you'll see not just passion but **self-destructive devotion**. You don't put yourself through this meat grinder just because you "like something a lot."
+اقرأ هذه الاقتباسات أعلاه مرة أخرى ولن ترى الشغف فحسب، بل **التفاني المدمر للذات**. لا تضع نفسك في مفرمة اللحم هذه لمجرد أنك "تحب شيئًا كثيرًا".
 
-"If you love it so much, why don't you marry it?"
+"إذا كنت تحبها كثيراً، لماذا لا تتزوجها؟"
 
-Exactly.
+بالضبط.
 
-Of course those life-coaches are still correct: This isn't a great way to live your entire life. You need to accept that this is going to happen and ask whether it's OK to incur this penalty right now. For me, I did all this in my 20's when I had no kids, I had enough savings to risk everything for a while, and I had a wife who had her own business and who therefore understood how much work it took and why I was spacing out over dinner.
+بالطبع لا يزال مدربو الحياة هؤلاء على حق: هذه ليست طريقة رائعة لتعيش حياتك بأكملها. عليك أن تقبل أن هذا سيحدث وأن تسأل ما إذا كان من المقبول أن تتحمل هذه العقوبة الآن. بالنسبة لي، فعلت كل هذا في العشرينات من عمري عندما لم يكن لدي أطفال، وكان لدي ما يكفي من المدخرات للمخاطرة بكل شيء لفترة من الوقت، وكان لدي زوجة كان لديها مشروعها الخاص، وبالتالي فهمت مقدار العمل الذي يتطلبه الأمر ولماذا كنت أقضي وقتًا ممتعًا لتناول العشاء.
 
-Bottom line: **Every** ***successful*** **bootstrapper I know puts work before self.** (Until financial freedom is achieved.) I did too.
+خلاصة القول: **كل** ***ناجح*** **أعرف أن صانع الأحذية يضع العمل قبل الذات.** (حتى يتم تحقيق الحرية المالية.) لقد فعلت ذلك أيضًا.

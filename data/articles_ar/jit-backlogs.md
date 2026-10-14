@@ -20,176 +20,163 @@ summary_ar: "The vaunted \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** إدارة المهام في الوقت المناسب (JIT): بديل لقوائم المهام الضخمة المتراكمة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# JIT selection from independent streams: An alternative to the "big backlog" of work
-
-> **Executive Summary:** The vaunted "single-threaded, ordered list" confuses "prioritization" with "work-planning," and forces comparisons of the un-comparable. Here's the solution.
-> **Original URL:** [https://longform.asmartbear.com/jit-backlogs/](https://longform.asmartbear.com/jit-backlogs/)
-
 ![moved everything from to do list to it is what it is list](https://public.asmartbear.com/books/anthology/chapters/jit-backlogs/d7045print-simple.png)
 
-Scrum--as well as innumerable articles [including one](https://longform.asmartbear.com/maximized-decision/) from this very site--teaches us that a "single, ordered list of work" is the correct way to prioritize work.
+يعلمنا سكروم - بالإضافة إلى عدد لا يحصى من المقالات [بما في ذلك مقالة واحدة] (https://longform.asmartbear.com/maximized-decision/) من هذا الموقع بالذات - أن "قائمة العمل المنفردة والمرتبة" هي الطريقة الصحيحة لتحديد أولويات العمل.
 
-I find, however, that this is unsatisfying at best, and fails to achieve sensible prioritization at worst. It also doesn't solve the [political challenges of prioritization with stakeholders](https://www.mironov.com/pri-politics/).
+ومع ذلك، أجد أن هذا غير مرضٍ في أحسن الأحوال، ويفشل في تحقيق ترتيب معقول للأولويات في أسوأ الأحوال. كما أنه لا يحل [التحديات السياسية المتعلقة بتحديد الأولويات مع أصحاب المصلحة](https://www.mironov.com/pri-politics/).
 
-The following system is simple, and has worked for me.
+النظام التالي بسيط، وقد نجح معي.
 
-## Prioritization ≠ Work-Planning
+## تحديد الأولويات ≠ تخطيط العمل
 
-Prioritization means: *What is most important?*
+تحديد الأولويات يعني: *ما هو الأهم؟*
 
-Critically, it does **not** mean: *What will we work on next?*
+والأهم من ذلك، أن **لا** يعني: *ما الذي سنعمل عليه بعد ذلك؟*
 
-Product Managers typically conflate these, trying to do both with a single process, and a single backlog. A traditional backlog efficiently encodes the answer to the second question, but isn't the right tool for answering the first question.
+عادةً ما يخلط مديرو المنتجات بين هذه الأمور، محاولين القيام بالأمرين من خلال عملية واحدة وتراكم واحد. تعمل الأعمال المتراكمة التقليدية على تشفير إجابة السؤال الثاني بكفاءة، ولكنها ليست الأداة المناسبة للإجابة على السؤال الأول.
 
-You might say, "But we should work on whatever is most important, right?" By unpacking the subtle answer, we'll arrive at a better way to prioritize, and a better way to plan work.
+قد تقول: "لكن يجب أن نعمل على ما هو أكثر أهمية، أليس كذلك؟" ومن خلال الكشف عن الإجابة الدقيقة، سنصل إلى طريقة أفضل لتحديد الأولويات، وطريقة أفضل لتخطيط العمل.
 
-## Why "the big backlog of work" isn't good for prioritization
+## لماذا "التراكم الكبير للعمل" ليس جيدًا لتحديد الأولويات
 
-### Prioritization
+### تحديد الأولويات
 
-If prioritization answers "What is most important," it raises another question: What do we mean by "important?"
+إذا كان تحديد الأولويات يجيب على السؤال "ما هو الأكثر أهمية"، فإنه يثير سؤالاً آخر: ماذا نعني بكلمة "مهم"؟
 
-* Important to calm our largest customer who is threatening to leave
-* Important to catch up to our biggest competitor on a specific feature
-* Important to unleash the sales and marketing teams onto a new market segment
-* Important to satisfy our security policy
-* Important to decrease the largest cause of support tickets
-* Important to mitigate the largest cause of cancellations
-* Important to refactor code so that engineers are happier and more productive
-* Important to increase profitability
-* Important to achieve our long-term strategy, even if there's no next-quarter revenue
+* من المهم تهدئة أكبر عملائنا الذين يهددون بالمغادرة
+* من المهم اللحاق بأكبر منافس لنا في ميزة معينة
+* من المهم إطلاق العنان لفرق المبيعات والتسويق إلى شريحة جديدة من السوق
+* من المهم تلبية سياستنا الأمنية
+* من المهم تقليل السبب الأكبر لتذاكر الدعم
+* مهم للتخفيف من أكبر سبب للإلغاءات
+* من المهم إعادة بناء التعليمات البرمجية حتى يصبح المهندسون أكثر سعادة وإنتاجية
+* مهم لزيادة الربحية
+* من المهم تحقيق استراتيجيتنا طويلة المدى، حتى لو لم تكن هناك إيرادات في الربع التالي
 
-Sorting a "Big List" of epics doesn't seem like the right way to tackle this complexity.
+لا يبدو أن فرز "قائمة كبيرة" من الملاحم هو الطريقة الصحيحة لمعالجة هذا التعقيد.
 
-The first problem is that you're sorting things that are incomparable. Each bullet point above describes something undeniably "important" but has different motivations, with different impacts, measured differently. So on what basis, with what metric, would you order the Big List?
+المشكلة الأولى هي أنك تقوم بفرز الأشياء التي لا يمكن مقارنتها. تصف كل نقطة أعلاه شيئًا "مهمًا" لا يمكن إنكاره، ولكن له دوافع مختلفة، وتأثيرات مختلفة، يتم قياسها بشكل مختلف. إذن، على أي أساس، وبأي مقياس، يمكنك ترتيب القائمة الكبرى؟
 
-The second problem is that the resulting decision is unsatisfying to stakeholders. Sales wants a few specific competitive features, and doesn't have the context to understand how those are interleaved with requests from support or why the engineers need an entire month to "clean up a mess, which by the way, they made themselves?" The Big List doesn't yield satisfactory explanations.
+المشكلة الثانية هي أن القرار الناتج غير مرضٍ لأصحاب المصلحة. يريد قسم المبيعات بعض الميزات التنافسية المحددة، وليس لديه السياق لفهم كيفية تداخل هذه الميزات مع طلبات الدعم أو لماذا يحتاج المهندسون إلى شهر كامل "لتنظيف الفوضى، والتي بالمناسبة، صنعوها بأنفسهم؟" القائمة الكبيرة لا تقدم تفسيرات مرضية.
 
-### Work-planning
+### تخطيط العمل
 
-The third problem is that the Big List conflates the idea of "prioritization"--what is most important--with "work-planning"--which is the order that specific work will be executed. While there's a correlation, work-planning rarely matches our ideal prioritization because...
+المشكلة الثالثة هي أن القائمة الكبيرة تدمج فكرة "تحديد الأولويات" - وهو الأمر الأكثر أهمية - مع "تخطيط العمل" - وهو الترتيب الذي سيتم به تنفيذ عمل محدد. على الرغم من وجود ارتباط، نادرًا ما يتوافق تخطيط العمل مع أولوياتنا المثالية لأن...
 
-1. Hard deadlines--often externally-imposed--requiring work even if something else is nominally "more important." (e.g. zero-day security patch is not on our list of prioritized strategic work, but must be scheduled immediately. Or: Have to get specific functionality shipped for a live customer event).
-2. We might not currently have capacity on the teams who are capable of working on a high-priority thing.
-3. We might not currently have the skillsets to execute a high-priority thing.
-4. Dependencies--i.e. A is very important; B is not. But A cannot be done unless B is done. Therefore, we must work on B first, even though A is more important.
-5. Unknowns that have to be investigated before work can commence, or even be planned. (e.g. spikes or proofs-of-concept)
-6. The amount of work, or amount of risk, of executing a high-priority thing might mean we shouldn't tackle it yet.
-7. Getting success on some smaller things, while working on longer things, is better for throughput, better for morale, and is more agile.
-8. Blockers--dependencies on other work, maybe even other teams, before we can make progress on a high-priority thing.
-9. Starving--sometimes we've put off low-priority things for so long, they effectively become higher-priority.
-10. Holidays and other seasonal things (e.g. kicking off a huge new initiative on December 15th is a bad idea, even if it's strategic).
+1. المواعيد النهائية الصعبة - التي غالبًا ما يتم فرضها من الخارج - تتطلب العمل حتى لو كان هناك شيء آخر "أكثر أهمية" اسميًا. (على سبيل المثال، التصحيح الأمني ​​ليوم الصفر ليس مدرجًا في قائمتنا للعمل الاستراتيجي ذي الأولوية، ولكن يجب جدولته على الفور. أو: يجب أن يتم شحن وظائف محددة لحدث مباشر للعملاء).
+2. قد لا يكون لدينا حاليًا القدرة على تشكيل فرق قادرة على العمل على أمر ذي أولوية عالية.
+3. ربما لا نمتلك حاليًا مجموعة المهارات اللازمة لتنفيذ شيء ذي أولوية عالية.
+4. التبعيات – أي أ مهم جدًا؛ ب ليس كذلك. لكن (أ) لا يمكن أن يتم إلا إذا تم (ب). لذلك، يجب أن نعمل على (ب) أولاً، على الرغم من أن (أ) أكثر أهمية.
+5. الأمور المجهولة التي يجب التحقيق فيها قبل البدء في العمل، أو حتى التخطيط له. (على سبيل المثال المسامير أو إثباتات المفهوم)
+6. إن حجم العمل، أو حجم المخاطرة، في تنفيذ شيء ذي أولوية عالية قد يعني أنه لا ينبغي لنا معالجته بعد.
+7. إن تحقيق النجاح في بعض الأشياء الصغيرة، أثناء العمل على أشياء أطول، يعد أفضل من حيث الإنتاجية، وأفضل من حيث الروح المعنوية، وأكثر مرونة.
+8. العوائق – الاعتماد على عمل آخر، وربما حتى فرق أخرى، قبل أن نتمكن من إحراز تقدم في أمر ذي أولوية عالية.
+9. الجوع - في بعض الأحيان نقوم بتأجيل الأشياء ذات الأولوية المنخفضة لفترة طويلة، حتى تصبح فعليًا ذات أولوية أعلى.
+10. العطلات والأشياء الموسمية الأخرى (على سبيل المثال، يعد إطلاق مبادرة جديدة ضخمة في 15 ديسمبر فكرة سيئة، حتى لو كانت استراتيجية).
 
-The solution is to prioritize items in separate, actually-comparable streams, and to keep that prioritization effort cleanly separate from work-planning.
+ويكمن الحل في تحديد أولويات العناصر في مسارات منفصلة وقابلة للمقارنة فعليًا، والحفاظ على فصل جهود تحديد الأولويات بشكل واضح عن تخطيط العمل.
 
-## Separate prioritization streams
+## تيارات أولويات منفصلة
 
 ![Ghostbusters movie](https://public.asmartbear.com/books/anthology/chapters/jit-backlogs/gb1film1999chapter28sc017-simple.png)
 
-> "Don't cross the streams!" <br/> "Why?" <br/> "It... would be bad."  
-> --Egon Spengler, Ghostbusters
+> "لا تعبر الجداول!" <br/> "لماذا؟" <br/> "سيكون الأمر سيئًا."
+> -- إيجون شبنجلر، صائدو الأشباح
 
-### The stakeholders
+### أصحاب المصلحة
 
-Folks in Sales may not know which items are most important for Support, but they sure as heck have an opinion on what would be best for Sales! It's fun to sit down with sales reps and sales leaders and ask them to generate and then prioritize[^1] the things they believe would be most impactful. Tell them they don't have to worry about other departments or other requirements--this time is just for them, and this list is just for them.
+قد لا يعرف الأشخاص في قسم المبيعات العناصر الأكثر أهمية للدعم، ولكن من المؤكد أن لديهم رأيًا حول ما هو الأفضل للمبيعات! من الممتع الجلوس مع مندوبي المبيعات وقادة المبيعات ومطالبتهم بإنشاء الأشياء التي يعتقدون أنها ستكون الأكثر تأثيرًا ثم تحديد أولوياتها[^1]. أخبرهم أنه لا داعي للقلق بشأن الأقسام الأخرى أو المتطلبات الأخرى - فهذه المرة مخصصة لهم فقط، وهذه القائمة مخصصة لهم فقط.
 
-[^1]: Wait, that means a single, prioritized list! Yes. Because this is a single group, and we're asking them a single question from the bullet-list above (e.g. "what would be best for increasing sales, whether because of increased win-rate or increased average transaction size"), we don't have the problem of comparing unlike things, and so the "single list" is a good forcing-function to generate a clear prioritization.
+[^1]: انتظر، هذا يعني قائمة واحدة ذات أولوية! نعم. نظرًا لأن هذه مجموعة واحدة، ونحن نطرح عليهم سؤالًا واحدًا من القائمة النقطية أعلاه (على سبيل المثال، "ما هو الأفضل لزيادة المبيعات، سواء بسبب زيادة معدل الفوز أو زيادة متوسط ​​حجم المعاملة")، ليس لدينا مشكلة المقارنة بين الأشياء المتباينة، وبالتالي فإن "القائمة الفردية" هي وظيفة فرض جيدة لإنشاء أولويات واضحة.
 
-The ideas will pour out. Some ideas come from the last sale someone lost; that might be insightful or might be noise.[^2] Some ideas are critical causes of lost sales--bonus points if you can tie them to specific lost sales. That's motivating for Engineering as much as for Product. Some ideas are just a feeling--"I *know* I could sell the piss out of X." Don't dismiss those out of hand in your quest to be data-driven; multi-billion-dollar startups have been built atop experience-informed gut-instinct.
+سوف تتدفق الأفكار. بعض الأفكار تأتي من آخر عملية بيع فقدها شخص ما؛ قد يكون ذلك ثاقبًا أو قد يكون ضجيجًا.[^2] تعتبر بعض الأفكار من الأسباب الحاسمة لخسارة المبيعات - نقاط إضافية إذا كان بإمكانك ربطها بمبيعات ضائعة محددة. هذا يحفز الهندسة بقدر ما يحفز المنتج. بعض الأفكار هي مجرد شعور -- "أعلم أنه يمكنني بيع بول X." لا تتجاهل هؤلاء الخارجين عن نطاق السيطرة في سعيك لأن تعتمد على البيانات؛ لقد تم بناء شركات ناشئة بمليارات الدولارات على أساس الغريزة المستنيرة بالخبرة.
 
-[^2]: One way to separate the short-term emotional reaction from the important trend is to observe what happens in subsequent prioritization sessions. When you see the group dramatically shifting the priority of items quarter-to-quarter, that indicates the group doesn't have a consistent sense of what would be most impactful. Surely some of the ideas are truly great; *this* team just isn't sure which ones those are. Sounds familiar--Product Managers struggle with this challenge all the time!
+[^2]: إحدى الطرق لفصل رد الفعل العاطفي قصير المدى عن الاتجاه المهم هي ملاحظة ما يحدث في جلسات تحديد الأولويات اللاحقة. عندما ترى المجموعة تغير بشكل كبير أولوية العناصر من ربع إلى ربع، فهذا يشير إلى أن المجموعة ليس لديها إحساس ثابت بما يمكن أن يكون أكثر تأثيرًا. من المؤكد أن بعض الأفكار رائعة حقًا؛ *هذا* الفريق ليس متأكدًا من هم هؤلاء. يبدو الأمر مألوفًا - يواجه مديرو المنتجات هذا التحدي طوال الوقت!
 
-By forcing that group to prioritize their ideas, they'll argue amongst themselves over which are most impactful. This creates empathy for what product managers have to do all the time--struggle with prioritization in the face of multiple goals and imperfect data. It also means they can't make everything "Priority #1," which in turn sets up a healthier future discussion: When, in two months, they complain that "you still haven't made feature X," you can point out that "X" was number seven on their list, so they themselves felt that it wasn't as important; you were just listening to their input. (Of course, everyone is allowed to change their mind; it's useful to run this process multiple times per year.)
+ومن خلال إجبار تلك المجموعة على تحديد أولويات أفكارها، فسوف يتجادلون فيما بينهم حول الأفكار الأكثر تأثيرًا. وهذا يخلق التعاطف مع ما يتعين على مديري المنتجات القيام به طوال الوقت، أي الصراع مع تحديد الأولويات في مواجهة الأهداف المتعددة والبيانات غير الكاملة. وهذا يعني أيضًا أنهم لا يستطيعون جعل كل شيء "الأولوية رقم 1"، الأمر الذي يؤدي بدوره إلى إنشاء مناقشة مستقبلية أكثر صحة: عندما يشكون، خلال شهرين، من "أنك لم تصنع الميزة X بعد"، يمكنك الإشارة إلى أن "X" كانت رقم سبعة في قائمتهم، لذلك شعروا هم أنفسهم أنها لم تكن مهمة؛ كنت مجرد الاستماع إلى مدخلاتهم. (بالطبع، يُسمح للجميع بتغيير رأيهم؛ ومن المفيد إجراء هذه العملية عدة مرات سنويًا).
 
-You're not promising to do everything they want, in the order they want. That's work-planning, and also this is just one list; you're going to do this with other groups too. And this list doesn't include the most important voice of all--the voice of the customer. You *are* promising that you will take this list seriously, because you genuinely value their input. That's more than most Sales teams get out of Product Managers.
+أنت لا تعدهم بأن يفعلوا كل ما يريدون، وبالترتيب الذي يريدونه. هذا هو تخطيط العمل، وهذه أيضًا قائمة واحدة فقط؛ ستفعل هذا مع مجموعات أخرى أيضًا. ولا تتضمن هذه القائمة الصوت الأكثر أهمية على الإطلاق، ألا وهو صوت العميل. أنت *تعد* بأنك ستأخذ هذه القائمة على محمل الجد، لأنك تقدر حقًا مدخلاتهم. وهذا أكثر مما تحصل عليه معظم فرق المبيعات من مديري المنتجات.
 
-Now repeat for other groups.
+كرر الآن للمجموعات الأخرى.
 
-Sales Engineering has a view unique from Sales, more technical and more in tune with technical customers, often the users rather than the buyers.
+تتمتع هندسة المبيعات بوجهة نظر فريدة من نوعها عن المبيعات، وأكثر تقنية وأكثر انسجامًا مع العملاء الفنيين، وغالبًا ما يكونون المستخدمين وليس المشترين.
 
-Support often knows the product better than anyone, and with the right tools and processes, has better data about which topics are causing the most problems or confusion. Remember that this isn't only about reducing work and costs for the Support team--although that's already a great result. It's about creating a better customer experience, because the customer who never needs to contact Support to get their work done, is a happier, more successful, more loyal customer.[^3]
+غالبًا ما يعرف فريق الدعم المنتج بشكل أفضل من أي شخص آخر، وباستخدام الأدوات والعمليات المناسبة، يكون لديه بيانات أفضل حول الموضوعات التي تسبب معظم المشاكل أو الارتباك. تذكر أن هذا لا يتعلق فقط بتقليل العمل والتكاليف لفريق الدعم - على الرغم من أن هذه نتيجة رائعة بالفعل. يتعلق الأمر بخلق تجربة أفضل للعملاء، لأن العميل الذي لا يحتاج مطلقًا إلى الاتصال بالدعم لإنجاز عمله، هو عميل أكثر سعادة ونجاحًا وولاءً.[^3]
 
-[^3]: There [are fascinating data](https://www.amazon.com/Effortless-Experience-Conquering-Battleground-Customer/dp/1591845815) supporting the claim that "needing Support less" is correlated with "customer loyalty."
+[^3]: هناك [بيانات رائعة](https://www.amazon.com/Effortless-Experience-Conquering-Battleground-Customer/dp/1591845815) تدعم الادعاء بأن "الحاجة إلى دعم أقل" ترتبط بـ "ولاء العملاء".
 
-Engineering also needs their own list. There's always things to refactor, libraries to replace, spikes for new technology to try, replacement of a continuous-integration system, test automation we neglected before but desperately need now, systems that last year were adequate but now we've scaled past them, and so on. Their stuff is about operational excellence and a happy, fewer-bugs, higher-productivity environment, not about growth or the customer. Therefore, it's easy for these things to never be prioritized, which in the long run creates resentment and grinds development velocity to a halt. But also, engineers--like everyone else--have more ideas than time, so they too should be forced to prioritize.
+تحتاج الهندسة أيضًا إلى قائمتها الخاصة. هناك دائمًا أشياء يجب إعادة هيكلتها، ومكتبات يجب استبدالها، وزيادات في التكنولوجيا الجديدة لتجربتها، واستبدال نظام التكامل المستمر، واختبار التشغيل الآلي الذي أهملناه من قبل ولكننا في أمس الحاجة إليه الآن، والأنظمة التي كانت كافية في العام الماضي ولكننا تجاوزناها الآن، وما إلى ذلك. تتمحور أمورهم حول التميز التشغيلي وبيئة سعيدة خالية من الأخطاء وعالية الإنتاجية، وليس حول النمو أو العملاء. لذلك، من السهل عدم إعطاء الأولوية لهذه الأشياء أبدًا، الأمر الذي يخلق الاستياء على المدى الطويل ويوقف سرعة التنمية. ولكن المهندسين أيضًا - مثل أي شخص آخر - لديهم أفكار أكثر من الوقت، لذلك يجب عليهم أيضًا تحديد الأولويات.
 
-So... which of these lists is correct? There is truth in all, but none contain the complete picture, like the 2,500-year-old Buddhist allegory about [The Blind Men and The Elephant](https://www.sloww.co/blind-men-elephant/):
+إذًا... أي من هذه القوائم هو الصحيح؟ هناك حقيقة في كل شيء، لكن لا شيء يحتوي على الصورة الكاملة، مثل القصة الرمزية البوذية التي يبلغ عمرها 2500 عام حول [الرجال المكفوفين والفيل](https://www.sloww.co/blind-men-elephant/):
 
 ![Source: J. Himmelfarb (artist G. Renee Guzlas)](https://public.asmartbear.com/books/anthology/chapters/jit-backlogs/the-blind-men-and-the-elephant-simple.png)
 
-It's the [job of a Product Manager](https://longform.asmartbear.com/great-product-manager/) to consider all of these inputs and deduce the elephant. Keeping the inputs separately ordered helps the PM with this daunting endeavor.
+إنها [وظيفة مدير المنتج](https://longform.asmartbear.com/great-product-manager/) دراسة كل هذه المدخلات واستنتاج المشكلة. إن الحفاظ على ترتيب المدخلات بشكل منفصل يساعد رئيس الوزراء في هذا المسعى الشاق.
 
-### The customer
+### العميل
 
-These are internal groups; what about the customer, the star of the show! This is typically within the purview of Product Managers and Designers and UX Researchers, as opposed to internal stakeholders. For simple products, perhaps there's only one prioritized list representing our best idea of what's important to the customer, but products with non-overlapping areas of functionality or that serve multiple personas might have one list per persona or functional space. For example, you might have separate lists for the needs of small versus large companies, or first-time users versus power-users.
+هذه مجموعات داخلية. ماذا عن العميل نجم العرض! يقع هذا عادةً ضمن اختصاص مديري المنتجات والمصممين وباحثي تجربة المستخدم، بدلاً من أصحاب المصلحة الداخليين. بالنسبة للمنتجات البسيطة، ربما توجد قائمة أولويات واحدة فقط تمثل أفضل فكرة لدينا حول ما هو مهم بالنسبة للعميل، ولكن المنتجات التي تحتوي على مجالات وظيفية غير متداخلة أو التي تخدم عدة أشخاص قد تحتوي على قائمة واحدة لكل شخصية أو مساحة وظيفية. على سبيل المثال، قد يكون لديك قوائم منفصلة لاحتياجات الشركات الصغيرة مقابل الشركات الكبيرة، أو المستخدمين لأول مرة مقابل المستخدمين المتميزين.
 
-Another common technique is to have a list per step in the customer journey, reflecting the fact that it's important for trial users to find success quickly, and also important for paying customers to continuously see value, and also important for the highest-revenue power-users to stay and grow. As with stakeholders, the motivation for the prioritizing items within each category are not comparable.
+أسلوب شائع آخر هو أن يكون لديك قائمة لكل خطوة في رحلة العميل، مما يعكس حقيقة أنه من المهم لمستخدمي الإصدار التجريبي أن يجدوا النجاح بسرعة، ومن المهم أيضًا للعملاء الذين يدفعون مقابل الدفع أن يروا القيمة باستمرار، ومن المهم أيضًا أن يظل المستخدمون المتميزون ذوو الإيرادات الأعلى وينموون. وكما هو الحال مع أصحاب المصلحة، فإن الدوافع وراء تحديد الأولويات ضمن كل فئة غير قابلة للمقارنة.
 
-There is plenty of prior art on this topic. This is essentially what is happening with [Story Mapping](https://www.jpattonassociates.com/the-new-backlog/) or [Opportunity Solution Trees](https://www.productplan.com/glossary/opportunity-solution-tree/) (Figure 2), where the customer-journey steps or the main opportunities each contain a list of potential work-items. Indeed, you could argue that Story Mapping is just exactly the idea expounded here, extending the concept of "independent lists" from only customer-focused topics, to topics from Sales, Support, and Engineering.
+هناك الكثير من الفن السابق حول هذا الموضوع. وهذا ما يحدث بشكل أساسي مع [Story Mapping](https://www.jpattonassociates.com/the-new-backlog/) أو [أشجار حلول الفرص](https://www.productplan.com/glossary/opportunity-solution-tree/) (الشكل 2)، حيث تحتوي كل خطوات رحلة العميل أو الفرص الرئيسية على قائمة بعناصر العمل المحتملة. في الواقع، يمكنك القول بأن تعيين القصة هو بالضبط الفكرة الموضحة هنا، مما يوسع مفهوم "القوائم المستقلة" من الموضوعات التي تركز على العملاء فقط، إلى موضوعات من المبيعات والدعم والهندسة.
 
 ![Story Mapping diagram](https://public.asmartbear.com/books/anthology/chapters/jit-backlogs/d851cedafd54c4808058928d14d222422-simple.png)
 
-### Alternate types of list
+### أنواع بديلة من القائمة
 
-If you don't like separating lists by function or by customer journey, here are other systems that some people like to use:
+إذا كنت لا تحب فصل القوائم حسب الوظيفة أو حسب رحلة العميل، فإليك أنظمة أخرى يفضل بعض الأشخاص استخدامها:
 
-#### Kano
+#### كانو
 
-You could also create lists using the [Kano Model](https://foldingburritos.com/blog/kano-model). Imagine one list each for Delight, Performance, and Must-be. In general you don't want to starve any one of these categories, but it's difficult to prioritize items between categories. For example, it's easy to claim that everything in Must-be has to be implemented first; after all it's called Must-be for a reason! There's no point in bringing on new customers who won't be successful. That sounds reasonable, but it's simply not true that products should supply only basic requirements; indeed it's often the (unexpectedly) Delightful items that cause a customer to [stay _despite_ failings](https://longform.asmartbear.com/the-important-thing/). Having separate lists, none of which should be completely starved, helps to combat this problem.
+يمكنك أيضًا إنشاء قوائم باستخدام [نموذج Kano](https://foldingburritos.com/blog/kano-model). تخيل قائمة واحدة لكل من البهجة والأداء والضرورة. بشكل عام، لا ترغب في تجويع أي واحدة من هذه الفئات، ولكن من الصعب تحديد أولويات العناصر بين الفئات. على سبيل المثال، من السهل الادعاء بأن كل شيء في "يجب أن يكون" يجب تنفيذه أولاً؛ بعد كل شيء يطلق عليه "يجب أن يكون" لسبب ما! ليس هناك فائدة من جلب عملاء جدد لن ينجحوا. قد يبدو هذا معقولًا، ولكن ببساطة ليس صحيحًا أن المنتجات يجب أن توفر المتطلبات الأساسية فقط؛ في الواقع، غالبًا ما تكون العناصر المبهجة (بشكل غير متوقع) هي التي تجعل العميل [يبقى _رغم_الإخفاقات](https://longform.asmartbear.com/the-important-thing/). يساعد وجود قوائم منفصلة، ​​لا ينبغي تجويع أي منها بشكل كامل، على مكافحة هذه المشكلة.
 
-#### The "Four Lists"
+#### "القوائم الأربع"
 
-From Jyoti Bansal, [summarized by Adam Thornhill](https://podup.substack.com/p/reorganize-your-roadmap):
+من جيوتي بانسال، [لخصه آدم ثورنهيل](https://podup.substack.com/p/reorganize-your-roadmap):
 
-1. **Customer engagement.** Tuning into user feedback and desires.
-2. **Sales intelligence.** Learning from the field to stay abreast of the competition.
-3. **Technical debt.** The debt engineers must address to prevent performance issues.
-4. **Vision for the future.** Where the product should head, expanding the addressable market.
+1. ** مشاركة العملاء. ** الاستماع إلى تعليقات المستخدمين ورغباتهم.
+2. ** ذكاء المبيعات. ** التعلم من الميدان لمواكبة المنافسة.
+3. **الديون الفنية.** يجب على مهندسي الديون معالجتها لمنع حدوث مشكلات في الأداء.
+4. **رؤية للمستقبل.** المكان الذي يجب أن يتجه إليه المنتج، مما يؤدي إلى توسيع السوق القابلة للتوجيه.
 
 ---
 
-In all cases, all of the lists are important, in the sense that you cannot ignore any one of them forever. But you don't have capacity to move all the needles at once, and the items within each list are different-in-kind, and should be prioritized separately.
+وفي جميع الأحوال، فإن جميع القوائم مهمة، بمعنى أنه لا يمكنك تجاهل أي واحدة منها إلى الأبد. لكن ليس لديك القدرة على تحريك جميع الإبر مرة واحدة، كما أن العناصر الموجودة في كل قائمة تختلف من حيث النوع، ويجب تحديد أولوياتها بشكل منفصل.
 
-## Crossing the streams for work-planning
+## عبور الجداول لتخطيط العمل
 
-Eventually, human beings need to do work. It makes sense to select work from these various streams and--yes--place the work in an ordered backlog. When you're actually doing work, you want a clear answer to "what's next?" without additional meetings and debate.
+في نهاية المطاف، يحتاج البشر إلى القيام بالعمل. من المنطقي اختيار العمل من هذه التدفقات المختلفة و-- نعم- وضع العمل في قائمة متراكمة مرتبة. عندما تقوم بعملك فعليًا، فأنت تريد إجابة واضحة لسؤال "ما هي الخطوة التالية؟" دون اجتماعات ومناقشات إضافية.
 
 ![never know who was first can tell you whos gonna be last](https://public.asmartbear.com/books/anthology/chapters/jit-backlogs/d7546print-simple.png)
 
-By waiting until the last second to compare incomparable things, prioritization remains organized and clear. By waiting until the last second to shift your mindset from "most important" to "planning work," you maximize clarity in the process of selecting and scheduling work.
+ومن خلال الانتظار حتى اللحظة الأخيرة لمقارنة الأشياء التي لا تضاهى، يظل تحديد الأولويات منظمًا وواضحًا. من خلال الانتظار حتى اللحظة الأخيرة لتحويل تفكيرك من "الأهم" إلى "تخطيط العمل"، فإنك تزيد من الوضوح في عملية اختيار وجدولة العمل.
 
-In software, when you wait until the last possible moment to do something, it's called JIT ("Just In Time"), hence the titular name of this technique.
+في البرمجيات، عندما تنتظر حتى آخر لحظة ممكنة للقيام بشيء ما، يطلق عليه JIT ("Just In Time")، ومن هنا الاسم الفخري لهذه التقنية.
 
-You still have the unenviable job of selecting which items from which streams are going to happen next (or "soon," in the case of a roadmap). But that was always going to be the case--there's always more work than time, so there's always a selection process. This technique keeps that process more organized than it would have been, and it allows you to grapple with work-planning puzzles separately from prioritization, which at least compartmentalizes the challenge. Divide-and-conquer is a good way to overcome complexity.
+لا يزال أمامك مهمة لا تحسد عليها وهي اختيار العناصر التي سيتم إجراء التدفقات منها بعد ذلك (أو "قريبًا" في حالة وجود خريطة الطريق). ولكن هذا هو الحال دائمًا - هناك دائمًا عمل أكثر من الوقت، لذلك هناك دائمًا عملية اختيار. تحافظ هذه التقنية على تنظيم هذه العملية أكثر مما كانت عليه، وتسمح لك بالتعامل مع ألغاز تخطيط العمل بشكل منفصل عن تحديد الأولويات، مما يؤدي على الأقل إلى تجزئة التحدي. تعتبر سياسة فرق تسد طريقة جيدة للتغلب على التعقيد.
 
-> "We're obviously in no danger of arriving at consensus."  
-> --Warren Buffett
+> "من الواضح أننا لسنا في خطر التوصل إلى توافق في الآراء."
+> --وارن بافيت
 
-You're selecting from the top ideas at the company, not from the 1000 ideas everyone collectively has. It's a lot easier to pick the best from 12 instead of from 1000, and in some sense you can't go wrong--on average all 12 are probably decent ideas. And stakeholders will be happy.
+أنت تختار من بين أفضل الأفكار في الشركة، وليس من بين 1000 فكرة يمتلكها الجميع بشكل جماعي. من الأسهل كثيرًا اختيار الأفضل من بين 12 بدلاً من 1000، وبمعنى ما، لا يمكن أن تخطئ - في المتوسط، ربما تكون جميع الأفكار الـ 12 جيدة. وسيكون أصحاب المصلحة سعداء.
 
-This last point is under-appreciated. This process is more explainable after-the-fact. Suppose it turns out Sales's first item is impossible to tackle right now, but you can knock out Sales's second item because, by the way, it's also Support's number four and fits nicely into a multi-month customer journey improvement project you have. That's a great message to send back. Or, a message like: We knocked out two of your top items recently; we've been starving the engineering list so we're going to hit a few of those in the next few months, then resurface.
+هذه النقطة الأخيرة لا تحظى بالتقدير. هذه العملية أكثر قابلية للتفسير بعد وقوعها. لنفترض أنه اتضح أنه من المستحيل معالجة العنصر الأول للمبيعات في الوقت الحالي، ولكن يمكنك استبعاد العنصر الثاني للمبيعات لأنه، بالمناسبة، هو أيضًا رقم الدعم الرابع ويتناسب بشكل جيد مع مشروع تحسين رحلة العميل الذي يمتد لعدة أشهر. هذه رسالة عظيمة لإرسالها مرة أخرى. أو رسالة مثل: لقد حذفنا اثنين من أهم العناصر لديك مؤخرًا؛ لقد قمنا بتجويع القائمة الهندسية، لذا سنصل إلى عدد قليل منها في الأشهر القليلة المقبلة، ثم نعود إلى الظهور.
 
-This process also helps keep yourself honest. You can easily report on:
+تساعد هذه العملية أيضًا في الحفاظ على صدقك. يمكنك بسهولة الإبلاغ عن:
 
-* How much of each kind of work are we doing?
-* What is the age of the top three items on each list? (i.e. Are we starving something?)
-* How much of this sprint is addressing someone's "top 3" thing?
-* How much work is related to internal projects, rather than visible to the customer?
+* ما مقدار كل نوع من العمل الذي نقوم به؟
+* ما هو عمر العناصر الثلاثة الأولى في كل قائمة؟ (أي هل نتضور جوعا شيئا ما؟)
+* ما مقدار هذا السباق الذي يتناول موضوع "الثلاثة الأوائل" لشخص ما؟
+* ما حجم العمل المرتبط بالمشاريع الداخلية، وليس المرئي للعميل؟
 
-It also leads to better ideas:
+كما أنه يؤدي إلى أفكار أفضل:
 
-* Are there trends that everyone is seeing across all functions in the business, that therefore should inform our strategy?
-* Can we think of new product ideas that hit multiple top-three items simultaneously, and thus are especially impactful?
+* هل هناك اتجاهات يراها الجميع في جميع وظائف الشركة، وبالتالي ينبغي أن تسترشد بها استراتيجيتنا؟
+* هل يمكننا التفكير في أفكار منتجات جديدة تصل إلى العديد من العناصر الثلاثة الأولى في وقت واحد، وبالتالي تكون مؤثرة بشكل خاص؟
 
-Don't forget to [schedule rocks, then pebbles, then sand](https://longform.asmartbear.com/rocks-pebbles-sand/). That's an even more primary principle for work-planning. Separate prioritization streams help identify which rocks and pebbles should even be considered for scheduling.
+لا تنسَ [جدولة الصخور ثم الحصى ثم الرمل](https://longform.asmartbear.com/rocks-pebbles-sand/). وهذا مبدأ أساسي أكثر لتخطيط العمل. تساعد تدفقات تحديد الأولويات المنفصلة في تحديد الصخور والحصى التي ينبغي أخذها في الاعتبار عند الجدولة.
 
-> "When we differ, Charlie usually ends the conversation by saying: "Warren, think it over and you'll agree with me because you're smart and I'm right."  
-> --Warren Buffett on Charlie Munger
+> "عندما نختلف، عادة ما ينهي تشارلي المحادثة بالقول: "وارن، فكر في الأمر وسوف تتفق معي لأنك ذكي وأنا على حق."
+> --وارن بافيت عن تشارلي مونجر

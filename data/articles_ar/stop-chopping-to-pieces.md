@@ -20,45 +20,32 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** توقف عن تمزيق نفسك وفريقك إلى أشلاء بالمهام التافهة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Stop chopping yourself to pieces
-
-> **Executive Summary:** Achieve more by doing less: one task at a time, ample rest, and deliberate focus lead to greater fulfillment.
-> **Original URL:** [https://longform.asmartbear.com/stop-chopping-to-pieces/](https://longform.asmartbear.com/stop-chopping-to-pieces/)
-
 ![Cartoon 5bbdbd63](https://longform.asmartbear.com/stop-chopping-to-pieces/42e65065.png)
 
- My personal experience, confirmed by numerous studies, is:
+تجربتي الشخصية والتي أكدتها العديد من الدراسات هي:
 
-1. It's faster to process email in batches rather than checking in 30 times/day.
-2. Humans cannot multi-task, they just complete both tasks slower, and with lower quality. (Texting and driving, meetings and email)
-3. The best ideas, new ideas, come in a flash when you're not working.
-4. You are most productive when you're "in the zone," a contiguous period of focus, without interruption by human or computer. (E.g. "I have to work from home today so I can actually get something done.")
-5. You are happier and more productive (both!) when you've had enough sleep.
-6. You are happier and more productive (both!) when you get regular exercise.
-7. You are happier and more productive (both!) when you spend time in quiet contemplation (e.g. meditation).
+1. من الأسرع معالجة البريد الإلكتروني على دفعات بدلاً من تسجيل الوصول 30 مرة في اليوم.
+2. لا يستطيع البشر القيام بمهام متعددة، فهم يقومون فقط بإكمال المهمتين بشكل أبطأ وبجودة أقل. (الرسائل النصية والقيادة والاجتماعات والبريد الإلكتروني)
+3. أفضل الأفكار، الأفكار الجديدة، تأتي في لمح البصر عندما لا تعمل.
+4. تكون أكثر إنتاجية عندما تكون "في المنطقة"، وهي فترة متواصلة من التركيز، دون مقاطعة من قبل الإنسان أو الكمبيوتر. (على سبيل المثال، "يجب أن أعمل من المنزل اليوم حتى أتمكن من إنجاز شيء ما.")
+5. أنت أكثر سعادة وإنتاجية (كلاهما!) عندما تحصل على قسط كافٍ من النوم.
+6. أنت أكثر سعادة وإنتاجية (كلاهما!) عندما تمارس التمارين الرياضية بانتظام.
+7. أنت أكثر سعادة وإنتاجية (كلاهما!) عندما تقضي وقتًا في التأمل الهادئ (مثل التأمل).
 
-Given that all of these are selfishly useful--concerning your happiness and productivity--it's amazing how we persistently ignore these facts as we navigate our daily lives.
+وبالنظر إلى أن كل هذه الأمور مفيدة بشكل أناني - فيما يتعلق بسعادتك وإنتاجيتك - فمن المدهش كيف نتجاهل هذه الحقائق باستمرار أثناء تنقلنا في حياتنا اليومية.
 
-The conclusions are simple, and obvious.
+الاستنتاجات بسيطة وواضحة.
 
-One task at a time. Don't allow arbitrary people on email and twitter dictate your attention or use of time, because they'll demand it all. Be mindful of the present moment. Use regular downtime and rest to stay healthy and happy.
+مهمة واحدة في كل مرة. لا تسمح للأشخاص التعسفيين في البريد الإلكتروني وتويتر بإملاء انتباهك أو استخدامك للوقت، لأنهم سيطالبون بكل شيء. كن واعيًا باللحظة الحالية. استخدم فترات التوقف المنتظمة والراحة للبقاء بصحة جيدة وسعيدة.
 
-Does that paragraph describe your life?
+هل تصف هذه الفقرة حياتك؟
 
-No?
+لا؟
 
-Are you ok with that?
+هل أنت موافق على ذلك؟
 
-Can you face the fact that *you get to decide* how to spend your time, and you're willfully hurting yourself?
+هل يمكنك مواجهة حقيقة أنك *عليك أن تقرر* كيفية قضاء وقتك، وأنك تؤذي نفسك عمدًا؟
 
-Who are you fooling?
+من أنت تخدع؟
 
-Stop it.
+أوقفه.

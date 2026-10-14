@@ -20,76 +20,63 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** لماذا لا أثق في مقياس القيمة الدائمة للعميل (LTV) التقليدي؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Why I don't like the LTV metric (LifeTime Value)
-
-> **Executive Summary:** The LTV metric overcomplicates and misleads. Learn why you should use other SaaS metrics instead.
-> **Original URL:** [https://longform.asmartbear.com/ltv/](https://longform.asmartbear.com/ltv/)
-
 ![What's really exciting is if you extend this out five years, we own around 400% of the market!](https://public.asmartbear.com/books/anthology/chapters/ltv/d6965print-simple.png)
 
-A metric is a single number stuffed with an enormous complexity of causes, effects, and interconnected processes. This is a two-edged sword.
+المقياس عبارة عن رقم واحد مليء بتعقيد هائل من الأسباب والتأثيرات والعمليات المترابطة. هذا سيف ذو حدين.
 
-This is powerful because it lets you reason about complex systems: how they look now and how they are changing. It helps you focus on what's important.
+وهذا أمر قوي لأنه يتيح لك التفكير في الأنظمة المعقدة: كيف تبدو الآن وكيف تتغير. يساعدك على التركيز على ما هو مهم.
 
-But this is dangerous because you're combining so many disparate and disjoint processes and systems that the number has little precision, and no explanatory power. And then you *think* you understand something that you don't. That's how bad decisions are made with confidence. The [rubric](https://longform.asmartbear.com/roi-rubric/) always gives you 8 decimal places of "precision," even if those digits are all [error](https://longform.asmartbear.com/p-hacking/) and [uncertainty](https://longform.asmartbear.com/predict-the-future/).
+لكن هذا أمر خطير لأنك تجمع بين العديد من العمليات والأنظمة المتباينة والمفككة بحيث يكون الرقم قليل الدقة، وليس لديه قوة تفسيرية. وبعد ذلك *تعتقد* أنك تفهم شيئًا لا تفهمه. هذه هي الطريقة التي يتم بها اتخاذ القرارات السيئة بثقة. تمنحك [قاعدة التقييم](https://longform.asmartbear.com/roi-rubric/) دائمًا 8 منازل عشرية لـ "الدقة"، حتى لو كانت هذه الأرقام كلها [خطأ](https://longform.asmartbear.com/p-hacking/) و[عدم يقين](https://longform.asmartbear.com/predict-the-future/).
 
-> "The greatest enemy of knowledge is not ignorance. It's the illusion of knowledge."  
-> --Stephen Hawking
+> "إن أكبر عدو للمعرفة ليس الجهل، بل وهم المعرفة."
+> - ستيفن هوكينج
 
-**For many SaaS businesses, the incorrectness of the LTV metric outweighs the value it supposedly confers.**
+**بالنسبة للعديد من شركات SaaS، فإن عدم صحة مقياس القيمة الدائمة يفوق القيمة التي يفترض أنه يمنحها.**
 
-The definition of LTV is the "Total gross profit the customer will generate over its lifetime." "Gross profit" means "Income after deducting expenses that are required to deliver the product," including tech support and infrastructure (for SaaS products) and cost of materials (for physical products). It does not include the costs of sales and marketing, nor the costs of development, or any other costs of running the business.
+تعريف القيمة الدائمة هو "إجمالي الربح الذي سيحققه العميل على مدار حياته". "إجمالي الربح" يعني "الدخل بعد خصم النفقات المطلوبة لتسليم المنتج"، بما في ذلك الدعم الفني والبنية التحتية (لمنتجات SaaS) وتكلفة المواد (للمنتجات المادية). ولا تشمل تكاليف المبيعات والتسويق، ولا تكاليف التطوير، أو أي تكاليف أخرى لإدارة الأعمال.
 
-The formula is:
+الصيغة هي:
 
-$$\text{LTV} = \text{MRR} \times \text{GPM} \times \text{Lifetime}_{\text{Months}}$$
+$$\text{LTV} = \text{MRR} \times \text{GPM} \times \text{Lifetime}_{\text{أشهر}}$$
 
-Or, since typically we're estimating the average lifespan of a customer from our monthly cancellation rate:
+أو، نظرًا لأننا نقوم عادةً بتقدير متوسط ​​عمر العميل من معدل الإلغاء الشهري لدينا:
 
-$$\text{LTV} = \frac{\text{MRR} \times \text{GPM}}{\text{Cancellation}_{\text{Monthly}}}$$
+$$\text{LTV} = \frac{\text{MRR} \times \text{GPM}}{\text{إلغاء}_{\text{شهرياً}}}$$
 
-LTV is commonly used to determine how much you can spend to acquire a new customer (CAC). In particular, if it costs more than LTV, then the business is unprofitable even at scale, and over ten years. Whereas if, say, $\text{LTV} = 3 \times \text{CAC}$, then even if we're unprofitable at first (as it takes months of revenue to pay back the cost to acquire the customer), we will be profitable in the long run (as a large percentage of our customer base has already paid back CAC). (See [this article on annual pricing](https://longform.asmartbear.com/annual-prepay/) for pictures of this effect, and how different pricing can change the effect.)
+تُستخدم القيمة الدائمة بشكل شائع لتحديد المبلغ الذي يمكنك إنفاقه لاكتساب عميل جديد (CAC). على وجه الخصوص، إذا كانت تكلفته أكثر من القيمة الدائمة، فإن العمل يكون غير مربح حتى على نطاق واسع، وعلى مدى عشر سنوات. في حين أنه، على سبيل المثال، $\text{LTV} = 3 \times \text{CAC}$، فحتى لو لم نحقق ربحًا في البداية (حيث يستغرق الأمر أشهرًا من الإيرادات لسداد تكلفة الاستحواذ على العميل)، فسوف نحقق ربحًا على المدى الطويل (حيث أن نسبة كبيرة من قاعدة عملائنا قد سددت بالفعل CAC). (راجع [هذه المقالة حول التسعير السنوي](https://longform.asmartbear.com/annual-prepay/) للحصول على صور لهذا التأثير، وكيف يمكن للتسعير المختلف أن يغير التأثير.)
 
-Using LTV in a business decision--like how much we can spend to acquire a new customer--implies that the lifetime gross revenue from a customer is know-able today. Clearly, though, it isn't.
+إن استخدام القيمة الدائمة في اتخاذ قرار تجاري - مثل المبلغ الذي يمكننا إنفاقه لاكتساب عميل جديد - يعني ضمناً أن إجمالي الإيرادات من العميل على مدى الحياة يمكن معرفتها اليوم. ومن الواضح أن الأمر ليس كذلك.
 
-**Every component of LTV changes over time:**
+**يتغير كل عنصر من عناصر القيمة الدائمة بمرور الوقت:**
 
-* MRR--changes due to how systematic you are at upgrades, your ability to cross-sell, growing/shrinking within each customer, per-use charges, the percentage of the customer base belonging to different customer segments.
-* GPM--efficiency of the service, which for small companies can change by 30% in a year and even large stable companies can move by 1% per year.
-* Cancellation Rate--hopefully [shrinking as the company improves](https://longform.asmartbear.com/product-market-fit/) the product and service to address the causes of cancellation, but over a time-frame of years, this can change dramatically with advent of new competitors, shrinking market, different technology, or mixing different customer demographics as you grow into [adjacent markets](https://longform.asmartbear.com/adjacency/).
+* MRR - التغييرات بسبب مدى انتظامك في الترقيات، وقدرتك على البيع المتبادل، والنمو/التقلص داخل كل عميل، ورسوم كل استخدام، والنسبة المئوية لقاعدة العملاء التي تنتمي إلى شرائح العملاء المختلفة.
+* GPM - كفاءة الخدمة، والتي يمكن أن تتغير بالنسبة للشركات الصغيرة بنسبة 30% خلال عام وحتى الشركات الكبيرة المستقرة يمكن أن تتغير بنسبة 1% سنويًا.
+* معدل الإلغاء - نأمل أن [ينكمش مع تحسن الشركة](https://longform.asmartbear.com/product-market-fit/) المنتج والخدمة لمعالجة أسباب الإلغاء، ولكن على مدى فترة زمنية من السنوات، يمكن أن يتغير هذا بشكل كبير مع ظهور منافسين جدد، أو تقلص السوق، أو التكنولوجيا المختلفة، أو خلط التركيبة السكانية المختلفة للعملاء مع نموك إلى [مجاورة] الأسواق](https://longform.asmartbear.com/adjacency/).
 
-For example, HubSpot famously had a low LTV, but increased in 3x in 18 months.[^1] That's a big swing in a metric that purports to summarize the next ten years.
+على سبيل المثال، من المعروف أن HubSpot كان لديه قيمة دائمة منخفضة، ولكنه زاد بمقدار 3 أضعاف خلال 18 شهرًا.[^1] يعد هذا تأرجحًا كبيرًا في المقياس الذي يهدف إلى تلخيص السنوات العشر القادمة.
 
-[^1]: Documented in David Skok's famous [SaaS metrics overview](https://www.forentrepreneurs.com/saas-metrics-2/).
+[^1]: تم توثيقه في [نظرة عامة على مقاييس SaaS] الشهيرة لديفيد سكوك (https://www.forentrepreneurs.com/saas-metrics-2/).
 
-Three variables, all changing, unpredictably, which you multiply together and.... you expect the result to *mean* something?
+ثلاثة متغيرات، كلها تتغير، بشكل غير متوقع، والتي تقوم بضربها معًا و.... هل تتوقع أن النتيجة *تعني* شيئًا ما؟
 
-When you treat a number as being stable and solid, when in fact it can vary by 2x in a year through normal business activity, you make poor decisions. So for example when you read "An LTV:CAC ratio of 3:1 is healthy," if your LTV metric can't be trusted, neither can that formula. Your might believe you're being efficient in acquiring customers, only to find [your growth is capped](https://longform.asmartbear.com/max-mrr/), or that you're [not profitable even at scale](https://longform.asmartbear.com/ssebitda/).
+عندما تتعامل مع رقم ما على أنه مستقر وثابت، في حين أنه في الواقع يمكن أن يتغير بمقدار 2x في السنة من خلال النشاط التجاري العادي، فإنك تتخذ قرارات سيئة. لذا، على سبيل المثال، عندما تقرأ "نسبة LTV:CAC البالغة 3:1 صحية"، إذا كان لا يمكن الوثوق بمقياس LTV الخاص بك، فلا يمكن الوثوق بهذه الصيغة أيضًا. قد تعتقد أنك فعال في اكتساب العملاء، فقط لتكتشف أن [نموك محدود](https://longform.asmartbear.com/max-mrr/)، أو أنك [غير مربح حتى على نطاق واسع](https://longform.asmartbear.com/ssebitda/).
 
 ![so you gonna rush in or what](https://public.asmartbear.com/books/anthology/chapters/ltv/d6048print-simple.png)
 
-## What should you do instead?
+## ماذا يجب أن تفعل بدلا من ذلك؟
 
-Every "insight" that LTV is supposed to give you, you can get from different metrics that work better, because they don't involve long time horizons. And they point to actions you can take.
+كل "فكرة" من المفترض أن يقدمها لك LTV، يمكنك الحصول عليها من مقاييس مختلفة تعمل بشكل أفضل، لأنها لا تتضمن آفاقًا زمنية طويلة. ويشيرون إلى الإجراءات التي يمكنك اتخاذها.
 
-For example, take the original question: "What is a reasonable CAC?" The typical answer is "LTV/CAC should be at least 3 for healthy companies, and 5 is very good."
+على سبيل المثال، خذ السؤال الأصلي: "ما هو CAC المعقول؟" الإجابة النموذجية هي "LTV/CAC يجب أن تكون على الأقل 3 للشركات السليمة، و5 جيدة جدًا."
 
-But you can also compute what CAC is "reasonable" by thinking in terms of pay-back period $p = \frac{\text{CAC}}{\text{MRR}}$, which is the number of months it takes before a single customer becomes profitable, because we have received (in revenue) the cost (in CAC). Or better, in my opinion, $p = \frac{\text{CAC}}{\text{MRR} \times \text{GPM}}$, so that we're accounting for the costs to serve those customers.
+ولكن يمكنك أيضًا حساب ما هو CAC "معقول" من خلال التفكير في فترة الاسترداد $p = \frac{\text{CAC}}{\text{MRR}}$، وهو عدد الأشهر التي يستغرقها قبل أن يصبح عميل واحد مربحًا، لأننا تلقينا (في الإيرادات) التكلفة (في CAC). أو الأفضل، في رأيي، $p = \frac{\text{CAC}}{\text{MRR} \times \text{GPM}}$، بحيث نحسب تكاليف خدمة هؤلاء العملاء.
 
-This payback period is also useful to see [why annual prepayments are far smarter than you might think](https://longform.asmartbear.com/annual-prepay/), and for the metric [COC (Cost Of Cancellation)](https://longform.asmartbear.com/coc/), which leads to more insights into how cancellation affects the cost of growth, and for the [Max-MRR metric](https://longform.asmartbear.com/max-mrr/), which leads to insights into how cancellation affects your maximum size. LTV doesn't lead us to any of those insights.
+تعد فترة الاسترداد هذه مفيدة أيضًا لمعرفة [لماذا تعد الدفعات المسبقة السنوية أكثر ذكاءً بكثير مما قد تعتقد](https://longform.asmartbear.com/annual-prepay/)، وبالنسبة للمقياس [COC (تكلفة الإلغاء)](https://longform.asmartbear.com/coc/)، مما يؤدي إلى مزيد من الرؤى حول كيفية تأثير الإلغاء على تكلفة النمو، وبالنسبة إلى [Max-MRR متري](https://longform.asmartbear.com/max-mrr/)، مما يؤدي إلى الحصول على رؤى حول كيفية تأثير الإلغاء على الحد الأقصى للحجم. LTV لا يقودنا إلى أي من هذه الأفكار.
 
-A good rule of thumb with pay-back period is that 6 months is fine, 3 months is fantastic, and 12+ months is poor unless (1) there's indirect strategic benefit, e.g. branding, (2) efficiency is improving so we want to stick with it, (3) it is a mature company or with larger business customers where you can justify an assumption of 5-10 years of revenue per customer.
+القاعدة الأساسية الجيدة فيما يتعلق بفترة الاسترداد هي أن 6 أشهر جيدة، و3 أشهر رائعة، وأكثر من 12 شهرًا سيئة ما لم (1) هناك فائدة استراتيجية غير مباشرة، على سبيل المثال. العلامة التجارية، (2) الكفاءة تتحسن لذا نريد الالتزام بها، (3) أنها شركة ناضجة أو مع عملاء تجاريين أكبر حيث يمكنك تبرير افتراض 5-10 سنوات من الإيرادات لكل عميل.
 
-Another use of LTV is: A measure of dollars earned by the company over the long run, and thus something that ought to be going up over time. True, but in practice I find you *always* need to know the values of the individual components to truly know whether the company is healthy.
+الاستخدام الآخر للقيمة الدائمة هو: مقياس الدولارات التي تكسبها الشركة على المدى الطويل، وبالتالي شيء يجب أن يرتفع بمرور الوقت. صحيح، ولكن من الناحية العملية أجد أنك *دائمًا* بحاجة إلى معرفة قيم المكونات الفردية لمعرفة ما إذا كانت الشركة سليمة أم لا.
 
-For example, if LTV is steady, is that OK? If all the components are steady, maybe that's OK. But what if GPM is improving due to investment in cost-cutting measures while cancellations are increasing, and thus LTV is stable. Is that good? Heck no! Your customers are pissed. Or what if MRR is increasing because you're landing larger customers, but GPM is decreasing because you're very inefficient at serving them? That's both good news and bad news, and points out that you need more efficiency work right now, or you need to raise money so that you can remain devoted to growth for the next few years.
+على سبيل المثال، إذا كانت القيمة الدائمة ثابتة، فهل هذا جيد؟ إذا كانت جميع المكونات ثابتة، فربما يكون ذلك جيدًا. ولكن ماذا لو كان GPM يتحسن بسبب الاستثمار في تدابير خفض التكاليف بينما تتزايد عمليات الإلغاء، وبالتالي يكون LTV مستقرًا. هل هذا جيد؟ هيك لا! عملاؤك غاضبون. أو ماذا لو كان MRR يتزايد لأنك تجذب عملاء أكبر، ولكن GPM يتناقص لأنك غير فعال للغاية في خدمتهم؟ هذه أخبار جيدة وأخبار سيئة في نفس الوقت، وتشير إلى أنك تحتاج إلى مزيد من الكفاءة في العمل الآن، أو تحتاج إلى جمع الأموال حتى تتمكن من البقاء مخلصًا للنمو خلال السنوات القليلة المقبلة.
 
-Thus, measuring MRR, cancellations, GPM, and CAC individually are always necessary. Sure you can combine them into a number, but I think that only serves to hide data, hide insights, not help "get a handle on the business."
+وبالتالي، فإن قياس MRR، والإلغاءات، وGPM، وCAC بشكل فردي ضروري دائمًا. بالتأكيد يمكنك دمجها في رقم، ولكن أعتقد أن هذا لا يؤدي إلا إلى إخفاء البيانات، وإخفاء الأفكار، وليس المساعدة في "السيطرة على العمل".

@@ -20,41 +20,28 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كيف تبرز وتلفت الأنظار وسط الضجيج التسويقي الصاخب تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+مهما كان شعورك تجاه سنوب دوج، عليك أن تعترف بأنه جيد في إنتاج أرقام قياسية.
 
----
-
-### النص المرجعي للمقال (Original Reference):
-# Standing out from the noise
-
-> **Executive Summary:** Ensure your pitch works even in our noisy, distracting, multi-tasking world.
-> **Original URL:** [https://longform.asmartbear.com/standing-out-from-the-noise/](https://longform.asmartbear.com/standing-out-from-the-noise/)
-
-However you feel about Snoop Dogg, you have to admit he's good at producing hit records.
-
-Mr. Snoop is inundated by new artists vying for his attention. A nod from the great Dee-Oh-Dubba-Gee can launch a career. On MTV Cribs, the Doggfather showed us how he vets sample tracks. It's not what you think--a sound-proof room with a dizzying array of equalizer knobs and $50,000 speakers. No, he takes these tracks and plays them on a little cassette player on the floor.
+السيد سنوب غارق في الفنانين الجدد الذين يتنافسون على جذب انتباهه. يمكن لإشارة من Dee-Oh-Dubba-Gee العظيم أن تبدأ مسيرة مهنية. على MTV Cribs، أظهر لنا The Doggfather كيف يقوم بفحص عينات المسارات. إنها ليست ما تعتقده - غرفة عازلة للصوت بها مجموعة مذهلة من مقابض موازن الصوت ومكبرات صوت بقيمة 50 ألف دولار. لا، إنه يأخذ هذه المقطوعات ويشغلها على مشغل كاسيت صغير على الأرض.
 
 ![stereo](https://longform.asmartbear.com/standing-out-from-the-noise/33dd384d.png)
 
-A *cassette* player. *On the floor*. Turned up a little too high so it crackles and distorts during the loud parts.
+* مشغل كاسيت . *على الأرض*. تم رفعه إلى مستوى عالٍ جدًا بحيث يتشقق ويتشوه أثناء الأجزاء الصاخبة.
 
-Why? Because songs have to sound good even on a cheap car stereo with distractions and tiny speakers and an obnoxious guy in the back spilling you-don't-want-to-know-what on your velour seat covers.
+لماذا؟ لأن الأغاني يجب أن تبدو جيدة حتى على جهاز استريو السيارة الرخيص مع عوامل التشتيت ومكبرات الصوت الصغيرة ورجل بغيض في الخلف يسكب ما لا تريد أن تعرفه على أغطية مقاعدك المخملية.
 
-So how do you get a song to sound good in the real world? Music producers suggest that you should use [crappy speakers when mixing tracks](http://www.moriartyrecording.com/article/mix-records-crap-speakers). If it sounds good on crap, it will sound good anywhere.
+إذًا كيف يمكنك جعل الأغنية تبدو جيدة في العالم الحقيقي؟ يقترح منتجو الموسيقى أنه يجب عليك استخدام [مكبرات صوت رديئة عند مزج المقاطع الصوتية](http://www.moriartyrecording.com/article/mix-records-crap-speakers). إذا بدا جيدًا في التفاهات، فسيبدو جيدًا في أي مكان.
 
-This principle applies in an odd way to your company's pitch. As much as you'd like to believe otherwise, your prospective customers have as many distractions as a group of teenagers listening to the car stereo.
+ينطبق هذا المبدأ بطريقة غريبة على عرض شركتك. بقدر ما ترغب في تصديق خلاف ذلك، فإن عملائك المحتملين لديهم العديد من عوامل التشتيت مثل مجموعة من المراهقين الذين يستمعون إلى ستيريو السيارة.
 
-This is true regardless of the medium. Your web page competes with announcements of "You've got mail," instant messages about funny YouTube videos, and the ultimate escape of the "back" button. Your magazine ad competes with a ringing phone and the pull of a more interesting picture on the next page. Your 10-second pitch at parties and tradeshows is dulled by cocktails, the din of the room, and the more interesting story in the adjoining conversation.
+وهذا صحيح بغض النظر عن الوسيط. تتنافس صفحة الويب الخاصة بك مع إعلانات "لقد حصلت على بريد"، ورسائل فورية حول مقاطع فيديو YouTube المضحكة، والهروب النهائي من زر "الرجوع". يتنافس إعلان مجلتك مع رنين الهاتف وسحب صورة أكثر إثارة للاهتمام في الصفحة التالية. إن عرضك التقديمي الذي يستغرق 10 ثوانٍ في الحفلات والمعارض التجارية يكون باهتًا بسبب الكوكتيلات وضجيج الغرفة والقصة الأكثر إثارة للاهتمام في المحادثة المجاورة.
 
-These aren't even "competitors" in the "products, features, services, benefits" sense. It's competition for *attention*.
+هؤلاء ليسوا حتى "منافسين" بمعنى "المنتجات والميزات والخدمات والفوائد". إنها المنافسة على *الانتباه*.
 
-So what can you do about it? A few quick ideas:
+إذن ماذا يمكنك أن تفعل حيال ذلك؟ بعض الأفكار السريعة:
 
-* Record your pitch in a noisy environment (a bar, a playground). Play it back; does it still make sense when you can only make out sixty percent of the syllables? Ask ~~victims~~ friends to point out what's engaging and what's not.
-* Lay your printed material on a table and cover up different parts of it with a magazine. Your entire message doesn't need to shine through, but is it eye-catching enough for someone to notice the fragments, to become interested?
-* Use marketing techniques that repeat a message. Distractions and other priorities will come between you and your target most of the time. Repeating often enough (using newsletters, blog, Twitter, Facebook) can push *some* of your communications through the chaos.
+* سجل عرضك في بيئة صاخبة (بار، ملعب). تشغيلها مرة أخرى؛ هل لا يزال من المنطقي أن تتمكن من تمييز ستين بالمائة فقط من المقاطع؟ اطلب من أصدقاء ~~الضحايا~~ أن يشيروا إلى ما هو جذاب وما هو غير جذاب.
+* ضع المواد المطبوعة على الطاولة وقم بتغطية أجزاء مختلفة منها بمجلة. ليس من الضروري أن يتم تسليط الضوء على رسالتك بأكملها، ولكن هل هي ملفتة للنظر بدرجة كافية حتى يلاحظ شخص ما الأجزاء، ويصبح مهتمًا بها؟
+* استخدم تقنيات التسويق التي تكرر الرسالة. سوف تأتي عوامل التشتيت والأولويات الأخرى بينك وبين هدفك في معظم الأوقات. إن التكرار بشكل كافٍ (باستخدام النشرات الإخبارية والمدونات وتويتر وفيسبوك) يمكن أن يدفع *بعضًا* من اتصالاتك إلى حالة من الفوضى.
 
-It's not enough to be compelling when you have 60 uninterrupted, full-attention seconds.  Your pitch has to work in the noise.
+لا يكفي أن تكون مقنعًا عندما يكون لديك 60 ثانية متواصلة من الاهتمام الكامل.  الملعب الخاص بك يجب أن تعمل في الضوضاء.

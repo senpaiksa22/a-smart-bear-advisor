@@ -20,152 +20,139 @@ summary_ar: "\"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** عملاؤك يكرهون نماذج MVP الناقصة: ابنِ بدلاً منها منتجاً بسيطاً ومكتملاً ومحبوباً (SLC) تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Your customers hate MVPs. Make a SLC instead.
-
-> **Executive Summary:** "MVP" implies a selfish process, abusing customers so you can "learn". Instead, make the first version SLC: Simple, Lovable, and Complete".
-> **Original URL:** [https://longform.asmartbear.com/slc/](https://longform.asmartbear.com/slc/)
-
 ![easy follow rules more difficult implement than youd think](https://public.asmartbear.com/books/anthology/chapters/slc/d7670print-simple.png)
 
-## Disillusioned with MVP
+## بخيبة أمل مع MVP
 
-Product teams have been repeating the [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) (Minimum Viable Product) mantra for a decade now, without re-evaluating whether it's the right way to maximize learning while pleasing the customer.
+تكرر فرق المنتجات شعار [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) (الحد الأدنى للمنتج القابل للحياة) منذ عقد من الزمن، دون إعادة تقييم ما إذا كانت هذه هي الطريقة الصحيحة لتحقيق أقصى قدر من التعلم مع إرضاء العميل.
 
-Well, it's not the best system. It's selfish and it hurts customers. We don't build MVPs at WP Engine.
+حسنًا، إنه ليس النظام الأفضل. إنها أنانية وتؤذي العملاء. نحن لا نبني أفضل اللاعبين في WP Engine.
 
-The motivation behind the MVP is still valid:
+لا يزال الدافع وراء MVP صالحًا:
 
-1. Build something small, because small things are quick and inexpensive to test.
-2. Get it into the market quickly, because real learning occurs only when real customers are using a real product.
-3. Trash it or hard-pivot if it's a [failure](https://longform.asmartbear.com/fail/), or invest if it's a seedling with potential.
+1. قم ببناء شيء صغير، لأن اختبار الأشياء الصغيرة سريع وغير مكلف.
+2. أدخله إلى السوق بسرعة، لأن التعلم الحقيقي يحدث فقط عندما يستخدم العملاء الحقيقيون منتجًا حقيقيًا.
+3. قم برميها في المهملات أو قم بتدويرها إذا كانت [فاشلة](https://longform.asmartbear.com/fail/)، أو استثمرها إذا كانت شتلة ذات إمكانات.
 
-MVPs are great for startups and product teams because they maximize so-called "validated learning" as quickly as possible. And while [customer interviews](https://longform.asmartbear.com/customer-development/) are useful, you learn new things when a customer actually uses the product. But MVPs are a selfish act.
+تعد MVPs رائعة للشركات الناشئة وفرق المنتجات لأنها تعمل على زيادة ما يسمى "التعلم المعتمد" في أسرع وقت ممكن. وعلى الرغم من أن [المقابلات مع العملاء](https://longform.asmartbear.com/customer-development/) مفيدة، إلا أنك تتعلم أشياء جديدة عندما يستخدم العميل المنتج فعليًا. لكن أفضل اللاعبين هو عمل أناني.
 
-**The problem is: Customers hate MVPs.** Startups are encouraged by the great [Reid Hoffman](https://twitter.com/reidhoffman) to "launch early enough that you're embarrassed by your v1.0 release." But no customer wants to use an unfinished product that the creators are embarrassed by. Customers want *great* products they can use *now*.
+**المشكلة هي: العملاء يكرهون أفضل اللاعبين.** يتم تشجيع الشركات الناشئة من قبل [ريد هوفمان] العظيم (https://twitter.com/reidhoffman) على "الإطلاق في وقت مبكر بما يكفي بحيث تشعر بالحرج من إصدار v1.0 الخاص بك." ولكن لا يوجد عميل يرغب في استخدام منتج غير مكتمل يشعر المبدعون بالحرج منه. يريد العملاء منتجات *رائعة* يمكنهم استخدامها *الآن*.
 
-MVPs are too M and rarely V. Customers see that, and hate it. It might be great for the product team, but it's bad for customers. And ultimately, what's bad for customers is bad for the company.
+MVPs هم M جدًا ونادرا ما يكون V. يرى العملاء ذلك ويكرهونه. قد يكون هذا أمرًا رائعًا لفريق المنتج، ولكنه سيئ للعملاء. وفي نهاية المطاف، ما هو سيء للعملاء هو سيء للشركة.
 
-**Fortunately, there's a better way to build and validate products.** The insight comes from honoring the utility of MVPs (listed above) while giving just as much consideration to the customer's experience.
+**لحسن الحظ، هناك طريقة أفضل لبناء المنتجات والتحقق من صحتها.** تأتي هذه الرؤية من تكريم فائدة MVPs (المذكورة أعلاه) مع إيلاء نفس القدر من الاهتمام لتجربة العميل.
 
-## SLC: Simple, Lovable, Complete
+## SLC: بسيط، محبوب، كامل
 
-In order for the product to be small and delivered quickly, it has to be **simple**. Customers accept simple products every day. Even if it doesn't do everything needed, as long as the product never *claimed* to do more than it does, customers are forgiving. For example, it was okay that early versions Google Docs had only 3% of the features of Microsoft Word, because Docs did a great job at what it was primarily designed for, which is simplicity and real-time collaboration.
+لكي يكون المنتج صغيرًا ويتم تسليمه بسرعة، يجب أن يكون **بسيطًا**. يقبل العملاء المنتجات البسيطة كل يوم. حتى لو لم يفعل كل ما هو مطلوب، طالما أن المنتج لم *يزعم* أبدًا أنه يفعل أكثر مما يفعل، فإن العملاء متسامحون. على سبيل المثال، كان من المقبول أن تحتوي الإصدارات الأولى من Google Docs على 3% فقط من ميزات Microsoft Word، لأن Docs قام بعمل رائع فيما تم تصميمه في المقام الأول من أجله، وهو البساطة والتعاون في الوقت الفعلي.
 
-Google Docs was simple, but also **complete**. This is decidedly different from the classic MVP, which by definition isn't complete (in fact, it's "embarrassing"). "Simple" is good, "incomplete" is not. The customer should have a genuine desire to use the product, *as-is*. Not because it's version 0.1 of something complex, but because it's version 1.0 of something simple.
+كان محرر مستندات Google بسيطًا، ولكنه أيضًا **كامل**. وهذا يختلف بالتأكيد عن MVP الكلاسيكي، والذي بحكم تعريفه ليس كاملاً (في الواقع، إنه "محرج"). "بسيط" جيد، "غير مكتمل" ليس كذلك. يجب أن يكون لدى العميل رغبة حقيقية في استخدام المنتج، *كما هو*. ليس لأنه الإصدار 0.1 من شيء معقد، ولكن لأنه الإصدار 1.0 من شيء بسيط.
 
-It is not contradictory for products to be simple as well as complete. Examples include the first versions of WhatsApp, Snapchat, Stripe, Twilio, Twitter, and Slack. Some of those later expanded to add complexity (Snapchat, Stripe, Slack), whereas some kept it simple as a permanent value (Twitter, WhatsApp). Virgin Air and Southwest Airlines both started with just one route. Southwest Airlines is the most profitable US airline in history. Small, but complete.
+ليس من المتناقض أن تكون المنتجات بسيطة وكاملة. تشمل الأمثلة الإصدارات الأولى من WhatsApp وSnapchat وStripe وTwilio وTwitter وSlack. توسعت بعض هذه الشركات لاحقًا لإضافة التعقيد (Snapchat، Stripe، Slack)، في حين أبقت البعض الآخر الأمر بسيطًا كقيمة دائمة (Twitter، WhatsApp). بدأت كل من شركتي فيرجين إير وساوث ويست إيرلاينز بطريق واحد فقط. خطوط ساوثويست الجوية هي شركة الطيران الأمريكية الأكثر ربحية في التاريخ. صغيرة ولكنها كاملة.
 
-The final ingredient, and the one most unlike MVP, is for the product to be **lovable**. People have to *want* to use it. Products that do less but are loved, are more successful than products which have more features and are disliked. The original, very-low-feature, very-highly-loved, hyper-successful early versions of all the products listed in the previous paragraph are examples. The [Darwinian success loop](https://longform.asmartbear.com/going-viral/) of a product is a function of love, not of features.
+العنصر الأخير، والأكثر اختلافًا عن MVP، هو أن يكون المنتج **محبوبًا**. يجب على الناس *الرغبة* في استخدامه. المنتجات التي تقدم أداءً أقل ولكنها محبوبة تكون أكثر نجاحًا من المنتجات التي تحتوي على ميزات أكثر والتي لا تحظى بشعبية. تعتبر الإصدارات الأصلية، ذات الميزات المنخفضة جدًا، والمحبوبة للغاية، والإصدارات المبكرة الناجحة جدًا لجميع المنتجات المدرجة في الفقرة السابقة أمثلة على ذلك. إن [حلقة النجاح الداروينية](https://longform.asmartbear.com/going-viral/) للمنتج هي نتيجة للحب، وليس للميزات.
 
-There are many ways to generate love. "Minimum" and "viable" are definitely *not* among those ways. The current-in-vogue way is through design: Elegant UX combined with delightful UI. But there are other ways. The attitude and culture of the company itself can generate love, such as [Buffer's blog](https://blog.bufferapp.com/) with its delightfully shocking transparency (including open salaries and corporate metrics) or [MeetEdgar's blog](https://meetedgar.com/blog/) genuinely helping entrepreneurs or [HubSpot's blog](https://blog.hubspot.com/) which early on was at least as instrumental to their customers' success as the actual product. Another way is through a deep connection to the psyche of customers, like Heroku who broke with marketing tradition by filling the homepage with command-line examples instead of benefit-statements, thereby connecting instantly with their geeky target customer:
+هناك طرق عديدة لتوليد الحب. من المؤكد أن "الحد الأدنى" و"الصالح" ليسا من بين تلك الطرق. الطريقة الحالية هي من خلال التصميم: تجربة المستخدم الأنيقة جنبًا إلى جنب مع واجهة المستخدم المبهجة. ولكن هناك طرق أخرى. يمكن لسلوك الشركة وثقافتها نفسها أن تولد الحب، مثل [مدونة Buffer](https://blog.bufferapp.com/) بشفافيتها المذهلة (بما في ذلك الرواتب المفتوحة ومقاييس الشركة) أو [مدونة MeetEdgar](https://meetedgar.com/blog/) التي تساعد رواد الأعمال حقًا أو [مدونة HubSpot](https://blog.hubspot.com/) التي كانت في وقت مبكر على الأقل مفيدة لرواد الأعمال. نجاح عملائهم كالمنتج الفعلي. هناك طريقة أخرى وهي من خلال الاتصال العميق بنفسية العملاء، مثل Heroku الذي كسر تقاليد التسويق من خلال ملء الصفحة الرئيسية بأمثلة سطر الأوامر بدلاً من بيانات الفوائد، وبالتالي التواصل الفوري مع العميل المستهدف العبقري غريب الأطوار:
 
 ![Screenshot of Heroku home page with command-line commands](https://public.asmartbear.com/books/anthology/chapters/slc/platform-simple.png)
 
-[Read about "WTP"](https://longform.asmartbear.com/willingness-to-pay/) for many more examples of how to generate love.
+[اقرأ عن "WTP"](https://longform.asmartbear.com/willingness-to-pay/) للحصول على العديد من الأمثلة حول كيفية توليد الحب.
 
-From this reasoning, years ago I named what I believe is the correct alternative to the MVP: Simple, Lovable and Complete (**SLC**). We pronounce it "Slick." As in: "What's the 'Slick' version of your idea?"
+ومن هذا المنطق، قمت قبل سنوات بتسمية ما أعتقد أنه البديل الصحيح لـ MVP: بسيط ومحبوب وكامل (**SLC**). نحن ننطقها "Slick". كما في: "ما هي النسخة "Slick" من فكرتك؟"
 
-### SLC Summary
+### ملخص SLC
 
-**<u>S</u>imple**, because complex things can't be built quickly, and you must ship quickly so you can learn quickly so you can create the right product before you run out of money and willpower.
+**<u>بسيط</u>بسيط**، لأن الأشياء المعقدة لا يمكن بناؤها بسرعة، ويجب عليك الشحن بسرعة حتى تتمكن من التعلم بسرعة حتى تتمكن من إنشاء المنتج المناسب قبل نفاد المال وقوة الإرادة.
 
-**<u>L</u>ovable**, because crappy products are insulting, and you didn't start this company to make crappy products. The love overpowers the fact that the product is buggy and feature-poor. There are many [wonderful, powerful, competitively-defensible forms of "Love."](https://longform.asmartbear.com/willingness-to-pay/) Pick some.
+**<u>محبوب</u>ovable**، لأن المنتجات الرديئة مهينة، وأنت لم تبدأ هذه الشركة لتصنيع منتجات رديئة. يتغلب الحب على حقيقة أن المنتج به عربات التي تجرها الدواب وسيئ الميزات. هناك العديد من [أشكال "الحب الرائعة والقوية والتي يمكن الدفاع عنها بشكل تنافسي."](https://longform.asmartbear.com/willingness-to-pay/) اختر بعضًا منها.
 
-**<u>C</u>omplete**, because products are supposed to accomplish a job. Customers want to use a v1 of something simple, not v0.1 of something broken.
+**<u>مكتمل</u>كامل**، لأن المنتجات من المفترض أن تنجز مهمة ما. يرغب العملاء في استخدام الإصدار 1 من شيء بسيط، وليس الإصدار 0.1 من شيء معطل.
 
-## Life after SLC
+## الحياة بعد SLC
 
-Another benefit of SLC becomes apparent when you consider the next version of the product.
+تظهر فائدة أخرى لـ SLC عندما تفكر في الإصدار التالي من المنتج.
 
-A SLC product does not require on-going development. It is possible that v1 should evolve for years into a v4, but you also have the option of *not* investing further, yet the product still creates value. An MVP that never gets additional investment is just a bad product. A SLC that never gets additional investment is a good, if modest product.
+لا يتطلب منتج SLC التطوير المستمر. من الممكن أن يتطور الإصدار 1 لسنوات إلى الإصدار 4، ولكن لديك أيضًا خيار *عدم* الاستثمار بشكل أكبر، ومع ذلك لا يزال المنتج يخلق قيمة. إن منتج MVP الذي لا يحصل أبدًا على استثمار إضافي هو مجرد منتج سيئ. إن شركة SLC التي لا تحصل أبدًا على استثمار إضافي هي منتج جيد، وإن كان متواضعًا.
 
-Many of the most successful software products in the world started as SLC, then grew in complexity, including examples we've already given (Google Docs and Snapchat).
+بدأت العديد من منتجات البرامج الأكثر نجاحًا في العالم باسم SLC، ثم تطورت من حيث التعقيد، بما في ذلك الأمثلة التي قدمناها بالفعل (Google Docs وSnapchat).
 
-The first iteration of Snapchat was a screen where tapping anywhere took a picture, that you could then send to someone else, at which time it disappeared. No video, no filters, no social networking, no commenting and no storage--Simple, yet Lovable and Complete, as evidenced by its rapid adoption. The insight of "no storage" was critical, but many people have theorized that the simplicity of the interface was also critical. The very fact that it was simple, while not sacrificing love-ability or completeness, caused its success.
+كان الإصدار الأول من Snapchat عبارة عن شاشة حيث يؤدي النقر في أي مكان إلى التقاط صورة، ويمكنك بعد ذلك إرسالها إلى شخص آخر، وفي ذلك الوقت اختفت. لا يوجد فيديو، ولا مرشحات، ولا شبكات اجتماعية، ولا تعليق ولا تخزين - بسيط، ولكنه محبوب وكامل، كما يتضح من اعتماده السريع. كانت فكرة "عدم وجود مساحة تخزين" أمرًا بالغ الأهمية، لكن العديد من الأشخاص افترضوا أن بساطة الواجهة كانت أيضًا أمرًا بالغ الأهمية. حقيقة أنها كانت بسيطة، مع عدم التضحية بقدرة الحب أو الكمال، تسببت في نجاحها.
 
-Later they added lots of stuff--video, filters, timelines, "stories", even video cameras inside sunglasses. It's OK for products to become complex. Starting out SLC does not preclude becoming complex later.
+وفي وقت لاحق أضافوا الكثير من الأشياء - الفيديو، والمرشحات، والجداول الزمنية، "القصص"، وحتى كاميرات الفيديو داخل النظارات الشمسية. لا بأس أن تصبح المنتجات معقدة. البدء في SLC لا يمنع أن يصبح معقدًا لاحقًا.
 
-WhatsApp was similar; it started with just a status message. Not a "post", not a "chat", no "timelines", no "history". Just "What's up?", hence the name of the app. They found people abusing the system to communicate with each other without paying for SMS messages, so they added chat. Dropbox started with just one folder that would (eventually!) sync across devices. Twitter had only the 140-character messages; things like replies and re-tweets were invented by users, implemented by convention, and only later folded back into the platform as built-in features. The examples go on and on.
+كان واتساب مشابهًا؛ لقد بدأ الأمر برسالة حالة فقط. ليست "منشورًا"، وليست "دردشة"، ولا "جداول زمنية"، ولا "سجل". فقط "ما الأمر؟"، ومن هنا جاء اسم التطبيق. ووجدوا أشخاصًا يسيئون استخدام النظام للتواصل مع بعضهم البعض دون الدفع مقابل الرسائل النصية القصيرة، لذلك أضافوا الدردشة. بدأ Dropbox بمجلد واحد فقط يمكن (في النهاية!) مزامنته عبر الأجهزة. كان لدى تويتر رسائل مكونة من 140 حرفًا فقط؛ أشياء مثل الردود وإعادة التغريدات اخترعها المستخدمون، وتم تنفيذها وفقًا للاتفاقية، ولم يتم دمجها مرة أخرى في النظام الأساسي إلا لاحقًا كميزات مدمجة. الأمثلة تطول وتطول.
 
-## SLC breaks Maslow's Product Hierarchy of Needs
+## يكسر SLC التسلسل الهرمي للاحتياجات في منتج ماسلو
 
-People erroneously believe that product development should work like Abraham Maslow's Hierarchy of Needs:
+يعتقد الناس خطأً أن تطوير المنتج يجب أن يعمل مثل التسلسل الهرمي للاحتياجات الذي وضعه أبراهام ماسلو:
 
 ![Maslow's Hierarchy of Needs](https://public.asmartbear.com/books/anthology/chapters/slc/maslows-hierarchy-of-needs-simple.png)
 
-His insight is that you cannot achieve higher levels if you haven't at least satisfied the lower levels: If you don't know where your next meal is coming from, you're not able to "creatively discover your true self."
+رؤيته هي أنه لا يمكنك تحقيق مستويات أعلى إذا لم تكن على الأقل راضيًا عن المستويات الأدنى: إذا كنت لا تعرف من أين ستأتي وجبتك التالية، فلن تكون قادرًا على "اكتشاف نفسك الحقيقية بشكل خلاق".
 
-The framework is wrong, though this hasn't stopped people from writing books and blog posts about it. "At the time of its original publication in 1943, there was no empirical evidence to support the theory." "In a 1976 review of Maslow's hierarchy of needs, little evidence was found for the specific ranking of needs that Maslow described or for the existence of a definite hierarchy at all." _([From Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs), with its own references.)_
+إطار العمل خاطئ، على الرغم من أن هذا لم يمنع الناس من كتابة الكتب والمدونات حول هذا الموضوع. "في وقت نشرها الأصلي في عام 1943، لم يكن هناك أي دليل تجريبي لدعم النظرية." "في مراجعة أجريت عام 1976 لتسلسل ماسلو الهرمي للاحتياجات، لم يتم العثور على سوى القليل من الأدلة على الترتيب المحدد للاحتياجات الذي وصفه ماسلو أو على وجود تسلسل هرمي محدد على الإطلاق." _([من ويكيبيديا](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)، مع مراجعها الخاصة.)_
 
-It's wrong for Product also, but we act like it's true.
+إنه أمر خاطئ بالنسبة للمنتج أيضًا، ولكننا نتصرف على أنه صحيح.
 
-If we roughly parallel Maslow, the Product Hierarchy looks something like (Figure 3), defining the levels as:
+إذا قمنا بموازاة ماسلو تقريبًا، فإن التسلسل الهرمي للمنتج يبدو كما يلي (الشكل 3)، مع تحديد المستويات على النحو التالي:
 
-#### Meaningful
-Identity, belonging, higher purpose. "Larger than myself." Impact. [Legacy](https://longform.asmartbear.com/legacy/).
+#### ذات مغزى
+الهوية، الانتماء، الهدف الأسمى. "أكبر مني." تأثير. [تراث](https://longform.asmartbear.com/legacy/).
 
-#### Delightful
-Exceptionally wonderful to use, eliciting a strong positive emotion. It goes beyond being visually appealing or sensibly designed. It is at least extreme; it is likely surprising, because so few products delight us, especially in the business world. Perhaps a low bar makes delight easier to achieve, if we try.
+#### سار
+رائعة بشكل استثنائي في الاستخدام، مما يثير مشاعر إيجابية قوية. إنها تتجاوز كونها جذابة بصريًا أو مصممة بشكل معقول. إنه على الأقل متطرف. من المحتمل أن يكون ذلك مفاجئًا، لأن عددًا قليلاً جدًا من المنتجات يسعدنا، خاصة في عالم الأعمال. ربما يجعل الشريط المنخفض تحقيق البهجة أسهل، إذا حاولنا.
 
-#### Easy to use
-Effortless and intuitive. Makes tech support obsolete.
+#### سهل الاستخدام
+جهد وبديهية. يجعل الدعم الفني عفا عليه الزمن.
 
-#### Reliable
-Always works as promised.
+#### موثوق
+يعمل دائما كما وعدت.
 
-#### Useful
-Fulfills a need; solves a problem.
+#### مفيد
+يلبي حاجة؛ يحل مشكلة.
 
 ![Pseudo-Maslow Product Hierarchy](https://public.asmartbear.com/books/anthology/chapters/slc/product-maslow-simple.png)
 
-Following Maslow, we might say that if a product isn't Useful then it doesn't matter if it works all the time (Reliable) or is pretty to look at (Delightful), therefore "being useful" is the mandatory first "rung" of the ladder. No reason to do anything else, if you're not useful.
+باتباع ماسلو، يمكننا القول أنه إذا لم يكن المنتج مفيدًا، فلا يهم إذا كان يعمل طوال الوقت (موثوق) أو جميل المظهر (مبهج)، وبالتالي فإن "أن يكون مفيدًا" هو "الدرجة" الإلزامية الأولى في السلم. لا يوجد سبب لفعل أي شيء آخر، إذا لم تكن مفيدًا.
 
-Indeed, that's what traditional MVPs do: be minimally useful, disregarding all other levels as irrelevant until the first level is satisfied:
+في الواقع، هذا ما يفعله MVPs التقليديون: أن يكونوا مفيدين إلى الحد الأدنى، متجاهلين جميع المستويات الأخرى باعتبارها غير ذات صلة حتى يتم استيفاء المستوى الأول:
 
 ![The typical MVP is minimally useful only, perhaps also being easy to try.](https://public.asmartbear.com/books/anthology/chapters/slc/mvp-simple.png)
 
-This MVP attitude is further justified by projecting its future. We can map the behavior of mature products, especially in so-called "Enterprise Software" where the person who chooses to buy it isn't the person who is forced to use it, and therefore the bottom of the pyramid is valued and the top is not:
+يتم تبرير موقف MVP هذا أيضًا من خلال توقع مستقبله. يمكننا رسم خريطة لسلوك المنتجات الناضجة، خاصة فيما يسمى "برامج المؤسسة" حيث أن الشخص الذي يختار شرائها ليس هو الشخص الذي يضطر إلى استخدامها، وبالتالي فإن قاع الهرم له قيمة وليس قمته:
 
 ![Mature products maximize the utility layers; do their users love it, or are they making an internal case for why it should be replaced with a more pleasant competitor?](https://public.asmartbear.com/books/anthology/chapters/slc/mature-simple.png)
 
-The SLC attitude is different. It agrees that we can't fill much of any layer, because we need to ship it quickly and start getting feedback. But it emphasizes different layers:
+موقف SLC مختلف. وهي توافق على أننا لا نستطيع ملء الكثير من أي طبقة، لأننا بحاجة إلى شحنها بسرعة والبدء في الحصول على ردود الفعل. لكنه يؤكد على طبقات مختلفة:
 
 ![SLC initially uses Delight to win the hearts of customers even though the product isn't as useful or reliable as it will eventually be.](https://public.asmartbear.com/books/anthology/chapters/slc/slc-delight-simple.png)
 
-An SLC product evolves, already-happy customers are rewarded with additional features:
+يتطور منتج SLC، ويتم مكافأة العملاء السعداء بالفعل بميزات إضافية:
 
 ![SLC evolves in a fundamentally different way, creating differentiation beyond feature-bullet-points.](https://public.asmartbear.com/books/anthology/chapters/slc/slc-later-simple.png)
 
-Perhaps a better way to look at it, is that SLC is both Delightful _and Useful_ on day one, albeit with a *scope* of "Useful" that is small enough to be "Complete":
+ربما تكون الطريقة الأفضل للنظر إلى الأمر هي أن SLC يكون ممتعًا ومفيدًا في اليوم الأول، وإن كان بنطاق *مفيد* صغير بما يكفي ليكون "كاملًا":
 
 ![SLC as complete according to a narrow scope (left), but lacking features relative to the scope of a mature product (right).](https://public.asmartbear.com/books/anthology/chapters/slc/v1-10-simple.png)
 
-Finally, a product that from inception is trying to "delight customers" is one that might actually deliver on the top of the pyramid: Meaning, personal identity, a higher purpose. You see this in products where people tie their identity to owning or using the product, not just in consumer brands where this is obvious, but in the way that people love Linear because it honors the developer (instead of the project manager), or the way they love Basecamp because they support the culture and attitudes of 37signals, or the way they whip out Moleskine notebooks because it connects them to a romantic ideal of the brooding writer, or proudly wear Patagonia gear as a badge of their environmental consciousness, or the way they argue over Vim vs Emacs as a badge of geekery.
+أخيرًا، المنتج الذي يحاول منذ البداية "إسعاد العملاء" هو المنتج الذي قد يصل فعليًا إلى قمة الهرم: بمعنى الهوية الشخصية والغرض الأعلى. ترى هذا في المنتجات التي يربط فيها الأشخاص هويتهم بامتلاك المنتج أو استخدامه، ليس فقط في العلامات التجارية الاستهلاكية حيث يكون ذلك واضحًا، ولكن في الطريقة التي يحب بها الناس Linear لأنه يكرم المطور (بدلاً من مدير المشروع)، أو الطريقة التي يحبون بها Basecamp لأنهم يدعمون ثقافة ومواقف 37signals، أو الطريقة التي يصدرون بها دفاتر ملاحظات Moleskine لأنها تربطهم بالمثال الرومانسي للكاتب المفكر، أو يرتدون ملابس باتاجونيا بفخر كشارة لبيئتهم. الوعي، أو الطريقة التي يتجادلون بها حول Vim vs Emacs باعتبارها علامة على العبقري غريب الأطوار.
 
-Almost no company cares about creating meaning for their customers. Here's how I know: [What metric are they tracking](https://longform.asmartbear.com/product-metrics/)--let alone optimizing for--that measures meaning? If none, then it's out of sight, out of mind. Clearly, you can build large and even great companies like this; most do. But if you did care about that, SLC is the right way to start the adventure.
+لا تهتم أي شركة تقريبًا بخلق معنى لعملائها. وإليك كيف أعرف: [ما المقياس الذي يتتبعونه](https://longform.asmartbear.com/product-metrics/)--ناهيك عن التحسين من أجله--الذي يقيس المعنى؟ إذا لم يكن هناك شيء، فهو بعيد عن الأنظار، بعيد عن العقل. من الواضح أنه يمكنك بناء شركات كبيرة وحتى عظيمة مثل هذه؛ معظمهم يفعلون. ولكن إذا كنت مهتمًا بذلك، فإن SLC هي الطريقة الصحيحة لبدء المغامرة.
 
-Why don't more products prioritize delight? Utility is more obvious. Utility is what the customer's budget is allocated to obtain. Delight requires insight and great design, not back-end optimization and a keen mathematical mind. It is a rare person who possess all of these abilities, or even values them in others. It is a *decision* to prioritize Delight over Utility; it is easier not to.
+لماذا لا تعطي المزيد من المنتجات الأولوية للبهجة؟ المنفعة أكثر وضوحا. المنفعة هي ما خصصت ميزانية العميل للحصول عليه. تتطلب البهجة رؤية ثاقبة وتصميمًا رائعًا، وليس تحسينًا خلفيًا وعقلًا رياضيًا حادًا. ومن النادر أن يمتلك كل هذه القدرات، أو حتى يقدرها في الآخرين. إنه *قرار* إعطاء الأولوية للبهجة على المنفعة؛ فمن الأسهل عدم القيام بذلك.
 
-The "pyramid" is useful for mapping out where you're going to spend your time, but we need not traverse it from bottom to top. Products that prioritize delight win over products that don't.
+"الهرم" مفيد في تحديد المكان الذي ستقضي فيه وقتك، لكننا لا نحتاج إلى اجتيازه من الأسفل إلى الأعلى. المنتجات التي تعطي الأولوية للبهجة تفوز على المنتجات التي لا تفعل ذلك.
 
-It's really another way of prioritizing the customer--the human being, not just their "job to be done."
-
----
-
-With SLC, the outcomes are better and your options for next steps are better. It might fail; both SLCs and MVPs sometimes produce that result because you're running an [experiment](https://longform.asmartbear.com/fail/). But if a SLC succeeds, you've already delivered real value to customers and you have multiple futures available to you, none of which are urgent. You could build a v2, and because you're already generating value, you have more time to decide what that should look like. You could even query existing customers to determine exactly what v2 should entail, instead of a set of alpha-testers who just want to know "when are you going to fix this broken thing?"
-
-Or, you can decide not to work on it. Not every product has to become complex. Not every product needs new major versions every two quarters. Some things can just remain simple, lovable, and complete.
-
-Ask your customers. They'll agree.
+إنها حقًا طريقة أخرى لتحديد أولويات العميل - الإنسان، وليس فقط "المهمة التي يتعين القيام بها".
 
 ---
 
-*Many thanks to [Devan Stormont](https://www.threads.net/@lucid_voyager/post/DAMOUqCyB3J), [Kathy Qian](https://www.threads.net/@kathyqian/post/DAMSqhTS6KD), and [Khurrum Mahmood](https://www.threads.net/@khurrum.carpediem/post/DAMRiiFOTjl) for feedback on this article.*
+مع SLC، النتائج أفضل وخياراتك للخطوات التالية أفضل. قد تفشل. أحيانًا تنتج كل من SLCs وMVPs هذه النتيجة لأنك تجري [تجربة](https://longform.asmartbear.com/fail/). ولكن إذا نجحت شركة SLC، فقد قدمت بالفعل قيمة حقيقية للعملاء ولديك العديد من العقود الآجلة المتاحة لك، وليس أي منها عاجلاً. يمكنك إنشاء الإصدار الثاني، ولأنك تولد قيمة بالفعل، فلديك المزيد من الوقت لتقرر الشكل الذي يجب أن يبدو عليه ذلك. يمكنك أيضًا الاستعلام عن العملاء الحاليين لتحديد ما يجب أن يتضمنه الإصدار الثاني بالضبط، بدلاً من مجموعة من مختبري ألفا الذين يريدون فقط معرفة "متى ستصلح هذا الشيء المعطل؟"
+
+أو يمكنك أن تقرر عدم العمل عليه. ليس كل منتج يجب أن يصبح معقدًا. لا يحتاج كل منتج إلى إصدارات رئيسية جديدة كل ربعين. بعض الأشياء يمكن أن تظل بسيطة، ومحبوبة، وكاملة.
+
+اسأل عملائك. سوف يوافقون.
+
+---
+
+* جزيل الشكر إلى [ديفان ستورمونت](https://www.threads.net/@lucid_voyager/post/DAMOUqCyB3J)، و[كاثي كيان](https://www.threads.net/@kathyqian/post/DAMSqhTS6KD)، و[خوروم] محمود](https://www.threads.net/@khurrum.carpediem/post/DAMRiiFOTjl) للحصول على تعليقات حول هذه المقالة.*

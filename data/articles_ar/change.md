@@ -20,54 +20,41 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** التغيير في الشركات: ملعون إذا قمت به، وملعون أكثر إذا لم تفعل تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Change: Damned if you do, damned more if you don't
-
-> **Executive Summary:** Everyone wants change, but doesn't want to change. Though inevitable, change is uncomfortable and exhausting. Manage it with kindness.
-> **Original URL:** [https://longform.asmartbear.com/change/](https://longform.asmartbear.com/change/)
-
 ![Top workplace complaints: (1) the way things are; (2) change](https://public.asmartbear.com/books/anthology/chapters/change/image-simple.png)
 
-This plays out in many ways:
+يحدث هذا بعدة طرق:
 
-1. Customers demand an [improved UX](https://blog.asmartbear.com/new-ux.html), but they don't want to learn a new UX, and they [always complain when it changes](https://uxdesign.cc/help-your-customer-navigate-change-1bb674f6ce23).
-2. Team members want consistency but don't want policies.
-3. Developers want to be more efficient but don't want to change how they work.
-4. [Strategy](https://longform.asmartbear.com/great-strategy/) is ineffective if it's constantly in flux, but a strategy that remains unchanged in the presence of new information is incorrect.
+1. يطلب العملاء [تجربة مستخدم محسنة](https://blog.asmartbear.com/new-ux.html)، لكنهم لا يريدون تعلم تجربة مستخدم جديدة، وهم [يشتكون دائمًا عندما تتغير](https://uxdesign.cc/help-your-customer-navigate-change-1bb674f6ce23).
+2. يريد أعضاء الفريق الاتساق ولكنهم لا يريدون السياسات.
+3. يريد المطورون أن يكونوا أكثر كفاءة ولكنهم لا يريدون تغيير طريقة عملهم.
+4. [الإستراتيجية](https://longform.asmartbear.com/great-strategy/) تكون غير فعالة إذا كانت في حالة تغير مستمر، ولكن الإستراتيجية التي تظل دون تغيير في ظل وجود معلومات جديدة غير صحيحة.
 
-**The right choice is almost always "change."** This is because change is a reaction to uncovering facts, getting smarter, or a shift in the external environment. Death awaits any organization that chooses the comfort of the familiar over the discomfort of change.
+**الخيار الصحيح دائمًا هو "التغيير".** وذلك لأن التغيير هو رد فعل لكشف الحقائق، أو اكتساب الذكاء، أو تحول في البيئة الخارجية. الموت ينتظر أي منظمة تختار الراحة المألوفة على إزعاج التغيير.
 
-Yet, though inevitable, change is uncomfortable and exhausting. Even we who relish change, who love bragging that "it's hard but every day is different," reach a breaking point after years of adaptation and fake-gleefully exclaiming that "[failure](https://longform.asmartbear.com/fail/) is how you learn!"
+ومع ذلك، ورغم أن التغيير أمر لا مفر منه، إلا أنه غير مريح ومرهق. حتى نحن الذين نستمتع بالتغيير، ونحب التفاخر بأن "الأمر صعب ولكن كل يوم مختلف"، نصل إلى نقطة الانهيار بعد سنوات من التكيف ونصرخ بسعادة خادعة بأن "[الفشل] (https://longform.asmartbear.com/fail/) هو الطريقة التي تتعلم بها!"
 
-Yeah, but all this learning is fricking *tiring*.
+نعم، ولكن كل هذا التعلم متعب *.
 
-This is important for leaders to understand, if indeed "change is the only constant" as the insipid cliché goes. Even your most stoic, change-loving mortals sometimes need a break from change. Yes "it's a marathon" but sometimes you need to walk a mile to catch your breath. Look for signs of burnout or decision-fatigue, and [address it proactively](https://tomtunguz.com/managing-energy/).
+ومن المهم أن يفهم القادة هذا الأمر، إذا كان "التغيير هو الثابت الوحيد" كما تقول العبارة المبتذلة. حتى البشر الأكثر رزانة وحبًا للتغيير يحتاجون أحيانًا إلى استراحة من التغيير. نعم "إنه ماراثون" ولكن في بعض الأحيان تحتاج إلى المشي لمسافة ميل لالتقاط أنفاسك. ابحث عن علامات الإرهاق أو الإرهاق عند اتخاذ القرار، و[عالجها بشكل استباقي](https://tomtunguz.com/managing-energy/).
 
-This is equally important for everyone in a startup, whether you manage others or not. Constant change can feel like management has no plan and no strategy. It takes careful consideration to distinguish between being rudderless and a culture of self-reflection and improvement.
+وهذا أمر مهم بنفس القدر للجميع في الشركة الناشئة، سواء كنت تدير الآخرين أم لا. قد يبدو التغيير المستمر وكأن الإدارة ليس لديها خطة ولا استراتيجية. ويتطلب الأمر دراسة متأنية للتمييز بين كونك بلا دفة وثقافة التأمل الذاتي والتحسين.
 
 ![everyone wants change, but no one wants to change](https://public.asmartbear.com/books/anthology/chapters/change/who-wants-change-who-wants-to-change-simple.png)
 
-This is exacerbated by the fact that not all change is in fact for the best. Sometimes our attempt to solve a problem makes it worse. Sometimes when we try to make code faster, we break it. The difference is that we can see slow code objectively in the profiler and couch the code in unit tests and code reviews, and iterate before we ship, and revert to the previous version in the worst case; it's not so easy when the change is happening to a whole team, or a major product release, or a cross-departmental strategic initiative.
+ويتفاقم هذا بسبب حقيقة أنه ليس كل التغيير في الواقع هو للأفضل. في بعض الأحيان، محاولتنا لحل مشكلة ما تجعل الأمر أسوأ. في بعض الأحيان عندما نحاول جعل التعليمات البرمجية أسرع، فإننا نكسرها. الفرق هو أنه يمكننا رؤية التعليمات البرمجية البطيئة بشكل موضوعي في ملف التعريف ووضع التعليمات البرمجية في اختبارات الوحدة ومراجعات التعليمات البرمجية، وتكرارها قبل الشحن، والعودة إلى الإصدار السابق في أسوأ الحالات؛ ليس الأمر بهذه السهولة عندما يحدث التغيير لفريق كامل، أو إصدار منتج رئيسي، أو مبادرة استراتيجية مشتركة بين الأقسام.
 
-In fact, sometimes it's [objectively impossible to know ahead of time](https://longform.asmartbear.com/perseverance/), and you have no choice but to place a bet.
+في الواقع، في بعض الأحيان يكون من [من المستحيل موضوعيًا معرفة ذلك مسبقًا](https://longform.asmartbear.com/perseverance/)، وليس لديك خيار سوى الرهان.
 
-Even deciding *what* to change is hard. Successful companies can stall out because they lose sight of the fundamental reasons they earned success in the first place--the key insights and UX of the product, or the key culture and values that attracted their first hundred or thousand employees. But successful companies also stall out because they're so dogmatic about their strategy or "non-consensus but correct" ideas that when the world changes around them, or [scale breaks their previously-correct notions](https://longform.asmartbear.com/scale-rare/), they fail to adapt. It is not generally true that "what got us here will get us there," and that means deep change is required.
+حتى أن تحديد ما يجب تغييره أمر صعب. يمكن للشركات الناجحة أن تتعثر لأنها تغفل عن الأسباب الأساسية التي جعلتها تحقق النجاح في المقام الأول - الرؤى الرئيسية وتجربة المستخدم للمنتج، أو الثقافة والقيم الأساسية التي اجتذبت أول مائة أو ألف موظف. لكن الشركات الناجحة تتأخر أيضًا لأنها متشددة للغاية بشأن استراتيجيتها أو أفكارها "غير المتفق عليها ولكنها صحيحة" لدرجة أنه عندما يتغير العالم من حولها، أو [يكسر النطاق مفاهيمها الصحيحة سابقًا](https://longform.asmartbear.com/scale-rare/)، فإنها تفشل في التكيف. ليس صحيحاً عموماً أن "ما أوصلنا إلى هنا سوف يوصلنا إلى هناك"، وهذا يعني أن التغيير العميق مطلوب.
 
-There's a mindset that everyone can use to address all of these difficulties:
+هناك عقلية يمكن لأي شخص استخدامها لمعالجة كل هذه الصعوبات:
 
-**Be kind.**
+** كن لطيفا. **
 
-Maybe don't judge too harshly if your organization tries to improve one thing and ends up breaking another, or where the organization takes too long to implement change. Maybe don't judge too harshly if the person to your left needs to work on something easy for a few sprints or take a vacation.
+ربما لا تحكم بقسوة شديدة إذا حاولت مؤسستك تحسين شيء ما وانتهى بها الأمر إلى كسر شيء آخر، أو عندما تستغرق المنظمة وقتًا طويلاً لتنفيذ التغيير. ربما لا تحكم بقسوة شديدة إذا كان الشخص الموجود على يسارك يحتاج إلى العمل على شيء سهل لبضعة سباقات سريعة أو أخذ إجازة.
 
-Edison had to try thousands of materials before finding the one that make lightbulbs practical. Would you have judged him for "thrashing?" [Invention is often frustrating](https://longform.asmartbear.com/fail/).
+كان على إديسون تجربة آلاف المواد قبل العثور على المادة التي تجعل المصابيح الكهربائية عملية. هل كنت ستحكم عليه بتهمة "السحق"؟ [الاختراع غالبًا ما يكون محبطًا](https://longform.asmartbear.com/fail/).
 
-You *should* judge harshly if nobody is thinking about this. If nobody cares whether there's change or not, if there's no rhyme or reason to the [company strategy](https://longform.asmartbear.com/great-strategy/), if everyone is expected to act and feel happy and productive all of the time, then you [should definitely judge](https://longform.asmartbear.com/judgement/). An organization that isn't striving to improve, will rot and disintegrate.
+*يجب* أن تحكم بقسوة إذا لم يفكر أحد في هذا الأمر. إذا لم يكن أحد يهتم بما إذا كان هناك تغيير أم لا، وإذا لم يكن هناك قافية أو سبب لـ [استراتيجية الشركة](https://longform.asmartbear.com/great-strategy/)، وإذا كان من المتوقع من الجميع أن يتصرفوا ويشعروا بالسعادة والإنتاجية طوال الوقت، إذًا [يجب عليك بالتأكيد الحكم](https://longform.asmartbear.com/judgement/). المنظمة التي لا تسعى إلى التحسين، سوف تتعفن وتتفكك.
 
-There are no straight paths in life or startups. All we can do is keep being introspective, and keep attempting the right sort of change.
+لا توجد مسارات مستقيمة في الحياة أو الشركات الناشئة. كل ما يمكننا فعله هو الاستمرار في الاستبطان، والاستمرار في محاولة النوع الصحيح من التغيير.

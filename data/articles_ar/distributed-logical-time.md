@@ -20,65 +20,52 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الوقت المنطقي الموزع: دروس من النظم الموزعة لإدارة فرق العمل تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Distributed Logical Time
-
-> **Executive Summary:** A simple, decentralized, scalable, constant-memory mechanism for independent replicas to record events in time, preserving the "happened-before" relation in almost all cases.
-> **Original URL:** [https://longform.asmartbear.com/distributed-logical-time/](https://longform.asmartbear.com/distributed-logical-time/)
-
 ![We're behind schedule on the time machine, but we'll catch up once it's finished.](https://public.asmartbear.com/books/anthology/chapters/distributed-logical-time/d7579print-simple.png)
 
-Time is notoriously difficult to synchronize in distributed systems. Many algorithms require--or have better characteristics when--any number of independent replicas achieve a single global time-ordering. In particular, it is useful to know that if two events are separated by more than a few seconds in real-time, that they will be correctly ordered, despite replicas having unsynchronized physical clocks.
+من الصعب جدًا مزامنة الوقت في الأنظمة الموزعة. تتطلب العديد من الخوارزميات - أو تكون لها خصائص أفضل - عندما يحقق أي عدد من النسخ المتماثلة المستقلة ترتيبًا عالميًا واحدًا للوقت. على وجه الخصوص، من المفيد معرفة أنه إذا تم الفصل بين حدثين بأكثر من بضع ثوانٍ في الوقت الفعلي، فسيتم ترتيبهما بشكل صحيح، على الرغم من أن النسخ المتماثلة تحتوي على ساعات فعلية غير متزامنة.
 
-> "We're obviously in no danger of arriving at consensus."  
-> --Warren Buffett
+> "من الواضح أننا لسنا في خطر التوصل إلى توافق في الآراء."
+> --وارن بافيت
 
-However, operating system clocks are undependable and can even move backward. Furthermore, we don't want to rely on a "master" or central server. Replicas should be able to arbitrarily join or leave a collective without announcement, operate independently, and communicate with each other peer-to-peer, in any pattern.
+ومع ذلك، لا يمكن الاعتماد على ساعات نظام التشغيل، بل ويمكن أن تتحرك للخلف. علاوة على ذلك، لا نريد الاعتماد على خادم "رئيسي" أو مركزي. يجب أن تكون النسخ المتماثلة قادرة على الانضمام بشكل تعسفي إلى المجموعة أو مغادرتها دون إعلان، والعمل بشكل مستقل، والتواصل مع بعضها البعض من نظير إلى نظير، بأي نمط.
 
-Common methods to solve the problem either involve custom infrastructure to achieve tight bounds on the behavior of operating system clocks (e.g. [Google TrueTime](https://cloud.google.com/spanner/docs/true-time-external-consistency)), or some sort of distributed logical clock such as [Vector Clocks](https://en.wikipedia.org/wiki/Vector_clock). The former is unavailable to most of us, especially if we want our code to run in browsers or laptops or non-Google data centers. The latter suffers from unbounded memory requirements and still results in "conflicts" which are resolved arbitrarily or not at all.
+تشتمل الطرق الشائعة لحل المشكلة إما على بنية تحتية مخصصة لتحقيق حدود ضيقة على سلوك ساعات نظام التشغيل (مثل [Google TrueTime](https://cloud.google.com/spanner/docs/true-time-external-consistency)) أو نوع من الساعة المنطقية الموزعة مثل [Vector Clocks](https://en.wikipedia.org/wiki/Vector_clock). الأول غير متاح لمعظمنا، خاصة إذا أردنا تشغيل التعليمات البرمجية الخاصة بنا في المتصفحات أو أجهزة الكمبيوتر المحمولة أو مراكز البيانات غير التابعة لـ Google. يعاني الأخير من متطلبات ذاكرة غير محدودة ولا يزال يؤدي إلى "تعارضات" يتم حلها بشكل تعسفي أو لا يتم حلها على الإطلاق.
 
-Here we present an algorithm and Golang implementation that meets the objectives, with no assumptions about the behavior of operating system clocks, without vector clocks, and without central coordination.
+نقدم هنا خوارزمية وتنفيذ Golang يحقق الأهداف، بدون افتراضات حول سلوك ساعات نظام التشغيل، بدون ساعات متجهة، وبدون تنسيق مركزي.
 
-## Objectives & Definitions
+## الأهداف والتعاريف
 
-### Definitions
+### التعاريف
 
-It's useful to establish a few definitions and conventions before describing how we achieve a solution:
+من المفيد وضع بعض التعريفات والاصطلاحات قبل وصف كيفية تحقيق الحل:
 
-* **RT**--Real Time--theoretical omniscient "actual time". Imagine it as arbitrarily-high-precision UTC time exactly synchronized everywhere. This is not a quantity that any replica can compute; it is for algorithmic discussion only.
-* **PT**--Physical Time--the time reported by the operating system. This is the only notion of "time" that a replica can access.
-* **LT**--Logical Time--our synthetic implementation of "time", with the properties suggested above and precisely defined below.
-* `XT{expression}` means "the type of time `XT`, applied to the replicas or events in the expression." For example, `PT{ P<Q }` means "the Physical Time on the replica `P` is less than the Physical Time on replica `Q`."
+* **RT**--الوقت الحقيقي--"الوقت الفعلي" النظري كلي المعرفة. تخيل أنه وقت UTC عالي الدقة بشكل تعسفي ومتزامن تمامًا في كل مكان. هذه ليست كمية يمكن لأي نسخة متماثلة حسابها؛ إنه مخصص للمناقشة الخوارزمية فقط.
+* **PT**--الوقت الفعلي--الوقت الذي أبلغ عنه نظام التشغيل. هذه هي فكرة "الوقت" الوحيدة التي يمكن للنسخة المتماثلة الوصول إليها.
+* **LT**--الوقت المنطقي--تطبيقنا الاصطناعي لـ "الوقت"، مع الخصائص المقترحة أعلاه والمحددة بدقة أدناه.
+* `XT{expression}` يعني "نوع الوقت `XT`، المطبق على النسخ المتماثلة أو الأحداث في التعبير." على سبيل المثال، `PT{ P<Q }` يعني "الوقت الفعلي في النسخة المتماثلة `P` أقل من الوقت الفعلي في النسخة المتماثلة `Q`."
 
-### Requirements & Assumptions
+### المتطلبات والافتراضات
 
-With this terminology, we can define our assumptions and our requirements for LT precisely:
+باستخدام هذا المصطلح، يمكننا تحديد افتراضاتنا ومتطلباتنا لـ LT بدقة:
 
-1. **PT is arbitrary.** <br/> It can move backwards, it does not produce unique values, it might update only rarely, it is never synchronized between two replicas, it can be ahead of or behind RT by an arbitrary and variable amount. The only thing we know is that, over a long duration, it generally increases.
-2. **LT always increases.** <br/> Whenever LT is requested, it will have increased since the previous request (regardless of PT's behavior).
-3. If B happens after A in real-time, i.e. `RT{ B>A }`, but A and B happen on different replicas:
-    1. **Correctly ordered in LT when sufficiently time-separated in RT.** <br/> If `RT{ B-A } > e`, where `e` is a small, bounded constant, then `LT{ B>A }` also.
-    2. **Arbitrary LT order if close together in RT.** <br/> If `RT{ B-A } < e`, then there's best-effort for `LT{ B>A }`, but it could be `LT{ B<A }`.
-    3. **`e` is small and bounded.** <br/> `e` must be small (e.g. 1-2 seconds), and be a constant, not proportional to some state or configuration. `e` is the time window inside which we accept events that are incorrectly ordered, so we require this window to be small.
-    4. **"Happened-before" relation is always correctly ordered in LT.** <br/> If A happens, then the two replicas communicate, then B happens, then it is *always* true that `LT{ B>A }`, even if `RT{ B-A } < e`.
-4. **Skewed PT on one replica doesn't skew the behavior of the collective.** <br/> If one replica's PT differs significantly from RT, it should still participate properly with the collective; for example it shouldn't automatically "win" due to the late-skewed PT, or be unable to write a change due to early-skewed PT.
-5. **LT uses constant memory.** <br/> Use a fixed number of bits to represent LT, regardless of factors like the number of replicas. (Unlike Vector Clocks.)
-6. **Decentralized, without "join" or "leave" events.** <br/> No leaders, no special designations, no central API. Peers can communicate in arbitrary patterns. Peers never need to announce their joining or leaving the collective. There is no list of peers.
+1. **PT is arbitrary.** <br/> It can move backwards, it does not produce unique values, it might update only rarely, it is never synchronized between two replicas, it can be ahead of or behind RT by an arbitrary and variable amount. الشيء الوحيد الذي نعرفه هو أنه على مدى فترة طويلة، فإنه يزيد بشكل عام.
+2. **زيادة LT دائمًا.** <br/> كلما تم طلب LT، ستكون قد زادت منذ الطلب السابق (بغض النظر عن سلوك PT).
+3. إذا حدث B بعد A في الوقت الفعلي، أي `RT{ B>A }`، ولكن A وB يحدثان في نسخ متماثلة مختلفة:
+    1. **مرتبة بشكل صحيح في LT عندما يكون هناك فصل زمني كافٍ في RT.** <br/> إذا كان `RT{ B-A } > e`، حيث `e` ثابت صغير ومحدود، فإن `LT{ B>A }` أيضًا.
+    2. **ترتيب LT التعسفي إذا كان قريبًا من بعضها البعض في RT.** <br/> إذا كان `RT{ B-A } < e`، فهناك أفضل جهد لـ `LT{ B>A }`، ولكن يمكن أن يكون `LT{ B<A }`.
+    3. **`e` صغير ومحدود.** <br/> `e` يجب أن يكون صغيرًا (على سبيل المثال، 1-2 ثانية)، وأن يكون ثابتًا، وغير متناسب مع بعض الحالات أو التكوينات. `e` هي النافذة الزمنية التي نقبل داخلها الأحداث التي تم ترتيبها بشكل غير صحيح، لذلك نطلب أن تكون هذه النافذة صغيرة.
+    4. ** يتم دائمًا ترتيب العلاقة "حدث قبل" بشكل صحيح في LT.** <br/> إذا حدث A، فإن النسختين تتواصلان، ثم يحدث B، فمن الصحيح *دائمًا* أن `LT{ B>A }`، حتى لو `RT{ B-A } < e`.
+4. ** إن انحراف PT في نسخة طبق الأصل لا يؤدي إلى انحراف سلوك المجموعة. ** <br/> إذا كان PT الخاص بإحدى النسخ المتماثلة يختلف بشكل كبير عن RT، فيجب أن تظل تشارك بشكل صحيح مع المجموعة؛ على سبيل المثال، لا ينبغي أن "يفوز" تلقائيًا بسبب انحراف PT المتأخر، أو عدم القدرة على كتابة تغيير بسبب انحراف PT المبكر.
+5. **يستخدم LT ذاكرة ثابتة.** <br/> استخدم عددًا ثابتًا من البتات لتمثيل LT، بغض النظر عن عوامل مثل عدد النسخ المتماثلة. (على عكس الساعات المتجهة.)
+6. **لامركزي، بدون أحداث "انضمام" أو "مغادرة".** <br/> لا يوجد قادة، ولا تعيينات خاصة، ولا واجهة برمجة تطبيقات مركزية. يمكن للأقران التواصل بأنماط عشوائية. لا يحتاج الزملاء أبدًا إلى الإعلان عن انضمامهم إلى المجموعة أو مغادرتها. لا توجد قائمة من أقرانهم.
 
-It may sound impossible to achieve the goals of LT given that RT is inaccessible, PT lacks all the properties we need, and replicas aren't synchronized. It's fun to see that in fact it can be achieved.
+قد يبدو من المستحيل تحقيق أهداف LT نظرًا لعدم إمكانية الوصول إلى RT، وافتقار PT إلى جميع الخصائص التي نحتاجها، وعدم مزامنة النسخ المتماثلة. ومن الممتع أن نرى أنه في الواقع يمكن تحقيقه.
 
-## LT inside a single replica
+## LT داخل نسخة طبق الأصل واحدة
 
-It might seem trivial to create LT within a single replica, but even that requires an algorithm. Typically the operating system is used for PT, but PT can move backwards (e.g. with NTP, with leap-seconds, with manual settings), and is non-unique (e.g. asking for the time in rapid succession often yields the same value from the operating system, due to CPUs being faster than the precision of time), and can drift significantly far away from RT (due to various causes as shown in [these examples](https://stackoverflow.com/questions/4770635/s3-error-the-difference-between-the-request-time-and-the-current-time-is-too-la)).
+قد يبدو إنشاء LT ضمن نسخة متماثلة واحدة أمرًا تافهًا، لكن حتى ذلك يتطلب خوارزمية. عادةً ما يتم استخدام نظام التشغيل لـ PT، ولكن يمكن أن يتحرك PT إلى الوراء (على سبيل المثال مع NTP، مع الثواني الكبيسة، مع الإعدادات اليدوية)، وهو غير فريد (على سبيل المثال، غالبًا ما يؤدي طلب الوقت بتتابع سريع إلى نفس القيمة من نظام التشغيل، نظرًا لكون وحدات المعالجة المركزية أسرع من دقة الوقت)، ويمكن أن ينجرف بعيدًا بشكل كبير عن RT (نظرًا لأسباب مختلفة كما هو موضح في [هذه أمثلة](https://stackoverflow.com/questions/4770635/s3-error-the-difference-between-the-request-time-and-the-current-time-is-too-la)).
 
-PT will generally increase in the long-run, but we have to "smooth over" the bumps where it is stagnant or decreasing. To do that, we store the "last-seen PT" as well as a counter, and use the following algorithm (plus a mutex for concurrent access):
+سيزداد معدل PT بشكل عام على المدى الطويل، ولكن يتعين علينا "تنعيم" المطبات حيث تكون راكدة أو متناقصة. للقيام بذلك، نقوم بتخزين "وقت المشاهدة لآخر مرة" بالإضافة إلى العداد، ونستخدم الخوارزمية التالية (بالإضافة إلى كائن المزامنة للوصول المتزامن):
 
 ```go
 func GetLT() {
@@ -92,25 +79,25 @@ func GetLT() {
 }
 ```
 
-LT is ordered first by `PT_LastSeen` and then by `Counter`. So, as long as PT increases, we use it, staying hopefully somewhere near RT (more on this later). But, if PT does not increase, the Counter ensures that LT still increases.
+يتم ترتيب LT أولاً بواسطة `PT_LastSeen` ثم بواسطة `Counter`. لذا، طالما أن PT يزيد، فإننا نستخدمه، ونأمل أن نبقى في مكان ما بالقرب من RT (سنتحدث عن هذا لاحقًا). ولكن، إذا لم يزيد PT، فإن العداد يضمن استمرار LT في الزيادة.
 
-In the following simulation from our golang implementation, we can see how LT monotonically increases even when PT doesn't:
+في المحاكاة التالية من تنفيذ جولانج، يمكننا أن نرى كيف يزيد LT بشكل رتيب حتى عندما لا يزيد PT:
 
 ![LT monotonically increases regardless of how crazy PT is](https://public.asmartbear.com/books/anthology/chapters/distributed-logical-time/time-monotonically-increasing-simple.png)
 
-The use of a counter also means the precision of PT is irrelevant. Therefore, a performance optimization is to use a separate recurring timer to update a thread-safe global variable with PT 1-4 times per second, rather than invoking the much more expensive and blocking operating system call to retrieve PT every time we compute LT. With this optimization, we achieved tens of millions of invocations per second even in a Javascript implementation on a typical laptop.
+استخدام العداد يعني أيضًا أن دقة PT غير ذات صلة. لذلك، يتمثل تحسين الأداء في استخدام مؤقت متكرر منفصل لتحديث متغير عام آمن لمؤشر الترابط مع PT 1-4 مرات في الثانية، بدلاً من استدعاء استدعاء نظام التشغيل الأكثر تكلفة والمحظور لاسترداد PT في كل مرة نحسب فيها LT. بفضل هذا التحسين، حققنا عشرات الملايين من الاستدعاءات في الثانية حتى في تطبيق Javascript على جهاز كمبيوتر محمول نموذجي.
 
-## "Happened-Before" relation between replicas
+## العلاقة "حدث قبل" بين النسخ المتماثلة
 
-Suppose an event A happens on a replica P, and then P communicates with another replica Q, sending that event. Afterwards, an event B happens on Q. We want to be certain of `LT{ B>A }`, even though A's LT was generated on P and B's LT was generated on Q (Shown in Figure 2).
+لنفترض أن الحدث A يحدث على نسخة متماثلة P، ثم يتصل P مع نسخة متماثلة أخرى Q، ويرسل هذا الحدث. بعد ذلك، يحدث الحدث B على Q. نريد أن نكون متأكدين من `LT{ B>A }`، على الرغم من أن LT الخاص بـ A تم إنشاؤه على P وتم إنشاء LT الخاص بـ B على Q (كما هو موضح في الشكل 2).
 
-The PT of P and Q will differ, and could differ in either direction. If `PT{ Q>P }`, then we'll get `LT{ B>A }` naturally, because the PT component of Q is already ahead of the PT component of P. That's the easy case.
+سوف يختلف PT لـ P وQ، ويمكن أن يختلف في أي من الاتجاهين. إذا كان `PT{ Q>P }`، فسنحصل على `LT{ B>A }` بشكل طبيعي، لأن مكون PT لـ Q يتقدم بالفعل على مكون PT لـ P. هذه هي الحالة السهلة.
 
-In the other case that `PT{ P>Q }`, we have a problem. In the example below, P's PT is one minute ahead of Q's. After P sends Q event A with `LT{ 71.0 }`, Q's LT is still far behind, which means when event B happens one second later, it is `LT{ 13.0 }`, resulting in the problem `LT{ A>B }` even though `RT{ A<B }`:
+في الحالة الأخرى `PT{ P>Q }`، لدينا مشكلة. في المثال أدناه، P's PT يتقدم بدقيقة واحدة عن Q's. بعد أن يرسل P الحدث Q A مع `LT{ 71.0 }`، لا يزال Q's LT متأخرًا كثيرًا، مما يعني أنه عندما يحدث الحدث B بعد ثانية واحدة، يكون `LT{ 13.0 }`، مما يؤدي إلى المشكلة `LT{ A>B }` على الرغم من `RT{ A<B }`:
 
 ![Problem: B's LT isn't later than A's LT, because they're on different servers.](https://public.asmartbear.com/books/anthology/chapters/distributed-logical-time/lt-not-taken-simple.png)
 
-To fix this, we simply set both components of Q's LT equal to P's. Q will know to do this, because when P communicates with Q, it transmits its current value of LT. The following algorithm ensures Q will end up with a strictly-larger LT:
+لإصلاح ذلك، قمنا ببساطة بتعيين كلا مكوني Q's LT مساويين لـ P's. سيعرف Q كيفية القيام بذلك، لأنه عندما يتصل P مع Q، فإنه ينقل قيمته الحالية LT. تضمن الخوارزمية التالية أن ينتهي Q بـ LT أكبر حجمًا:
 
 ```go
 func UpdateLTFromPeer( LT_Peer ) {
@@ -127,106 +114,106 @@ func UpdateLTFromPeer( LT_Peer ) {
 }
 ```
 
-A side effect is that Q's `PT_LastSeen` will be ahead of its own PT, but that's fine because Q will just use its Counter until its own PT catches up. Meanwhile, `PT{ B>A }` is guaranteed, as the diagram now shows:
+أحد الآثار الجانبية هو أن `PT_LastSeen` الخاص بـ Q سيكون متقدمًا على PT الخاص به، لكن هذا جيد لأن Q سيستخدم العداد الخاص به حتى يلحق PT الخاص به. وفي الوقت نفسه، يتم ضمان `PT{ B>A }`، كما يوضح الرسم البياني الآن:
 
 ![Solution: Q appropriates P's LT, because LT{ P>Q }](https://public.asmartbear.com/books/anthology/chapters/distributed-logical-time/lt-take-remote-simple.png)
 
-Further discussion and a proof of correctness can be found in [the paper that invented this method](https://www.cse.buffalo.edu/tech-reports/2014-04.pdf), in which it is called a Hybrid Logical Clock (HLC).
+يمكن العثور على مزيد من المناقشة وإثبات الصحة في [الورقة التي اخترعت هذه الطريقة](https://www.cse.buffalo.edu/tech-reports/2014-04.pdf)، والتي تسمى فيها الساعة المنطقية الهجينة (HLC).
 
-## Using Skew to fix the future
+## استخدام Skew لإصلاح المستقبل
 
-Although the algorithm above satisfies many of the requirements of LT, it violates the requirement that `e` be small and bounded.
+على الرغم من أن الخوارزمية المذكورة أعلاه تلبي العديد من متطلبات LT، إلا أنها تنتهك متطلبات أن تكون `e` صغيرة ومحدودة.
 
-To see why, let's extend our example to consider what happens with subsequent events on P and Q. In particular, P generates an event C soon after B (in RT), and then Q generates an event D about thirty seconds after that:
+لمعرفة السبب، دعونا نوسع مثالنا للنظر في ما يحدث مع الأحداث اللاحقة على P وQ. على وجه الخصوص، P يولد حدث C بعد وقت قصير من B (في RT)، ثم Q يولد حدث D بعد حوالي ثلاثين ثانية من ذلك:
 
 ![Problem: PT clock-skew breaks LT ordering of future events C and D, even though they differ by 30 seconds in RT](https://public.asmartbear.com/books/anthology/chapters/distributed-logical-time/skew-breaks-events-c-and-d-simple.png)
 
-We've highlighted the problem: `LT{ C>D }`, even though `RT{ C<D }`. The cause of the problem is displayed in the diagram: Because Q's PT is so far behind P's, Q has to use its `Counter` to increment its LT, but meanwhile P is incrementing its LT using its PT. In fact, *every* event on P during the minute after P communicated with Q will have an LT greater than *every* event on Q during the same interval, regardless of their ordering in RT. This is the condition described in our original LT goals where events can be mis-ordered in LT if they happen closer than a duration `e`. The trouble is, `e` is too big (it's one minute in this example) and it's not bounded (it could just as easily be one hour).
+لقد سلطنا الضوء على المشكلة: `LT{ C>D }`، على الرغم من `RT{ C<D }`. يتم عرض سبب المشكلة في الرسم البياني: نظرًا لأن PT الخاص بـ Q متأخر جدًا عن P، يتعين على Q استخدام "العداد" الخاص به لزيادة LT، ولكن في هذه الأثناء تقوم P بزيادة LT باستخدام PT الخاص بها. في الواقع، *كل* حدث على P خلال الدقيقة التي تلي اتصال P مع Q سيكون له LT أكبر من *كل* حدث على Q خلال نفس الفترة، بغض النظر عن ترتيبها في RT. هذه هي الحالة الموصوفة في أهداف LT الأصلية حيث يمكن أن يتم ترتيب الأحداث بشكل خاطئ في LT إذا حدثت في وقت أقرب من المدة `e`. المشكلة هي أن `e` كبير جدًا (يبلغ دقيقة واحدة في هذا المثال) وغير محدد (يمكن أن يستغرق ساعة واحدة بسهولة).
 
-This situation remains even after Q's PT catches up with the synchronization event. P's LTs will *always* have a larger PT component than Q's LTs, and thus P's events (within any one-minute time window) will always look like they are later than Q's in LT, regardless of their order in RT.
+ويظل هذا الوضع حتى بعد أن يلحق Q's PT بحدث المزامنة. سيكون لـ LT الخاص بـ P * دائمًا * مكون PT أكبر من LT لـ Q، وبالتالي فإن أحداث P (ضمن أي نافذة زمنية مدتها دقيقة واحدة) ستبدو دائمًا وكأنها متأخرة عن Q في LT، بغض النظر عن ترتيبها في RT.
 
-One solution is to mandate small PT clock skews, which in turn mandates that `e` is small. For example, a basic NTP service can keep clocks synchronized to within tens of milliseconds. In this case the effect in our example would still exist, but only inside a tiny time window of tens of milliseconds, not a full minute. That would be acceptable.
+أحد الحلول هو فرض انحرافات صغيرة لساعة PT، والتي بدورها تتطلب أن تكون `e` صغيرة. على سبيل المثال، يمكن لخدمة NTP الأساسية أن تحافظ على مزامنة الساعات في حدود عشرات المللي ثانية. في هذه الحالة، سيظل التأثير في مثالنا موجودًا، ولكن فقط داخل نافذة زمنية صغيرة تبلغ عشرات المللي ثانية، وليس دقيقة كاملة. سيكون ذلك مقبولا.
 
-However, our implementation does not assume control over PT. A replica might be a browser or laptop that we don't control, or a virtual machine that isn't running NTP. So, we need an algorithmic extension that eliminates this problem of PT clock skew.
+ومع ذلك، فإن تنفيذنا لا يفترض السيطرة على PT. قد تكون النسخة المتماثلة عبارة عن متصفح أو كمبيوتر محمول لا نتحكم فيه، أو جهاز افتراضي لا يقوم بتشغيل NTP. لذا، نحن بحاجة إلى امتداد خوارزمي يزيل مشكلة انحراف ساعة PT.
 
-The solution is for Q to compute the PT clock skew, and use that as an offset to its native PT to stay reasonably up-to-date with P. This cannot be done precisely, because of the non-measurable and often-variable communication transmission delay between P and Q, and because PT isn't dependable, but it turns out being precise is not necessary.
+الحل هو أن تقوم Q بحساب انحراف ساعة PT، واستخدام ذلك كإزاحة لـ PT الأصلي الخاص بها للبقاء محدثًا بشكل معقول مع P. لا يمكن القيام بذلك بدقة، بسبب تأخير إرسال الاتصال غير القابل للقياس والمتغير غالبًا بين P و Q، ولأن PT لا يمكن الاعتماد عليه، ولكن تبين أن الدقة ليست ضرورية.
 
-When P communicates its LT to Q, Q computes `s = PT{ P-Q }` as the "skew." As the diagram below illustrates, `s` will always under-estimate the actual clock skew, because it's not taking transmission-time `d` into account. In our example here, the actual clock-skew is `60`, but the computed skew is `59` due to the transmission delay `d=1`.
+عندما يقوم P بتوصيل LT الخاص به إلى Q، فإن Q يحسب `s = PT{ P-Q }` باعتباره "الانحراف." كما يوضح الرسم البياني أدناه، ستقلل s دائمًا من تقدير انحراف الساعة الفعلي، لأنها لا تأخذ وقت الإرسال `d` في الاعتبار. في مثالنا هنا، انحراف الساعة الفعلي هو `60`، ولكن الانحراف المحسوب هو `59` بسبب تأخير الإرسال `d=1`.
 
-When `s` is positive, Q saves `s`. The next time PT is computed, Q uses `PT{ Q } + s` as physical time. This means Q's idea of physical time is now only `d` behind P. This nullifies the problem in our example:
+عندما تكون قيمة s موجبة، يقوم Q بحفظ `s`. في المرة التالية التي يتم فيها حساب PT، يستخدم Q `PT{ Q } + s` كوقت فعلي. وهذا يعني أن فكرة Q عن الوقت الفعلي أصبحت الآن "d" فقط خلف P. وهذا يبطل المشكلة في مثالنا:
 
 ![Solution: Use an approximation of real clock skew to reduce the time-window of out-of-order LTs](https://public.asmartbear.com/books/anthology/chapters/distributed-logical-time/skew-fixes-events-c-and-d-simple.png)
 
-If `s` is negative, it is ignored; this ensures that clocks that are already ahead do not get even further ahead.
+إذا كانت `s` سلبية، فسيتم تجاهلها؛ وهذا يضمن أن الساعات التي سبقتها بالفعل لا تتقدم أكثر.
 
-Although in practice `d` is not measurable and fluctuates, it is always non-zero, and rarely larger than a few seconds. It is proportional to network transmission time, not proportional to PT clock skew or any other system state or configuration. Therefore we can say that `s` always under-estimates skew, and by a bounded amount on the order of the replica's communications delay (i.e. 1ms inside a data center, 100ms across a country, or 1000ms across the world).
+على الرغم من أن `d` لا يمكن قياسه عمليًا ويتقلب، إلا أنه دائمًا ما يكون غير صفر، ونادرًا ما يكون أكبر من بضع ثوانٍ. وهو يتناسب مع وقت إرسال الشبكة، ولا يتناسب مع انحراف ساعة PT أو أي حالة أو تكوين آخر للنظام. لذلك يمكننا القول أن التقديرات دائمًا ما تكون أقل من الانحراف، وبقدر محدد حسب ترتيب تأخير اتصالات النسخة المتماثلة (أي 1 مللي ثانية داخل مركز البيانات، أو 100 مللي ثانية عبر الدولة، أو 1000 مللي ثانية عبر العالم).
 
-Finally, observe from the diagram that the time-window in which this problem can occur has been reduced to just 1 second, i.e. reduced to `d`. Indeed, `e` from our LT goals is exactly `d` theoretically, and on the order of `d` practically, which we just said was less than a few seconds. Thus, we have achieved the objective that `e` be a bounded constant.
+أخيرًا، لاحظ من الرسم البياني أن النافذة الزمنية التي يمكن أن تحدث فيها هذه المشكلة قد تم تقليلها إلى ثانية واحدة فقط، أي تم تقليلها إلى "d". في الواقع، `e` من أهداف LT الخاصة بنا هي بالضبط `d` نظريًا، وبترتيب `d` عمليًا، والذي قلنا للتو أنه كان أقل من بضع ثوانٍ. وبذلك نكون قد حققنا الهدف المتمثل في أن يكون `e` ثابتًا محددًا.
 
-What happens when all replicas' PTs are in fact well-synchronized, e.g. with an error less than `d`, which is easily achievable with well-known algorithms like NTP, or modern phones and laptops that synchronize their clock with GPS? Then the computed skew will be less than zero. To see why, consider that `[computed skew] = [real skew] - d`, but in this hypothetical, `[real skew]` might be 50ms whereas `d` is typically greater than that. Negative computed skews are ignored, thus we'll always have `s = 0`.
+ماذا يحدث عندما تكون نقاط الوقت الخاصة بجميع النسخ المتماثلة متزامنة جيدًا في الواقع، على سبيل المثال. مع وجود خطأ أقل من `d`، والذي يمكن تحقيقه بسهولة باستخدام خوارزميات معروفة مثل NTP، أو الهواتف وأجهزة الكمبيوتر المحمولة الحديثة التي تزامن ساعتها مع نظام تحديد المواقع العالمي (GPS)؟ ثم سيكون الانحراف المحسوب أقل من الصفر. لمعرفة السبب، ضع في اعتبارك أن `[الانحراف المحسوب] = [الانحراف الحقيقي] - d`، ولكن في هذا الوضع الافتراضي، قد يكون `[الانحراف الحقيقي]` 50 مللي ثانية بينما يكون `d` أكبر من ذلك عادةً. يتم تجاهل الانحرافات المحسوبة السالبة، وبالتالي سيكون لدينا دائمًا `s = 0`.
 
-Although this is not a specific requirement on the behavior of LT, it does satisfy an intuitive desire for skew-correction to vanish when it isn't needed.
+على الرغم من أن هذا ليس متطلبًا محددًا لسلوك LT، إلا أنه يرضي رغبة بديهية في اختفاء تصحيح الانحراف عندما لا تكون هناك حاجة إليه.
 
-If a replica's PT is substantially earlier than RT, it will develop a large forward skew, neutralizing the problem. If a replica's PT is substantially later than RT, all other replicas will develop a skew that aligns with it. Therefore, we achieve the objective that significant skews in either direction don't adversely affect operation of those replicas or of others.
+إذا كانت نقطة PT الخاصة بالنسخة المتماثلة أقدم بكثير من RT، فسوف تتطور إلى انحراف كبير للأمام، مما يؤدي إلى تحييد المشكلة. إذا كان PT للنسخة المتماثلة متأخرًا بشكل كبير عن RT، فإن جميع النسخ المتماثلة الأخرى ستطور انحرافًا يتماشى معها. ولذلك، فإننا نحقق الهدف المتمثل في أن الانحرافات الكبيرة في أي من الاتجاهين لا تؤثر سلبًا على تشغيل تلك النسخ المتماثلة أو غيرها.
 
-Still, a replica with a large `PT-RT` will create a large skew value for the whole group, with the legal but undesirable effect that `PT + s` differs significantly from RT. When that happens, it's important that skews don't continue to creep up, with each replica edging the others forward. A non-zero value of `d` helps; in our implementation we add another 500ms to the effective value of `d` to ensure this effect.
+ومع ذلك، فإن النسخة المتماثلة التي تحتوي على `PT-RT` كبيرة ستخلق قيمة انحراف كبيرة للمجموعة بأكملها، مع التأثير القانوني ولكن غير المرغوب فيه وهو أن `PT + s` يختلف بشكل كبير عن RT. عندما يحدث ذلك، من المهم ألا تستمر الانحرافات في التزايد، حيث تتفوق كل نسخة طبق الأصل على النسخ الأخرى للأمام. تساعد القيمة غير الصفرية لـ `d`؛ في تنفيذنا نضيف 500 مللي ثانية أخرى إلى القيمة الفعالة لـ `d` لضمان هذا التأثير.
 
-## Simulations
+## المحاكاة
 
-The following simulations were generated from our Golang implementation.
+تم إنشاء عمليات المحاكاة التالية من تطبيق Golang الخاص بنا.
 
-#### Convergent LT, with staggered PT
+#### LT المتقاربة، مع PT متداخلة
 
-With replicas starting with PT staggered every 10-seconds, one-way-synchronizing a random pair once per second, they monotonically increase and eventually converge on the one with the latest LT:
+مع النسخ المتماثلة التي تبدأ بـ PT متداخلة كل 10 ثوانٍ، ومزامنة زوج عشوائي في اتجاه واحد مرة واحدة في الثانية، فإنها تزيد بشكل رتيب وتتقارب في النهاية مع الزوج الذي يحتوي على أحدث LT:
 
 ![Chart over time of replicas synchronizing properly](https://public.asmartbear.com/books/anthology/chapters/distributed-logical-time/time-rand-sync-simple.png)
 
-#### Convergent LT, with variable-rate PT
+#### LT المتقاربة، مع PT بمعدل متغير
 
-With each replica's PT clock running at a different rate relative to RT, one-way-synchronizing a random pair once per second, all replicas keep converging close to the one with the latest LT, i.e. the fastest clock:
+مع تشغيل ساعة PT لكل نسخة طبق الأصل بمعدل مختلف بالنسبة إلى RT، ومزامنة زوج عشوائي في اتجاه واحد مرة واحدة في الثانية، تستمر جميع النسخ المتماثلة في التقارب بالقرب من النسخة التي تحتوي على أحدث LT، أي أسرع ساعة:
 
 ![Chart over time of replicas synchronizing properly](https://public.asmartbear.com/books/anthology/chapters/distributed-logical-time/time-rand-rate-sync-simple.png)
 
-#### Far-Future replica joins, then leaves
+#### تنضم النسخة المتماثلة لـ Far-Future، ثم تغادر
 
-A replica with a far-future date joins; all replicas converge on the new far-future LT by one-way-synchronizing a random pair once per second. The "bad" replica then leaves the collective. The remaining replicas have large skews, which should not change. In particular, they should not "creep up" in skew:
+تنضم نسخة متماثلة ذات تاريخ في المستقبل البعيد؛ تتقارب جميع النسخ المتماثلة في LT الجديد في المستقبل البعيد عن طريق مزامنة زوج عشوائي مرة واحدة في الثانية. ثم تترك النسخة المتماثلة "السيئة" المجموعة. النسخ المتماثلة المتبقية لها انحرافات كبيرة، والتي لا ينبغي أن تتغير. على وجه الخصوص، لا ينبغي لهم "الزحف" في الانحراف:
 
 ![Chart over time of replicas synchronizing properly](https://public.asmartbear.com/books/anthology/chapters/distributed-logical-time/time-temp-crazy-future-simple.png)
 
-## Problems
+## مشاكل
 
-#### LT at start-up
+#### LT عند بدء التشغيل
 
-When a replica first starts up, it will have an LT that is likely to need skew-correction. It should "fix" its LT prior to using it in a meaningful way.
+عند بدء تشغيل النسخة المتماثلة لأول مرة، سيكون بها LT من المحتمل أن تحتاج إلى تصحيح الانحراف. يجب أن "يصلح" LT الخاص به قبل استخدامه بطريقة ذات معنى.
 
-One fix is to communicate with any other replica; this will bring it up to speed and set an appropriate skew.
+أحد الإصلاحات هو التواصل مع أي نسخة متماثلة أخرى؛ سيؤدي ذلك إلى رفع سرعته وتعيين الانحراف المناسب.
 
-Another fix is to persist the LT state between runs of the replica. In particular, saving the skew value. However, this is not as good as communicating with a live replica, because the behavior of PT or the collective value of the skew might have changed since the previous run.
+إصلاح آخر هو استمرار حالة LT بين عمليات تشغيل النسخة المتماثلة. على وجه الخصوص، وحفظ قيمة الانحراف. ومع ذلك، فإن هذا ليس جيدًا مثل التواصل مع نسخة متماثلة حية، لأن سلوك PT أو القيمة الجماعية للانحراف ربما تكون قد تغيرت منذ التشغيل السابق.
 
-Using LT without doing those things is still legal and consistent, but will generate events that will appear to be older than they actually are, relative to other events being generated by other replicas around the same RT.
+لا يزال استخدام LT دون القيام بهذه الأشياء قانونيًا ومتسقًا، ولكنه سيؤدي إلى إنشاء أحداث تبدو أقدم مما هي عليه بالفعل، مقارنة بالأحداث الأخرى التي يتم إنشاؤها بواسطة نسخ متماثلة أخرى حول نفس RT.
 
-## Anti-Objectives
+## مكافحة الأهداف
 
-The following are not goals. In some cases the algorithm gives best-effort to achieve them anyway. In some cases there are things the library user can opt-into having that goal, possibly at the expense of a different goal or constraint.
+ما يلي ليس أهدافا. في بعض الحالات، تبذل الخوارزمية قصارى جهدها لتحقيقها على أي حال. في بعض الحالات، هناك أشياء يمكن لمستخدم المكتبة اختيار تحقيق هذا الهدف، ربما على حساب هدف أو قيد مختلف.
 
-### Uniqueness
+### التفرد
 
-The algorithm above creates locally-unique values (i.e. monotonically-increasing), but not globally-unique (i.e. two replicas can generate the same LT).
+تنشئ الخوارزمية أعلاه قيمًا فريدة محليًا (أي متزايدة بشكل رتيب)، ولكنها ليست فريدة عالميًا (أي يمكن لنسختين متماثلتين إنشاء نفس LT).
 
-Uniqueness can be useful because it allows LT to also serve as a "name" of an event in logs or databases.
+يمكن أن يكون التفرد مفيدًا لأنه يسمح لـ LT أيضًا بالعمل "كاسم" لحدث في السجلات أو قواعد البيانات.
 
-It's easy to add uniqueness. Just add more (least-significant) bits to the LT structure. Set them equal to something unique to a replica. This can be a replica ID that is unique in the world, since the rest of the Time components will never be generated again on that replica. Or it can be a sufficiently large number of random bits.
+من السهل إضافة التفرد. ما عليك سوى إضافة المزيد من البتات (الأقل أهمية) إلى بنية LT. قم بتعيينها على قدم المساواة مع شيء فريد للنسخة المتماثلة. يمكن أن يكون هذا معرف نسخة متماثلة فريدة من نوعها في العالم، حيث لن يتم إنشاء بقية مكونات الوقت مرة أخرى على تلك النسخة المتماثلة. أو يمكن أن يكون عددًا كبيرًا بما فيه الكفاية من البتات العشوائية.
 
-It may seem like collisions are already unlikely, however they are common under certain assumptions, namely if PT is coarsely updated and `d` is very small. Consider the example above, but rather than `d=1`, assume a fast network where `d=0.001` but a PT source that updates only once per second (on a timer, say). Once P and Q share LT, they will be identical at the same point in RT, and stay synchronized thanks to `s`. So they will likely collide if both generate an LT inside the same RT second.
+قد يبدو أن الاصطدامات غير محتملة بالفعل، ولكنها شائعة في ظل بعض الافتراضات، أي إذا تم تحديث PT بشكل تقريبي وكان `d' صغيرًا جدًا. خذ بعين الاعتبار المثال أعلاه، ولكن بدلاً من `d=1`، افترض وجود شبكة سريعة حيث `d=0.001` ولكن مصدر PT يتم تحديثه مرة واحدة فقط في الثانية (على سبيل المثال، على جهاز توقيت). بمجرد مشاركة P وQ في LT، سيكونان متطابقين في نفس النقطة في RT، وسيظلان متزامنين بفضل `s`. لذلك من المحتمل أن يتصادما إذا قام كلاهما بإنشاء LT داخل نفس RT ثانية.
 
-### Keep PT close to RT
+### أبقِ PT قريبًا من RT
 
-It's nice if PT stays close to RT, but it is not a requirement.
+من الجيد أن يبقى PT قريبًا من RT، لكن هذا ليس شرطًا.
 
-You can achieve this, in fact making the difference bounded, if you disable skew. This keeps PT close to RT but results in a potentially large `e`, and thus you get mis-ordered events. If you accept this trade-off, you can ensure PT never strays too far from RT, as proved in the [the HLC paper](https://www.cse.buffalo.edu/tech-reports/2014-04.pdf).
+يمكنك تحقيق ذلك، في الواقع جعل الفرق محدودًا، إذا قمت بتعطيل الانحراف. يؤدي هذا إلى إبقاء PT قريبًا من RT ولكنه يؤدي إلى احتمال كبير بـ `e`، وبالتالي تحصل على أحداث مرتبة بشكل خاطئ. إذا قبلت هذه المقايضة، فيمكنك التأكد من أن PT لن يبتعد كثيرًا عن RT، كما ثبت في [ورقة HLC] (https://www.cse.buffalo.edu/tech-reports/2014-04.pdf).
 
-To achieve this while not giving up the objectives on the small size of `e`, you can use NTP or a similar service to keep PT close to RT.
+لتحقيق ذلك مع عدم التخلي عن الأهداف ذات الحجم الصغير لـ `e`، يمكنك استخدام NTP أو خدمة مشابهة لإبقاء PT قريبًا من RT.
 
 ---
 
-In the end, the algorithm is simple, and perhaps even obvious in retrospect. The best things are. Simplicity is a core requirement for scalability and truly bug-free code. We hope these properties result in people using this technique.
+في النهاية، الخوارزمية بسيطة، وربما تكون واضحة عند النظر إلى الماضي. أفضل الأشياء هي. تعد البساطة متطلبًا أساسيًا لقابلية التوسع والتعليمات البرمجية الخالية من الأخطاء حقًا. نأمل أن تؤدي هذه الخصائص إلى استخدام الأشخاص لهذه التقنية.

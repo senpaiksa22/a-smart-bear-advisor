@@ -20,137 +20,110 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** مصفوفة التجاور: كيف تتوسع استراتيجياً بعد ملاءمة المنتج للسوق تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Adjacency Matrix: How to expand after PMF
-
-> **Executive Summary:** A simple workshop that evaluates new business ideas relative to your existing strengths -- the key to expanding without overreaching.
-> **Original URL:** [https://longform.asmartbear.com/adjacency/](https://longform.asmartbear.com/adjacency/)
-
 ![room for new device between mini tablet and mega smartphone](https://public.asmartbear.com/books/anthology/chapters/adjacency/d6598print-simple.png)
 
-## Expansion
+## توسع
 
-Our everyday craft of incremental product evolution is obvious and natural.
+إن حرفتنا اليومية للتطور المتزايد للمنتجات واضحة وطبيعية.
 
-We hear from customers in emotionally overcharged outbursts on Twitter, or public reviews encoding their ire or gratitude, or filtered through the problem-solving of tech support, or teasing us with an if-you-build-it-we-will-come sale that hasn't yet (and may never) close. We then convert what we thought we heard into features and bug-fixes, prioritized by impact and growth ideally, but more likely by pride and intuition; sometimes we get lucky and these are the same thing.
+نسمع من العملاء في نوبات غضب عاطفية زائدة على تويتر، أو مراجعات عامة ترمز إلى غضبهم أو امتنانهم، أو يتم تصفيتها من خلال حل مشكلات الدعم الفني، أو إغاظتنا بعروض بيع إذا قمت ببنائها، فسوف نأتي والتي لم يتم إغلاقها بعد (وربما لن يتم إغلاقها أبدًا). نقوم بعد ذلك بتحويل ما اعتقدنا أننا سمعناه إلى ميزات وإصلاحات للأخطاء، مع إعطاء الأولوية حسب التأثير والنمو بشكل مثالي، ولكن على الأرجح من خلال الفخر والحدس؛ في بعض الأحيان يحالفنا الحظ وهذه هي نفس الشيء.
 
-This works, after [Product/Market Fit](https://longform.asmartbear.com/product-market-fit/). That is, once everything is fundamentally working, and the job is "don't break what's working." Then we should incrementally add [utility and delight](https://longform.asmartbear.com/willingness-to-pay/) while not disrupting the money-making flywheel. Before PMF, it's not working yet, so [the job](https://longform.asmartbear.com/product-market-fit-formula/) is to identify [what can work](https://longform.asmartbear.com/problem/), and [for whom](https://longform.asmartbear.com/icp-ideal-customer-persona/), not to make slight adjustments to something that's not working.
+ينجح هذا بعد [Product/Market Fit](https://longform.asmartbear.com/product-market-fit/). وهذا يعني أنه بمجرد أن يعمل كل شيء بشكل أساسي، وتكون المهمة هي "عدم كسر ما ينجح". ثم يجب علينا إضافة [المنفعة والبهجة] بشكل تدريجي (https://longform.asmartbear.com/willingness-to-pay/) مع عدم تعطيل دولاب الموازنة لكسب المال. قبل PMF، لم يكن الأمر يعمل بعد، لذا [المهمة](https://longform.asmartbear.com/product-market-fit-formula/) هي تحديد [ما يمكن أن ينجح](https://longform.asmartbear.com/problem/)، و[لمن](https://longform.asmartbear.com/icp-ideal-customer-persona/)، وليس إجراء تعديلات طفيفة على شيء لا يعمل.
 
-But then we come to another post-PMF decision: **When and how to expand the scope of the business.**
+ولكن بعد ذلك نصل إلى قرار آخر بعد الحشد الشعبي: **متى وكيف يتم توسيع نطاق العمل.**
 
-Not a *pivot*--that's for companies that are staring death in the face, that must strike out in a new direction for a chance at survival. Rather, an *expansion*--to keep what's working, but sprout new shoots in new directions. Adhering to the [rules of great strategy](https://longform.asmartbear.com/great-strategy/) by [leveraging existing assets](https://longform.asmartbear.com/leverage/) to attack a valuable new opportunity with asymmetric upside. (Add your favorite buzzwords; those were mine.)
+ليس *محورًا*--هذا بالنسبة للشركات التي تواجه الموت، والتي يجب أن تتجه في اتجاه جديد للحصول على فرصة للبقاء. بل بالأحرى، *توسيع*--للحفاظ على ما ينجح، ولكن مع إنبات براعم جديدة في اتجاهات جديدة. الالتزام بـ [قواعد الإستراتيجية الرائعة](https://longform.asmartbear.com/great-strategy/) من خلال [الاستفادة من الأصول الحالية](https://longform.asmartbear.com/leverage/) لاغتنام فرصة جديدة قيمة ذات اتجاه صعودي غير متماثل. (أضف الكلمات الطنانة المفضلة لديك؛ تلك كانت كلماتي.)
 
-When is the right moment to venture into new territory, rather than building obvious, incremental things with little risk?
+ما هي اللحظة المناسبة للمغامرة في مناطق جديدة، بدلاً من بناء أشياء تدريجية واضحة مع القليل من المخاطر؟
 
-#### Bottlenecked growth
-If existing marketing and sales channels are at their limit--when spending more time or money doesn't yield more output, or at least, not cost-efficiently. In that case, an expansion to a new channel, or new geography, or new market segment, accelerates growth.
+#### نمو معوق
+إذا كانت قنوات التسويق والمبيعات الحالية عند الحد الأقصى - عندما لا يؤدي إنفاق المزيد من الوقت أو المال إلى زيادة الإنتاج، أو على الأقل، ليس فعالاً من حيث التكلفة. وفي هذه الحالة، يؤدي التوسع إلى قناة جديدة، أو منطقة جغرافية جديدة، أو قطاع جديد من السوق، إلى تسريع النمو.
 
-#### Target market saturation
-If you've already won 5% or more of your perfect market. Some people use acronyms[^1] to name this concept; I mean of the total number of people who are your [ICP (Ideal Customer Profile)](https://longform.asmartbear.com/icp-ideal-customer-persona/)--oh goodie, another acronym--the absolutely-perfect-in-every-way customer whom you are targeting with all your marketing and product features. 5% is not saturation, but if you got to 5%, [you can presumably get to 10% with similar methods](https://longform.asmartbear.com/lindy-effect/). Since you're well on your way to that already, you can afford to turn your attention to segments that are similar enough to be relevant, but different enough that they require effort to serve well.
+#### تشبع السوق المستهدف
+إذا كنت قد فزت بالفعل بنسبة 5% أو أكثر من السوق المثالي. يستخدم بعض الأشخاص الاختصارات[^1] لتسمية هذا المفهوم؛ أعني إجمالي عدد الأشخاص الذين يمثلون [ICP (الملف التعريفي للعميل المثالي)](https://longform.asmartbear.com/icp-ideal-customer-persona/)--أوه، اختصار آخر--العميل المثالي تمامًا في كل الاتجاهات الذي تستهدفه بكل ميزات التسويق والمنتج الخاصة بك. 5% ليس تشبعًا، ولكن إذا وصلت إلى 5%، [من المفترض أن تصل إلى 10% بطرق مماثلة](https://longform.asmartbear.com/lindy-effect/). نظرًا لأنك في طريقك إلى ذلك بالفعل، يمكنك تحويل انتباهك إلى شرائح متشابهة بما يكفي لتكون ذات صلة، ولكنها مختلفة بما يكفي بحيث تتطلب جهدًا لتقديم الخدمة بشكل جيد.
 
-#### Diversification
-Adding new marketing channels, new target markets, new geographies, new pricing options should not only add growth, but make the company more robust to market and economic disruptions. At WP Engine we experienced this after expanding upmarket. It wasn't just "growth"--addressing a new segment meant our value proposition became different. Small businesses saw us as "**expensive**, but the best," whereas large companies saw us as "**low cost**, yet still enterprise-grade." This diversification of positioning resulted in robust growth during the COVID crisis, where smaller companies were going out of business (i.e. "expensive" is now bad), but larger companies were looking for ways to save money (i.e. "low cost" is now good). When one segment has difficulty, the other grows; the net effect is stability. At scale, this is nirvana.
+#### تنويع
+إن إضافة قنوات تسويق جديدة وأسواق مستهدفة جديدة ومناطق جغرافية جديدة وخيارات تسعير جديدة لا ينبغي أن تضيف النمو فحسب، بل تجعل الشركة أكثر قوة في مواجهة اضطرابات السوق والاقتصاد. في WP Engine، شهدنا هذا بعد التوسع في السوق الراقية. لم يكن الأمر مجرد "نمو" - فتناول شريحة جديدة يعني أن عرض القيمة لدينا أصبح مختلفًا. نظرت إلينا الشركات الصغيرة على أننا "**باهظ الثمن**، ولكننا الأفضل"، في حين نظرت إلينا الشركات الكبيرة على أننا "**منخفضي التكلفة**، ومع ذلك لا نزال على مستوى المؤسسات". أدى هذا التنويع في تحديد المواقع إلى نمو قوي خلال أزمة كوفيد، حيث توقفت الشركات الصغيرة عن العمل (أي أن كلمة "باهظة الثمن" أصبحت الآن سيئة)، لكن الشركات الأكبر كانت تبحث عن طرق لتوفير المال (أي أن "التكلفة المنخفضة" أصبحت الآن جيدة). عندما يواجه أحد الأقسام صعوبة، ينمو الآخر؛ التأثير الصافي هو الاستقرار. على نطاق واسع، وهذا هو السكينة.
 
-#### When you can afford to invest
-A company throwing off more than a million dollars a year in profit can afford to try something new; failure in a new investment is not fatal. Expansions are both costly and risky; extra money covers both liabilities. Extra money could come in the form of outside investment or profit draw-downs, but either way it's a bet, it's an investment, and the [typical investment rules](https://longform.asmartbear.com/investment/) apply.
+#### عندما تكون قادرا على الاستثمار
+يمكن للشركة التي تحقق أرباحًا تزيد عن مليون دولار سنويًا أن تجرب شيئًا جديدًا؛ الفشل في استثمار جديد ليس قاتلا. إن التوسعات مكلفة ومحفوفة بالمخاطر على حد سواء؛ الأموال الإضافية تغطي كلا الالتزامات. يمكن أن تأتي الأموال الإضافية في شكل استثمار خارجي أو سحب أرباح، ولكن في كلتا الحالتين يعد رهانًا، وهو استثمار، وتنطبق [قواعد الاستثمار النموذجية](https://longform.asmartbear.com/investment/).
 
-[^1]: TAM (Total Addressable Market), or SAM (Serviceable Addressable Market); there's more.
+[^1]: TAM (إجمالي السوق القابلة للعنونة)، أو SAM (السوق القابلة للعنونة)؛ هناك المزيد.
 
-If one of these conditions is met, we come to the crux of this article: **How do you decide in which direction to expand?**
+فإذا توفر أحد هذه الشروط نأتي إلى جوهر هذا المقال: **كيف تقرر في أي اتجاه ستتوسع؟**
 
-## Adjacency
+## المجاورة
 
-The key idea is "adjacency," meaning "close by." The difference between incremental change and expansion is that expansion is "somewhere else," but the difference between expansion and something too far afield is "adjacency."
+الفكرة الأساسية هي "المجاورة" والتي تعني "القريب". الفرق بين التغيير التدريجي والتوسع هو أن التوسع هو "في مكان آخر"، ولكن الفرق بين التوسع وشيء بعيد جدًا هو "المجاورة".
 
-You don't want to go so far afield that you're not leveraging existing assets, and thus it is too risky, and too costly, such that even if the opportunity is large and tangible, it's still a bad idea _for you_. A great strategy--that doesn't align with your strengths--is a bad strategy _for you_.
+أنت لا تريد أن تذهب إلى أبعد من ذلك بحيث لا تستفيد من الأصول الموجودة، وبالتالي فإن الأمر محفوف بالمخاطر ومكلف للغاية، لدرجة أنه حتى لو كانت الفرصة كبيرة وملموسة، فإنها لا تزال فكرة سيئة _بالنسبة لك_. الإستراتيجية الرائعة - التي لا تتوافق مع نقاط قوتك - هي إستراتيجية سيئة بالنسبة لك.
 
-It's not hard to think of ways to expand the business. You could enter a new geography. You could target a different ICP, different niche, different vertical, different use-cases. You could go up- or down-market in the size of business you sell to or in the customer's [Needs Stack](https://longform.asmartbear.com/needs-stack/). You could add a freemium tier, add a higher pricing tier, add a lifetime plan, add a new product line. You could expand from iOS-only to add Android, from web-only to mobile-app, from integrating with one third-party to ten. You could venture away from the reputational investment of SEO and social channels into the analytical world of paid marketing, or venture from the pay-for-today world of advertising to the invest-in-the-future world of SEO and social.
+ليس من الصعب التفكير في طرق لتوسيع نطاق الأعمال. يمكنك إدخال جغرافيا جديدة. يمكنك استهداف برنامج ICP مختلف، ومكانة مختلفة، وقطاعات مختلفة، وحالات استخدام مختلفة. يمكنك الصعود أو الانخفاض في حجم السوق من حيث حجم النشاط التجاري الذي تبيعه له أو في [Needs Stack] الخاص بالعميل(https://longform.asmartbear.com/needs-stack/). يمكنك إضافة طبقة فريميوم، أو إضافة طبقة تسعير أعلى، أو إضافة خطة مدى الحياة، أو إضافة خط إنتاج جديد. يمكنك التوسع من iOS فقط لإضافة Android، ومن الويب فقط إلى تطبيقات الهاتف المحمول، ومن التكامل مع جهة خارجية واحدة إلى عشرة. يمكنك الابتعاد عن استثمار السمعة في تحسين محركات البحث (SEO) والقنوات الاجتماعية إلى العالم التحليلي للتسويق المدفوع، أو المغامرة من عالم الإعلانات المدفوع مقابل اليوم إلى عالم الاستثمار في المستقبل في تحسين محركات البحث (SEO) ووسائل التواصل الاجتماعي.
 
-If you want to be more systematic, you can use something like the Lean Canvas to ideate:
+إذا كنت تريد أن تكون أكثر منهجية، يمكنك استخدام شيء مثل Lean Canvas للتفكير في:
 
 ![Ash Maurya's version of the popular business model "canvas."](https://public.asmartbear.com/books/anthology/chapters/adjacency/image-simple.png)
 
-Fill each box according to the existing business, then brainstorm[^2] ways that you could expand or improve on each box.
+املأ كل مربع وفقًا للأعمال الحالية، ثم فكر في طرق[^2] التي يمكنك من خلالها توسيع كل مربع أو تحسينه.
 
-[^2]: Here are [some fresh and fun ways to brainstorm](https://longform.asmartbear.com/extreme-questions/) these sorts of ideas. LLMs can be helpful--not to select ideas, but to generate possibilities.
+[^2]: إليك [بعض الطرق الجديدة والممتعة لتبادل الأفكار](https://longform.asmartbear.com/extreme-questions/) هذه الأنواع من الأفكار. يمكن أن تكون درجات الماجستير في القانون مفيدة، ليس في اختيار الأفكار، بل في توليد الإمكانيات.
 
-Calculating the potential upside of these ideas will of course be specific to the idea and the company. In this article, I give my general framework for evaluating the cost and risks of executing those ideas, answering the question: **How adjacent is this idea** to the current business?
+إن حساب الجانب الإيجابي المحتمل لهذه الأفكار سيكون بالطبع خاصًا بالفكرة والشركة. في هذه المقالة، أقدم إطاري العام لتقييم تكلفة ومخاطر تنفيذ تلك الأفكار، والإجابة على السؤال: **ما مدى قرب هذه الفكرة** من العمل الحالي؟
 
-## The Adjacency Matrix
+## مصفوفة الجوار
 
-Start with a table of the major functional areas of your business. It will be similar to the following, but tune it for yourself. For example, a company leveraging product-led growth may have no Sales department, but might have a heavy design culture and thus would add a row for Design.
+ابدأ بجدول المجالات الوظيفية الرئيسية لعملك. سيكون مشابهًا لما يلي، لكن قم بضبطه بنفسك. على سبيل المثال، قد لا يكون لدى الشركة التي تستفيد من النمو القائم على المنتج قسم مبيعات، ولكن قد يكون لديها ثقافة تصميم كثيفة وبالتالي ستضيف صفًا للتصميم.
 
-| Functional Area | Types of Activities & Responsibilities |
-|:----|:----|
-| Marketing | getting attention; brand personality & positioning; acquisition channels |
-| Sales | processing leads; managing the sales process; pitch & competitive materials; domain expertise; sales training |
-| Service | expertise; technical knowledge; domain expertise; product training |
-| Product | understanding the customer; mix of data and intuition; roadmaps; [everything else](https://longform.asmartbear.com/great-product-manager/) |
-| Engineering | platforms; architecture; major libraries & frameworks; tech debt; infrastructure; specialized skills and knowledge |
-| Business Model | Pricing and packaging; unit economics; profitability; budgeting |
+| المنطقة الوظيفية | أنواع الأنشطة والمسؤوليات | |:----|:----| | التسويق | الحصول على الاهتمام؛ شخصية العلامة التجارية وتحديد المواقع؛ قنوات الاكتساب | | مبيعات | يؤدي المعالجة؛ إدارة عملية البيع؛ الملعب والمواد التنافسية؛ خبرة المجال؛ التدريب على المبيعات | | الخدمة | خبرة؛ المعرفة التقنية؛ خبرة المجال؛ التدريب على المنتجات | | المنتج | فهم العميل؛ مزيج من البيانات والحدس. خرائط الطريق؛ [كل شيء آخر](https://longform.asmartbear.com/great-product-manager/) | | هندسة | منصات؛ بنيان؛ المكتبات والأطر الرئيسية؛ ديون التكنولوجيا؛ بنية تحتية؛ المهارات والمعارف المتخصصة | | نموذج العمل | التسعير والتعبئة والتغليف. اقتصاديات الوحدة؛ الربحية الميزانية |
 
-Now evaluate the "adjacency" of your proposal by determining **how much each of these activities must change** to support the new initiative. Your only choices are:
+قم الآن بتقييم "مدى قرب" اقتراحك من خلال تحديد **مدى التغيير الذي يجب أن يتغير في كل من هذه الأنشطة** لدعم المبادرة الجديدة. اختياراتك الوحيدة هي:
 
-* ✓ **Trivial**--Almost no changes required. "Training" is an email or one Zoom session. Adjusting sales and marketing material means adding a few bullets.
-* ⚠ **Adjustment**--Change-management required, but manageable within current processes, norms, and organizational structure, similar to a "large new feature release." Requires training. New sales slides. A new web page for the website. A non-trivial change to pricing and packaging. New [SMEs](https://en.wikipedia.org/wiki/Subject-matter_expert) in Support.
-* ✗ **Overhaul**--Major change needed: hiring for new skills or for capacity, significant retraining that might require new specializations, structural process or management changes, especially if the org chart is changing. Often you're not entirely sure of the full extent of the changes, i.e. it is sufficiently complex that we can't identify all the challenges and risks that await us.
+* ✓ **تافهة**--لا توجد تغييرات مطلوبة تقريبًا. "التدريب" عبارة عن بريد إلكتروني أو جلسة Zoom واحدة. تعديل مواد المبيعات والتسويق يعني إضافة بضع نقاط.
+* ⚠ **التعديل**--إدارة التغيير مطلوبة، ولكن يمكن التحكم فيها ضمن العمليات والمعايير والهيكل التنظيمي الحالي، على غرار "إصدار ميزات جديدة كبيرة". يتطلب التدريب. شرائح مبيعات جديدة. صفحة ويب جديدة للموقع. تغيير غير تافه في التسعير والتعبئة والتغليف. [الشركات الصغيرة والمتوسطة] الجديدة (https://en.wikipedia.org/wiki/Subject-matter_expert) في الدعم.
+* ✗ **الإصلاح الشامل**--التغيير الرئيسي المطلوب: التوظيف لمهارات جديدة أو لقدرات، وإعادة تدريب كبيرة قد تتطلب تخصصات جديدة، أو تغييرات في العمليات الهيكلية أو الإدارية، خاصة إذا كان المخطط التنظيمي يتغير. في كثير من الأحيان، لا تكون متأكدًا تمامًا من المدى الكامل للتغييرات، أي أنها معقدة بدرجة كافية بحيث لا يمكننا تحديد جميع التحديات والمخاطر التي تنتظرنا.
 
-Longtime readers will recognize this as another instance of my Fermi Estimation[^3] hobbyhorse, in which we intentionally limit choices to avoid arguing over details and predictions that we [aren't qualified to make anyway](https://longform.asmartbear.com/predict-the-future/). Sorting into one of these three buckets should be relatively easy, without extensive analysis.
+سوف يتعرف القراء القدامى على هذا باعتباره مثالًا آخر على هوايتي لتقدير Fermi[^3]، حيث نقوم عن عمد بتحديد الخيارات لتجنب الجدال حول التفاصيل والتنبؤات التي [لسنا مؤهلين للقيام بها على أي حال](https://longform.asmartbear.com/predict-the-future/). يجب أن يكون الفرز في إحدى هذه المجموعات الثلاثة سهلاً نسبيًا، دون الحاجة إلى تحليل مكثف.
 
-[^3]: Described completely in how to use [Fermi estimation for ROI-type decisions](https://longform.asmartbear.com/roi-rubric/), including both objective dimensions like "time" and subjective dimensions like "what makes for a compelling product," and echoed in pieces on [probabilities](https://longform.asmartbear.com/probability-words/), [evaluating markets](https://longform.asmartbear.com/problem/), and [making big decisions](https://longform.asmartbear.com/maximized-decision/), among others.
+[^3]: تم وصفه بالكامل في كيفية استخدام [تقدير فيرمي للقرارات المتعلقة بعائد الاستثمار](https://longform.asmartbear.com/roi-rubric/)، بما في ذلك الأبعاد الموضوعية مثل "الوقت" والأبعاد الذاتية مثل "ما الذي يجعل منتجًا مقنعًا"، وتردد في أجزاء حول [الاحتمالات](https://longform.asmartbear.com/probability-words/)، [تقييم الأسواق](https://longform.asmartbear.com/problem/)، و[اتخاذ قرارات كبيرة](https://longform.asmartbear.com/maximized-decision/)، من بين أمور أخرى.
 
-As an example, I'll take our company WP Engine in 2013 when our [ICP](https://longform.asmartbear.com/icp-ideal-customer-persona/) was "small to mid-size company's home page and small to mid-size blogs/media, often built by freelancers and small agencies." We'll evaluate two ideas: (a) expand to support marketing campaigns run by Enterprise-sized companies, and (b) expand to host the main websites of Enterprise-sized companies:
+على سبيل المثال، سأأخذ شركتنا WP Engine في عام 2013 عندما كان [ICP](https://longform.asmartbear.com/icp-ideal-customer-persona/) "الصفحة الرئيسية للشركة الصغيرة إلى المتوسطة الحجم والمدونات/الوسائط الصغيرة إلى المتوسطة الحجم، والتي غالبًا ما تم إنشاؤها بواسطة مستقلين ووكالات صغيرة." سنقوم بتقييم فكرتين: (أ) التوسع لدعم الحملات التسويقية التي تديرها الشركات ذات الحجم المؤسسي، و (ب) التوسع لاستضافة مواقع الويب الرئيسية للشركات ذات الحجم المؤسسي:
 
-| Functional Area | Enterprise <br/> Campaigns | Enterprise <br/> Full Site |
-|:----|:----|:----|
-| Marketing | ⚠ **Adjustment** <br/> (new target audience, and message of "campaign" instead of "home page") | ✗ **Overhaul** <br/> (completely new competitors, new marketing channels, establish brand from scratch) |
-| Sales | ✗ **Overhaul** <br/> (drastically new sales processes and cycle times) | ✗ **Overhaul** |
-| Service | ✓ **Trivial** | ✗ **Overhaul** <br/> (e.g. new people and specializations like account management and white-glove onboarding) |
-| Product | ✓ **Trivial** <br/> (campaigns don't require new features) | ⚠ **Adjustment** <br/> (new compliance requirements, but few new features) |
-| Engineering | ✓ **Trivial** | ✓ **Trivial** <br/> (enterprise websites get similar amounts and types of traffic as popular websites belonging to small companies) |
-| Business Model | ✓ **Trivial** <br/> (existing plans are sufficient) | ⚠ **Adjustment** <br/> (new plans, but same business model) |
+| المنطقة الوظيفية | حملات المؤسسة <br/> | المؤسسة <br/> الموقع الكامل | |:----|:----|:----| | التسويق | ⚠ **التعديل** <br/> (الجمهور المستهدف الجديد، ورسالة "الحملة" بدلاً من "الصفحة الرئيسية") | ✗ **إصلاح شامل** <br/> (منافسون جدد تمامًا، قنوات تسويقية جديدة، إنشاء علامة تجارية من الصفر) | | مبيعات | ✗ **إصلاح شامل** <br/> (عمليات مبيعات وأوقات دورة جديدة بشكل جذري) | ✗ **إصلاح شامل** | | الخدمة | ✓ **تافهة** | ✗ **الإصلاح الشامل** <br/> (على سبيل المثال، الأشخاص الجدد والتخصصات مثل إدارة الحساب والتأهيل الإداري) | | المنتج | ✓ **تافهة** <br/> (الحملات لا تتطلب ميزات جديدة) | ⚠ **التعديل** <br/> (متطلبات الامتثال الجديدة، ولكن بعض الميزات الجديدة) | | هندسة | ✓ **تافهة** | ✓ **تافهة** <br/> (تحصل مواقع الويب الخاصة بالمؤسسات على كميات وأنواع من الزيارات مماثلة لتلك التي تحصل عليها المواقع الشهيرة التابعة للشركات الصغيرة) | | نموذج العمل | ✓ **تافهة** <br/> (الخطط الحالية كافية) | ⚠ **التعديل** <br/> (خطط جديدة، ولكن نفس نموذج العمل) |
 
-In this case, the conclusion might seem obvious--of course it's easier to serve a small use-case in a new segment ("Enterprise") than it is to compete in a major use-case in a new segment.
+في هذه الحالة، قد يبدو الاستنتاج واضحًا - بالطبع من الأسهل خدمة حالة استخدام صغيرة في شريحة جديدة ("المؤسسة") بدلاً من التنافس في حالة استخدام رئيسية في شريحة جديدة.
 
-What might not have been obvious is how dramatically different it is to "sell to the Enterprise." Often startups claim this as their growth path, even when they're at only $500k in ARR. This is definitely the wrong strategy at that moment; this exercise makes it clear, yet companies often conclude the opposite. They should instead be considering simple use-cases at larger companies, or they should be ignoring the complexity of large companies so they can continue winning where they are already strong.
+ما قد لا يكون واضحًا هو مدى الاختلاف الكبير بين "البيع للمؤسسة". غالبًا ما تدعي الشركات الناشئة أن هذا هو مسار نموها، حتى عندما يكون سعرها 500 ألف دولار فقط في ARR. وهذه بالتأكيد هي الإستراتيجية الخاطئة في تلك اللحظة؛ يوضح هذا التمرين، لكن الشركات غالبًا ما تستنتج عكس ذلك. وينبغي لهم بدلاً من ذلك أن يفكروا في حالات الاستخدام البسيطة في الشركات الكبرى، أو يجب عليهم أن يتجاهلوا تعقيد الشركات الكبيرة حتى يتمكنوا من الاستمرار في الفوز حيث هم أقوياء بالفعل.
 
-Furthermore, it shows how much investment is needed if you insist on investing in Enterprise. Sometimes that _is_ the right strategy. After all, calculating "how adjacent" is about *evaluating* the decision, not *dictating* it. If, for example, a company is at $60M ARR with steady growth in absolute dollars but slowing as a percentage of revenue, spending $10M to add an Enterprise-focused business model could be a great growth strategy.
+علاوة على ذلك، فهو يوضح مقدار الاستثمار المطلوب إذا كنت تصر على الاستثمار في Enterprise. في بعض الأحيان تكون هذه هي الإستراتيجية الصحيحة. ففي النهاية، حساب "مدى التقارب" يتعلق بـ *تقييم* القرار، وليس *إملائه*. على سبيل المثال، إذا كان حجم الشركة يبلغ 60 مليون دولار أمريكي مع نمو ثابت بالدولار المطلق ولكن يتباطأ كنسبة مئوية من الإيرادات، فإن إنفاق 10 ملايين دولار لإضافة نموذج أعمال يركز على المؤسسة يمكن أن يكون استراتيجية نمو رائعة.
 
-In particular, when more than one area requires a "full overhaul," that's a deal-breaker if this is supposed to be an incremental, sustaining innovation. If multiple areas require a full overhaul, this is only acceptable if (a) you are willing to make a huge investment and (b) you're willing to take a large risk that it will not pay off, and this only makes sense if (c) the potential upside is enormous. This reiterates the [first rule of investments](https://longform.asmartbear.com/investment/).
+على وجه الخصوص، عندما يتطلب أكثر من مجال واحد "إصلاحًا شاملاً"، فإن ذلك يعد بمثابة كسر للصفقة إذا كان من المفترض أن يكون هذا الابتكار تدريجيًا ومستدامًا. إذا كانت مجالات متعددة تتطلب إصلاحًا كاملاً، فهذا مقبول فقط إذا (أ) كنت على استعداد للقيام باستثمار ضخم و (ب) كنت على استعداد لتحمل مخاطرة كبيرة لن تؤتي ثمارها، وهذا يكون منطقيًا فقط إذا (ج) كان الاتجاه الصعودي المحتمل هائلاً. وهذا يكرر [القاعدة الأولى للاستثمارات](https://longform.asmartbear.com/investment/).
 
 ![wonder what mother a simple dairy cow would have made this](https://public.asmartbear.com/books/anthology/chapters/adjacency/d7852print-simple.png)
 
-At some point, the idea is so non-adjacent that it's definitionally a bad strategy to attempt it, regardless of upside. Strategy is supposed to leverage existing assets; don't select something that doesn't do that.
+في مرحلة ما، تكون الفكرة غير متجاورة بحيث تكون تجربتها استراتيجية سيئة، بغض النظر عن الاتجاه الصعودي. من المفترض أن تستفيد الاستراتيجية من الأصول الموجودة؛ لا تختار شيئًا لا يفعل ذلك.
 
-## Selecting the best option
+## اختيار الخيار الأفضل
 
-It is tempting to use a value-divided-by-cost analysis to decide which idea to select, where "value" is some estimate of upside, and "cost" is some formulaic summary of the Adjacency Matrix, or possibly an actual dollar or time estimate.
+من المغري استخدام تحليل القيمة مقسمة على التكلفة لتحديد الفكرة التي يجب اختيارها، حيث "القيمة" هي بعض التقديرات للاتجاه الصعودي، و"التكلفة" هي بعض الملخصات النموذجية لمصفوفة الجوار، أو ربما تقدير فعلي للدولار أو الوقت.
 
-If you are so tempted, I recommend [this ROI system](https://longform.asmartbear.com/roi-rubric/), which will force you to be rough in both variables, ideally bringing the best ideas to the top of the list with a minimum of debate.
+إذا كنت منجذبًا جدًا، فإنني أوصي [بنظام عائد الاستثمار هذا] (https://longform.asmartbear.com/roi-rubric/)، والذي سيجبرك على أن تكون قاسيًا في كلا المتغيرين، مما يؤدي بشكل مثالي إلى جلب أفضل الأفكار إلى أعلى القائمة مع الحد الأدنى من النقاش.
 
-However, whenever you are [making an investment](https://longform.asmartbear.com/investment/)--doing something with substantial cost, time, risk, and only hopeful upside--I recommend solving first for maximal impact, and only secondarily for cost. The reasons are given in that article specifically in the context of investments, and also in my [work-prioritization system that extends the Rocks, Pebbles, Sand analogy](https://longform.asmartbear.com/rocks-pebbles-sand/). You might want to use [Binstack](https://longform.asmartbear.com/maximized-decision/) to identify the items of highest value, only then looking to cost and risk to break ties.
+ومع ذلك، عندما تقوم [بإجراء استثمار](https://longform.asmartbear.com/investment/) - القيام بشيء بتكلفة كبيرة ووقت ومخاطر وجانب إيجابي فقط - أوصي بالحل أولاً لتحقيق أقصى قدر من التأثير، وثانيًا فقط من أجل التكلفة. تم ذكر الأسباب في تلك المقالة على وجه التحديد في سياق الاستثمارات، وأيضًا في [نظام تحديد أولويات العمل الذي يمتد إلى تشبيه الصخور والحصى والرمال](https://longform.asmartbear.com/rocks-pebbles-sand/). قد ترغب في استخدام [Binstack](https://longform.asmartbear.com/maximized-decision/) لتحديد العناصر ذات القيمة الأعلى، وعندها فقط تبحث عن التكلفة والمخاطر لكسر الروابط.
 
-In this context, the Adjacency Matrix is useful for ruling out ideas that are clearly too far afield, or identifying those which are particularly low-risk.
+في هذا السياق، تعتبر مصفوفة التجاور مفيدة لاستبعاد الأفكار التي من الواضح أنها بعيدة جدًا، أو تحديد تلك التي تكون منخفضة المخاطر بشكل خاص.
 
-**The Adjacency Matrix outlines your cost and risk analysis**, identifying the areas of the business that must be considered. For changes that you already understand, you can describe what needs to be done, what the budget is, and what risks remain. For complex changes, especially the dreaded "unknown unknowns" likely to arise from Overhauls, you'll need to include more: the mitigations you will put in place, objective measures or milestones to catch problems as early as possible, how you will attack the high-risk, high-uncertainty areas first, and specialized hires who have seen this movie before.
+**تحدد مصفوفة الجوار تحليل التكلفة والمخاطر لديك**، وتحدد مجالات العمل التي يجب أخذها في الاعتبار. بالنسبة للتغييرات التي تفهمها بالفعل، يمكنك وصف ما يجب القيام به، وما هي الميزانية، وما هي المخاطر المتبقية. بالنسبة للتغييرات المعقدة، لا سيما "المجهولات المجهولة" المخيفة التي من المحتمل أن تنشأ من عمليات الإصلاح، ستحتاج إلى تضمين المزيد: إجراءات التخفيف التي ستطبقها، والتدابير الموضوعية أو المعالم الرئيسية لاكتشاف المشكلات في أقرب وقت ممكن، وكيف ستهاجم المناطق عالية المخاطر والمرتفعة عدم اليقين أولاً، والموظفين المتخصصين الذين شاهدوا هذا الفيلم من قبل.
 
-Finally, **the Adjacency Matrix is useful in communicating the decision** to the whole company--something leaders perennially fail to adequately appreciate and value. It's vital that the decision is simple to explain and justify, so everyone feels that it's natural, intelligent, and clear. The matrix can help form the narrative:
+وأخيرًا، **مصفوفة التجاور مفيدة في توصيل القرار** إلى الشركة بأكملها - وهو أمر يفشل القادة دائمًا في تقديره وتقديره بشكل مناسب. ومن المهم أن يكون القرار سهل الشرح والتبرير، حتى يشعر الجميع أنه طبيعي وذكي وواضح. يمكن أن تساعد المصفوفة في تشكيل السرد:
 
-> We've all seen the organic pull from larger, enterprise-sized customers. There's obviously opportunity there, but what is the right way for us to approach it, starting from where we are today?  
->   
-> We considered several options, such as ______ and ______. We decided upon ______ because while it will require [department] to [do something complex and risky], we realized it would be easy for everyone else because [why it's trivial in other areas]. So, this was the least-risky, highest-chance-for-success way for us to approach this new market, add a new growth area, and learn, and see where it goes from there.  
->   
-> Exciting! And let's remember to give [department] our support and grace as they transform themselves to support this new strategic effort.
+> لقد رأينا جميعًا السحب العضوي من العملاء الأكبر حجمًا من المؤسسات. من الواضح أن هناك فرصة هناك، ولكن ما هو الطريق الصحيح بالنسبة لنا للتعامل معها، بدءًا من ما نحن فيه اليوم؟
+> 
+> لقد نظرنا في عدة خيارات، مثل ______ و ______. قررنا ______ لأنه على الرغم من أن الأمر سيتطلب من [القسم] [القيام بشيء معقد ومحفوف بالمخاطر]، فقد أدركنا أنه سيكون سهلاً على أي شخص آخر لأنه [لماذا يكون الأمر تافهًا في المجالات الأخرى]. لذا، كانت هذه هي الطريقة الأقل خطورة والأكثر فرصة للنجاح بالنسبة لنا للتعامل مع هذا السوق الجديد، وإضافة مجال جديد للنمو، والتعلم، ومعرفة أين ستتجه من هناك.
+> 
+> مثير! ودعونا نتذكر أن نمنح [القسم] دعمنا ونعمتنا أثناء تحويل أنفسهم لدعم هذا الجهد الاستراتيجي الجديد.
 
 ---
 
-Congratulations on [hitting Product/Market Fit](https://longform.asmartbear.com/product-market-fit/), starting to scale, and now having the "good problem to have" of where to expand next.
+تهانينا على [الوصول إلى المنتج/السوق المناسب](https://longform.asmartbear.com/product-market-fit/)، والبدء في التوسع، والآن لدينا "مشكلة جيدة" تتعلق بمكان التوسع بعد ذلك.
 
-Hopefully this will help you make the right decision.
+نأمل أن يساعدك هذا على اتخاذ القرار الصحيح.

@@ -20,77 +20,64 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** توقف عن كتابة الكود حتى تعرف بدقة لماذا يرفض العملاء الشراء تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Put down the compiler until you learn why they're not buying
-
-> **Executive Summary:** Technical founders, step away from the code. Gather insights from non-buyers, rather than just adding more features.
-> **Original URL:** [https://longform.asmartbear.com/put-down-the-compiler/](https://longform.asmartbear.com/put-down-the-compiler/)
-
 ![things went from bad to worse but were hopeful now that were doing badly again](https://public.asmartbear.com/books/anthology/chapters/put-down-the-compiler/d3709print-simple.png)
 
-New companies rarely have a problem writing code. <br/>  <br/> The problem they have is: **We don't have enough sales.** <br/> Some actual quotes (*sound familiar?)*:
+نادرًا ما تواجه الشركات الجديدة مشكلة في كتابة التعليمات البرمجية. <br/> <br/> المشكلة التي يواجهونها هي: **ليس لدينا ما يكفي من المبيعات.** <br/> بعض الاقتباسات الفعلية (*تبدو مألوفة؟)*:
 
-> "We have 300 downloads and no sales."  
-> "People tell me I have a great idea, but none of them bought my software."  
-> "My sales/download conversion ratio is 1%. It should be 8%."  
-> "Folks are signing up for an account but they don't come back."
+> "لدينا 300 عملية تنزيل ولا توجد مبيعات."
+> "يقول لي الناس أن لدي فكرة رائعة، لكن لم يشتر أي منهم برنامجي."
+> "نسبة تحويل المبيعات/التنزيلات هي 1%. ومن المفترض أن تكون 8%."
+> "يقوم الأشخاص بالتسجيل للحصول على حساب لكنهم لا يعودون."
 
-Of course everyone wants "more sales," but I'm specifically talking about the early stage of your company, when your v1.0 is shaky but has enough features that it should be more viable than it is. When your website copy is good enough that people are willing to sign up or download, but the sales aren't coming in like they ought.
+بالطبع يريد الجميع "المزيد من المبيعات"، لكنني أتحدث على وجه التحديد عن المرحلة المبكرة لشركتك، عندما يكون الإصدار 1.0 الخاص بك مهتزًا ولكنه يحتوي على ميزات كافية تجعله أكثر قابلية للتطبيق مما هو عليه الآن. عندما تكون نسخة موقع الويب الخاص بك جيدة بما فيه الكفاية بحيث يكون الأشخاص على استعداد للتسجيل أو التنزيل، ولكن المبيعات لا تأتي كما ينبغي.
 
-This problem is solved only one way: **You need feedback from lost sales.**
+يتم حل هذه المشكلة بطريقة واحدة فقط: **تحتاج إلى الحصول على تعليقات من المبيعات المفقودة.**
 
-Empirical data, not your own ideas about why people might not be buying.
+بيانات تجريبية، وليس أفكارك الخاصة حول الأسباب التي قد تجعل الناس لا يشترون.
 
-You need to talk with the people who were interested enough to find your website, read your marketing copy, download your product, and then *give up without even an email*. That's the low-hanging fruit; those are the people who are *in your grasp*, who should be buying *today*, but aren't.
+أنت بحاجة إلى التحدث مع الأشخاص المهتمين بدرجة كافية للعثور على موقع الويب الخاص بك، وقراءة نسختك التسويقية، وتنزيل منتجك، ثم *الاستسلام بدون الحاجة إلى إرسال بريد إلكتروني*. هذه هي الثمرة الدانية. هؤلاء هم الأشخاص الذين *في متناولك*، والذين ينبغي عليهم الشراء *اليوم*، لكنهم ليسوا كذلك.
 
-They've self-identified as your [ICP](https://longform.asmartbear.com/icp-ideal-customer-persona/), yet your product didn't fulfill the promises you made.
+لقد عرّفوا أنفسهم على أنهم [ICP](https://longform.asmartbear.com/icp-ideal-customer-persona/)، إلا أن منتجك لم يفي بالوعود التي قطعتها.
 
-As [Steve Johnson](https://www.pragmaticmarketing.com/) says, "**All the answers are outside the building.**" (Watch his one-hour presentation on the subject at the [Business of Software 2008 Video Archive](https://businessofsoftware.org/2008/01/steve-johnson-at-business-of-software-2008-why-software-is-not-a-business/).)
+وكما يقول [ستيف جونسون](https://www.pragmaticmarketing.com/)، "**كل الإجابات موجودة خارج المبنى.**" (شاهد عرضه التقديمي الذي مدته ساعة واحدة حول هذا الموضوع في [فيديو Business of Software 2008 الأرشيف](https://businessofsoftware.org/2008/01/steve-johnson-at-business-of-software-2008-why-software-is-not-a-business/).)
 
-Or as [Eric Ries says](https://www.startuplessonslearned.com/2009/09/cardinal-sin-of-community-management.html), "**Not listening is the cardinal sin** ... Any other mistake can be overcome: shipping bad product, removing key features, erroneously banning community members, even kicking out a whole segment of customers."
+أو كما يقول [إريك ريس](https://www.startuplessonslearned.com/2009/09/cardinal-sin-of-community-management.html)، "**عدم الاستماع هو الخطيئة الكبرى**... يمكن التغلب على أي خطأ آخر: شحن منتج سيئ، وإزالة الميزات الرئيسية، وحظر أعضاء المجتمع عن طريق الخطأ، وحتى طرد شريحة كاملة من العملاء."
 
-But I find that entrepreneurs--especially technical ones--fight me on this tooth and nail. And I'm not surprised because, as usual, **I too used to hold the I-already-know-why, I-know-my-customers-better-than-they-do attitude.**
+لكنني أجد أن رواد الأعمال - وخاصة التقنيين منهم - يقاتلونني بشدة. وأنا لست مندهشًا لأنه، كالعادة، **أنا أيضًا اعتدت أن أتمسك بموقف "أنا أعرف السبب بالفعل، أعرف عملائي أفضل مما يفعلون".**
 
-So once and for all, I'd like to dispense with the usual arguments against getting feedback:
+لذا مرة واحدة وإلى الأبد، أود الاستغناء عن الحجج المعتادة ضد الحصول على ردود الفعل:
 
-#### Existing customers are telling us to do X, so we should do X.
-Customer requests are important and you *must* follow their lead, especially in the beginning. But what about the 98% of trial users who *didn't buy*? It is *they* who hold the keys to more sales! Existing customers bought *in spite of* barriers to sale, so they're no help in identifying the barriers. Listen to them to increase your product's value, but listening to them to increase sales is classic [survivor bias](https://longform.asmartbear.com/survivor-bias/).
+#### يطلب منا العملاء الحاليون القيام بـ X، لذا يجب علينا القيام بـ X.
+طلبات العملاء مهمة ويجب عليك أن تحذو حذوهم، خاصة في البداية. ولكن ماذا عن 98% من مستخدمي النسخة التجريبية الذين *لم يشترو*؟ إنهم * هم * الذين يملكون مفاتيح المزيد من المبيعات! لقد اشترى العملاء الحاليون *على الرغم من* عوائق البيع، لذلك لا يساعدون في تحديد العوائق. استمع إليهم لزيادة قيمة منتجك، لكن الاستماع إليهم لزيادة المبيعات يعد أمرًا كلاسيكيًا [تحيز الناجين](https://longform.asmartbear.com/survivor-bias/).
 
-#### What we need is New Feature X, then people will buy.
-This is almost never true. The world is filled with successful v1.0 products that lacked obvious features; in fact I challenge you to find an exception. Ben Yoskovitz wrote a [great post about this fallacy](https://www.instigatorblog.com/false-promise-one-more-feature/2009/08/25/) (with 27 concurring comments). Even [Nintendo says](https://web.archive.org/web/20090228020253/http://www.time.com/time/magazine/article/0,9171,1191861-1,00.html) "the most important feature is the one no one asks for."
+#### ما نحتاج إليه هو الميزة الجديدة X، ثم سيشتريها الناس.
+هذا يكاد يكون غير صحيح على الإطلاق. العالم مليء بمنتجات الإصدار 1.0 الناجحة التي تفتقر إلى الميزات الواضحة؛ في الواقع أتحداك أن تجد استثناءً. كتب بن يوسكوفيتز [منشورًا رائعًا حول هذه المغالطة](https://www.instigatorblog.com/false-promise-one-more-feature/2009/08/25/) (مع 27 تعليقًا متزامنًا). حتى [نينتندو تقول](https://web.archive.org/web/20090228020253/http://www.time.com/time/magazine/article/0,9171,1191861-1,00.html) "الميزة الأكثر أهمية هي الميزة التي لا يطلبها أحد."
 
-#### We need to clean up the software before we can get real feedback.
-At Smart Bear, the first incarnation of our code review product was so hard to decipher, I can't understand how we got customers. They used it *in spite* of the problems, not *because* of them. If you're solving a genuine pain, people will try the software, complain about it, ask for features, and generally be engaged; if that's not happening, you're not solving the right problem or not making that obvious, and *that* is critical to getting revenue.
+#### نحتاج إلى تنظيف البرنامج قبل أن نتمكن من الحصول على تعليقات حقيقية.
+في Smart Bear، كان من الصعب جدًا فك رموز التجسيد الأول لمنتج مراجعة التعليمات البرمجية الخاص بنا، ولا أستطيع أن أفهم كيف حصلنا على العملاء. لقد استخدموها *على الرغم* من المشاكل، وليس *بسببها*. إذا كنت تحل مشكلة حقيقية، فسيقوم الأشخاص بتجربة البرنامج، ويشتكون منه، ويطلبون ميزات، وسيشاركون بشكل عام؛ إذا لم يحدث ذلك، فأنت لا تحل المشكلة الصحيحة أو لا توضح ذلك، و*هذا* أمر بالغ الأهمية للحصول على الإيرادات.
 
-Have you ever worked on a software project for many years and then lived through a face-lift? After you're used to the new look, you're just embarrassed when you see the old version. It's the natural order of things. Polish isn't important if you don't have enough revenue.
+هل سبق لك أن عملت في مشروع برمجي لسنوات عديدة ثم خضعت لعملية شد الوجه؟ بعد أن تعتاد على المظهر الجديد، ستشعر بالحرج عندما ترى الإصدار القديم. إنه النظام الطبيعي للأشياء. اللغة البولندية ليست مهمة إذا لم يكن لديك ما يكفي من الإيرادات.
 
-#### I'm a user myself, so I know what's missing.
-That's great, but all that means is that you have 100 ideas for new features, but "more features" is almost certainly not the problem. It means is you have a "vision" which is almost certainly [not how your company is going to unfold](https://longform.asmartbear.com/predict-the-future/).
+#### أنا نفسي مستخدم، لذلك أعرف ما هو مفقود.
+هذا رائع، ولكن كل ما يعنيه ذلك هو أن لديك 100 فكرة لميزات جديدة، ولكن من المؤكد تقريبًا أن "المزيد من الميزات" ليست هي المشكلة. هذا يعني أن لديك "رؤية" والتي من المؤكد تقريبًا [ليست الطريقة التي ستتكشف بها شركتك](https://longform.asmartbear.com/predict-the-future/).
 
-Often the real impediment to sales is as mundane as "New users are presented with a blank screen, so they don't know what to do next, so they abandon the trial," or "The installer doesn't work properly under Vista, so people give up." The fact that you're a user yourself is the *worst* position for you to be in because you can't be objective about the new user experience, and you can't put yourself in the shoes of a user possessing below-average intelligence. Which half of them possess.
+غالبًا ما يكون العائق الحقيقي أمام المبيعات أمرًا عاديًا مثل "يتم تقديم شاشة فارغة للمستخدمين الجدد، لذلك لا يعرفون ما يجب عليهم فعله بعد ذلك، لذلك يتخلون عن النسخة التجريبية،" أو "لا يعمل برنامج التثبيت بشكل صحيح في نظام التشغيل Vista، لذلك يستسلم الناس". إن حقيقة كونك مستخدمًا هو *الأسوأ* الذي يمكن أن تكون فيه لأنك لا تستطيع أن تكون موضوعيًا بشأن تجربة المستخدم الجديدة، ولا يمكنك أن تضع نفسك في مكان مستخدم يتمتع بذكاء أقل من المتوسط. أي نصفهم يمتلك.
 
-There, I said it. Most of your users are dumb; almost all are dumber than you are. You are not your typical user.
+هناك قلت ذلك. معظم المستخدمين لديك أغبياء؛ الجميع تقريبًا أغبى منك. أنت لست المستخدم النموذجي الخاص بك.
 
-#### Apple just knows what's cool. So do we.
-This is a common misconception, easy to believe because Apple does keep product development close to the vest. However, it's completely untrue. [Steve Jobs specifically talks about](https://venturehacks.com/articles/jobs-customer-development) getting feedback from customers.
+#### أبل تعرف فقط ما هو رائع. ونحن كذلك.
+وهذا مفهوم خاطئ شائع، ومن السهل تصديقه لأن شركة Apple تحافظ على تطوير المنتج قريبًا من السترة. ومع ذلك، هذا غير صحيح تماما. [يتحدث ستيف جوبز على وجه التحديد عن](https://venturehacks.com/articles/jobs-customer-development) الحصول على تعليقات من العملاء.
 
-#### We can't afford to delay the v#.# release.
-If you have no real evidence that revenue will suddenly improve with the next release, why do you think it's important to release it? Just because it has "more stuff?" The only reason to be excited is because it's different, and since the status quo isn't working, you've *got* to try something different. But is that "stuff" why people are downloading but then abandoning? Until you can answer that question with empirical data, there's no reason to believe the new stuff will be more compelling than the last stuff.
+#### لا يمكننا تحمل تأخير الإصدار v#.#.
+إذا لم يكن لديك دليل حقيقي على أن الإيرادات ستتحسن فجأة مع الإصدار التالي، فلماذا تعتقد أنه من المهم إصداره؟ فقط لأنه يحتوي على "المزيد من الأشياء؟" السبب الوحيد الذي يجعلك متحمسًا هو أن الأمر مختلف، وبما أن الوضع الراهن لا يعمل، عليك تجربة شيء مختلف. ولكن هل هذه "الأشياء" هي السبب وراء قيام الأشخاص بتنزيلها ثم التخلي عنها بعد ذلك؟ وإلى أن تتمكن من الإجابة على هذا السؤال ببيانات تجريبية، فليس هناك سبب للاعتقاد بأن الأشياء الجديدة ستكون أكثر إقناعًا من الأشياء السابقة.
 
-#### Getting revenue is a marketing/sales function; I need to be heads-down in the code.
-In a startup, it's *everyone's* job to get revenue. Sure, the usual day-to-day activities should be divvied up between founders; not everyone needs to write letters to bloggers and be glued to Twitter live-search. But if you don't know why people aren't buying, that's the #1 bug and the #1 feature you need to be working on. There's lots of ways (see below) to change the product or website *in under a day* that will begin fixing the problem. Saying "it's marketing's job" really means "I'm not going to help get revenue." Unacceptable.
+#### الحصول على الإيرادات هو وظيفة تسويق/مبيعات؛ أحتاج إلى أن أكون رأسًا على عقب في الكود.
+في الشركات الناشئة، تكون مهمة *الجميع* هي الحصول على الإيرادات. بالتأكيد، ينبغي تقسيم الأنشطة اليومية المعتادة بين المؤسسين؛ لا يحتاج الجميع إلى كتابة رسائل إلى المدونين والبقاء ملتصقين بالبحث المباشر على تويتر. ولكن إذا كنت لا تعرف سبب عدم شراء الأشخاص، فهذا هو الخطأ رقم 1 والميزة رقم 1 التي يجب عليك العمل عليها. هناك العديد من الطرق (انظر أدناه) لتغيير المنتج أو موقع الويب *في أقل من يوم* والتي ستبدأ في حل المشكلة. إن قول "إنها مهمة التسويق" يعني حقًا "لن أساعد في الحصول على الإيرادات". غير مقبول.
 
-Hopefully by now you're convinced to get more feedback from lost sales, but how do you go about doing it?
+نأمل أن تكون الآن مقتنعًا بالحصول على مزيد من التعليقات من المبيعات المفقودة، ولكن كيف يمكنك القيام بذلك؟
 
-Here I've posted [eleven specific ways to get more feedback](https://longform.asmartbear.com/more-sales-customer-feedback/), almost all of which take less than a day to implement.
+لقد قمت هنا بنشر [إحدى عشرة طريقة محددة للحصول على المزيد من التعليقات](https://longform.asmartbear.com/more-sales-customer-feedback/)، ويستغرق تنفيذ جميعها تقريبًا أقل من يوم واحد.
 
-And here's I've described my [system for creating questions and conducting customer interviews](https://longform.asmartbear.com/customer-development/) that I've used to build two unicorns.
+وقد وصفت هنا [نظام إنشاء الأسئلة وإجراء المقابلات مع العملاء](https://longform.asmartbear.com/customer-development/) الذي استخدمته لبناء اثنين من أحاديات القرن.
 
-So you have no excuse.
+لذلك ليس لديك عذر.

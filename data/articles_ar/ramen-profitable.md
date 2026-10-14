@@ -20,82 +20,69 @@ summary_ar: "You're not profitable if you couldn't afford someone else to do you
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الربحية من اليوم الأول: كيف تبني شركة تعيل نفسها فوراً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Profitable on day one!
-
-> **Executive Summary:** You're not profitable if you couldn't afford someone else to do your job. $1000/mo isn't profitable. Fix your definition of "profitable," and build a truly profitable business.
-> **Original URL:** [https://longform.asmartbear.com/ramen-profitable/](https://longform.asmartbear.com/ramen-profitable/)
-
 ![If by profits you mean an excess of revenues over outlays and expenses in a business enterprise over a given period of time, then yes, it doesn't look good.](https://public.asmartbear.com/books/anthology/chapters/ramen-profitable/d7790print-simple.png)
 
 ---
 
-> "My company is profitable, and has been from day one."  
-> --every high-tech bootstrapped founder
+> "شركتي مربحة، وكانت كذلك منذ اليوم الأول."
+> --كل مؤسس ذو تقنية عالية
 
-I know what you *really* mean.
+أنا أعرف ما تقصده * حقا *.
 
-What you *really* mean is that the only charges on your Business Select PayPal MasterCard this month are:
+ما تقصده *حقًا* هو أن الرسوم الوحيدة المفروضة على بطاقة Business Select PayPal MasterCard الخاصة بك هذا الشهر هي:
 
-* AWS "medium" instance for the SaaS with one paying customer: $40
-* Stripe fees for the one paying customer: $1.72
-* AWS S3 storage to back up your loose "Best of Pat Benatar" mp3s: $0.043
+* مثيل AWS "المتوسط" لـ SaaS مع عميل واحد يدفع: 40 دولارًا
+* رسوم الشريط للعميل الذي يدفع: 1.72 دولارًا
+* تخزين AWS S3 لعمل نسخة احتياطية من ملفات mp3 "Best of Pat Benatar" المجانية: 0.043 دولار
 
-And since your one paying customer is at the $49/mo tier, you're **profitable**!
+وبما أن عميلك الوحيد الذي يدفع رسومًا هو عند مستوى 49 دولارًا شهريًا، فأنت **مربح****!
 
-I know that's what you *mean*, but when you say "I'm profitable" it's a turnoff, because it's actually bullshit, and anyone with a modicum of experience knows it. Which means either you're coming off as a full-blown bullshit artiste or--more likely, since we're giving you the benefit of the doubt--you're coming off as ignorant. Neither is a good look.
+أعلم أن هذا ما تقصده، ولكن عندما تقول "أنا مربح" فهذا يعد إبعادًا، لأنه في الواقع هراء، وأي شخص لديه قدر بسيط من الخبرة يعرف ذلك. مما يعني إما أنك تبدو فنانًا هراءًا تمامًا أو - على الأرجح، بما أننا نمنحك فائدة الشك - فأنت تبدو جاهلاً. ليست نظرة جيدة.
 
-Let's be serious about what "profitable" means:
+دعونا نكون جادين بشأن ما تعنيه كلمة "مربحة":
 
-* If your savings is going down every month, you're not profitable yet.
-* If you're making less than minimum wage, you're not profitable yet.
-* If you couldn't afford to pay someone else to do the job that you are doing, you're not profitable yet.
-* If someone bought your company, and hired people to do the work (even at below-market rates), and each month they'd have less money in the bank than the previous month, you're not profitable yet.
-* If you have to work another job to pay the bills, you're not profitable yet.
+* إذا كانت مدخراتك تنخفض كل شهر، فأنت لم تحقق الربح بعد.
+* إذا كنت تحصل على أقل من الحد الأدنى للأجور، فأنت لم تحقق الربح بعد.
+* إذا لم تكن قادرًا على دفع المال لشخص آخر للقيام بالمهمة التي تقوم بها، فأنت لم تحقق الربح بعد.
+* إذا اشترى شخص ما شركتك، وقام بتعيين أشخاص للقيام بالعمل (حتى بأسعار أقل من السوق)، وكان لديهم أموال في البنك كل شهر أقل من الشهر السابق، فأنت لم تحقق الربح بعد.
+* إذا كان عليك العمل في وظيفة أخرى لدفع الفواتير، فأنت لم تحقق الربح بعد.
 
 ![OK, let's not get into profit shaming here.](https://public.asmartbear.com/books/anthology/chapters/ramen-profitable/d7444print-simple.png)
 
-## Yet!
+## حتى الآن!
 
-The key word is "yet." You're not a [failure](https://longform.asmartbear.com/fail/). You're not doing anything wrong. It's just that businesses aren't profitable on day one. They're profitable later (if ever).
+الكلمة الأساسية هي "حتى الآن". أنت لست [فاشلاً](https://longform.asmartbear.com/fail/). أنت لا تفعل أي شيء خاطئ. إنها مجرد أن الشركات ليست مربحة في اليوم الأول. إنها مربحة لاحقًا (إن وجدت).
 
-The main error is ignoring the cost of yourself. Although arguably [your time is worth $1000/hr](https://longform.asmartbear.com/value-time/), let's just say you need to pay yourself "enough." Which means what?
+الخطأ الرئيسي هو تجاهل تكلفة نفسك. على الرغم من أنه يمكن القول أن [وقتك يساوي 1000 دولار في الساعة](https://longform.asmartbear.com/value-time/)، فلنفترض فقط أنك بحاجة إلى أن تدفع لنفسك "ما يكفي". مما يعني ماذا؟
 
-An easy definition is: You are _taking out of the business_ the same amount of money you were making at the job you quit. (Oh, you haven't quit yet, because you need the money?) The market has already decided your time and skills are worth at least that; if the startup replaces it, it's fair (in my book) to call it profitable.
+التعريف السهل هو: أنك _تخرج من العمل_ نفس المبلغ من المال الذي كنت تجنيه في الوظيفة التي تركتها. (أوه، لم تستقيل بعد، لأنك تحتاج إلى المال؟) لقد قرر السوق بالفعل أن وقتك ومهاراتك تستحق ذلك على الأقل؛ إذا استبدلتها الشركة الناشئة، فمن العدل (في كتابي) أن أسميها مربحة.
 
-Indeed, the majority of small business owners make about the same money as they were making when they were an employee, without all the stress and extra hours:
+في الواقع، فإن غالبية أصحاب الأعمال الصغيرة يكسبون نفس الأموال التي كانوا يكسبونها عندما كانوا موظفين، دون كل الضغوط وساعات العمل الإضافية:
 
 ![entrepreneurs make about the same money as employees](https://public.asmartbear.com/books/anthology/chapters/ramen-profitable/image-2-simple.png)
 
-And most small business owners make less than the average CEO salary:
+ومعظم أصحاب الأعمال الصغيرة يحصلون على أقل من متوسط ​​راتب الرئيس التنفيذي:
 
 ![How much small business owners pay themselves](https://public.asmartbear.com/books/anthology/chapters/ramen-profitable/image-simple.png)
 
-At minimum, you need to be [ramen-profitable](https://www.paulgraham.com/ramenprofitable.html), i.e. enough for you to eat as cheaply as possible and not be malnourished, and also not be burning savings. You can dramatically change that income requirement through lifestyle and location; this is why it can be easier to start a company when you're young and unattached and childless, when you have few material needs and might like living in another country for a while.
+على الأقل، يجب أن تكون [رامين مربحًا](https://www.paulgraham.com/ramenprofitable.html)، أي ما يكفي لكي تأكل بأرخص سعر ممكن ولا تعاني من سوء التغذية، وكذلك لا تحرق مدخراتك. يمكنك تغيير متطلبات الدخل بشكل كبير من خلال نمط الحياة والموقع؛ ولهذا السبب، قد يكون من الأسهل إنشاء شركة عندما تكون صغيرًا وغير مرتبط وليس لديك أطفال، وعندما يكون لديك القليل من الاحتياجات المادية وقد ترغب في العيش في بلد آخر لفترة من الوقت.
 
-**The strongest definition of profitability** is to imagine that you've sold your business to a high-quality operator who is hiring people to do the work. You likely "wear a lot of hats," so some of those roles are part-time. You might be excellent at some--the new owner will have to hire great talent at market rates--and poor at others--the new owner can skimp on those. The company is profitable when it would also be profitable in that scenario. In short, when _it_ is profitable on its own power, not "it + a founder pouring their heart and soul into every waking hour to the limit of their endurance and ability, for free."
+**أقوى تعريف للربحية** هو أن تتخيل أنك قمت ببيع نشاطك التجاري لمشغل عالي الجودة يقوم بتعيين أشخاص للقيام بهذا العمل. من المحتمل أنك "ترتدي الكثير من القبعات"، لذا فإن بعض هذه الأدوار تكون بدوام جزئي. قد تكون ممتازًا في البعض - سيتعين على المالك الجديد توظيف مواهب رائعة بأسعار السوق - وسيئًا في البعض الآخر - يمكن للمالك الجديد أن يبخل في ذلك. تكون الشركة مربحة عندما تكون مربحة أيضًا في هذا السيناريو. باختصار، عندما يكون مربحًا بقوته الخاصة، وليس "هو + مؤسس يبذل قلبه وأرواحه في كل ساعة يقظة إلى أقصى حد قدرته على التحمل وقدرته، مجانًا."
 
-## Don't despair
+## لا تيأس
 
-So now that I've perhaps unfairly ridiculed you, let's take a step back and recognize what's *really* going on, because it's wonderful and amazing and fantastic and exciting:
+والآن بعد أن سخرت منك بشكل غير عادل، فلنرجع خطوة إلى الوراء ونتعرف على ما يحدث *في الواقع*، لأنه رائع ومذهل ورائع ومثير:
 
-You're building a business! Sure it's just begun, sure it might need a kick in the ass, sure it might be struggling, sure sure sure, so what? You and every other little new business. You and everyone else who doesn't explode out of the blocks. Almost no company explodes out of the blocks, including [all the successful ones in all industries](https://longform.asmartbear.com/product-market-fit/). This is exactly what you'd *expect* it would do, even if you're actually the next 37signals or Smart Bear or WP Engine.
+أنت تقوم ببناء مشروع تجاري! من المؤكد أنها بدأت للتو، من المؤكد أنها قد تحتاج إلى ركلة في المؤخرة، من المؤكد أنها قد تكون تكافح، من المؤكد من المؤكد، من المؤكد، فماذا في ذلك؟ أنت وكل الأعمال الجديدة الصغيرة الأخرى. أنت وأي شخص آخر لا ينفجر خارج الكتل. لا توجد شركة تقريبًا تنطلق من الكتل، بما في ذلك [جميع الشركات الناجحة في جميع الصناعات](https://longform.asmartbear.com/product-market-fit/). هذا هو بالضبط ما تتوقعه أن يفعله، حتى لو كنت بالفعل 37signals أو Smart Bear أو WP Engine التاليين.
 
-Indeed, that's exactly what my company WP Engine looked like for the first 9 months. And then [it was chaos for two years, like it always is](https://longform.asmartbear.com/chaos-at-start/).
+في الواقع، هذا هو بالضبط ما كانت تبدو عليه شركتي WP Engine خلال الأشهر التسعة الأولى. وبعد ذلك [سادت الفوضى لمدة عامين، كما هو الحال دائمًا](https://longform.asmartbear.com/chaos-at-start/).
 
-Same with my previous company Smart Bear--it took 2.5 years before I could even hire one employee, and even then it was 1/4 of the salary he deserved (and later ended up making). Eventually we, too, made millions of dollars a year--in profit!--but not for years.
+نفس الشيء مع شركتي السابقة Smart Bear، فقد استغرق الأمر عامين ونصف قبل أن أتمكن من تعيين موظف واحد، وحتى في ذلك الوقت كان الأجر يمثل ربع الراتب الذي يستحقه (وانتهى الأمر لاحقًا بالحصول عليه). في نهاية المطاف، نحن أيضًا حققنا ملايين الدولارات سنويًا - من خلال الربح! - ولكن ليس لسنوات.
 
-In other words, there's nothing strange or bad here. It's just that it's not "profitable from day one." Stop saying that.
+بمعنى آخر، لا يوجد شيء غريب أو سيء هنا. إنها مجرد أنها ليست "مربحة منذ اليوم الأول". توقف عن قول ذلك.
 
-Dispense with the feather-fluffing and get to what *is*--the strengths you have, the challenges you want to overcome, the resources at your disposal.
+تخلص من ريش الريش واحصل على ما هو *-- نقاط القوة التي لديك، والتحديات التي تريد التغلب عليها، والموارد المتاحة لك.
 
-And then set your mind and goals on making that sucker profitable *for real!*
+ثم ضع عقلك وأهدافك في جعل هذا المغفل مربحًا *بشكل حقيقي!*
 
 ![And we all lived profitably after.](https://public.asmartbear.com/books/anthology/chapters/ramen-profitable/d6129print-simple.png)

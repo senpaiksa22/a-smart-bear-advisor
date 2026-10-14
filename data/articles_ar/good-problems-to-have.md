@@ -20,120 +20,107 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الأخطاء والمشكلات التي تعني أنك تسير على الطريق الصحيح تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+> "إذا لم ترتكب الأخطاء، فأنت لا تعمل على حل المشكلات بالقدر الكافي."
+> -فرانك ويلتشيك، الحائز على جائزة نوبل للفيزياء عام 2004
 
----
+نعلم فكريًا أن [الفشل](https://longform.asmartbear.com/fail/) أمر لا مفر منه عندما نسعى جاهدين وننمو ونتعلم. من الناحية العملية، لا ندرك دائمًا ما يتعلق الأمر بفرقنا وأهداف إيراداتنا، وخاصة عندما يتعلق الأمر [بجلد أنفسنا](https://longform.asmartbear.com/impostor-syndrome/).
 
-### النص المرجعي للمقال (Original Reference):
-# The "errors" that mean you're doing it right
-
-> **Executive Summary:** Some things appear to be mistakes, but in fact should be celebrated as the expected outcomes of great decisions.
-> **Original URL:** [https://longform.asmartbear.com/good-problems-to-have/](https://longform.asmartbear.com/good-problems-to-have/)
-
-> "If you don't make mistakes, you're not working on hard enough problems."  
-> --Frank Wilczek, 2004 winner of Nobel for Physics
-
-Intellectually we know that [failures](https://longform.asmartbear.com/fail/) are inevitable when we're striving, growing, and learning. In practice we're not always so understanding when it comes to our teams, our revenue targets, and especially when it comes to [flogging ourselves](https://longform.asmartbear.com/impostor-syndrome/).
-
-Indeed, not all errors signify progress. Some are negligence, or just bad luck. We don't always learn from failure; in fact, sometimes there's nothing in particular to learn.
+وفي الواقع، ليست كل الأخطاء تعني التقدم. بعضها إهمال، أو مجرد سوء الحظ. نحن لا نتعلم دائمًا من الفشل؛ في الواقع، في بعض الأحيان لا يوجد شيء محدد يمكن تعلمه.
 
 ![lesson learned no one listen to don](https://public.asmartbear.com/books/anthology/chapters/good-problems-to-have/d8669print-simple.png)
 
-The following "errors" are the natural by-product of good decisions, or the result of a fundamentally positive circumstance that is attended by the proverbial "good problem to have." Most demand a response, but they should be regarded as a necessary side-effect of success, and celebrated as such.
+"الأخطاء" التالية هي نتاج ثانوي طبيعي للقرارات الجيدة، أو نتيجة لظرف إيجابي جوهري يرافقه المثل "مشكلة جيدة يجب أن نواجهها". إن أغلبها يتطلب استجابة، ولكن ينبغي لنا أن ننظر إليها باعتبارها أثراً جانبياً ضرورياً للنجاح، وأن نحتفل بها على هذا النحو.
 
-### Re-adding features/bugs you removed from the backlog
+### إعادة إضافة الميزات/الأخطاء التي قمت بإزالتها من السجل المتراكم
 
-If you're not adding back feature-requests or bugs you cleaned out of the backlog, you're not cleaning out enough.
+إذا كنت لا تقوم بإضافة طلبات الميزات أو الأخطاء التي قمت بتنظيفها من الأعمال المتراكمة، فأنت لا تقوم بالتنظيف بشكل كافٍ.
 
-Backlogs grow without bound unless they are culled. 1000 tickets is the same as 100 tickets, except that you haven't identified which 10% are most important. Which means you're definitely not working on the most important ones. But if you delete things, it will sometimes turn out we needed to do it after all. That's a sign that you're handling your backlog well. (In part for this reason, you [should have multiple backlogs](https://longform.asmartbear.com/jit-backlogs/), except for the work you're doing right now.)
+تنمو الأعمال المتراكمة بلا حدود ما لم يتم إعدامها. 1000 تذكرة تعادل 100 تذكرة، باستثناء أنك لم تحدد أي الـ 10% الأكثر أهمية. مما يعني أنك بالتأكيد لا تعمل على أهمها. ولكن إذا قمت بحذف أشياء، فسيتبين أحيانًا أننا بحاجة إلى القيام بذلك بعد كل شيء. هذه علامة على أنك تتعامل مع أعمالك المتراكمة بشكل جيد. (لهذا السبب جزئيًا، [يجب أن يكون لديك العديد من الأعمال المتراكمة](https://longform.asmartbear.com/jit-backlogs/)، باستثناء العمل الذي تقوم به الآن.)
 
-### Pivoting a strategy just after creating it
+### تدوير الإستراتيجية مباشرة بعد إنشائها
 
-A strategy that never changes is wrong, and the most likely time to discover that it's wrong is just after you wrote it down, because you have the least practical experience with how it intersects with real life.
+الإستراتيجية التي لا تتغير أبدًا هي استراتيجية خاطئة، والوقت الأكثر احتمالاً لاكتشاف خطأها هو بعد كتابتها مباشرة، لأنك تمتلك أقل خبرة عملية في كيفية تداخلها مع الحياة الواقعية.
 
-If you're not pivoting a strategy that turned out to be wrong, you're penalizing the company with months or even years of useless work, followed by rework (if you haven't run the company into the ground), putting the entire future of the company at risk.
+إذا لم تقم بتغيير استراتيجية تبين أنها خاطئة، فإنك تعاقب الشركة بأشهر أو حتى سنوات من العمل غير المجدي، تليها إعادة العمل (إذا لم تقم بتشغيل الشركة على الأرض)، مما يعرض مستقبل الشركة بأكمله للخطر.
 
 ![whats that boy paradigm shift](https://public.asmartbear.com/books/anthology/chapters/good-problems-to-have/d5038print-simple.png)
 
-[Great strategies](https://longform.asmartbear.com/great-strategy/) are hard to create, and released with great fanfare: Sparkling documents, inspiring presentations, pulpit-thumping speeches, reorganized teams and strategic-pillarized work. So the last thing you want, is come back in a month and say, "just kidding, we were wrong about something important."
+[الاستراتيجيات الرائعة](https://longform.asmartbear.com/great-strategy/) يصعب إنشاؤها، ويتم إصدارها وسط ضجة كبيرة: وثائق متألقة، وعروض تقديمية ملهمة، وخطب مثيرة للمنابر، وفرق مُعاد تنظيمها، وعمل قائم على ركائز استراتيجية. لذا فإن آخر شيء تريده هو العودة بعد شهر والقول، "فقط أمزح، لقد كنا مخطئين بشأن شيء مهم."
 
-Will you lose credibility? Will anyone believe the new strategy? Will people think "management doesn't know what it's doing?" These are risks you have to take, because executing the wrong strategy is far worse. Indeed, this is the expected result of a new strategy; it's highly unlikely you got everything right the first time. The best way to communicate, is to say everything in this paragraph out loud, so everyone knows that you know that they know, and that you're putting the company first, and ensuring that no one is doing work that we secretly know is the wrong work.
+هل ستفقد مصداقيتك؟ هل سيصدق أحد الإستراتيجية الجديدة؟ هل سيعتقد الناس أن "الإدارة لا تعرف ماذا تفعل؟" هذه هي المخاطر التي يجب عليك تحملها، لأن تنفيذ الإستراتيجية الخاطئة هو أسوأ بكثير. وفي الواقع، هذه هي النتيجة المتوقعة للاستراتيجية الجديدة؛ من المستبعد جدًا أن تكون قد حصلت على كل شيء بشكل صحيح في المرة الأولى. أفضل طريقة للتواصل، هي قول كل شيء في هذه الفقرة بصوت عالٍ، حتى يعرف الجميع أنك تعلم أنهم يعرفون، وأنك تضع الشركة في المقام الأول، وتضمن عدم قيام أي شخص بعمل نعلم سرًا أنه عمل خاطئ.
 
-### Refactoring infrastructure after growing 10x
+### إعادة هيكلة البنية التحتية بعد نموها بمقدار 10 أضعاف
 
-If you're not refactoring your infrastructure after a tenfold increase in growth, you over-engineered your original infrastructure.
+إذا لم تقم بإعادة هيكلة بنيتك التحتية بعد زيادة النمو بمقدار عشرة أضعاف، فإنك قد بالغت في هندسة بنيتك الأساسية الأصلية.
 
-Having scaled WP Engine to millions of websites serving tens of billions of requests daily, I can tell you that [scale is hard](https://longform.asmartbear.com/scale/), and that you don't know what will break under scale until you're already scaling (because you have to handle [things that you can't even measure yet](https://longform.asmartbear.com/scale-rare/)). If you over-engineer your original product, you're simply not [shipping your SLC fast enough](https://longform.asmartbear.com/slc/), and your naïve attempt at engineering massive scale from the start is just another form of [premature optimization](https://news.ycombinator.com/item?id=23096321).
+بعد توسيع نطاق WP Engine ليشمل ملايين مواقع الويب التي تخدم عشرات المليارات من الطلبات يوميًا، يمكنني أن أخبرك أن [القياس صعب](https://longform.asmartbear.com/scale/)، وأنك لا تعرف ما الذي سينخفض ​​الحجم حتى تقوم بالفعل بالتوسع (لأنه يتعين عليك التعامل مع [الأشياء التي لا يمكنك حتى قياسها بعد](https://longform.asmartbear.com/scale-rare/)). إذا أفرطت في هندسة منتجك الأصلي، فأنت ببساطة لا [تشحن SLC الخاص بك بالسرعة الكافية](https://longform.asmartbear.com/slc/)، ومحاولتك الساذجة لهندسة نطاق واسع من البداية هي مجرد شكل آخر من أشكال [التحسين المبكر](https://news.ycombinator.com/item?id=23096321).
 
-### Adding words because messaging was too terse
+### إضافة كلمات لأن الرسائل كانت مقتضبة للغاية
 
-If you're not adding back words because the messaging was so terse that it became confusing, your marketing is too verbose, too fluffy, and probably doesn't know what it's trying to say.
+إذا كنت لا تضيف كلمات مرة أخرى لأن الرسالة كانت مقتضبة للغاية لدرجة أنها أصبحت مربكة، فإن تسويقك مطول للغاية، ورقيق للغاية، وربما لا يعرف ما الذي يحاول قوله.
 
 ![editing advertisement](https://public.asmartbear.com/books/anthology/chapters/good-problems-to-have/image-2-simple.png)
 
-People don't read. Tweets are short. Google Ads are shorter. Email titles are shorter. People bounce off home pages in three seconds. No one reads the paragraph of text in the dialog box. You're not even reading this paragraph.
+الناس لا يقرأون. التغريدات قصيرة. إعلانات Google أقصر. عناوين البريد الإلكتروني أقصر. يرتد الأشخاص من الصفحات الرئيسية في ثلاث ثوانٍ. لا أحد يقرأ فقرة النص في مربع الحوار. أنت حتى لا تقرأ هذه الفقرة.
 
-It's 100x more likely that your messages aren't punchy enough, aren't [specific enough](https://longform.asmartbear.com/icp-ideal-customer-persona/), than that they're so brief as to be unintelligible. Nowadays you can use ChatGPT prompts to get you 80% of the way there, so you have no excuse.
+من المرجح 100 مرة أن رسائلك ليست قوية بما فيه الكفاية، وليست [محددة بما فيه الكفاية](https://longform.asmartbear.com/icp-ideal-customer-persona/)، أكثر من كونها مختصرة جدًا لدرجة أنها غير مفهومة. في الوقت الحاضر، يمكنك استخدام مطالبات ChatGPT لتحصل على 80% من الطريق إلى هناك، لذلك ليس لديك أي عذر.
 
-#### Adding back features you removed
+#### إعادة إضافة الميزات التي قمت بإزالتها
 
-If you're not adding back features you removed, you're not removing enough.
+إذا كنت لا تقوم بإضافة الميزات التي قمت بإزالتها مرة أخرى، فإنك لا تقوم بإزالة ما يكفي.
 
-Many products never remove features. This indicates we're not being critical enough, not weeding our garden, not [learning what customers really want](https://longform.asmartbear.com/customer-development/), not understanding what's useful, not admitting when we got it wrong, not shifting when the market shifts. When we do remove a feature, sometimes it will turn out the feature really was important after all. While of course in a perfect world we wouldn't have made that mistake, it's a natural consequence of weeding.
+لا تقوم العديد من المنتجات بإزالة الميزات أبدًا. يشير هذا إلى أننا لا ننتقد بما فيه الكفاية، ولا نزيل الأعشاب الضارة من حديقتنا، ولا [نتعلم ما يريده العملاء حقًا](https://longform.asmartbear.com/customer-development/)، ولا نفهم ما هو مفيد، ولا نعترف عندما نخطئ، ولا نتغير عندما يتغير السوق. عندما نقوم بإزالة ميزة ما، في بعض الأحيان يتبين لنا أن الميزة كانت مهمة بالفعل بعد كل شيء. بينما بالطبع في عالم مثالي لم نكن لنرتكب هذا الخطأ، إلا أنه نتيجة طبيعية لإزالة الأعشاب الضارة.
 
-### Fixing lots of bugs just after a major release
+### إصلاح الكثير من الأخطاء مباشرة بعد الإصدار الرئيسي
 
-If you're not fixing bugs due to releasing quickly, you released too late.
+إذا لم تقم بإصلاح الأخطاء بسبب الإصدار السريع، فقد قمت بالإصدار بعد فوات الأوان.
 
 ![chrysalis late butterfly](https://public.asmartbear.com/books/anthology/chapters/good-problems-to-have/d8816print-simple.png)
 
-While [releasing garbage is a bad policy](https://longform.asmartbear.com/slc/), it's also bad to wait until "everything's perfect." Windows 95 shipped with tens of thousands of known bugs,[^1] and was heralded as one of the greatest software innovations and most successful product releases of its time. Contact with customers lets you know which bugs are more important to fix next, and always reveal new bugs that you weren't going to find on your own anyway.
+في حين أن [إصدار البيانات المهملة يعد سياسة سيئة](https://longform.asmartbear.com/slc/)، فمن السيئ أيضًا الانتظار حتى "يصبح كل شيء على ما يرام". تم شحن نظام التشغيل Windows 95 مزودًا بعشرات الآلاف من الأخطاء المعروفة،[^1] وتم الإعلان عنه كواحد من أعظم ابتكارات البرامج وإصدارات المنتجات الأكثر نجاحًا في عصره. يتيح لك الاتصال بالعملاء معرفة الأخطاء الأكثر أهمية لإصلاحها بعد ذلك، والكشف دائمًا عن الأخطاء الجديدة التي لم تكن لتكتشفها بنفسك على أي حال.
 
-[^1]: There were so many, [there's an entire book](https://www.amazon.com/Windows-95-Bug-Collection-Work-Arounds/dp/0201489953) explaining how to work around 1000 of them.
+[^1]: كان هناك الكثير منها، [هناك كتاب كامل](https://www.amazon.com/Windows-95-Bug-Collection-Work-Arounds/dp/0201489953) يشرح كيفية التعامل مع حوالي 1000 منها.
 
-### Waiting too long to scale support or sales
+### الانتظار طويلاً لتوسيع نطاق الدعم أو المبيعات
 
-If you held onto support and sales for too long, rather than hiring a team, you learned a lot about your customers, and a lot about how to do Support and Sales.
+إذا احتفظت بالدعم والمبيعات لفترة طويلة جدًا، بدلاً من تعيين فريق، فقد تعلمت الكثير عن عملائك، والكثير عن كيفية تقديم الدعم والمبيعات.
 
-It's a classic funded-startup mistake to scale out either of these organizations too soon. Without a system in place, with materials, knowledge bases, and scripts, new hires don't know how to do the job. A distributed-work environment makes this 10x more challenging. The second you put someone else between you and a customer, your pace of learning and understanding falls off a cliff. Wait until it's breaking for lack of scale,[^2] then scale.
+من الأخطاء التقليدية التي ترتكبها الشركات الناشئة الممولة توسيع نطاق أي من هاتين المنظمتين في وقت مبكر جدًا. بدون وجود نظام، مع المواد وقواعد المعرفة والنصوص، لا يعرف الموظفون الجدد كيفية القيام بهذه المهمة. بيئة العمل الموزعة تجعل هذا الأمر أكثر صعوبة بمقدار 10 مرات. في اللحظة التي تضع فيها شخصًا آخر بينك وبين العميل، تنخفض وتيرة التعلم والفهم لديك. انتظر حتى ينكسر بسبب نقص الحجم،[^2] ثم قم بالقياس.
 
-[^2]: Once [at scale](https://longform.asmartbear.com/scale/), this rule no longer applies; at that point, you're mismanaging the company
+[^2]: مرة واحدة [على نطاق واسع](https://longform.asmartbear.com/scale/)، لم تعد هذه القاعدة سارية؛ في تلك المرحلة، أنت تسيء إدارة الشركة
 
-### Letting someone go soon after hiring
+### السماح لشخص ما بالرحيل بعد وقت قصير من التوظيف
 
-If you held onto someone even though you knew isn't was never going to work, you're doing a great disservice to that person, and your team, and your company, and yourself.
+إذا تمسكت بشخص ما على الرغم من أنك تعلم أنه لن ينجح أبدًا، فإنك تلحق ضررًا كبيرًا بهذا الشخص وفريقك وشركتك ونفسك.
 
-Of course this shouldn't be done capriciously, but no one benefits from dragging it out. One likely outcome is that you lose good people, because they see you building a team they don't want to be a part of. Another is a deluge of meetings, complaints, side-conversations, and general worsening of morale. And lower productivity, as competent people cover for the incompetent. You have to [face the truth](https://longform.asmartbear.com/failure-to-face-the-truth/) and act quickly. If this is happening a lot, it's also urgent that you fix your hiring process; in the meantime, the rule still applies.
+وبطبيعة الحال، لا ينبغي أن يتم ذلك بشكل متقلب، ولكن لا أحد يستفيد من التباطؤ. إحدى النتائج المحتملة هي أنك تفقد الأشخاص الجيدين، لأنهم يرون أنك تقوم ببناء فريق لا يريدون أن يكونوا جزءًا منه. والسبب الآخر هو طوفان من الاجتماعات والشكاوى والمحادثات الجانبية وتدهور الروح المعنوية بشكل عام. وانخفاض الإنتاجية، حيث يغطي الأشخاص الأكفاء الأشخاص غير الأكفاء. عليك [مواجهة الحقيقة](https://longform.asmartbear.com/failure-to-face-the-truth/) والتصرف بسرعة. إذا كان هذا يحدث كثيرًا، فمن الملح أيضًا أن تقوم بإصلاح عملية التوظيف الخاصة بك؛ وفي غضون ذلك، لا تزال القاعدة سارية.
 
-### Ignoring a competitor's move that turned out to be important
+### تجاهل خطوة المنافس التي تبين أنها مهمة
 
-If you're not ignoring most of your competitor's moves, then you're playing their game, not yours.
+إذا كنت لا تتجاهل معظم تحركات منافسيك، فأنت تلعب لعبتهم، وليس لعبتك.
 
 ![as you can see weve not only kept up with jones but surpassed them next up nelsons](https://public.asmartbear.com/books/anthology/chapters/good-problems-to-have/d0311print-simple.png)
 
-It's essential to stay focused on your unique value proposition and not get sidetracked by every move your competitors make. For instance, when a major competitor of Dropbox launched a similar service at a lower price, Dropbox chose to stay the course, focusing on their superior user experience and brand loyalty, rather than engaging in a price war.
+من الضروري أن تستمر في التركيز على القيمة الفريدة التي تقدمها وألا تنحرف عن مسارك بسبب كل خطوة يقوم بها منافسوك. على سبيل المثال، عندما أطلق أحد المنافسين الرئيسيين لدروب بوكس ​​خدمة مماثلة بسعر أقل، اختارت دروب بوكس ​​الاستمرار في هذا المسار، مع التركيز على تجربة المستخدم المتميزة والولاء للعلامة التجارية، بدلاً من الانخراط في حرب أسعار.
 
-Sometimes it will turn out that you really do need to react, but that signal will come from customers, in the form of them asking for features "because so-and-so has it" or cancelling and going to a specific competitor. That indeed demands a reaction, but only because you're seeking what's genuinely best for your customers, not because you're reacting to everything that competitors do.
+في بعض الأحيان، سيتبين أنك بحاجة حقًا إلى الرد، ولكن هذه الإشارة ستأتي من العملاء، في شكل طلب ميزات "لأن فلانًا يمتلكها" أو الإلغاء والذهاب إلى منافس معين. وهذا يتطلب بالفعل رد فعل، ولكن فقط لأنك تسعى إلى تحقيق ما هو الأفضل حقًا لعملائك، وليس لأنك تتفاعل مع كل ما يفعله المنافسون.
 
-### Rejecting a lucrative, distracting deal
+### رفض صفقة مربحة ومشتتة
 
-If you're not rejecting lucrative deals that don't align with your strategy, then you [don't have a strategy](https://longform.asmartbear.com/great-strategy/). If you're not rejecting relationships that don't align with your core values, [you don't have core values](https://longform.asmartbear.com/emptiness/).
+إذا كنت لا ترفض الصفقات المربحة التي لا تتوافق مع استراتيجيتك، فأنت [ليس لديك استراتيجية](https://longform.asmartbear.com/great-strategy/). إذا كنت لا ترفض العلاقات التي لا تتوافق مع قيمك الأساسية، [ليس لديك قيم أساسية](https://longform.asmartbear.com/emptiness/).
 
-Money is too tempting to reject. Money is one of the main reasons you're building a company in the first place. Money is what keeps the doors from closing and enables the next set of things you want to do. It's even [wise to say "yes" instead of "no,"](https://longform.asmartbear.com/say-yes/) so long as there's enough money in it.
+المال مغري جدًا لرفضه. المال هو أحد الأسباب الرئيسية التي تدفعك إلى بناء شركة في المقام الأول. المال هو ما يمنع الأبواب من الإغلاق ويمكّنك من القيام بالمجموعة التالية من الأشياء التي تريد القيام بها. بل إنه [من الحكمة أن تقول "نعم" بدلاً من "لا،"](https://longform.asmartbear.com/say-yes/) طالما أن هناك ما يكفي من المال فيه.
 
-But money is not more important than strategy, and it cannot be more important than your values, otherwise you're saying that you don't actually have either one. There's always a way to make more money--a different product, different industry, or breaking the laws or being unethical. There's a reason why you're taking the path you're currently on.
-
----
-
-Not all problems are indicative of poor decisions. It's easy to be hard on ourselves, but sometimes we should do just the opposite:
-
-Celebrate our devotion to good decisions and good strategy, even when they have negative consequences.
-
-That means you _have_ a strategy, and have the ability to make the tough, wise decisions.
+لكن المال ليس أكثر أهمية من الإستراتيجية، ولا يمكن أن يكون أكثر أهمية من قيمك، وإلا فإنك تقول أنك لا تمتلك أيًا منهما في الواقع. هناك دائمًا طريقة لكسب المزيد من المال - منتج مختلف، أو صناعة مختلفة، أو خرق القوانين أو التصرف بطريقة غير أخلاقية. هناك سبب يجعلك تسلك المسار الذي تسلكه حاليًا.
 
 ---
 
-*HT [Hassy Veldstra](https://twitter.com/hveldstra) for finding the Staedtler advertisement.*
+ليست كل المشاكل تشير إلى قرارات سيئة. من السهل أن نكون قاسيين على أنفسنا، لكن في بعض الأحيان يجب علينا أن نفعل العكس تمامًا:
+
+احتفل بإخلاصنا في اتخاذ القرارات الجيدة والاستراتيجية الجيدة، حتى عندما يكون لها عواقب سلبية.
+
+وهذا يعني أن لديك استراتيجية، ولديك القدرة على اتخاذ القرارات الصعبة والحكيمة.
+
+---
+
+*HT [Hassy Veldstra](https://twitter.com/hveldstra) للعثور على إعلان Staedtler.*

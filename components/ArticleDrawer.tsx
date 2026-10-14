@@ -88,6 +88,19 @@ export default function ArticleDrawer({
     setTimeout(() => setCopiedLink(false), 2000);
   };
 
+  // Parse markdown content clean of frontmatter & duplicated titles
+  const cleanBody = useMemo(() => {
+    if (!fullContent) return '';
+    let body = fullContent.replace(/^---[\s\S]*?---\s*/, '');
+    // Remove repeated # Title and ### Subtitle at the start of body
+    body = body.replace(/^#\s+[^\n]+\n+/, '');
+    body = body.replace(/^###\s+[^\n]+\n+/, '');
+    // Remove repeated Executive summary blockquote if present in body
+    body = body.replace(/^>\s+\*\*الملخص التنفيذي:\*\*[\s\S]*?>\s+\*\*الرابط الأصلي للمقال:\*\*[\s\S]*?\n---?\n?/, '');
+    body = body.replace(/^>\s+\*\*Executive Summary:\*\*[\s\S]*?>\s+\*\*Original URL:\*\*[\s\S]*?\n---?\n?/, '');
+    return body.trim();
+  }, [fullContent]);
+
   if (!article) return null;
 
   const title = isContentAr ? article.title_ar || article.title_en : article.title_en;
@@ -102,19 +115,6 @@ export default function ArticleDrawer({
     : article.subtopics_en?.length
     ? article.subtopics_en
     : article.subtopics_ar || article.subtopics || [];
-
-  // Parse markdown content clean of frontmatter & duplicated titles
-  const cleanBody = useMemo(() => {
-    if (!fullContent) return '';
-    let body = fullContent.replace(/^---[\s\S]*?---\s*/, '');
-    // Remove repeated # Title and ### Subtitle at the start of body
-    body = body.replace(/^#\s+[^\n]+\n+/, '');
-    body = body.replace(/^###\s+[^\n]+\n+/, '');
-    // Remove repeated Executive summary blockquote if present in body
-    body = body.replace(/^>\s+\*\*الملخص التنفيذي:\*\*[\s\S]*?>\s+\*\*الرابط الأصلي للمقال:\*\*[\s\S]*?\n---?\n?/, '');
-    body = body.replace(/^>\s+\*\*Executive Summary:\*\*[\s\S]*?>\s+\*\*Original URL:\*\*[\s\S]*?\n---?\n?/, '');
-    return body.trim();
-  }, [fullContent]);
 
   return (
     <div
@@ -322,6 +322,59 @@ export default function ArticleDrawer({
   );
 }
 
+// Helper to render inline formatting: bold, italic, code, links
+function renderInline(text: string): React.ReactNode {
+  if (!text) return null;
+  // Match links [text](url), bold **text**, italic *text*, code `text`
+  const regex = /(\[.*?\]\(https?:\/\/[^\s\)]+\)|\*\*.*?\*\*|\*.*?\*|`.*?`)/g;
+  const parts = text.split(regex);
+
+  return parts.map((part, i) => {
+    if (!part) return null;
+    if (part.startsWith('[') && part.includes('](') && part.endsWith(')')) {
+      const match = part.match(/^\[(.*?)\]\((.*?)\)$/);
+      if (match) {
+        return (
+          <a
+            key={i}
+            href={match[2]}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-bear-600 dark:text-bear-400 font-semibold underline underline-offset-2 hover:text-bear-700 dark:hover:text-bear-300"
+          >
+            {match[1]}
+          </a>
+        );
+      }
+    }
+    if (part.startsWith('**') && part.endsWith('**') && part.length > 4) {
+      return (
+        <strong key={i} className="font-bold text-stone-900 dark:text-white">
+          {part.slice(2, -2)}
+        </strong>
+      );
+    }
+    if (part.startsWith('*') && part.endsWith('*') && part.length > 2) {
+      return (
+        <em key={i} className="italic text-stone-700 dark:text-stone-300">
+          {part.slice(1, -1)}
+        </em>
+      );
+    }
+    if (part.startsWith('`') && part.endsWith('`') && part.length > 2) {
+      return (
+        <code
+          key={i}
+          className="px-1.5 py-0.5 rounded bg-stone-100 dark:bg-stone-800 text-bear-700 dark:text-bear-300 font-mono text-xs border border-stone-200 dark:border-stone-700"
+        >
+          {part.slice(1, -1)}
+        </code>
+      );
+    }
+    return part;
+  });
+}
+
 // ==============================================================================
 // Custom Lightweight Markdown Renderer with Image Preservation & Clean Layout
 // ==============================================================================
@@ -363,7 +416,7 @@ function MarkdownRenderer({ content, isAr }: { content: string; isAr: boolean })
               key={idx}
               className="text-xl sm:text-2xl font-black text-stone-900 dark:text-white mt-10 mb-4 pb-2 border-b border-stone-200/80 dark:border-stone-800/80"
             >
-              {text}
+              {renderInline(text)}
             </h2>
           );
         }
@@ -372,7 +425,7 @@ function MarkdownRenderer({ content, isAr }: { content: string; isAr: boolean })
             key={idx}
             className="text-lg sm:text-xl font-bold text-stone-900 dark:text-white mt-8 mb-3"
           >
-            {text}
+            {renderInline(text)}
           </h3>
         );
       }
@@ -385,7 +438,7 @@ function MarkdownRenderer({ content, isAr }: { content: string; isAr: boolean })
             key={idx}
             className="my-5 p-4 rounded-2xl bg-bear-50/60 dark:bg-bear-950/40 border-inline-start-4 border-bear-600 text-stone-800 dark:text-stone-200 italic text-sm sm:text-base leading-relaxed"
           >
-            {text}
+            {renderInline(text)}
           </blockquote>
         );
       }
@@ -397,7 +450,7 @@ function MarkdownRenderer({ content, isAr }: { content: string; isAr: boolean })
           <ul key={idx} className="my-4 space-y-2 list-disc list-inside ps-2">
             {items.map((it, i) => (
               <li key={i} className="leading-relaxed">
-                {it.replace(/^[\*\-]\s*/, '')}
+                {renderInline(it.replace(/^[\*\-]\s*/, ''))}
               </li>
             ))}
           </ul>
@@ -411,7 +464,7 @@ function MarkdownRenderer({ content, isAr }: { content: string; isAr: boolean })
           <ol key={idx} className="my-4 space-y-2 list-decimal list-inside ps-2">
             {items.map((it, i) => (
               <li key={i} className="leading-relaxed">
-                {it.replace(/^\d+\.\s*/, '')}
+                {renderInline(it.replace(/^\d+\.\s*/, ''))}
               </li>
             ))}
           </ol>
@@ -421,7 +474,7 @@ function MarkdownRenderer({ content, isAr }: { content: string; isAr: boolean })
       // 6. Regular Paragraph
       return (
         <p key={idx} className="leading-relaxed text-stone-800 dark:text-stone-200 my-4">
-          {trimmed}
+          {renderInline(trimmed)}
         </p>
       );
     });

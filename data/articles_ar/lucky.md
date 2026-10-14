@@ -20,79 +20,66 @@ summary_ar: "\"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كم تبلغ نسبة الحظ الحقيقية في نجاح الشركات ورواد الأعمال؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# How much of success is luck?
-
-> **Executive Summary:** "You're so lucky."  That's true.  There's also decades of sacrifice, emotional turmoil, long hours, perseverance.  So… is it lucky?
-> **Original URL:** [https://longform.asmartbear.com/lucky/](https://longform.asmartbear.com/lucky/)
-
 ![serendipity is up fluke doing well concerned about dumb luck](https://public.asmartbear.com/books/anthology/chapters/lucky/d7231print-simple.png)
 
-It's amazing how often "luck" comes up when people find out I started Smart Bear.
+إنه لأمر مدهش عدد المرات التي يأتي فيها "الحظ" عندما يكتشف الناس أنني بدأت Smart Bear.
 
-> "You're lucky to have your own business. I hate my boss."  
->   
-> "You're lucky your business is still doing okay in this recession."  
->   
-> "You're lucky that you [sold your business](https://longform.asmartbear.com/rich-vs-king-sold-company/) when you could."
+> "أنت محظوظ لأن لديك عملك الخاص. أنا أكره رئيسي."
+> 
+> "أنت محظوظ لأن عملك لا يزال على ما يرام في هذا الركود."
+> 
+> "أنت محظوظ لأنك [بيعت عملك](https://longform.asmartbear.com/rich-vs-king-sold-company/) عندما استطعت ذلك."
 
-I wanted them to be impressed with the hours I put in, with the ideas I had, with my amazing product sense, with the way I handled customers, with my 50% sales close rate, and how I overcame the mental stress of bootstrapping.
+أردت أن ينبهروا بالساعات التي أمضيتها في العمل، وبالأفكار التي أمتلكها، وبإحساسي المذهل بالمنتج، وبالطريقة التي أتعامل بها مع العملاء، وبنسبة إغلاق مبيعاتي البالغة 50%، وكيف تغلبت على الضغط الذهني الناتج عن البدء في العمل.
 
-But no, success is "lucky." A successful business is a lottery ticket.
+ولكن لا، النجاح هو "محظوظ". العمل الناجح هو تذكرة اليانصيب.
 
 ![Lottery winner](https://public.asmartbear.com/books/anthology/chapters/lucky/image-simple.png)
 
-**It's dismissive, even insulting: It wasn't you, it was luck.** Your decisions weren't important, your ideas weren't special, the long hours didn't matter--you're just lucky. Anyone in your place would have done the same; [time and chance happeneth to them all](https://bible.cc/ecclesiastes/9-11.htm).
+**إنه أمر مستهين، بل ومهين: لم تكن أنت، بل كان الحظ.** لم تكن قراراتك مهمة، وأفكارك لم تكن مميزة، ولم تكن الساعات الطويلة مهمة - أنت محظوظ فقط. أي شخص في مكانك كان سيفعل الشيء نفسه؛ [الوقت والصدفة يحدث لهم جميعًا](https://bible.cc/ecclesiastes/9-11.htm).
 
-It's easy to reflect back that dismissive indignation:
+من السهل أن تعكس هذا السخط الرافض:
 
-> So when I quit my job and worked 60 hours a week with no pay for years, [sacrificing my health](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/), and finally clawed my way out, that was *luck?*  
->   
-> So when I invented a unique product and built it from scratch in [a market that didn't even exist yet](https://longform.asmartbear.com/problem/), and people not only [needed it](https://longform.asmartbear.com/needs-stack/) but wanted it, and [genuinely wanted to support us](https://longform.asmartbear.com/willingness-to-pay/), that was *luck?*  
->   
-> So when I cultivated relationships with [the best customers](https://longform.asmartbear.com/icp-ideal-customer-persona/) and truly listened to their needs [using a specific framework](https://longform.asmartbear.com/customer-development/), that was *luck?*  
->   
-> So when I had the chance to [sell my company](https://longform.asmartbear.com/rich-vs-king-sold-company/) at a fair price and negotiated a deal that put more money in the pockets of my employees than any other job would have, that was *luck?*
+> لذلك عندما تركت وظيفتي وعملت 60 ساعة في الأسبوع بدون أجر لسنوات، [وضحيت بصحتي](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/)، وأخيراً شقت طريقي للخروج، كان ذلك *حظًا؟*
+> 
+> لذلك عندما اخترعت منتجًا فريدًا وقمت ببنائه من الصفر في [سوق لم يكن موجودًا بعد](https://longform.asmartbear.com/problem/)، ولم [يحتاجه الناس](https://longform.asmartbear.com/needs-stack/) فحسب، بل أرادوه، و[أرادوا دعمنا حقًا](https://longform.asmartbear.com/willingness-to-pay/)، ذلك هل كان *الحظ؟*
+> 
+> لذلك عندما قمت ببناء علاقات مع [أفضل العملاء](https://longform.asmartbear.com/icp-ideal-customer-persona/) واستمعت حقًا إلى احتياجاتهم [باستخدام إطار عمل محدد](https://longform.asmartbear.com/customer-development/)، كان ذلك *حظًا؟*
+> 
+> لذا، عندما أتيحت لي الفرصة [لبيع شركتي](https://longform.asmartbear.com/rich-vs-king-sold-company/) بسعر عادل والتفاوض على صفقة من شأنها أن توفر أموالاً في جيوب الموظفين لدي أكثر من أي وظيفة أخرى، كان ذلك *حظًا؟*
 
 ![luck or perseverance](https://public.asmartbear.com/books/anthology/chapters/lucky/image-2-simple.png)
 
-These retorts are fair. But both things can be true. These demonstrate that it's not *only* luck--it is _not_ identical to a lottery ticket--but isn't there luck buoying up all aspects of the endeavor?
+هذه الإجابات عادلة. لكن كلا الأمرين يمكن أن يكونا صحيحين. يوضح هذا أنه ليس الحظ *فقط* - إنه ليس مطابقًا لتذكرة اليانصيب - ولكن أليس هناك حظ يدعم جميع جوانب المسعى؟
 
-Yes I cultivated relationships with customers, but wasn't it lucky that the customers showed up in the first place? Yes, they found me through my Google Ads, but wasn't it lucky that I started Smart Bear right when AdWords were new and cheap, when everyone used Google but AdWords weren't saturated with garbage? Yes, I chose [effective, brief marketing messages](https://longform.asmartbear.com/specificity/) with an [authentic voice](https://longform.asmartbear.com/authentic-is-dead/), but wasn't it lucky that I had a mentor who had already taught me how to do that?[^1]
+نعم، لقد قمت ببناء علاقات مع العملاء، لكن ألم يكن من حسن حظي أن العملاء ظهروا في المقام الأول؟ نعم، لقد عثروا علي من خلال إعلانات Google الخاصة بي، ولكن ألم يكن من حسن الحظ أنني بدأت Smart Bear عندما كان AdWords جديدًا ورخيصًا، وعندما كان الجميع يستخدم Google ولكن AdWords لم يكن مشبعًا بالقمامة؟ نعم، لقد اخترت [رسائل تسويقية فعّالة ومختصرة](https://longform.asmartbear.com/specity/) مع [صوت أصيل](https://longform.asmartbear.com/authentic-is-dead/)، ولكن ألم أكن محظوظًا لأنني حصلت على مرشد علمني كيفية القيام بذلك من قبل؟[^1]
 
-In fact, I can pick any decision in the history of Smart Bear and the same rhetorical pattern appears: Success tied to something intentional,[^2] but also leveraging something lucky.
+في الواقع، يمكنني اختيار أي قرار في تاريخ Smart Bear ويظهر نفس النمط الخطابي: النجاح مرتبط بشيء مقصود،[^2] ولكن أيضًا الاستفادة من شيء محظوظ.
 
-[^1]: Update in 2024: I started WP Engine a year after writing this article; fourteen years after that, it's [been a unicorn for years](https://longform.asmartbear.com/product-market-fit-formula/), 100x larger than Smart Bear ever was. Once again, it was a great idea, great execution, an immense amount of effort from thousands of people over the years... but also luck: Lucky that the WordPress market in which we operate remained healthy and fast-growing throughout our journey, lucky that people in the WordPress community gave us the benefit of the doubt at first and supported us later, lucky that we were able to hire so many incredibly talented people, lucky that it took serious competitors ten years before they really understood how big our market is, and the list continues.
+[^1]: التحديث في عام 2024: لقد بدأت تشغيل WP Engine بعد عام من كتابة هذه المقالة؛ وبعد أربعة عشر عامًا من ذلك، أصبح [وحيد القرن لسنوات](https://longform.asmartbear.com/product-market-fit-formula/)، أكبر بمقدار 100 مرة من Smart Bear على الإطلاق. مرة أخرى، كانت فكرة رائعة، وتنفيذًا رائعًا، وكمًا هائلاً من الجهد من آلاف الأشخاص على مر السنين... ولكن أيضًا الحظ: من حسن الحظ أن سوق WordPress الذي نعمل فيه ظل سليمًا وسريع النمو طوال رحلتنا، ومن حسن الحظ أن الأشخاص في مجتمع WordPress أعطونا فائدة الشك في البداية ودعمونا لاحقًا، ومن حسن الحظ أننا تمكنا من توظيف العديد من الأشخاص الموهوبين بشكل لا يصدق، ومن حسن حظنا أن الأمر استغرق من المنافسين الجادين عشر سنوات قبل أن يفهموا حقًا حجم سوقنا، والقائمة مستمرة.
 
-[^2]: Just because it's intentional, doesn't mean everything worked on the first try. Indeed, almost nothing works on the first try. You have to [experiment and fail](https://longform.asmartbear.com/fail/) before you find success; [pushing through that is tenacity](https://longform.asmartbear.com/chaos-at-start/), but there's luck in how quickly you find that success, or if you ever do, and if you can even [tell the difference](https://longform.asmartbear.com/perseverance/).
+[^2]: فقط لأنه مقصود، لا يعني أن كل شيء نجح في المحاولة الأولى. في الواقع، لا شيء تقريبًا ينجح في المحاولة الأولى. يجب عليك [التجربة والفشل](https://longform.asmartbear.com/fail/) قبل أن تجد النجاح؛ [إن المضي قدمًا هو المثابرة](https://longform.asmartbear.com/chaos-at-start/)، ولكن هناك حظ في مدى سرعة تحقيق هذا النجاح، أو إذا فعلت ذلك، وإذا كان بإمكانك حتى [معرفة الفرق](https://longform.asmartbear.com/perseverance/).
 
-Besides this operational luck, there's personal luck, which many people call "privilege" and which Warren Buffett calls "winning the genetic lottery"--the luck of being born in this era (not in the Middle Ages), in this country (the US in my case, easily the most supportive place to start a company), to this family (I had a stable household), with certain talents (e.g. building software, problem-solving, being tenacious, having focus), and with this ethnicity, gender, and with all body parts in good working order. While none of this negates the value or necessity of hard work and good choices, neither can you ignore these tailwinds in the final equation of "success."
+إلى جانب هذا الحظ التشغيلي، هناك حظ شخصي، والذي يسميه كثير من الناس "الامتياز" والذي يسميه وارن بافيت "الفوز باليانصيب الجيني" - حظ ولادتي في هذا العصر (وليس في العصور الوسطى)، في هذا البلد (الولايات المتحدة في حالتي، المكان الأكثر دعمًا لبدء شركة)، لهذه العائلة (كان لدي أسرة مستقرة)، مع مواهب معينة (مثل بناء البرمجيات، وحل المشكلات، والمثابرة، والتركيز)، ومع هذه العرقية، الجنس، وجميع أجزاء الجسم في حالة عمل جيدة. في حين أن لا شيء من هذا ينفي قيمة أو ضرورة العمل الجاد والاختيارات الجيدة، لا يمكنك أيضًا تجاهل هذه الرياح الخلفية في المعادلة النهائية لـ "النجاح".
 
-My conclusion:
+استنتاجي:
 
-**Good luck and bad luck are constantly swirling around you.** <br/> **How you *use* it, is not luck.**
+**الحظ السعيد والحظ السيئ يحومان حولك باستمرار.** <br/> **كيفية *استخدامه* ليست حظًا.**
 
 ![what luck one of my personalities psychiatrist](https://public.asmartbear.com/books/anthology/chapters/lucky/d6059print-simple.png)
 
-These individual successes are a result of taking advantage of good luck. What about failures?
+هذه النجاحات الفردية هي نتيجة الاستفادة من الحظ السعيد. ماذا عن الإخفاقات؟
 
-At Smart Bear, lots of marketing and advertising attempts flopped. Ads in certain magazines bombed. (I'm withholding names; print media is having a tough time as it is.[^3]) In some cases I spent many thousands of dollars--which at the time was a significant percentage of revenues--on ads that didn't net a single sale.
+في شركة Smart Bear، فشلت الكثير من المحاولات التسويقية والإعلانية. قصفت الإعلانات في بعض المجلات. (أنا أحجب الأسماء؛ إذ تواجه وسائل الإعلام المطبوعة وقتًا عصيبًا.[^3]) في بعض الحالات، أنفقت عدة آلاف من الدولارات - والتي كانت في ذلك الوقت تمثل نسبة كبيرة من الإيرادات - على الإعلانات التي لم تحقق أي مبيعات صافية.
 
-[^3]: Update in 2024: Every single magazine that I used to advertise in, has gone out of business.
+[^3]: تحديث في عام 2024: كل مجلة اعتدت على الإعلان فيها، توقفت عن العمل.
 
-Ads that utterly fail in one magazine when they worked in another--that's bad luck. The choice to cancel some ads and not others is not luck. In fact, ensuring that we could measure the efficacy of individual print ads was also a choice. Had we not done this, we wouldn't have been able to distinguish success from failure, and then indeed our destiny would be controlled by luck alone. [There are lots of ways to "fail" without failure](https://longform.asmartbear.com/fail/).
+الإعلانات التي تفشل تمامًا في إحدى المجلات عندما تعمل في مجلة أخرى - يعد هذا حظًا سيئًا. إن اختيار إلغاء بعض الإعلانات دون غيرها ليس حظاً. وفي الواقع، كان ضمان قدرتنا على قياس فعالية الإعلانات المطبوعة الفردية بمثابة خيار أيضًا. ولو لم نفعل ذلك لما تمكنا من التمييز بين النجاح والفشل، وحينها لكان الحظ وحده هو الذي يتحكم في مصيرنا. [هناك طرق عديدة "للفشل" دون فشل](https://longform.asmartbear.com/fail/).
 
-Overall success in business doesn't only mean you "got lucky," it means you *used* luck, taking advantage of the good, identifying and ejecting the bad.
+النجاح الشامل في العمل لا يعني فقط أنك "حظيت بالحظ"، بل يعني أنك *استخدمت* الحظ، مستفيدًا من الأشياء الجيدة، وتعرف على الأشياء السيئة وتخلص منها.
 
-"Luck" rarely comes up when I'm talking to other entrepreneurs. They're interested in stories and tips and how things work. They want to know how to think, not [how to copy](https://longform.asmartbear.com/learn-by-copy/). The wrong question is: "What inspired that idea?" The right question is: "[How did you know when an idea was right?](https://longform.asmartbear.com/good-startup-ideas/)" Or even more specific: "How does one know whether a print ad is working?"
+نادراً ما يأتي "الحظ" عندما أتحدث مع رواد أعمال آخرين. إنهم مهتمون بالقصص والنصائح وكيفية عمل الأشياء. إنهم يريدون أن يعرفوا كيف يفكرون، وليس [كيفية النسخ](https://longform.asmartbear.com/learn-by-copy/). السؤال الخطأ هو: "ما الذي ألهم هذه الفكرة؟" السؤال الصحيح هو: "[كيف عرفت أن الفكرة كانت صحيحة؟](https://longform.asmartbear.com/good-startup-ideas/)" أو حتى بشكل أكثر تحديدًا: "كيف يعرف المرء ما إذا كان الإعلان المطبوع ناجحًا؟"
 
-**Your best bet for success is to treat all your decisions as empirical tests.** [Confidence and experimentation are not contradictory](https://longform.asmartbear.com/strong-opinions-weakly-held/). Try anything, measure everything, and follow what works, even if that means [changing everything](https://longform.asmartbear.com/predict-the-future/).
+**أفضل رهان لتحقيق النجاح هو التعامل مع جميع قراراتك كاختبارات تجريبية.** [الثقة والتجربة ليسا متناقضين](https://longform.asmartbear.com/strong-opinions-weakly-held/). جرب أي شيء، وقم بقياس كل شيء، واتبع ما ينجح، حتى لو كان ذلك يعني [تغيير كل شيء](https://longform.asmartbear.com/predict-the-future/).
 
-Then maybe you can be lucky too.
+ثم ربما تكون محظوظًا أيضًا.

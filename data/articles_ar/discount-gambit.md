@@ -20,74 +20,61 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** مناورة تقديم الخصومات: متى تفيدك ومتى تدمر قيمة علامتك التجارية؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Discount gambit
-
-> **Executive Summary:** Discounting is the typical sales technique, but refusing to discount can lead to a much better business, even in the Enterprise.
-> **Original URL:** [https://longform.asmartbear.com/discount-gambit/](https://longform.asmartbear.com/discount-gambit/)
-
 ![No, it's fine, I've just never seen coupons used in an acquisition.](https://public.asmartbear.com/books/anthology/chapters/discount-gambit/d3719print-simple.png)
 
-Which of these pricing strategies is more persuasive?
+أي من استراتيجيات التسعير هذه أكثر إقناعا؟
 
-1. If you buy now, I'll give you a discount.
-2. The price is going up, but if you buy now I will lock in your rate.
+1. إذا اشتريت الآن، سأعطيك خصمًا.
+2. السعر آخذ في الارتفاع، ولكن إذا اشتريت الآن فسوف أقوم بتثبيت السعر الخاص بك.
 
-Both are types of discount. **The typical software sales strategy is #1.** It's often applied to get the customer to "close" before the end of the month or quarter or some other arbitrary time boundary.
+وكلاهما أنواع من الخصم. **استراتيجية مبيعات البرامج النموذجية هي رقم 1.** غالبًا ما يتم تطبيقها لجعل العميل "يغلق" قبل نهاية الشهر أو الربع أو أي حدود زمنية عشوائية أخرى.
 
-At first blush it seems harder to persuade with #2. After all, #1 means the customer pays less than #2, because #2 isn't a real discount--it's a discount against an imagined future price.
+للوهلة الأولى، يبدو من الصعب إقناعك بالرقم 2. بعد كل شيء، الرقم 1 يعني أن العميل يدفع أقل من الرقم 2، لأن الرقم 2 ليس خصمًا حقيقيًا - إنه خصم مقابل سعر مستقبلي متخيل.
 
-But for me, **the evidence is overwhelmingly in favor of #2.** Here's why, from the point of view of the customer.
+لكن بالنسبة لي، **الأدلة تؤيد بأغلبية ساحقة الخيار رقم 2.** وإليك السبب، من وجهة نظر العميل.
 
-In strategy #1 there's a discount if I "act now." Hmm, so that means the "price" wasn't really the price after all. The "price" must have included a nice slice of pure profit that apparently you're willing to forego. So you were gouging me before? And the only reason I found out about it is that it happens to be the end of the quarter?
+في الإستراتيجية رقم 1 هناك خصم إذا "تصرفت الآن". حسنًا، هذا يعني أن "السعر" لم يكن حقًا هو السعر بعد كل شيء. يجب أن يتضمن "السعر" شريحة جيدة من الربح الخالص الذي يبدو أنك على استعداد للتخلي عنه. إذن كنت تتلاعب بي من قبل؟ والسبب الوحيد الذي جعلني أكتشف الأمر هو أنه حدث في نهاية الربع؟
 
-Thus **#1 breeds mistrust**--the opposite of what you're trying to establish with me, your customer. **In #2 you're looking out for my interests.[^1]** You're cluing me in that there might be a rate increase, and you're actively protecting me from it. Sure, I know there may not be an increase, or it may not come for a while. But it's still protection, not a gouge that you graciously chose to reveal.
+وبالتالي فإن **#1 يولد عدم الثقة**-- وهو عكس ما تحاول إثباته معي، أنا عميلك. **في رقم 2، أنت تبحث عن اهتماماتي.[^1]** أنت تشير إلي أنه قد تكون هناك زيادة في السعر، وأنت تحميني منها بشكل فعال. بالتأكيد، أعلم أنه قد لا تكون هناك زيادة، أو قد لا تأتي لفترة من الوقت. لكنها لا تزال حماية، وليست قلعًا اخترت أن تكشفه بكل لطف.
 
-[^1]: This is an example of the "Love" type of [WTP (Willingness-to-pay)](https://longform.asmartbear.com/willingness-to-pay/)
+[^1]: هذا مثال على نوع "الحب" لـ [WTP (الاستعداد للدفع)](https://longform.asmartbear.com/willingness-to-pay/)
 
-Four years ago I was trialing software called `.TEST` from Parasoft. It was buggy; even after hours of remote desktop control with tech support we couldn't get it to stay up long enough to scan my code.
+قبل أربع سنوات كنت أجرب برنامجًا يسمى ".TEST" من شركة Parasoft. لقد كانت عربات التي تجرها الدواب. حتى بعد ساعات من التحكم بسطح المكتب البعيد مع الدعم الفني، لم نتمكن من جعله يبقى لفترة كافية لمسح الكود الخاص بي.
 
-But the salesman was persistent. The conversation went like this, minus many minutes of sales-filler-language on his end of the phone:
+لكن البائع كان مثابرا. جرت المحادثة على هذا النحو، بدون دقائق عديدة من لغة حشو المبيعات على طرف هاتفه:
 
-> "How much will this cost me?"  
-> "$20,000."  
-> "Wow, I thought you were going to say $2,000. That's way out of my price range for one person and this product. In fact, I've looked at FxCop and NUnit and it seems to me I can do the same thing with free tools. I was willing to pay for some convenience, but not that much."  
-> "Let me see what I can do."  
-> "No nevermind, it's, like, an order of magnitude problem."
+> "كم سيكلفني هذا؟"
+> "20 ألف دولار".
+> "رائع، اعتقدت أنك ستقول 2000 دولار. هذا المبلغ خارج النطاق السعري لشخص واحد وهذا المنتج. في الواقع، لقد ألقيت نظرة على FxCop وNUnit ويبدو لي أنه يمكنني فعل الشيء نفسه باستخدام الأدوات المجانية. كنت على استعداد للدفع مقابل بعض الراحة، ولكن ليس كثيرًا."
+> "دعني أرى ما يمكنني فعله."
+> "لا يهم، إنها مشكلة من حيث الحجم."
 
-He called back the next day.
+اتصل مرة أخرى في اليوم التالي.
 
-> "$1,500."
+> "1500 دولار."
 
-I didn't buy. I talked to someone who did, though. A reference customer. That guy said he paid $20,000. I asked how he liked it and whether he encountered the crash problems I was seeing. He said they hadn't installed it yet, but the demo looked great. I made a mental note to try to understand the mentality and budget that forks out $20,000 for a nice demo.
+لم أشتري. لقد تحدثت مع شخص فعل ذلك، رغم ذلك. عميل مرجعي. قال ذلك الرجل أنه دفع 20 ألف دولار. سألته كيف كان يحب ذلك وما إذا كان قد واجه مشاكل التعطل التي كنت أراها. وقال إنهم لم يقوموا بتثبيته بعد، لكن العرض التجريبي بدا رائعًا. لقد قمت بتدوين ملاحظة ذهنية لمحاولة فهم العقلية والميزانية التي تنفق 20000 دولار مقابل عرض توضيحي رائع.
 
-But getting back to the point. If he can go from $20,000 to $1,500, maybe he will go to $1,000. Yes, this strategy means often you will extract extra money from me. But it also means I don't know where the floor is, and I have every incentive to haggle. The process drags out, ending at gunpoint. **Meanwhile your "customer relationship" is now more of a "hostage situation."**
+لكن العودة إلى هذه النقطة. إذا كان بإمكانه الانتقال من 20 ألف دولار إلى 1500 دولار، فربما يصل إلى 1000 دولار. نعم، تعني هذه الإستراتيجية أنك ستستخرج مني أموالًا إضافية في كثير من الأحيان. ولكن هذا يعني أيضًا أنني لا أعرف مكان الأرضية، ولدي كل الحوافز للمساومة. تستمر العملية وتنتهي تحت تهديد السلاح. ** وفي الوقت نفسه، أصبحت "علاقتك مع العملاء" الآن أقرب إلى "حالة رهينة".**
 
-So let me get this straight: It's better to get an extra 10% on every order, but create an adversarial environment with me, your cherished customer? This is enterprise sales, right, where the pilot is 30 seats and the roll-out is 2,000? And you're going to risk pissing me off over 10% on the 30-seat part?
+لذا اسمحوا لي أن أوضح هذا: من الأفضل أن تحصل على خصم إضافي بنسبة 10% على كل طلب، لكن قم بإنشاء بيئة عدائية معي، أنا عميلك العزيز؟ هذه هي مبيعات المؤسسات، أليس كذلك، حيث يكون الإصدار التجريبي 30 مقعدًا والطرح 2000؟ وهل ستخاطر بإغضابي بنسبة تزيد عن 10% في الجزء المكون من 30 مقعدًا؟
 
-And now imagine if I had called back that reference customer and told him he could've had it for $1,500? Yet another problem with discounting--word gets around, meaningless differences in pricing is unfair, and now I, the customer, see you as plain old dishonest.
+والآن تخيل لو أنني اتصلت بهذا العميل المرجعي وأخبرته أنه كان بإمكانه الحصول عليه مقابل 1500 دولار؟ مشكلة أخرى تتعلق بالخصم - انتشار الكلمات، والاختلافات التي لا معنى لها في الأسعار غير عادلة، والآن، أنا العميل، أراك كشخص عجوز غير أمين.
 
-Goodbye 2,000-seat order.
+وداعا لطلب 2000 مقعد.
 
-**Even if we set the honesty/relationship argument aside, there's the matter of image.**
+**حتى لو وضعنا حجة الصدق/العلاقة جانبًا، فهناك مسألة الصورة.**
 
-What kind of company provides a discount? Wal-Mart, Target, Walgreens. Try to get quotes for Microsoft or Oracle or IBM products for 1000 desktops. Everything's negotiable, everything's discountable. At best it conjures images of haggling and struggle; at worst of low-quality or the desperate need to "meet numbers" at the expense of everything else.
+ما هي الشركة التي تقدم الخصم؟ وول مارت، الهدف، والجرينز. حاول الحصول على عروض أسعار لمنتجات Microsoft أو Oracle أو IBM لـ 1000 جهاز كمبيوتر مكتبي. كل شيء قابل للتفاوض، كل شيء قابل للخصم. وفي أحسن الأحوال، فإنه يستحضر صور المساومة والنضال؛ في أسوأ الأحوال، تكون الجودة منخفضة أو الحاجة الماسة إلى "تلبية الأرقام" على حساب كل شيء آخر.
 
-Which companies don't discount, ever? Apple, Google, Constant Contact. No discounts on iPhones. No haggling over AdWord prices. What's the image? Desirable. The best. Worth paying for. **The leader doesn't have to compromise. The leader isn't desperate for orders.**
+ما هي الشركات التي لا تقوم بالخصم، على الإطلاق؟ أبل، جوجل، الاتصال المستمر. لا يوجد تخفيضات على الايفون لا داعي للمساومة على أسعار AdWord. ما هي الصورة؟ مرغوب فيه. الأفضل. يستحق الدفع مقابل. ** ليس على القائد أن يتنازل. القائد ليس في حاجة ماسة للأوامر.**
 
-What kinds of customers do you attract through discounts, coupons, and "act now" language? The ones that truly find a lot of value from your product? The ones whose opinions you care about when you're researching the next round of features? The ones who will love your brand, and increase how much they're spending with you over time? Strategy #1 attracts the least-valuable customers and repels the best ones, while establishing a weak brand.
+ما هي أنواع العملاء التي تجذبها من خلال الخصومات والكوبونات ولغة "التصرف الآن"؟ تلك التي تجد حقًا الكثير من القيمة من منتجك؟ الأشخاص الذين تهتم بآرائهم عند البحث في الجولة التالية من الميزات؟ الأشخاص الذين سيحبون علامتك التجارية، وسيزيدون من المبلغ الذي ينفقونه معك بمرور الوقت؟ تجذب الإستراتيجية رقم 1 العملاء الأقل قيمة وتصد أفضل العملاء، مع إنشاء علامة تجارية ضعيفة.
 
-Strategy #2 implies growth. You've planted "higher prices" in my head now. "Supply" in software is unlimited, so that must mean "demand" is increasing. The customer won't go through that calculus, but it certainly feels like the product is becoming more valuable. Discounts feel like unloading unwanted product; price increases feel like success.
+الاستراتيجية رقم 2 تعني النمو. لقد زرعت "أسعار أعلى" في رأسي الآن. "العرض" في البرمجيات غير محدود، لذلك يجب أن يعني ذلك أن "الطلب" يتزايد. لن يمر العميل بهذه الحسابات، لكنه يشعر بالتأكيد أن المنتج أصبح أكثر قيمة. تبدو الخصومات وكأنها تفريغ منتج غير مرغوب فيه؛ الزيادات في الأسعار تبدو وكأنها نجاح.
 
-Strategy #2 implies I'm part of a club. I've gotten in early, on the ground floor, before the product explodes in popularity and prices go up. And I'm rewarded for this support and loyalty with price protection. A "thank-you" from because I was part of it, because I was there before you were big and expensive, because I took that risk with you. That's actually a good reason to give some a discount, and here you are, proactively giving it.
+الإستراتيجية رقم 2 تعني أنني جزء من النادي. لقد وصلت مبكرًا، إلى الطابق الأرضي، قبل أن ينفجر المنتج في شعبيته وترتفع الأسعار. وأنا أكافأ على هذا الدعم والولاء بحماية الأسعار. "شكرًا" لأنني كنت جزءًا منه، لأنني كنت هناك قبل أن تصبح كبيرًا ومكلفًا، لأنني تحملت هذه المخاطرة معك. وهذا في الواقع سبب وجيه لمنح البعض خصمًا، وها أنت ذا تقدمه بشكل استباقي.
 
-So there it is. #1 means less money now, an adversarial relationship, a never-ending struggle over money, and a message that maybe the product *needs* a discount to be desirable. #2 means more money now, a consistent and fair pricing policy, an inclusive, special customer relationship, and a message of market leadership and growth.
+إذن ها هو الأمر. رقم 1 يعني أموالًا أقل الآن، وعلاقة عدائية، وصراعًا لا ينتهي على المال، ورسالة مفادها أن المنتج ربما *يحتاج* إلى خصم ليكون مرغوبًا فيه. رقم 2 يعني المزيد من الأموال الآن، وسياسة تسعير متسقة وعادلة، وعلاقة شاملة وخاصة مع العملاء، ورسالة قيادة السوق والنمو.
 
-So why do 90% of software companies pick #1?
+فلماذا تختار 90% من شركات البرمجيات المركز الأول؟

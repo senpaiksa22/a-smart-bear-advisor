@@ -20,120 +20,107 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** التحديد والدقة الفائقة: سلاحك الفعال للإنجاز والإقناع تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Specificity: A weapon of mass effectiveness
-
-> **Executive Summary:** Want to write better? Swap generic words for specifics to make your text clear, powerful, engaging, and even funny.
-> **Original URL:** [https://longform.asmartbear.com/specificity/](https://longform.asmartbear.com/specificity/)
-
 ![were really more of department](https://public.asmartbear.com/books/anthology/chapters/specificity/d5005print-simple.png)
 
-My single best advice about writing--whether for marketing copy, blogging, a sales pitch, an investor pitch, or even humor, is:
+أفضل نصيحة لي حول الكتابة - سواء للنسخة التسويقية، أو التدوين، أو عرض المبيعات، أو عرض المستثمر، أو حتى الفكاهة، هي:
 
-BE SPECIFIC
+كن محددًا
 
-All done, you can stop reading now. (Because I have the power to decide when you stop reading?)
+انتهيت من كل شيء، يمكنك التوقف عن القراءة الآن. (لأن لدي القدرة على تحديد متى تتوقف عن القراءة؟)
 
-### Writer's Workshop
+### ورشة الكاتب
 
-It's clearer to demonstrate than to preach, so let's take a simple statement and see how being specific makes it more powerful, more interesting, and even more funny.
+إن الإظهار أكثر وضوحًا من الوعظ، لذلك دعونا نأخذ عبارة بسيطة ونرى كيف أن كونك محددًا يجعلها أكثر قوة، وأكثر إثارة للاهتمام، وحتى أكثر مرحًا.
 
-Here's our starting point:
+وهنا نقطة البداية لدينا:
 
-> Experts say Twitter usage is increasing, but in many industries your marketing efforts are better spent in other channels.
+> يقول الخبراء أن استخدام تويتر يتزايد، ولكن في العديد من الصناعات، من الأفضل إنفاق جهودك التسويقية في قنوات أخرى.
 
-### No generic words
+### لا توجد كلمات عامة
 
-The first and easiest step is to swap generic words for specific ones. By "generic" I mean words that span broad concepts instead of conjuring a specific image. In our example, these include:
+الخطوة الأولى والأسهل هي تبديل الكلمات العامة بكلمات محددة. أعني بكلمة "عامة" الكلمات التي تشمل مفاهيم واسعة بدلاً من استحضار صورة معينة. في مثالنا، تشمل هذه ما يلي:
 
-* usage
-* many
-* effort
-* better
+* الاستخدام
+* كثير
+* جهد
+* أحسن
 
-**Generic words are a sure sign of lazy writing.** You can't be bothered to describe *what* people are doing on Twitter so you say "usage."﻿ You can't quantify the number of industries so you say "many."
+**الكلمات العامة هي علامة أكيدة على الكتابة الكسولة.** لا يمكن أن تكلف نفسك عناء وصف *ما* يفعله الأشخاص على تويتر فتقول "الاستخدام". لا يمكنك تحديد عدد الصناعات فتقول "كثير".
 
-Besides being boring and uninspiring, [generic words are interpreted differently](https://longform.asmartbear.com/probability-words/) by different people, so it's not clear what message will be received on the other end of the internet connection.
+إلى جانب كونها مملة وغير ملهمة، يتم تفسير [الكلمات العامة بشكل مختلف](https://longform.asmartbear.com/probability-words/) من قبل أشخاص مختلفين، لذلك ليس من الواضح ما هي الرسالة التي سيتم تلقيها على الطرف الآخر من اتصال الإنترنت.
 
-Here's a stab at converting generics into specifics; see how much clearer the point becomes:
+إليك محاولة لتحويل الأدوية العامة إلى تفاصيل؛ انظر إلى أي مدى تصبح هذه النقطة أكثر وضوحًا:
 
-> Experts say people increasingly make buying decisions based on Twitter conversations, but in non-technical industries Twitter penetration is still low, so other marketing channels have a higher return on your time investment.
+> يقول الخبراء إن الأشخاص يتخذون قرارات الشراء بشكل متزايد بناءً على محادثات تويتر، ولكن في الصناعات غير التقنية، لا يزال انتشار تويتر منخفضًا، لذلك تتمتع قنوات التسويق الأخرى بعائد أعلى على استثمار وقتك.
 
-### From truth to accuracy
+### من الحقيقة إلى الدقة
 
-After disposing with the obviously-useless generic words we're still left with words which, while technically correct, are still not contributing enough to the meaning and persuasiveness of your writing.
+بعد التخلص من الكلمات العامة التي من الواضح أنها عديمة الفائدة، لا يزال أمامنا كلمات، على الرغم من أنها صحيحة من الناحية الفنية، إلا أنها لا تساهم بشكل كافٍ في معنى كتابتك وإقناعها.
 
-Take the word "expert." Yes "experts" talk about Twitter, but [what sort of expert](https://longform.asmartbear.com/expert-harmful/)? When I think of Twitter experts I think of [Chris Brogan](https://guykawasaki.com/ten-questions-w-3/) and [Tony Hsieh](https://twitter.com/ZAPPOS). But they're not merely "experts" in the sense that they have a deep knowledge of Twitter, they also actively promote Twitter and teach others how to become experts themselves.
+خذ كلمة "الخبير". نعم يتحدث "الخبراء" عن تويتر، ولكن [أي نوع من الخبراء](https://longform.asmartbear.com/expert-harmful/)؟ عندما أفكر في خبراء تويتر، أفكر في [كريس بروغان](https://guykawasaki.com/ten-questions-w-3/) و[توني هسيه](https://twitter.com/ZAPPOS). لكنهم ليسوا مجرد "خبراء" بمعنى أن لديهم معرفة عميقة بتويتر، بل إنهم أيضًا يروجون لتويتر ويعلمون الآخرين كيف يصبحون خبراء بأنفسهم.
 
-This is an important distinction, because experts in other fields are often not evangelical; an expert classical guitarist might not, in fact, be a teacher or care about convincing millions of people to pick up a 12-string, and few of the thousands of physicists at CERN have YouTube channels to teach concepts to high-schoolers.
+وهذا تمييز مهم، لأن الخبراء في المجالات الأخرى غالبًا ما ليسوا إنجيليين؛ في الواقع، قد لا يكون عازف الجيتار الكلاسيكي الخبير مدرسًا أو يهتم بإقناع الملايين من الناس بالتقاط 12 وترًا، وقليل من آلاف الفيزيائيين في CERN لديهم قنوات على اليوتيوب لتعليم المفاهيم لطلاب المدارس الثانوية.
 
-In our workshopped example we're making the point that Twitter experts tend to promote Twitter without qualification; using the word "evangelist" instead of "expert" is more specifically what we mean to say.
+في مثال ورشة العمل الخاص بنا، نوضح أن خبراء تويتر يميلون إلى الترويج لتويتر دون مؤهلات؛ إن استخدام كلمة "مبشر" بدلاً من "خبير" هو ما نعني قوله بشكل أكثر تحديدًا.
 
-Replacing "expert" and a few other words (e.g. "higher return" → "profitable" and "people" →﻿ "consumers"), see how much more evocative the statement becomes:
+استبدال كلمة "خبير" وبعض الكلمات الأخرى (على سبيل المثال، "عائد أعلى" ← "مربح" و"أشخاص" ←﻿ "المستهلكون")، انظر إلى أي مدى تصبح العبارة أكثر إثارة للذكريات:
 
-> Twitter evangelists insist that consumers make buying decisions based on Twitter conversations. But Twitter hasn't made inroads in non-technical industries, so traditional marketing channels might be more profitable.
+> يصر المبشرون على تويتر على أن يتخذ المستهلكون قرارات الشراء بناءً على محادثات تويتر. لكن تويتر لم يحقق نجاحات في الصناعات غير التقنية، لذلك قد تكون قنوات التسويق التقليدية أكثر ربحية.
 
-### Concrete examples
+### أمثلة ملموسة
 
-If your primary goal is brevity, examples are bloat. Otherwise, examples improve persuasive writing in several ways:
+إذا كان هدفك الأساسي هو الإيجاز، فإن الأمثلة تكون منتفخة. بخلاف ذلك، تعمل الأمثلة على تحسين الكتابة المقنعة بعدة طرق:
 
-* Examples clarify abstract arguments.
-* Examples make arguments more believable.
-* Examples make arguments more difficult to counter.
-* Examples make it easier for readers to apply your points.
-* Examples make it easier for readers to do their own research.
+* توضح الأمثلة الحجج المجردة.
+* الأمثلة تجعل الحجج أكثر تصديقًا.
+* الأمثلة تجعل الحجج أكثر صعوبة في التصدي لها.
+* تسهل الأمثلة على القراء تطبيق نقاطك.
+* تسهل الأمثلة على القراء إجراء أبحاثهم الخاصة.
 
-Consider how much more abstract this article would be without the workshopped sentence! Speaking of which, let's update our Twitter statement:
+فكر في مدى تجريد هذه المقالة بدون الجملة المتقنة! بالحديث عن ذلك، دعونا نقوم بتحديث بياننا على تويتر:
 
-> Evangelists like Chris Brogan and Mike Volpe insist that consumers make buying decisions based on Twitter conversations. But Twitter hasn't made inroads in non-technical industries like agriculture, construction, and retail, so in those cases it's more profitable to stick with traditional marketing channels like direct mail and resellers.
+> يصر المبشرون مثل كريس بروغان ومايك فولبي على أن المستهلكين يتخذون قرارات الشراء بناءً على محادثات تويتر. لكن تويتر لم يحقق نجاحات في الصناعات غير التقنية مثل الزراعة والبناء وتجارة التجزئة، لذلك في هذه الحالات يكون من المربح أكثر الالتزام بقنوات التسويق التقليدية مثل البريد المباشر والبائعين.
 
-See how much more evocative it is to put a name to the evangelists; even if you've never heard of those guys, knowing their names makes it tangible.
+انظر كم هو أكثر إثارة للذكريات أن نضع اسمًا على الإنجيليين؛ حتى لو لم تسمع عن هؤلاء الأشخاص من قبل، فإن معرفة أسمائهم يجعل الأمر ملموسًا.
 
-### The easiest way to be funny
+### أسهل طريقة لتكون مضحكا
 
-It's odd but true that almost any statement can be made funny merely by being specific, and there are many ways to do it.
+من الغريب ولكنه حقيقي أن أي عبارة تقريبًا يمكن أن تصبح مضحكة بمجرد أن تكون محددة، وهناك طرق عديدة للقيام بذلك.
 
-In the following examples, note how the individual nouns, verbs, and adjectives are specific.
+في الأمثلة التالية، لاحظ كيف أن الأسماء والأفعال والصفات الفردية محددة.
 
-#### Exaggerate to extreme
-*Instead of:* "Evangelists enjoy pointing out how consumers use Twitter."
+#### المبالغة إلى أقصى الحدود
+*بدلاً من:* "يستمتع المبشرون بالإشارة إلى كيفية استخدام المستهلكين لتويتر."
 
-*Write:* ﻿"Evangelists wet their pants every time someone uses Twitter to find a coffee shop."
+*اكتب:* ﻿"يبلّل المبشرون سراويلهم في كل مرة يستخدم فيها شخص ما تويتر للعثور على مقهى."
 
-#### Exaggerate to banality
-*Instead of:* "Evangelists enjoy pointing out how consumers use Twitter."
+#### المبالغة إلى التفاهة
+*بدلاً من:* "يستمتع المبشرون بالإشارة إلى كيفية استخدام المستهلكين لتويتر."
 
-*Write:* ﻿"Evangelists proudly point to Twitter's popularity, enabling people of every creed, color, persuasion and nationality to join the global conversation on what they had for lunch."
+*اكتب:* ﻿"يشير المبشرون بفخر إلى شعبية تويتر، مما يمكّن الأشخاص من كل عقيدة ولون ومعتقد وجنسية من الانضمام إلى المحادثة العالمية حول ما تناولوه على الغداء."
 
-#### Invent an example
-*Instead of:* "... hasn't made inroads in non-technical industries﻿."
+#### اخترع مثالا
+*بدلاً من:* "... لم يحقق تقدمًا في الصناعات غير التقنية﻿."
 
-*Write:* ﻿"Farmers looking for a deal on a new tractor aren't peeling iPhones out of their Wranglers and thumbing out tweets through work gloves﻿."
+*اكتب:* ﻿"المزارعون الذين يبحثون عن صفقة لشراء جرار جديد لا يقومون بإخراج أجهزة iPhone من سياراتهم من طراز Wranglers ويلتقطون التغريدات من خلال قفازات العمل﻿."
 
-#### Highlight the absurd thing
-*Instead of:* "Evangelists enjoy pointing out how consumers use Twitter."
+#### تسليط الضوء على الشيء السخيف
+*بدلاً من:* "يستمتع المبشرون بالإشارة إلى كيفية استخدام المستهلكين لتويتر."
 
-*Write:* ﻿"Evangelists tells us we can use Twitter to gather 'advice' culled from the stray comments of millions of strangers and bots."
+*اكتب:* ﻿"يخبرنا المبشرون أنه يمكننا استخدام تويتر لجمع "النصائح" المستخرجة من التعليقات الضالة لملايين الغرباء والروبوتات."
 
-#### Blow something out of proportion
-*Instead of:* "Evangelists enjoy pointing out how customers use Twitter."
+#### تفجير شيء غير متناسب
+*بدلاً من:* "يستمتع المبشرون بالإشارة إلى كيفية استخدام العملاء لتويتر."
 
-*Write:* ﻿"Evangelists say your customers are on Twitter, but mostly they're twittering about how to twitter, and about how everyone else is twittering, and most of _those_ people are bots, and about how all those human non-twitters are missing out on this incredible exchange of knowledge."
+*اكتب:* ﻿"يقول المبشرون إن عملائك موجودون على تويتر، ولكنهم في الغالب يغردون حول كيفية التغريد، وحول كيفية قيام الآخرين بالتغريد، ومعظم هؤلاء الأشخاص هم روبوتات، وحول كيف أن كل هؤلاء البشر غير المغردين يفتقدون هذا التبادل المذهل للمعرفة."
 
-#### Transfer the concept to another context
-This is the principle behind my satirical post on [the "rules" of social media](https://longform.asmartbear.com/social-media-marketing/). (In fact that post demonstrates all these techniques!)
+#### نقل المفهوم إلى سياق آخر
+هذا هو المبدأ الكامن وراء منشوري الساخر حول ["قواعد" وسائل التواصل الاجتماعي](https://longform.asmartbear.com/social-media-marketing/). (في الحقيقة هذا المنشور يوضح كل هذه التقنيات!)
 
-### Putting it all together
+### وضع كل ذلك معا
 
-Here's some lovely examples of other writers using the above techniques for humor and effectiveness:
+فيما يلي بعض الأمثلة الرائعة لكتاب آخرين يستخدمون التقنيات المذكورة أعلاه من أجل الفكاهة والفعالية:
 
-* [Specificity and the Art of Being Wrong](https://ittybiz.s3.amazonaws.com/freebievault/IttyBiz_Back_In_The_Day.pdf) (Naomi Dunford﻿)
-* [Painless Functional Specs--Part 4](https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/) (Joel Spolsky﻿)
-* [﻿Don't Follow your Passion](https://stackingthebricks.com/dont-follow-your-passion/) (Amy Hoy)
+* [الخصوصية وفن الخطأ](https://ittybiz.s3.amazonaws.com/freebievault/IttyBiz_Back_In_The_Day.pdf) (ناعومي دانفورد﻿)
+* [المواصفات الوظيفية غير المؤلمة--الجزء 4](https://www.joelonsoftware.com/2000/10/15/painless-functional-specations-part-4-tips/) (جويل سبولسكي﻿)
+* [﻿لا تتبع شغفك](https://stackingthebricks.com/dont-follow-your-passion/) (إيمي هوي)

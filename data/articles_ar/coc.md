@@ -20,107 +20,94 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** مقياس COC: معيار مبتكر لقياس إلغاء الاشتراكات في شركات SaaS تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# COC: A new metric for measuring cancellations in SaaS business models
-
-> **Executive Summary:** Introducing COC: The true cost of cancellations in a scaling SaaS business.
-> **Original URL:** [https://longform.asmartbear.com/coc/](https://longform.asmartbear.com/coc/)
-
 ![i used to have lot of issues but then i just canceled my subscription](https://public.asmartbear.com/books/anthology/chapters/coc/d5232print-simple.png)
 
-You probably know that [high cancellations kill growth](https://longform.asmartbear.com/product-market-fit/#cancellation-stops-growth) in scaling SaaS companies. You also probably know why: Acquiring new customers scales with Marketing and Sales, which is linear, whereas cancellation rate scales *exponentially* with your size (hence phrases like "3% per month"). Cancellations win.
+ربما تعلم أن [عمليات الإلغاء العالية تقتل النمو](https://longform.asmartbear.com/product-market-fit/#cancellation-stops-growth) في توسيع نطاق شركات SaaS. ربما تعرف أيضًا السبب: يتم قياس اكتساب عملاء جدد من خلال التسويق والمبيعات، وهو أمر خطي، في حين أن معدل الإلغاء يتدرج *بشكل كبير* مع حجمك (ومن هنا تأتي عبارات مثل "3% شهريًا"). الإلغاءات تفوز.
 
-I have a better, clearer way to both visualize and measure this financial effect, specifically the _cost_ of cancellations in the language of _acquiring new customers_. This puts a tangible dollar figure on cancellation, and allows you to more easily compare it other costs and its impact on profitability.
+لدي طريقة أفضل وأوضح لتصور وقياس هذا التأثير المالي، وتحديدًا _تكلفة_ الإلغاءات بلغة _اكتساب عملاء جدد_. وهذا يضع رقمًا ملموسًا بالدولار على الإلغاء، ويسمح لك بمقارنة التكاليف الأخرى وتأثيرها على الربحية بسهولة أكبر.
 
-## The cost to create a dollar of MRR (p)
+## تكلفة إنشاء دولار من MRR (ع)
 
-What does it cost a SaaS company to add $1 of new monthly recurring revenue? Using the typical acronyms:
+ما هي تكلفة شركة SaaS لإضافة دولار واحد من الإيرادات الشهرية المتكررة الجديدة؟ باستخدام الاختصارات النموذجية:
 
-#### `CAC` (Cost to Acquire a Customer)
-`CAC` is the total, all-in cost to get one full customer in the door--Sales and Marketing costs, including the fully-loaded salaries of the folks in those divisions, including commissions. The simplest way to compute it is "total Sales and Marketing spend in a month" divided by "total new customers added during that month."
+#### `CAC` (تكلفة الحصول على عميل)
+"CAC" هي التكلفة الإجمالية الشاملة للحصول على عميل واحد كامل عند الباب - تكاليف المبيعات والتسويق، بما في ذلك الرواتب المحملة بالكامل للأشخاص في تلك الأقسام، بما في ذلك العمولات. إن أبسط طريقة لحساب ذلك هي "إجمالي الإنفاق على المبيعات والتسويق خلال شهر واحد" مقسومًا على "إجمالي العملاء الجدد الذين تمت إضافتهم خلال ذلك الشهر".
 
-#### `ARPC` (Average Revenue per Customer)
-`ARPC` is the average monthly-recurring revenue you get from a customer. The simplest way to compute it in aggregate is "total recurring-revenue in a month (`MRR`)" divided by "total number of customers during that month (`N`)".
+#### `ARPC` (متوسط ​​الإيرادات لكل عميل)
+`ARPC` هو متوسط ​​الإيرادات الشهرية المتكررة التي تحصل عليها من العميل. إن أبسط طريقة لحسابها بشكل إجمالي هي "إجمالي الإيرادات المتكررة في الشهر ('MRR`)" مقسومًا على "إجمالي عدد العملاء خلال ذلك الشهر ('N`)".
 
-Since it costs `CAC` dollars to get one more customer who delivers `ARPC` dollars per month:
+نظرًا لأن الحصول على عميل آخر يسلم دولارات "ARPC" يكلف دولارًا "CAC":
 
-`p` = "the cost to acquire one more dollar of MRR" = `CAC / ARPC`
+`p` = "تكلفة الحصول على دولار إضافي من MRR" = `CAC / ARPC`
 
-## Payback period (p)
+## فترة الاسترداد (ع)
 
-The weak[^1] definition of "pay-back period" is "the number of months it takes for a customer's revenue to 'pay back' the cost to acquire that customer." So, if it costs $80 to acquire a customer (`CAC`) whose MRR is $10 (`ARPC`), then it takes 8 months (`CAC / ARPC`) before the customer turns profitable.
+التعريف الضعيف[^1] لـ "فترة الاسترداد" هو "عدد الأشهر التي تستغرقها إيرادات العميل "لسداد" تكلفة اكتساب هذا العميل." لذلك، إذا كانت تكلفة الحصول على عميل (`CAC`) تبلغ 80 دولارًا أمريكيًا (`CAC`) تبلغ نسبة معدل العائد عليه (MRR) 10 دولارات (`ARPC`)، فسيستغرق الأمر 8 أشهر (`CAC / ARPC`) قبل أن يصبح العميل مربحًا.
 
-[^1]: The complete definition of "pay-back period" should also include gross profit margin; if you're curious, see [this section of this article about how annual plans can transform your cash-flow](https://longform.asmartbear.com/annual-prepay/#payback-period)
+[^1]: يجب أن يتضمن التعريف الكامل "لفترة الاسترداد" أيضًا هامش الربح الإجمالي؛ إذا كنت مهتمًا بالفضول، فاطلع على [هذا القسم من هذه المقالة حول كيف يمكن للخطط السنوية أن تغير تدفقك النقدي](https://longform.asmartbear.com/annual-prepay/#payback-period)
 
-You'll notice this is the same formula that we just gave for "the cost to acquire one more dollar of MRR." This is why we named the variable `p`. Often it's easier to think in terms of "pay-back period," and also easier to find benchmark data for other companies in your industry, size, and age.
+ستلاحظ أن هذه هي نفس الصيغة التي قدمناها للتو لـ "تكلفة الحصول على دولار إضافي من MRR." ولهذا السبب قمنا بتسمية المتغير "p". غالبًا ما يكون من الأسهل التفكير في "فترة الاسترداد"، ومن الأسهل أيضًا العثور على بيانات مرجعية لشركات أخرى في مجال عملك وحجمك وعمرك.
 
-## COC--the Cost of Cancellations
+## COC - تكلفة الإلغاءات
 
-Let's call `c` your **monthly cancellation rate**, in terms of `MRR`. So if 4% of your revenue cancels each month, `c = 0.04`.
+دعنا نطلق على "c" **معدل الإلغاء الشهري** الخاص بك، من حيث "MRR". وبالتالي، إذا تم إلغاء 4% من إيراداتك كل شهر، `c = 0.04`.
 
-Each month, `MRR ✕ c` dollars will never recur again. You have to replace those dollars for revenue _just to stay level_ (forget about growing!). And it costs `p` to replace each one of those dollars.
+في كل شهر، لن يتكرر `MRR ✕ c' دولار مرة أخرى أبدًا. يجب عليك استبدال هذه الدولارات بالإيرادات _فقط لتظل في المستوى_ (انسى النمو!). ويكلف استبدال كل دولار من تلك الدولارات.
 
-So, the cost, in dollars, cost to replace those cancelled dollars is:
+لذا، فإن التكلفة بالدولار، تكلفة استبدال تلك الدولارات الملغاة هي:
 
-"cancellation replacement cost" = `p ✕ MRR ✕ c`
+"تكلفة استبدال الإلغاء" = `p ✕ MRR ✕ c`
 
-We could compute the same thing as a percentage of MRR, rather than as a number of dollars. This simply means dividing by `MRR`. This yields the metric that is the subject of this article: `COC` (the Cost Of Cancellations, pronounced _see-oh-see_)--**The *percentage* of our revenue we'll have to spend this month, just to keep from shrinking**:
+يمكننا حساب نفس الشيء كنسبة مئوية من MRR، وليس كعدد من الدولارات. وهذا يعني ببساطة القسمة على "MRR". يؤدي هذا إلى الحصول على المقياس الذي هو موضوع هذه المقالة: `COC` (تكلفة الإلغاءات، تُلفظ _see-oh-see_)--** *النسبة المئوية* من إيراداتنا التي سنضطر إلى إنفاقها هذا الشهر، فقط لتجنب الانكماش**:
 
-`COC = p ✕ c`
+`COC = ع ✕ ج`
 
-## The surprisingly high cost of cancellation
+## تكلفة الإلغاء مرتفعة بشكل مدهش
 
-Some examples make the utility of this metric clear:
+توضح بعض الأمثلة فائدة هذا المقياس:
 
-A healthy SaaS business serving SMBs might have a cancellation rate of 3%/mo (`c = 0.03`), and a marketing pay-back period of 7 months[^2] (`p = 7`). In this case, `COC = 0.21`, which means a whopping 21% of its revenue *every month* will be spent *just keeping revenues level.*
+قد يكون لدى شركة SaaS السليمة التي تخدم الشركات الصغيرة والمتوسطة معدل إلغاء يبلغ 3% شهريًا (`c = 0.03`)، وفترة سداد تسويقية مدتها 7 أشهر[^2] (`p = 7`). في هذه الحالة، `COC = 0.21`، مما يعني أنه سيتم إنفاق 21% من إيراداتها *كل شهر* *فقط للحفاظ على مستوى الإيرادات.*
 
-[^2]: For example, suppose the cost-per-click on their Google Ads is $2, with a 1% conversion to sale, on an average sale price of $30/mo.
+[^2]: على سبيل المثال، لنفترض أن تكلفة النقرة على إعلانات Google هي 2 دولار أمريكي (أو ما يعادله بالعملة المحلية)، مع تحويل إلى بيع بنسبة 1%، بمتوسط ​​سعر بيع قدره 30 دولارًا أمريكيًا/الشهر.
 
-**That's a tremendous percentage of revenue just to keep from shrinking!** That doesn't include the costs of serving those customers (Customer support, SaaS infrastructure, 3% in credit card fees), that doesn't include engineering costs, that doesn't include Sales and Marketing costs to actually *grow* revenues... that's merely to stop shrinkage.
+**هذه نسبة هائلة من الإيرادات فقط لتجنب الانكماش!** هذا لا يشمل تكاليف خدمة هؤلاء العملاء (دعم العملاء، والبنية التحتية SaaS، و3% في رسوم بطاقات الائتمان)، ولا يشمل ذلك التكاليف الهندسية، ولا يشمل تكاليف المبيعات والتسويق من أجل *زيادة* الإيرادات فعليًا... وهذا فقط لوقف الانكماش.
 
-Enterprise SaaS businesses often have a lower monthly cancellation rate but much longer pay-back periods. 1.5% monthly cancellation and 18 month pay-back period means a whopping 27% of revenue is spent replacing cancellations. Are these numbers true in the real world? Yes: Many public SaaS companies have stopped net-growth in terms of absolute number of customers, growing mostly from upgrades by existing customers, because it costs so much to replace the cancellations. ([Example: Fastly](https://www.saastr.com/5-interesting-learnings-from-fastly-at-50000000-in-arr/))
+غالبًا ما تتمتع شركات Enterprise SaaS بمعدل إلغاء شهري أقل ولكن فترات سداد أطول بكثير. الإلغاء الشهري بنسبة 1.5% وفترة استرداد مدتها 18 شهرًا يعني إنفاق 27% من الإيرادات على استبدال عمليات الإلغاء. هل هذه الأرقام صحيحة في العالم الحقيقي؟ نعم: أوقفت العديد من شركات SaaS العامة النمو الصافي من حيث العدد المطلق للعملاء، وينمو معظمهم من الترقيات التي أجراها العملاء الحاليون، لأن استبدال عمليات الإلغاء يكلف الكثير. ([مثال: بسرعة](https://www.saastr.com/5-interesting-learnings-from-fastly-at-50000000-in-arr/))
 
-A no-touch SaaS business driven by word-of-mouth marketing might have lower pay-back periods due to efficient acquisition costs, but have higher cancellation rates due to the lack of human touch and poor quality "self-service" marketing channels. I know a prominent SaaS business with a pay-back period of 2 months but a cancellation rate of 5%--that's 10% of revenue to stay even.
+قد يكون لأعمال SaaS التي لا تتطلب اللمس والتي تعتمد على التسويق الشفهي فترات سداد أقل بسبب تكاليف الاستحواذ الفعالة، ولكن لديها معدلات إلغاء أعلى بسبب الافتقار إلى اللمسة البشرية وقنوات تسويق "الخدمة الذاتية" ذات الجودة الرديئة. أعرف شركة SaaS بارزة تتمتع بفترة سداد مدتها شهرين ولكن معدل الإلغاء يبلغ 5% - أي 10% من الإيرادات للبقاء حتى.
 
-That's actually pretty good, compared to the other examples! 5%/mo cancellation means half of their revenue cancels within a year--crazy high!--but the cost of acquisition is so incredibly low that the company is still spending only 10% of revenue to stay even, and of course an additional 10% of revenue spent on marketing allows them to grow at a reasonable clip.
+وهذا في الواقع جيد جدًا، مقارنة بالأمثلة الأخرى! الإلغاء بنسبة 5% شهريًا يعني إلغاء نصف إيراداتها خلال عام واحد - وهو ارتفاع جنوني! - لكن تكلفة الاستحواذ منخفضة للغاية لدرجة أن الشركة لا تزال تنفق 10% فقط من الإيرادات للبقاء على حالها، وبالطبع فإن 10% إضافية من الإيرادات التي يتم إنفاقها على التسويق تسمح لها بالنمو بمعدل معقول.
 
-What definitely doesn't work is, for example, a 5% cancellation rate with a 12-month payback period: You burn 60% of revenue to stay even, which means it's almost impossible to grow profitably; in fact you might be shrinking.
+ما لا ينجح بالتأكيد هو، على سبيل المثال، معدل إلغاء بنسبة 5% مع فترة استرداد مدتها 12 شهرًا: أنت تحرق 60% من الإيرادات لتبقى متعادلًا، مما يعني أنه يكاد يكون من المستحيل تحقيق النمو بشكل مربح؛ في الواقع قد تتقلص.
 
-## Lesson #1: COC can be as big as other major expenses
+## الدرس رقم 1: يمكن أن تكون تكلفة COC كبيرة مثل النفقات الرئيسية الأخرى
 
-The massive size of COC for most SaaS businesses should be a wake-up call. COC expense can often be as high as R&D or G&A, which means the business has an [unprofitable business model](https://longform.asmartbear.com/ssebitda/), even once it achieves scale.
+يجب أن يكون الحجم الهائل لـ COC لمعظم شركات SaaS بمثابة دعوة للاستيقاظ. غالبًا ما تكون نفقات COC مرتفعة مثل تكاليف البحث والتطوير أو G&A، مما يعني أن النشاط التجاري لديه [نموذج أعمال غير مربح](https://longform.asmartbear.com/ssebitda/)، حتى بعد أن يحقق نطاقًا واسعًا.
 
-A SaaS business must work constantly to reduce COC. Because the definition is so simple, it's obvious that reducing COC means decreasing cancellations and decreasing `p`, and decreasing `p` in turn means decreasing `CAC` and increasing `ARPC`.
+يجب أن تعمل أعمال SaaS باستمرار لتقليل COC. نظرًا لأن التعريف بسيط للغاية، فمن الواضح أن تقليل COC يعني تقليل عمليات الإلغاء وتقليل `p`، كما أن تقليل `p` يعني بدوره تقليل `CAC` وزيادة `ARPC`.
 
-This is a key insight to many SaaS operators, because **typical metrics literature focuses only on reducing cancellation rate, which is only a third of the story.** Furthermore, unless you haven't yet [reached product/market fit](https://longform.asmartbear.com/product-market-fit/), cancellation rate is often hard to shift compared to reducing `CAC` (smarter campaigns, optimized landing pages, self-serve sales/on-boarding) or increasing `ARPC` (using tiered features to segment customers with different budgets and requirements, *a la carte* add-ons for new products or services, price scaling with usage).
+تعد هذه فكرة أساسية للعديد من مشغلي SaaS، لأن **المقاييس النموذجية تركز فقط على تقليل معدل الإلغاء، وهو ما يمثل ثلث القصة فقط.** علاوة على ذلك، ما لم تكن قد [تصل إلى المنتج/السوق المناسب](https://longform.asmartbear.com/product-market-fit/)، فغالبًا ما يكون من الصعب تغيير معدل الإلغاء مقارنةً بتقليل "CAC" (الحملات الأكثر ذكاءً، والصفحات المقصودة المحسنة، ومبيعات الخدمة الذاتية/التشغيل) أو زيادة `ARPC` (استخدام ميزات متدرجة لتقسيم العملاء بميزانيات ومتطلبات مختلفة، وإضافات *انتقائية* للمنتجات أو الخدمات الجديدة، وتوسيع نطاق الأسعار مع الاستخدام).
 
-For example, my company WP Engine's cancellation rate is under 2% per month. That's low for the hosting sector. Furthermore, when we poll customers who cancel after the first 90 days, the most common reason for cancellation is "project ended." Meaning, it's not something we can affect by changing the product.
+على سبيل المثال، معدل إلغاء شركتي WP Engine أقل من 2% شهريًا. هذا منخفض بالنسبة لقطاع الاستضافة. علاوة على ذلك، عندما نقوم باستطلاع رأي العملاء الذين قاموا بالإلغاء بعد أول 90 يومًا، فإن السبب الأكثر شيوعًا للإلغاء هو "انتهاء المشروع". بمعنى أنه ليس شيئًا يمكننا التأثير عليه بتغيير المنتج.
 
-Therefore, pay-back period is a smarter place for us to focus in terms of reducing COC. In fact our CAC is also already very low, due to tremendous word-of-mouth that our lovely customers bestow upon us. (And now you see how much we appreciate that!) But maybe we should do more to increase word-of-mouth activity while we continue to optimize our paid advertising campaigns. And what about MRR? We've started selling SSL certificates to customers who want secured sites, which results in incremental revenue (and a better customer experience, because we handle that mess for the customer, including renewing and re-installing the certificates each year).
+لذلك، تعد فترة الاسترداد مكانًا أكثر ذكاءً بالنسبة لنا للتركيز من حيث تقليل COC. في الواقع، تكلفة تكلفة العمل (CAC) لدينا أيضًا منخفضة جدًا بالفعل، وذلك بسبب الكلام الشفهي الهائل الذي يمنحه لنا عملاؤنا الرائعون. (والآن ترى مدى تقديرنا لذلك!) ولكن ربما يتعين علينا بذل المزيد من الجهد لزيادة نشاط الكلام الشفهي بينما نواصل تحسين حملاتنا الإعلانية المدفوعة. وماذا عن MRR؟ لقد بدأنا في بيع شهادات SSL للعملاء الذين يريدون مواقع آمنة، مما يؤدي إلى زيادة الإيرادات (وتجربة أفضل للعملاء، لأننا نتعامل مع هذه الفوضى للعميل، بما في ذلك تجديد الشهادات وإعادة تثبيتها كل عام).
 
-As another example, take the company above with the 5% cancellation rate that traditional metrics literature would say creates "impossible headwinds for growth," and yet they have a better COC than a typical enterprise SaaS business, demonstrating that a very good pay-back period can overwhelm a crappy cancellation rate.
+كمثال آخر، لنأخذ الشركة المذكورة أعلاه بمعدل إلغاء قدره 5%، والذي قد تقول أدبيات المقاييس التقليدية أنه يخلق "رياحًا معاكسة مستحيلة للنمو"، ومع ذلك فإن لديهم COC أفضل من أعمال SaaS التجارية النموذجية، مما يدل على أن فترة الاسترداد الجيدة جدًا يمكن أن تطغى على معدل الإلغاء السيئ.
 
-## Lesson #2: Zero net churn trumps both CAC and MRR
+## الدرس رقم 2: صافي الفائض الصفري يتفوق على كل من CAC وMRR
 
-The standard SaaS metrics literature does provide a way to combat cancellations: Up-selling existing customers. If you have 2%/mo cancellations, but if on average you *increase* MRR by 1%/mo with things like customers graduating to larger tiers, adding more "seats," buying add-ons, buying premium support, etc., then *effectively* you're only losing 1% of your MRR per month, not 2%.
+توفر أدبيات مقاييس SaaS القياسية طريقة لمكافحة عمليات الإلغاء: بيع العملاء الحاليين. إذا كانت لديك عمليات إلغاء بنسبة 2% شهريًا، ولكن إذا قمت في المتوسط ​​*بزيادة* معدل معدل العائد بنسبة 1% شهريًا مع أشياء مثل ترقية العملاء إلى مستويات أكبر، وإضافة المزيد من "المقاعد"، وشراء الوظائف الإضافية، وشراء الدعم المتميز، وما إلى ذلك، فإنك *بشكل فعال* تخسر 1% فقط من معدل معدل الإلغاء شهريًا، وليس 2%.
 
-Thus, `c` above is not really cancellation rate, but rather "net churn," meaning cancellation rate, plus downgrades, but minus upgrades. The strongest SaaS companies have negative net churn!
+وبالتالي، فإن `c` أعلاه لا يمثل معدل إلغاء فعليًا، ولكنه بالأحرى "صافي التغيير"، مما يعني معدل الإلغاء، بالإضافة إلى التخفيضات، ولكن ناقص الترقيات. أقوى شركات SaaS لديها صافي صافي سلبي!
 
-You can see the effect of approaching zero net-churn in COC: If `c` is 0, then COC is 0, which means "getting back to even" costs nothing at all. Phew!
+يمكنك رؤية تأثير الاقتراب من الصفر الصافي في COC: إذا كانت `c` تساوي 0، فإن COC تساوي 0، مما يعني أن "العودة إلى التعادل" لا تكلف شيئًا على الإطلاق. أوف!
 
-Another fact pops out: In terms of "not shrinking," suddenly `p`--and therefore CAC and MRR--doesn't matter at all! Of course they *do* matter for cash flow and efficient growth, but at least in the "revenue headwind" sense they fall away.
+هناك حقيقة أخرى تنبثق: فيما يتعلق بـ "عدم الانكماش"، فجأة لا يهم "p" - وبالتالي CAC وMRR - على الإطلاق! وبطبيعة الحال، فهي مهمة بالنسبة للتدفق النقدي والنمو الفعال، ولكن على الأقل من حيث "الرياح المعاكسة للإيرادات" فإنها تتلاشى.
 
-This highlights the fact that **getting to zero net churn is the strongest thing you can do** in terms of COC. And since we just talked about "cancellation rate" having a floor, that means you *must* develop paths for up-sells.
+وهذا يسلط الضوء على حقيقة أن **الوصول إلى الصفر من صافي الزبد هو أقوى شيء يمكنك القيام به** فيما يتعلق بـ COC. وبما أننا تحدثنا للتو عن وجود حد أدنى لـ "معدل الإلغاء"، فهذا يعني أنه *يجب* عليك تطوير مسارات لعمليات البيع الإضافية.
 
-## COC: A new standard SaaS metric?
+## COC: مقياس SaaS قياسي جديد؟
 
-Typical SaaS metrics literature characterizes it this way: "As a SaaS company scales, growth rate diminishes, but cancellation rate doesn't. That means it gets harder stay ahead of the headwinds created by cancellation. So you need to work on getting to zero net-churn and, if you don't, you cannot build a large SaaS company, and certainly not a profitable one."
+تصف أدبيات مقاييس SaaS النموذجية الأمر بهذه الطريقة: "مع توسع شركة SaaS، يتضاءل معدل النمو، لكن معدل الإلغاء لا يتضاءل. وهذا يعني أنه يصبح من الصعب البقاء متقدمًا على الرياح المعاكسة الناتجة عن الإلغاء. لذلك تحتاج إلى العمل على الوصول إلى الصفر من صافي الاضطراب، وإذا لم تفعل ذلك، فلن تتمكن من بناء شركة SaaS كبيرة، وبالتأكيد ليست شركة مربحة."
 
-That's true. Casting those words terms of COC is an easier way to measure exactly how big the "headwinds" are, and what it's directly costing you, every month. It allows you to directly measure that phenomenon, which means you can set goals and track progress. It also correctly balances the headwind of cancellation with the tailwind of low CAC, allowing you to make better decisions about where to spend your time to improve the business.
+هذا صحيح. يعد استخدام مصطلحات COC هذه طريقة أسهل لقياس مدى حجم "الرياح المعاكسة" بالضبط، وما تكلفك بشكل مباشر، كل شهر. فهو يسمح لك بقياس هذه الظاهرة بشكل مباشر، مما يعني أنه يمكنك تحديد الأهداف وتتبع التقدم. كما أنه يوازن بشكل صحيح بين الرياح المعاكسة للإلغاء والرياح الخلفية لـ CAC المنخفضة، مما يسمح لك باتخاذ قرارات أفضل حول المكان الذي تقضي فيه وقتك لتحسين الأعمال.

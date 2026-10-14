@@ -20,117 +20,104 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** مدير المنتج 'العظيم': أو المستحيل الذي تبحث عنه الشركات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The "Great" Product Manager, a.k.a. the Impossible Product Manager
-
-> **Executive Summary:** According to the internet, being a Product Manager is impossible. Can you ever measure up?  No. But don't worry, there's a better answer.
-> **Original URL:** [https://longform.asmartbear.com/great-product-manager/](https://longform.asmartbear.com/great-product-manager/)
-
 ![culmination suggestions employees focus consultants its terrible](https://public.asmartbear.com/books/anthology/chapters/great-product-manager/d6637print-simple.png)
 
-What makes a Product Manager *great*? The prolific Shreyas Doshi[^1] gives us the list of requirements [in a tweet-storm](https://twitter.com/shreyas/status/1249039638829793280):
+ما الذي يجعل مدير المنتج *رائعًا*؟ يقدم لنا Shreyas Doshi[^1] الغزير الإنتاج قائمة المتطلبات [في عاصفة من التغريدات](https://twitter.com/shreyas/status/1249039638829793280):
 
-[^1]: I highly recommend following [@Shreyas](https://twitter.com/shreyas), despite the following critique; he is a font of wisdom I have bookmarked and swiped many times.
+[^1]: أوصي بشدة بمتابعة [@Shreyas](https://twitter.com/shreyas)، على الرغم من الانتقادات التالية؛ إنه خط الحكمة الذي قمت بوضع إشارة مرجعية عليه وتمريره عدة مرات.
 
-* Great PMs consistently and singularly improve the company's trajectory.
-* Great PMs are masters of the art of blending quantitative and qualitative inputs, as warranted by each individual situation.
-* Great PMs become the worldwide experts in their domain. When new to a domain, great PMs bootstrap this process by seeking the counsel of existing worldwide experts.
-* Great PMs are diligent about using a variety of user research methods to inform what product to build in the first place.
-* Great PMs also listen to what isn't said [by customers] and anticipate where the industry overall is headed when developing their product hypothesis.
-* Great PMs know that buy-in isn't enough; you need passion & ownership to build great products. Great PMs facilitate discussions that get the entire team to come up with creative product ideas.
-* Great PMs understand task leverage and spend the majority of their time on the highest-leverage tasks for the company.
-* Great PMs, in the rare instances of product failure, improve not just their own approach but they also share the lessons learned with the broader company.
-* Great PMs are adaptive--they have a wide repertoire [of tools and processes and workflows] that they expertly tweak for each specific team's needs.
-* Great PMs are outstanding problem preventers. Great PMs are discerning about which problems to prevent, which problems to solve, and which problems not to solve.
-* Great PMs edit the company's product ethos--they identify the unintended flaws in the principles, fix the flawed parts--and only then follow & espouse it.
-* Great PMs know that career ladders are imperfect proxies: they're more fixated on tangible competence & impact than on checking off boxes on the ladder.
-* Great PMs also learn through work projects, but they learn a lot more about their craft in their personal time because of their curiosity & passion for self-improvement.
-* Great PMs ultimately decide what's best for users & the business.
-* Great PMs ensure the product strategy is optimal.
-* Great PMs work hard but are rarely overwhelmed.
+* يعمل مديرو المشروعات العظماء باستمرار وبشكل فردي على تحسين مسار الشركة.
+* إن مدراء المشاريع العظماء هم أساتذة في فن مزج المدخلات الكمية والنوعية، حسب ما تقتضيه كل حالة على حدة.
+* يصبح مدراء المشاريع العظماء الخبراء العالميين في مجالهم. عندما يكون مدراء المشاريع العظماء جددًا في أحد المجالات، فإنهم يقومون بتمهيد هذه العملية من خلال طلب مشورة الخبراء الحاليين في جميع أنحاء العالم.
+* يحرص مدراء المشاريع العظماء على استخدام مجموعة متنوعة من أساليب بحث المستخدم لتحديد المنتج الذي سيتم إنشاؤه في المقام الأول.
+* يستمع مدراء المشاريع العظماء أيضًا إلى ما لا يقال [من قبل العملاء] ويتوقعون الاتجاه الذي تتجه إليه الصناعة بشكل عام عند تطوير فرضيات منتجاتهم.
+* يعرف رؤساء المشاريع العظماء أن التأييد ليس كافيًا؛ أنت بحاجة إلى الشغف والملكية لبناء منتجات رائعة. يقوم مدراء المشاريع العظماء بتسهيل المناقشات التي تجعل الفريق بأكمله يتوصل إلى أفكار منتجات إبداعية.
+* يفهم مدراء المشاريع العظماء تأثير المهام ويقضون معظم وقتهم في المهام ذات التأثير الأعلى للشركة.
+* لا يقوم مدراء المشاريع العظماء، في الحالات النادرة لفشل المنتج، بتحسين نهجهم الخاص فحسب، بل يشاركون أيضًا الدروس المستفادة مع الشركة على نطاق أوسع.
+* إن مدراء المشاريع العظماء يتسمون بالتكيف - فلديهم ذخيرة واسعة [من الأدوات والعمليات وسير العمل] يقومون بتعديلها بخبرة لتناسب احتياجات كل فريق محدد.
+* إن مديري المشاريع العظماء هم من يمنعون المشاكل بشكل رائع. إن رؤساء المشاريع العظماء يدركون أي المشكلات يجب منعها، وأي المشكلات يجب حلها، وأي المشكلات لا يجب حلها.
+* يقوم مدراء المشاريع العظماء بتحرير روح منتج الشركة - فهم يحددون العيوب غير المقصودة في المبادئ، ويصلحون الأجزاء المعيبة - وبعد ذلك فقط يتبعونها ويتبنونها.
+* يعرف مديرو المشاريع العظماء أن السلالم المهنية ليست وكلاء مثاليين: فهم يركزون أكثر على الكفاءة والتأثير الملموسين أكثر من التركيز على تحديد المربعات الموجودة على السلم.
+* يتعلم مدراء المشاريع العظماء أيضًا من خلال مشاريع العمل، لكنهم يتعلمون الكثير عن حرفتهم في وقتهم الشخصي بسبب فضولهم وشغفهم لتحسين الذات.
+* يقرر مديرو المشروعات العظماء في نهاية المطاف ما هو الأفضل للمستخدمين والشركات.
+* يضمن مدراء المشاريع العظماء أن تكون استراتيجية المنتج مثالية.
+* يعمل مديرو المشاريع العظماء بجد ولكن نادرًا ما يكونون مرهقين.
 
-Haha, that last one is funny. Don't be overwhelmed, but also "learn a lot more about your craft in your personal time."
+ههههه هذا الاخير مضحك لا تشعر بالإرهاق، ولكن أيضًا "تعلم الكثير عن مهنتك في وقتك الشخصي".
 
-These recitals always include a little "out," an opportunity for the writer to wriggle out of responsibility for commanding the impossible. Something like, "The final rule is: You can break any rule, if you know what you're doing." In this case, the 31st tweet:
+تتضمن هذه الحفلات دائمًا القليل من "الخروج"، وهي فرصة للكاتب للتملص من مسؤولية الأمر بالمستحيل. شيء من هذا القبيل، "القاعدة النهائية هي: يمكنك كسر أي قاعدة، إذا كنت تعرف ما تفعله." وفي هذه الحالة التغريدة الحادية والثلاثون:
 
-> Naturally, very few PMs are Great.  
->   
-> And I don't know any Great PM who does all of the above, all of the time.  
->   
-> That's because Great PMs know that these ideas should be viewed as signposts, not as commandments.
+> بطبيعة الحال، عدد قليل جدًا من مدراء المشروعات هم العظماء.
+> 
+> ولا أعرف أي رئيس وزراء عظيم يفعل كل ما سبق، طوال الوقت.
+> 
+> وذلك لأن رؤساء الوزراء العظماء يعرفون أن هذه الأفكار يجب أن يُنظر إليها على أنها معالم، وليس كوصايا.
 
-So you *could* be super-human at two dozen different things. Now what?
+لذا، *يمكنك* أن تكون إنسانًا خارقًا في أكثر من عشرين شيئًا مختلفًا. الآن ماذا؟
 
-I've used the following framework for Product Management at WP Engine to answer this question, so that *as a whole team* we in fact constitute the mythical omnibus "Great PM," but we achieve it with a set of great--but plausible--real human beings.
+لقد استخدمت إطار العمل التالي لإدارة المنتجات في WP Engine للإجابة على هذا السؤال، بحيث *كفريق كامل* نحن في الواقع نشكل الجامع الأسطوري "رئيس الوزراء العظيم"، ولكننا نحقق ذلك مع مجموعة من البشر الحقيقيين العظماء - ولكن المعقولين -.
 
-## The PM decides what to build
+## رئيس الوزراء يقرر ما يجب بناءه
 
-The role and scope of "Product Manager" varies between companies, but the role centers on **deciding what to build**:
+يختلف دور ونطاق "مدير المنتج" بين الشركات، ولكن الدور يركز على **تحديد ما سيتم إنشاؤه**:
 
 ![Diagram of "Strategy" and "Customer Research" as the two inputs to Product Management, and "Scrum Product Owner" and "Coordination & Communication" as the two execution activities, with the central purpose being to decide what to build](https://public.asmartbear.com/books/anthology/chapters/great-product-manager/image-simple.png)
 
-Looking backward, there are inputs to the decision--the long-term vision and strategy, and an intimate and evolving understanding of the customer; these are part of Product Management, because without them we cannot make good decisions.
+إذا نظرنا إلى الوراء، هناك مدخلات للقرار - الرؤية والاستراتيجية طويلة المدى، والفهم الحميم والمتطور للعميل؛ هذه جزء من إدارة المنتج، لأنه بدونها لا يمكننا اتخاذ قرارات جيدة.
 
-Looking forward there's the execution of building and delivering to customers, the complexity of engineering execution together with coordinated efforts by marketing, sales, customer service, and external partners to deliver the entire experience to customers; these consequences of the decision are also part of Product Management.
+وبالنظر إلى المستقبل، هناك تنفيذ البناء والتسليم للعملاء، وتعقيد التنفيذ الهندسي جنبًا إلى جنب مع الجهود المنسقة من قبل التسويق والمبيعات وخدمة العملاء والشركاء الخارجيين لتقديم التجربة بأكملها للعملاء؛ تعتبر عواقب القرار هذه أيضًا جزءًا من إدارة المنتج.
 
-You could argue that this particular break-down is arbitrary, however in my experience this categorization is especially actionable for hiring, careers, and designing the PM organization, and is compatible with other ways[^2] of decomposing the role.
+يمكنك القول بأن هذا التقسيم على وجه التحديد هو أمر تعسفي، ولكن من خلال تجربتي، يعد هذا التصنيف قابلاً للتنفيذ بشكل خاص للتوظيف والمهن وتصميم مؤسسة إدارة المشاريع، وهو متوافق مع طرق أخرى[^2] لتحليل الدور.
 
-[^2]: Product thinkers categorize PM roles in myriad combinations. [Lenny Rachistky](https://www.lennyrachitsky.com/) in a [podcast](https://castro.fm/episode/UzVQdL) says it's three things: (a) Shape the Product, (b) Ship the Product, (c) Synchronize the people. Later in the same podcast he says it's five skill areas: (1) Execution, (2) Collaboration, (3) Leadership, (4) Vision + Strategy, (5) User Research. In another blog post he lists the [ten jobs of Product Management](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72e7fff6-10dc-429e-bd57-2a2a9d8d9711_2048x1654.png). You'll find the four areas below align with any of these break-downs; while all paths arrive at the same destination, I find this one particularly useful in working with real-world people.
+[^2]: يصنف مفكرو المنتجات أدوار إدارة المشاريع في مجموعات لا تعد ولا تحصى. يقول [Lenny Rachistky](https://www.lennyrachitsky.com/) في [بودكاست](https://castro.fm/episode/UzVQdL) أن هناك ثلاثة أشياء: (أ) تشكيل المنتج، (ب) شحن المنتج، (ج) مزامنة الأشخاص. لاحقًا في نفس البودكاست، قال إن هناك خمسة مجالات للمهارات: (1) التنفيذ، (2) التعاون، (3) القيادة، (4) الرؤية + الإستراتيجية، (5) بحث المستخدم. وفي منشور مدونة آخر، قام بإدراج [الوظائف العشر للمنتج الإدارة](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc 84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72e7fff6-10dc-429e-bd57-2a2a9d8d9711_2048x1654.png). ستجد المناطق الأربعة أدناه تتماشى مع أي من هذه الأعطال؛ بينما تصل جميع المسارات إلى نفس الوجهة، أجد هذا المسار مفيدًا بشكل خاص في العمل مع الأشخاص في العالم الحقيقي.
 
-## The four roles of Product Management
+## الأدوار الأربعة لإدارة المنتج
 
-#### Strategist
-Analyzing, crafting, communicating, and updating the answer to the question: How do we apply our durable advantages to the opportunities in the market, to win? What do we look like in the success-case, years from now? What are the most important challenges to achieving that? Specifically what must we do in the coming years to overcome those challenges? Competitive analysis, market analysis, customer analysis. Determining the few, key personas to focus on. Distilling noisy data into clear identifications of internal strengths, external challenges, and [market opportunities](https://longform.asmartbear.com/problem/). Positioning the product to maximize value and perceived value, and thus [price](https://longform.asmartbear.com/more-value-not-save-money/) and [willingness-to-pay](https://longform.asmartbear.com/willingness-to-pay/). [Selecting the right high-level metrics](https://longform.asmartbear.com/product-metrics/) to drive the right long-term results, while also acknowledging that not all important things are numbers, and that revenue and retention are outputs of great strategy plus great execution, not themselves a strategy or even an operational goal. Having the fortitude to make decisions that will affect us for years, and cause us to say "no" to 90% of our ideas, so we say "yes" to exactly the right ideas.
+#### استراتيجي
+تحليل وصياغة وتوصيل وتحديث الإجابة على السؤال: كيف نطبق مزايانا الدائمة على الفرص المتاحة في السوق لتحقيق الفوز؟ كيف سنبدو في حالة النجاح بعد سنوات من الآن؟ وما هي أهم التحديات لتحقيق ذلك؟ وعلى وجه التحديد، ما الذي يجب علينا فعله في السنوات القادمة للتغلب على تلك التحديات؟ التحليل التنافسي، تحليل السوق، تحليل العملاء. تحديد عدد قليل من الشخصيات الرئيسية التي يجب التركيز عليها. استخلاص البيانات المزعجة وتحويلها إلى تعريفات واضحة لنقاط القوة الداخلية والتحديات الخارجية و[فرص السوق](https://longform.asmartbear.com/problem/). وضع المنتج لتحقيق أقصى قدر من القيمة والقيمة المتصورة، وبالتالي [السعر](https://longform.asmartbear.com/more-value-not-save-money/) و[الاستعداد للدفع](https://longform.asmartbear.com/willingness-to-pay/). [اختيار المقاييس المناسبة عالية المستوى](https://longform.asmartbear.com/product-metrics/) لتحقيق النتائج الصحيحة على المدى الطويل، مع الاعتراف أيضًا بأن الأشياء المهمة ليست كلها أرقامًا، وأن الإيرادات والاحتفاظ بها هما مخرجات استراتيجية رائعة بالإضافة إلى تنفيذ رائع، وليست في حد ذاتها استراتيجية أو حتى هدفًا تشغيليًا. إن امتلاك الشجاعة لاتخاذ قرارات ستؤثر علينا لسنوات، وتجعلنا نقول "لا" لـ 90% من أفكارنا، فنقول "نعم" للأفكار الصحيحة تمامًا.
 
-#### Customer Whisperer
-Not just listening to customers, *hearing* them, understanding their underlying needs, motivations, even their emotions. Not order-taking the features they know how to name, but [rooting out the things](https://longform.asmartbear.com/customer-development/) they worry about so much they would pay to decrease the worry, or figuring out the result they need to get to earn a promotion or achieve their [ultimate goal](https://longform.asmartbear.com/needs-stack/), as opposed to just "features." More than figuring it out, *wanting* to figure it out. Having the "taste" to sense what features would be especially useful even in the absence of clear quantitative data, or the nuance that separates a serviceable UX from a delightful one that causes an NPS-10 customer to actually "Promote" in real life. Translating these insights into tangible feature ideas or use-cases of things to build that make the customer a hero.
+#### العميل الهامس
+ليس فقط الاستماع إلى العملاء، *الاستماع* إليهم، وفهم احتياجاتهم الأساسية، ودوافعهم، وحتى عواطفهم. لا يرتبون الميزات التي يعرفون كيفية تسميتها، ولكن [يستخرجون الأشياء](https://longform.asmartbear.com/customer-development/) فهم يقلقون بشأن الكثير مما قد يدفعونه لتقليل القلق، أو معرفة النتيجة التي يحتاجون إليها للحصول على ترقية أو تحقيق [هدفهم النهائي](https://longform.asmartbear.com/needs-stack/)، بدلاً من "الميزات" فقط. أكثر من مجرد اكتشاف الأمر، *الرغبة* في اكتشافه. امتلاك "الذوق" لاستشعار الميزات التي قد تكون مفيدة بشكل خاص حتى في حالة عدم وجود بيانات كمية واضحة، أو الفارق الدقيق الذي يفصل بين تجربة المستخدم القابلة للخدمة وتلك المبهجة التي تتسبب في "الترويج" لعميل NPS-10 فعليًا في الحياة الواقعية. ترجمة هذه الأفكار إلى أفكار ميزات ملموسة أو حالات استخدام للأشياء التي سيتم إنشاؤها والتي تجعل العميل بطلاً.
 
-#### Scrum Product Owner
-An unfortunately ambiguous phrase for the uninitiated, the Scrum "Product Owner" owns the work-backlog, and works with engineering to execute it. Owning the work from start to finish, breaking down epics into stories, [prioritizing and scheduling](https://longform.asmartbear.com/rocks-pebbles-sand/) innovations for customers against engineering demands against [requests from other teams](https://longform.asmartbear.com/jit-backlogs/) against the broader needs of the company. Working tightly with engineering not just to shake them upside down until estimates fall out of their pockets, but working together to solve the puzzles of "most value (whatever that means) in the least time (or risk)," together finding the 80% solution that will take 20% of the time, so that we deliver quickly and learn quickly. Using the tools of story points and velocity and retros for team-wide constructive introspection and improvement, fulfilling the responsible aspect of being "self-managed." Stretching to maximize how much we deliver, but practical and celebratory so that constant striving doesn't turn into death-march burn-out. Being [in command](https://longform.asmartbear.com/in-command/) of the product and team.
+#### مالك منتج سكروم
+عبارة غامضة للأسف بالنسبة للمبتدئين، حيث يمتلك "مالك منتج" Scrum الأعمال المتراكمة، ويعمل مع المهندسين لتنفيذها. امتلاك العمل من البداية إلى النهاية، وتقسيم الملاحم إلى قصص، [تحديد الأولويات والجدولة](https://longform.asmartbear.com/rocks-pebbles-sand/) الابتكارات للعملاء مقابل المتطلبات الهندسية مقابل [الطلبات من الفرق الأخرى](https://longform.asmartbear.com/jit-backlogs/) مقابل الاحتياجات الأوسع للشركة. العمل بشكل وثيق مع الهندسة ليس فقط لزعزعتهم رأسًا على عقب حتى تسقط التقديرات من جيوبهم، ولكن العمل معًا لحل الألغاز "الأكثر قيمة (أيًا كان ذلك يعني) في أقل وقت (أو مخاطرة)،" معًا لإيجاد حل 80% الذي سيستغرق 20% من الوقت، حتى نتمكن من التسليم بسرعة والتعلم بسرعة. استخدام أدوات نقاط القصة والسرعة والأحداث القديمة من أجل التأمل والتحسين البناء على مستوى الفريق، وتحقيق الجانب المسؤول من "الإدارة الذاتية". Stretching to maximize how much we deliver, but practical and celebratory so that constant striving doesn't turn into death-march burn-out. Being [in command](https://longform.asmartbear.com/in-command/) of the product and team.
 
-#### Orchestrator
-Delivering the "[Whole Product](https://280group.com/product-management-blog/whole-product-concept-a-quick-guide-for-the-expert-pm/)," as Geoffrey Moore defines it, means not delivering working code only, but also enabling others: Marketing to grab attention and spark curiosity, sales to convert potential energy (leads) into kinetic energy (sales), customer service to shepherd the customer through good times and bad, enabling the Marcomm teams for PR and events, and external integrators and consultants who operate on behalf of clients. Tracking and communicating status, the good news and the challenges, celebrating the wins and facing the challenges with crisp articulation, calming stakeholders in the knowledge that the team is fully aware of what they need to overcome, and thus in command even in dire situations. Running great meetings--starting with a clear goal and how the discussion will support the strategy, tight agendas so participants come prepared and use synchronous time wisely, with decisions made and recorded. Engaging the whole company on occasion, with inspiring presentations at all-hands meetings so everyone is excited about we're accomplishing together, and so that the teams working directly on the product feel proud, and feel seen.
+#### منسق
+إن تسليم "[المنتج بالكامل](https://280group.com/product-management-blog/whole-product-concept-a-quick-guide-for-the-expert-pm/)،" كما يعرّفه جيفري مور، يعني عدم تقديم كود العمل فقط، ولكن أيضًا تمكين الآخرين: التسويق لجذب الانتباه وإثارة الفضول، والمبيعات لتحويل الطاقة المحتملة (العملاء المحتملين) إلى طاقة حركية (مبيعات)، وخدمة العملاء لرعاية العميل خلال الأوقات الجيدة وسيئًا، تمكين فرق ماركوم للعلاقات العامة والفعاليات، والمتكاملين الخارجيين والاستشاريين الذين يعملون نيابة عن العملاء. تتبع الحالة وإبلاغها، والأخبار الجيدة والتحديات، والاحتفال بالانتصارات ومواجهة التحديات بتعبير واضح، وتهدئة أصحاب المصلحة بمعرفة أن الفريق يدرك تمامًا ما يحتاجون إلى التغلب عليه، وبالتالي يتولى القيادة حتى في المواقف العصيبة. إدارة اجتماعات رائعة - بدءًا بهدف واضح وكيف ستدعم المناقشة الإستراتيجية، وجداول الأعمال الضيقة حتى يأتي المشاركون مستعدين ويستخدمون الوقت المتزامن بحكمة، مع اتخاذ القرارات وتسجيلها. إشراك الشركة بأكملها في بعض الأحيان، من خلال العروض التقديمية الملهمة في الاجتماعات الشاملة بحيث يكون الجميع متحمسين لما ننجزه معًا، وحتى تشعر الفرق التي تعمل مباشرة على المنتج بالفخر، وتشعر بأنها مرئية.
 
 ![fire good except sometimes bucket of water](https://public.asmartbear.com/books/anthology/chapters/great-product-manager/d8678print-simple.png)
 
-The conclusion is not that "a Great PM must be the master of all this."
+والنتيجة ليست أن "رئيس الوزراء العظيم يجب أن يكون سيد كل هذا".
 
-In fact, exactly the opposite.
+في الواقع، العكس تماما.
 
-## One excellent, one good
+## واحدة ممتازة، واحدة جيدة
 
-In my experience, echoed by a few people I've chatted with, there is a general rule of thumb vis-a-vis the categories of work above:
+في تجربتي، والتي رددها عدد قليل من الأشخاص الذين تحدثت معهم، هناك قاعدة عامة فيما يتعلق بفئات العمل المذكورة أعلاه:
 
- <br/> 
+<br/>
 
-*A "Great PM" is <br/> **excellent** in one area, <br/> **good** in at least one other, <br/> and doesn't have time for more than two.*
+*"رئيس الوزراء العظيم" <br/> **ممتاز** في منطقة واحدة، <br/> **جيد** في منطقة أخرى على الأقل، <br/> وليس لديه وقت لأكثر من منطقتين.*
 
- <br/> 
+<br/>
 
-Using "Great PM" language, you should strive to be "Great," as superlative as possible, in one of those four areas, and pretty darn good at a second.
+باستخدام لغة "رئيس الوزراء العظيم"، يجب أن تسعى جاهداً لتكون "عظيمًا"، ومتفوقًا قدر الإمكان، في أحد هذه المجالات الأربعة، وجيدًا جدًا في ثانية.
 
-I find this particular categorization of four job-areas aligns well to strengths and abilities of real people. Whatever you ascribe to nature or nurture, instinct or experience, for each of those job-areas I can immediately recall specific people who are excellent at nearly all components within a single area, but variously good or lacking in components of a second, and then completely the wrong temperament or lack of desire to excel in others. These four "buckets" seem to me to be natural divisions of ability and proclivity.
+أجد أن هذا التصنيف الخاص لمجالات العمل الأربعة يتوافق بشكل جيد مع نقاط القوة والقدرات لدى الأشخاص الحقيقيين. أيًا كان ما تنسبه إلى الطبيعة أو التنشئة أو الغريزة أو الخبرة، ففي كل مجال من مجالات العمل هذه، يمكنني على الفور أن أتذكر أشخاصًا محددين متميزين تقريبًا في جميع المكونات في مجال واحد، ولكنهم جيدون بشكل مختلف أو يفتقرون إلى مكونات ثانية، ومن ثم مزاج خاطئ تمامًا أو عدم الرغبة في التفوق في الآخرين. تبدو لي هذه "الدلاء" الأربعة بمثابة تقسيمات طبيعية للقدرة والميل.
 
-I don't believe in magical unicorns who are excellent in all four areas.[^3] But suppose they do exist, and you hired them. Would it be physically possible to execute well in all four areas? It's easy to see that it's impossible, if you add up the time it takes to do great work.
+أنا لا أؤمن بوجود وحيد القرن السحري الذي يكون ممتازًا في جميع المجالات الأربعة.[^3] لكن لنفترض أنهم موجودون بالفعل، وقمت بتعيينهم. هل سيكون من الممكن جسديًا الأداء جيدًا في جميع المجالات الأربعة؟ من السهل أن ترى أنه مستحيل، إذا أضفت الوقت الذي يستغرقه القيام بعمل رائع.
 
-[^3]: Perhaps there are, but the probability that you'll find one, or hire one, or build a whole organization of them, is near-nil, although you will surely find a lot of candidates who imagine themselves to be one.
+[^3]: ربما يوجد ذلك، ولكن احتمالية العثور على واحد منهم، أو توظيفه، أو بناء مؤسسة كاملة منهم، تقترب من الصفر، على الرغم من أنك ستجد بالتأكيد الكثير من المرشحين الذين يتخيلون أنفسهم على أنهم مرشحون.
 
-Strategy is on-going--markets change, competitors change, customers change, new data comes to light (usually only after expending considerable time acquiring it), and whenever you're "pencils down" on one iteration of a strategy, there are always eight more things you still haven't figured out yet. Customer discovery takes a long time--scheduling and running interviews, compiling results, mapping what you heard, prioritizing activities or opportunities or use-cases (depending on your frameworks), trying to (in)validate assumptions with data. Being a Product Owner takes at least twenty hours per week to write great stories and run Scrum ceremonies. Anyone who has program-managed multiple teams across multiple departments knows that scheduling and organizing and cajoling and status-updating and data-gathering and meeting-preparation takes a lot of time. Even with sensational skills, no one has time to do it all (with excellence).
+الإستراتيجية مستمرة - الأسواق تتغير، والمنافسون يتغيرون، والعملاء يتغيرون، وتظهر البيانات الجديدة للضوء (عادة فقط بعد قضاء وقت طويل في الحصول عليها)، وكلما كنت "أقلام الرصاص" على تكرار واحد للاستراتيجية، هناك دائمًا ثمانية أشياء أخرى لم تكتشفها بعد. يستغرق اكتشاف العملاء وقتًا طويلاً - جدولة المقابلات وإجراؤها، وتجميع النتائج، ورسم خرائط لما سمعته، وتحديد أولويات الأنشطة أو الفرص أو حالات الاستخدام (اعتمادًا على أطر العمل الخاصة بك)، ومحاولة (عدم) التحقق من صحة الافتراضات باستخدام البيانات. يستغرق كونك مالك منتج ما لا يقل عن عشرين ساعة أسبوعيًا لكتابة قصص رائعة وإدارة احتفالات Scrum. يعرف أي شخص قام بإدارة فرق متعددة عبر أقسام متعددة أن الجدولة والتنظيم والتملق وتحديث الحالة وجمع البيانات والتحضير للاجتماعات تستغرق الكثير من الوقت. حتى مع المهارات المثيرة، لا أحد لديه الوقت للقيام بكل ذلك (بامتياز).
 
-> "We are not going to breed a new race of super-humans; we will have to run our organizations with the humans we have."  
-> --Peter Drucker
+> "لن نقوم بتوليد جنس جديد من البشر الخارقين، بل سيتعين علينا إدارة مؤسساتنا بالبشر الموجودين لدينا."
+> --بيتر دراكر
 
-While one person cannot be all things to all people, across the *entire* product team, you *do* need excellence in all four areas. Thus the manager of a Product organization isn't simply a "manager," but rather an "organization designer," choreographing this outcome through intentional hiring.
+على الرغم من أنه لا يمكن لشخص واحد أن يقدم كل شيء لجميع الأشخاص، إلا أنك تحتاج إلى التميز في جميع المجالات الأربعة عبر فريق المنتج *بكامله*. وبالتالي فإن مدير منظمة المنتج ليس مجرد "مدير"، بل هو "مصمم المنظمة"، الذي يصمم هذه النتيجة من خلال التوظيف المتعمد.
 
-You'll often find these roles in titles other than "Product Manager." Communications and collaboration is often done by a Program Manager--a role where if you think it's not useful, it might be because [you haven't worked with someone who is great](https://techcrunch.com/2012/07/24/you-havent-seen-greatness/). Marketing, sales, and support enablement is often done by Product Marketing (i.e. somewhere under the CMO rather than somewhere under the CTO). With highly technical back-end teams with little or no customer exposure, a sociable engineer or architect can be the perfect Product Owner. Mature organizations might have UX Research teams who are expert in customer analysis--building data-based personas, crafting interviews, compiling results, and pooling insights across multiple product teams who happen to share customers.
+غالبًا ما تجد هذه الأدوار في عناوين أخرى غير "مدير المنتج". غالبًا ما يتم التواصل والتعاون بواسطة مدير البرنامج - وهو الدور الذي إذا كنت تعتقد أنه غير مفيد، فقد يكون ذلك بسبب [أنك لم تعمل مع شخص رائع](https://techcrunch.com/2012/07/24/you-havent-seen-greatness/). غالبًا ما يتم التسويق والمبيعات وتمكين الدعم عن طريق تسويق المنتجات (أي في مكان ما تحت إدارة CMO وليس في مكان ما تحت CTO). مع وجود فرق خلفية عالية التقنية مع القليل من التعامل مع العملاء أو عدم تعرضهم لها على الإطلاق، يمكن للمهندس أو المهندس المعماري الاجتماعي أن يكون مالك المنتج المثالي. قد يكون لدى المؤسسات الناضجة فرق أبحاث تجربة المستخدم التي تتمتع بالخبرة في تحليل العملاء - بناء شخصيات قائمة على البيانات، وصياغة المقابلات، وتجميع النتائج، وتجميع الأفكار عبر فرق المنتجات المتعددة التي تتشارك العملاء.
 
-As the organization designer, your job is to "assemble excellence" in all areas. Even incremental improvements here can be impactful, because so often organizations have excellence *nowhere*. [95%](https://hbr.org/2005/10/the-office-of-strategy-management) of employees complain they don't understand the strategy, or don't know their role in it; founders-in-PM-roles often run on instinct more than systematic customer analysis; engineering teams often complain of underspecified or under-explained stories; engineers are often surprised at the gulf between what they know to be true about the product and what Sales claims on the phone, just as customer service folks are often surprised at the gulf between what they know to be true about the product, and what engineering thinks is "a job well done."
+باعتبارك مصمم المنظمة، فإن مهمتك هي "تجميع التميز" في جميع المجالات. حتى التحسينات الإضافية هنا يمكن أن تكون مؤثرة، لأنه في كثير من الأحيان لا تتمتع المؤسسات بالتميز *في أي مكان*. [95%](https://hbr.org/2005/10/the-office-of-strategy-management) من الموظفين يشكون من أنهم لا يفهمون الإستراتيجية، أو لا يعرفون دورهم فيها؛ غالبًا ما يتم تنفيذ أدوار المؤسسين في مدير المشروع بناءً على الغريزة أكثر من التحليل المنهجي للعملاء؛ غالبًا ما تشتكي الفرق الهندسية من قصص غير محددة أو غير موضحة بشكل كافٍ؛ غالبًا ما يتفاجأ المهندسون بالفجوة بين ما يعرفون أنه حقيقي حول المنتج وما يدعيه فريق المبيعات على الهاتف، تمامًا كما يتفاجأ موظفو خدمة العملاء غالبًا بالفجوة بين ما يعرفون أنه حقيقي حول المنتج، وما يعتقده المهندسون أنه "عمل متقن".
 
-Rather than unicorn-hunting, take this more practical route in your career, or in designing your team.
+بدلاً من اصطياد وحيدات القرن، اتبع هذا الطريق الأكثر عملية في حياتك المهنية، أو في تصميم فريقك.

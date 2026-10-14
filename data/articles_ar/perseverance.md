@@ -20,84 +20,67 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** بين أصحاب الرؤى الثاقبة والحمقى المتعنتين: كيف تميز بين الإصرار والغباء؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Stubborn Visionaries & Pigheaded Fools
-
-> **Executive Summary:** How do you know when to stop, versus when to push through? You don't, not even in hindsight. But these guiding questions can help.
-> **Original URL:** [https://longform.asmartbear.com/perseverance/](https://longform.asmartbear.com/perseverance/)
-
 ![son comes time in life when need to decide news to believe](https://public.asmartbear.com/books/anthology/chapters/perseverance/d6605print-simple.png)
 
-## The puzzle
+## اللغز
 
-#### Scenario 1 (S1)
-At time (A) you start an AdWords campaign.
-At time (B) it's obviously not working; a waste of time and money.
-...But you keep trying, and by time (C), it's working! **You did it!**
+#### السيناريو 1 (S1)
+في الوقت (أ) تبدأ حملة AdWords. في الوقت (ب) من الواضح أنه لا يعمل؛ مضيعة للوقت والمال. ...لكنك تستمر في المحاولة، وبمرور الوقت (ج)، ينجح الأمر! **لقد فعلتها!**
 
-#### Scenario 2 (S2)
-At time (A) you start an AdWords campaign.
-At time (B) it's obviously not working; a waste of time and money.
-...But you keep trying, and by time (C), it's still not working, and you've wasted even more time and money. **What a waste!**
+#### السيناريو 2 (S2)
+في الوقت (أ) تبدأ حملة AdWords. في الوقت (ب) من الواضح أنه لا يعمل؛ مضيعة للوقت والمال. ...لكنك تستمر في المحاولة، وبمرور الوقت (ج)، لا يزال الأمر لا يعمل، وقد أهدرت المزيد من الوقت والمال. **ما هي مضيعة!**
 
-We've all experienced both scenarios, not just in AdWords but in life in general.
+لقد مررنا جميعًا بكلا السيناريوهين، ليس فقط في AdWords ولكن في الحياة بشكل عام.
 
-But we misunderstand it.
+ولكننا نسيء فهم ذلك.
 
-S1 we call "**success through perseverance**," and you've heard this echoed in many platitudes. [Winners never quit](https://longform.asmartbear.com/startup-life/), and quitters never win. [Failure is a step](https://longform.asmartbear.com/fail/) on the path to success. Failure is [a pivot away from success](https://longform.asmartbear.com/predict-the-future/). Learn from your mistakes and next time you will succeed. Fake it 'till you make it. The thing [all failed startups have in common](https://longform.asmartbear.com/avoid-blundering/) is that the founders stopped trying.
+S1 نطلق عليه "**النجاح من خلال المثابرة**"، وقد سمعت هذا يتردد في العديد من العبارات المبتذلة. [الفائزون لا ينسحبون أبدًا](https://longform.asmartbear.com/startup-life/)، والمستسلمون لا يفوزون أبدًا. [الفشل خطوة](https://longform.asmartbear.com/fail/) على طريق النجاح. الفشل هو [محور بعيد عن النجاح](https://longform.asmartbear.com/predict-the-future/). تعلم من أخطائك وفي المرة القادمة ستنجح. زيف الأمر حتى تتمكن من تحقيقه. الشيء [المشترك بين جميع الشركات الناشئة الفاشلة](https://longform.asmartbear.com/avoid-blundering/) هو أن المؤسسين توقفوا عن المحاولة.
 
-S2 we call "**failure through obstinance**," and you've heard this echoed in many platitudes. Doing the same thing expecting different results is the definition of insanity. Those who ignore history are doomed to repeat it. Those who cannot be [introspective](https://longform.asmartbear.com/good-startup-ideas/) and [honestly see things as they are](https://longform.asmartbear.com/failure-to-face-the-truth/), will fail. The thing all failed startups have in common is that the founders didn't [pay attention](https://longform.asmartbear.com/criticize-create/) to what was happening outside their own egotistical worldview.
+S2 نسميه "**الفشل من خلال العناد**،" وقد سمعت هذا يتردد في العديد من العبارات المبتذلة. فعل نفس الشيء مع توقع نتائج مختلفة هو تعريف الجنون. ومن يتجاهل التاريخ محكوم عليه بإعادته. أولئك الذين لا يستطيعون [الاستبطان](https://longform.asmartbear.com/good-startup-ideas/) و[رؤية الأشياء بصدق كما هي](https://longform.asmartbear.com/failure-to-face-the-truth/)، سوف يفشلون. الشيء المشترك بين جميع الشركات الناشئة الفاشلة هو أن المؤسسين لم [ينتبهوا](https://longform.asmartbear.com/criticize-create/) لما كان يحدث خارج نظرتهم الأنانية للعالم.
 
-Are these the correct conclusions? No, they are convenient rationalizations.
+هل هذه هي الاستنتاجات الصحيحة؟ لا، إنها مبررات مريحة.
 
-Consider S1 and S2 at time (B). Up to this point they are identical. So how do you know, *at time (B)*, which scenario you're in? Because if you're in S1 you'd be a fool to stop, but if you're in S2 you'd be a fool to continue. How do you know whether you'll end up as a cautionary tale of someone who couldn't let go when they were clearly wrong, or as a hero who bravely fought through doubt to prove everyone wrong?
+النظر في S1 وS2 في الوقت (B). حتى هذه اللحظة فهي متطابقة. فكيف تعرف، *في الوقت (ب)*، في أي سيناريو أنت؟ لأنه إذا كنت في S1 فسيكون من الغباء أن تتوقف، ولكن إذا كنت في S2 فسيكون من الغباء أن تستمر. كيف تعرف ما إذا كان سينتهي بك الأمر كقصة تحذيرية لشخص لم يستطع ترك الأمر عندما كان مخطئًا بشكل واضح، أو كبطل حارب بشجاعة الشك ليثبت خطأ الجميع؟
 
-Maybe you shouldn't find out! Just stop at (B). No again, because if you're on the path of S1 you've lost your win. If you were on S2, you were "smart" to stop, but *either way you've failed* to achieve something useful. Stopping is *sure failure* while persisting is at least *possible success*. Stopping means you'll never create something great.
+ربما لا ينبغي عليك معرفة ذلك! فقط توقف عند (ب). لا مرة أخرى، لأنه إذا كنت في طريق S1 فقد خسرت فوزك. إذا كنت في S2، فقد كنت "ذكيًا" في التوقف، ولكن *في كلتا الحالتين فشلت* في تحقيق شيء مفيد. التوقف *فشل أكيد* والإصرار على الأقل *نجاح محتمل*. التوقف يعني أنك لن تتمكن أبدًا من إنشاء شيء عظيم.
 
-So you cannot know. Not for AdWords, not for [product design](https://longform.asmartbear.com/design/), not for the vision of your company and the [market you hope to create around it](https://longform.asmartbear.com/problem/), not for almost anything, big or small. [It all looks the same at point B](https://longform.asmartbear.com/chaos-at-start/).
+لذلك لا يمكنك أن تعرف. ليس من أجل AdWords، وليس من أجل [تصميم المنتج](https://longform.asmartbear.com/design/)، وليس من أجل رؤية شركتك و[السوق الذي تأمل في إنشائه حولها](https://longform.asmartbear.com/problem/)، وليس لأي شيء تقريبًا، سواء كان كبيرًا أو صغيرًا. [يبدو كل شيء كما هو عند النقطة B](https://longform.asmartbear.com/chaos-at-start/).
 
-Venture capitalists don't know either, though it's their job to know. They're smart and do this for a living, but it usually doesn't work; [most VC portfolios lose money](https://www.sethlevine.com/archives/2020/10/vc-fund-returns-are-more-skewed-than-you-think.html). Not even the experts know which path you're on.
+أصحاب رأس المال المغامر لا يعرفون ذلك أيضًا، على الرغم من أن وظيفتهم هي أن تعرف. إنهم أذكياء ويفعلون ذلك من أجل لقمة العيش، لكنه لا ينجح عادةً؛ [تخسر معظم محافظ رأس المال الاستثماري الأموال](https://www.sethlevine.com/archives/2020/10/vc-fund-returns-are-more-skewed-than-you-think.html). ولا حتى الخبراء يعرفون المسار الذي تسلكه.
 
-The typical, backward-looking interpretation of these two scenarios is not the best way for us to understand the choices in front of us today, nor to [evaluate our decisions in hindsight](https://longform.asmartbear.com/unmeasurable-metrics/). It's not even clear that we've "learned anything," whether the outcome was good or bad.
+إن التفسير النموذجي المتخلف لهذين السيناريوهين ليس الطريقة الأفضل بالنسبة لنا لفهم الخيارات الماثلة أمامنا اليوم، ولا [لتقييم قراراتنا بعد فوات الأوان] (https://longform.asmartbear.com/unmeasurable-metrics/). وليس من الواضح حتى أننا "تعلمنا أي شيء"، سواء كانت النتيجة جيدة أو سيئة.
 
-Perhaps all we've done is made some choices and observed some results, and that's the end of it.
+ربما كل ما فعلناه هو أننا قمنا ببعض الاختيارات ولاحظنا بعض النتائج، وكانت هذه نهاية الأمر.
 
-You could read this as depressing, because nothing is predictable and even the wisdom we believed we accumulated along the way is false wisdom. But clearly this point of view isn't exactly true.
+يمكنك أن تقرأ هذا على أنه محبط، لأنه لا يوجد شيء يمكن التنبؤ به، وحتى الحكمة التي اعتقدنا أننا تراكمناها على طول الطريق هي حكمة زائفة. لكن من الواضح أن وجهة النظر هذه ليست صحيحة تمامًا.
 
-So, read this as a positive, and realize that it liberates you to make decisions more easily--with less second-guessing in the moment, and less guilt afterwards. (And [taking less credit when things go well](https://longform.asmartbear.com/survivor-bias/).)
+لذا، اقرأ هذا على أنه أمر إيجابي، وأدرك أنه يحررك لاتخاذ القرارات بسهولة أكبر - مع قدر أقل من التخمين في الوقت الحالي، وشعور أقل بالذنب بعد ذلك. (و[الحصول على رصيد أقل عندما تسير الأمور على ما يرام](https://longform.asmartbear.com/survivor-bias/).)
 
-When you realize you cannot know which scenario you're in, you realize that the job is to **find out which one it is as quickly as possible**, which means to cease your dithering, make a strong decision, keep your eyes open, try to [measure what's happening](https://longform.asmartbear.com/product-metrics/) as objectively as possible, hope for S1, but allow for S2, to not feel guilty if you guessed wrong, and not feel cocky if you guessed right.
+عندما تدرك أنك لا تستطيع معرفة السيناريو الذي أنت فيه، فإنك تدرك أن المهمة هي **معرفة السيناريو الذي أنت فيه في أسرع وقت ممكن**، مما يعني التوقف عن التردد، واتخاذ قرار قوي، وإبقاء عينيك مفتوحتين، ومحاولة [قياس ما يحدث](https://longform.asmartbear.com/product-metrics/) بموضوعية قدر الإمكان، والأمل في S1، ولكن السماح لـ S2، ألا يشعر بالذنب إذا أخطأت في التخمين، وألا يشعر بالغرور. إذا خمنت الحق.
 
-Still, there are some guiding questions that can help you suss out which path you're on, and thus what to do.
+ومع ذلك، هناك بعض الأسئلة التوجيهية التي يمكن أن تساعدك على معرفة المسار الذي تسلكه، وبالتالي ما يجب عليك فعله.
 
-## Solving the puzzle
+## حل اللغز
 
-These are my [specific strategies that thrive under uncertain conditions](https://longform.asmartbear.com/predict-the-future/). Because many things in life are uncertain, these are often useful.
+هذه هي [الاستراتيجيات المحددة التي تزدهر في ظل ظروف غير مؤكدة](https://longform.asmartbear.com/predict-the-future/). نظرًا لأن أشياء كثيرة في الحياة غير مؤكدة، فهي غالبًا ما تكون مفيدة.
 
-Besides those strategies, the following tactical questions help you determine which path you are on. Readers have contributed wisdom that I've lightly edited:
+إلى جانب تلك الاستراتيجيات، تساعدك الأسئلة التكتيكية التالية على تحديد المسار الذي تسلكه. لقد ساهم القراء بالحكمة التي قمت بتحريرها بشكل طفيف:
 
-* **Timebox.** Set a hard deadline for how much longer you'll work on it without seeing improvement. ([@farezv](https://twitter.com/anyuser/status/1742484259213029599))
-* Are you still **enjoying** the project and **learning** something from it? ([@colemank83](https://twitter.com/anyuser/status/1742518005836271628))
-* **Rate of progress**: Is the rate of progress slowing or accelerating? ([@Daanlo](https://noc.social/@Daanlo@mastodon.social/111727866065565357))
-* Use an **external sounding board** to keep you honest. Often the numbers won't tell you to go left or right. And even if the numbers show clear signs, we often ignore them because "they are outliers" and "this time is different." ([@igriff](https://twitter.com/anyuser/status/1742477070662328629)) ([Ton Dobbe](https://www.linkedin.com/feed/update/urn:li:activity:7148238290591125505?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7148238290591125505%2C7148314532505972736%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287148314532505972736%2Curn%3Ali%3Aactivity%3A7148238290591125505%29))
-* Don't allow **sunk cost** to decide. ([@igriff](https://twitter.com/anyuser/status/1742477070662328629))
-* If the team has **run out of ideas and conviction**, consider pivoting. If the team has run out of ideas and conviction for pivoting, it's time for a full reset or quit. Do you **see yourself doing this in 12 months?** If not, you might as well stop now. ([@sachinrekhi](https://x.com/sachinrekhi/status/1742594429884694858?s=20)) ([@awoodsnet](https://noc.social/@awoodsnet@phpc.social/111695017407127924))
-* Is the product **noticeably better** than alternatives in the market or will be there soon? If the answer is no to both, consider stopping. ([@yassin_baum](https://twitter.com/anyuser/status/1742501512688070677))
-* **Existence proof**: If others somehow achieved a similar outcome, then you shouldn't stop. Especially if their solutions are bad and yet they're making money. ([@mibenz95](https://x.com/mibenz95/status/1742660395960025508?s=20)) ([@nickresreal](https://x.com/nick_res_real/status/1742629476079444371?s=20))
-* Is it (a) **worthwhile**, (b) **fixable**, and (c) you **still have energy** for it? ([@nurijanian](https://twitter.com/nurijanian/status/1742693171833000107)) Am I truly enjoying what I'm doing? Do I have room for improvement? Am I willing to put in the work to improve? Am I marketing this venture/skillset to the best of my ability Would my time be spent better trying a new project? ([Alex Finn](https://www.1percentbetter.io/p/quit-a2b1))
-* **Opportunity Cost**: Are there opportunities you're missing because you're fixated on this? ([@Liscoomi](https://twitter.com/Liscoomi/status/1742719163766886544))
-* **Consequences**: What's the downside if you don't finish? What do you get if you're successful? Are there smaller wins you can achieve along the way? ([@awoodsnet](https://noc.social/@awoodsnet@phpc.social/111695017407127924))
-* **Don't decide out of fear**. If you're scared of the outcome a little bit, stick with it. ([@pascallaliberte](https://twitter.com/anyuser/status/1742523382158016600))
-* **Penny in the air**: Go for a long walk and listen deep inside. Often I already know deep inside, but just [don't want to admit it to myself](https://longform.asmartbear.com/failure-to-face-the-truth/). ([@awoodsnet](https://noc.social/@awoodsnet@phpc.social/111695017407127924))
-* **Go back to "The Why"** that set you off on your journey to begin with. If you now have more information to assess the credibility of that why, re-assess. If you still have the same information available and still believe in the why, press on. ([@temlabs](https://twitter.com/anyuser/status/1742536876156748116))
+* **الإطار الزمني.** حدد موعدًا نهائيًا صارمًا للمدة التي ستعمل فيها دون رؤية أي تحسن. ([@farezv](https://twitter.com/anyuser/status/1742484259213029599))
+* هل مازلت **تستمتع** بالمشروع و **تتعلم** شيئًا منه؟ ([@colemank83](https://twitter.com/anyuser/status/1742518005836271628))
+* **معدل التقدم**: هل يتباطأ معدل التقدم أم يتسارع؟ ([@Daanlo](https://noc.social/@Daanlo@mastodon.social/111727866065565357))
+* استخدم **لوحة صوت خارجية** لتحافظ على صدقك. في كثير من الأحيان لن تخبرك الأرقام بالذهاب إلى اليسار أو اليمين. وحتى لو أظهرت الأرقام علامات واضحة، فإننا غالبا ما نتجاهلها لأنها "قيم متطرفة" و"هذه المرة مختلفة". ([@igriff](https://twitter.com/anyuser/status/1742477070662328629)) ([طن دوبي](https://www.linkedin.com/feed/update/urn:li:activity:7148238290591125505?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A714823829059112 5505%2C7148314532505972736%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A %287148314532505972736%2Curn%3Ali%3Aactivity%3A7148238290591125505%29))
+* لا تسمح **بالتكلفة الغارقة** باتخاذ القرار. ([@igriff](https://twitter.com/anyuser/status/1742477070662328629))
+* إذا كان الفريق **نفد أفكاره وقناعاته**، فكر في التحول إلى محور. إذا استنفدت أفكار الفريق وقناعته بالتمحور، فقد حان الوقت لإعادة التعيين الكامل أو الاستقالة. هل **ترى نفسك تفعل ذلك خلال 12 شهرًا؟** إذا لم يكن الأمر كذلك، فمن الأفضل أن تتوقف الآن. ([@sachinrekhi](https://x.com/sachinrekhi/status/1742594429884694858?s=20)) ([@awoodsnet](https://noc.social/@awoodsnet@phpc.social/111695017407127924))
+* هل المنتج **أفضل بشكل ملحوظ** من البدائل المتوفرة في السوق أم أنه سيتوفر قريبًا؟ إذا كانت الإجابة لا على كليهما، ففكر في التوقف. ([@yassin_baum](https://twitter.com/anyuser/status/1742501512688070677))
+* **دليل الوجود**: إذا حقق الآخرون بطريقة أو بأخرى نتيجة مماثلة، فلا يجب أن تتوقف. خاصة إذا كانت حلولهم سيئة ومع ذلك فهم يكسبون المال. ([@mibenz95](https://x.com/mibenz95/status/1742660395960025508?s=20)) ([@nickresreal](https://x.com/nick_res_real/status/1742629476079444371?s=20))
+* هل (أ) **جديرة بالاهتمام**، و(ب) **قابلة للإصلاح**، و(ج) **لا تزال لديك الطاقة** للقيام بها؟ ([@nurijanian](https://twitter.com/nurijanian/status/1742693171833000107)) هل أنا أستمتع حقًا بما أفعله؟ هل لدي مجال للتحسين؟ هل أنا على استعداد للقيام بالعمل من أجل التحسن؟ هل أقوم بتسويق هذا المشروع/مجموعة المهارات بأفضل ما أستطيع؟ هل سأقضي وقتي بشكل أفضل في تجربة مشروع جديد؟ ([أليكس فين](https://www.1percentbetter.io/p/quit-a2b1))
+* **تكلفة الفرصة البديلة**: هل هناك فرص تفوتك بسبب تركيزك على هذا الأمر؟ ([@Liscoomi](https://twitter.com/Liscoomi/status/1742719163766886544))
+* **العواقب**: ما هو الجانب السلبي إذا لم تكمل العمل؟ ماذا ستحصل إذا كنت ناجحا؟ هل هناك انتصارات صغيرة يمكنك تحقيقها على طول الطريق؟ ([@awoodsnet](https://noc.social/@awoodsnet@phpc.social/111695017407127924))
+* **لا تتخذ قرارًا بسبب الخوف**. إذا كنت خائفًا من النتيجة قليلًا، فالتزم بها. ([@pascallaliberte](https://twitter.com/anyuser/status/1742523382158016600))
+* **بيني في الهواء**: اذهب في نزهة طويلة واستمع بعمق. في كثير من الأحيان أعرف بالفعل أعماقي، ولكن [لا أريد الاعتراف بذلك لنفسي](https://longform.asmartbear.com/failure-to-face-the-truth/). ([@awoodsnet](https://noc.social/@awoodsnet@phpc.social/111695017407127924))
+* **ارجع إلى "السبب"** الذي أطلقك في رحلتك لتبدأ. إذا كان لديك الآن المزيد من المعلومات لتقييم مصداقية هذا السبب، فأعد التقييم. إذا كان لا يزال لديك نفس المعلومات المتاحة وما زلت تؤمن بالسبب، فاضغط على. ([@temlabs](https://twitter.com/anyuser/status/1742536876156748116))
 
-In any case, just shut up and get going.
+على أية حال، فقط اصمت وانطلق.
 
-And when you're done with that, don't look back too much, just shut up and get going again.
+وعندما تنتهي من ذلك، لا تنظر إلى الوراء كثيرًا، فقط اصمت وابدأ مجددًا.

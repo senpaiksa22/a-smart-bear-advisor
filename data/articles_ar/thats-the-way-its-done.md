@@ -20,43 +20,30 @@ summary_ar: "\"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** 'لأن الأمور تُدار هكذا دائماً': هل ينبغي للمؤسس الاستماع لهذه النصيحة؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# "Because that's the way it's done" -- should a founder listen?
-
-> **Executive Summary:** "They" say you can't, but maybe you can. Embrace risk, creativity, and prove them wrong.
-> **Original URL:** [https://longform.asmartbear.com/thats-the-way-its-done/](https://longform.asmartbear.com/thats-the-way-its-done/)
-
 ![Cartoon 8e177fa0](https://longform.asmartbear.com/thats-the-way-its-done/228958c6.png)
 
- [They told me I couldn't](https://longform.asmartbear.com/bad-advice/) sell to The Enterprise with a silly company name like Smart Bear.
+[أخبروني أنني لا أستطيع](https://longform.asmartbear.com/bad-advice/) البيع لشركة The Enterprise باسم شركة سخيفة مثل Smart Bear.
 
-They told me I couldn't sell to The Enterprise without a human sales force using Salesforce.
+أخبروني أنني لا أستطيع البيع لشركة The Enterprise بدون فريق مبيعات بشري يستخدم Salesforce.
 
-They told me I couldn't sell to The Enterprise over GoToMeeting, with a demo and no slides, from a geek with no webinar.
+أخبروني أنني لا أستطيع البيع لشركة The Enterprise عبر GoToMeeting، مع عرض توضيحي وبدون شرائح، من مهووس بدون ندوة عبر الإنترنت.
 
-They told me I couldn't sell to The Enterprise with [amateur design](https://longform.asmartbear.com/design/) and a [small-company, human voice](https://longform.asmartbear.com/little-company/).
+أخبروني أنه لا يمكنني البيع لشركة The Enterprise باستخدام [تصميم للهواة](https://longform.asmartbear.com/design/) و[شركة صغيرة بصوت بشري](https://longform.asmartbear.com/little-company/).
 
-Oops. I accidentally went and did *all* that at Smart Bear, and only had millions of dollars of revenue to show for it. Largely from The Enterprise.
+أُووبس. لقد ذهبت عن طريق الخطأ وفعلت كل ذلك في Smart Bear، ولم يكن لدي سوى إيرادات بملايين الدولارات لإظهار ذلك. إلى حد كبير من المؤسسة.
 
-Does that mean "They" are wrong? Nope. "They" are in fact describing the way most *successful* companies sell to The Enterprise. Nothing wrong with "tried and true."
+هل هذا يعني أن "هم" مخطئون؟ لا. "إنهم" في الواقع يصفون الطريقة التي تبيع بها معظم الشركات * الناجحة * إلى المؤسسة. لا حرج في "مجرب وصحيح".
 
-Unless tried and true doesn't happen to jibe with you. Unless you can't bear to hire a [traditional "enterprise sales guy](https://longform.asmartbear.com/pick-company-name-brand/)." Unless you [can't stand content-free language](https://longform.asmartbear.com/authentic-is-dead/) and you [choose honesty over formal "corporate" language](https://longform.asmartbear.com/authentic/) on your website. Unless you [prefer excitement](https://longform.asmartbear.com/creativity-over-optimization/) over [ROIs](https://longform.asmartbear.com/roi-selling/). Unless you're happy to [compete with big companies](https://longform.asmartbear.com/startup-beats-incumbent/) instead of becoming one.
+ما لم يتم تجربته وصدقه، فلن ينسجم معك. إلا إذا كنت لا تستطيع تحمل تعيين ["رجل مبيعات مؤسسي تقليدي](https://longform.asmartbear.com/pick-company-name-brand/)." ما لم تكن [لا تستطيع تحمل اللغة الخالية من المحتوى](https://longform.asmartbear.com/authentic-is-dead/) وأنت [اختر الصدق بدلاً من لغة "الشركة" الرسمية](https://longform.asmartbear.com/authentic/) على موقع الويب الخاص بك. إلا إذا كنت [تفضل الإثارة](https://longform.asmartbear.com/creativity-over-optimization/) على [عائد الاستثمار](https://longform.asmartbear.com/roi-sale/). إلا إذا كنت سعيدًا [بالتنافس مع الشركات الكبرى](https://longform.asmartbear.com/startup-beats-incumbent/) بدلاً من أن تصبح واحدة منها.
 
-I wasn't trying to be "[disruptive](https://longform.asmartbear.com/disruptive/)" or "innovative" or a "maverick." I just *couldn't do it*. Maybe you're like that, about something.
+لم أكن أحاول أن أكون "[مدمرًا](https://longform.asmartbear.com/disruptive/)" أو "مبتكرًا" أو "منشقًا". أنا فقط *لم أستطع فعل ذلك*. ربما أنت هكذا، بشأن شيء ما.
 
-You'll have a harder road if you ignore "Them" because it leads to [gut-wrenching awkwardness](https://longform.asmartbear.com/startups-emotionally-draining/). But at least you'll be different.
+سيكون طريقك أصعب إذا تجاهلت "هم" لأنه يؤدي إلى [إحراج مزعج](https://longform.asmartbear.com/startups-emotionally-draining/). ولكن على الأقل سوف تكون مختلفا.
 
-Sometimes just being different is enough, if it's for a good reason.
+في بعض الأحيان يكون مجرد كونك مختلفًا كافيًا، إذا كان ذلك لسبب وجيه.
 
-Who knows. Do it your own way, but you'd better have your eyes open so you can address the special challenges you're bringing on yourself. Once you buck "Their" wisdom, you can't rely on "Them" when you get yourself into an unusual pickle. You've exited the safe and well-travelled road.
+من يدري. افعل ذلك بطريقتك الخاصة، ولكن من الأفضل أن تفتح عينيك حتى تتمكن من مواجهة التحديات الخاصة التي تجلبها لنفسك. بمجرد أن تخالف حكمتهم، لا يمكنك الاعتماد عليهم عندما تضع نفسك في مأزق غير عادي. لقد خرجت من الطريق الآمن والمسافر بشكل جيد.
 
-But go ahead and do it. Don't let the "it's not done that way" people win on that basis alone.
+ولكن المضي قدما وتفعل ذلك. لا تدع الأشخاص الذين يقولون "لم يتم الأمر بهذه الطريقة" يفوزون على هذا الأساس وحده.
 
-Maybe it *should* be done your way.
+ربما * ينبغي * أن يتم ذلك على طريقتك.

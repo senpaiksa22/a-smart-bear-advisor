@@ -20,106 +20,93 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** قاعدة تكلفة النقرة للشركات الممولة ذاتياً: ARPU مقسوماً على 25 تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Bootstrapped CPC rule of thumb: ARPU/25
-
-> **Executive Summary:** Bootstrapped and unsure about CPC? Use the rule of ARPU/25.
-> **Original URL:** [https://longform.asmartbear.com/bootstrapped-cpc/](https://longform.asmartbear.com/bootstrapped-cpc/)
-
 ![I see big changes in your future. Which reminds me, my fee is going up beginning next week.](https://public.asmartbear.com/books/anthology/chapters/bootstrapped-cpc/d6108print-simple.png)
 
-In the first year of business, you have no data for decision-making.
+في السنة الأولى من العمل، ليس لديك بيانات لاتخاذ القرار.
 
-Even after the first hundred customers, half of those were serendipitous one-offs, not representative of repeatable, predictable customer acquisition, and the scale of the data isn't statistically significant.
+وحتى بعد أول مائة عميل، كان نصف هؤلاء العملاء عبارة عن حالات لمرة واحدة بالصدفة، ولا تمثل عملية اكتساب عملاء متكررة ويمكن التنبؤ بها، ولم يكن حجم البيانات ذا دلالة إحصائية.
 
-One of the fundamental data-driven questions (but you don't have data) is: **What's the maximum I should bid for CPC (cost-per-click) campaigns like Google AdWords?**
+أحد الأسئلة الأساسية المبنية على البيانات (ولكن ليس لديك بيانات) هو: **ما هو الحد الأقصى الذي يجب أن أقوم بعرضه لحملات تكلفة النقرة (تكلفة النقرة) مثل Google AdWords؟**
 
-The answer for a funded startup is "Bid as much as possible, to get as many customers--and data!--as you can, as quickly as you can, then rapidly iterate from there in the presence of that data."
+الجواب بالنسبة لشركة ناشئة ممولة هو "تقديم أكبر قدر ممكن من العطاء، للحصول على أكبر عدد ممكن من العملاء - والبيانات! - بقدر ما تستطيع، بأسرع ما يمكن، ثم كرر ذلك بسرعة من هناك في ظل وجود تلك البيانات."
 
-That's a smart use of money: To "pay to find out." But what about a bootstrapped, profit-driven business? You don't have that budget, and you're keen on getting a reasonable return on investment [reasonably quickly](https://longform.asmartbear.com/annual-prepay/).
+هذا استخدام ذكي للمال: "الدفع لمعرفة ذلك". ولكن ماذا عن الأعمال التجارية التي يحركها الربح؟ ليس لديك هذه الميزانية، وتحرص على الحصول على عائد معقول على الاستثمار [بسرعة معقولة](https://longform.asmartbear.com/annual-prepay/).
 
-**Here's my way.**
+**هذه هي طريقتي.**
 
-*(Tune the exact numbers if you disagree with my assumptions!)*
+*(اضبط الأرقام الدقيقة إذا كنت لا توافق على افتراضاتي!)*
 
 ---
 
-## LTV = ARPU x 20
+## القيمة الدائمة = ARPU × 20
 
-**ARPU** (**A**verage **R**evenue **P**er **U**ser) is the amount you charge the average customer every month, which is typically a mixture of different quantities of customers at different tiers, special add-ons, etc..
+**ARPU** (**A**verage **R**evenue **P**er **U**ser) هو المبلغ الذي تفرضه على العميل العادي كل شهر، وهو عادةً مزيج من كميات مختلفة من العملاء في مستويات مختلفة، وإضافات خاصة، وما إلى ذلك.
 
-**LTV** (**L**ife-**T**ime **V**alue) is the total amount of money you expect to collect from a customer over their entire tenure. A simple version[^1] is `ARPU ✕ [expected months]` meaning the *average* number of months a customer sticks with you.
+**القيمة الدائمة** (**L**ife-**T**ime **V**alue) هي إجمالي المبلغ المالي الذي تتوقع تحصيله من العميل على مدار فترة خدمته بالكامل. الإصدار البسيط[^1] هو `ARPU ✕ [الأشهر المتوقعة]` ويعني *متوسط* عدد الأشهر التي يبقى فيها العميل معك.
 
-[^1]: The correct version also includes multiplying by Gross Profit Margin, i.e. the cost to serve customers, which for SaaS is tech support, server infrastructure, and payment fees. You should include this for a more accurate calculation; small bootstrapped companies often have very high GPMs, so ignoring it for this back-of-the-envelop calculation was simpler.
+[^1]: يتضمن الإصدار الصحيح أيضًا الضرب بإجمالي هامش الربح، أي تكلفة خدمة العملاء، والتي بالنسبة لـ SaaS هي الدعم الفني والبنية التحتية للخادم ورسوم الدفع. يجب عليك تضمين هذا لحساب أكثر دقة؛ غالبًا ما يكون لدى الشركات الصغيرة التي تعتمد على التمويل GPM نسبة عالية جدًا، لذلك كان تجاهلها لإجراء هذه الحسابات الأولية أمرًا أبسط.
 
-Some customers cancel in one month, some cancel in a year, some in five years, and some never cancel! So it can be difficult to compute LTV accurately for small companies, and impossible to know for young companies (where five years hasn't elapsed yet to see how many customer stuck it out that long). These are among the reasons that I [dislike the LTV metric](https://longform.asmartbear.com/ltv/), but it's common to use it in this context.
+يقوم بعض العملاء بالإلغاء خلال شهر واحد، والبعض الآخر خلال عام، والبعض الآخر خلال خمس سنوات، والبعض الآخر لا يتم الإلغاء أبدًا! لذلك قد يكون من الصعب حساب القيمة الدائمة بدقة للشركات الصغيرة، ومن المستحيل معرفتها بالنسبة للشركات الناشئة (حيث لم تنقضي خمس سنوات حتى الآن لمعرفة عدد العملاء الذين تمسكوا بها لفترة طويلة). هذه من بين الأسباب التي جعلتني [لا أحب مقياس القيمة الدائمة](https://longform.asmartbear.com/ltv/)، ولكن من الشائع استخدامه في هذا السياق.
 
-If you do have data, the simplistic calculation is `[expected months] = 1/c` where `c` is your monthly cancellation rate.
+إذا كانت لديك بيانات، فإن الحساب المبسط هو `[الأشهر المتوقعة] = 1/c` حيث `c` هو معدل الإلغاء الشهري.
 
-But since you don't, in my experience (and in a non-scientific survey of some of the 100 startups currently officed at the fabulously [Capital Factory co-working space](https://capitalfactory.com/) in Austin), a good **pre-data rule of thumb is 20 months**.
+ولكن نظرًا لأنك لا تفعل ذلك، فمن خلال تجربتي (وفي استطلاع غير علمي لبعض الشركات الناشئة المائة التي تعمل حاليًا في [مساحة العمل المشترك في Capital Factory] (https://capitalfactory.com/) في أوستن)، فإن **القاعدة الأساسية للبيانات المسبقة هي 20 شهرًا**.
 
-If you have an average customer lifetime smaller than 20 months (i.e. cancellation rate higher than 5%/mo), that's a [dangerously high cancellation rate](https://longform.asmartbear.com/product-market-fit/) for almost any SaaS business, and you need to focus on [addressing the business issues](https://longform.asmartbear.com/growth-asymptote/) before acquiring more unsatisfied customers. Use surveys and one-on-ones to try to understand whether it's technical failings, lack of features, missed expectations, bad service, doesn't hit pain points, or what.
+إذا كان لديك متوسط عمر العميل أقل من 20 شهرًا (أي معدل إلغاء أعلى من 5% شهريًا)، فهذا [معدل إلغاء مرتفع بشكل خطير](https://longform.asmartbear.com/product-market-fit/) لأي نشاط تجاري SaaS تقريبًا، وتحتاج إلى التركيز على [معالجة مشكلات النشاط التجاري](https://longform.asmartbear.com/growth-asymptote/) قبل الحصول على المزيد العملاء غير الراضين. استخدم الاستطلاعات والاجتماعات الفردية لمحاولة فهم ما إذا كان الأمر يتعلق بإخفاقات فنية، أو نقص الميزات، أو التوقعات المفقودة، أو الخدمة السيئة، أو عدم وجود نقاط ضعف، أو ماذا.
 
-A healthy SaaS company will have a higher number of expected months, but at the start you also will have lots of mis-steps with weird early-adopters and non-[ICPs](https://longform.asmartbear.com/icp-ideal-customer-persona/) where your product is at its worst--least features, least quality, etc--so it's good to assume a low LTV instead of inflating it to where it might be in future.
+سيكون لدى شركة SaaS السليمة عدد أكبر من الأشهر المتوقعة، ولكن في البداية سيكون لديك أيضًا الكثير من الخطوات الخاطئة مع المتبنين الأوائل الغريبين وغير [ICPs](https://longform.asmartbear.com/icp-ideal-customer-persona/) حيث يكون منتجك في أسوأ حالاته - أقل الميزات، وأقل جودة، وما إلى ذلك - لذلك من الجيد افتراض قيمة LTV منخفضة بدلاً من تضخيمها إلى حيث قد تكون في المستقبل.
 
-## CAC = LTV / 5
+## CAC = القيمة الدائمة / 5
 
-**CAC** (**C**ost to **A**cquire a **C**ustomer) is your *average* total cost to get a new customer, which includes direct costs (AdWords spend, affiliate payouts, the fees your affiliate system charges to process them) and indirect costs (consultants and your own time). So to compute CAC, take your total costs to acquire new customers and divide by the number of customers you acquired.
+**CAC** (**C**ost to **A**cquire a **C**ustomer) هو *متوسط* التكلفة الإجمالية للحصول على عميل جديد، والتي تشمل التكاليف المباشرة (إنفاق AdWords، وعوائد الشركاء التابعين، والرسوم التي يتقاضاها نظام الشركاء التابعين لمعالجتها) والتكاليف غير المباشرة (الاستشاريون ووقتك الخاص). لذا، لحساب CAC، خذ إجمالي تكاليفك لاكتساب عملاء جدد وقسمها على عدد العملاء الذين اكتسبتهم.
 
-In general of course CAC needs to be less than LTV, otherwise it costs so much to get the customer that you will never make money. **A surprising number of startups have CAC > LTV.** Many justify this either by not correctly computing CAC (e.g. ignoring indirect costs) or saying they'll "fix that later" by raising prices or finding other channels of revenue. Others justify by saying they're doing a "land-grab" for customers, and just having a customer at all has intrinsic value.
+بشكل عام، بالطبع، يجب أن تكون تكلفة تكلفة العميل (CAC) أقل من القيمة الدائمة (LTV)، وإلا فإن الحصول على العميل يكلف الكثير ولن تتمكن أبدًا من كسب المال. ** هناك عدد مذهل من الشركات الناشئة لديها CAC > LTV. ** يبرر الكثيرون ذلك إما بعدم حساب CAC بشكل صحيح (على سبيل المثال، تجاهل التكاليف غير المباشرة) أو بالقول إنهم "سيصلحون ذلك لاحقًا" عن طريق رفع الأسعار أو إيجاد قنوات أخرى للإيرادات. ويبرر آخرون ذلك بالقول إنهم يقومون "بالاستيلاء على الأراضي" لصالح العملاء، وأن مجرد وجود عميل له قيمة جوهرية.
 
-Profit-seeking bootstrapped companies cannot afford those delusions. Also you need something far stronger than CAC = LTV, because you need to pay for other business expenses and still produce a profit. So how big can CAC be before it's "too big?"
+ولا تستطيع الشركات التي تسعى إلى تحقيق الربح أن تتحمل هذه الأوهام. كما أنك تحتاج إلى شيء أقوى بكثير من CAC = LTV، لأنك تحتاج إلى دفع نفقات أعمال أخرى ولا تزال تحقق ربحًا. إذن، إلى أي مدى يمكن أن يصل حجم CAC قبل أن يصبح "كبيرًا جدًا؟"
 
-Growing, funded SaaS companies who treat CAC with respect often commonly target `CAC = LTV / 3`.
+غالبًا ما تستهدف شركات SaaS المتنامية والممولة التي تتعامل مع CAC باحترام `CAC = LTV / 3`.
 
-Back at my second startup IT WatchDogs, my co-founder Gerry Cullen used to say "A third to built it, a third to get rid of it, and a third to keep," meaning a third of revenue goes to pay for hardware/inventory/shipping costs of the sale, a third goes to what I'm calling "CAC" here, and a third for the overhead costs, development costs, and profit.
+بالعودة إلى شركتي الناشئة الثانية IT WatchDogs، اعتاد الشريك المؤسس جيري كولين أن يقول "ثلث لبناء الشركة، وثلث للتخلص منها، وثلث للاحتفاظ بها"، مما يعني أن ثلث الإيرادات يذهب لدفع تكاليف الأجهزة/المخزون/الشحن للبيع، ويذهب الثلث إلى ما أسميه "CAC" هنا، والثلث للتكاليف العامة وتكاليف التطوير والأرباح.
 
-That's a good model, and I think a bootstrapped company can copy it, but I urge profit-seekers to instead adopt an even more strict model of CAC = LTV / 5. The reason is that [at the start you should be able to find](https://longform.asmartbear.com/low-budget-marketing/) a few efficient ways of acquiring customers, even if those [get saturated over time](https://longform.asmartbear.com/exponential-growth/).
+هذا نموذج جيد، وأعتقد أن الشركة التي تم تمهيدها يمكنها تقليده، لكنني أحث الباحثين عن الربح على اعتماد نموذج أكثر صرامة لـ CAC = LTV / 5. والسبب هو أنه [في البداية يجب أن تكون قادرًا على العثور على](https://longform.asmartbear.com/low-budget-marketing/) بعض الطرق الفعالة لاكتساب العملاء، حتى لو [تشبعوا الوقت](https://longform.asmartbear.com/exponential-growth/).
 
-## CAC = ARPU x 4
+## CAC = ARPU × 4
 
-If you combine the previous two results, you see that the cost to acquire a customer should be no more than four months of revenue.
+إذا قمت بدمج النتيجتين السابقتين، ترى أن تكلفة اكتساب العميل يجب ألا تزيد عن أربعة أشهر من الإيرادات.
 
-Another good way to think about it is: "The payback-period for my cost to acquire a customer is four months." Also, ideally you're [getting the first month of revenue back immediately](https://longform.asmartbear.com/annual-prepay/), so it's really three months of cash-float.
+هناك طريقة أخرى جيدة للتفكير في الأمر وهي: "فترة الاسترداد لتكلفة اكتساب العميل هي أربعة أشهر." ومن الناحية المثالية أيضًا، يمكنك [استرداد إيرادات الشهر الأول على الفور](https://longform.asmartbear.com/annual-prepay/)، لذا فهي حقًا ثلاثة أشهر من التعويم النقدي.
 
-Companies with large budgets to deploy at scale will often be happy with 12 month payback periods; some very high volume businesses like shared hosting will accept 24 or 36 months! But a bootstrapped company's cash-flow won't allow it, even if the math would work in the long run.
+غالبًا ما تكون الشركات التي لديها ميزانيات كبيرة للنشر على نطاق واسع سعيدة بفترات استرداد مدتها 12 شهرًا؛ بعض الشركات ذات الحجم الكبير جدًا مثل الاستضافة المشتركة ستقبل 24 أو 36 شهرًا! لكن التدفق النقدي للشركة التي تعاني من نقص التمويل لن يسمح بذلك، حتى لو نجحت الحسابات على المدى الطويل.
 
-## Conversion Rate = 1%
+## معدل التحويل = 1%
 
-**Conversion Rate** is the percentage of visitors to your website who convert to a *paying* customer.
+**معدل التحويل** هو النسبة المئوية لزوار موقعك على الويب الذين تحولوا إلى عميل *يدفع*.
 
-This is another step which in practice should be completely data-driven, segmented by customer type and marketing channel, segmented by landing page, [A/B tested](https://longform.asmartbear.com/p-hacking/) and iterated, blah blah blah. But since you don't have data, and you don't have enough visitors to have real ratios, you have to take a swag at this number.
+هذه خطوة أخرى يجب أن تكون من الناحية العملية قائمة على البيانات بالكامل، ومقسمة حسب نوع العميل وقناة التسويق، ومقسمة حسب الصفحة المقصودة، [اختبار A/B](https://longform.asmartbear.com/p-hacking/) وتكرارها، بلاه بلاه. ولكن بما أنه ليس لديك بيانات، وليس لديك ما يكفي من الزوار للحصول على نسب حقيقية، فيجب عليك أن تغتنم هذا الرقم.
 
-In that same [informal survey I ran](https://longform.asmartbear.com/problem/), and bolstered by other [formal surveys](https://successfulsoftware.net/2009/04/23/the-truth-about-conversion-ratios-for-software/), a huge number of bootstrapped SaaS companies report a 1% conversion rate.
+في نفس [الاستطلاع غير الرسمي الذي أجريته](https://longform.asmartbear.com/problem/)، وبدعم من [الاستطلاعات الرسمية] الأخرى (https://successfulsoftware.net/2009/04/23/the-truth-about-conversion-ratios-for-software/)، أبلغ عدد كبير من شركات SaaS التي تم تشغيلها عن معدل تحويل بنسبة 1%.
 
-Another way of saying the same thing is **"You need 100 visitors to make 1 sale."**
+هناك طريقة أخرى لقول الشيء نفسه وهي **"تحتاج إلى 100 زائر لإجراء عملية بيع واحدة."**
 
-And since you need to incur no more than **CAC** dollars in the making of that sale, you need to incur no more than **CAC/100** dollars in the making of each of those visitors.
+وبما أنك لا تحتاج إلى تحمل أكثر من **CAC** دولار في إجراء هذا البيع، فإنك لا تحتاج إلى تحمل أكثر من **CAC/100** دولار في إجراء كل من هؤلاء الزوار.
 
-And if you're running a CPC campaign, that means you can pay up to CAC/100 dollars per click.
+وإذا كنت تدير حملة تكلفة النقرة، فهذا يعني أنه يمكنك دفع ما يصل إلى CAC/100 دولار لكل نقرة.
 
-And since CAC is ARPU x 4, we can substitute and get the end result:
+وبما أن CAC يساوي ARPU x 4، فيمكننا التعويض والحصول على النتيجة النهائية:
 
-## CPC = ARPU / 25
+## تكلفة النقرة = متوسط ​​الدخل لكل مستخدم / 25
 
-So for example if your average customer generates $50/mo, you can spend $2/click.
+لذلك، على سبيل المثال، إذا كان عميلك العادي يحقق 50 دولارًا شهريًا، فيمكنك إنفاق 2 دولار لكل نقرة.
 
-Indeed, this is a great way to prove one of my main arguments for all bootstrapped companies, which is that **you should charge a lot more than you think**, in part because it enables you to pay quite a lot per click, which enables a wide number of marketing channels, and out-bidding parsimonious competitors whose paltry LTVs preclude them from competitive marketing spend.
+في الواقع، هذه طريقة رائعة لإثبات إحدى حججي الرئيسية لجميع الشركات التي تعتمد على التمويل، وهي **يجب أن تتقاضى رسومًا أكثر بكثير مما تعتقد**، ويرجع ذلك جزئيًا إلى أنها تمكنك من دفع الكثير مقابل كل نقرة، وهو ما يمكّن عددًا كبيرًا من قنوات التسويق، ومزايدة المنافسين البخلين الذين تمنعهم تكاليفهم الدائمة التافهة من الإنفاق التسويقي التنافسي.
 
-## Customized
+## حسب الطلب
 
-"But my numbers are different!" Of course, but now you have a formula you can plug them into, to arrive at the answer:
+"لكن أرقامي مختلفة!" بالطبع، ولكن الآن لديك صيغة يمكنك توصيلها للوصول إلى الإجابة:
 
-$$\text{CPC} = (\text{ARPU})\frac{r}{5c}$$
+$$\text {CPC} = (\text {ARPU})\frac {r}{5c}$$
 
-Where:
+أين:
 
-* $c =$ monthly cancellation rate
-* $r =$ visitor → purchase conversion rate from the paid marketing source in question
+* $c =$ معدل الإلغاء الشهري
+* $r =$ زائر → معدل تحويل الشراء من مصدر التسويق المدفوع المعني

@@ -20,106 +20,93 @@ summary_ar: "I remember \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** لسنا شركة ثورية تقلب الموازين، وفخورون بذلك تماماً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Not disruptive, and proud of it
-
-> **Executive Summary:** I remember "disruptive" when it was called a "paradigm shift." You should be worrying more about making something people want to buy, and less about disrupting everything.
-> **Original URL:** [https://longform.asmartbear.com/disruptive/](https://longform.asmartbear.com/disruptive/)
-
-The phrase "paradigm shift" died during the 2000s tech-bubble along with "portal" and "think outside the box," and yet the underlying concept never died. For the past ten years it's been called "being disruptive."
+لقد ماتت عبارة "التحول النموذجي" خلال فقاعة التكنولوجيا في العقد الأول من القرن الحادي والعشرين، جنبًا إلى جنب مع "البوابة" و"التفكير خارج الصندوق"، ومع ذلك فإن المفهوم الأساسي لم يمت أبدًا. على مدى السنوات العشر الماضية كان يطلق عليه "التخريبية".
 
 ![whats that boy paradigm shift](https://public.asmartbear.com/books/anthology/chapters/disruptive/d5038print-simple.png)
 
-When I get pitched--usually by someone raising money--that they "have something disruptive," a little part of me dies. You should be worrying about making something [useful](https://longform.asmartbear.com/problem/) and [delightful](https://longform.asmartbear.com/willingness-to-pay/), not about how "disruptive" you can be.
+عندما يتم الترويج لي - عادةً من قبل شخص يجمع المال - بأن "لديهم شيئًا مدمرًا"، يموت جزء صغير مني. يجب أن تقلق بشأن إنشاء شيء [مفيد](https://longform.asmartbear.com/problem/) و[مبهج](https://longform.asmartbear.com/willingness-to-pay/)، وليس بشأن مدى "التخريب" الذي يمكن أن تكون عليه.
 
-Disruption is occasionally a consequence of innovation, but when it becomes your primary purpose, you've lost sight of why you should be doing any of this in the first place.
+أحيانًا يكون الاضطراب نتيجة للابتكار، ولكن عندما يصبح هدفك الأساسي، فقد فقدت رؤيتك لماذا يجب عليك القيام بأي من هذا في المقام الأول.
 
-"Disruptive" is the in-vogue word for the opposite of "incremental improvement." A disruptive product causes such a large market shift that entire companies collapse (the "dinosaurs" who don't "get it") and new markets appear.
+"التخريبية" هي الكلمة الشائعة التي تعني عكس "التحسين التدريجي". يتسبب المنتج المدمر في حدوث تحول كبير في السوق يؤدي إلى انهيار شركات بأكملها ("الديناصورات" التي "لا تفهمها") وتظهر أسواق جديدة.
 
-Disruptive is fascinating, disruptive changes the world, disruptive makes us think. Disruptive also [sometimes](https://longform.asmartbear.com/ai-startups/) generates billions of dollars, which is why venture capitalists have always loved it and always will (and they're not wrong, given their goals).
+التخريب أمر رائع، التخريب يغير العالم، التخريب يجعلنا نفكر. كما أن التعطيل يدر [أحيانًا](https://longform.asmartbear.com/ai-startups/) مليارات الدولارات، ولهذا السبب أحبه أصحاب رأس المال المغامر دائمًا وسيحبونه دائمًا (وهم ليسوا مخطئين، نظرًا لأهدافهم).
 
-But disruptive is rare and usually expensive. It's hard to think of disruptive technologies or products that didn't require hundreds millions or even billions of dollars of investment, spending ahead of revenue. Most of us don't have access to those resources, and many of us don't care, because we'd rather work on an idea we actually understand and can build ourselves, an idea that might make us a living, that [people want and need](https://longform.asmartbear.com/needs-stack/), maybe even something [people love](https://longform.asmartbear.com/willingness-to-pay/).
+لكن التخريب نادر وعادة ما يكون مكلفًا. من الصعب التفكير في التقنيات أو المنتجات الثورية التي لا تتطلب استثمار مئات الملايين أو حتى مليارات الدولارات، والإنفاق قبل الإيرادات. لا يستطيع معظمنا الوصول إلى هذه الموارد، والكثير منا لا يهتم، لأننا نفضل العمل على فكرة نفهمها بالفعل ويمكننا أن نبنيها بأنفسنا، فكرة قد تكسبنا لقمة العيش، والتي [يريدها الناس ويحتاجونها](https://longform.asmartbear.com/needs-stack/)، وربما حتى شيء [يحبه الناس](https://longform.asmartbear.com/willingness-to-pay/).
 
-**There's nothing wrong with incremental improvement.** What's wrong with doing something interesting, useful, new, but not transcendental? What's wrong with taking a [known problem in a known market](https://longform.asmartbear.com/problem/) and just doing it better or with a [fresh, unique perspective](https://longform.asmartbear.com/leverage/)? Do you have you create a new market and turn everyone's assumptions upside down to be successful? **Should you?**
+**ليس هناك خطأ في التحسين التدريجي.** ما الخطأ في القيام بشيء مثير للاهتمام، ومفيد، وجديد، ولكن ليس متعاليًا؟ ما الخطأ في التعامل مع [مشكلة معروفة في سوق معروفة](https://longform.asmartbear.com/problem/) والقيام بذلك بشكل أفضل أو من خلال [منظور جديد وفريد](https://longform.asmartbear.com/leverage/)؟ هل قمت بإنشاء سوق جديد وقلب افتراضات الجميع رأساً على عقب لتكون ناجحاً؟ **هل يجب عليك؟**
 
-I'm not so sure. This is the argument against disruption.
+لست متأكدا من ذلك. هذه هي الحجة ضد التعطيل.
 
-## It's hard to explain the benefits of disruption
+## من الصعب شرح فوائد التعطيل
 
-Have you tried to explain Twitter someone?[^1] Not the "140 characters" part--the part about why it's a fundamental shift in how you meet and interact with people?
+هل حاولت شرح تويتر لشخص ما؟[^1] ليس الجزء "140 حرفًا" - الجزء الذي يتحدث عن سبب كونه تحولًا أساسيًا في كيفية الالتقاء بالأشخاص والتفاعل معهم؟
 
-[^1]: _Editor's Note:_ This was written in 2010, when Twitter was still relatively new. In retrospect, the point was correct--the vast majority of people who eventually got obsessed with social media, didn't get obsessed with Twitter.
+[^1]: _ملاحظة المحرر:_ تمت كتابة هذا في عام 2010، عندما كان تويتر لا يزال جديدًا نسبيًا. إذا نظرنا إلى الماضي، كانت النقطة صحيحة - الغالبية العظمى من الأشخاص الذين أصبحوا في نهاية المطاف مهووسين بوسائل التواصل الاجتماعي، لم يصبحوا مهووسين بتويتر.
 
-Hasn't the listener always responded by saying, "I don't need to know what everyone had for lunch. Who cares? What's next, 'I'm taking a dump?'" They don't get it, right? But it's hard to explain.
+ألم يستجيب المستمع دائمًا بالقول: "لست بحاجة إلى معرفة ما تناوله الجميع على الغداء. من يهتم؟ ما هي الخطوة التالية، "سأتخلص من نفاياتي؟"" إنهم لا يفهمون الأمر، أليس كذلك؟ ولكن من الصعب أن أشرح.
 
-There *are* ways to elucidate the utility of Twitter, but even the good ones are lengthy and require that listeners have patience and open minds--two attributes in short supply.
+هناك *طرق* لتوضيح فائدة تويتر، ولكن حتى الطرق الجيدة تكون طويلة وتتطلب أن يتحلى المستمعون بالصبر والعقول المنفتحة - وهما سمتان غير متوفرتين.
 
-**"It's hard to explain" means it's a terrible sales pitch.** "You just need to try it" and "trust me" don't cut it. That may be OK for Twitter--today--but what about the 100 other social-networking-slash-link-sharing networks that didn't survive? Ask them about selling intangible benefits.
+** "من الصعب الشرح" تعني أنها فكرة مبيعات سيئة. ** "أنت فقط بحاجة إلى تجربتها" و"ثق بي" لا تقطعها. قد يكون هذا أمرًا جيدًا بالنسبة لتويتر - اليوم - ولكن ماذا عن 100 شبكة أخرى من شبكات التواصل الاجتماعي التي تعتمد على قطع الروابط التي لم تتمكن من البقاء؟ اسألهم عن بيع المنافع غير الملموسة.
 
-## People don't want to be disrupted.
+## الناس لا يريدون أن يتعطلوا.
 
-If you're reading this you're probably more open to new ideas and new products than most, because you're inventing a new product, starting a company, or you're just ruffled because I'm pissing on "disruptive" and you're looking for nit-picky things to argue with me about. (Hi Hackernews comment section!)
+إذا كنت تقرأ هذا، فمن المحتمل أنك أكثر انفتاحًا على الأفكار الجديدة والمنتجات الجديدة من معظم الأشخاص، لأنك تخترع منتجًا جديدًا، أو تبدأ شركة، أو تشعر بالانزعاج لأنني أتبول على "التخريبية" وأنت تبحث عن أشياء غير دقيقة لتتجادل معي بشأنها. (مرحبًا قسم التعليقات في Hackernews!)
 
-But most people are creatures of habit. **They don't want their lives turned upside down.** They launch into a tirade of obscenities if you just rearrange their toolbar. When they hear about a new social media craze they cringe in agony, desperately hoping it's a passing fad and not another new goddamn thing they'll be aimlessly paddling around in for the next decade (Figure 1).
+ولكن معظم الناس هم مخلوقات العادة. **إنهم لا يريدون أن تنقلب حياتهم رأسًا على عقب.** يطلقون سلسلة من الكلمات البذيئة إذا قمت فقط بإعادة ترتيب شريط الأدوات الخاص بهم. عندما يسمعون عن جنون وسائل التواصل الاجتماعي الجديدة، فإنهم ينكمشون من الألم، ويأملون بشدة أن تكون موضة عابرة وليست شيئًا جديدًا لعينًا سوف يجدفون فيه بلا هدف خلال العقد القادم (الشكل 1).
 
 ![complaining about a new software update](https://public.asmartbear.com/books/anthology/chapters/disruptive/image-simple.png)
 
-[Change is hard](https://longform.asmartbear.com/change/), so a person has to be experiencing real pain to want to change. Selling a point-solution for a point-problem is easier than getting people to change how they live their lives. Identifying specific pain points and explaining how your software addresses those is easier than trying to tap into a general malaise and promising a better world.
+[التغيير صعب](https://longform.asmartbear.com/change/)، لذلك يجب على الشخص أن يعاني من ألم حقيقي حتى يرغب في التغيير. إن بيع حل نقطي لمشكلة نقطية أسهل من إقناع الناس بتغيير الطريقة التي يعيشون بها حياتهم. يعد تحديد نقاط الألم المحددة وشرح كيفية معالجة برنامجك لها أسهل من محاولة الاستفادة من الضيق العام والوعد بعالم أفضل.
 
-## Technology we now consider "disruptive" often wasn't conceived that way.
+## التكنولوجيا التي نعتبرها الآن "مدمرة" لم يتم تصورها بهذه الطريقة في كثير من الأحيان.
 
-Google was something like the 11th major search engine, [not the first](https://longform.asmartbear.com/first-competitive-advantage/). Their technology proved superior, but "a better search engine" was hardly a new idea. In retrospect we say that Google transformed how people find information, and further, how advertising works on the internet.
+لقد كان Google بمثابة محرك البحث الرئيسي الحادي عشر، [وليس الأول](https://longform.asmartbear.com/first-competitive-advantage/). أثبتت تقنيتهم ​​تفوقها، لكن "محرك بحث أفضل" لم يكن فكرة جديدة. إذا نظرنا إلى الماضي، نقول إن جوجل أحدثت تحولًا في كيفية عثور الأشخاص على المعلومات، وكذلك في كيفية عمل الإعلانات على الإنترنت.
 
-Disruptive in hindsight, sure, **but the genesis was just "better"** than the 10 search engines that came before. ([Or 18](https://www.seoconsultants.com/search-engines/history/).)
+من المؤكد أنه كان مزعجًا بعد فوات الأوان، ** لكن التكوين كان "أفضل" فقط ** من محركات البحث العشرة التي جاءت من قبل. ([أو 18](https://www.seoconsultants.com/search-engines/history/).)
 
-[Scott Berkun](https://www.scottberkun.com/) gives several other examples in a recent BusinessWeek article.[^2] He highlights the iPod--an awesome device, but not the first of its kind. Rather, there were a bunch of crappy devices that sold well enough to prove there was a market, but no clear winners. Here an innovation *in design alone* was enough to win the market. Not inventing new markets, not innovative features, not even improving on existing features like sound quality or battery life--just a better design, unconcerned about "disrupting" everything else.
+[سكوت بيركون](https://www.scottberkun.com/) يقدم عدة أمثلة أخرى في مقال نشر مؤخرًا في BusinessWeek.[^2] يسلط الضوء على جهاز iPod - وهو جهاز رائع، ولكنه ليس الأول من نوعه. بدلاً من ذلك، كانت هناك مجموعة من الأجهزة الرديئة التي تم بيعها بشكل جيد بما يكفي لإثبات وجود سوق، ولكن لم يكن هناك فائزون واضحون. وهنا كان الابتكار *في التصميم وحده* كافيًا للفوز بالسوق. عدم اختراع أسواق جديدة، أو ميزات مبتكرة، أو حتى تحسين الميزات الموجودة مثل جودة الصوت أو عمر البطارية - مجرد تصميم أفضل، غير مهتم بـ "تعطيل" كل شيء آخر.
 
-[^2]: It has since been taken down; the perils of writing for decades on the internet.
+[^2]: تمت إزالته منذ ذلك الحين؛ مخاطر الكتابة لعقود من الزمن على شبكة الإنترنت.
 
-Setting your sights on being disruptive isn't how quality, sustainable companies are built. [Disruption, like expertise, is a side-effect of great success](https://longform.asmartbear.com/expert-distraction/), not a goal unto itself.
+إن وضع رؤيتك على أن تكون مبتكرًا ليس هو الطريقة التي يتم بها بناء الشركات المستدامة ذات الجودة. [إن التغيير الجذري، مثل الخبرة، هو أحد الآثار الجانبية للنجاح الكبير](https://longform.asmartbear.com/expert-distraction/)، وليس هدفًا في حد ذاته.
 
-## The disruptors often don't make the money.
+## في كثير من الأحيان لا يحصل المعطلون على المال.
 
-The construction of high-speed internet fiber backbones and extravagant data centers fundamentally changed how business is conducted world-wide both between businesses and consumers, but many of the companies who built that system went bankrupt during the 2000 tech bubble, and those who managed to survive have still not recovered the cost of that infrastructure. They were the disruptors, but they didn't profit from the disruption.
+لقد أدى إنشاء شبكات ألياف الإنترنت عالية السرعة ومراكز البيانات الباهظة إلى تغيير جذري في كيفية إدارة الأعمال في جميع أنحاء العالم بين الشركات والمستهلكين، لكن العديد من الشركات التي قامت ببناء هذا النظام أفلست خلال فقاعة التكنولوجيا عام 2000، وأولئك الذين تمكنوا من البقاء على قيد الحياة لم يستردوا بعد تكلفة تلك البنية التحتية. لقد كانوا هم المعطلون، لكنهم لم يستفيدوا من التعطيل.
 
-Disruptive technology often comes from research groups commissioned to produce innovative ideas but unable to capitalize on them. Xerox PARC invented the fax machine, the mouse, Ethernet, laser printers, and the concept of a "windowing" user interface, but made no money on the inventions. AT&T Bell Labs invented Unix, the C programming language, wireless Ethernet, and the laser, but made no money on the inventions.
+غالبًا ما تأتي التكنولوجيا الثورية من مجموعات بحثية مكلفة بإنتاج أفكار مبتكرة ولكنها غير قادرة على الاستفادة منها. اخترعت Xerox PARC جهاز الفاكس، والفأرة، والإيثرنت، وطابعات الليزر، ومفهوم واجهة المستخدم "النافذة"، لكنها لم تجني أي أموال من هذه الاختراعات. اخترعت شركة AT&T Bell Labs نظام Unix، ولغة البرمجة C، والإيثرنت اللاسلكي، والليزر، لكنها لم تجني أي أموال من هذه الاختراعات.
 
-Is it because disruptors are "before their time," able to create but not able to hold out long enough for others to appreciate the innovation? Is it because innovation and business sense are decoupled? Is it because "version 1" of anything is inferior to "version 3," and by the time the innovator makes it to version 2 there are new competitors--competitors who don't bear the expense of having invented version 1, who have silently observed the failures of version 1, and can now jump right to version 3?
+هل يرجع ذلك إلى أن المعطلين "قبل وقتهم"، قادرون على الإبداع ولكنهم غير قادرين على الصمود لفترة كافية حتى يقدر الآخرون الابتكار؟ هل هذا بسبب الانفصال بين الابتكار والحس التجاري؟ هل يرجع ذلك إلى أن "الإصدار 1" من أي شيء أدنى من "الإصدار 3"، وبحلول الوقت الذي يصل فيه المبتكر إلى الإصدار 2، يكون هناك منافسون جدد - منافسون لا يتحملون تكلفة اختراع الإصدار 1، والذين لاحظوا بصمت فشل الإصدار 1، ويمكنهم الآن القفز مباشرة إلى الإصدار 3؟
 
-"Why" is an interesting question, but the bottom line is clear: Disruption is often unprofitable.
+"لماذا" هو سؤال مثير للاهتمام، ولكن خلاصة القول واضحة: التعطيل غالبا ما يكون غير مربح.
 
-## Simple, modest goals are most likely to succeed and make us happy.
+## من المرجح أن تنجح الأهداف البسيطة والمتواضعة وتجعلنا سعداء.
 
-It's not "aiming low" to attempt modest success.
+إنها ليست "تهدف إلى مستوى منخفض" لمحاولة تحقيق نجاح متواضع.
 
-It's not failure if you "just" make a nice living for yourself. Changing the world is noble, but you're more likely to change it if you don't try to change everything at once.
+إنه ليس فشلًا إذا كنت "فقط" تكسب عيشًا لطيفًا لنفسك. إن تغيير العالم هو أمر نبيل، ولكن من المرجح أن تغيره إذا لم تحاول تغيير كل شيء دفعة واحدة.
 
-[I made millions of dollars](https://longform.asmartbear.com/rich-vs-king-sold-company/) at Smart Bear with a product that took an existing practice (peer code review) and solved five specific pain points (annoyances and time-wasters). Sure it wasn't worth a hundred million dollars,[^3] and it didn't turn anyone's world inside-out, but it enjoys a nice place in the world and it is incredibly fulfilling to see people happier to do their jobs with our product than without it.
+[لقد ربحت ملايين الدولارات](https://longform.asmartbear.com/rich-vs-king-sold-company/) في Smart Bear باستخدام منتج اتبع ممارسة حالية (مراجعة كود الأقران) وحل خمس نقاط محددة (الإزعاجات ومضيعة الوقت). من المؤكد أنه لم يكن يساوي مائة مليون دولار،[^3] ولم يقلب عالم أي شخص رأسًا على عقب، لكنه يتمتع بمكانة لطيفة في العالم ومن الرائع للغاية أن نرى الناس أكثر سعادة للقيام بوظائفهم باستخدام منتجنا أكثر من عدمه.
 
-[^3]: Ten years after this was written, Smart Bear continued to grow and acquired other profitable, bootstrapped companies in the software-quality space, eventually being [sold for nearly $2B](https://www.pehub.com/vista-equity-invests-in-franciscos-smartbear-pushing-valuation-to-1-8bn-plus/?utm_source=longform.asmartbear.com&utm_campaign=longform.asmartbear.com&utm_medium=post). None of the products were "disruptive," but all were well-executed.
+[^3]: بعد مرور عشر سنوات على كتابة هذا المقال، واصلت شركة Smart Bear النمو واستحوذت على شركات أخرى مربحة ومحدودة في مجال جودة البرمجيات، وفي النهاية تم [بيعها مقابل ما يقرب من 2 مليار دولار](https://www.pehub.com/vista-equity-invests-in-franciscos-smartbear-pushing-valuation-to-1-8bn-plus/?utm_source=longform.asmartbear.com&utm_campaign=longform.asmartbear.com&utm_medium=post). لم يكن أي من المنتجات "مدمرًا"، ولكن تم تنفيذها جميعها بشكل جيد.
 
-Had I tried to fundamentally change how everyone writes software, I'm sure I would have failed.
+لو أنني حاولت تغيير الطريقة التي يكتب بها الجميع البرامج بشكل جذري، فأنا متأكد من أنني كنت سأفشل.
 
-I made less money personally at ITWatchDogs, but the company was profitable and sold for millions of dollars. We took a simple problem (when server rooms get hot, the gear fails) and provided a simple solution (thermometer with a web page that emails/pages you if it's too hot). There were many competitors, both huge (APC with $1.5 billion market cap), mid-sized (NetBotz with millions in revenue and funding), and small ($2M/year operations like us). We had something unique--an inexpensive product that still had 80% of the features of the competitors--but nothing disruptive.
+لقد كسبت أموالًا أقل شخصيًا في ITWatchDogs، لكن الشركة كانت مربحة وبيعت بملايين الدولارات. لقد تعاملنا مع مشكلة بسيطة (عندما تصبح غرف الخادم ساخنة، يتعطل الجهاز) وقدمنا ​​حلاً بسيطًا (مقياس حرارة مزود بصفحة ويب ترسل إليك بريدًا إلكترونيًا/ترسل إليك صفحات إذا كان الجو حارًا جدًا). كان هناك العديد من المنافسين، سواء كانوا ضخمين (APC بقيمة سوقية تبلغ 1.5 مليار دولار)، أو متوسطي الحجم (NetBotz مع إيرادات وتمويل بالملايين)، أو صغيرين (عمليات تبلغ مليوني دولار سنويًا مثلنا). كان لدينا شيء فريد من نوعه - منتج غير مكلف لا يزال يحتوي على 80% من ميزات المنافسين - ولكن لا يوجد شيء مدمر.
 
-Had we tried to fundamentally change how IT departments monitor server rooms, I'm sure we would have failed.
+لو حاولنا إجراء تغيير جذري على كيفية مراقبة أقسام تكنولوجيا المعلومات لغرف الخوادم، فأنا متأكد من أننا كنا سنفشل.
 
-**There's nothing wrong with modesty.** Modest in what you consider "success," and modest in what you're trying to achieve every day:
+**ليس هناك خطأ في التواضع.** متواضع فيما تعتبره "نجاحًا"، ومتواضعًا فيما تحاول تحقيقه كل يوم:
 
-> "My daughter convinced me that insisting something be Deeply Meaningful With Purpose can sometimes suck the joy from it."  
-> --[Kathy Sierra](https://en.wikipedia.org/wiki/Kathy_Sierra)
+> "لقد أقنعتني ابنتي بأن الإصرار على أن يكون شيء ما ذا معنى عميق وله هدف يمكن أن يمتص الفرحة منه في بعض الأحيان."
+> --[كاثي سييرا](https://en.wikipedia.org/wiki/Kathy_Sierra)
 
-Of course it's wonderful that disruptive products exist, improving life in quantum leaps. And it's not wrong to pursue such things!
+بالطبع من الرائع وجود منتجات مدمرة تعمل على تحسين الحياة بقفزات نوعية. وليس من الخطأ متابعة مثل هذه الأشياء!
 
-But neither is it wrong to have more modest goals, and modest goals are much more likely to be achieved.
+ولكن ليس من الخطأ أيضاً أن يكون لدينا أهداف أكثر تواضعاً، فالأهداف المتواضعة أكثر احتمالاً لتحقيقها.
 
 ---
 
-_Editor's Note from 2024: In the fifteen years since this was written, I started another company WP Engine, which is still growing and profitable at hundreds of millions of dollars in revenue, powering 2.5% of the largest websites in the world. It still wasn't because we wanted to "fundamentally change how website are created," but rather we saw how to dramatically improve something that people were already doing by the millions: Running WordPress sites. More of [its origin story is here](https://longform.asmartbear.com/product-market-fit-formula/)._
+_ملاحظة المحرر من عام 2024: في الخمسة عشر عامًا منذ كتابة هذا المقال، قمت بتأسيس شركة أخرى WP Engine، والتي لا تزال تنمو وتحقق أرباحًا بمئات الملايين من الدولارات من الإيرادات، وتعمل على تشغيل 2.5% من أكبر مواقع الويب في العالم. لم يكن السبب في ذلك هو أننا أردنا "تغيير طريقة إنشاء مواقع الويب بشكل أساسي"، بل رأينا كيفية تحسين شيء كان الناس يقومون به بالفعل بالملايين بشكل كبير: تشغيل مواقع WordPress. المزيد من [القصة الأصلية هنا](https://longform.asmartbear.com/product-market-fit-formula/)._

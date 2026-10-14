@@ -20,68 +20,55 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الأشياء النادرة تصبح مألوفة وشائعة مع التوسع الكبير تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Rare things become common at scale
-
-> **Executive Summary:** Software doesn't scale through architecture and automation alone. New, more difficult problems appear that didn't exist before, causing new downstream consequences.
-> **Original URL:** [https://longform.asmartbear.com/scale-rare/](https://longform.asmartbear.com/scale-rare/)
-
 ![idea not only grow piece of pie but expand into other pastries](https://public.asmartbear.com/books/anthology/chapters/scale-rare/d6497print-simple.png)
 
-Something interesting happens when you run more than 1,000 servers, as we do at WP Engine,[^1] powering hundreds of thousands of websites.
+يحدث شيء مثير للاهتمام عند تشغيل أكثر من 1000 خادم، كما نفعل في WP Engine،[^1] لتشغيل مئات الآلاف من مواقع الويب.
 
-[^1]: Editor's Note: As of 2024, this article is ten years old; we now run twenty times as many servers, and the lesson of this article continues to be accurate.
+[^1]: ملاحظة المحرر: اعتبارًا من عام 2024، يبلغ عمر هذه المقالة عشر سنوات؛ نحن الآن نقوم بتشغيل عدد أكبر من الخوادم بعشرين ضعفًا، ويظل الدرس المستفاد من هذه المقالة دقيقًا.
 
-Suppose that on average a server experiences one fatal failure every three years. The kernel panics (the Linux equivalent of the Blue Screen of Death), or both the main and redundant power supply fails, or some other rare event that causes outage. This isn't a quality issue--this is normal. This isn't something to "fix."
+لنفترض أن الخادم يواجه في المتوسط ​​فشلًا فادحًا كل ثلاث سنوات. ذعر النواة (المعادل Linux لشاشة الموت الزرقاء)، أو فشل كل من مصدر الطاقة الرئيسي والمتكرر، أو بعض الأحداث النادرة الأخرى التي تسبب انقطاع التيار الكهربائي. هذه ليست مشكلة جودة - هذا أمر طبيعي. هذا ليس شيئًا "لإصلاحه".
 
-> "*Windows NT crashed.* <br/> *I am the Blue Screen of Death.* <br/> *No one hears your screams.*"  
-> --Haiku [from FSF](https://www.gnu.org/fun/jokes/error-haiku.html)
+> "*تعطل Windows NT.* <br/> *أنا شاشة الموت الزرقاء.* <br/> *لا أحد يسمع صراخك.*"
+> --هايكو [من FSF](https://www.gnu.org/fun/jokes/error-haiku.html)
 
-But remember, we have 1,000 servers. Three years is about 1,000 days. So that means, on average, **every single day we have a fatal server error.**
+لكن تذكر أن لدينا 1000 خادم. ثلاث سنوات هي حوالي 1000 يوم. وهذا يعني، في المتوسط، **أننا نواجه كل يوم خطأً فادحًا في الخادم.**
 
-Not to mention 10 minor incidents with degraded performance, or a DDoS attack somewhere in the data center affecting our network traffic, or some other thing that sets pagers a-buzzing in our DevOps team and mobilizes our Customer Support team to notify and help customers.
+ناهيك عن 10 حوادث بسيطة ذات أداء متدهور، أو هجوم DDoS في مكان ما في مركز البيانات مما يؤثر على حركة مرور الشبكة لدينا، أو أي شيء آخر يثير اهتمام أجهزة الاستدعاء في فريق DevOps لدينا ويحشد فريق دعم العملاء لدينا لإخطار العملاء ومساعدتهم.
 
-"Well sure," you say, "that's normal as you grow. If you had just 10 servers and 100 customers, you'd have fewer problems and many fewer employees. Today you have more customers, more servers, and more employees. What's so hard about that?"
+تقول: "حسنًا بالتأكيد، هذا أمر طبيعي مع نموك. إذا كان لديك 10 خوادم و100 عميل فقط، فستواجه مشكلات أقل وعددًا أقل من الموظفين. اليوم لديك المزيد من العملاء، والمزيد من الخوادم، والمزيد من الموظفين. ما المشكلة في ذلك؟"
 
-The insight is that **scale causes rare events to become common.** Things happen with 2000 servers that you *never saw even once* with 50 servers, and things which used to happen once in a blue moon, where a shrug and a manual reboot every six months was in fact an appropriate "process," now happen every week, or even every day.
+الفكرة هي أن **الحجم يتسبب في شيوع الأحداث النادرة.** تحدث ​​أشياء مع 2000 خادم *لم تشاهدها ولو مرة واحدة* مع 50 خادمًا، والأشياء التي كانت تحدث مرة واحدة في الشهر الأزرق، حيث كانت الاستهزاء وإعادة التشغيل اليدوي كل ستة أشهر بمثابة "عملية" مناسبة في الواقع، وتحدث الآن كل أسبوع، أو حتى كل يوم.
 
-Things as rare as, well, you know...
+أشياء نادرة مثل، حسنًا، كما تعلم...
 
 ![boy what day huh](https://public.asmartbear.com/books/anthology/chapters/scale-rare/d6064print-simple.png)
 
-It's not only *problems* that morph with scale, but **your ability to handle problems**.
+ليست *المشاكل* فقط هي التي تتحول مع الحجم، ولكن أيضًا **قدرتك على التعامل مع المشكلات**.
 
-For example, a dozen minor and major events every day means 20-50 customers affected every day. Now consider what happens as we try to inform 50 customers. For some we won't have current email addresses, so they don't get notified. Some of *those* will notice the problem and create extra customer support load; at worst they'll post on Twitter about how their website was slow or offline today and WP Engine "didn't even know it." Then our social media team has to piece all this together, attempt to respond, maybe put together a special phone call with that customer, and so on. Those customers are also more likely to leave a bad review on some review site, compared with the 99.99% of customers who experience no such incident, but also had no reason to decide that "today is the day I will go to a review site and leave a good review."
+على سبيل المثال، عشرات الأحداث الصغيرة والكبيرة يوميًا تعني تأثر ما بين 20 إلى 50 عميلًا كل يوم. الآن فكر في ما يحدث عندما نحاول إبلاغ 50 عميلاً. بالنسبة للبعض، لن يكون لدينا عناوين بريد إلكتروني حالية، لذلك لا يتم إعلامهم. سيلاحظ بعض هؤلاء *المشكلة وسيقومون بإنشاء حمل إضافي لدعم العملاء؛ في أسوأ الأحوال، سينشرون على Twitter حول مدى بطء موقع الويب الخاص بهم أو عدم اتصاله بالإنترنت اليوم وأن WP Engine "لم يعرف ذلك حتى". ثم يتعين على فريق وسائل التواصل الاجتماعي لدينا تجميع كل هذا معًا، ومحاولة الرد، وربما إجراء مكالمة هاتفية خاصة مع هذا العميل، وما إلى ذلك. من المرجح أيضًا أن يترك هؤلاء العملاء تقييمًا سيئًا على بعض مواقع المراجعة، مقارنة بـ 99.99٪ من العملاء الذين لم يتعرضوا لمثل هذه الحادثة، ولكن ليس لديهم أيضًا سبب ليقرروا أن "اليوم هو اليوم الذي سأذهب فيه إلى موقع المراجعة وأترك ​​تعليقًا جيدًا".
 
-Or consider the scale-ramifications of on-boarding 1,000 new customers a month. In that case, it's likely that any given server issue will affect a customer who has only been with us for a month or two. Thus the issue causes a "bad first impression," which is harder to address than a customer who has been with us for three years and has built up a bank account of patience.
+أو فكر في حجم التداعيات المترتبة على انضمام 1000 عميل جديد شهريًا. في هذه الحالة، من المحتمل أن تؤثر أي مشكلة في الخادم على العميل الذي كان معنا لمدة شهر أو شهرين فقط. ومن ثم فإن هذه المشكلة تسبب "انطباعًا أوليًا سيئًا"، وهو أمر يصعب معالجته مقارنة بالعميل الذي كان معنا لمدة ثلاث سنوات وقام ببناء حساب مصرفي يتحلى بالصبر.
 
-So, rare things being common isn't just difficult from the operational side, but also when you try to handle those problems with customers or other downstream consequences, causing *much* more work to solve than when the company was small.
+لذا، فإن شيوع الأشياء النادرة لا يعد أمرًا صعبًا من الجانب التشغيلي فحسب، بل أيضًا عندما تحاول التعامل مع تلك المشكلات مع العملاء أو غيرها من العواقب النهائية، مما يتسبب في حل المزيد من العمل *الكثير* مما كانت عليه عندما كانت الشركة صغيرة.
 
-**The usual response to this is "automate everything."**
+**الرد المعتاد على هذا هو "أتمتة كل شيء."**
 
-As with most knee-jerk responses, there's truth in it, but it's not the whole story.
+كما هو الحال مع معظم الردود غير المحسوبة، هناك حقيقة في ذلك، لكنها ليست القصة بأكملها.
 
-Sure, without automated monitoring we'd be blind, and without automated problem-solving we'd be overwhelmed. So yes, "automate everything."
+بالتأكيد، بدون المراقبة الآلية سنصبح عميان، وبدون الحل الآلي للمشكلات سنكون مرهقين. لذا، نعم، "أتمتة كل شيء".
 
-But some things you can't automate. You can't "automate" a knowledgable, friendly customer support team. You can't "automate" responding to a complaint on social media. You can't "automate" the recruiting, training, rapport, culture, and downright *caring* of teams of human beings who are awake 24/7/365, with skills ranging from multi-tasking on support chat to communicating clearly and professionally over the phone to logging into servers and identifying and fixing issues as fast as (humanly?) possible.
+لكن بعض الأشياء لا يمكنك أتمتتها. لا يمكنك "أتمتة" فريق دعم العملاء الودود والمعروف. لا يمكنك "أتمتة" الرد على شكوى على وسائل التواصل الاجتماعي. لا يمكنك "أتمتة" عملية التوظيف والتدريب والتواصل والثقافة ورعاية فرق من البشر المستيقظين 24/7/365، بمهارات تتراوح من تعدد المهام في دردشة الدعم إلى التواصل بوضوح ومهنية عبر الهاتف إلى تسجيل الدخول إلى الخوادم وتحديد المشكلات وإصلاحها بأسرع ما يمكن (بشريًا؟).
 
-And you can't "automate" away the rare things, even the technical ones. By their nature they're difficult to define, hence difficult to monitor, and difficult to repair without the forensic skills of a human engineer.
+ولا يمكنك "أتمتة" الأشياء النادرة، حتى التقنية منها. بحكم طبيعتها، يصعب تحديدها، وبالتالي يصعب مراقبتها، ويصعب إصلاحها بدون مهارات الطب الشرعي التي يتمتع بها المهندس البشري.
 
-Does this mean all our customers have a worse experience? No, just the opposite. Any *one* customer of ours has *fewer* problems per year now than a year ago, because we're constantly improving our processes, automation, hardware, and human service. It's when you look across the entire company, and the non-linear additional effort it takes to not just improve the average experience, but to manage the worst-case experience, that you appreciate the difficulties.
+هل هذا يعني أن جميع عملائنا لديهم تجربة أسوأ؟ لا، العكس تماما. يعاني أي عميل *واحد* من عملائنا من مشكلات *أقل* سنويًا الآن عما كان عليه قبل عام مضى، لأننا نعمل باستمرار على تحسين عملياتنا وأتمتتنا وأجهزتنا وخدماتنا البشرية. عندما تنظر إلى الشركة بأكملها، والجهد الإضافي غير الخطي الذي يتطلبه ليس فقط تحسين متوسط ​​الخبرة، ولكن أيضًا لإدارة أسوأ تجربة، فإنك تقدر الصعوبات.
 
-This explains the common effect where people complain about a company every day on Twitter, yet you yourself have never had an issue with them. The paradox is solved by realizing that "rare things" means _you_ probably never experienced it, but at scale, _someone_ is experiencing it each day.
+وهذا ما يفسر التأثير الشائع عندما يشتكي الأشخاص من شركة ما كل يوم على تويتر، ولكنك لم تواجه مشكلة معهم أبدًا. يتم حل المفارقة من خلال إدراك أن "الأشياء النادرة" تعني أنك ربما لم تجربها أبدًا، ولكن على نطاق واسع، هناك شخص ما يختبرها كل يوم.
 
-Does that give high-scale companies like WP Engine an excuse to have problems? No way! In fact, if we're not constantly improving on all fronts, the scale will catch up and overtake us.
+هل هذا يعطي الشركات الكبرى مثل WP Engine ذريعة لوقوع المشاكل؟ مستحيل! في الواقع، إذا لم نقم بالتحسين المستمر على جميع الجبهات، فإن الميزان سوف يلحق بنا ويتفوق علينا.
 
-But for those of you in the earlier stages of your companies, when you project 5x growth against 5x costs (or only 3x the costs because you'll get cost-savings at scale), you're guessing low. When you show 5x growth in projections but don't budget for new hires in areas like security, technical automation, specialized customer service areas, and managers and executives who have trod this path before and come battle-hardened with play-books on how to tackle all this, you're heading for an ugly surprise.
+ولكن بالنسبة لأولئك منكم في المراحل المبكرة من شركاتكم، عندما تتوقعون نموًا بمقدار 5 أضعاف مقابل 5 أضعاف التكاليف (أو 3 أضعاف التكاليف فقط لأنك ستحصل على وفورات في التكاليف على نطاق واسع)، فإن تخمينك منخفض. عندما تظهر نموًا بمقدار 5 أضعاف في التوقعات ولكن لا تضع ميزانية للموظفين الجدد في مجالات مثل الأمن والأتمتة التقنية ومجالات خدمة العملاء المتخصصة والمديرين والمديرين التنفيذيين الذين سلكوا هذا المسار من قبل وأصبحوا متمرسين في المعارك مع كتب اللعب حول كيفية التعامل مع كل هذا، فأنت تتجه نحو مفاجأة قبيحة.
 
-And with high growth, the surprise appears quickly, and recovery means acting twice as fast again to claw out of the hole and then finally get ahead of it.
+ومع النمو المرتفع، تظهر المفاجأة بسرعة، والتعافي يعني العمل بسرعة مضاعفة مرة أخرى للخروج من الحفرة ثم المضي قدمًا في النهاية.
 
-[Scaling is hard](https://longform.asmartbear.com/scale/)!
+[القياس صعب](https://longform.asmartbear.com/scale/)!

@@ -20,58 +20,45 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كيف ترفع سعر منتجك 8 أضعاف بمجرد تغيير تموضعه الذهني تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# How repositioning a product allows you to 8x its price
-
-> **Executive Summary:** You can charge much more than you think, if you reposition your value-proposition. Here's how.
-> **Original URL:** [https://longform.asmartbear.com/more-value-not-save-money/](https://longform.asmartbear.com/more-value-not-save-money/)
-
 ![i like it but im looking for more of status symbol any way you can double price](https://public.asmartbear.com/books/anthology/chapters/more-value-not-save-money/d3220print-simple.png)
 
-Pricing is much more about positioning and perceived value than it is about cost-analysis and [unconvincing ROI calculators](https://longform.asmartbear.com/roi-selling/). Let's see how repositioning can result in a much higher price for the same product.
+Pricing is much more about positioning and perceived value than it is about cost-analysis and [unconvincing ROI calculators](https://longform.asmartbear.com/roi-selling/). دعونا نرى كيف يمكن أن تؤدي إعادة التموضع إلى سعر أعلى بكثير لنفس المنتج.
 
-You've created a marketing tool called DoubleDown that *doubles* the cost-efficiency of AdWords campaigns. You heard that right folks--as a marketer, you can generate the same impact, the same number of conversions, the same quality of sales leads, but with *half* your current ad-spend. Wonderful! Who doesn't want higher ROI.
+لقد قمت بإنشاء أداة تسويق تسمى DoubleDown تعمل على *مضاعفة* فعالية تكلفة حملات AdWords. لقد سمعت أن الأشخاص المناسبين - كمسوق، يمكنك تحقيق نفس التأثير، ونفس عدد التحويلات، ونفس جودة المبيعات المحتملة، ولكن بنصف إنفاقك الإعلاني الحالي. رائع! من لا يريد عائد استثمار أعلى.
 
-What can you charge for this tool? Well, the customer will save a certain amount of money on ad-spend; surely you cannot charge more than that. Let's say you can charge 25% of the savings and still find [many willing customers](https://longform.asmartbear.com/problem/).[^1]
+ما الذي يمكنك تحصيله مقابل هذه الأداة؟ حسنًا، سيوفر العميل مبلغًا معينًا من المال على الإنفاق الإعلاني؛ بالتأكيد لا يمكنك شحن أكثر من ذلك. لنفترض أنه يمكنك تحصيل 25% من التوفيرات ولا يزال بإمكانك العثور على [العديد من العملاء الراغبين](https://longform.asmartbear.com/problem/).[^1]
 
-[^1]: There is data supporting the "25%" number. In addition, there are these observations: If you charge less, you're not monetizing enough; if you charge much more, you leave too much space for a competitor.
+[^1]: توجد بيانات تدعم الرقم "25%". بالإضافة إلى ذلك، هناك هذه الملاحظات: إذا كنت تتقاضى رسومًا أقل، فأنت لا تحقق الدخل بشكل كافٍ؛ إذا قمت بشحن أكثر من ذلك بكثير، فإنك تترك مساحة كبيرة جدًا للمنافس.
 
-Here's what your sales pitch looks like to a customer who spends $40,000 per month on AdWords:
+إليك ما يبدو عليه عرض المبيعات الخاص بك للعميل الذي ينفق 40000 دولار شهريًا على AdWords:
 
 ![Chart showing the customer spending $5k to save $20k](https://public.asmartbear.com/books/anthology/chapters/more-value-not-save-money/halveyourspend-500x476-simple.png)
 
-Great deal! The VP of Demand Gen will be able to boast to the CMO that she saved the company $15,000/mo even after paying for DoubleDown, and you're raking in a cool $5,000/mo. Everyone's happy!
+صفقة عظيمة! سيكون بمقدور نائب رئيس Demand Gen أن يتباهى أمام مدير التسويق بأنها وفرت للشركة 15000 دولار شهريًا حتى بعد الدفع مقابل DoubleDown، وأنت تحصل على مبلغ رائع قدره 5000 دولار شهريًا. الجميع سعداء!
 
-Now let's see **how to charge eight times as much money for the same product**.
+لنرى الآن **كيفية تحصيل ثمانية أضعاف المبلغ مقابل نفس المنتج**.
 
-Marketers have a paramount goal: Growth. Even indirect marketing like brand, events, and PR have the indirect goal of supporting growth. In the case of DoubleDown's customers it's direct: Growth through lead-generation through AdWords.
+المسوقون لديهم هدف بالغ الأهمية: النمو. حتى التسويق غير المباشر مثل العلامة التجارية والأحداث والعلاقات العامة له هدف غير مباشر وهو دعم النمو. في حالة عملاء DoubleDown، يكون الأمر مباشرًا: النمو من خلال جذب العملاء المحتملين من خلال AdWords.
 
-**Increasing growth is much more valuable than decreasing cost.** To see why, consider the following two scenarios:
+**تعد زيادة النمو أكثر قيمة من خفض التكلفة.** لمعرفة السبب، فكر في السيناريوهين التاليين:
 
-1. CMO reports to the CEO: **I was able to reduce costs 20% this year.** <br/> *The CEO is happy. The CEO's follow-up question is: How will we use those savings to grow faster?* <br/>  <br/> 
-2. CMO reports to the CEO: **I was able to increase growth by 20% this year, but it also cost us 20% more to achieve.** <br/> *The CEO pumps her fists, releasing peals of joyous laughter. The value of the company increases non-linearly. The additional revenue growth more than pays for the additional marketing cost that generated it. The CEO's follow-up question is: Can we spend even more? How can we ensure this happens again next year?*
+1. يرفع مدير التسويق التقارير إلى الرئيس التنفيذي: **لقد تمكنت من خفض التكاليف بنسبة 20% هذا العام.** <br/> *الرئيس التنفيذي سعيد. سؤال المتابعة الذي يطرحه الرئيس التنفيذي هو: كيف سنستخدم هذه المدخرات لتحقيق النمو بشكل أسرع؟* <br/> <br/>
+2. يقدم كبير مسؤولي التسويق تقاريره إلى الرئيس التنفيذي: **لقد تمكنت من زيادة النمو بنسبة 20% هذا العام، ولكن الأمر كلفنا أيضًا 20% أكثر لتحقيقه.** <br/> *الرئيس التنفيذي يضخ قبضتيه، ويطلق ضحكات فرحة. تزداد قيمة الشركة بشكل غير خطي. إن نمو الإيرادات الإضافي يعوض تكاليف التسويق الإضافية التي أدت إلى ذلك. سؤال المتابعة الذي يطرحه الرئيس التنفيذي هو: هل يمكننا إنفاق المزيد؟ كيف يمكننا ضمان حدوث ذلك مرة أخرى في العام المقبل؟*
 
-It's always 10x more valuable for a business to *grow faster* than it is for the business to *save money*.
+من المفيد دائمًا أن *تنمو الشركة بشكل أسرع* بمقدار 10 مرات أكثر من أن *توفر المال*.
 
-This insight points us to an alternate pitch for DoubleDown. It's not about spending less for the same amount of growth, it's about spending more to create more growth.
+ترشدنا هذه الرؤية إلى عرض بديل لـ DoubleDown. لا يتعلق الأمر بإنفاق أقل مقابل نفس القدر من النمو، بل يتعلق بإنفاق المزيد لتحقيق المزيد من النمو.
 
-Continuing our example, suppose the customer generates 200 quality sales leads per month from their $40,000/mo spend. The sales pitch changes as follows:
+استمرارًا لمثالنا، لنفترض أن العميل يولد 200 عميل محتمل للمبيعات عالية الجودة شهريًا من إنفاقه البالغ 40000 دولار شهريًا. يتغير عرض المبيعات على النحو التالي:
 
-You're paying $200/lead right now, yielding 200 leads per month. Using DoubleDown, you can *double the number of leads* you're generating, still at a cost of $200/lead:
+أنت تدفع الآن 200 دولار لكل عميل محتمل، مما يؤدي إلى تحقيق 200 عميل محتمل شهريًا. باستخدام DoubleDown، يمكنك *مضاعفة عدد العملاء المحتملين* الذين تولدهم، بتكلفة 200 دولار لكل عميل محتمل:
 
 ![Chart showing the customer spending $20k to double leads](https://public.asmartbear.com/books/anthology/chapters/more-value-not-save-money/doubleyourleads-500x468-simple.png)
 
-The customer is willing to spend $40,000 to generate 200 leads, and therefore is happy to spend $80,000 to generate 400 leads. It doesn't matter how much of that $80,000 is going to AdWords versus going to DoubleDown. The goal is not to "save money on AdWords," but rather to "generate more growth at a similar unit cost."
+العميل على استعداد لإنفاق 40.000 دولار أمريكي لجذب 200 عميل محتمل، وبالتالي يكون سعيدًا بإنفاق 80.000 دولار أمريكي لجذب 400 عميل محتمل. لا يهم مقدار الـ 80 ألف دولار التي تذهب إلى AdWords مقابل الذهاب إلى DoubleDown. الهدف ليس "توفير المال في AdWords"، بل "تحقيق المزيد من النمو بتكلفة وحدة مماثلة".
 
-In the "saves money" pitch, the value was $20,000, and the customer needed to keep 75% of that value-creation. Whereas in the "generate growth" pitch, the value is $40,000, and the customer is happy to pay 100% of that value-creation to a vendor. **Both the amount of value created, and the percentage of value the customer is willing to pay, is a _multiple_ higher for the "growth" pitch versus the "save money" pitch.**
+في عرض "توفير المال"، كانت القيمة 20 ألف دولار، وكان العميل بحاجة إلى الاحتفاظ بنسبة 75% من تلك القيمة التي تم إنشاؤها. بينما في عرض "توليد النمو"، تبلغ القيمة 40 ألف دولار، ويكون العميل سعيدًا بدفع 100% من تلك القيمة إلى البائع. **إن مقدار القيمة التي تم إنشاؤها، والنسبة المئوية للقيمة التي يرغب العميل في دفعها، يعد أعلى بعدة مرات بالنسبة لعرض "النمو" مقارنة بعرض "توفير المال".**
 
-So the next time you want to formulate your product as a way to "save time" or "save money" or "be more efficient" .... don't.
+لذا، في المرة القادمة التي تريد فيها صياغة منتجك كوسيلة "لتوفير الوقت" أو "توفير المال" أو "أن تكون أكثر كفاءة"... لا تفعل ذلك.
 
-Instead, figure out how your product creates value in the way your customer already measures value, and position your product as a way to accomplish *that*.
+بدلاً من ذلك، اكتشف كيف يخلق منتجك القيمة بالطريقة التي يقيس بها عميلك القيمة بالفعل، وقم بوضع منتجك كطريقة لتحقيق *ذلك*.

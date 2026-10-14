@@ -20,49 +20,36 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** ماذا لو لم تعد هناك فرصة لنمو بعشرة أضعاف (10x)؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# What if there isn't another 10x?
-
-> **Executive Summary:** What if your tech company has peaked? Is relentless growth the only path, or is it time to redefine your true impact on the world?
-> **Original URL:** [https://longform.asmartbear.com/another-10x/](https://longform.asmartbear.com/another-10x/)
-
 ![i had whale dream again](https://public.asmartbear.com/books/anthology/chapters/another-10x/d6232print-simple.png)
 
-What if Dropbox is just an awesome file-sharing and backup service but not a universal key/value storage API and native document format?
+ماذا لو كان Dropbox مجرد خدمة رائعة لمشاركة الملفات والنسخ الاحتياطي، ولكنه ليس واجهة برمجة تطبيقات لتخزين المفاتيح/القيمة العالمية وتنسيق مستند أصلي؟
 
-What if OpenTable is the perfect reservation system but nothing else?
+ماذا لو كان OpenTable هو نظام الحجز المثالي وليس أي شيء آخر؟
 
-What if Yelp has ratings but can't solve the logistics of food delivery?
+ماذا لو حصلت Yelp على تقييمات ولكنها لا تستطيع حل لوجستيات توصيل الطعام؟
 
-What if Facebook can make $20b/yr in advertising, but since the teens and social media elite have left, it will never make $200b/yr?
+ماذا لو تمكن فيسبوك من تحقيق 20 مليار دولار سنويًا من الإعلانات، ولكن بما أن المراهقين ونخبة وسائل التواصل الاجتماعي قد غادروا، فلن يحقق أبدًا 200 مليار دولار سنويًا؟
 
-What if Twitter will never 10x its user-base but remains a critical world-wide communication, sharing, and news system for the next decade?[^1]
+ماذا لو لم يتمكن Twitter أبدًا من زيادة قاعدة مستخدميه بمقدار 10 أضعاف، لكنه ظل نظامًا بالغ الأهمية للتواصل والمشاركة والأخبار على مستوى العالم خلال العقد القادم؟[^1]
 
-[^1]: _Editor's Note from 2024:_ Written in 2016, we can check my predictions. Indeed, the Dropbox prediction came true, as it continued to be a popular file-sharing and backup service, but none of its other products ever took off. The OpenTable and Yelp predictions proved true. Meta projects $160B for 2024, with Facebook alone being $100B of that. So this was half-right: 5x over 8 years, not 10x, but impressive. The Twitter prediction proved true, even before the Elon takeover.
+[^1]: _ملاحظة المحرر من عام 2024: _ تمت كتابتها في عام 2016، يمكننا التحقق من توقعاتي. وفي الواقع، تحقق توقع Dropbox، حيث استمرت في كونها خدمة مشاركة الملفات والنسخ الاحتياطي ذات شعبية كبيرة، ولكن لم ينجح أي من منتجاتها الأخرى على الإطلاق. أثبتت توقعات OpenTable و Yelp صحتها. تتوقع ميتا 160 مليار دولار لعام 2024، مع حصول فيسبوك وحده على 100 مليار دولار من ذلك المبلغ. لذلك كان هذا نصف صحيح: 5x على مدى 8 سنوات، وليس 10x، ولكنه مثير للإعجاب. لقد ثبتت صحة توقعات تويتر، حتى قبل استحواذ إيلون على الشركة.
 
-In the tech industry we're constantly told that "growth" the prime determinant of the value of a business. Valuations are most often described as a multiple of revenue, with the notion that higher growth rates beget higher multiples. If your growth dips below the level of "rivets rattling out of the plane," revenue multiples plummet, and you're written off by the press as a has-been ripe for disruption by startups 1/1000th your size but "[growing exponentially](https://longform.asmartbear.com/exponential-growth/)."
+في صناعة التكنولوجيا يقال لنا باستمرار أن "النمو" هو المحدد الرئيسي لقيمة الأعمال التجارية. غالبًا ما يتم وصف التقييمات على أنها مضاعف للإيرادات، مع فكرة أن معدلات النمو الأعلى تؤدي إلى مضاعفات أعلى. إذا انخفض نموك إلى ما دون مستوى "المسامير التي تخرج من الطائرة"، فسوف تنخفض مضاعفات الإيرادات، وسيتم شطبك من قبل الصحافة باعتبارك شركة جاهزة للتعطيل من قبل الشركات الناشئة التي تبلغ 1/1000 من حجمك ولكن "[تنمو بشكل كبير](https://longform.asmartbear.com/exponential-growth/)."
 
 ![exponential growth](https://public.asmartbear.com/books/anthology/chapters/another-10x/image-simple.png)
 
-Nevermind that Microsoft created more cash profit in 2015 than Facebook made in revenue. It's only worth 12% more (in Enterprise Value), because maybe Facebook can keep tossing ads at people or invent their own virtual currency, or monetize chat users.[^2]
+ناهيك عن أن Microsoft حققت أرباحًا نقدية في عام 2015 أكبر من إيرادات Facebook. إنها تزيد قيمتها بنسبة 12% فقط (في قيمة المؤسسة)، لأنه ربما يتمكن Facebook من الاستمرار في عرض الإعلانات على الأشخاص أو ابتكار عملتهم الافتراضية، أو تحقيق الدخل من مستخدمي الدردشة.[^2]
 
-[^2]: All of which they tried, and all of which failed. Their acquisitions of Instagram and WhatsApp were critically important for growth. As of this update in 2024, their efforts in the Metaverse and AI have burned tens of billions of dollars but no substantial results. Which demonstrates yet again just how difficult it is to "10x forever."
+[^2]: كل ذلك حاولوه، وكله فشل. وكان استحواذهم على Instagram وWhatsApp أمرًا بالغ الأهمية لتحقيق النمو. اعتبارًا من هذا التحديث في عام 2024، أدت جهودهم في Metaverse وAI إلى حرق عشرات المليارات من الدولارات ولكن دون تحقيق نتائج جوهرية. مما يوضح مرة أخرى مدى صعوبة "10x إلى الأبد".
 
-["How do we 10x" is a great question](https://longform.asmartbear.com/lindy-effect/) when a startup is young. Does it always remain the right question?
+["كيف يمكننا تحقيق 10x" هو سؤال رائع](https://longform.asmartbear.com/lindy-effect/) عندما تكون الشركة الناشئة في مرحلة مبكرة. هل يبقى دائما السؤال الصحيح؟
 
-At some point it cannot be the right question. No company 10x's forever. Not even Google. They know this, which is why they're now a Berkshire Hathaway-style conglomerate of individual companies which themselves could potentially 10x.
+في مرحلة ما لا يمكن أن يكون السؤال الصحيح. لا توجد شركة 10x إلى الأبد. ولا حتى جوجل. إنهم يعرفون ذلك، ولهذا السبب أصبحوا الآن مجموعة من الشركات الفردية على طراز بيركشاير هاثاواي والتي من المحتمل أن تزيد بمقدار 10 أضعاف.
 
-[You can't know right now whether you're done 10x'ing](https://longform.asmartbear.com/perseverance/), but if indeed that's not a plausible result, how could you be redirecting your attention to other important things, like creating more jobs and better working conditions, to be a catalyst for employee's personal growth, to give back to relevant communities, to use your logistics and technology and infrastructure and cost-savings to do something important with this success you've earned?
+[لا يمكنك معرفة الآن ما إذا كنت قد انتهيت من العمل 10 مرات](https://longform.asmartbear.com/perseverance/)، ولكن إذا لم تكن هذه نتيجة معقولة بالفعل، فكيف يمكنك إعادة توجيه انتباهك إلى أشياء مهمة أخرى، مثل خلق المزيد من الوظائف وظروف عمل أفضل، لتكون حافزًا للنمو الشخصي للموظفين، ولرد الجميل للمجتمعات ذات الصلة، لاستخدام الخدمات اللوجستية والتكنولوجيا والبنية التحتية وتوفير التكاليف لفعل شيء مهم لتحقيق هذا النجاح لقد كسبت؟
 
-At some point, "just ploughing back into a 10x growth objective" is not the optimal strategy for making your so-called "dent in the universe."
+وفي مرحلة ما، فإن "مجرد العودة إلى هدف النمو بمقدار 10 أضعاف" لا يشكل الاستراتيجية المثلى لتحقيق ما يسمى بـ "التأثير في الكون".
 
-In fact, it is at that moment, when a company is applied to betterment instead of (only) biggerment, that [the nature of a company's true dent in the universe](https://longform.asmartbear.com/emptiness/) is determined.
+في الواقع، في تلك اللحظة، عندما يتم تطبيق الشركة على التحسين بدلاً من التوسيع (فقط)، يتم تحديد [طبيعة التأثير الحقيقي للشركة في الكون] (https://longform.asmartbear.com/emptiness/).
 
-What will be [your legacy](https://longform.asmartbear.com/legacy/)?
+ماذا سيكون [إرثك](https://longform.asmartbear.com/legacy/)؟

@@ -20,192 +20,179 @@ summary_ar: "A contrarian look at logical \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** مغالطات ظاهرية ليست مغالطات في واقع الأعمال تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The Serengeti Plain: Fallacies that aren't fallacies
-
-> **Executive Summary:** A contrarian look at logical "fallacies" that maybe aren't so illogical after all.
-> **Original URL:** [https://longform.asmartbear.com/fallacies/](https://longform.asmartbear.com/fallacies/)
-
 ![What do you have that's sick or injured?](https://public.asmartbear.com/books/anthology/chapters/fallacies/d8997print-simple.png)
 
-I never want to hear this narrative again:
+لا أريد أن أسمع هذه الرواية مرة أخرى:
 
-#### Back when humans were living in the...
-Serengeti Plain _or_ Saharan Desert _or_ coming down from the trees...
+#### عندما كان البشر يعيشون في...
+سهل سيرينجيتي _أو_الصحراء_الصحراء_أو_النزول من الأشجار...
 
-#### it made sense for us to...
-do something the self-satisfied speaker scoffs at but graciously forgives a primitive species for doing.
+#### كان من المنطقي بالنسبة لنا أن...
+افعل شيئًا يسخر منه المتحدث الراضي عن نفسه ولكنه يغفر بلطف للأنواع البدائية لفعله.
 
-#### This worked because we were just trying not to get eaten by a
-lion _or_ tiger; by the way there are no tigers in Africa, but don't let facts get in your way!
+#### لقد نجح هذا لأننا كنا نحاول فقط ألا نأكل من قبل
+الأسد _ أو _ النمر؛ بالمناسبة، لا توجد نمور في أفريقيا، لكن لا تدع الحقائق تعترض طريقك!
 
-#### But, in our modern society, this is a fallacy! That's why you have to...
-embrace [buzzwords](https://longform.asmartbear.com/authentic-is-dead/) like "first principles" and "maximize expected value" and "Bayesian priors"...
+#### ولكن في مجتمعنا الحديث هذه مغالطة! لهذا السبب عليك...
+احتضان [الكلمات الطنانة](https://longform.asmartbear.com/authentic-is-dead/) مثل "المبادئ الأولى" و"تعظيم القيمة المتوقعة" و"المبادئ البايزية"...
 
-#### to transcend your stupid "lizard brain" and be...
-a frontal lobe user, like the oh-so-enlightened speaker.
+#### لتتجاوز "عقلك السحلية" الغبي وتكون...
+مستخدم الفص الجبهي، مثل مكبر الصوت المستنير.
 
-You don't know what it was like in [the only African region you can recall from David Attenborough shows], you don't know how [genetic pressures](https://longform.asmartbear.com/going-viral/) actually work, you can't ignore the hundreds of generations since the rise of civilization, and **not all heuristics are "fallacies."**
+أنت لا تعرف كيف كان الوضع في [المنطقة الأفريقية الوحيدة التي يمكنك تذكرها من عروض ديفيد أتينبورو]، ولا تعرف كيف تعمل [الضغوط الجينية](https://longform.asmartbear.com/going-viral/) في الواقع، ولا يمكنك تجاهل مئات الأجيال منذ ظهور الحضارة، و**ليست كل الاستدلالات "مغالطات".**
 
-"Fallacy" implies it's dumb because it runs against cold, hard, scintillating, pure, perfect logic.
+"المغالطة" تعني أنها غبية لأنها تتعارض مع المنطق البارد والصلب والمتألق والصافي والكمال.
 
-But I don't agree with some of that perfect logic.
+لكنني لا أتفق مع بعض هذا المنطق المثالي.
 
-## What if "Expected Value" is the fallacy?
+## ماذا لو كانت "القيمة المتوقعة" هي المغالطة؟
 
-One of my pet peeves is the idea that we should always "maximize expected value," which I believe is [rarely the correct way to make a decision](https://longform.asmartbear.com/investment/), but always generates a tsunami of arguments on Twitter.
+إحدى الأشياء التي تضايقني هي فكرة أنه يجب علينا دائمًا "تعظيم القيمة المتوقعة"، والتي أعتقد أنها [نادرًا ما تكون الطريقة الصحيحة لاتخاذ القرار](https://longform.asmartbear.com/investment/)، ولكنها دائمًا ما تولد تسونامي من الحجج على تويتر.
 
-Economists claim that "maximizing expected value" is what logical people do. It doesn't bother those same economists that they [cannot predict any major metrics of the economy](https://www.theatlantic.com/ideas/archive/2024/06/interest-rates-inflation/678802/) or [markets](https://longform.asmartbear.com/predict-the-future/), while constantly issuing memos excusing their models for getting it wrong for the 74th time in a row. All while calling everyone _else_ irrational.
+يزعم الاقتصاديون أن "تعظيم القيمة المتوقعة" هو ما يفعله الأشخاص المنطقيون. ولا يزعج هؤلاء الاقتصاديين أنفسهم أنهم [لا يستطيعون التنبؤ بأي مقاييس رئيسية للاقتصاد](https://www.theatlantic.com/ideas/archive/2024/06/interest-rates-inflation/678802/) أو [الأسواق](https://longform.asmartbear.com/predict-the-future/)، بينما يصدرون باستمرار مذكرات تبرر نماذجهم لخطأهم في تحقيق ذلك. للمرة الـ 74 على التوالي. كل ذلك بينما ندعو الجميع بأنه "غير عقلاني".
 
-Let's see why "expected value" might be the fallacy:
+دعونا نرى لماذا قد تكون "القيمة المتوقعة" مغالطة:
 
-I invite you to play a game. The game is, we flip a fair coin. If it comes up heads, I will double your life savings. If it comes up tails, you lose all of your life savings. In other words, it's like going all-in in poker with a 50/50 chance, except this is your actual life, not however many chips you brought into the casino. This is for everything.
+أدعوك للعب لعبة. اللعبة هي أننا نقلب عملة معدنية عادلة. إذا ظهر الأمر، سأضاعف مدخرات حياتك. إذا ظهر الأمر، فستفقد كل مدخرات حياتك. بمعنى آخر، الأمر يشبه المشاركة في لعبة البوكر بفرصة 50/50، باستثناء أن هذه هي حياتك الفعلية، وليس عدد الرقائق التي أحضرتها إلى الكازينو. هذا لكل شيء.
 
 ![bear flipping a coin](https://public.asmartbear.com/books/anthology/chapters/fallacies/bear-coin-flip-2-simple.png)
 
-How many people want to play that game? If you have very little in the bank, you might want to play, because it makes little difference either way. But among people who have spent years socking away a nest egg, few would take that chance.
+كم من الناس يريدون أن يلعبوا تلك اللعبة؟ إذا كان لديك القليل جدًا في البنك، فقد ترغب في اللعب، لأن ذلك لن يحدث فرقًا كبيرًا في كلتا الحالتين. ولكن من بين الأشخاص الذين أمضوا سنوات في التخلص من بيضة عش، قليلون هم الذين يغتنمون هذه الفرصة.
 
-From an "expected value" perspective, it doesn't matter whether you play the game or not. The expected value is the same--zero.[^1] But of course, it _does_ matter whether you play the game, and different types of people will want to or not want to play the game, which *proves* that it matters. And I don't think there's anybody on Earth who thinks that characterizing this game as being a "zero" is an accurate or useful characterization.
+من منظور "القيمة المتوقعة"، لا يهم ما إذا كنت تلعب اللعبة أم لا. القيمة المتوقعة هي نفسها--صفر.[^1] ولكن بالطبع، _لا يهم_ ما إذا كنت تلعب اللعبة، وسوف ترغب أنواع مختلفة من الأشخاص في ممارسة اللعبة أم لا، وهو ما *يثبت* أهمية ذلك. ولا أعتقد أن هناك أي شخص على وجه الأرض يعتقد أن وصف هذه اللعبة بأنها "صفر" هو وصف دقيق أو مفيد.
 
-[^1]: The definition of "expected value" is the sum of all the outcomes weighted by the probability of each outcome. In this case, if your savings is `s`, the expected value is `-s*0.5 + s*0.5 = 0`
+[^1]: تعريف "القيمة المتوقعة" هو مجموع كافة النتائج الموزونة باحتمالية كل نتيجة. في هذه الحالة، إذا كانت مدخراتك هي s، فإن القيمة المتوقعة هي `-s*0.5 + s*0.5 = 0`
 
-Now let's really mess with the expected value acolytes. The game is the same, except the probability is 55% that you double your life savings and 45% that you lose everything. Does that change whether you want to play the game?
+الآن دعونا نعبث حقًا مع مساعدي القيمة المتوقعة. اللعبة هي نفسها، باستثناء احتمال 55% أن تضاعف مدخراتك و45% أن تخسر كل شيء. هل هذا يغير ما إذا كنت تريد أن تلعب اللعبة؟
 
-Very few people would change their mind based on this minor alteration in the game's rules. Losing all of your life savings at 45% is essentially the same as at 50%, and if it was bad at 50%, it's still bad.
+قلة قليلة من الناس قد يغيرون رأيهم بناءً على هذا التغيير الطفيف في قواعد اللعبة. إن خسارة كل مدخرات حياتك بنسبة 45% هي في الأساس نفس خسارة 50%، وإذا كانت سيئة عند 50%، فإنها لا تزال سيئة.
 
-But now the expected value of this game is positive.[^2] So the "maximize expected value" people would say you're being illogical if you opt out of the game.
+ولكن الآن أصبحت القيمة المتوقعة لهذه اللعبة إيجابية.[^2] لذلك قد يقول الأشخاص الذين يدعون "تعظيم القيمة المتوقعة" إنك غير منطقي إذا قمت بإلغاء الاشتراك في اللعبة.
 
-[^2]: `EV = -s*0.45 + s*0.55 = s*0.1`, so for example if our life savings is $100,000, the expect value of the game is $10,000.
+[^2]: `EV = -s*0.45 + s*0.55 = s*0.1`، لذلك على سبيل المثال، إذا كانت مدخرات حياتنا 100000 دولار، فإن القيمة المتوقعة للعبة هي 10000 دولار.
 
-In particular, you would say you are succumbing to the fallacy of "Loss Aversion." This is the notion that we hate losses more than we love gains, and we're allowing this fallacy to drive the wrong decision of not maximizing our expected value.
+على وجه الخصوص، قد تقول أنك تستسلم لمغالطة "النفور من الخسارة". هذه هي الفكرة القائلة بأننا نكره الخسائر أكثر من حبنا للمكاسب، ونحن نسمح لهذه المغالطة أن تؤدي إلى اتخاذ القرار الخاطئ بعدم تعظيم القيمة المتوقعة لدينا.
 
-But I beg to differ, and you probably do too. I don't think loss aversion is illogical, and I don't think making someone play this game because of some religious adherence to expected value is wise. In fact, I think expected value isn't the right way to think about the game at all. Indeed, I would say those people are succumbing to the "Expected Value Fallacy," which is you are using statistics that apply only if you were to play the game a million of times, and where you're allowed to keep the average result, and yet applying that to one instance of playing the game, which is just wrong.
-
----
-
-So, what follows is a set of so-called logical fallacies that I don't agree are necessarily fallacies, starting with Loss Aversion that we just demonstrated.
-
-And none of it is because we used to run away from lions.
-
-## Anti-Fallacies
-
-### [Loss Aversion](https://en.wikipedia.org/wiki/Loss_aversion)
-
-_Valuing the pain of loss greater than the joy of gain._
-
-It took a lifetime of [pain](https://longform.asmartbear.com/startups-emotionally-draining/) and [sacrifice](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/) and [luck](https://longform.asmartbear.com/lucky/) to accumulate what you have. It is not irrational to be much more protective of losing it than you are greedy about getting more. Especially if the loss is catastrophic, as opposed to an experiment with 1/1000th of your money where the maximum loss is immaterial. Of course, in that case you're happy to play, proving again that the so-called "fallacy" is only invoked when the loss is important.
+لكني أختلف معك، وربما أنت كذلك. لا أعتقد أن النفور من الخسارة أمر غير منطقي، ولا أعتقد أن جعل شخص ما يلعب هذه اللعبة بسبب بعض الالتزام الديني بالقيمة المتوقعة هو أمر حكيم. في الواقع، أعتقد أن القيمة المتوقعة ليست الطريقة الصحيحة للتفكير في اللعبة على الإطلاق. في الواقع، أود أن أقول إن هؤلاء الأشخاص يستسلمون لـ "مغالطة القيمة المتوقعة"، وهي أنك تستخدم إحصائيات لا تنطبق إلا إذا كنت ستلعب اللعبة مليون مرة، وحيث يُسمح لك بالاحتفاظ بالنتيجة المتوسطة، ومع ذلك تطبق ذلك على حالة واحدة من لعب اللعبة، وهو أمر خاطئ تمامًا.
 
 ---
 
-### [Endowment effect](https://en.wikipedia.org/wiki/Endowment_effect)
+إذن، ما يلي هو مجموعة مما يسمى بالمغالطات المنطقية التي لا أوافق على أنها مغالطات بالضرورة، بدءًا من تجنب الخسارة الذي أوضحناه للتو.
 
-_Valuing an object more, only because you possess it._
+ولا شيء من ذلك لأننا كنا نهرب من الأسود.
+
+## مكافحة المغالطات
+
+### [النفور من الخسارة](https://en.wikipedia.org/wiki/Loss_aversion)
+
+_تقدير ألم الخسارة أعظم من متعة المكسب._
+
+لقد استغرق الأمر وقتًا طويلاً من [الألم](https://longform.asmartbear.com/startups-emotionally-draining/) و[التضحية](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/) و[الحظ](https://longform.asmartbear.com/lucky/) لتجميع ما لديك. ليس من غير المنطقي أن تكون أكثر حماية من خسارته من أن تكون جشعًا للحصول على المزيد. خاصة إذا كانت الخسارة كارثية، على عكس تجربة 1/1000 من أموالك حيث يكون الحد الأقصى للخسارة غير مادي. بالطبع، في هذه الحالة تكون سعيدًا باللعب، مما يثبت مرة أخرى أن ما يسمى بـ "المغالطة" لا يتم التذرع بها إلا عندما تكون الخسارة مهمة.
+
+---
+
+### [تأثير الوقف](https://en.wikipedia.org/wiki/Endowment_effect)
+
+_تقدير الشيء أكثر، فقط لأنك تمتلكه._
 
 ![baby bear hugging teddy bear](https://public.asmartbear.com/books/anthology/chapters/fallacies/bear-baby-with-teddy-simple.png)
 
-We are emotionally attached to things that we own. It makes sense: There's an emotional investment in having made the decision, in shifting or cementing your identify as "a person who would have this object," and how you believe that ownership will be perceived by others. All of this is real, tangible value.
+نحن مرتبطون عاطفياً بالأشياء التي نمتلكها. إنه أمر منطقي: هناك استثمار عاطفي في اتخاذ القرار، وفي تغيير أو ترسيخ هويتك كـ "الشخص الذي يريد أن يمتلك هذا الشيء"، وكيف تعتقد أن الملكية سوف ينظر إليها الآخرون. كل هذا له قيمة حقيقية وملموسة.
 
-You also presumably value the object more than its face-value. If you buy a ticket to a concert for $200, [studies show](https://academic.oup.com/jcr/article-abstract/27/3/360/1796841) you wouldn't sell it for less than $300-$400. Is this because you erroneously value it higher because you "possess it," or is this because the reason you bought it in the first place is that you value _going to the show_, so selling the ticket also means _selling the experience_, which is definitionally worth more than the face value of the ticket.
+من المفترض أيضًا أنك تقدر الكائن أكثر من قيمته الاسمية. إذا اشتريت تذكرة لحضور حفل موسيقي مقابل 200 دولار، [تظهر الدراسات] (https://academic.oup.com/jcr/article-abstract/27/3/360/1796841) فلن تبيعها بأقل من 300 إلى 400 دولار. هل هذا لأنك تقدرها بشكل خاطئ بشكل أعلى لأنك "تمتلكها"، أم أن السبب وراء شرائها في المقام الأول هو أنك تقدر _الذهاب إلى العرض_، لذا فإن بيع التذكرة يعني أيضًا _بيع التجربة_، والتي تساوي تعريفًا أكثر من القيمة الاسمية للتذكرة.
 
-Over time, we can also grow sentimental attachments; economic theory is incorrect if it asserts that sentiment has no value.
+وبمرور الوقت، يمكننا أيضًا تنمية الارتباطات العاطفية؛ النظرية الاقتصادية غير صحيحة إذا أكدت أن المشاعر ليس لها قيمة.
 
 ---
 
-### [Sunk Cost Fallacy](https://en.wikipedia.org/wiki/Sunk_cost)
+### [مغالطة التكلفة الغارقة](https://en.wikipedia.org/wiki/Sunk_cost)
 
-_Continuing an endeavor because of previously invested resources._
+_الاستمرار في المسعى بسبب الموارد المستثمرة سابقًا._
 
-In long-term projects, commitment can lead to eventual success whereas "fail fast" actually ensures failure. The emotional and financial investments [drive perseverance even when there's little apparent hope](https://longform.asmartbear.com/chaos-at-start/), which can be the key to overcoming obstacles and achieving long-term goals. Sometimes we pretend we're so smart in avoiding so-called "sunk cost fallacy," when really we're justifying bailing out when times got tough.
+في المشاريع طويلة المدى، يمكن أن يؤدي الالتزام إلى النجاح في نهاية المطاف، في حين أن "الفشل السريع" يضمن الفشل في الواقع. الاستثمارات العاطفية والمالية [تدفع المثابرة حتى عندما يكون هناك القليل من الأمل الواضح](https://longform.asmartbear.com/chaos-at-start/)، والتي يمكن أن تكون المفتاح للتغلب على العقبات وتحقيق الأهداف طويلة المدى. في بعض الأحيان نتظاهر بأننا أذكياء للغاية في تجنب ما يسمى "مغالطة التكلفة الغارقة"، في حين أننا في الواقع نبرر الإنقاذ عندما تصبح الأوقات صعبة.
 
 ![If two negatives make a positive how come two wrongs don't make a right?](https://public.asmartbear.com/books/anthology/chapters/fallacies/d3618print-simple.png)
 
 ---
 
-### [Availability Bias](https://en.wikipedia.org/wiki/Availability_heuristic)
+### [تحيز التوفر](https://en.wikipedia.org/wiki/Availability_heuristic)
 
-_Overestimating the importance of information that is readily available._
+_المبالغة في تقدير أهمية المعلومات المتوفرة بسهولة._
 
-In startups--and even in scaled-up companies--we often lack comprehensive or statistically-significant data. Extensive research is impossible or impractical. Instead of getting mired in analysis paralysis, scared to act on the data we have at hand, we must act with what's in front of us, and under conditions of uncertainty. This is not a fallacy but a practical necessity, and even allows us to move quickly and adapt. There are [specific strategies](https://longform.asmartbear.com/predict-the-future/) for operating like this. It's not a bias, it's life.
-
----
-
-### [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias)
-
-_Favoring information that confirms existing beliefs._
-
-Constant self-doubt leads to inaction; frequent changes in plans leads to confusion. A leadership team who is always shifting priorities will confound the whole organization. A strategy that constantly changes, cannot be executed.
-
-It's also true that a strategy that never changes is wrong. [There is a time to reevaluate plans and strategies](https://longform.asmartbear.com/strategic-planning/), but that time is not "always."
+في الشركات الناشئة - وحتى في الشركات الكبيرة - غالبًا ما نفتقر إلى البيانات الشاملة أو ذات الأهمية الإحصائية. البحث الشامل مستحيل أو غير عملي. فبدلاً من التورط في شلل التحليل، والخوف من التصرف بناءً على البيانات المتوفرة لدينا، يجب علينا أن نتعامل مع ما هو أمامنا، وفي ظل ظروف من عدم اليقين. وهذه ليست مغالطة، بل هي ضرورة عملية، بل وتسمح لنا بالتحرك بسرعة والتكيف. هناك [استراتيجيات محددة](https://longform.asmartbear.com/predict-the-future/) للعمل بهذه الطريقة. هذا ليس تحيزًا، إنها الحياة.
 
 ---
 
-### [Overconfidence Bias](https://en.wikipedia.org/wiki/Overconfidence_effect)
+### [تحيز التأكيد](https://en.wikipedia.org/wiki/Confirmation_bias)
 
-_Having excessive confidence in one's abilities or judgments._
+_تفضيل المعلومات التي تؤكد المعتقدات الموجودة._
+
+الشك المستمر في الذات يؤدي إلى التقاعس عن العمل؛ التغييرات المتكررة في الخطط تؤدي إلى الارتباك. إن فريق القيادة الذي يغير الأولويات دائمًا سوف يربك المنظمة بأكملها. الإستراتيجية التي تتغير باستمرار، لا يمكن تنفيذها.
+
+ومن الصحيح أيضًا أن الإستراتيجية التي لا تتغير أبدًا هي استراتيجية خاطئة. [هناك وقت لإعادة تقييم الخطط والاستراتيجيات](https://longform.asmartbear.com/strategic-planning/)، ولكن هذا الوقت ليس "دائمًا".
+
+---
+
+### [التحيز للثقة المفرطة](https://en.wikipedia.org/wiki/Overconfidence_effect)
+
+_الثقة المفرطة في قدرات الفرد أو أحكامه._
 
 ![bear superhero](https://public.asmartbear.com/books/anthology/chapters/fallacies/bear-superhero-2-simple.png)
 
-[93% of drivers believe](https://www.sciencedirect.com/science/article/abs/pii/0001691881900056) they are above-average drivers. While mathematically they are incorrect, this also gives them the confidence to act. Constantly second-guessing each driving decision would make them even worse.
+[93% من السائقين يعتقدون](https://www.sciencedirect.com/science/article/abs/pii/0001691881900056) أنهم سائقون فوق المتوسط. على الرغم من أنهم مخطئون من الناحية الرياضية، إلا أن هذا يمنحهم أيضًا الثقة للتصرف. إن التخمين المستمر لكل قرار يتعلق بالقيادة من شأنه أن يجعل الأمر أسوأ.
 
-Founders must be over-confident. The [most likely outcome is failure](https://longform.asmartbear.com/criticize-create/), so you have to be overconfident to remain optimistic. At the beginning, [both successes and failures look the same](https://longform.asmartbear.com/perseverance/), so you have to be overconfident to push through. Before Product/Market Fit, you can't know whether or when you're [going to hit Product/Market Fit](https://longform.asmartbear.com/product-market-fit/), so you have to be overconfident to keep trying things, treating everything as [an experiment, not a failure](https://longform.asmartbear.com/fail/).
+يجب أن يكون المؤسسون مفرطين في الثقة. [النتيجة الأكثر ترجيحًا هي الفشل](https://longform.asmartbear.com/criticize-create/)، لذا عليك أن تكون شديد الثقة لتظل متفائلاً. في البداية، [تبدو النجاحات والإخفاقات متماثلة](https://longform.asmartbear.com/perseverance/)، لذلك عليك أن تكون واثقًا جدًا من نفسك للمضي قدمًا. قبل تناسب المنتج/السوق، لا يمكنك معرفة ما إذا كنت [ستصل إلى المنتج/السوق المناسب] (https://longform.asmartbear.com/product-market-fit/) أم لا، لذلك يجب أن تكون شديد الثقة لمواصلة تجربة الأشياء، والتعامل مع كل شيء على أنه [تجربة، وليس فشلًا](https://longform.asmartbear.com/fail/).
 
-Overconfidence is not the same as being blind. Being confident in the vision, but skeptical about every detail, is how you find the truth.
-
----
-
-### [Recency Bias](https://en.wikipedia.org/wiki/Serial_position_effect)
-
-_Giving disproportionate weight to recent events._
-
-Early in a startup's life, almost everything is being done incorrectly. Quickly reacting to what's in front of you is one of the ways to iterate to doing things right. "This is how we did it at my last company" doesn't matter, when the last company was 400x larger and 50x older and in a different industry. One of the [few advantages a startup has](https://longform.asmartbear.com/startup-beats-incumbent/) is agility, and reacting to the latest information is the definition of agile.
+الثقة المفرطة ليست مثل كونك أعمى. أن تكون واثقًا في الرؤية، ولكن متشككًا في كل تفاصيلها، هو كيف تجد الحقيقة.
 
 ---
 
-### [Survivorship Bias](https://en.wikipedia.org/wiki/Survivorship_bias)
+### [تحيز الحداثة](https://en.wikipedia.org/wiki/Serial_position_effect)
 
-_Focusing on successes even if they were due to luck, or share characteristics with failures._
+_إعطاء أهمية غير متناسبة للأحداث الأخيرة._
+
+في وقت مبكر من حياة الشركة الناشئة، يتم تنفيذ كل شيء تقريبًا بشكل غير صحيح. يعد التفاعل السريع مع ما هو أمامك إحدى الطرق لتكرار القيام بالأشياء بشكل صحيح. "هذه هي الطريقة التي فعلنا بها ذلك في شركتي الأخيرة" لا يهم، عندما كانت الشركة الأخيرة أكبر بـ 400 مرة وأقدم بـ 50 مرة وفي صناعة مختلفة. إحدى [المزايا القليلة التي تتمتع بها الشركة الناشئة](https://longform.asmartbear.com/startup-beats-incumbent/) هي المرونة، والتفاعل مع أحدث المعلومات هو تعريف المرونة.
+
+---
+
+### [تحيز البقاء](https://en.wikipedia.org/wiki/Survivorship_bias)
+
+_التركيز على النجاحات حتى لو كانت بسبب الحظ، أو تقاسم صفات مع الفاشلين._
 
 ![locations of bullet holes in the place, hypothetical example](https://public.asmartbear.com/books/anthology/chapters/fallacies/d7475b770-f4b2-4e5f-a29f-d69b275e9da6-simple.png)
 
-I've been pointing out [the problem of Survivor Bias in business advice](https://longform.asmartbear.com/survivor-bias/) for more than 15 years. That said, it's not true that "you learn more from failure than from success." From failure you see what didn't work, but that doesn't point the way to what does work.
+لقد قمت بالإشارة إلى [مشكلة انحياز الناجين في استشارات الأعمال](https://longform.asmartbear.com/survivor-bias/) لأكثر من 15 عامًا. ومع ذلك، ليس صحيحًا أنك "تتعلم من الفشل أكثر مما تتعلم من النجاح". من الفشل ترى ما لم ينجح، لكن هذا لا يشير إلى الطريق إلى ما ينجح.
 
-Yes, successes are [lucky](https://longform.asmartbear.com/lucky/), not just good. Yes, companies that failed often do similar things to companies that succeed, which suggests that those things didn't "cause" success. Yes, often there's just [one or two most important things](https://longform.asmartbear.com/the-important-thing/) that caused the success, _despite_ everything else they did, not _because_ of it.
+نعم، النجاحات [محظوظة](https://longform.asmartbear.com/lucky/)، وليست جيدة فقط. نعم، الشركات الفاشلة غالبًا ما تفعل أشياء مماثلة للشركات الناجحة، مما يشير إلى أن هذه الأشياء لم "تسبب" النجاح. نعم، غالبًا ما يكون هناك [شيء أو شيئين من أهم الأشياء](https://longform.asmartbear.com/the-important-thing/) هو الذي تسبب في النجاح، _على الرغم_ من كل شيء آخر فعلوه، وليس _بسبب_ ذلك.
 
-But which is more likely to work: Copying everything about a success, or trying to avoid everything about a failure? Of course the success, because [not all of it was luck](https://longform.asmartbear.com/butterfly-effect/).
+ولكن ما الذي من المرجح أن ينجح: تقليد كل شيء يتعلق بالنجاح، أم محاولة تجنب كل شيء يتعلق بالفشل؟ بالطبع النجاح، لأنه [لم يكن كل ذلك حظاً](https://longform.asmartbear.com/butterfly-effect/).
 
 ---
 
-### [Herd Behavior](https://en.wikipedia.org/wiki/Herd_behavior)
+### [سلوك القطيع](https://en.wikipedia.org/wiki/Herd_behavior)
 
-_People tend to follow the actions of a larger group._
+_يميل الناس إلى متابعة تصرفات مجموعة أكبر._
 
-Your product and company should be different in some way that your [target customers](https://longform.asmartbear.com/icp-ideal-customer-persona/) believe makes you the best in the world (for them).
+يجب أن يكون منتجك وشركتك مختلفين بطريقة ما يعتقد [العملاء المستهدفون](https://longform.asmartbear.com/icp-ideal-customer-persona/) أنك الأفضل في العالم (بالنسبة لهم).
 
-But in every _other_ way, surprises are bad. I don't want to have to calculate the bottom-line price in a unique pricing model, or decode the bizarre controls you created because you didn't want to use menubars, or decipher non-standard icons for things like "copy" and "paste" because you wanted to be creative.
+ولكن في كل الأحوال، المفاجآت سيئة. لا أريد أن أضطر إلى حساب السعر النهائي في نموذج تسعير فريد، أو فك تشفير عناصر التحكم الغريبة التي أنشأتها لأنك لم ترغب في استخدام أشرطة القوائم، أو فك رموز الرموز غير القياسية لأشياء مثل "نسخ" و"لصق" لأنك أردت أن تكون مبدعًا.
 
 ![Kai's Power Goo. What does "UnGoo" do?](https://public.asmartbear.com/books/anthology/chapters/fallacies/image-simple.png)
 
-Adhering to norms provides safety, understanding, control, and ease. Those are all desirable qualities in products and companies, except in the very few places where you make a genuine improvement.
+إن الالتزام بالمعايير يوفر الأمان والفهم والتحكم والسهولة. هذه كلها صفات مرغوبة في المنتجات والشركات، باستثناء الأماكن القليلة جدًا التي يمكنك فيها إجراء تحسين حقيقي.
 
 ---
 
-### [Status Quo Bias](https://en.wikipedia.org/wiki/Status_quo_bias)
+### [تحيز الوضع الراهن](https://en.wikipedia.org/wiki/Status_quo_bias)
 
-_Preferring things to stay the same rather than change._
+_تفضيل بقاء الأشياء على حالها بدلاً من التغيير._
 
-Stability and consistency foster reliability and trust. A startup thrusts constant change upon its denizens; if you can keep some things constant and reliable, it gives everyone something to hold on to. If you have put thought and effort into your decisions, then it should take even more thought and effort to change that decision; it's not a bias to honor our former selves, so long as new information hasn't come to light that would have changed the those decisions.
+الاستقرار والاتساق يعززان الموثوقية والثقة. تفرض الشركة الناشئة تغييرًا مستمرًا على مواطنيها؛ إذا تمكنت من إبقاء بعض الأشياء ثابتة وموثوقة، فهذا يمنح الجميع شيئًا يتمسكون به. إذا كنت قد بذلت تفكيرًا وجهدًا في قراراتك، فيجب أن يستغرق الأمر المزيد من التفكير والجهد لتغيير هذا القرار؛ ليس من التحيز أن نحترم ذواتنا السابقة، طالما لم تظهر معلومات جديدة من شأنها أن تغير تلك القرارات.
 
 ---
 
-You know, back when humans were living in Statistics for Economists class in college, it made sense for us to pretend that the real world was an idealized environment with only two variables, no complex dynamics, and perfectly rational actors. This worked because we were just trying not to get eaten by a pedantic professor.
+كما تعلمون، عندما كان البشر يعيشون في فصل الإحصاء للاقتصاديين في الكلية، كان من المنطقي بالنسبة لنا أن نتظاهر بأن العالم الحقيقي كان بيئة مثالية مع متغيرين فقط، ولا توجد ديناميكيات معقدة، وعناصر فاعلة عقلانية تمامًا. لقد نجح هذا لأننا كنا نحاول فقط ألا نأكل من قبل أستاذ متحذلق.
 
-But, in our modern society, this is a fallacy! That's why you have to use ideas and tools that make sense for each individual in their circumstances, thinking for yourself instead of parroting phrases off the internet you don't really understand, running your own experiments instead of believing models and theories with more exceptions than examples, to transcend your lizard brain and be enlightened and strategic.
+ولكن في مجتمعنا الحديث هذه مغالطة! لهذا السبب عليك استخدام الأفكار والأدوات التي تناسب كل فرد في ظروفه، والتفكير بنفسك بدلاً من ترديد العبارات التي لا تفهمها حقًا على الإنترنت، وإجراء تجاربك الخاصة بدلاً من تصديق النماذج والنظريات مع استثناءات أكثر من الأمثلة، لتتجاوز عقلك السحلية وتكون مستنيرًا واستراتيجيًا.
 
 ![It's the gazelles. They got a restraining order.](https://public.asmartbear.com/books/anthology/chapters/fallacies/d4904print-simple.png)

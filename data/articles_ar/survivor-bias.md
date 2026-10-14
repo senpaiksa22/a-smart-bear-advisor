@@ -20,122 +20,109 @@ summary_ar: "Advice from \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** نصائح رواد الأعمال الملوثة بانحياز البقاء (Survivor Bias) تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Business Advice Plagued by Survivor Bias
-
-> **Executive Summary:** Advice from "successful entrepreneurs" might be unreliable due to Survivor Bias. What's real, and what's random?
-> **Original URL:** [https://longform.asmartbear.com/survivor-bias/](https://longform.asmartbear.com/survivor-bias/)
-
 ![zener cards of business google](https://public.asmartbear.com/books/anthology/chapters/survivor-bias/d6354d6d1-aa4f-4865-8a16-bb5c09903a58-simple.png)
 
-Do you read articles written by a founder who failed three times, never finding success?
+هل تقرأ مقالات كتبها مؤسس فشل ثلاث مرات، ولم يحقق النجاح أبدًا؟
 
-No, because you want to learn from success, not hear about "lessons learned" from someone who hasn't yet learned those lessons themself.
+لا، لأنك تريد أن تتعلم من النجاح، وليس أن تسمع عن "الدروس المستفادة" من شخص لم يتعلم تلك الدروس بنفسه بعد.
 
-However, **the fact that you are learning only from success is a deeper problem than you imagine.**
+ومع ذلك، **إن حقيقة أنك تتعلم من النجاح فقط هي مشكلة أعمق مما تتخيل.**
 
-Some stories will expose the enormity of this fallacy.
+وستكشف بعض القصص فداحة هذه المغالطة.
 
-## Bullet holes: A brain teaser
+## ثقوب الرصاص: دعابة الدماغ
 
-During World War II the English sent daily bombing raids into Germany. Many planes never returned; those that did were often riddled with bullet holes from anti-air machine guns and German fighters.
+خلال الحرب العالمية الثانية، أرسل الإنجليز غارات جوية يومية إلى ألمانيا. العديد من الطائرات لم تعد أبدًا. غالبًا ما كانت تلك التي فعلت ذلك مليئة بثقوب الرصاص من المدافع الرشاشة المضادة للطائرات والمقاتلات الألمانية.
 
-Wanting to improve the odds of getting a crew home alive, English engineers studied the locations of the bullet holes. Where the planes were hit most, they reasoned, is where they should attach heavy armor plating. Sure enough, a pattern emerged: Bullets clustered on the wings, tail, and rear gunner's station. Few bullets were found in the main cockpit or fuel tanks.
+رغبة منهم في تحسين احتمالات عودة الطاقم إلى الوطن على قيد الحياة، قام المهندسون الإنجليز بدراسة مواقع ثقوب الرصاص. ورأوا أن المكان الذي تعرضت فيه الطائرات أكثر من غيرها هو المكان الذي يجب أن يتم فيه تركيب الدروع الثقيلة. من المؤكد أنه ظهر نمط: الرصاص يتجمع على الأجنحة والذيل ومحطة المدفعي الخلفية. تم العثور على عدد قليل من الرصاص في قمرة القيادة الرئيسية أو خزانات الوقود.
 
 ![locations of bullet holes in the place, hypothetical example](https://public.asmartbear.com/books/anthology/chapters/survivor-bias/d7475b770-f4b2-4e5f-a29f-d69b275e9da6-simple.png)
 
-The logical conclusion is that they should add armor plating to the spots that get hit most often by bullets. But that's wrong.
+الاستنتاج المنطقي هو أنه يجب عليهم إضافة طلاء مدرع إلى المواقع التي تتعرض للضرب في أغلب الأحيان بالرصاص. لكن هذا خطأ.
 
 ![zener cards of business Zappos](https://public.asmartbear.com/books/anthology/chapters/survivor-bias/d6e257c45-0174-40dc-88d6-032e0884da30-simple.png)
 
-Planes with bullets in the cockpit or fuel tanks *didn't make it home*; the bullet holes in returning planes were "found" in places that were by definition relatively benign. The real data is in the planes that were shot down, not the ones that survived.
+الطائرات التي تحتوي على رصاص في قمرة القيادة أو خزانات الوقود *لم تصل إلى المنزل*؛ تم "العثور" على ثقوب الرصاص في الطائرات العائدة في أماكن كانت بحكم تعريفها حميدة نسبيًا. البيانات الحقيقية موجودة في الطائرات التي تم إسقاطها، وليس تلك التي نجت.
 
-**This is a literal example of "survivor bias"**--drawing conclusions only from data that is available or convenient and thus systematically biasing your results.
+**هذا مثال فعلي على "تحيز الناجين"**--استخلاص النتائج فقط من البيانات المتاحة أو الملائمة، وبالتالي تحيز نتائجك بشكل منهجي.
 
-*Doesn't most business advice suffer from this fallacy?* You read about successes but what about the businesses that "never made it home?" Like the downed planes, **could failure contain more lessons than success?**
+*ألا تعاني معظم النصائح التجارية من هذه المغالطة؟ * تقرأ عن النجاحات ولكن ماذا عن الشركات التي "لم تعد إلى موطنها؟" مثل الطائرات التي تم إسقاطها، **هل يمكن أن يحتوي الفشل على دروس أكثر من النجاح؟**
 
-## Burying the other evidence
+## دفن الأدلة الأخرى
 
-Scientific journals publish extraordinary results, so studies whose results are statistically insignificance aren't published. Rather, they are abandoned or silently stowed away in academic filing cabinets.
+تنشر المجلات العلمية نتائج غير عادية، لذلك لا تنشر الدراسات التي تكون نتائجها غير ذات أهمية إحصائية. وبدلاً من ذلك، يتم التخلي عنها أو تخزينها بصمت في خزائن الملفات الأكاديمية.
 
 ![zener cards of business Starbucks](https://public.asmartbear.com/books/anthology/chapters/survivor-bias/c1db9691-6cc2-4f5c-bd2e-e851c12b0e16-simple.png)
 
-For this reason, this practice is called the "file-drawer effect," and it's a particularly insidious form of survivor bias because it is invisible. Peter Norvig [sums it up nicely](https://norvig.com/experiment-design.html):
+لهذا السبب، تسمى هذه الممارسة "تأثير درج الملفات"، وهي شكل خبيث بشكل خاص من تحيز الناجين لأنه غير مرئي. بيتر نورفيج [يلخص الأمر بشكل جيد](https://norvig.com/experiment-design.html):
 
-> When a published paper proclaims "statistically, this could only happen by chance one in twenty times," it is quite possible that similar experiments have been performed twenty times, but have not been published.
+> عندما تعلن ورقة منشورة أنه "إحصائيًا، لا يمكن أن يحدث هذا إلا عن طريق الصدفة مرة واحدة من كل عشرين مرة"، فمن المحتمل جدًا أن تكون هناك تجارب مماثلة قد تم إجراؤها عشرين مرة، ولكن لم يتم نشرها.
 
-Pharmaceutical companies have exploited this effect to skew results intentionally. It's gotten so bad that journals are calling for a public database to prevent fraud:
+وقد استغلت شركات الأدوية هذا التأثير لتحريف النتائج عمدا. لقد أصبح الأمر سيئًا للغاية لدرجة أن المجلات تطالب بإنشاء قاعدة بيانات عامة لمنع الاحتيال:
 
-> More than two-thirds of studies of anti-depressants given to depressed children, for instance, found the medications were no better than sugar pills, but companies published only the positive trials.  
->   
-> If all the studies had been registered from the start, doctors would have learned that the positive data were only a fraction of the total.  
-> [--Washington Post](https://www.smh.com.au/articles/2004/09/09/1094530773888.html)
+> على سبيل المثال، وجدت أكثر من ثلثي الدراسات التي أجريت على مضادات الاكتئاب المقدمة للأطفال المصابين بالاكتئاب أن الأدوية لم تكن أفضل من أقراص السكر، لكن الشركات نشرت فقط التجارب الإيجابية.
+> 
+> ولو تم تسجيل جميع الدراسات منذ البداية، لكان الأطباء قد علموا أن البيانات الإيجابية كانت مجرد جزء صغير من المجموع.
+> [--واشنطن بوست](https://www.smh.com.au/articles/2004/09/09/1094530773888.html)
 
-*Doesn't most business advice suffer from this fallacy?* Harvard Business School's famous case studies include only success stories. To paraphrase Norvig, **what if twenty other coffee shops had the same ideas, same product, and same dedication as Starbucks, but failed?** How does that affect what we can learn from Starbucks's success?
+*ألا تعاني معظم النصائح التجارية من هذه المغالطة؟ * تتضمن دراسات الحالة الشهيرة في كلية هارفارد للأعمال قصص النجاح فقط. ولإعادة صياغة عبارة نورفيج، **ماذا لو كان لدى عشرين مقهى آخر نفس الأفكار ونفس المنتج ونفس التفاني مثل ستاربكس، لكنها فشلت؟** كيف يؤثر ذلك على ما يمكن أن نتعلمه من نجاح ستاربكس؟
 
-## Experimental proof of ESP
+## دليل تجريبي على ESP
 
 ![zener cards of business 37signals](https://public.asmartbear.com/books/anthology/chapters/survivor-bias/cdf8b090-34c4-4533-8e51-d77895de6115-simple.png)
 
-[Dr. Joseph Rhine](https://en.wikipedia.org/wiki/Joseph_Banks_Rhine) brought the rigor of experimental psychology to the study of the paranormal, and ESP (Extra Sensory Perception) in particular. He made waves in the 1930s with controlled experiments testing whether a person was able to predict the order of the cards in a shuffled [Zener](https://en.wikipedia.org/wiki/Zener_cards) deck (with symbols like circle, square, star, and wavy lines).
+[دكتور. جوزيف راين] (https://en.wikipedia.org/wiki/Joseph_Banks_Rhine) جلب صرامة علم النفس التجريبي لدراسة الخوارق، وESP (الإدراك الحسي الإضافي) على وجه الخصوص. لقد أحدث ضجة في ثلاثينيات القرن العشرين من خلال تجارب خاضعة للرقابة تختبر ما إذا كان الشخص قادرًا على التنبؤ بترتيب البطاقات في مجموعة [Zener](https://en.wikipedia.org/wiki/Zener_cards) المختلطة (مع رموز مثل الدائرة والمربع والنجمة والخطوط المتموجة).
 
-In a typical experiment, 500 people are screened for "strong telepathic ability," measured by significantly above-average performance in a 25-card deck. Those selected are tested again; most drop away. Tested a third time, perhaps one person passes again and we conclude that such a repeat performance is statistical evidence of genuine ESP.
+في تجربة نموذجية، تم فحص 500 شخص بحثًا عن "قدرة تخاطرية قوية"، والتي تم قياسها من خلال أداء أعلى بكثير من المتوسط ​​في مجموعة مكونة من 25 بطاقة. يتم اختبار أولئك الذين تم اختيارهم مرة أخرى؛ معظمهم يتراجعون. تم اختباره مرة ثالثة، ربما ينجح شخص واحد مرة أخرى ونستنتج أن مثل هذا الأداء المتكرر هو دليل إحصائي على وجود برنامج ESP حقيقي.
 
-To see why this is just a different face of survivor bias, consider the following experiment. I believe some people are "heady" when it comes to coin-flipping--getting heads more often than chance alone would suggest. So I put 1000 people in a room and tell them to flip a coin ten times. Sure enough, a woman named Margaret makes "heads" ten times in a row! The chance of her getting heads ten times in a row is only 1-in-1024, so I conclude Margret has special abilities.
+لمعرفة السبب وراء كون هذا مجرد وجه مختلف لتحيز الناجين، فكر في التجربة التالية. أعتقد أن بعض الناس "متهورون" عندما يتعلق الأمر بتقليب العملات المعدنية - حيث يحصلون على الرؤوس في كثير من الأحيان أكثر مما توحي به الصدفة وحدها. لذلك وضعت 1000 شخص في غرفة وطلبت منهم أن يقلبوا عملة معدنية عشر مرات. من المؤكد أن امرأة تدعى مارغريت تصنع "الرؤوس" عشر مرات متتالية! فرصة حصولها على رؤوس عشر مرات متتالية هي 1 في 1024 فقط، لذلك أستنتج أن مارجريت لديها قدرات خاصة.
 
-Actually that last statement is true but misleading. The chance that *Margaret* would flip ten heads in a row is 1-in-1024, but that wasn't the experiment I ran, was it? I let 1000 people flip and "found" Margaret in the crowd.
+في الواقع هذا البيان الأخير صحيح ولكنه مضلل. احتمال أن تقلب *مارغريت* عشرة رؤوس متتالية هي 1 في 1024، لكن هذه لم تكن التجربة التي أجريتها، أليس كذلك؟ لقد سمحت لـ 1000 شخص بالتقلب و"وجدت" مارغريت وسط الحشد.
 
-The chance that *somebody* in a crowd of a thousand would flip heads ten times is a whopping 62%! Because so many people are attempting the feat, some normally-unlikely events will happen. This isn't a test of Margaret's abilities at all!
+إن احتمال أن يقلب *شخص ما* في حشد من ألف شخص رأسه عشر مرات هو 62%! نظرًا لأن الكثير من الأشخاص يحاولون هذا العمل الفذ، فستحدث بعض الأحداث غير المحتملة عادةً. هذا ليس اختبارًا لقدرات مارغريت على الإطلاق!
 
-*Doesn't most business advice suffer from this fallacy?* Take me for instance. I've started three[^1] consecutive successful companies, so that's proof that I know what I'm doing and that you should do everything I say, right? Except maybe I'm just the one in the crowd who guessed right on the Zener cards three times, and there's no reason to believe I would be successful a fourth time.[^2]
+*ألا تعاني معظم النصائح التجارية من هذه المغالطة؟ خذني على سبيل المثال. لقد أنشأت ثلاث[^1] شركات ناجحة متتالية، وهذا دليل على أنني أعرف ما أفعله وأنه يجب عليك تنفيذ كل ما أقوله، أليس كذلك؟ باستثناء أنني ربما كنت الشخص الوحيد من بين الجمهور الذي خمن بشكل صحيح على بطاقات زينر ثلاث مرات، وليس هناك سبب للاعتقاد بأنني سأنجح للمرة الرابعة.[^2]
 
-[^1]: Author's note in 2023: Now four with [WP Engine](https://wpengine.com/); with 200,000 customers and hundreds of millions in ARR, and profitable, it's an uber-Margaret!
+[^1]: ملاحظة المؤلف في عام 2023: الآن أربعة مع [WP Engine](https://wpengine.com/)؛ مع 200.000 عميل ومئات الملايين في ARR، ومربحة، إنها uber-Margaret!
 
-[^2]: Author's Note in 2023: Looking back fourteen years, having done it again, I still wouldn't change a word. Maybe I'm still Margaret. Perhaps I've earned additional benefit of the doubt, but the survivor bias warning remains.
+[^2]: ملاحظة المؤلف في عام 2023: إذا نظرنا إلى الوراء لمدة أربعة عشر عامًا، بعد أن فعلت ذلك مرة أخرى، ما زلت لا أستطيع تغيير كلمة واحدة. ربما ما زلت مارغريت. ربما اكتسبت فائدة إضافية من الشك، لكن التحذير من تحيز الناجين لا يزال قائمًا.
 
-## Specific examples of survivor bias in business advice
+## أمثلة محددة على تحيز الناجين في المشورة التجارية
 
 ![zener cards of business smart bear](https://public.asmartbear.com/books/anthology/chapters/survivor-bias/d396ebfbe-86d5-48be-9251-1a57d9084590-simple.png)
 
-So far I've been asking rhetorically whether survivor bias *might* be severely skewing business advice. [Steven Levitt](https://en.wikipedia.org/wiki/Steven_Levitt) (of [Freakonomics](https://www.amazon.com/gp/product/0061234001?ie=UTF8&tag=teamcohen-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0061234001) fame) investigated this question directly.
+لقد كنت حتى الآن أسأل بلاغيًا ما إذا كان تحيز الناجين *ربما* يؤدي إلى تحريف النصائح التجارية بشدة. [ستيفن ليفيت](https://en.wikipedia.org/wiki/Steven_Levitt) (من [Freakonomics](https://www.amazon.com/gp/product/0061234001?ie=UTF8&tag=teamcohen-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0061234001) الشهرة) بحثت في هذا السؤال مباشرة.
 
-He was reading [Good to Great](https://www.amazon.com/gp/product/0066620996?ie=UTF8&tag=teamcohen-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0066620996) by Jim Collins, a book that analyzed eleven companies that were mediocre--just pooping along--but then transformed themselves into stock market sensations. A conclusion was that the common trait was a "culture of discipline." This book has sold many millions of copies, so it's a good example of popular writing on business advice.
+كان يقرأ [من جيد إلى عظيم](https://www.amazon.com/gp/product/0066620996?ie=UTF8&tag=teamcohen-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0066620996) لجيم كولينز، وهو كتاب يحلل إحدى عشرة شركة كانت متواضعة - ولكن بعد ذلك حولوا أنفسهم إلى أحاسيس سوق الأوراق المالية. وكان الاستنتاج هو أن السمة المشتركة هي "ثقافة الانضباط". لقد بيعت ملايين النسخ من هذا الكتاب، لذا فهو مثال جيد للكتابة الشائعة حول النصائح التجارية.
 
-One of the eleven "great" companies was Fannie Mae, and Steven Levitt was reading this book just as Fannie was collapsing in financial disaster. Hmm, he thought, I wonder how those other "great" companies are doing.
+كانت فاني ماي واحدة من الشركات الإحدى عشرة "العظمى"، وكان ستيفن ليفيت يقرأ هذا الكتاب بينما كانت فاني تنهار في كارثة مالية. حسنًا، فكر، أتساءل عن أداء تلك الشركات "العظيمة" الأخرى.
 
-Turns out, had you invested in those eleven companies in 2001 (when the book came out), your portfolio would have underperformed the S&P 500! (Fannie Mae wasn't even the only case of total disaster--also extolled was the now-bankrupt Circuit City.)
+لقد تبين أنك لو استثمرت في تلك الشركات الإحدى عشرة في عام 2001 (عندما صدر الكتاب)، لكان أداء محفظتك أقل من أداء مؤشر S&P 500! (لم تكن فاني ماي هي الحالة الوحيدة للكارثة الكاملة، فقد تم الإشادة أيضًا بمدينة سيركيت سيتي المفلسة الآن).
 
-Why didn't these companies continue to succeed? It turns out Jim started by combing through 1435 companies looking for good candidates for the book, and picked eleven. **It's the ESP experiment all over again!**
+لماذا لم تستمر هذه الشركات في النجاح؟ اتضح أن جيم بدأ بالبحث في 1435 شركة بحثًا عن مرشحين جيدين للكتاب، واختار أحد عشر شركة. **إنها تجربة ESP من جديد!**
 
-On top of that, Jim doesn't bother asking whether any of the 1424 other companies also displayed a "culture of discipline." Maybe that's something that many public companies have regardless of performance.
+علاوة على ذلك، لم يكلف جيم نفسه عناء التساؤل عما إذا كانت أي من الشركات الـ 1424 الأخرى أظهرت أيضًا "ثقافة الانضباط". ربما هذا شيء تمتلكه العديد من الشركات العامة بغض النظر عن الأداء.
 
-Is this book an aberration? Nope, Steven investigated another business book from the 1980s--[In Search of Excellence](https://www.amazon.com/gp/product/0060548789?ie=UTF8&tag=asmbe-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0060548789)--and found the same effect.
+هل هذا الكتاب انحراف؟ كلا، قام ستيفن بالبحث في كتاب أعمال آخر من الثمانينيات --[In Search of Excellence](https://www.amazon.com/gp/product/0060548789?ie=UTF8&tag=asmbe-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0060548789) -- ووجد نفس التأثير.
 
-Steven then comes to the same conclusion that I'm coming to:
+ثم توصل ستيفن إلى نفس النتيجة التي توصلت إليها:
 
-> These business books are mostly backward-looking: what have companies done that has made them successful? The future is always hard to predict, and understanding the past is valuable; on the other hand, the implicit message of these business books is that the principles that these companies use not only have made them good in the past, but position them for continued success.
+> معظم كتب الأعمال هذه ذات نظرة رجعية: ما الذي فعلته الشركات وجعلها ناجحة؟ من الصعب دائمًا التنبؤ بالمستقبل، وفهم الماضي أمر ذو قيمة؛ ومن ناحية أخرى، فإن الرسالة الضمنية التي تحملها كتب الأعمال هذه هي أن المبادئ التي تستخدمها هذه الشركات لم تجعلها جيدة في الماضي فحسب، بل جعلتها قادرة على تحقيق النجاح المستمر.
 
-**To the extent that this doesn't actually turn out to be true, it calls into question the basic premise of these books,[^3] doesn't it?**
+**إلى الحد الذي لا يتبين فيه أن هذا صحيح بالفعل، فإنه يدعو إلى التشكيك في الفرضية الأساسية لهذه الكتب،[^3] أليس كذلك؟**
 
-[^3]: I personally love _Good to Great_ anyway, because I think the ideas in there are timeless and excellent.
+[^3]: أنا شخصيًا أحب فيلم _Good to Great_ على أي حال، لأنني أعتقد أن الأفكار الموجودة فيه خالدة وممتازة.
 
-## Oops, did I just invalidate this entire website?
+## عفوًا، هل قمت للتو بإلغاء صلاحية هذا الموقع بأكمله؟
 
-Lately I've been wondering if a lot of business advice--both mine and others--is really a case of survivor bias. I mean, I didn't start out at Smart Bear with a load of philosophy and a fixed idea of who the customer was or even what the products would be.
+لقد كنت أتساءل مؤخرًا عما إذا كان الكثير من النصائح التجارية - سواء كانت نصائحي أو نصائح الآخرين - هي في الواقع حالة من التحيز للناجين. أعني أنني لم أبدأ في Smart Bear بالكثير من الفلسفة وفكرة ثابتة حول هوية العميل أو حتى ماهية المنتجات.
 
-How do I know this post-hoc philosophy and advice isn't just a case of survivor bias? Am I not like the ESP-savant, successful not by force of nature but by simple chance of surviving?
+كيف أعرف أن هذه الفلسفة والمشورة اللاحقة ليست مجرد حالة من تحيز الناجين؟ هل أنا لست مثل الشخص الذي يتمتع بمهارات ESP، والذي لا ينجح بقوة الطبيعة ولكن بالصدفة البسيطة للبقاء على قيد الحياة؟
 
-Or perhaps I'm like Dr. Rhine the ESP experimenter--convinced I've discovered something important with "objective measures of success"--and yet I'm actually living in an egotistical, possibly even narcissistic dream world.
+أو ربما أنا مثل دكتور راين، مجرب ESP - مقتنع بأنني اكتشفت شيئًا مهمًا من خلال "المقاييس الموضوعية للنجاح" - ومع ذلك فأنا أعيش في الواقع في عالم أحلام مغرور، وربما حتى نرجسي.
 
-More to the point, **how can _you_, dear reader, ascertain whether my articles or any advice from anywhere suffers from this fallacy?**
+والأهم من ذلك، **كيف يمكنك عزيزي القارئ التأكد مما إذا كانت مقالاتي أو أي نصيحة من أي مكان تعاني من هذه المغالطة؟**
 
-In the end of course you *don't* know. But here's something: Just the fact that you're aware of survivor bias means you're less likely to be taken in by it. So, reading this article has helped a little.
+وفي النهاية بالطبع أنت *لا* تعلم. ولكن هناك شيء ما: مجرد حقيقة أنك على دراية بتحيز الناجين يعني أنه من غير المرجح أن تنخدع به. لذا فإن قراءة هذا المقال ساعدت قليلاً.
 
-Beyond that, prefer advice that makes you think rather than giving you answers, forces you to answer tough questions, and causes you to [extend your existing strengths](https://longform.asmartbear.com/leverage/), and [become a better version of the person you already are](https://longform.asmartbear.com/bad-advice/).
+علاوة على ذلك، فضل النصيحة التي تجعلك تفكر بدلًا من إعطائك إجابات، وتجبرك على الإجابة على الأسئلة الصعبة، وتدفعك إلى [توسيع نقاط قوتك الحالية](https://longform.asmartbear.com/leverage/)، و[تصبح نسخة أفضل من الشخص الذي أنت عليه بالفعل](https://longform.asmartbear.com/bad-advice/).

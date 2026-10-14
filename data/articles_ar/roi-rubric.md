@@ -20,336 +20,275 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** استبدال الكلمات الفضفاضة بأرقام فيرمي لتقدير الاحتمالات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Fermi ROI: Fixing the ROI rubric
-
-> **Executive Summary:** Traditional rubrics fail to reveal the best answers, or how to explain those answers to others. After explaining why, the following system solves both failures.
-> **Original URL:** [https://longform.asmartbear.com/roi-rubric/](https://longform.asmartbear.com/roi-rubric/)
-
 ![traded for some big data two spreadsheets and an algorithm](https://public.asmartbear.com/books/anthology/chapters/roi-rubric/d6857print-simple.png)
 
-"Delivering maximum value in minimum time" sounds wise, but it's not exactly a stunning insight. It's not like we're *trying* to take an eternity to deliver trivialities.
+قد تبدو عبارة "تقديم أقصى قيمة في أقل وقت ممكن" أمرًا حكيمًا، ولكنها ليست فكرة مذهلة تمامًا. ليس الأمر وكأننا *نحاول* قضاء الأبدية لتقديم تفاهات.
 
-It is more analytical--but no more insightful--to insist on "Maximizing ROI." Return-On-Investment is some measure of "value," divided by some measure of "time," yielding some measure of "productivity."
+إن الإصرار على "تعظيم عائد الاستثمار" هو أمر أكثر تحليلاً - ولكن ليس أكثر بصيرة. إن العائد على الاستثمار هو مقياس ما لـ "القيمة"، مقسومًا على مقياس ما لـ "الوقت"، مما يؤدي إلى قدر ما من "الإنتاجية".
 
-With good intentions and this reasonable-sounding goal, we reach for the rubric: A spreadsheet of inputs of numeric "value" and "time," a calculation of the metric of productivity, and an output where the best ideas are sorted to the top.
+من خلال النوايا الحسنة وهذا الهدف المعقول، نصل إلى العنوان: جدول بيانات لمدخلات "القيمة" و"الوقت" الرقمية، وحساب مقياس الإنتاجية، ومخرجات حيث يتم فرز أفضل الأفكار إلى الأعلى.
 
-## Invisible failures of the rubric
+## إخفاقات غير مرئية في عنوان التقييم
 
-Unfortunately, the rubric fails us for several reasons. The failures are not obvious, so we don't realize they're happening. Explaining the traps will lead to a framework that avoids the traps.
+لسوء الحظ، فإن نموذج التقييم يفشلنا لعدة أسباب. الإخفاقات ليست واضحة، لذلك لا ندرك حدوثها. سيؤدي شرح الأفخاخ إلى إطار عمل يتجنب الأفخاخ.
 
-### "ROI" contains more noise than signal
+### يحتوي "ROI" على ضوضاء أكثر من الإشارة
 
-Consider a feature that ended up producing 20% less impact and taking 50% more time than originally expected--a common outcome in the real world:
+خذ بعين الاعتبار ميزة أدت في النهاية إلى إحداث تأثير أقل بنسبة 20% واستغرقت وقتًا أطول بنسبة 50% مما كان متوقعًا في الأصل - وهي نتيجة شائعة في العالم الحقيقي:
 
-|  | Impact | Effort | ROI |
-|:----|:---:|:---:|:---:|
-| Estimated | 60 | 4 | 15 |
-| Actual | 48 | 6 | 8 |
+|  | التأثير | جهد | عائد الاستثمار | |:----|:---:|:---:|:---:| | مقدر | 60 | 4 | 15 | | الفعلي | 48 | 6 | 8 |
 
-In this reasonable scenario, it ended up producing *half* the ROI than originally calculated. Therefore, in retrospect, the initial ROI estimate was largely noise. Apply this observation to a typical ROI rubric:
+في هذا السيناريو المعقول، انتهى الأمر بإنتاج *نصف* عائد الاستثمار عما تم حسابه في الأصل. ولذلك، في وقت لاحق، كان تقدير عائد الاستثمار الأولي ضجيجًا إلى حد كبير. قم بتطبيق هذه الملاحظة على عنوان نموذجي لعائد الاستثمار:
 
-|  | Impact | Effort | ROI |
-|:----|:---:|:---:|:---:|
-| Feature A | 34 | 2 | 17 |
-| Feature B | 60 | 4 | 15 |
-| Feature C | 36 | 3 | 12 |
-| Feature D | 10 | 1 | 10 |
+|  | التأثير | جهد | عائد الاستثمار | |:----|:---:|:---:|:---:| | الميزة أ | 34 | 2 | 17 | | الميزة ب | 60 | 4 | 15 | | الميزة ج | 36 | 3 | 12 | | الميزة د | 10 | 1 | 10 |
 
-The spreadsheet suggests (A) is the winner, and in particular that (A) is clearly better than (D). But neither of those statements are true. If (A) could easily result in half its stated ROI, there's no objective justification to claim its superiority over (D), or over any other item.
+يشير جدول البيانات إلى أن (أ) هو الفائز، وعلى وجه الخصوص، فإن (أ) أفضل بشكل واضح من (د). لكن أيا من هذه التصريحات غير صحيح. إذا كان من الممكن أن يؤدي (أ) بسهولة إلى نصف عائد الاستثمار المعلن، فليس هناك مبرر موضوعي للمطالبة بتفوقه على (د)، أو على أي عنصر آخر.
 
-Shocked at this revelation, we could react by ignoring the lesson. We could justify (A)'s supremacy by telling ourselves "estimation errors cancel themselves out." But the errors do not cancel out. Effort is almost always under-estimated; 4-sprint projects that stretch into 6 sprints are not "cancelled out" by an equal number of 4-sprint projects that are completely finished in 2 sprints.
+وقد صدمنا هذا الوحي، وكان من الممكن أن يكون رد فعلنا هو تجاهل الدرس. يمكننا تبرير تفوق (أ) بأن نقول لأنفسنا "أخطاء التقدير تلغي نفسها". لكن الأخطاء لا تلغي. غالبًا ما يتم التقليل من الجهد المبذول؛ مشاريع 4-Sprint التي تمتد إلى 6 سباقات سرعة لا يتم "إلغاءها" بعدد متساو من مشاريع 4-Sprint التي تم الانتهاء منها بالكامل في جولتين.
 
-### "Impact" is ill-defined
+### "التأثير" غير محدد بشكل جيد
 
-No matter how you measure impact, your numbers end up far less precise than they appear in the spreadsheet.
+بغض النظر عن كيفية قياس التأثير، فإن أرقامك في نهاية المطاف أقل دقة بكثير مما تظهر في جدول البيانات.
 
-[It's difficult to predict](https://longform.asmartbear.com/predict-the-future/) numbers like "revenue-increase due to feature X." Teams use various techniques to address the uncertainty, but in every case the number in the spreadsheet contains significant error:
+[من الصعب التنبؤ](https://longform.asmartbear.com/predict-the-future/) بأرقام مثل "زيادة الإيرادات بسبب الميزة X". تستخدم الفرق تقنيات مختلفة لمعالجة عدم اليقين، ولكن في كل حالة، يحتوي الرقم الموجود في جدول البيانات على خطأ كبير:
 
-* *Revenue we would get from existing customers currently asking for this feature.* <br/> That's precise but often uncorrelated with how much money we *will* make from it in the long run, so it's not an accurate measure of impact. <br/> 
-* *Additional sales we would make in the next year if we had this feature.* <br/> This number is low-confidence, high-error. Even in hindsight it's hard to attribute revenue from a single customer to a single feature; if it's unmeasurable *post hoc*, surely it's unpredictable *ex ante*. <br/> 
-* *Use a relative scale, e.g. "1-5," calibrated by previously-created features.* <br/> Defined as "1 is like feature X, 5 is like feature Y." Not only is this a wild guess, different people will interpret the scale differently, yet answers differing by a single point generates a large variance in computed ROI.
+* *الإيرادات التي سنحصل عليها من العملاء الحاليين الذين يطلبون هذه الميزة حاليًا.* <br/> هذا دقيق ولكنه غالبًا لا يرتبط بحجم الأموال *التي سنجنيها* منها على المدى الطويل، لذا فهو ليس مقياسًا دقيقًا للتأثير. <br/>
+* *مبيعات إضافية سنجريها في العام المقبل إذا كانت لدينا هذه الميزة.* <br/> هذا الرقم منخفض الثقة، ومرتفع الخطأ. حتى بعد فوات الأوان، من الصعب أن نعزو الإيرادات من عميل واحد إلى ميزة واحدة؛ إذا كان غير قابل للقياس *بعد ذلك*، فمن المؤكد أنه لا يمكن التنبؤ به *مسبقًا*. <br/>
+* *استخدم مقياسًا نسبيًا، على سبيل المثال. "1-5،" تمت معايرته بواسطة الميزات التي تم إنشاؤها مسبقًا.* <br/> تم تعريفه على أنه "1 يشبه الميزة X، و5 يشبه الميزة Y." لا يعد هذا تخمينًا جامحًا فحسب، بل سيفسر الأشخاص المختلفون المقياس بشكل مختلف، ومع ذلك فإن اختلاف الإجابات بنقطة واحدة يولد تباينًا كبيرًا في عائد الاستثمار المحسوب.
 
-It's even worse when want to combine [multiple metrics of impact](https://longform.asmartbear.com/product-metrics/), e.g. revenue, unit-profitability, and retention. Each contains intrinsic error, then a mathematical combination compounds the error, then the ROI calculation expands the error yet again.
+ويكون الأمر أسوأ عندما تريد الجمع بين [مقاييس التأثير المتعددة](https://longform.asmartbear.com/product-metrics/)، على سبيل المثال. الإيرادات وربحية الوحدة والاحتفاظ بها. يحتوي كل منها على خطأ جوهري، ثم تؤدي مجموعة رياضية إلى تفاقم الخطأ، ثم يؤدي حساب عائد الاستثمار إلى توسيع الخطأ مرة أخرى.
 
-You can't tell from glancing at the spreadsheet, because input numbers appear typical and output numbers boast many digits after the decimal place. But those digits aren't indicative of precision. They're a random number generator.
+You can't tell from glancing at the spreadsheet, because input numbers appear typical and output numbers boast many digits after the decimal place. لكن هذه الأرقام لا تشير إلى الدقة. إنهم مولد أرقام عشوائية.
 
-## The Fermi Solution
+## حل فيرمي
 
-These traps dictate requirements for a solution. We need scores containing dramatically more signal than noise. The scores must be well-defined, which means their definition and estimation should be obvious and uncontroversial.
+هذه الفخاخ تملي متطلبات الحل. نحن بحاجة إلى نتائج تحتوي على إشارات أكثر بكثير من الضوضاء. يجب أن تكون الدرجات محددة جيدًا، مما يعني أن تعريفها وتقديرها يجب أن يكون واضحًا وغير مثير للجدل.
 
-### Only Fermi estimations allowed
+### يُسمح فقط بتقديرات فيرمي
 
-The first full-scale nuclear bomb was detonated at 5:29am, July 16, 1945, in the New Mexican desert of the United States. The physicists who invented it were huddled in a truck behind a plate of welder's glass to reduce the radiation to non-lethal levels.
+تم تفجير أول قنبلة نووية واسعة النطاق في الساعة 5:29 صباحًا، يوم 16 يوليو 1945، في صحراء نيو مكسيكو بالولايات المتحدة. كان الفيزيائيون الذين اخترعوا هذه التقنية مجتمعين في شاحنة خلف لوح من زجاج اللحام لتقليل الإشعاع إلى مستويات غير مميتة.
 
-The physicists were already causing trouble. Future Nobel Prize-winner Richard Feynman inexplicably decided to observe the blast without eye protection, causing frightening but ultimately temporary blindness. Current Nobel Prize-winner Enrico Fermi had taken bets with military guards about how much of the atmosphere would ignite, and whether it would incinerate the entire state or the entire world; some of the guards asked to be excused from the base, angering the project director.
+كان الفيزيائيون يسببون المتاعب بالفعل. قرر ريتشارد فاينمان، الحائز على جائزة نوبل في المستقبل، لسبب غير مفهوم، مراقبة الانفجار دون حماية العين، مما تسبب في عمى مخيف ولكنه مؤقت في النهاية. كان إنريكو فيرمي، الحائز على جائزة نوبل حاليًا، قد راهن مع الحراس العسكريين حول مقدار الغلاف الجوي الذي سيشتعل، وما إذا كان سيحرق الدولة بأكملها أو العالم بأكمله؛ وطلب بعض الحراس إعفاءهم من القاعدة مما أثار غضب مدير المشروع.
 
 !["Enrico Fermi" by Argonne National Laboratory is licensed under CC BY-NC-SA 2.0.](https://public.asmartbear.com/books/anthology/chapters/roi-rubric/d5039459604-6621d3eaac-b-simple.png)
 
-Fermi was also interested in the amount of energy released by the blast--one of the main goals of the test. Not wanting to wait for official analysis, he made his own estimate on the spot, using a technique that now bears his name, and that we will use to fix our rubric:
+كان فيرمي أيضًا مهتمًا بكمية الطاقة المنطلقة من الانفجار، وهو أحد الأهداف الرئيسية للاختبار. لعدم رغبته في انتظار التحليل الرسمي، قام بتقديره الخاص على الفور، باستخدام تقنية تحمل اسمه الآن، والتي سنستخدمها لإصلاح عنواننا:
 
-> About 40 seconds after the explosion the air blast reached me. I tried to estimate its strength by dropping from about six feet small pieces of paper before, during, and after the passage of the blast wave. Since, at the time, there was no wind I could observe very distinctly and actually measure the displacement of the pieces of paper that were in the process of falling while the blast was passing. The shift was about 2 1/2 meters, which, at the time, I estimated to correspond to the blast that would be produced by 10,000 tons of TNT.  
->   
-> --Enrico Fermi, [Top Secret interview](https://www.dannen.com/decision/fermi.html) July 16, 1945, declassified in 1965
+> وبعد حوالي 40 ثانية من الانفجار، وصل إليّ انفجار الهواء. حاولت تقدير قوتها من خلال إسقاط قطع صغيرة من الورق من حوالي ستة أقدام قبل وأثناء وبعد مرور موجة الانفجار. وبما أنه في ذلك الوقت لم تكن هناك رياح، فقد تمكنت من مراقبتها بوضوح شديد وقياس إزاحة قطع الورق التي كانت في طور السقوط أثناء مرور الانفجار. كان التحول حوالي 2 1/2 متر، والذي قدرت في ذلك الوقت أنه يتوافق مع الانفجار الذي سينتج عن 10000 طن من مادة تي إن تي.
+> 
+> --إنريكو فيرمي، [مقابلة سرية للغاية](https://www.dannen.com/decision/fermi.html) 16 يوليو 1945، رفعت عنها السرية في عام 1965
 
-The official estimate of the energy output of the blast was 21,000 tons of TNT. Fermi's estimate was surprisingly accurate given such inaccurate input data and quick, simple, mental calculations. How did he do it?
+وكان التقدير الرسمي لإنتاج الطاقة الناتج عن الانفجار هو 21 ألف طن من مادة تي إن تي. كان تقدير فيرمي دقيقًا بشكل مدهش نظرًا لمثل هذه البيانات المدخلة غير الدقيقة والحسابات العقلية السريعة والبسيطة. كيف فعل ذلك؟
 
-The trick--useful everywhere in life--is to estimate values using only orders-of-magnitude, a.k.a. powers-of-ten. No "low/high ranges," no precision, not even any digits other than a 1 followed by a quantity of 0s. It sounds far too imprecise to be practical, and yet Fermi's bits of paper demonstrate that it just might work.
+الحيلة - المفيدة في كل مكان في الحياة - هي تقدير القيم باستخدام رتب من حيث الحجم فقط، والمعروفة أيضًا باسم قوى العشرة. لا توجد "نطاقات منخفضة/عالية"، ولا دقة، ولا حتى أي أرقام بخلاف 1 متبوعة بكمية من 0. يبدو هذا غير دقيق إلى حد كبير بحيث لا يمكن اعتباره عمليًا، ومع ذلك فإن قصاصات من ورق فيرمي تثبت أنه قد ينجح.
 
 ![gas pumps in front of prophecy gas read fulfilling and self fulfilling](https://public.asmartbear.com/books/anthology/chapters/roi-rubric/d5206print-simple.png)
 
-Joel Spolsky [famously](https://www.cse.unr.edu/~sushil/researchAdvice/GIV1.html) loved an interview question built for Fermi estimation: How many gas stations are there in Los Angeles County? "I don't know," although accurate, fails the interview. Fermi estimation, succeeds.
+جويل سبولسكي [مشهور] (https://www.cse.unr.edu/~sushil/researchAdvice/GIV1.html) أحب سؤال المقابلة المصمم لتقدير فيرمي: كم عدد محطات الوقود الموجودة في مقاطعة لوس أنجلوس؟ "لا أعرف"، رغم أنها دقيقة، إلا أنها تفشل في المقابلة. نجح تقدير فيرمي.
 
-* There are 10 million people in the LA area _(or at least, more than 1 million and less than 100 million, so by the rule of "only powers-of-ten," our number is 10 million. The actual number in LA County happens to be [10 million](https://en.wikipedia.org/wiki/Los_Angeles_County,_California))_.
-* 1 car per person _(or at least, not 10 and not 0.1. The actual number is [0.54](https://la.streetsblog.org/2010/12/13/density-car-ownership-and-what-it-means-for-the-future-of-los-angeles/))_.
-* A person refills 1 time per month *(the actual number is closer to 2.5/month, but it's not 10 and not 0.1)*.
-* A gas station handles 10,000 refills per month *(200 per day yields 6000 per month; it's not 1000 nor 100,000)*.
-* With 10 million refills per month (10 million cars with 1 refill per month), divided by 10,000 refills per station, 1000 gas stations are required.
+* يوجد 10 ملايين شخص في منطقة لوس أنجلوس _(أو على الأقل أكثر من مليون وأقل من 100 مليون، لذلك وفقًا لقاعدة "قوى العشرة فقط"، فإن عددنا هو 10 ملايين. ويصادف أن العدد الفعلي في مقاطعة لوس أنجلوس هو [10 ملايين](https://en.wikipedia.org/wiki/Los_Angeles_County,_California))_.
+* سيارة واحدة لكل شخص _(أو على الأقل، ليس 10 وليس 0.1. العدد الفعلي هو [0.54](https://la.streetsblog.org/2010/12/13/density-car-ownership-and-what-it-means-for-the-future-of-los-angeles/))_.
+* يقوم الشخص بإعادة التعبئة مرة واحدة شهريًا *(العدد الفعلي أقرب إلى 2.5 شهريًا، لكنه ليس 10 وليس 0.1)*.
+* تتعامل محطة الوقود مع 10000 عبوة شهريًا *(200 عبوة في اليوم تنتج 6000 شهريًا؛ إنها ليست 1000 ولا 100000)*.
+* مع 10 ملايين عبوة شهريًا (10 ملايين سيارة مع إعادة تعبئة واحدة شهريًا)، مقسومة على 10000 عبوة لكل محطة، يلزم وجود 1000 محطة وقود.
 
-Despite being wildly inaccurate in detail, the end result of 1000 gas stations is indeed the nearest order-of-magnitude to the actual number of [600](https://lastfiascorun.com/brazil/how-many-gas-stations-in-los-angeles.html). Surprisingly accurate, considering we arrived at an answer in a minute or two, without looking up a single number.
+على الرغم من كونها غير دقيقة إلى حد كبير في التفاصيل، فإن النتيجة النهائية لـ 1000 محطة وقود هي في الواقع أقرب ترتيب من حيث الحجم إلى العدد الفعلي [600] (https://lastfiascorun.com/brazil/how-many-gas-stations-in-los-angeles.html). دقيقة بشكل مدهش، مع الأخذ في الاعتبار أننا وصلنا إلى إجابة في دقيقة أو دقيقتين، دون البحث عن رقم واحد.
 
-What would happen if we used only Fermi estimates in our ROI calculator?
+ماذا سيحدث إذا استخدمنا تقديرات فيرمي فقط في حاسبة عائد الاستثمار؟
 
-An immediate result is that most numbers are trivial to estimate. Note how easy it was to decide the values in the gas station example, because the two adjacent power-of-ten choices were definitely wrong. It's nice to be so confident! Relish that.
+والنتيجة المباشرة هي أن معظم الأرقام يصعب تقديرها. لاحظ مدى سهولة تحديد القيم في مثال محطة الوقود، لأن خياري قوة العشرة المتجاورين كانا خاطئين بالتأكيد. من الجميل أن تكون واثقًا جدًا! استمتع بذلك.
 
-Another result is that we've satisfied one requirement generated from the failures of the rubric: Scores are either identical or *very* different, causing calculation error to be small in comparison. The values are largely obvious and uncontroversial, if only because our artificial constraint on their values makes the adjacent choices absurd. This is progress.
+والنتيجة الأخرى هي أننا استوفينا أحد المتطلبات الناتجة عن فشل نموذج التقييم: تكون النتائج إما متطابقة أو *مختلفة جدًا*، مما يجعل خطأ الحساب صغيرًا بالمقارنة. إن هذه القيم واضحة إلى حد كبير وغير مثيرة للجدل، وذلك فقط لأن قيودنا المصطنعة على قيمها تجعل الاختيارات المجاورة سخيفة. هذا هو التقدم.
 
-Sometimes the numbers are still controversial, e.g. *Could this product produce $1M in the next few years, or actually $10M because it would dramatically increase both retention and our ability to win new deals?* But this debate is a wonderful use of our time, because it means people have wildly different assumptions, or different levels of optimism, or a different understanding of the customer, the market, or the idea. So another constructive result of Fermi estimation is that we spend our debate-time on strategic-level discussions, and no time on areas where we disagree in small degrees that are in any case overwhelmed by typical estimation-error.
+في بعض الأحيان لا تزال الأرقام مثيرة للجدل، على سبيل المثال. *هل يمكن أن ينتج هذا المنتج مليون دولار في السنوات القليلة المقبلة، أو في الواقع 10 ملايين دولار لأنه سيزيد بشكل كبير من الاحتفاظ وقدرتنا على الفوز بصفقات جديدة؟ * لكن هذا النقاش هو استخدام رائع لوقتنا، لأنه يعني أن الناس لديهم افتراضات مختلفة تمامًا، أو مستويات مختلفة من التفاؤل، أو فهم مختلف للعميل، أو السوق، أو الفكرة. ومن ثم فإن النتيجة البناءة الأخرى لتقدير فيرمي هي أننا نقضي وقت نقاشنا في مناقشات على المستوى الاستراتيجي، وليس في المجالات التي نختلف فيها بدرجات صغيرة والتي يطغى عليها خطأ التقدير النموذجي على أي حال.
 
-In exchange for this progress, we lose precision. And admittedly, sometimes we *do* possess precise input data. For example, maybe we could look up the fact that the average number of cars per person is `0.54`, and use that figure instead of `1`. Surely it's wise to retain precision whenever possible? Yes, but only if you recognize that, after doing math with other Fermi estimates, the end result is still not more accurate than the power-of-ten. That is, even using `0.54` instead of `1`, as soon as you combine it with your extremely inaccurate estimate of 10,000 refills-per-station, you still have to zero-out all the digits in the result except the first one. You must meticulously discard the noise; if you're diligent about that, your estimation is more accurate. Otherwise, maybe you should just enjoy the simplicity of the basic Fermi system.
+ومقابل هذا التقدم نفقد الدقة. ومن المسلم به أننا في بعض الأحيان نمتلك بيانات إدخال دقيقة. على سبيل المثال، ربما يمكننا البحث عن حقيقة أن متوسط ​​عدد السيارات لكل شخص هو "0.54"، واستخدام هذا الرقم بدلاً من "1". بالتأكيد من الحكمة الحفاظ على الدقة كلما أمكن ذلك؟ نعم، ولكن فقط إذا أدركت أنه بعد إجراء العمليات الحسابية باستخدام تقديرات فيرمي الأخرى، فإن النتيجة النهائية لا تزال غير أكثر دقة من قوة العشرة. وهذا يعني أنه حتى باستخدام `0.54` بدلاً من `1`، بمجرد دمجه مع تقديرك غير الدقيق للغاية وهو 10000 عبوة لكل محطة، لا يزال يتعين عليك حذف جميع الأرقام في النتيجة باستثناء الرقم الأول. يجب عليك التخلص من الضوضاء بدقة؛ إذا كنت مجتهدًا في ذلك، فإن تقديرك أكثر دقة. بخلاف ذلك، ربما ينبغي عليك الاستمتاع ببساطة نظام فيرمي الأساسي.
 
-So we've satisfied the first requirement. What about the final remaining requirement, which is to clarify the definition of "impact?"
+وبذلك نكون قد حققنا الشرط الأول. ماذا عن المتطلب الأخير المتبقي، وهو توضيح تعريف "الأثر"؟
 
-### Fermi Impact: Quantitive edition
+### تأثير فيرمي: الطبعة الكمية
 
-Fermi estimation solves the puzzle of how to estimate the revenue impact of a sizable feature. We can pick any definition we want, but limit ourselves to Fermi estimation, and suddenly it becomes easy, or at least a simpler discussion. Any of these definitions could work:
+يحل تقدير فيرمي لغز كيفية تقدير تأثير الإيرادات لميزة كبيرة. يمكننا اختيار أي تعريف نريده، ولكن نقتصر على تقدير فيرمي، وفجأة يصبح الأمر سهلاً، أو على الأقل مناقشة أبسط. أي من هذه التعريفات يمكن أن تعمل:
 
-* This feature will increase revenue by: $1k/mo, $10k/mo, $100k/mo
-* This feature will increase new customers/month by: 1, 10, 100, 1000, 10,000
-* The take-rate of this feature in our existing customer base would be: 1%, 10%, 50%
-* The number of customers who would actively use this feature would be: 0.1%, 1%, 10%, 50%
+* ستعمل هذه الميزة على زيادة الإيرادات بمقدار: 1 ألف دولار أمريكي/شهريًا، و10 آلاف دولار أمريكي/شهريًا، و100 ألف دولار أمريكي/شهريًا
+* ستعمل هذه الميزة على زيادة العملاء الجدد شهريًا بمقدار: 1، 10، 100، 1000، 10000
+* سيكون معدل الاستفادة من هذه الميزة في قاعدة عملائنا الحالية: 1%، 10%، 50%
+* سيكون عدد العملاء الذين سيستخدمون هذه الميزة بشكل نشط: 0.1%، 1%، 10%، 50%
 
-We cheated a little in those last two, because "100%" is not a possibility. Still, a 5x separation is pretty good; the danger is when the difference is only 2x or 20%. This is still a much wider spread then, say, [Fibonacci estimation](https://en.wikipedia.org/wiki/Fibonacci_scale_(agile)).
+لقد غشنا قليلاً في هذين الأخيرين، لأن "100%" ليس احتمالاً. ومع ذلك، فإن الفصل 5x جيد جدًا؛ الخطر هو عندما يكون الفرق 2x فقط أو 20٪. لا يزال هذا انتشارًا أوسع بكثير، على سبيل المثال، [تقدير فيبوناتشي](https://en.wikipedia.org/wiki/Fibonacci_scale_(agile)).
 
-It's clear how this works with quantitative measures, but what about important things that are not numbers?
+من الواضح كيف يتم ذلك مع المقاييس الكمية، ولكن ماذا عن الأشياء المهمة التي ليست أرقامًا؟
 
-### Fermi Impact: Qualitative edition
+### تأثير فيرمي: طبعة نوعية
 
-How you score things which aren't numbers like "brand development," "competitive advantage," or "customer delight?"
+كيف تسجل أشياء ليست أرقامًا مثل "تطوير العلامة التجارية" أو "الميزة التنافسية" أو "إسعاد العميل"؟
 
-The following is a real example from a few years ago, when WP Engine was launching a new product line called [Atlas](https://wpengine.com/atlas).[^1] We decided to build a thought-leadership presentation that would engage software developers on topics relevant to the new product line. We wanted it to be genuinely intriguing and useful. We brainstormed twenty-two topic ideas, all pretty good at first glance. How should we select just four or five topics, given that "intriguing" and "useful" are qualitative and subjective?
+ما يلي هو مثال حقيقي منذ بضع سنوات مضت، عندما كان WP Engine يطلق خط إنتاج جديدًا يسمى [Atlas](https://wpengine.com/atlas).[^1] قررنا إنشاء عرض تقديمي لريادة الفكر من شأنه إشراك مطوري البرامج في الموضوعات ذات الصلة بخط الإنتاج الجديد. أردنا أن تكون مثيرة للاهتمام ومفيدة حقا. قمنا بتبادل الأفكار حول اثنين وعشرين فكرة موضوعية، كلها جيدة جدًا للوهلة الأولى. كيف ينبغي لنا أن نختار أربعة أو خمسة مواضيع فقط، مع العلم أن "مثيرة للاهتمام" و"مفيدة" هي أمور نوعية وذاتية؟
 
-[^1]: Tagline: The complete Headless WordPress Platform for absurdly fast dynamic sites.
+[^1]: الشعار: منصة WordPress الكاملة بدون رأس للمواقع الديناميكية السريعة بشكل غير معقول.
 
 ![meeting person realizes hes only brought his c game](https://public.asmartbear.com/books/anthology/chapters/roi-rubric/d6039print-simple.png)
 
-First, we decided on our goal, even if impossible to measure, or not even a number. The primary goal was for **everyone to come away loving the content and interested in our software**. We broke this down into four sub-goals, where the overall goal would be achieved only to the extent that *all four* of the sub-goals were achieved:
+أولا، قررنا هدفنا، حتى لو كان من المستحيل قياسه، أو حتى رقما. كان الهدف الأساسي هو **أن يبتعد الجميع عن المحتوى المحبب والمهتم ببرامجنا**. لقد قسمنا هذا إلى أربعة أهداف فرعية، حيث لن يتم تحقيق الهدف العام إلا إلى الحد الذي تم فيه تحقيق *جميع الأهداف الفرعية الأربعة*:
 
-1. Topic is widely applicable
-2. Topic matters to real people
-3. Topic is insightful (i.e. non-obvious to a typical practitioner)
-4. Topic is relevant to specific features or capabilities in Atlas (i.e. self-promotion)
+1. الموضوع قابل للتطبيق على نطاق واسع
+2. الموضوع مهم للأشخاص الحقيقيين
+3. الموضوع ثاقب (أي غير واضح للممارس النموذجي)
+4. الموضوع ذو صلة بميزات أو إمكانيات محددة في Atlas (أي الترويج الذاتي)
 
-The next step was to convert these concepts into something we could "score," i.e. specific questions that a person could contemplate and debate with another person. Otherwise, two people will have different ideas of what each goal means. The answers still won't be *numbers*, but at least the questions are specific:
+وكانت الخطوة التالية هي تحويل هذه المفاهيم إلى شيء يمكننا "تسجيله"، أي أسئلة محددة يمكن للشخص التفكير فيها ومناقشتها مع شخص آخر. وبخلاف ذلك، سيكون لدى شخصين أفكار مختلفة حول معنى كل هدف. لن تكون الإجابات *أرقامًا*، ولكن الأسئلة محددة على الأقل:
 
-1. How many customers care about this topic?
-2. How *much* do *those* customers care?
-3. How insightful is our perspective on this topic?
-4. How powerfully or uniquely does Atlas pay off the insight?
+1. كم عدد العملاء الذين يهتمون بهذا الموضوع؟
+2. إلى أي مدى *يهتم *هؤلاء العملاء*؟
+3. ما مدى ثاقبة وجهة نظرنا حول هذا الموضوع؟
+4. ما مدى قوة أو تميز Atlas في سداد البصيرة؟
 
-Because the answers aren't things you can measure with numbers and units, we had to use some sort of "1-5" scoring system or, to take the Fermi lesson, powers-of-ten numbers. The key is to *be specific* as to what each number *means*, otherwise two people will have different interpretations for a phrase like "Insight is a 2 out of 5."
+نظرًا لأن الإجابات ليست أشياء يمكنك قياسها بالأرقام والوحدات، فقد كان علينا استخدام نوع من نظام التسجيل "1-5"، أو لنأخذ درس فيرمي، أرقام قوى العشرة. المفتاح هو *أن تكون محددًا* فيما يتعلق بما يعنيه كل رقم، وإلا سيكون لدى شخصين تفسيرات مختلفة لعبارة مثل "البصيرة هي 2 من 5."
 
-#### 1. How many customers care about this topic?
+#### 1. كم عدد العملاء الذين يهتمون بهذا الموضوع؟
 
-| Fermi Value | Definition |
-|----:|:----|
-| `100` | Definitionally everyone |
-| `70` | Most |
-| `30` | Some |
-| `0` | I can think of one or two |
-| `0` | No one |
+| قيمة فيرمي | التعريف | |----:|:----| | `100` | تعريف الجميع | | `70` | معظم | | `30` | بعض | | `0` | أستطيع أن أفكر في واحد أو اثنين | | `0` | لا أحد |
 
-#### 2. How much do those customers care?
+#### 2. ما مدى اهتمام هؤلاء العملاء؟
 
-| Fermi Value | Definition |
-|----:|:----|
-| `1000` | Mission-critical to the success of their project |
-| `100` | "I care; this is a serious concern we've discussed internally" |
-| `10` | "I'm curious, tell me more" |
-| `1` | "Meh, whatever" |
-| `0` | "Don't waste my time with this" |
+| قيمة فيرمي | التعريف | |----:|:----| | `1000` | مهمة حاسمة لنجاح مشروعهم | | `100` | "أنا أهتم؛ هذا مصدر قلق خطير ناقشناه داخليًا" | | `10` | "أنا فضولي، أخبرني المزيد" | | `1` | "مه، مهما كان" | | `0` | "لا تضيع وقتي بهذا" |
 
-#### 3. How insightful is our perspective on this topic?
+#### 3. ما مدى رؤية وجهة نظرنا حول هذا الموضوع؟
 
-| Fermi Value | Definition |
-|----:|:----|
-| `1000` | "Wow!!! This changes everything." |
-| `100` | "I took notes, thanks, that's a great point." |
-| `10` | "Yup, OK, makes sense." |
-| `1` | "No shit, Sherlock." |
-| `0` | "No clue what you're even talking about." |
+| قيمة فيرمي | التعريف | |----:|:----| | `1000` | "رائع!!! هذا يغير كل شيء." | | `100` | "لقد قمت بتدوين الملاحظات، شكرًا، هذه نقطة رائعة." | | `10` | "نعم، حسنًا، هذا منطقي." | | `1` | "لا شيء يا شيرلوك." | | `0` | "ليس لدي أي فكرة عما تتحدث عنه حتى." |
 
-#### 4. How powerfully or uniquely does Atlas pay off the insight?
+#### 4. ما مدى قوة أو تميز Atlas في تحقيق الرؤية؟
 
-| Fermi Value | Definition |
-|----:|:----|
-| `1000` | "Whoa, I'll buy Atlas just for that alone!" |
-| `100` | "Ohhh, nice, OK I'll take a look." |
-| `10` | "That's fine." |
-| `1` | "So what?" |
-| `0` | "I actively do not want this." |
+| قيمة فيرمي | التعريف | |----:|:----| | `1000` | "توقف، سأشتري أطلس لهذا الغرض فقط!" | | `100` | "أوه، جميل، حسنًا سألقي نظرة." | | `10` | "هذا جيّد." | | `1` | "وماذا في ذلك؟" | | `0` | "أنا لا أريد هذا." |
 
-The combination of Fermi values and specificity in both the questions (rather than broad concepts) and values (rather than "1-5") made it easy to score. Because "all four" scores were required to deliver on the original goal, multiplying the scores[^2] sorts the best to the top.
+إن الجمع بين قيم فيرمي والخصوصية في كل من الأسئلة (بدلاً من المفاهيم العامة) والقيم (بدلاً من "1-5") جعل من السهل التسجيل. نظرًا لأن النتائج "الأربعة" كانت مطلوبة لتحقيق الهدف الأصلي، فإن ضرب النتائج[^2] يؤدي إلى ترتيب الأفضل للأعلى.
 
-[^2]: The mathematically-inclined reader might point out that because all values are powers-of-ten, the operation "multiply everything and sort" yields exactly the same result as "Number these 1-5, then add everything and sort," because the latter is just the logarithm of the former. Why, then, bother with Fermi values? (a) As in the first question, specific values (as opposed to strictly only powers-of-ten) might have a valid meaning, which creates different values from "1-5." This "breaks ties" in a meaningful way. (b) By emphasizing that the values are designed to be widely divergent, we generate better specific phrases, and more agreement in scoring each topic, and therefore hopefully a more accurate output.
+[^2]: قد يشير القارئ ذو الميول الرياضية إلى أنه نظرًا لأن جميع القيم هي قوى العشرة، فإن عملية "ضرب كل شيء وفرزه" تعطي نفس النتيجة تمامًا مثل "ترقيم هذه الأرقام من 1 إلى 5، ثم إضافة كل شيء وفرزها،" لأن الأخيرة هي مجرد لوغاريتم الأول. لماذا إذن نهتم بقيم فيرمي؟ (أ) كما في السؤال الأول، قد يكون للقيم المحددة (بدلاً من قوى العشرة فقط) معنى صالحًا، مما يخلق قيمًا مختلفة عن "1-5". وهذا "يقطع العلاقات" بطريقة ذات معنى. (ب) من خلال التأكيد على أن القيم مصممة لتكون متباينة على نطاق واسع، فإننا ننتج عبارات محددة أفضل، والمزيد من الاتفاق في تسجيل كل موضوع، وبالتالي نأمل أن نحصل على نتيجة أكثر دقة.
 
-It worked; the presentation was routinely scored "5 out of 5" in post-event surveys,[^3] and the biggest complaint was a desire for even more detail. That is a "complaint" indicative of success: It means "I want to hear more from you," and therefore is further evidence that the choice of topics was spot-on.
+لقد نجحت؛ تم تسجيل العرض بشكل روتيني "5 من 5" في استطلاعات ما بعد الحدث،[^3] وكانت الشكوى الأكبر هي الرغبة في المزيد من التفاصيل. وهذه "شكوى" تدل على النجاح: فهي تعني "أريد أن أسمع منك المزيد"، وبالتالي فهي دليل إضافي على أن اختيار المواضيع كان في محله.
 
-[^3]: Oh the irony of scoring the presentation 1-5 after everything we just said!
+[^3]: يا لها من سخرية أن نسجل العرض من ١ إلى ٥ بعد كل ما قلناه للتو!
 
-### Fermi time estimates
+### تقديرات وقت فيرمي
 
-We've explored how to estimate "impact" with Fermi-approved values, but what about time-estimates? Those also exhibit large errors. They, too, need the Fermi treatment.
+لقد اكتشفنا كيفية تقدير "التأثير" باستخدام القيم المعتمدة من فيرمي، ولكن ماذا عن تقديرات الوقت؟ تظهر هذه أيضًا أخطاء كبيرة. وهم أيضًا بحاجة إلى علاج فيرمي.
 
 ![so where do you see yourself in ten minutes](https://public.asmartbear.com/books/anthology/chapters/roi-rubric/d4408print-simple.png)
 
-Nearly twenty years ago, before Scrum defeated rivals like Extreme Programming to become the *de facto* standard for waterfall-averse software developers, our engineering team at Smart Bear Software used a simplistic but effective method of estimating work. Our software was installed on-premises by customers (this was The Time Before SaaS), so "continuous deployment" was impossible. Instead, we made a few major releases per year, supplemented with minor bug-fix releases. We planned about four months of work at a time.
+منذ ما يقرب من عشرين عامًا، قبل أن يهزم Scrum منافسيه مثل Extreme Programming ليصبح المعيار *الأمر الواقع* لمطوري البرامج الذين يتجنبون الشلال، استخدم فريقنا الهندسي في Smart Bear Software طريقة مبسطة ولكنها فعالة لتقدير العمل. تم تثبيت برامجنا محليًا بواسطة العملاء (كان هذا هو الوقت الذي سبق SaaS)، لذلك كان "النشر المستمر" مستحيلًا. بدلاً من ذلك، قمنا بإصدار عدد قليل من الإصدارات الرئيسية كل عام، مكملة بإصدارات طفيفة لإصلاح الأخطاء. لقد خططنا لحوالي أربعة أشهر من العمل في المرة الواحدة.
 
-We scrawled each idea on an index card, with only enough space for a title and a few bullets about scope and intent. We placed time estimates in the bottom-right corner, but the only three choices were: `2d`, `2w`, `2m`--two days, two weeks, or two months.[^4] Whatever you think the real estimate is, round up.
+قمنا بكتابة كل فكرة على بطاقة فهرسة، مع مساحة كافية فقط للعنوان وبضع نقاط حول النطاق والهدف. لقد وضعنا تقديرات الوقت في الركن السفلي الأيسر، ولكن الخيارات الثلاثة الوحيدة كانت: `2d`، `2w`، `2m`--يومان، أسبوعين، أو شهرين.[^4] أيًا كان ما تعتقده هو التقدير الحقيقي، قم بالتقريب لأعلى.
 
-[^4]: I hear you yelling "No! Story Points!" Hang in there, it's OK, this was long ago in the Third Age when the Elves still abided in Middle-Earth. Elves don't use story-points.
+[^4]: أسمعك تصرخ "لا! نقاط القصة!" انتظر هناك، لا بأس، كان هذا منذ فترة طويلة في العصر الثالث عندما كان الجان لا يزالون يقيمون في الأرض الوسطى. الجان لا يستخدمون نقاط القصة.
 
-The overwhelming majority of cards generated no disagreement over the estimate; this saved us hours of analysis and debate. The controversial ones were always a matter of definition and scope, which is a typical and important conversation to have, regardless of your system for estimating work.
+لم تولد الغالبية العظمى من البطاقات أي خلاف حول التقدير؛ هذا وفر لنا ساعات من التحليل والنقاش. كانت الأمور المثيرة للجدل دائمًا مسألة تعريف ونطاق، وهي محادثة نموذجية ومهمة يجب إجراؤها، بغض النظر عن نظام تقدير العمل لديك.
 
-To select the items and plan team capacity, we spread the cards across a table, and each person held the set of cards they were going to execute. The project time frame was measured in weeks; a typical window was 16 weeks. We used a rough conversion that two `2d` cards equals one week, and one `2m` card equals eight weeks.[^5] It was easy to see who was over- or under-scheduled, and then load-balance according to capacity and ability.
+لاختيار العناصر وتخطيط قدرة الفريق، قمنا بتوزيع البطاقات على الطاولة، وكان كل شخص يحمل مجموعة البطاقات التي كان سينفذها. تم قياس الإطار الزمني للمشروع بالأسابيع؛ كانت النافذة النموذجية 16 أسبوعًا. استخدمنا تحويلاً تقريبيًا مفاده أن بطاقتين "ثنائية الأبعاد" تساوي أسبوعًا واحدًا، وبطاقة واحدة "2 مليون" تساوي ثمانية أسابيع.[^5] كان من السهل معرفة الأشخاص الذين لديهم جدول أكثر من اللازم أو أقل من اللازم، ثم تحميل الرصيد وفقًا للسعة والقدرة.
 
-[^5]: You might wonder why we didn't just use a mathematically identical scale like `0.5w, 2w, 8w` or some abstract unit of "effort" that could scale like `1`, `4`, `16`, or a Fibonacci number of weeks. The reason for using real time is that we felt it was easier to imagine than abstract units. The reason for keeping the quantity of values to three is the Fermi reason: This minimizes controversy and forces you to think critically about scope.
+[^5]: قد تتساءل لماذا لم نستخدم مقياسًا متطابقًا رياضيًا مثل `0.5w أو 2w أو 8w` أو بعض الوحدات المجردة لـ "الجهد" التي يمكن قياسها مثل `1` أو `4` أو `16` أو عدد من الأسابيع فيبوناتشي. السبب وراء استخدام الوقت الحقيقي هو أننا شعرنا أنه من الأسهل تخيل الوحدات المجردة. السبب وراء إبقاء كمية القيم عند ثلاثة هو سبب فيرمي: هذا يقلل من الجدل ويجبرك على التفكير بشكل نقدي حول النطاق.
 
-If a project required multiple cards (nowadays we'd call that an "epic" or "big rock"), we marked that set of cards with a color. The idea is that either *all* the cards of that color should be accepted, or *none*, otherwise we would have spent a lot of time on something without having shipped a usable feature.
+If a project required multiple cards (nowadays we'd call that an "epic" or "big rock"), we marked that set of cards with a color. الفكرة هي إما *جميع* البطاقات التي تحمل هذا اللون يجب قبولها، أو *لا شيء*، وإلا كنا قد أمضينا الكثير من الوقت على شيء ما دون شحن ميزة قابلة للاستخدام.
 
-Here's the punchline: It typically took a few hours to create the entire plan, and four months later we typically hit the plan within a week of the original estimate.
+وإليك خلاصة القول: عادةً ما يستغرق الأمر بضع ساعات لإنشاء الخطة بأكملها، وبعد أربعة أشهر، نصل إلى الخطة عادةً في غضون أسبوع من التقدير الأصلي.
 
-In retrospect, it's a form of Fermi Estimation. It's not *exactly* powers-of-ten, but measured in work-days it's close: `2` vs `10` vs `45`. Essentially powers-of-five, it still maintained the key idea of Fermi--to have so few choices that the correct one is easy to identify--while also being chunks of time that a human can relate to.
+في وقت لاحق، إنه شكل من أشكال تقدير فيرمي. إنها ليست قوى العشرة *بالضبط*، ولكن عند قياسها بأيام العمل، فهي قريبة: `2` مقابل `10` مقابل `45`. في الأساس، القوى الخمسة، لا تزال تحافظ على الفكرة الأساسية لفيرمي - أن يكون لديك عدد قليل جدًا من الخيارات بحيث يسهل تحديد الخيار الصحيح - بينما تكون أيضًا أجزاء من الوقت يمكن للإنسان أن يرتبط بها.
 
-## Putting it together
+## تجميعها معًا
 
-Let's combine these ideas, do the math, and decide whether it's helping us make better decisions.
+دعونا نجمع هذه الأفكار، ونقوم بالحسابات، ونقرر ما إذا كانت ستساعدنا في اتخاذ قرارات أفضل.
 
-### Single-valued impact
+### تأثير ذو قيمة واحدة
 
-Suppose we're picking features to implement, and the only metric of value is the revenue we believe that feature will generate in the next twelve months. We'll convert "effort" into work-days as given just above, and round ROI to the nearest 10% to make it easy to read. Here's a typical result:
+لنفترض أننا نختار ميزات لتنفيذها، والمقياس الوحيد للقيمة هو الإيرادات التي نعتقد أن هذه الميزة ستولدها خلال الاثني عشر شهرًا القادمة. سنقوم بتحويل "الجهد" إلى أيام عمل كما هو مذكور أعلاه، ونقرب عائد الاستثمار إلى أقرب 10% لتسهيل قراءته. وهذه نتيجة نموذجية:
 
-|  | NTM Revenue | Effort | ROI |
-|:----|----:|:---:|----:|
-| Feature A | $100,000 | 2m | 2200 |
-| Feature B | $10,000 | 2w | 1000 |
-| Feature C | $1,000 | 2d | 500 |
-| Feature D | $10,000 | 2m | 200 |
-| Feature E | $1,000 | 2w | 100 |
+|  | إيرادات NTM | جهد | عائد الاستثمار | |:----|----:|:---:|----:| | الميزة أ | 100,000 دولار | 2م | 2200 | | الميزة ب | 10,000 دولار | 2ث | 1000 | | الميزة ج | 1000 دولار | 2د | 500 | | الميزة د | 10,000 دولار | 2م | 200 | | ميزة ه | 1000 دولار | 2ث | 100 |
 
-This has some nice properties:
+وهذا له بعض الخصائص الجميلة:
 
-#### Biased towards more impact
-Products A and B are examples of "takes more time, but generates more impact." The rubric prefers more impact, even compared to "quick wins." This is a good bias, especially since impact in reality is often less than we had hoped.
+#### متحيز نحو مزيد من التأثير
+المنتجان (أ) و(ب) هما مثالان على "يستغرقان وقتًا أطول، ولكنهما يحققان تأثيرًا أكبر". يفضل عنوان التقييم المزيد من التأثير، حتى بالمقارنة مع "المكاسب السريعة". وهذا تحيز جيد، خاصة وأن التأثير في الواقع غالبا ما يكون أقل مما كنا نأمل.
 
-#### Still correctly ordered if we misjudged
-Consider what happens if we misjudge impact by 20% and effort by 50%--the original hypothetical from the beginning of this article. If Feature A delivered only $80,000 and took three months, the actual ROI would be about 1200, still ahead of Feature B. Or if Feature B delivered $8,000 in three weeks, actual ROI is 533, still ahead of Feature C. Therefore, typical misjudgments are not changing our decision. We fixed that deficiency.
+#### لا يزال أمر صحيح إذا أخطأنا في الحكم
+فكر فيما يحدث إذا أخطأنا في تقدير التأثير بنسبة 20% والجهد بنسبة 50% - وهو الافتراض الأصلي من بداية هذه المقالة. إذا قدمت الميزة "أ" 80000 دولار فقط واستغرقت ثلاثة أشهر، فسيكون عائد الاستثمار الفعلي حوالي 1200، وهو ما يزال متقدمًا على الميزة "ب". أو إذا قدمت الميزة "ب" 8000 دولار في ثلاثة أسابيع، فإن عائد الاستثمار الفعلي هو 533، ولا يزال متقدمًا على الميزة "ج". لذلك، فإن الأحكام الخاطئة النموذجية لا تغير قرارنا. لقد أصلحنا هذا النقص.
 
-#### Easy to explain to others
-It's important to be able to explain your decisions crisply. The typical ROI rubric does not; the explanation is that one item slightly edged out another item, which isn't confidence-inspiring, and doesn't sound like a strategic decision. In contrast, Fermi ROI is easy to summarize; for example, why Feature A was selected: *Feature A has by far the greatest potential for impact. The impact is so large, it's worth spending multiple months on it.* Or why Feature B wasn't selected: *Feature B would be faster to implement, and therefore is a great idea, but Feature A's impact is so much larger, it's still the better choice. If we get part-way into Feature A and realize it's much harder than we thought, or much lower impact than we thought, then we'll pivot into Feature B.*
+#### من السهل أن تشرح للآخرين
+من المهم أن تكون قادرًا على شرح قراراتك بوضوح. نموذج تقييم العائد على الاستثمار (ROI) لا يفعل ذلك؛ والتفسير هو أن أحد العناصر قد تفوق قليلاً على عنصر آخر، وهو ما لا يبعث على الثقة، ولا يبدو وكأنه قرار استراتيجي. في المقابل، من السهل تلخيص عائد استثمار فيرمي؛ على سبيل المثال، سبب اختيار الميزة "أ": *الميزة "أ" تتمتع بأكبر قدر ممكن من التأثير. التأثير كبير جدًا، ويستحق قضاء عدة أشهر عليه.* أو لماذا لم يتم تحديد الميزة "ب": *الميزة "ب" ستكون أسرع في التنفيذ، وبالتالي فهي فكرة رائعة، ولكن تأثير الميزة "أ" أكبر بكثير، ولا تزال الخيار الأفضل. إذا انتقلنا جزئيًا إلى الميزة (أ) وأدركنا أنها أصعب بكثير مما كنا نعتقد، أو أن تأثيرها أقل بكثير مما كنا نعتقد، فسوف ننتقل إلى الميزة (ب).*
 
-### Multi-valued impact
+### تأثير متعدد القيم
 
-In the "presentation" example, we had four impact scores, which we multiplied together. The reason it made sense to combine them in that way, is that *all four are required* to achieve the goal (as explained previously). When you have a case where multiple factors are needed *together* to achieve a singular goal, then multiplying is the correct way to compute the score for that goal.
+في مثال "العرض التقديمي"، كان لدينا أربع درجات تأثير، وقمنا بضربها معًا. والسبب في أنه من المنطقي الجمع بينهما بهذه الطريقة، هو أن *الأربعة مطلوبة* لتحقيق الهدف (كما أوضحنا سابقًا). عندما تكون لديك حالة تحتاج فيها إلى عوامل متعددة *معًا* لتحقيق هدف واحد، فإن الضرب هو الطريقة الصحيحة لحساب النتيجة لذلك الهدف.
 
-A common mistake is to use this formula when there are scores for things which are *not related*. For example, suppose you're wanting to maximize revenue, and also customer delight. You could make a Fermi score for each, but how do you combine them to get an ROI?
+من الأخطاء الشائعة استخدام هذه الصيغة عندما تكون هناك درجات لأشياء *غير مرتبطة*. على سبيل المثال، لنفترض أنك تريد زيادة الإيرادات إلى الحد الأقصى وإسعاد العملاء أيضًا. يمكنك تحقيق درجة فيرمي لكل منها، ولكن كيف يمكنك الجمع بينها للحصول على عائد الاستثمار؟
 
-There are two answers, depending on your philosophy:
+هناك إجابتان، اعتمادًا على فلسفتك:
 
-#### Do not combine unlike attributes
-There is no way to compare "revenue" with "delight." These are different units of measurement, so any combination is nonsensical. Instead, decide which of the factors is *most* important, and compute the ROI of just that. Then, if there is a tie, you can break the tie by comparing "delight." This is also easy to explain after the fact: *Features A, B, and C are equally effective at generating revenue, which is our most important goal. Among those, Feature B also increases customer delight more than the others, so we're implementing B.*
+#### لا تجمع بين الصفات المتباينة
+لا توجد وسيلة لمقارنة "الإيرادات" مع "البهجة". هذه وحدات قياس مختلفة، لذا فإن أي مجموعة منها غير منطقية. بدلاً من ذلك، حدد أي من العوامل هو *الأكثر* أهمية، واحسب عائد الاستثمار لذلك فقط. ثم، إذا كان هناك ربطة عنق، يمكنك كسر التعادل من خلال مقارنة "البهجة". ومن السهل أيضًا شرح ذلك بعد حدوثه: *الميزات أ، ب، ج لها نفس القدر من الفعالية في توليد الإيرادات، وهو هدفنا الأكثر أهمية. ومن بين هذه الميزات، تعمل الميزة "ب" أيضًا على زيادة سعادة العملاء أكثر من غيرها، لذلك نقوم بتنفيذ "ب".*
 
-#### Add instead of multiply (only when attributes are equally important)
-Although it is arguably a lack of strategic decision-making to claim that multiple attributes are all equally important, it can make sense if you are scheduling secondary features. That is, suppose you've already scheduled the most important strategic items, and now you're "filling in" with "quick wins" where you truly don't care in what manner each is a "win." Here you add the values instead of multiply. This way, a huge ROI in one area wins (but we don't care which area). Getting *some* value in two areas, is not as good as getting a *lot* of value in *one* area. This final point is satisfied when you use Fermi values, but traditional rubrics get it wrong.
+#### الإضافة بدلاً من الضرب (فقط عندما تكون السمات على نفس القدر من الأهمية)
+على الرغم من أنه يمكن القول إن الافتقار إلى اتخاذ القرار الاستراتيجي هو الادعاء بأن السمات المتعددة جميعها لها نفس القدر من الأهمية، إلا أنه يمكن أن يكون منطقيًا إذا كنت تقوم بجدولة الميزات الثانوية. وهذا يعني، لنفترض أنك قد قمت بالفعل بجدولة العناصر الإستراتيجية الأكثر أهمية، والآن أنت "تملأ" "المكاسب السريعة" حيث لا تهتم حقًا بأي طريقة يعتبر كل منها "فوزًا". هنا تقوم بإضافة القيم بدلاً من الضرب. بهذه الطريقة، يفوز عائد استثمار ضخم في منطقة واحدة (لكننا لا نهتم بأي منطقة). الحصول على *بعض* القيمة في مجالين، ليس جيدًا مثل الحصول على *الكثير* من القيمة في منطقة *واحدة*. يتم تلبية هذه النقطة الأخيرة عند استخدام قيم فيرمي، لكن العناوين التقليدية تخطئ في فهمها.
 
-## Breaking ties
+## قطع العلاقات
 
-The Fermi-style rubric has another interesting property: **There are only a few unique values of ROI.** In the "revenue" example above, there are only 3 realistic numbers for revenue, and only 3 values of effort, so only 9 unique combinations of ROI.
+يحتوي نموذج تقييم نمط فيرمي على خاصية أخرى مثيرة للاهتمام: **لا يوجد سوى عدد قليل من القيم الفريدة لعائد الاستثمار.** في مثال "الإيرادات" أعلاه، لا يوجد سوى 3 أرقام واقعية للإيرادات، و3 قيم فقط للجهد، أي 9 مجموعات فريدة فقط من عائد الاستثمار.
 
-The good news is, the computation clearly separates the best from the rest. The bad news is, you can easily make ties. In the "presentation" example earlier, in real life we had two topics in clear first and second place, but a three-way tie for third. We didn't have time for all five topics, so we had to break the tie.
+والخبر السار هو أن الحساب يفصل بوضوح الأفضل عن الباقي. الخبر السيئ هو أنه يمكنك بسهولة إقامة العلاقات. في مثال "العرض التقديمي" السابق، كان لدينا في الحياة الواقعية موضوعان في المركز الأول والثاني بشكل واضح، ولكن تعادل ثلاثي في ​​المركز الثالث. لم يكن لدينا الوقت لجميع المواضيع الخمسة، لذلك كان علينا كسر التعادل.
 
-These ties are not a failing of the system. Just the opposite: It means we are able to identify ties, rather than allowing noise to trick us into believing one is the "winner."
+هذه العلاقات ليست فشلاً للنظام. بل على العكس تماما: فهذا يعني أننا قادرون على تحديد الروابط، بدلا من السماح للضوضاء بخداعنا للاعتقاد بأن أحدهم هو "الفائز".
 
 ![recommended against upping game while taking to next level](https://public.asmartbear.com/books/anthology/chapters/roi-rubric/d7195print-simple.png)
 
-Still, we have to break the tie. There are several ways to do it, while preserving the advantages of this method.
+ومع ذلك، علينا أن نكسر التعادل. هناك عدة طرق للقيام بذلك، مع الحفاظ على مزايا هذه الطريقة.
 
-### Adding precision or intentional bias
+### إضافة الدقة أو التحيز المتعمد
 
-It's tempting to add "precision" to your input values, and indeed that might break the tie. But beware of falling back into the accuracy problem and the explanatory deficiency of typical rubrics.
+من المغري إضافة "الدقة" إلى قيم الإدخال الخاصة بك، وفي الواقع قد يؤدي ذلك إلى كسر التعادل. لكن احذر من الوقوع مرة أخرى في مشكلة الدقة والنقص التوضيحي في نماذج التقييم النموذجية.
 
-You should add precision only if:
+يجب عليك إضافة الدقة فقط إذا:
 
-1. You are certain the precision is accurate, or
-2. You are creating an intentional bias, e.g. to over-weight one factor relative to another.
+1. أنت متأكد من أن الدقة دقيقة، أو
+2. أنت تقوم بإنشاء تحيز متعمد، على سبيل المثال. لزيادة الوزن عامل واحد بالنسبة إلى آخر.
 
-There's a mathematical trap in option (2). It's tempting to "weight" a factor by multiplying it by a constant, e.g. "we'll double this score, so it counts twice as much as other scores." However, this actually doesn't do anything at all, because it just means all totals for all items are multiplied by 2; this doesn't change the ordering, and doesn't break ties.
+هناك فخ رياضي في الخيار (2). من المغري "وزن" العامل عن طريق ضربه في ثابت، على سبيل المثال. "سنضاعف هذه النتيجة، لذا فهي تعادل ضعف النتائج الأخرى." ومع ذلك، هذا في الواقع لا يفعل أي شيء على الإطلاق، لأنه يعني فقط ضرب جميع المجاميع لجميع العناصر في 2؛ هذا لا يغير الترتيب ولا يقطع العلاقات.
 
-Instead, what matters are the sizes of the *intervals between* the choices. That is, if scoring for this item was originally `1`, `10`, `100`, you could *reduce* how sensitive the total is to this value by diminishing the differences between values, e.g. by going up by powers of three instead of powers of ten: `1`, `3`, `9`.
+وبدلاً من ذلك، ما يهم هو أحجام *الفواصل الزمنية بين* الاختيارات. بمعنى، إذا كانت النتيجة لهذا العنصر في الأصل `1`، `10`، `100`، فيمكنك *تقليل* مدى حساسية الإجمالي لهذه القيمة عن طريق تقليل الاختلافات بين القيم، على سبيل المثال. بالصعود بقوى الثلاثة بدلاً من القوى العشرة: `1`، `3`، `9`.
 
-You also don't need to keep the spacing regular. You might rank more options as a `0` to effectively "filter out" things that don't meet a desired standard. You might decide that the two options at the top of the scale, that originally were `100` and `1000`, should be more like `800` and `1000`, reflecting a bias that "both options have essentially the same value, one just slightly more."
+لا تحتاج أيضًا إلى الحفاظ على التباعد منتظمًا. يمكنك تصنيف المزيد من الخيارات على أنها "0" "لتصفية" الأشياء التي لا تلبي المعيار المطلوب بشكل فعال. قد تقرر أن الخيارين الموجودين في أعلى المقياس، اللذين كانا في الأصل "100" و"1000"، يجب أن يكونا أشبه بـ "800" و"1000"، مما يعكس انحيازًا مفاده أن "كلا الخيارين لهما نفس القيمة بشكل أساسي، ولكن أحدهما أكثر قليلاً".
 
-### The run-off
+### الجريان السطحي
 
-Given a set of items that we've agreed are "equal in ROI," pick a new dimension to break the tie.
+نظرًا لأن مجموعة العناصر التي اتفقنا عليها "متساوية في عائد الاستثمار"، اختر بُعدًا جديدًا لكسر التعادل.
 
-Time-estimates are no longer part of the process. We already agreed these are efficient in terms of impact-versus-time, so now we focus only on some additional dimension of value. This simplifies the process, which is not only nice for decision-making, but also for explaining the decision.
+لم تعد تقديرات الوقت جزءًا من العملية. لقد اتفقنا بالفعل على أن هذه العناصر تتسم بالكفاءة من حيث التأثير مقابل الوقت، لذلك نركز الآن فقط على بعض الأبعاد الإضافية للقيمة. وهذا يبسط العملية، وهو أمر ليس جيدًا فقط لاتخاذ القرار، ولكن أيضًا لشرح القرار.
 
-If you don't want to evaluate the items along a new dimension, you could eliminate some of the existing dimensions. For example, in the "presentation" case, we decided that, all else being equal, we would rather select topics where we have a really interesting insight, rather than topics that are great at selling the product. Therefore, we performed a run-off using "insight × reach," ignoring the other values.
+إذا كنت لا تريد تقييم العناصر على طول بُعد جديد، فيمكنك حذف بعض الأبعاد الموجودة. على سبيل المثال، في حالة "العرض التقديمي"، قررنا أنه، مع تساوي جميع العوامل الأخرى، فإننا نفضل اختيار الموضوعات التي لدينا فيها رؤية مثيرة للاهتمام حقًا، بدلاً من الموضوعات الرائعة في بيع المنتج. ولذلك، أجرينا جولة إعادة باستخدام "البصيرة × الوصول"، متجاهلين القيم الأخرى.
 
-To determine which is the most important dimension to maximize, using this guiding question:
+لتحديد البعد الأكثر أهمية الذي يجب تعظيمه، استخدم هذا السؤال الإرشادي:
 
-> If we maximize this dimension in the next few months, then even if we get nothing else accomplished, it will still be a success.  
->   
-> Conversely, if we moved other needles, but this dimension remained unchanged, it will have been a failure.
+> إذا قمنا بتعظيم هذا البعد في الأشهر القليلة المقبلة، فحتى لو لم نحقق أي شيء آخر، فسيظل ذلك نجاحًا.
+> 
+> وعلى العكس من ذلك، إذا قمنا بتحريك إبر أخرى، لكن هذا البعد بقي دون تغيير، فسيكون ذلك بمثابة فشل.
 
-### The human factor
+### العامل البشري
 
-A different way to break the tie is to include something else that you value, but that shouldn't be used to make the primary decision.
+هناك طريقة مختلفة لكسر التعادل وهي تضمين شيء آخر تقدره، ولكن لا ينبغي استخدام ذلك لاتخاذ القرار الأساسي.
 
-Since the primary decision is a tie, we're "allowed" to indulge ourselves in something else, even something unconnected to "business metrics" in the usual sense. Because we've already maximized a business metric, you could break ties using something completely different:
+وبما أن القرار الأساسي هو التعادل، فإنه "يُسمح لنا" بالانغماس في شيء آخر، حتى لو كان شيئًا غير مرتبط بـ "مقاييس الأعمال" بالمعنى المعتاد. نظرًا لأننا قمنا بالفعل بزيادة مقياس الأعمال إلى الحد الأقصى، فيمكنك قطع الروابط باستخدام شيء مختلف تمامًا:
 
-##### Team Excitement
+##### إثارة الفريق
 
-Whether because it's fun, interesting, or the team is just tired of hearing certain customer feedback and really wants to do something about it, "excitement" is an excellent, under-appreciated attribute. Excited teams are happier, feel more fulfilled, feel more listened-to, and work harder and better. It is the elusive ["win-win."](https://longform.asmartbear.com/authentic-is-dead/)
+سواء كان الأمر ممتعًا أو مثيرًا للاهتمام أو أن الفريق قد سئم من سماع تعليقات معينة من العملاء ويريد حقًا أن يفعل شيئًا حيال ذلك، فإن "الإثارة" هي سمة ممتازة لا تحظى بالتقدير. الفرق المتحمسة تكون أكثر سعادة، وتشعر بمزيد من الرضا، وتشعر بمزيد من الاستماع إليها، وتعمل بجدية أكبر وأفضل. إنه ["الفوز للجميع."] (https://longform.asmartbear.com/authentic-is-dead/) بعيد المنال
 
-Since "excitement" is an ambiguous term, one way to convert to a Fermi value is the following:
+بما أن "الإثارة" مصطلح غامض، فإن إحدى طرق التحويل إلى قيمة فيرمي هي ما يلي:
 
-| Fermi <br/> Excitement | Definition |
-|----:|:----|
-| `0` | No one is excited to work on it. |
-| `1` | One person is excited to work on it. |
-| `10` | About half the team is excited to work on it. |
-| `100` | All, or all but one, is excited to work on it. |
+| فيرمي <br/> اثارة | التعريف | |----:|:----| | `0` | لا أحد متحمس للعمل عليه. | | `1` | شخص واحد متحمس للعمل عليه. | | `10` | حوالي نصف الفريق متحمس للعمل عليه. | | `100` | الجميع، أو الجميع باستثناء واحد، متحمسون للعمل عليه. |
 
-##### Confidence
+##### ثقة
 
-Confidence is hard to measure, but you know it when you feel it (or don't feel it). It might not be correlated with risk--just because you are confident, doesn't mean you are correct. Still, faced with two choices, where you're sure you know how to execute the first, but with the second you're full of doubt, it's logical to pick the first.
+من الصعب قياس الثقة، لكنك تعرفها عندما تشعر بها (أو لا تشعر بها). قد لا يكون ذلك مرتبطًا بالمخاطرة - فمجرد ثقتك لا يعني أنك على صواب. ومع ذلك، في مواجهة خيارين، حيث تكون متأكدًا من أنك تعرف كيفية تنفيذ الأول، ولكن مع الثاني، تكون مليئًا بالشك، فمن المنطقي أن تختار الأول.
 
-Since "confidence" is an ambiguous term, some people use some sort of risk percentage, e.g. "I'm 60% sure we can do this." But [pinning down a number is suspicious](https://longform.asmartbear.com/probability-words/), and debates don't seem fruitful. One way to convert to a Fermi value is the following:
+نظرًا لأن "الثقة" مصطلح غامض، فإن بعض الأشخاص يستخدمون نوعًا ما من نسبة المخاطر، على سبيل المثال. "أنا متأكد بنسبة 60% من قدرتنا على القيام بذلك." لكن [تثبيت رقم أمر مريب](https://longform.asmartbear.com/probability-words/)، ولا تبدو المناقشات مثمرة. إحدى طرق التحويل إلى قيمة فيرمي هي ما يلي:
 
-| Fermi <br/> Confidence | Definition |
-|----:|:----|
-| `0` | There's no way we can pull this off. |
-| `1` | I mean we can try, but don't be surprised when it fails. |
-| `10` | We can probably do this; we'll be surprised if it goes very wrong. |
-| `100` | This is completely within our domain of expertise, we've successfully executed something similar in the past, and nothing in the task-breakdown is uncertain. |
+| فيرمي <br/> الثقة | التعريف | |----:|:----| | `0` | لا توجد طريقة يمكننا من خلالها سحب هذا. | | `1` | أعني أنه يمكننا المحاولة، لكن لا تتفاجأ عندما تفشل. | | `10` | ربما يمكننا القيام بذلك؛ سنفاجأ إذا سارت الأمور بشكل خاطئ. | | `100` | يقع هذا تمامًا ضمن مجال خبرتنا، وقد نجحنا في تنفيذ شيء مماثل في الماضي، ولا يوجد شيء غير مؤكد في تفاصيل المهام. |
 
-Good luck!
+حظ سعيد!

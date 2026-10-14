@@ -20,85 +20,72 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** متى يكون التحول إلى 'خبير' ضاراً بريادة الأعمال والابتكار تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# When being an "expert" is harmful
-
-> **Executive Summary:** Expertise hinders learning. Learn from these examples, so that you leverage your expertise, but aren't blinded by it. Insights come from curiosity, not certainty.
-> **Original URL:** [https://longform.asmartbear.com/expert-harmful/](https://longform.asmartbear.com/expert-harmful/)
-
 ![i told you its an inkblot theyre all inkblots](https://public.asmartbear.com/books/anthology/chapters/expert-harmful/d1114print-simple.png)
 
-In an all-hands discussion at Austin Texas's premier startup incubator [Capital Factory](https://capitalfactory.com/), one of the founders started a question with a well-worn preamble:
+في مناقشة شاملة في حاضنة الشركات الناشئة الرائدة في أوستن تكساس [Capital Factory] (https://capitalfactory.com/)، بدأ أحد المؤسسين سؤالًا بديباجة مبتذلة:
 
-> "A bunch of mentors told me the same thing about pricing, but I'm telling you, they're wrong. **I know our industry**, I know how our customers think, and in our industry ..."
+> "أخبرتني مجموعة من المرشدين بنفس الشيء عن التسعير، ولكنني أقول لك إنهم مخطئون. **أعرف صناعتنا**، وأعرف كيف يفكر عملاؤنا، وفي صناعتنا..."
 
-What followed was well-reasoned and sensible. Since none of the mentors have specific expertise in the industry in question, it was impossible to argue.
+وما تلا ذلك كان منطقياً ومعقولاً. نظرًا لعدم امتلاك أي من المرشدين خبرة محددة في الصناعة المعنية، كان من المستحيل الجدال.
 
-So rather than argue, I just asked:
+لذا بدلاً من الجدال، سألت فقط:
 
-> "OK, so when you talked to the last dozen potential customers and proposed the pricing scheme you just described, you're telling me they all said, 'Heck yes'?"  
->   
-> "Well, I didn't actually *ask* them, no."  
->   
-> "Why not?"  
->   
-> "Because I know what they're going to say."  
->   
-> "Great! So, next week you're going to a convention where you'll talk to dozens of new potential customers. Do me a favor--humor me!--and include your pricing scheme in the pitch. I'm sure you're right and they'll be thrilled; since you're so certain, it will be easy. In fact, it will strengthen your pitch because it will match their expectations and therefore mitigate any worry that you don't 'get it.'"  
->   
-> "OK, I will!"
+> "حسنًا، عندما تحدثت مع آخر عشرة عملاء محتملين واقترحت خطة التسعير التي وصفتها للتو، فأنت تخبرني أنهم جميعًا قالوا: "حسنًا، نعم"؟"
+> 
+> "حسنًا، أنا لم أسألهم في الواقع، لا."
+> 
+> "ولم لا؟"
+> 
+> "لأنني أعرف ما سيقولونه."
+> 
+> "رائع! إذًا، ستذهب في الأسبوع القادم إلى مؤتمر حيث ستتحدث إلى العشرات من العملاء المحتملين الجدد. اصنع لي معروفًا - داعبني! - وقم بتضمين مخطط التسعير الخاص بك في العرض التقديمي. أنا متأكد من أنك على حق وسيشعرون بسعادة غامرة؛ وبما أنك متأكد تمامًا، سيكون الأمر سهلاً. في الواقع، سيعزز ذلك عرضك التقديمي لأنه سيتوافق مع توقعاتهم وبالتالي يخفف من أي قلق من عدم فهمك للأمر."
+> 
+> "حسنا، سأفعل!"
 
-I could already see the self-satisfaction on her face. She *knew* she'd have a great "I told you so" moment next week, and in fact I was equally sure she'd have that moment! She *is* the expert, I'm not. Case closed.
+أستطيع أن أرى بالفعل الرضا عن النفس على وجهها. لقد عرفت أنها ستحظى بلحظة رائعة "لقد أخبرتك بذلك" الأسبوع المقبل، وفي الواقع كنت متأكدًا أيضًا من أنها ستحظى بهذه اللحظة! إنها * هي * الخبيرة، وأنا لست كذلك. القضية مغلقة.
 
-Of course (you know what's coming), it turns out she was wrong. And **whenever an assumption is kicked out from under you, that's when you learn the most.**
+بالطبع (تعرفون ما سيأتي)، اتضح أنها كانت مخطئة. و**عندما يتم طرد أي افتراض من تحتك، فهذا هو الوقت الذي تتعلم فيه أكثر.**
 
-The following week she sent me this email. The conversation above was my best recollection, but the following is a direct quote (with my emphasis):
+في الأسبوع التالي أرسلت لي هذه الرسالة الإلكترونية. كانت المحادثة أعلاه أفضل ما أتذكره، ولكن ما يلي هو اقتباس مباشر (مع التركيز على ما يلي):
 
-> Ever since accidentally stumbling upon lean startup 1+ years ago, I've struggled to implement the principles correctly. Somehow my version of "lean" customer discovery involved hour long phone calls, relationship-building networking meetings, vague answers to improperly formulated questions...  
->   
-> **In the past week of quick phone calls to vendors, I've learned more about this market than I did in the past year.[^1]** I also got a good feel for when I no longer needed to do further discovery.
+> منذ أن عثرت بطريق الخطأ على شركة Lean Startup منذ أكثر من عام، وجدت صعوبة في تنفيذ المبادئ بشكل صحيح. بطريقة ما، تضمنت نسختي من اكتشاف العملاء "البسيط" مكالمات هاتفية مدتها ساعة، واجتماعات للتواصل لبناء العلاقات، وإجابات غامضة على الأسئلة التي تمت صياغتها بشكل غير صحيح...
+> 
+> **في الأسبوع الماضي الذي اتسمت فيه بالمكالمات الهاتفية السريعة مع الموردين، تعلمت عن هذا السوق المزيد مما تعلمته في العام الماضي.[^1]** كما أنني شعرت جيدًا عندما لم أعد بحاجة إلى إجراء المزيد من الاكتشافات.
 
-[^1]: If you similarly need guidance on how to do [customer discovery better, here's my method](https://longform.asmartbear.com/customer-development/).
+[^1]: إذا كنت تحتاج أيضًا إلى إرشادات حول كيفية إجراء [اكتشاف العملاء بشكل أفضل، فإليك طريقتي](https://longform.asmartbear.com/customer-development/).
 
-We're all plagued by this defect of human nature--thinking we know more than we do--which then causes us to miss opportunities to actually *learn* something. **I still struggle**--in every customer call I have to consciously restrain myself from pitching, instead asking questions, genuinely trying to understand what *they* mean instead of mapping their words onto what I want them to say.
+نحن جميعًا نعاني من هذا العيب في الطبيعة البشرية - معتقدين أننا نعرف أكثر مما نعرف - مما يؤدي إلى تفويت الفرص لتعلم شيء ما فعليًا. **ما زلت أعاني**--في كل مكالمة مع العملاء، يجب أن أمنع نفسي عن الترويج، وبدلاً من ذلك طرح الأسئلة، وأحاول بصدق فهم ما يقصدونه بدلاً من ربط كلماتهم بما أريدهم أن يقولوه.
 
 !["P.S. Just in case, the above is meant to be a joke and a social commentary on the hubris of self declared experts. It's based upon precisely nothing. Just because someone draws a graph, doesn't make it real." --Simon Wardley, 2008](https://public.asmartbear.com/books/anthology/chapters/expert-harmful/image-1-simple.png)
 
-The worst is [when you're an "expert"](https://longform.asmartbear.com/expert-distraction/) because then you're even *less* likely to challenge your assumptions.
+الأسوأ هو [عندما تكون "خبيرًا"](https://longform.asmartbear.com/expert-distraction/) لأنك حينها *أقل* احتمالًا لتحدي افتراضاتك.
 
-As an "expert" you've devised your own laws about what makes your market different from other markets, and what makes your company unique. Even with prior experience, this knowledge based largely on *feeling*, not *fact*.
+باعتبارك "خبيرًا"، فقد قمت بوضع قوانينك الخاصة حول ما يجعل سوقك مختلفًا عن الأسواق الأخرى، وما الذي يجعل شركتك فريدة من نوعها. حتى مع الخبرة السابقة، تعتمد هذه المعرفة إلى حد كبير على *الشعور*، وليس *الحقيقة*.
 
-When I say this to "experts," their first reaction is (of course) defensive. "But I have 15 years of experience selling into the financial services sector; I know what makes them tick." Shoot, I used this excuse myself recently: "I built a company and forged dozens of customer relationships in the software development tools sector; I know exactly how to sell into that market."
+عندما أقول هذا لـ "الخبراء"، يكون رد فعلهم الأول (بالطبع) دفاعيًا. "لكن لدي 15 عامًا من الخبرة في البيع في قطاع الخدمات المالية، وأعرف ما الذي يجعلهم مميزين." حسنًا، لقد استخدمت هذا العذر بنفسي مؤخرًا: "لقد قمت ببناء شركة وأقمت العشرات من العلاقات مع العملاء في قطاع أدوات تطوير البرمجيات؛ وأنا أعرف بالضبط كيفية البيع في هذا السوق."
 
-This is wrong for a number of reasons.
+وهذا خطأ لعدد من الأسباب.
 
-First, markets change rapidly. You can't rely on five-year-old information about your potential customers--even the stodgy big-company ones but especially the mass-market consumer ones.
+أولاً، تتغير الأسواق بسرعة. لا يمكنك الاعتماد على معلومات عمرها خمس سنوات عن عملائك المحتملين - حتى عملاء الشركات الكبيرة، ولكن بشكل خاص العملاء المستهلكين في السوق الشامل.
 
-Non-technical people now employ technology (iPhones, Facebook). Industries built around control of process and information are now out of control (real estate, book publishing). Methods of reaching consumers change every year (compare SEO or AdWords strategies from 2003 and 2010).[^2] Expectations of what software should do, or what it should integrate with, or whether it's OK for data to live on your laptop or someone else's server, or whether it needs to be accessible from a cellphone--it's all changing, all the time.
+يستخدم الأشخاص غير التقنيين الآن التكنولوجيا (iPhone وFacebook). إن الصناعات المبنية حول السيطرة على العمليات والمعلومات أصبحت الآن خارج نطاق السيطرة (العقارات، نشر الكتب). تتغير طرق الوصول إلى المستهلكين كل عام (قارن بين إستراتيجيات تحسين محركات البحث أو AdWords من عام 2003 و2010).[^2] التوقعات بشأن ما يجب أن تفعله البرامج، أو ما يجب أن تتكامل معه، أو ما إذا كان من المقبول أن تبقى البيانات على الكمبيوتر المحمول الخاص بك أو خادم شخص آخر، أو ما إذا كان يجب الوصول إليها من الهاتف المحمول - كل شيء يتغير طوال الوقت.
 
-[^2]: *Editor's Note from 2024:* In 2003 with Smart Bear I was often the only bidder for a keyword, and paid $0.05/click, and therefore I was able to use AdWords to bootstrap that company. By 2010, when I started WP Engine, AdWords were too expensive to start with anything but long-tail phrases, and only become a staple of marketing when we could afford it, and even then was always one of the lowest-ROI marketing activities. Today in 2024, most bootstrappers say it's prohibitively expensive to use advertisement at all; this might partly be a reflection of their lack of sophistication in paid-advertising, but also the ROI of AdWords has continued to worsen.
+[^2]: *ملاحظة المحرر من عام 2024:* في عام 2003 مع Smart Bear، كنت غالبًا المزايد الوحيد لكلمة رئيسية، ودفعت 0.05 دولار لكل نقرة، وبالتالي تمكنت من استخدام AdWords لبدء تلك الشركة. بحلول عام 2010، عندما بدأت تشغيل WP Engine، كان برنامج AdWords مكلفًا للغاية بحيث لا يمكن البدء بأي شيء سوى العبارات الطويلة، ولم يصبح عنصرًا أساسيًا في التسويق إلا عندما نتمكن من تحمل تكاليفه، وحتى ذلك الحين كان دائمًا أحد الأنشطة التسويقية ذات عائد الاستثمار الأقل. اليوم في عام 2024، يقول معظم خبراء التمهيد أن استخدام الإعلانات على الإطلاق أمر مكلف للغاية؛ قد يكون هذا انعكاسًا جزئيًا لافتقارهم إلى التطور في مجال الإعلانات المدفوعة، ولكن أيضًا عائد استثمار AdWords استمر في التدهور.
 
-Ironically your 10-15 years of experience "in the field" **might be clouding your judgment**. Some of that experience is invaluable--so much so that it's an [unfair advantage](https://longform.asmartbear.com/unfair-advantages/) and something you really should [leverage](https://longform.asmartbear.com/leverage/). But your outmoded ideas prevent you from addressing the market *as it is today*, allowing a competitor to beat you with **innovative advances they achieve exactly because they're not shackled by old ideas.**
+ومن المفارقات أن خبرتك التي تتراوح ما بين 10 إلى 15 عامًا "في هذا المجال" ** قد تؤثر على حكمك **. بعض هذه التجارب لا تقدر بثمن - لدرجة أنها [ميزة غير عادلة](https://longform.asmartbear.com/unfair-advantages/) وشيء يجب عليك حقًا [الاستفادة منه](https://longform.asmartbear.com/leverage/). لكن أفكارك التي عفا عليها الزمن تمنعك من مخاطبة السوق *كما هو الحال اليوم*، مما يسمح للمنافس أن يهزمك بـ **التطورات المبتكرة التي يحققها بالضبط لأنه غير مقيد بالأفكار القديمة.**
 
-Another way your experience can hamper you is that **selling different products into the same industry is different.**
+هناك طريقة أخرى قد تعيقك تجربتك وهي أن **بيع منتجات مختلفة في نفس الصناعة أمر مختلف.**
 
-For example, I talked to an entrepreneur with years of experience selling a standard medical device to doctors. He has an idea for a new software package for managing an expensive, time-consuming aspect of practice-management. Of course his Rolodex gives him an lovely advantage--he can bounce ideas off potential customers and line up ten alpha testers before writing a line of code.
+على سبيل المثال، تحدثت إلى رجل أعمال يتمتع بسنوات من الخبرة في بيع الأجهزة الطبية القياسية للأطباء. كانت لديه فكرة عن حزمة برامج جديدة لإدارة جانب مكلف ومستهلك للوقت من إدارة الممارسة. بالطبع، يمنحه Rolodex الخاص به ميزة رائعة - حيث يمكنه طرح الأفكار على العملاء المحتملين وتشكيل عشرة مختبرين ألفا قبل كتابة سطر من التعليمات البرمجية.
 
-But he hadn't done that. He told me that he's been selling to doctors for years. I asked whether it was OK to install new software on their computer; he didn't know because he was selling hardware before. I asked whether it was OK to depend on an internet connection inside a secured hospital; he said "probably" but he'd never asked. I wondered what they would pay for this software; he said they paid a lot for this medical device so it should be easy to get lots of money for this software. I doubted that the budget for front-office software bears any relation to the budget for devices; he hadn't thought of that. I asked how many people had agreed they actually wanted this particular software, [even for free](https://longform.asmartbear.com/purgatory/), and he said zero, so far. But that didn't worry him.
+لكنه لم يفعل ذلك. أخبرني أنه كان يبيع للأطباء منذ سنوات. سألته عما إذا كان من المقبول تثبيت برامج جديدة على أجهزة الكمبيوتر الخاصة بهم؛ لم يكن يعرف لأنه كان يبيع الأجهزة من قبل. سألت إذا كان من المقبول الاعتماد على الاتصال بالإنترنت داخل مستشفى آمن؛ قال "ربما" لكنه لم يسأل قط. تساءلت كم سيدفعون مقابل هذا البرنامج؛ وقال إنهم دفعوا الكثير مقابل هذا الجهاز الطبي، لذلك سيكون من السهل الحصول على الكثير من المال مقابل هذا البرنامج. كنت أشك في أن ميزانية برامج المكتب الأمامي لها أي علاقة بميزانية الأجهزة؛ لم يفكر في ذلك. سألته عن عدد الأشخاص الذين وافقوا على أنهم يريدون هذا البرنامج بالذات، [حتى مجانًا](https://longform.asmartbear.com/purgatory/)، فأجاب صفرًا حتى الآن. لكن ذلك لم يقلقه.
 
-Your knowledge of one slice of a market doesn't automatically set you up for other slices. You're not starting from scratch, but you have to have an attitude of re-learning, of questioning everything.
+إن معرفتك بشريحة واحدة من السوق لا تؤهلك تلقائيًا لشرائح أخرى. أنت لا تبدأ من الصفر، لكن يجب أن يكون لديك توجه لإعادة التعلم، والتشكيك في كل شيء.
 
-Of course if you can *fuse* your special knowledge with an *open mind*, that could very well be an unbeatable combination.
+بالطبع، إذا كان بإمكانك *دمج* معرفتك الخاصة بعقل *منفتح*، فقد يكون هذا مزيجًا لا يهزم.
 
-But you have to set your ego aside and actively force yourself to **explore anew with a "child-like" mind**. Use that Rolodex to set up meetings and sales calls, but don't assume you know [what they're going to say](https://longform.asmartbear.com/customer-development/). Use that experience to come up with plausible theories, not to make decisions.
+ولكن عليك أن تضع غرورك جانبًا وتجبر نفسك على **الاستكشاف من جديد بعقل "شبيه بالطفل"**. استخدم Rolodex لإعداد الاجتماعات ومكالمات المبيعات، ولكن لا تفترض أنك تعرف [ما سيقولونه](https://longform.asmartbear.com/customer-development/). استخدم هذه الخبرة للتوصل إلى نظريات معقولة، وليس لاتخاذ قرارات.
 
-It won't happen unless you force yourself to do it.
+لن يحدث ذلك إلا إذا أجبرت نفسك على القيام بذلك.
 
-After all, you're the expert.
+بعد كل شيء، أنت الخبير.

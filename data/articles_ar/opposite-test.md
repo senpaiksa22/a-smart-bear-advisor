@@ -20,58 +20,45 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** اختبار العكس: الطريقة الذهبية لمعرفة هل استراتيجيتك حقيقية أم مجرد بديهيات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The "Opposite Test"
-
-> **Executive Summary:** Elevate your product marketing: Use the Opposite Test to avoid generic bullet points and craft compelling, unique features.
-> **Original URL:** [https://longform.asmartbear.com/opposite-test/](https://longform.asmartbear.com/opposite-test/)
-
 ![Trays on desk - 'Actions.' and 'Equal & Opposite Reactions.'](https://public.asmartbear.com/books/anthology/chapters/opposite-test/d7897print-simple.png)
 
-I'm sick of generic feature/benefit bullet points. They're too easy to make fun of. Here's a sampling from a website that will remain nameless to protect the guilty:
+لقد سئمت من النقاط العامة للميزات/الفوائد. من السهل جدًا السخرية منهم. إليك عينة من موقع ويب سيبقى بدون اسم لحماية المذنبين:
 
-* Easy to use
-* Robust features
-* Innovative systems
-* Customer-first
+* سهل الاستخدام
+* ميزات قوية
+* أنظمة مبتكرة
+* العميل أولاً
 
-Really, it's easy to use? As opposed to what, difficult and temperamental? Robust, huh? Great, because from here it looks tenuously held together, the slightest breeze threatening to crumble its delicate construction, so it's good to know that, actually, it's robust. Oh I'm sorry, the _product_ isn't robust, the *features* are robust, whatever *that* means.
+حقا، أنه من السهل الاستخدام؟ على عكس ماذا، صعب ومزاجي؟ قوية، هاه؟ عظيم، لأنه من هنا يبدو متماسكًا بشكل ضعيف، فأدنى نسيم يهدد بانهيار بنيته الدقيقة، لذلك من الجيد معرفة أنه في الواقع قوي. أوه، أنا آسف، _المنتج_ ليس قويًا، *الميزات* قوية، أيًا كان معنى *ذلك*.
 
-If you want to *not* stand out from the crowd, use statements that everyone uses. Would anyone claim to be non-innovative? Anyone claim that they put customers third?
+إذا كنت لا تريد أن تتميز عن الآخرين، فاستخدم العبارات التي يستخدمها الجميع. هل يمكن لأي شخص أن يدعي أنه غير مبتكر؟ هل يدعي أحد أنهم يضعون العملاء في المرتبة الثالثة؟
 
-So here's my[^1] Opposite Test: For each feature/<wbr/>benefit bullet point, construct its negative and see if that statement is ridiculous. Would anyone be able to construct a rational strategy with that negative? Perhaps a competitor already has! If the negative is indeed ridiculous, if it would be impossible to have a product or positioning or strategy that included the negative, it means this bullet point is trivial, obvious, mandatory, or at least undifferentiating from the competition.
+إذن هذا هو [^1] الاختبار المعاكس: بالنسبة لكل ميزة/<wbr/>نقطة فائدة، قم ببناء النقطة السلبية ومعرفة ما إذا كانت هذه العبارة سخيفة. هل سيتمكن أي شخص من بناء استراتيجية عقلانية بهذه السلبية؟ ربما منافس لديه بالفعل! إذا كانت السلبية سخيفة حقًا، وإذا كان من المستحيل الحصول على منتج أو تموضع أو استراتيجية تتضمن السلبية، فهذا يعني أن هذه النقطة تافهة أو واضحة أو إلزامية أو على الأقل لا تختلف عن المنافسة.
 
-[^1]: Although I'm proud to have come up with this independently, this is a well-worn idea with many famous proponents, such as Roger L. Martin ("[Is the opposite stupid on its face?](https://medium.com/@rogermartin/is-the-opposite-of-your-choice-stupid-on-its-face-5b247ffd7f94)") and Al Ries and Jack Trout in _Positioning: The Battle for Your Mind_ ("Anytime you come up with a positioning idea, test it out by asking yourself this question: If a competitor did the exact opposite, would it make sense? If it doesn't, then you're saying nothing.") It's also sometimes called the Reversibility Test. This convergent thinking only lends more credibility to the idea.
+[^1]: على الرغم من أنني فخور لأنني توصلت إلى هذا الأمر بشكل مستقل، إلا أن هذه فكرة متداولة مع العديد من المؤيدين المشهورين، مثل روجر إل مارتن ("[هل العكس غبي في ظاهره؟](https://medium.com/@rogermartin/is-the-opposite-of-your-choice-stupid-on-its-face-5b247ffd7f94)") وAl Ries وJack Trout في _تحديد الموضع: المعركة من أجل عقلك_ ("في أي وقت تتوصل فيه إلى فكرة تحديد موضع، اختبرها عن طريق طرح هذا السؤال على نفسك: إذا فعل أحد المنافسين العكس تمامًا، فهل سيكون ذلك منطقيًا؟ وإذا لم يكن الأمر كذلك، فأنت لا تقول شيئًا.") ويسمى أيضًا أحيانًا اختبار العكسية. هذا التفكير المتقارب يضفي المزيد من المصداقية على الفكرة.
 
-It means it's weak, it's boring, and most importantly, it's meaningless. And it's taking up space (on the page and in your brain) that should be occupied by meaningful, powerful, differentiating things, upon which you're basing your product strategy.
+هذا يعني أنه ضعيف، وممل، والأهم من ذلك أنه لا معنى له. وهي تشغل مساحة (على الصفحة وفي عقلك) يجب أن تشغلها أشياء ذات معنى وقوية ومميزة، والتي تستند عليها استراتيجية منتجك.
 
-Let's apply the test. The negative of "Easy to use" is "Difficult to use." That would be a pretty funny statement! No one would ever claim that, so throw it out.
+دعونا نطبق الاختبار. الجانب السلبي لـ "سهل الاستخدام" هو "صعب الاستخدام". من شأنه أن يكون بيان مضحك جدا! لن يدعي أحد ذلك أبدًا، لذا ارميه جانبًا.
 
-The negative of "Enables communication" is "Blocks communication." Crazy; no one would admit their tool does that.
+الجانب السلبي لـ "تمكين الاتصال" هو "حظر الاتصال". مجنون؛ لن يعترف أحد أن أداتهم تفعل ذلك.
 
-The negative of "Stores files as big as 100 terabytes" is "Cannot handle huge files." Not ridiculous, in fact this is sadly true of many systems. It passes the test.
+الجانب السلبي لـ "تخزين ملفات يصل حجمها إلى 100 تيرابايت" هو "لا يمكن التعامل مع الملفات الضخمة." ليس الأمر سخيفًا، في الواقع هذا ينطبق للأسف على العديد من الأنظمة. يجتاز الاختبار.
 
-The negative of "Fully open source" is "Closed source." Of course that *is* the strategy used by most companies, so it passes the test.
+الجانب السلبي لـ "المصدر المفتوح بالكامل" هو "المصدر المغلق". بالطبع هذه هي الإستراتيجية التي تستخدمها معظم الشركات، لذا فقد نجحت في الاختبار.
 
-"Fully backward-compatible, even after twenty years." This passes the test. Most software introduces breaking changes at some point, to enable new architecture or new features. In fact this is an important strategic decision. Backward-compatibility is important when you have millions of users with on-premise software where some components are 10 years old and no longer updated (like plugins in WordPress), and therefore compatibility is a feature. But it's bad in that it hamstrings designers on UX innovation, product managers on workflow and feature innovation, and engineers on architecture and performance innovation; sometimes a breaking change is required to stay relevant and modern.
+"متوافق تمامًا مع الإصدارات السابقة، حتى بعد مرور عشرين عامًا." هذا يجتاز الاختبار. تقدم معظم البرامج تغييرات جذرية في مرحلة ما، لتمكين بنية جديدة أو ميزات جديدة. في الواقع، هذا قرار استراتيجي مهم. يعد التوافق مع الإصدارات السابقة أمرًا مهمًا عندما يكون لديك ملايين المستخدمين الذين لديهم برامج داخل الشركة حيث يبلغ عمر بعض المكونات 10 سنوات ولم تعد محدثة (مثل المكونات الإضافية في WordPress)، وبالتالي يعد التوافق ميزة. ولكنه أمر سيء لأنه يعيق المصممين عن ابتكار تجربة المستخدم، ومديري المنتجات عن سير العمل والابتكار في الميزات، والمهندسين عن الابتكار في الهندسة المعمارية والأداء؛ في بعض الأحيان يكون التغيير الجذري مطلوبًا ليظل ملائمًا وحديثًا.
 
-Here's a good one from [our own product](https://codecollab.com/) at Smart Bear: "Integrates with seven version control tools." Negative: "Not integrated with version control" or "Integrated with [one tool]." Not particularly funny; in fact each of these statements *are* true of all our competitors. And it can be a good strategy to be deep and feature-rich against a single API, rather than support a wide number of APIs, limited to features that are common to all. So this statement differentiates ourselves in a specific way, and the opposite is a valid--and actually-practiced--product strategy.
+إليك فكرة جيدة من [منتجنا الخاص](https://codecollab.com/) في Smart Bear: "يتكامل مع سبع أدوات للتحكم في الإصدار." سلبي: "غير متكامل مع التحكم في الإصدار" أو "متكامل مع [أداة واحدة]." ليس مضحكا بشكل خاص. في الواقع، كل هذه العبارات *تنطبق* على جميع منافسينا. ويمكن أن تكون استراتيجية جيدة أن تكون عميقًا وغنيًا بالميزات مقابل واجهة برمجة تطبيقات واحدة، بدلاً من دعم عدد كبير من واجهات برمجة التطبيقات، التي تقتصر على الميزات المشتركة بين الجميع. لذا فإن هذا البيان يميزنا بطريقة معينة، والعكس هو استراتيجية منتج صالحة - ومُمارسة فعليًا.
 
-Another good way of understanding whether you're passing the Opposite Test is **whether there are negative consequences** from your statement, which you acknowledge. Continuing the examples above: The advantage of supporting multiple version control systems is compatibility, but the advantage of supporting only one is a deeper, more sophisticated workflow integration. And since a single team probably uses only one version control system, a single team might prefer the "one version control" system over the "multi." Thus, selecting "multi" anyway has a direct negative consequence, and therefore it is a real decision.
+هناك طريقة أخرى جيدة لفهم ما إذا كنت تجتاز الاختبار المعاكس، وهي **ما إذا كانت هناك عواقب سلبية** من بيانك، وهو ما تقر به. استمرارًا للأمثلة المذكورة أعلاه: تتمثل ميزة دعم أنظمة التحكم في الإصدارات المتعددة في التوافق، ولكن ميزة دعم نظام واحد فقط هي تكامل سير العمل بشكل أعمق وأكثر تعقيدًا. وبما أن الفريق الواحد ربما يستخدم نظامًا واحدًا للتحكم في الإصدار، فقد يفضل الفريق الواحد نظام "التحكم في الإصدار الواحد" على النظام "المتعدد". وبالتالي، فإن اختيار "متعدد" على أي حال له نتيجة سلبية مباشرة، وبالتالي فهو قرار حقيقي.
 
-If you're using generic bullet points now, you'll find that replacing them isn't easy! You have to really think about what's strongest about your product, about how specifically it beats the alternatives, and how make it pithy. This is a useful exercise in itself.
+إذا كنت تستخدم نقاطًا عامة الآن، فستجد أن استبدالها ليس بالأمر السهل! عليك أن تفكر حقًا في ما هو الأقوى في منتجك، وكيف يتفوق على البدائل على وجه التحديد، وكيف يجعله بليغًا. وهذا تمرين مفيد في حد ذاته.
 
-One exception to the Opposite Test: You can use a generic if it's your single biggest differentiator, where you're truly 10x better than the competition along that dimension, and therefore you really "own" this concept as your identity and value.
+استثناء واحد للاختبار المعاكس: يمكنك استخدام عام إذا كان هو أكبر ما يميزك، حيث تكون حقًا أفضل 10 مرات من المنافسة على هذا البعد، وبالتالي فأنت حقًا "تمتلك" هذا المفهوم باعتباره هويتك وقيمتك.
 
-A good example here is "Fastest." The negative is funny ("Slow operation means lots of time staring into frozen progress bars"). But if you make it your highest priority, it can work. Make your bi-line "The fastest ____." Prove it with benchmarks. Explain how speed is not only about saving operator time (the obvious benefit) but how it enables entirely new features. For example, perhaps operation X is typically so slow that people can't take advantage of it. But since your system can complete operation X in two milliseconds, suddenly it becomes a feature. Even if a competitor technically has the feature, you make it practical.
+والمثال الجيد هنا هو "الأسرع". الجانب السلبي مضحك ("العملية البطيئة تعني قضاء الكثير من الوقت في التحديق في أشرطة التقدم المجمدة"). ولكن إذا جعلتها أولويتك القصوى، فيمكن أن تنجح. اجعل خطك الثنائي "الأسرع ____." إثبات ذلك مع المعايير. اشرح كيف أن السرعة لا تتعلق فقط بتوفير وقت المشغل (الفائدة الواضحة)، ولكن أيضًا بكيفية تمكين الميزات الجديدة تمامًا. على سبيل المثال، ربما تكون العملية X بطيئة جدًا بحيث لا يتمكن الأشخاص من الاستفادة منها. ولكن بما أن نظامك يمكنه إكمال العملية X في 2 ميلي ثانية، فإنها تصبح فجأة ميزة. حتى لو كان أحد المنافسين يمتلك هذه الميزة من الناحية الفنية، فإنك تجعلها عملية.
 
-All this is just another way of saying: Be [specific](https://longform.asmartbear.com/specificity/), [avoid buzzwords](https://longform.asmartbear.com/authentic-is-dead/), be fully committed to your [ideal customer](https://longform.asmartbear.com/icp-ideal-customer-persona/) and [what they value](https://longform.asmartbear.com/needs-stack/), and tell the truth.
+كل هذا مجرد طريقة أخرى للقول: كن [محددًا](https://longform.asmartbear.com/specity/)، و[تجنب الكلمات الطنانة](https://longform.asmartbear.com/authentic-is-dead/)، وكن ملتزمًا تمامًا تجاه [عميلك المثالي](https://longform.asmartbear.com/icp-ideal-customer-persona/) و[ما يفعلونه] value](https://longform.asmartbear.com/needs-stack/) وقل الحقيقة.
 
-It's a critical component of having a [great strategy](https://longform.asmartbear.com/great-strategy/), and great positioning.
+إنه عنصر حاسم في وجود [استراتيجية رائعة](https://longform.asmartbear.com/great-strategy/)، وتحديد المواقع الرائعة.

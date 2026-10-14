@@ -20,299 +20,277 @@ summary_ar: "Most so-called \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** ما الذي يجعل الاستراتيجية عظيمة وفارقة حقاً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# What makes a strategy great
-
-> **Executive Summary:** Most so-called "strategies" are vague, wishful thinking, written once and never seen again. Don't do that. These are the characteristics of great strategy.
-> **Original URL:** [https://longform.asmartbear.com/great-strategy/](https://longform.asmartbear.com/great-strategy/)
-
 ![strategy big data synergized paradigms something that rhymes](https://public.asmartbear.com/books/anthology/chapters/great-strategy/d6515print-simple.png)
 
-**Strategy is:** *How we will win.*
+**الاستراتيجية هي:** *كيف سنفوز.*
 
-You can debate the form a strategy should take, whether a [four-sentence "master plan"](https://www.tesla.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me) or a [few dozen bullets](https://twitter.com/chamath/status/1369328384812093441) or a [six-pager](https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9) or an eighty-pager or a template like [Salesforce's V2MOM](https://www.salesforce.com/blog/how-to-create-alignment-within-your-company/) or a Notion template you found on the internet or answering [three questions from a Twitter pundit](https://twitter.com/shreyas/status/1384008853826592776) or some sort of "[Canvas](https://leanstack.com/lean-canvas)." Regardless, its job is to communicate "how we will win."
+يمكنك مناقشة الشكل الذي يجب أن تتخذه الإستراتيجية، سواء كانت ["خطة رئيسية" مكونة من أربع جمل](https://www.tesla.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me) أو [بضع عشرات من النقاط](https://twitter.com/chamath/status/1369328384812093441) أو [ستة صفحات](https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9) أو ثمانين صفحة أو نموذج مثل [Salesforce's V2MOM](https://www.salesforce.com/blog/how-to-create-alignment-within-your-company/) أو نموذج Notion وجدته على الإنترنت أو للإجابة [ثلاثة أسئلة من أحد خبراء Twitter](https://twitter.com/shreyas/status/1384008853826592776) أو نوع من "[Canvas](https://leanstack.com/lean-canvas)." وبغض النظر عن ذلك، فإن وظيفتها هي إيصال "كيف سنفوز".
 
-There are a lot of documents titled "Strategy," but very little *great* strategy. The formula for great strategy isn't decided by the format of the output document.
+هناك الكثير من الوثائق التي تحمل عنوان "الإستراتيجية"، ولكن القليل جدًا من الإستراتيجيات *العظيمة*. لا يتم تحديد صيغة الإستراتيجية الرائعة من خلال تنسيق مستند الإخراج.
 
-> "Greatness needs luck, but it's never by accident."  
-> --Unknown
+> "العظمة تحتاج إلى الحظ، لكن ذلك لا يأتي بالصدفة أبدًا."
+> --مجهول
 
-For strategy to correctly determine and communicate "how we will win," it must tackle the reality of complex systems, it must parry the follies while exploiting the strengths of human nature, and it must justify and spell out the decisions which lead to the desired outcome.
+لكي تتمكن الإستراتيجية من تحديد وإيصال "كيف سنفوز" بشكل صحيح، يجب أن تعالج واقع الأنظمة المعقدة، ويجب أن تتفادى الحماقات بينما تستغل نقاط القوة في الطبيعة البشرية، ويجب أن تبرر وتوضح القرارات التي تؤدي إلى النتيجة المرجوة.
 
-Great strategies accomplish this with the following characteristics:
+الاستراتيجيات العظيمة تحقق ذلك بالخصائص التالية:
 
-* **Simple:** Reshapes complexity to be manageable and actionable.
-* **Candid:** Dares to spotlight the most difficult truths.
-* **Decisive:** Asserts clear decisions *and* accepts their consequences.
-* **Leveraged:** Magnifies strengths into durable competitive advantage.
-* **Asymmetric:** Defeats uncertainty with higher upside than downside.
-* **Futuristic:** Solves for the long-term.
+* **بسيط:** يعيد تشكيل التعقيد ليكون قابلاً للإدارة والتنفيذ.
+* **صريح:** يجرؤ على تسليط الضوء على أصعب الحقائق.
+* **حاسم:** يتخذ قرارات واضحة *ويقبل عواقبها.
+* **الرافعة المالية:** تضخيم نقاط القوة وتحويلها إلى ميزة تنافسية دائمة.
+* **غير متماثل:** يهزم عدم اليقين مع الاتجاه الصعودي الأعلى من الجانب السلبي.
+* **مستقبلية:** تحل على المدى الطويل.
 
-Without these qualities, the so-called "strategy" is at best a plan; at worst, it's wishful thinking masquerading as "vision."
-
----
-
-## Simple
-
-> "Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains."  
-> --Steve Jobs
-
-The world is complex, and therefore difficult to reason about. Strategy intentionally omits detail in exchange for clarity. Armed with a simple narrative, mere mortals can achieve understanding, and make every-day decisions that remain aligned to that narrative.
-
-No one reads anything. You're in the Top 1% just for reading this sentence. No one remembers anything. Certainly not an 86-slide PowerPoint.[^1] So the strategy has to be simple--even *simplistic*--to have a chance at being read or remembered.
-
-[^1]: Long *supporting* documents are useful, because they explain and justify complex topics, inspiring conviction even in people who don't read it but are impressed by its size. Even the famously pithy [Tesla "Master Plan" strategy](https://www.tesla.com/secret-master-plan) consisting of just 39 words was preceded by 1200 words of justification.
-
-People are mired in their day to day work; only when the strategy is simple, does it have a chance of being incorporated. Only when the context is over-simplified, having made scrutable the complexity of the real world, can we easily explain "why," and retell those stories in our weekly meetings and prioritization sessions. Those are the places where strategy lives and breathes, where teams can move quickly, independently, fulfilling their individual missions with a minimum of coordination, yet all supporting a common theory for how we will win, together.
-
-> "The bigger the project, the more we need a reminder of the goal, and simple things to execute today."  
-> --Warren Buffett, shareholder letter, 1982
-
-If the strategy is simple, it might appear obvious. If it is obvious, it might appear uninsightful. Humans assume that complex puzzles require complex answers, when in fact often the simplest answer is the best answer.[^2] "Obviousness" is a sign of a strategy that not only is easy to communicate and execute, but also believed.
-
-[^2]: See, for example, the [Midwit Fallacy](https://philo.substack.com/p/the-midwit-trap), or how small sets of equations explain a wide range of physical phenomena.
-
-Its job isn't to be non-obvious, but rather to cleanly specify what is most important. It might be obvious to do X, but Y and Z are also "obvious," so by selecting X and not Y nor Z, you have created focus, and specified "how to win."
-
-Simplicity at its worst becomes *reductive*--overlooking complexity rather than tackling it, resulting in conclusions that, while admittedly simple and clear, are wrong. We cannot pretend that complex problems can always be waved away by simple statements. The process of strategy *creation* must indeed tackle the complexity of the world, but the *output* of that process is a document that frees everyone else from having to re-solve every puzzle. Like a street map, we omit detail in exchange for clarity of the most important context and routes. Simplicity that ignores reality is reductive, but simplicity that arises from an exceptional summarization of having already processed the messy, complex world, is elegant.
-
-Characterizing the world in a few, simple, clear assertions, and solving our challenges with a few, clear directives of what we must do, is required for a strategy to be "how we will win."
-
-_Example: The most famous sports coaches seem to credit their success to a few [simple principles](https://medium.com/the-ascent/greatness-starts-with-tying-your-shoes-59fbeff027dc). They must be simple for a team to remember them, especially when they're tired and battered near the end of a game, as in this description of the mentor of one of America's most famous football coaches:_
-
-> "Blaik's signature talent was using all this data to create something clean and simple. He had what Lombardi called "the great knack" for knowing what offensive plan to use against what defense, and the "discarding the immaterial and going with the strength." All the detailed preparations resulted not in a mass of confusing statistics and plans, but in the opposite, paring away the extraneous, reducing and refining until all that was left was what was needed for that game against that team. It's a lesson Lombardi never forgot.  
-> --David Maraniss, *When Pride Still Mattered: A Life of Vince Lombardi*, 1999
+وبدون هذه الصفات، فإن ما يسمى "الاستراتيجية" هو في أحسن الأحوال خطة؛ وفي أسوأ الأحوال، فهو تفكير بالتمني يتنكر في صورة "رؤية".
 
 ---
 
-## Candid
+## بسيط
 
-> "See, and don't be afraid to see what you see."  
-> --Ronald Reagan
+> "البساطة يمكن أن تكون أصعب من التعقيد: عليك أن تعمل بجد لتنظيف تفكيرك لجعل الأمر بسيطًا. لكن الأمر يستحق ذلك في النهاية لأنه بمجرد وصولك إلى هناك، يمكنك تحريك الجبال."
+> --ستيف جوبز
 
-Strategy must lay bare the most frightening, embarrassing realities. It must [face the truth](https://longform.asmartbear.com/failure-to-face-the-truth/) that we all avoid facing during the struggle of daily work.
+العالم معقد، وبالتالي يصعب التفكير فيه. تتجاهل الإستراتيجية التفاصيل عمدًا مقابل الوضوح. مسلحين بسرد بسيط، يمكن للبشر فقط تحقيق الفهم، واتخاذ القرارات اليومية التي تظل متوافقة مع هذا السرد.
 
-If the strategy doesn't expose--and then solve--the most brutal facts, the strategy is wrong.
+لا أحد يقرأ أي شيء. أنت ضمن أفضل 1% فقط لقراءتك هذه الجملة. لا أحد يتذكر أي شيء. بالتأكيد ليس عرضًا تقديميًا مكونًا من 86 شريحة.[^1] لذلك يجب أن تكون الإستراتيجية بسيطة--وحتى *مبسطة*--لتحظى بفرصة قراءتها أو تذكرها.
 
-In particular, the strategy must diagnose the primary challenges facing the business, even if the facts are so scary that it seems hopeless. Existential threats are the most important to articulate.
+[^1]: تعد المستندات *الداعمة* الطويلة مفيدة، لأنها تشرح وتبرر موضوعات معقدة، مما يلهم القناعة حتى لدى الأشخاص الذين لا يقرؤونها ولكنهم منبهرون بحجمها. حتى استراتيجية "الخطة الرئيسية لشركة تسلا" الشهيرة (https://www.tesla.com/secret-master-plan) والتي تتكون من 39 كلمة فقط، كانت مسبوقة بـ 1200 كلمة مبرر.
 
-Too often a strategy claims "threats" that are lazy, generic, non-actionable pseudo-concerns that nearly every company could claim, like "Google could copy us" or "A new startup could invent a great product and get huge funding" or "A massive security breach could cause half our customers to leave." Real threats are either happening now or are at least [70% likely to happen](https://longform.asmartbear.com/probability-words/). Real threats are specific, ideally backed by data that proves they are happening, e.g. your market is shrinking; a competitor has accelerating market share; cancellation rates prove that even paying customers don't value the product. Real threats are written in the present tense because they are happening, not hypothetically with "could" or "might."
+الناس غارقون في عملهم اليومي؛ فقط عندما تكون الإستراتيجية بسيطة، يكون لديها فرصة للاندماج. فقط عندما يتم تبسيط السياق بشكل مفرط، بعد أن نجعل تعقيد العالم الحقيقي قابلاً للتدقيق، يمكننا بسهولة شرح "السبب"، وإعادة سرد تلك القصص في اجتماعاتنا الأسبوعية وجلسات تحديد الأولويات. هذه هي الأماكن التي تعيش فيها الإستراتيجية وتتنفس، حيث يمكن للفرق التحرك بسرعة وبشكل مستقل، وتحقيق مهامها الفردية بأقل قدر من التنسيق، ومع ذلك تدعم جميعها نظرية مشتركة حول كيفية تحقيق الفوز معًا.
 
-When the puzzles are clear, everyone can help solve them. When the puzzles remain hidden, what's the chance that they'll be solved by accident?
+> "كلما كان المشروع أكبر، كلما احتجنا إلى تذكير بالهدف، وأشياء بسيطة لتنفيذها اليوم."
+> --وارن بافيت، خطاب المساهمين، 1982
 
-> "Average players want to be left alone. Good players want to be coached. Great players want the coach to tell them the truth."  
-> --[Nick Saban](https://twitter.com/TheCoachJournal/status/1171955834462646272) (won more US national college football titles than any other coach)
+إذا كانت الإستراتيجية بسيطة، فقد تبدو واضحة. إذا كان الأمر واضحًا، فقد يبدو غير بصير. يفترض البشر أن الألغاز المعقدة تتطلب إجابات معقدة، في حين أن أبسط إجابة هي في الواقع أفضل إجابة.[^2] "الوضوح" علامة على استراتيجية ليس من السهل توصيلها وتنفيذها فحسب، بل يتم تصديقها أيضًا.
 
-If you're worried someone might leave the company when they hear how scary it is, maybe they *should* leave the company. These *are* the challenges we're facing together; if they're not willing to solve them, they need to make space for someone who will relish the challenge. Not just for the company's sake but for their own happiness and [fulfillment](https://longform.asmartbear.com/fulfillment/).
+[^2]: راجع، على سبيل المثال، [مغالطة Midwit](https://philo.substack.com/p/the-midwit-trap)، أو كيف تفسر مجموعات صغيرة من المعادلات نطاقًا واسعًا من الظواهر الفيزيائية.
+
+وظيفتها ليست أن تكون غير واضحة، بل أن تحدد بشكل واضح ما هو الأكثر أهمية. قد يكون من الواضح أن تفعل X، لكن Y وZ هما أيضًا "واضحان"، لذلك باختيار X وليس Y أو Z، تكون قد أنشأت التركيز، وحددت "كيفية الفوز".
+
+البساطة في أسوأ حالاتها تصبح *اختزالية* - أي التغاضي عن التعقيد بدلاً من معالجته، مما يؤدي إلى استنتاجات خاطئة وبسيطة وواضحة. ولا يمكننا أن نتظاهر بأن المشاكل المعقدة يمكن دائما التلويح بها بعبارات بسيطة. إن عملية *إنشاء* الإستراتيجية يجب أن تعالج بالفعل تعقيد العالم، ولكن *مخرجات* هذه العملية هي وثيقة تحرر أي شخص آخر من الاضطرار إلى إعادة حل كل لغز. وكما هو الحال في خريطة الشارع، فإننا نحذف التفاصيل مقابل توضيح السياق والطرق الأكثر أهمية. إن البساطة التي تتجاهل الواقع هي بساطة اختزالية، لكن البساطة التي تنشأ من التلخيص الاستثنائي لما سبق أن عالجت العالم الفوضوي والمعقد هي البساطة الأنيقة.
+
+إن توصيف العالم في عدد قليل من التأكيدات البسيطة والواضحة، وحل التحديات التي نواجهها من خلال عدد قليل من التوجيهات الواضحة لما يجب علينا القيام به، أمر ضروري لكي تكون الإستراتيجية "كيف سننتصر".
+
+_مثال: يبدو أن أشهر المدربين الرياضيين يعزون نجاحهم إلى عدد قليل من [المبادئ البسيطة](https://medium.com/the-ascent/greatness-starts-with-tying-your-shoes-59fbeff027dc). يجب أن تكون بسيطة حتى يتذكرها الفريق، خاصة عندما يكونون متعبين ومنهكين قرب نهاية المباراة، كما في هذا الوصف لمعلم أحد أشهر مدربي كرة القدم في أمريكا:_
+
+> "كانت موهبة بليك المميزة تستخدم كل هذه البيانات لإنشاء شيء نظيف وبسيط. كان يتمتع بما أسماه لومباردي "الموهبة العظيمة" لمعرفة الخطة الهجومية التي يجب استخدامها ضد أي دفاع، و"التخلص من ما هو غير مادي والذهاب بالقوة". لم تسفر جميع الاستعدادات التفصيلية عن كتلة من الإحصائيات والخطط المربكة، ولكن على العكس من ذلك، تقليص العناصر الدخيلة وتقليلها وصقلها حتى أصبح كل ما تبقى هو ما هو مطلوب لتلك المباراة ضد هذا الفريق. درس لم ينساه لومباردي أبدًا.
+> --ديفيد مارانيس، *عندما لا يزال الكبرياء مهمًا: حياة فينس لومباردي*، 1999
+
+---
+
+## صريح
+
+> "انظر ولا تخف من رؤية ما ترى".
+> - رونالد ريغان
+
+ويجب أن تكشف الاستراتيجية عن الحقائق الأكثر إثارة للخوف والإحراج. يجب [مواجهة الحقيقة](https://longform.asmartbear.com/failure-to-face-the-truth/) التي نتجنب جميعًا مواجهتها أثناء صراع العمل اليومي.
+
+إذا لم تكشف الإستراتيجية عن الحقائق الأكثر وحشية ثم تحلها، فإن الإستراتيجية خاطئة.
+
+وعلى وجه الخصوص، يجب أن تقوم الإستراتيجية بتشخيص التحديات الأساسية التي تواجه الأعمال، حتى لو كانت الحقائق مخيفة جدًا لدرجة أنها تبدو ميؤوس منها. التهديدات الوجودية هي الأكثر أهمية في التعبير.
+
+في كثير من الأحيان، تدعي الإستراتيجية وجود "تهديدات" هي مخاوف زائفة كسولة وعامة وغير قابلة للتنفيذ يمكن أن تدعيها كل شركة تقريبًا، مثل "يمكن لشركة Google أن تقلدنا" أو "يمكن لشركة ناشئة جديدة أن تخترع منتجًا رائعًا وتحصل على تمويل ضخم" أو "قد يؤدي خرق أمني كبير إلى مغادرة نصف عملائنا". التهديدات الحقيقية إما تحدث الآن أو على الأقل [من المرجح حدوثها بنسبة 70%](https://longform.asmartbear.com/probability-words/). التهديدات الحقيقية محددة، ومن الأفضل أن تكون مدعومة ببيانات تثبت حدوثها، على سبيل المثال. سوقك يتقلص؛ المنافس لديه حصة سوقية متسارعة؛ تثبت معدلات الإلغاء أنه حتى العملاء الذين يدفعون لا يقدرون المنتج. التهديدات الحقيقية تكتب بصيغة المضارع لأنها تحدث، وليس افتراضيا بصيغة "يمكن" أو "قد".
+
+عندما تكون الألغاز واضحة، يمكن للجميع المساعدة في حلها. عندما تظل الألغاز مخفية، ما هي فرصة أن يتم حلها عن طريق الصدفة؟
+
+> "اللاعبون العاديون يريدون أن يُتركوا بمفردهم. اللاعبون الجيدون يريدون أن يتم تدريبهم. اللاعبون العظماء يريدون أن يخبرهم المدرب بالحقيقة."
+> --[نيك سابان](https://twitter.com/TheCoachJournal/status/1171955834462646272) (فاز بألقاب كرة القدم الجامعية الوطنية الأمريكية أكثر من أي مدرب آخر)
+
+إذا كنت قلقًا من أن يقوم شخص ما بمغادرة الشركة عندما يسمع كم هو مخيف، فربما *يجب* عليه* مغادرة الشركة. هذه *هي* التحديات التي نواجهها معًا؛ إذا لم يكونوا على استعداد لحلها، فعليهم إفساح المجال لشخص يستمتع بالتحدي. ليس فقط من أجل الشركة ولكن من أجل سعادتهم و[وفائهم](https://longform.asmartbear.com/fulfillment/).
 
 ![lets say honesty isnt going to work whats second best policy](https://public.asmartbear.com/books/anthology/chapters/great-strategy/d4501print-simple.png)
 
-Facing the truth, being specific about current reality and about what needs to be done, is required for a strategy to be "how we will win."
+إن مواجهة الحقيقة، والتعامل بشكل محدد مع الواقع الحالي وما يجب القيام به، أمر ضروري لكي تكون الإستراتيجية "كيف سنفوز".
 
-_Example: In a story retold [here](https://longform.asmartbear.com/failure-to-face-the-truth/), originally from Jim Collins's book *Good to Great*, A&P and Kroger were successful grocery stores in the 1960s who both possessed the data showing that their business models were becoming obsolete. They each discovered the new, correct business model through real-world experimentation, but only Kroger was willing to face that truth and change their strategy. Despite being half the size of A&P, Kroger increased its value 100-fold, while A&P shrank, then went bankrupt._
+_مثال: في قصة تمت إعادة سردها [هنا](https://longform.asmartbear.com/failure-to-face-the-truth/)، في الأصل من كتاب جيم كولينز *من الجيد إلى العظيم*، كان A&P وKroger متجري بقالة ناجحين في ستينيات القرن العشرين وكانا يمتلكان البيانات التي توضح أن نماذج أعمالهما أصبحت قديمة. اكتشف كل منهم نموذج العمل الجديد والصحيح من خلال التجربة في العالم الحقيقي، ولكن كروجر فقط هو الذي كان على استعداد لمواجهة هذه الحقيقة وتغيير استراتيجيتهم. وعلى الرغم من أن حجمها يبلغ نصف حجم شركة إيه آند بي، إلا أن كروجر زاد قيمتها بمقدار 100 ضعف، في حين تقلصت شركة إيه آند بي، ثم أفلست.
 
 ---
 
-## Decisive
+## حاسم
 
-A strategy asserts a set of justified, self-consistent decisions, such as:
+تؤكد الإستراتيجية على مجموعة من القرارات المبررة والمتسقة ذاتيا، مثل:
 
-* Which subsets of the market to target <br/> *...and conversely which we'll ignore, even if some of those sign up as customers anyway, and ask for things we're not going to do, and then cancel in anger*
-* Which customer personas are most important to delight <br/> *...and conversely which will dislike our product, causing us no dismay, whose feature-requests we will quickly close as "won't do" rather than wring our hands at all the features we still need to build*
-* How to position against the competition <br/> *...and conversely where the competition will be stronger, unlike those fake-news marketing charts comparing our product with the competition, where only our product scores 100% along every dimension*
-* What we value (e.g. quality, service, speed, design, compatibility, lock-in) <br/> *...and conversely what we will give up, e.g. releasing features faster but of lower quality, or being infinitely extensible versus top-to-bottom thoughtful design*
-* What we must *(and must not)* build, to pay off that positioning and win those customers in that market.
+* ما هي مجموعات السوق الفرعية التي يجب استهدافها <br/> *... وعلى العكس من ذلك، ما هي المجموعات التي سنتجاهلها، حتى لو قام بعض هؤلاء بالتسجيل كعملاء على أي حال، وطلبوا أشياء لن نفعلها، ثم ألغوا الأمر بغضب*
+* ما هي شخصيات العملاء الأكثر أهمية لإسعاد <br/> *... وعلى العكس من ذلك، ما الذي لن يعجبنا منتجنا، مما لا يسبب لنا أي فزع، وسنغلق طلبات ميزاته بسرعة على أنها "لن نفعلها" بدلاً من انتزاع أيدينا من جميع الميزات التي ما زلنا بحاجة إلى بنائها*
+* كيفية الوقوف في مواجهة المنافسة <br/> *... وعلى العكس من ذلك، حيث ستكون المنافسة أقوى، على عكس تلك المخططات التسويقية للأخبار المزيفة التي تقارن منتجنا بالمنافسة، حيث يسجل منتجنا فقط 100% في كل بُعد*
+* ما نقدره (مثل الجودة والخدمة والسرعة والتصميم والتوافق والثبات) <br/> *... وعلى العكس مما سنتخلى عنه، على سبيل المثال. إطلاق الميزات بشكل أسرع ولكن بجودة أقل، أو أن تكون قابلة للتوسعة بشكل لا نهائي مقابل التصميم المدروس من الأعلى إلى الأسفل*
+* ما يجب علينا *(ولا يجب)* أن نبنيه لسداد هذا الوضع وكسب هؤلاء العملاء في هذا السوق.
 
-> "You can do anything, but not everything."  
-> --David Allen
+> "يمكنك أن تفعل أي شيء، ولكن ليس كل شيء."
+> --ديفيد ألين
 
-There are both positive and negative second-order consequences of any complex decision. If these aren't identified--in particular, if the problematic consequences aren't embraced within the strategy--then it's not a clear decision. When those consequences inevitably arise, the team must be able to say "we expected that" rather than "we have to address that" or even "this is a signal that the strategy is wrong."
+هناك عواقب إيجابية وسلبية من الدرجة الثانية لأي قرار معقد. إذا لم يتم تحديدها - على وجه الخصوص، إذا لم يتم تضمين العواقب الإشكالية في الإستراتيجية - فلن يكون هذا قرارًا واضحًا. وعندما تنشأ هذه العواقب حتماً، يجب أن يكون الفريق قادراً على القول "لقد توقعنا ذلك" بدلاً من "علينا معالجة ذلك" أو حتى "هذه إشارة إلى أن الاستراتيجية خاطئة".
 
-One decision in every strategy is what market and customer-segment the company will target. Customers outside that target segment will inevitably buy anyway. Then they'll complain about missing features, awkward UX workflows, missing integrations, high prices, and more. Then you'll log those complaints into the bug-tracker and product-management Miro boards and start prioritizing, whereas in fact these ideas should be ignored so that the team can focus on winning the target customers. This is difficult to remember when the non-target customers complain on Twitter, supply low NPS scores, drag down your average star-rating on review sites, and cancel at high rates. Only with a strategy that has clearly articulated not only the decisions, but also the negative consequences of those decisions, can everyone stay true to those decisions even when emotions are running high and paying customers are canceling.
+أحد القرارات في كل استراتيجية هو السوق وشريحة العملاء التي ستستهدفها الشركة. العملاء خارج تلك الشريحة المستهدفة سيشترون حتمًا على أي حال. ثم سيشتكون من الميزات المفقودة، وسير عمل تجربة المستخدم غير الملائمة، وعمليات التكامل المفقودة، وارتفاع الأسعار، والمزيد. بعد ذلك، ستقوم بتسجيل تلك الشكاوى في لوحات Miro لتتبع الأخطاء وإدارة المنتجات والبدء في تحديد الأولويات، بينما في الواقع يجب تجاهل هذه الأفكار حتى يتمكن الفريق من التركيز على كسب العملاء المستهدفين. من الصعب تذكر ذلك عندما يشتكي العملاء غير المستهدفين على تويتر، ويقدمون درجات NPS منخفضة، ويسحبون متوسط ​​تصنيف النجوم الخاص بك إلى أسفل على مواقع المراجعة، ويلغون بمعدلات عالية. فقط من خلال استراتيجية توضح بوضوح ليس فقط القرارات، ولكن أيضًا العواقب السلبية لتلك القرارات، يمكن للجميع أن يظلوا صادقين مع تلك القرارات حتى عندما تكون المشاعر مرتفعة ويلغي العملاء الذين يدفعون رسومهم.
 
-A common tactic for avoiding making a decision is to use non-specific language. "We will leverage synergies to create unique solutions" is, in fact, a good thing to do, but it doesn't specify which synergies to leverage, [what is unique](https://longform.asmartbear.com/worse-but-unique/) about it, or what the unique solution is. [Fluffy language](https://longform.asmartbear.com/authentic-is-dead/) is a hallmark of indecisiveness, and therefore of bad strategy. [Being specific is good marketing](https://longform.asmartbear.com/specificity/), anyway.
+من الأساليب الشائعة لتجنب اتخاذ القرار استخدام لغة غير محددة. "سنستفيد من أوجه التآزر لإنشاء حلول فريدة" هو في الواقع أمر جيد، لكنه لا يحدد أوجه التآزر التي يجب الاستفادة منها، [ما هو الفريد](https://longform.asmartbear.com/worse-but-unique/) حول هذا الموضوع، أو ما هو الحل الفريد. [اللغة الرقيقة](https://longform.asmartbear.com/authentic-is-dead/) هي السمة المميزة لعدم الحسم، وبالتالي للاستراتيجية السيئة. [أن تكون محددًا هو تسويق جيد](https://longform.asmartbear.com/specity/)، على أي حال.
 
-> "Strategy is a set of interrelated and powerful choices that positions the organization to win."  
-> --[Roger Martin](https://rogerlmartin.com/thought-pillars/strategy)
+> "الاستراتيجية هي مجموعة من الخيارات المترابطة والقوية التي تساعد المنظمة على الفوز."
+> --[روجر مارتن](https://rogerlmartin.com/ought-pillars/strategy)
 
-The opposite of the decision must also be a rational choice, made by other successful organizations. For example, deciding to be open source is strategic, because plenty of companies are successful with a closed-source strategy. However, deciding to be "customer-first" is not a serious decision, because successful companies don't use a "customer-last" strategy. This "[Opposite Test](https://longform.asmartbear.com/opposite-test/)" is useful both to form proper strategic decisions, and to form great positioning statements for marketing.
+ويجب أن يكون عكس القرار أيضًا خيارًا عقلانيًا، اتخذته منظمات ناجحة أخرى. على سبيل المثال، يعتبر اتخاذ القرار بأن تكون مفتوحة المصدر أمرًا استراتيجيًا، لأن الكثير من الشركات تنجح في اتباع استراتيجية مفتوحة المصدر. ومع ذلك، فإن اتخاذ القرار بأن تكون "العميل أولاً" ليس قرارًا جديًا، لأن الشركات الناجحة لا تستخدم استراتيجية "العميل أخيرًا". يعد هذا "[الاختبار المعاكس](https://longform.asmartbear.com/opposite-test/)" مفيدًا في اتخاذ القرارات الإستراتيجية المناسبة، وفي تكوين بيانات تحديد المواقع الرائعة للتسويق.
 
-Decisions and consequences must at minimum be self-consistent. If you've decided to have a low price, you can't also have white-glove service. If you've decided that everything requires high-quality design, you can't also release features faster than the competition. Or, perhaps you can creatively build a solution that does say "yes to both" of those things, but only by also [accepting additional constraints that resolve the conflict](https://longform.asmartbear.com/conflicting-choices/).
+يجب أن تكون القرارات والعواقب متسقة ذاتيًا على الأقل. إذا قررت الحصول على سعر منخفض، فلا يمكنك أيضًا الحصول على خدمة القفازات البيضاء. إذا قررت أن كل شيء يتطلب تصميمًا عالي الجودة، فلن تتمكن أيضًا من إصدار الميزات بشكل أسرع من المنافسين. أو ربما يمكنك بناء حل بشكل إبداعي يقول "نعم لكلا" هذين الأمرين، ولكن فقط من خلال [قبول القيود الإضافية التي تحل الصراع](https://longform.asmartbear.com/conflicting-choices/).
 
-Better than "self-consistent" is "mutually-reinforcing." This means that one decision makes another more powerful, or easier, or less expensive, and vice versa, so that adhering to both makes you far stronger than having only one. For example, deciding to have only a few features, and also amazing design. Normally customers might not put up with less functionality, but if the design experience is exceptional, they might be happy with something that "does only a few things, but so delightfully!" And vice versa: It's easier to execute on great design when you don't have to tackle a complex product with tons of use-cases and personas and functionality. At the end of [this article](https://longform.asmartbear.com/leverage/), you'll find a complete, powerful example of mutually-reinforcing decisions creating a durable (60-years!) competitive advantage.
+إن الأفضل من "الانسجام الذاتي" هو "التعزيز المتبادل". وهذا يعني أن أحد القرارات يجعل قرارًا آخر أكثر قوة، أو أسهل، أو أقل تكلفة، والعكس صحيح، وبالتالي فإن الالتزام بكليهما يجعلك أقوى بكثير من اتخاذ قرار واحد فقط. على سبيل المثال، اتخاذ قرار بالحصول على عدد قليل من الميزات والتصميم المذهل أيضًا. في العادة، قد لا يتحمل العملاء وظائف أقل، ولكن إذا كانت تجربة التصميم استثنائية، فقد يكونون سعداء بشيء "يقوم ببعض الأشياء فقط، ولكن بشكل مبهج للغاية!" والعكس صحيح: من الأسهل تنفيذ تصميم رائع عندما لا تضطر إلى التعامل مع منتج معقد يحتوي على الكثير من حالات الاستخدام والشخصيات والوظائف. في نهاية [هذه المقالة](https://longform.asmartbear.com/leverage/)، ستجد مثالًا كاملاً وقويًا للقرارات المتداعمة التي تخلق ميزة تنافسية دائمة (60 عامًا!).
 
-> "The difference between successful people and really successful people is that really successful people say no to almost everything."  
-> --Warren Buffett
+> "الفرق بين الأشخاص الناجحين والأشخاص الناجحين حقًا هو أن الأشخاص الناجحين حقًا يقولون لا لكل شيء تقريبًا."
+> --وارن بافيت
 
-You know the decisions are strong when they--and their consequences--cause you to [say "no" to most things](https://longform.asmartbear.com/say-yes/), including things which otherwise sound reasonable. An example of a strategy that makes a decision but also accepts negative consequences can be found at the end of [this article about Moats](https://longform.asmartbear.com/moats/); an example of how to make sales pitches while accepting negative consequences can be found in [this article](https://longform.asmartbear.com/one-benefit/); several examples of how YouTube used a single, strong decision with multiple major downstream consequences are detailed in [this article](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems).
+أنت تعلم أن القرارات تكون قوية عندما - وعواقبها - تجعلك [تقول "لا" لمعظم الأشياء](https://longform.asmartbear.com/say-yes/)، بما في ذلك الأشياء التي تبدو معقولة. يمكن العثور على مثال لاستراتيجية تتخذ قرارًا ولكنها تقبل أيضًا العواقب السلبية في نهاية [هذه المقالة حول Moats](https://longform.asmartbear.com/moats/)؛ يمكن العثور على مثال لكيفية تقديم عروض ترويجية للمبيعات مع قبول العواقب السلبية في [هذه المقالة](https://longform.asmartbear.com/one-benefit/)؛ تم تفصيل عدة أمثلة حول كيفية استخدام YouTube لقرار واحد قوي له عواقب رئيسية متعددة في [هذه المقالة](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems).
 
 ![rest assured however i vote it will be staunchly](https://public.asmartbear.com/books/anthology/chapters/great-strategy/d8066print-simple.png)
 
-When a strategy has articulated clear decisions, including the major consequences, especially accepting the negative consequences, causing us to say "no" to pretty-good ideas in order to make room for the [very-best ideas](https://longform.asmartbear.com/maximized-decision/), and to ignore the wishes of paying customers if they're not the target paying customers, it is truly prescribing "how we will win."
+عندما تحدد الإستراتيجية قرارات واضحة، بما في ذلك العواقب الرئيسية، وخاصة قبول العواقب السلبية، مما يجعلنا نقول "لا" للأفكار الجيدة جدًا من أجل إفساح المجال لـ [أفضل الأفكار](https://longform.asmartbear.com/maximized-decision/)، وتجاهل رغبات العملاء الذين يدفعون إذا لم يكونوا العملاء المستهدفين الذين يدفعون، فإنها تصف حقًا "كيف سنفوز".
 
-_Example: [Craig's List](https://craigslist.org/) is classified ads on the internet. Their strategy includes crisp decisions like valuing consistent user experience more than great design (the website looks like it's from 1995, because it is), and user-accessibility over monetization ("Craigslist president Jim Buckmaster has stated that creating a superior user experience is more important to the company than making money [[source](https://smallbusiness.chron.com/craigslist-money-27287.html)]"). The strategy is clear and differentiated, which should be seen as a strength, but it has bothered pundits for twenty-five years, who have therefore predicted its demise: "The main obstacle to sustainability and growth at Craigslist is likely the company's and its founder's strong principles valuing customer-offering over monetization, trusting consistency over innovation. Although admirable in many ways, the issue is that without innovation, the company's customer-offering will soon no longer be strong enough to stay relevant, undermining its very well-intended purpose."--[HBS](https://digital.hbs.edu/platform-digit/submission/craigslist-the-remarkable-but-potentially-obsolete-success-story-of-the-ultimate-platform/). But crisp decisions make for a great strategy, even if controversial. Despite that well-reasoned death-sentence from HBS, despite others pointing out that [dozens of successful companies have](https://www.businessinsider.com/craigslist-versus-startups-chart-2014-8) made sections of Craig's List theoretically obsolete, despite data that [predicts Craig's List "demise"](https://techcrunch.com/2015/04/10/as-vertical-marketplaces-rise-craigslist-faces-its-demise/), despite [protestations](https://money.cnn.com/magazines/fortune/fortune_archive/2005/12/12/8363113/index.htm) that Craig's List could be a "gold mine of revenue, if only it would abandon its communist manifesto," (i.e. if only it would abandon its strategy), it continues to be one of the [most-visited sites in America](https://www.semrush.com/blog/most-visited-websites/), with revenues of $1,000,000,000 in 2020 with a staff of just fifty people, even after twenty-five years of internet evolution._
-
----
-
-## Leveraged
-
-> "Be yourself. Everyone else is taken."  
-> --Oscar Wilde
-
-If Sandra is a great singer, and Peter is a great pianist, then a good idea for a duet would be for Sandra to sing and Peter to play piano. A bad idea would be the other way around. Great strategy leverages the strengths and assets of the organization; a bad strategy asks the organization to win even while acting unnaturally, often under the cover of "overcoming weaknesses."
-
-"Leverage" means generating a large effect from a relatively small effort, where time and dollars are far more effective than one might expect, because we are riding tailwinds of natural abilities or hard-won assets, rather than fighting a battle against so-called "weaknesses." You know you're leveraging strengths when you see other people shake their heads in amazement at how much you accomplished in so little time.
-
-It's good to leverage strengths. Much literature on strategy dwells on how to create [moats](https://longform.asmartbear.com/moats/)--permanent competitive advantages--but so many organizations still aren't leveraging the straightforward, undifferentiated strengths that they possess. They expend most of their energy shoring up "weaknesses," which despite their efforts will at best become "less weak," but never become a strength. Whereas applying that same energy in leveraging their strengths will have a large positive effect. It's even just more *fun* to play to your strengths instead of wallowing in weaknesses.
-
-It is of course better when the strength is *differentiated* from the competition. This is especially obvious in a mature market where everyone is saying the same things on their home page, pricing the same way, and different only in tertiary characteristics. Winning in your own way [can defeat "better" competitors](https://longform.asmartbear.com/worse-but-unique/).
-
-It's even better when that differentiation is *durable* over time. It has never been more difficult to establish a permanent advantage, when all software can be reproduced, all business models can be replicated, and the entire world is both your market and your competitors, which makes it all the more important to decide what one or two moats you will build. The strategy is the place to name those moats.
-
-**[This companion article on "leverage"](https://longform.asmartbear.com/leverage/)** provides expanded examples and ideas for all of the above.
-
-Tailoring the decisions for the strengths of this organization, avoiding (rather than reversing) weaknesses, even better when the strength is differentiated, identifying and investing in durable differentiation, so that moats are constructed in the long run, is required for a strategy to be "how we will win."
-
-*Example: Zappos started in 1999--early internet, no social media, few people with broadband, few people comfortable buying anything online, much less buying shoes, which for 100 years was bought only after first trying them on in person. Zappos started with a differentiated insight (the companion article explains how "insights" can be leverage): That people would actually buy shoes online, under the right circumstances. They built a moat out of a combination of surprising decisions (also explained in the companion article): (a) postage-paid returns even 364 days after purchase, (b) legendary support who did things like buying pizzas for customers, (c) a corporate culture of employee empowerment; it takes that combination of strong, expensive decisions to create the conditions by which people would dare to buy online, thus unlocking an entirely new retail channel. Only by having all three of those components did the moat work; if you don't empower employees, they can't order pizza on the spur of the moment; if your return policy isn't ridiculously generous, people will be too scared to order shoes sight-unseen. Because their vision and decisions were so incredible (literally "not credible"), competitors laughed at them while they enjoyed a constant stream of positive press. The result was the most successful online shoe store for a decade, reaching annual revenues of $1B before its tenth birthday.*
+_مثال: [Craig's List](https://craigslist.org/) هي إعلانات مبوبة على الإنترنت. تتضمن استراتيجيتهم قرارات واضحة مثل تقييم تجربة المستخدم المتسقة أكثر من التصميم الرائع (يبدو موقع الويب كما لو أنه من عام 1995، لأنه كذلك بالفعل)، وإمكانية وصول المستخدم على تحقيق الدخل (صرح رئيس Craigslist جيم بكماستر أن إنشاء تجربة مستخدم متميزة هو أكثر أهمية للشركة من كسب المال [[المصدر](https://smallbusiness.chron.com/craigslist-money-27287.html)]"). إن الإستراتيجية واضحة ومتميزة، وينبغي النظر إليها على أنها نقطة قوة، لكنها أزعجت النقاد لمدة خمسة وعشرين عامًا، الذين توقعوا زوالها: "العقبة الرئيسية أمام الاستدامة والنمو في Craigslist هي على الأرجح المبادئ القوية للشركة ومؤسسها التي تقدر عرض العملاء على تحقيق الدخل، والثقة في الاتساق على الابتكار. على الرغم من أنها مثيرة للإعجاب في كثير من النواحي، إلا أن المشكلة هي أنه بدون الابتكار، فإن عرض الشركة للعملاء لن يعد قريبًا قويًا بما يكفي البقاء على صلة بالموضوع، مما يقوض الغرض المقصود منه جيدًا."--[HBS](https://digital.hbs.edu/platform-digit/submission/craigslist-the-remarkable-but-potentially-obsolete-success-story-of-the-ultimate-platform/). لكن القرارات الواضحة تشكل استراتيجية عظيمة، حتى لو كانت مثيرة للجدل. على الرغم من حكم الإعدام المبرر من كلية هارفارد للأعمال، وعلى الرغم من إشارة آخرين إلى أن [العشرات من الشركات الناجحة] (https://www.businessinsider.com/craigslist-versus-startups-chart-2014-8) جعلت أقسامًا من قائمة Craig's List عفا عليها الزمن من الناحية النظرية، على الرغم من البيانات التي [تتنبأ بقائمة Craig's List "demise"](https://techcrunch.com/2015/04/10/as-vertical-marketplaces-rise-craigslist-faces-its-demise/)، على الرغم من [الاحتجاجات](https://money.cnn.com/magazines/fortune/fortune_archive/2005/12/12/8363113/index.htm) أن قائمة كريج يمكن أن تكون "منجم ذهب للإيرادات، لو أنها تخلت عن بيانها الشيوعي" (أي لو تخلت عن استراتيجيتها)، فهي لا تزال واحدة من [المواقع الأكثر زيارة في أمريكا] (https://www.semrush.com/blog/most-visited-websites/)، حيث تبلغ إيراداتها مليون دولار في عام 2020 مع فريق عمل مكون من خمسين شخصًا فقط، حتى بعد خمسة وعشرين عامًا من تطور الإنترنت._
 
 ---
 
-## Asymmetric
+## النفوذ
+
+> "كن نفسك. يتم أخذ الجميع."
+> --أوسكار وايلد
+
+إذا كانت ساندرا مغنية عظيمة، وبيتر عازف بيانو عظيم، فستكون فكرة جيدة لإنشاء ثنائي أن تغني ساندرا وبيتر يعزف على البيانو. ستكون الفكرة السيئة هي العكس. تعمل الإستراتيجية العظيمة على تعزيز نقاط القوة وأصول المنظمة؛ فالاستراتيجية السيئة تطلب من المنظمة الفوز حتى أثناء التصرف بشكل غير طبيعي، وغالبًا ما يكون ذلك تحت غطاء "التغلب على نقاط الضعف".
+
+إن "النفوذ" يعني توليد تأثير كبير من خلال جهد صغير نسبياً، حيث يكون الوقت والأموال أكثر فعالية كثيراً مما قد يتوقعه المرء، لأننا نركب رياحاً مواتية من القدرات الطبيعية أو الأصول التي اكتسبناها بشق الأنفس، بدلاً من خوض معركة ضد ما يسمى "نقاط الضعف". أنت تعلم أنك تستفيد من نقاط قوتك عندما ترى أشخاصًا آخرين يهزون رؤوسهم مندهشين من مقدار ما أنجزته في وقت قصير جدًا.
+
+من الجيد الاستفادة من نقاط القوة. تتناول الكثير من الأدبيات المتعلقة بالاستراتيجية كيفية إنشاء [الخنادق](https://longform.asmartbear.com/moats/) - المزايا التنافسية الدائمة - ولكن لا تزال العديد من المؤسسات لا تستفيد من نقاط القوة المباشرة وغير المتمايزة التي تمتلكها. إنهم يبذلون معظم طاقتهم في دعم "نقاط الضعف"، والتي على الرغم من جهودهم، ستصبح في أحسن الأحوال "أقل ضعفًا"، ولكنها لن تصبح قوة أبدًا. في حين أن تطبيق نفس الطاقة في الاستفادة من نقاط قوتهم سيكون له تأثير إيجابي كبير. بل إنه من الممتع أكثر أن تلعب على نقاط قوتك بدلاً من الانغماس في نقاط الضعف.
+
+إنه بالطبع أفضل عندما تكون القوة *متمايزة* عن المنافسة. وهذا واضح بشكل خاص في السوق الناضجة حيث يقول الجميع نفس الأشياء على صفحتهم الرئيسية، ويسعرون بنفس الطريقة، ويختلفون فقط في الخصائص الثالثية. الفوز بطريقتك الخاصة [يمكن أن يهزم المنافسين "الأفضل"](https://longform.asmartbear.com/worse-but-unique/).
+
+ومن الأفضل أن يكون هذا التمييز *متينًا* بمرور الوقت. لم يكن إنشاء ميزة دائمة أكثر صعوبة من أي وقت مضى، عندما يمكن إعادة إنتاج جميع البرامج، ويمكن تكرار جميع نماذج الأعمال، ويكون العالم بأكمله هو سوقك ومنافسيك في نفس الوقت، مما يزيد من أهمية تحديد الخندق أو الخندقين اللذين ستبنيهما. الإستراتيجية هي المكان المناسب لتسمية تلك الخنادق.
+
+**[هذه المقالة المصاحبة حول "الرافعة المالية"](https://longform.asmartbear.com/leverage/)** توفر أمثلة وأفكارًا موسعة لكل ما سبق.
+
+إن تصميم القرارات بما يتناسب مع نقاط القوة في هذه المنظمة، وتجنب نقاط الضعف (بدلاً من عكسها)، والأفضل من ذلك عندما يتم التمييز بين نقاط القوة، وتحديد التمايز الدائم والاستثمار فيه، بحيث يتم بناء الخنادق على المدى الطويل، أمر ضروري لاستراتيجية تكون "كيف سنفوز".
+
+*مثال: بدأت شركة Zappos في عام 1999 - الإنترنت المبكر، وعدم وجود وسائل التواصل الاجتماعي، وعدد قليل من الأشخاص الذين يستخدمون النطاق العريض، وعدد قليل من الأشخاص يشعرون بالارتياح عند شراء أي شيء عبر الإنترنت، ناهيك عن شراء الأحذية، والتي تم شراؤها لمدة 100 عام فقط بعد تجربتها شخصيًا لأول مرة. بدأ زابوس برؤية مختلفة (يشرح المقال المصاحب كيف يمكن الاستفادة من "الرؤى"): أن الناس سيشترون الأحذية عبر الإنترنت، في ظل الظروف المناسبة. لقد بنوا خندقًا من مجموعة من القرارات المفاجئة (الموضحة أيضًا في المقالة المصاحبة): (أ) عوائد البريد المدفوعة حتى بعد 364 يومًا من الشراء، (ب) الدعم الأسطوري الذي قام بأشياء مثل شراء البيتزا للعملاء، (ج) ثقافة الشركة لتمكين الموظفين؛ ويتطلب الأمر هذا المزيج من القرارات القوية والمكلفة لتهيئة الظروف التي من خلالها يجرؤ الناس على الشراء عبر الإنترنت، وبالتالي فتح قناة بيع بالتجزئة جديدة تمامًا. ولم ينجح الخندق إلا من خلال وجود هذه المكونات الثلاثة؛ إذا لم تقم بتمكين الموظفين، فلن يتمكنوا من طلب البيتزا في لحظة؛ إذا لم تكن سياسة الإرجاع الخاصة بك سخية إلى حد يبعث على السخرية، فسيكون الناس خائفين جدًا من طلب الأحذية دون أن يراها أحد. ولأن رؤيتهم وقراراتهم كانت مذهلة للغاية (حرفيًا "غير موثوقة")، سخر منهم المنافسون بينما كانوا يستمتعون بتيار مستمر من الصحافة الإيجابية. وكانت النتيجة أن أصبح متجر الأحذية عبر الإنترنت الأكثر نجاحًا على مدار عقد من الزمن، حيث وصل إلى إيرادات سنوية قدرها مليار دولار أمريكي قبل عيد ميلاده العاشر.*
+
+---
+
+## غير متماثل
 
 ![Wind flowing over a sailboat's sail](https://public.asmartbear.com/books/anthology/chapters/great-strategy/air-flow-2-simple.png)
 
-A sailboat always moves forward.
+يتحرك المراكب الشراعية دائمًا للأمام.
 
-This remarkable fact is due to its asymmetrical shape: it is pointy at the front and flat in the back. This creates resistance to moving backwards, but a natural ease in moving forward. Even when the water is randomly undulating, "backward" forces are muted, while "forward" forces are allowed, so the boat glides forward. Asymmetries can amplify positive effects while muting negative ones, resulting in a net-positive force even under conditions of random inputs.
+هذه الحقيقة الرائعة ترجع إلى شكلها غير المتماثل: فهي مدببة من الأمام ومسطحة من الخلف. وهذا يخلق مقاومة للرجوع إلى الوراء، لكنه يخلق سهولة طبيعية في المضي قدمًا. حتى عندما تكون المياه متموجة بشكل عشوائي، يتم كتم القوى "الخلفية"، بينما يُسمح بالقوى "الأمامية"، وبالتالي ينزلق القارب للأمام. يمكن لعدم التماثل أن يؤدي إلى تضخيم التأثيرات الإيجابية بينما يكتم التأثيرات السلبية، مما يؤدي إلى قوة موجبة صافية حتى في ظل ظروف المدخلات العشوائية.
 
-Great strategies prescribe activities that always move the company forward, despite the inevitable bad luck and setbacks. To do that, the activities must exhibit asymmetry, where the upside vastly exceeds the cost, so that even if you [took 2x longer to achieve 50% of what you expected](https://longform.asmartbear.com/roi-rubric/), you still win.
+إن الاستراتيجيات العظيمة تصف الأنشطة التي تدفع الشركة دائمًا إلى الأمام، على الرغم من الحظ السيئ والنكسات التي لا مفر منها. وللقيام بذلك، يجب أن تظهر الأنشطة عدم تناسق، حيث يتجاوز الجانب الإيجابي التكلفة بشكل كبير، بحيث حتى لو [استغرقت وقتًا أطول مرتين لتحقيق 50% مما توقعته](https://longform.asmartbear.com/roi-rubric/)، فستظل فائزًا.
 
-> "If riskier investments could be counted on to produce higher returns, they wouldn't be riskier."  
-> --Howard Marks
+> "إذا كان من الممكن الاعتماد على الاستثمارات ذات المخاطر العالية لتحقيق عوائد أعلى، فإنها لن تكون أكثر خطورة."
+> -- هوارد ماركس
 
-This is the mechanism behind Venture Capital portfolios, which are investments in a slate of early-stage startups. The worst-case outcome for each bet is that they lose 100% of their investment, but in the best case they can gain 10,000%. A few large successes more than make up for the many [failures](https://longform.asmartbear.com/fail/), so the portfolio in total comes out positive. Investors call these "asymmetric bets." Economists call this "convexity."
+هذه هي الآلية الكامنة وراء محافظ رأس المال الاستثماري، وهي عبارة عن استثمارات في قائمة من الشركات الناشئة في مراحلها المبكرة. أسوأ نتيجة لكل رهان هي أن يخسروا 100% من استثماراتهم، لكن في أفضل الأحوال يمكنهم ربح 10000%. بعض النجاحات الكبيرة أكثر من تعويض العديد من [الإخفاقات](https://longform.asmartbear.com/fail/)، وبالتالي فإن المحفظة بشكل إجمالي تأتي إيجابية. يطلق المستثمرون على هذه "الرهانات غير المتماثلة". ويطلق خبراء الاقتصاد على هذا وصف "التحدب".
 
-Strategy must create a portfolio of bets having this "VC-like" asymmetric quality, whether for a small startup trying to find product/market fit or a mature company entering new markets. A sign of a bad strategy is when success requires everything to go right. With a set of asymmetric bets, the successes render the failures moot, and so the unpredictable waves crashing into the boat still result in forward motion.
+يجب أن تنشئ الإستراتيجية مجموعة من الرهانات ذات الجودة غير المتماثلة "المشابهة لرأس المال الاستثماري"، سواء كانت لشركة ناشئة صغيرة تحاول العثور على منتج مناسب للسوق أو لشركة ناضجة تدخل أسواقًا جديدة. علامة على وجود استراتيجية سيئة هي عندما يتطلب النجاح أن يسير كل شيء على ما يرام. مع مجموعة من الرهانات غير المتماثلة، فإن النجاحات تجعل الإخفاقات موضع نقاش، وبالتالي فإن الأمواج غير المتوقعة التي تصطدم بالقارب لا تزال تؤدي إلى التحرك للأمام.
 
-**[This companion article details strategies that work well in an unpredictable world](https://longform.asmartbear.com/predict-the-future/).** One of the few strengths of a new startup is that it can [learn faster, react faster, deliver faster](https://longform.asmartbear.com/startup-beats-incumbent/); startups are favored when the waters are uncertain.
+**[تتناول هذه المقالة المصاحبة تفاصيل الاستراتيجيات التي تعمل بشكل جيد في عالم لا يمكن التنبؤ به](https://longform.asmartbear.com/predict-the-future/).** تتمثل إحدى نقاط القوة القليلة للشركة الناشئة الجديدة في قدرتها على [التعلم بشكل أسرع، والتفاعل بشكل أسرع، وتقديم الخدمات بشكل أسرع](https://longform.asmartbear.com/startup-beats-incumbent/)؛ يتم تفضيل الشركات الناشئة عندما تكون المياه غير مؤكدة.
 
-One form of asymmetric bet is entering a large and growing market. Besides the obvious benefits[^3] there is the asymmetry of optionality: There are many niches to exploit, many possible ways for a product to deliver value, many marketing and sales channels, and there's more of all of it every year. Because there are many options to try, there are many ways to succeed; if your first few ideas don't work, the next one might. By having [lots of ways to succeed](https://longform.asmartbear.com/capturing-luck/), you are more likely to find one. Waves on the boat.
+أحد أشكال الرهان غير المتماثل هو دخول سوق كبيرة ومتنامية. إلى جانب الفوائد الواضحة[^3]، هناك عدم تناسق في الاختيارية: هناك العديد من المجالات التي يمكن استغلالها، والعديد من الطرق الممكنة لمنتج ما لتقديم القيمة، والعديد من قنوات التسويق والمبيعات، وهناك المزيد منها كل عام. نظرًا لوجود العديد من الخيارات التي يمكنك تجربتها، هناك العديد من الطرق للنجاح؛ إذا لم تنجح أفكارك القليلة الأولى، فقد تنجح الفكرة التالية. من خلال وجود [الكثير من الطرق لتحقيق النجاح](https://longform.asmartbear.com/capturing-luck/)، من المرجح أن تجد واحدة منها. الأمواج على القارب.
 
-[^3]: Potential customers are already spending money, which means budgets are pre-allocated and pricing structures are well-understood, the press is already talking about it, marketing channels already exist, and the "pie" is growing, so even a small slice of the pie automatically grows.
+[^3]: العملاء المحتملون ينفقون الأموال بالفعل، مما يعني أن الميزانيات مخصصة مسبقًا وأن هياكل التسعير مفهومة جيدًا، والصحافة تتحدث عن ذلك بالفعل، وقنوات التسويق موجودة بالفعل، و"الفطيرة" تنمو، لذلك حتى شريحة صغيرة من الكعكة تنمو تلقائيًا.
 
-> "The most powerful force in the universe is compound interest."  
-> --Albert Einstein
+> "إن أقوى قوة في الكون هي الفائدة المركبة."
+> - ألبرت أينشتاين
 
-Another kind of asymmetry is a process that compounds, meaning that the more of it there is, the faster it grows. Things with this characteristic naturally grow larger than anything that grows in a more linear fashion, even if they start out small. Examples are customer retention, customer upgrades, and employee retention. Another example is a growth-vector that is proportional to the size of the current customer base, such as word of mouth referrals and viral products (e.g. once you join a social platform or collaborative online tool, you tend to get other people you know to join as well). Most things that grow non-linearly [don't grow exponentially](https://longform.asmartbear.com/exponential-growth/)--that's normal, and still a great strategy. A common example is a reseller channel, because each reseller could bring you a number of clients over time, so when the number of resellers grows by `N`, the number of potential customers they bring grows by `N ✕ M`. For example, Intuit grew Quickbooks by providing software to CPAs that made their life easy, but only if their clients used Quickbooks. The CPAs started requiring their clients to buy Quickbooks, and so a smaller number of CPAs created a much larger number of Quickbooks sales.
+نوع آخر من عدم التماثل هو عملية مركبة، مما يعني أنه كلما زاد عددها، زادت سرعة نموها. فالأشياء التي تتمتع بهذه الخاصية تنمو بشكل طبيعي أكبر من أي شيء ينمو بطريقة أكثر خطية، حتى لو كانت صغيرة في البداية. ومن الأمثلة على ذلك الاحتفاظ بالعملاء، وترقيات العملاء، والاحتفاظ بالموظفين. مثال آخر هو ناقل النمو الذي يتناسب مع حجم قاعدة العملاء الحالية، مثل الإحالات الشفهية والمنتجات واسعة الانتشار (على سبيل المثال، بمجرد انضمامك إلى منصة اجتماعية أو أداة تعاونية عبر الإنترنت، فإنك تميل إلى جذب أشخاص آخرين تعرفهم للانضمام أيضًا). معظم الأشياء التي تنمو بشكل غير خطي [لا تنمو بشكل أسي](https://longform.asmartbear.com/exponential-growth/)--هذا أمر طبيعي، ولا يزال يمثل استراتيجية رائعة. من الأمثلة الشائعة على ذلك قناة الموزع، لأن كل موزع يمكن أن يجلب لك عددًا من العملاء بمرور الوقت، لذلك عندما ينمو عدد الموزعين بمقدار `N`، فإن عدد العملاء المحتملين الذين يجلبونهم ينمو بمقدار `N ✕ M`. على سبيل المثال، قامت شركة Intuit بتطوير Quickbooks من خلال توفير البرامج للمحاسبين القانونيين المعتمدين (CPA) التي جعلت حياتهم سهلة، ولكن فقط إذا كان عملاؤها يستخدمون Quickbooks. بدأت المحاسبين القانونيين (CPA) في مطالبة عملائهم بشراء Quickbooks، وبالتالي أدى عدد أقل من المحاسبين القانونيين (CPA) إلى إنشاء عدد أكبر بكثير من مبيعات Quickbooks.
 
-In the negative, companies also face asymmetric threats. With ten competitors, only a few need to become break-out winners to pose a significant challenge. Like the famous statement by the IRA after [a bombing](https://en.wikipedia.org/wiki/Brighton_hotel_bombing) failed to kill British prime minister Margaret Thatcher: "Today we were unlucky, but remember we only have to be lucky once. You will have to be lucky always." A strategy that places a number of asymmetric bets doesn't need to be lucky always.
+وفي الجانب السلبي، تواجه الشركات أيضًا تهديدات غير متماثلة. مع وجود عشرة متنافسين، يحتاج عدد قليل منهم فقط إلى أن يصبحوا فائزين ليشكلوا تحديًا كبيرًا. مثل البيان الشهير الذي أصدره الجيش الجمهوري الإيرلندي بعد فشل [التفجير] (https://en.wikipedia.org/wiki/Brighton_hotel_bombing) في قتل رئيسة الوزراء البريطانية مارغريت تاتشر: "اليوم لم نكن محظوظين، لكن تذكر أننا يجب أن نكون محظوظين مرة واحدة فقط. يجب أن تكون محظوظًا دائمًا". الإستراتيجية التي تضع عددًا من الرهانات غير المتماثلة لا تحتاج إلى أن تكون محظوظة دائمًا.
 
-Every plan will face challenges, both foreseeable and bad luck. If everything has to go right for the plan to succeed, it won't succeed. Whether a single investment has asymmetric upside, or a portfolio of bets collectively has large upside, exploiting asymmetries maximizes the chance that the strategy will succeed despite the [inevitable travails](https://longform.asmartbear.com/chaos-at-start/) and [uncontrollable luck](https://longform.asmartbear.com/lucky/), and thus is vital to "how we will win."
+ستواجه كل خطة تحديات، سواء كانت متوقعة أو سيئة الحظ. إذا كان كل شيء يجب أن يسير بشكل صحيح حتى تنجح الخطة، فلن تنجح. سواء كان لاستثمار واحد اتجاه صعودي غير متماثل، أو كانت مجموعة الرهانات بشكل جماعي لها اتجاه صعودي كبير، فإن استغلال عدم التماثل يزيد من فرصة نجاح الاستراتيجية على الرغم من [المتاعب الحتمية](https://longform.asmartbear.com/chaos-at-start/) و[الحظ الذي لا يمكن السيطرة عليه](https://longform.asmartbear.com/lucky/)، وبالتالي فهو أمر حيوي لـ "كيف سنفوز".
 
-_Example: Amazon is the cliché example, but only because it's apropos, even ignoring AWS. Originally a book-seller only, they have never stopped taking bets, whether on adjacent markets (e.g. selling electronics), reselling internal systems (e.g. Amazon warehouses, logistics, robotics, fulfillment, were all broken apart and sold as separate products), or entirely new kinds of product (smart phones, cloud computing). More impressive is when the new bets purposefully disrupted previous businesses; according to early employee Andy Johns ([article](https://medium.com/sand-hill-road/unpacking-growth-with-andy-johns-partner-at-unusual-ventures-79778fc7bdd8), [podcast](https://thetwentyminutevc.libsyn.com/20growth-top-growth-lessons-from-the-early-facebook-twitter-and-quora-days-the-most-important-question-to-ask-when-building-your-growth-team-how-to-test-for-true-candidate-depth-and-quality-when-hiring-for-growth-with-andy-johns-venture-partner-unusual-ve)), Bezos was so adamant that the Kindle be successful, despite the fact that it would hurt their physical book business, that he assigned the Kindle project to the executive who was currently over the book business, saying "Effective tomorrow, your job is to kill your old business with a Kindle." The key thing is: **many of these bets failed, and failure was expected.** Failure isn't desirable, but each bet had out-sized potential upside and budget-able downside. Even Kindle was [unprofitable for years](https://www.forbes.com/sites/kellyclay/2012/10/12/amazon-confirms-it-makes-no-profit-on-kindles/?sh=3f08d58d6b43) and the Amazon Fire Phone was an abject [failure](https://time.com/3536969/amazon-fire-phone-bust/). Bezos explains in his own words that their strategy is exactly the theory of a portfolio of asymmetric bets with expected failures:_
+_مثال: Amazon هو المثال المبتذل، ولكن فقط لأنه مناسب، حتى أنه يتجاهل AWS. في الأصل كانوا بائعي كتب فقط، ولم يتوقفوا أبدًا عن الرهان، سواء على الأسواق المجاورة (مثل بيع الإلكترونيات)، أو إعادة بيع الأنظمة الداخلية (مثل مستودعات أمازون، والخدمات اللوجستية، والروبوتات، والوفاء، والتي تم تفكيكها جميعًا وبيعها كمنتجات منفصلة)، أو أنواع جديدة تمامًا من المنتجات (الهواتف الذكية، والحوسبة السحابية). الأمر الأكثر إثارة للإعجاب هو أن الرهانات الجديدة عطلت عن قصد الأعمال السابقة؛ وفقًا للموظف الأوائل آندي جونز ([مقالة](https://medium.com/sand-hill-road/unpacking-growth-with-andy-johns-partner-at-unusual-ventures-79778fc7bdd8)، [بودكاست](https://thetwentyدقيقةvc.libsyn.com/20growth-top-growth-lessons-from-the-early-facebook-twitter-and-quora-days-the-most-important-question-to -اسأل متى تقوم ببناء فريق النمو الخاص بك، وكيف يتم اختبار عمق وجودة المرشح الحقيقي، عند التوظيف من أجل النمو مع شريك آندي جونز في المشروع، غير المعتاد))، كان بيزوس مصرًا جدًا على نجاح جهاز كيندل، على الرغم من أنه سيضر بأعمال الكتب المادية، لدرجة أنه أوكل مشروع كيندل إلى المدير التنفيذي الذي كان يتولى حاليًا أعمال الكتب، قائلاً: "اعتبارًا من الغد، وظيفتك هي إنهاء عملك القديم باستخدام جهاز كيندل". الأمر الأساسي هو: **فشلت العديد من هذه الرهانات، وكان الفشل متوقعًا.** الفشل ليس أمرًا مرغوبًا فيه، ولكن كل رهان كان له جانب إيجابي كبير الحجم وجانب سلبي لا يتناسب مع الميزانية. حتى جهاز Kindle كان [غير مربح لسنوات](https://www.forbes.com/sites/kellyclay/2012/10/12/amazon-confirms-it-makes-no-profit-on-kindles/?sh=3f08d58d6b43) وكان هاتف Amazon Fire Phone بائسًا [فشل](https://time.com/3536969/amazon-fire-phone-bust/). يشرح بيزوس بكلماته الخاصة أن استراتيجيتهم هي بالضبط نظرية مجموعة من الرهانات غير المتماثلة مع الفشل المتوقع:_
 
-> "If you're going to take bold bets, they're going to be experiments. And if they're experiments you don't know ahead of time if they're going to work. Experiments are by their very nature prone to failure. But a few big successes compensate for dozens and dozens of things that didn't work."  
->   
-> "I've made billions of dollars of failures at Amazon.com. Literally. You have to be super clear about what kind of company you're trying to build. ... We said we were going to take big bets. We said we were going to fail."  
->   
-> --Jeff Bezos, [The Guardian](https://www.theguardian.com/technology/2014/dec/03/jeff-bezos-billions-dollars-failures-amazon), 2014
+> "إذا كنت ستأخذ رهانات جريئة، فستكون تجارب. وإذا كانت تجارب، فلن تعرف مسبقًا ما إذا كانت ستنجح أم لا. التجارب بطبيعتها عرضة للفشل. لكن بعض النجاحات الكبيرة تعوض عن العشرات والعشرات من الأشياء التي لم تنجح."
+> 
+> "لقد حققت مليارات الدولارات من الإخفاقات في Amazon.com. حرفيًا. يجب أن تكون واضحًا تمامًا بشأن نوع الشركة التي تحاول بناءها. ... قلنا إننا سنخوض رهانات كبيرة. قلنا إننا سنفشل."
+> 
+> --جيف بيزوس، [الجارديان](https://www.theguardian.com/technology/2014/dec/03/jeff-bezos-billions-dollars-failures-amazon)، 2014
 
 ---
 
-## Futuristic
+## مستقبلية
 
-> "The best time to plant a tree is one hundred years ago. The second-best time to plant a tree is today."  
-> --A proverb claimed by many peoples, across thousands of years
+> "أفضل وقت لزراعة شجرة هو قبل مائة عام. وثاني أفضل وقت لزراعة شجرة هو اليوم."
+> - مثل يردده كثير من الشعوب عبر آلاف السنين
 
-"Being agile"[^4] is a great way to climb the proverbial mountain-shrouded-in-fog. Some paths are the right ones, but backtracking is inevitable; it's a sign of puzzling-out, not a sign of failure. The job of strategy is to identify which mountain we're trying to climb in the first place--the puzzle we're solving for, the opportunity we're exploiting. If an "agile, self-managed" team climbs the wrong mountain, it was all a waste.
+يعد "التحلي بالمرونة"[^4] طريقة رائعة لتسلق الجبل الذي يكتنفه الضباب. بعض المسارات هي الصحيحة، لكن التراجع أمر لا مفر منه؛ إنها علامة على الحيرة، وليست علامة على الفشل. إن مهمة الإستراتيجية هي تحديد الجبل الذي نحاول تسلقه في المقام الأول - اللغز الذي نحل من أجله، والفرصة التي نستغلها. إذا تسلق فريق "رشيق ويدير نفسه بنفسه" الجبل الخطأ، فسيكون ذلك كله مضيعة للوقت.
 
-[^4]: Meaning: Don't pretend you can predict the future, assume the quantity of "things we don't know" is larger than the quantity "things we do know," iterate quickly on [hypotheses](https://longform.asmartbear.com/customer-development/) that you proactively attempt to disprove, and adjust in the presence of new information. The team that learns the fastest, wins. The team that spends three months trying predict the future, is now three months behind, and the future still won't unfold as they predicted.
+[^4]: المعنى: لا تتظاهر بأنك تستطيع التنبؤ بالمستقبل، افترض أن كمية "الأشياء التي لا نعرفها" أكبر من كمية "الأشياء التي نعرفها"، وكرر بسرعة على [الفرضيات](https://longform.asmartbear.com/customer-development/) التي تحاول بشكل استباقي دحضها، وتعديلها في ظل وجود معلومات جديدة. الفريق الذي يتعلم بشكل أسرع هو الفائز. الفريق الذي قضى ثلاثة أشهر في محاولة التنبؤ بالمستقبل، أصبح الآن متأخرًا بثلاثة أشهر، وما زال المستقبل غير ظاهر كما توقعوا.
 
-Strategy looks further into the future than anything else at the company. Therefore, it has the responsibility to take the long view. Which is especially difficult, as [the future is unpredictable](https://longform.asmartbear.com/predict-the-future/), and [data tells you about the past, but rarely about the future](https://rogermartin.medium.com/singing-the-data-analytics-blues-58fdf93b27bf).
+تتطلع الإستراتيجية إلى المستقبل أكثر من أي شيء آخر في الشركة. ولذلك، تقع على عاتقها مسؤولية اتخاذ وجهة نظر بعيدة المدى. وهو أمر صعب بشكل خاص، حيث أن [المستقبل لا يمكن التنبؤ به](https://longform.asmartbear.com/predict-the-future/)، و[البيانات تخبرك عن الماضي، ولكن نادرًا ما تخبرك عن المستقبل](https://rogermartin.medium.com/singing-the-data-analytics-blues-58fdf93b27bf).
 
-If you can solve a problem in a month, you probably should, but that also means it's not a *strategic* problem. Anything that can be built in three months, isn't the way you will have constructed a moat that will take competitors years to overcome. Anything that specifies features or timelines is a roadmap, not a strategy; a strategy specifies market and business outcomes and the primary decisions and secondary consequences. Anything that specifies teams or roles or hiring or processes is an operational plan, not a strategy; a strategy details the outcomes and activities that require the entire company to accomplish together, not what one team needs to accomplish alone.
+إذا كان بإمكانك حل مشكلة ما في شهر واحد، فمن المحتمل أن تفعل ذلك، ولكن هذا يعني أيضًا أنها ليست مشكلة *استراتيجية*. أي شيء يمكن بناؤه في ثلاثة أشهر، ليس هو الطريقة التي ستبني بها خندقًا سيستغرق المنافسون سنوات للتغلب عليه. أي شيء يحدد الميزات أو الجداول الزمنية هو خارطة طريق، وليس استراتيجية؛ تحدد الإستراتيجية نتائج السوق والأعمال والقرارات الأولية والعواقب الثانوية. أي شيء يحدد الفرق أو الأدوار أو التوظيف أو العمليات هو خطة تشغيلية، وليس استراتيجية؛ توضح الإستراتيجية النتائج والأنشطة التي تتطلب من الشركة بأكملها إنجازها معًا، وليس ما يحتاج فريق واحد إلى تحقيقه بمفرده.
 
-People naturally get distracted by the immediate, the urgent, the tactical, the "low-hanging fruit." Strategy is the place where we select the high-hanging fruit, the "important, but not urgent" quadrant of the [Eisenhower Matrix](https://en.wikipedia.org/wiki/Time_management). Then executed as the Rocks in your ["Rocks, Pebbles, Sand" prioritization framework](https://longform.asmartbear.com/rocks-pebbles-sand/).
+من الطبيعي أن يتشتت انتباه الناس بسبب ما هو فوري، وعاجل، وتكتيكي، و"الثمرة الدانية". الإستراتيجية هي المكان الذي نختار فيه الثمرة المتدلية، الربع "المهم، ولكن ليس العاجل" من [مصفوفة أيزنهاور](https://en.wikipedia.org/wiki/Time_management). ثم يتم تنفيذها كالصخور في [إطار عمل تحديد الأولويات "Rocks, Pebbles, Sand"](https://longform.asmartbear.com/rocks-pebbles-sand/).
 
-Part of explaining "how to win" is defining what the "winning" state looks like. Often called the "vision statement," it describes what the world will look like when we're successful:
+جزء من شرح "كيفية الفوز" هو تحديد الشكل الذي تبدو عليه الحالة "الفائزة". غالبًا ما يُطلق عليه "بيان الرؤية"، وهو يصف الشكل الذي سيبدو عليه العالم عندما ننجح:
 
-|  |  |
-|:----|:----|
-| Oxfam | A just world without poverty |
-| Habitat for Humanity | A world where everyone has a decent place to live |
-| Stripe | Increase the GDP of the internet |
-| Microsoft <br/> (years ago) | A computer on every desk and in every home |
-| Tesla <br/> (original) | Create the most compelling car company of the 21st century by driving the world's transition to electric vehicles |
-| WP Engine | Power the freedom to create online |
-| YouTube | Give everyone a voice and show them the world |
-| GoDaddy | Radically shift the global economy toward independent entrepreneurial ventures |
+|  |  | |:----|:----| | أوكسفام | عالم عادل بلا فقر | | الموئل من أجل الإنسانية | عالم يتمتع فيه كل فرد بمكان لائق للعيش فيه | | شريط | زيادة الناتج المحلي الإجمالي للإنترنت | | مايكروسوفت <br/> (منذ سنوات) | جهاز كمبيوتر على كل مكتب وفي كل منزل | | تسلا <br/> (الأصلي) | إنشاء شركة السيارات الأكثر إقناعًا في القرن الحادي والعشرين من خلال قيادة تحول العالم إلى السيارات الكهربائية | | محرك الفسفور الأبيض | عزز حرية الإبداع عبر الإنترنت | | يوتيوب | امنح الجميع صوتًا وأظهر لهم العالم | | جودادي | تحويل الاقتصاد العالمي بشكل جذري نحو المشاريع الريادية المستقلة |
 
 ![youre right its not much of mission statement](https://public.asmartbear.com/books/anthology/chapters/great-strategy/d2714print-simple.png)
 
-The Vision statement is often the first sentence the strategy document, but was the last thing crafted by the authors of that document. Only once you fully understand the challenges you face, the main, coherent courses of actions to undertake, and the results you want, can you summarize a clear vision of what the future will be.
+غالبًا ما يكون بيان الرؤية هو الجملة الأولى في وثيقة الإستراتيجية، ولكنه كان آخر شيء صاغه مؤلفو تلك الوثيقة. فقط بمجرد أن تفهم بشكل كامل التحديات التي تواجهها، ومسارات الإجراءات الرئيسية والمتماسكة التي يجب القيام بها، والنتائج التي تريدها، يمكنك تلخيص رؤية واضحة لما سيكون عليه المستقبل.
 
-Because words like ["mission" and "vision"](https://longform.asmartbear.com/mission-vision/)have indefinite meaning and are often misused, I prefer alternate words and intentions, as described in the article just linked.
+نظرًا لأن كلمات مثل ["mission" و"vision"](https://longform.asmartbear.com/mission-vision/) لها معنى غير محدد وغالبًا ما يُساء استخدامها، فأنا أفضل الكلمات والمقاصد البديلة، كما هو موضح في المقالة المرتبطة للتو.
 
-Strategy is where we specify the most critical long-term challenges facing the company, and the [rocks](https://longform.asmartbear.com/rocks-pebbles-sand/) that are [the most important things](https://longform.asmartbear.com/maximized-decision/), not to win the battles today, but to determine how we will have won the war three years from now, how we will achieve our vision, how we will win.
+الإستراتيجية هي المكان الذي نحدد فيه أهم التحديات طويلة المدى التي تواجه الشركة، و[الصخور](https://longform.asmartbear.com/rocks-pebbles-sand/) هي [أهم الأشياء](https://longform.asmartbear.com/maximized-decision/)، ليس لكسب المعارك اليوم، ولكن لتحديد كيف سننتصر في الحرب بعد ثلاث سنوات من الآن، وكيف سنحقق رؤيتنا، وكيف سننتصر.
 
-*Example: After Google purchased YouTube, they set a far-future goal of attaining a billion daily views. This filtered down to everything from demands on technical architecture, to strategic debates such as whether that enormous quantity of views could be achieved by user-generated content alone or whether they needed to license libraries of existing TV shows and movies. At one point they realized that the global internet infrastructure did not have enough capacity to stream a billion views per day, so Google invested billions of dollars in fiber and data centers to prevent that from becoming a bottleneck--billion of dollars they would not have spent without a vision of the future that mandated that investment.*
-
----
-
-## Bad Strategy
-
-Tell-tale signs of a strategy that lacks these qualities:
-
-#### Not simple
-Pages of detail.[^5] Slides with more than 20 words. A litany of numbers without a narrative explaining what insights they create. No diagrams "painting the picture," or diagrams with 20 boxes. Too many points for someone to [recall from memory](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two). Important concepts that aren't summarized by a short phrase that people can use as a daily short-hand.
-
-#### Not candid
-Nothing where the future of the company hangs in the balance. Nothing that makes the reader say, "Oh wow, dang, what are we going to do about *that!?*" Nothing scary that demands action. No serious consequence if the directives aren't followed. A reader who finishes the document and thinks, "We're still ignoring the elephant in the room."
-
-#### Not decisive
-No clear decisions that would cause us to "easily say 'no'" to many otherwise excellent, reasonable ideas. Not obvious what we're *not* doing. Non-specific target market (e.g. "for everyone"), target customer (e.g. "any [title]"), target jobs-to-be-done. Directives and headings using the word "and" to expand scope rather than limiting it. No negative-but-accepted consequences of the decisions. Decisions that conflict with each other. Decisions that don't reinforce each other.
-
-#### Not leveraged
-Strategy would apply equally well to a competitor, or even to a business in another industry. Strategy doesn't call out the special strengths and durable assets of the organization, or doesn't explain how to apply them to win, especially how it will position against the competition. No obvious moats being constructed. No network of interlocking decisions that together makes the company special. Demanding that the organization overcome more than one or two major deficiencies.
-
-#### Not asymmetric
-Potential upsides aren't at least 10x larger than costs. Linear cost/reward, or risk/reward. Not creating optionality in how each aspect can go right, leading to one thing that absolutely must work. A course of action that requires multiple different, difficult things to simultaneously go right, otherwise the whole strategy fails.
-
-#### Not futuristic
-Doesn't describe a specific future destination of the company or product. A "vision" that describes what the company already does and already is, rather than how things will be different once we successfully execute our strategy. Doesn't specify which moats are being created, and how. Specifies teams, products, timelines, or features. Deals with temporary challenges that can be solved in a quarter rather than long-term challenges that will take years to fully overcome. Describes how to win this year instead of in three years. Relies primarily on data to predict the future.
-
-#### Not strategy (bonus)
-Generic statements that would apply equally to nearly any company, even in a different field (e.g. grow faster, lower attrition, hire the best talent, delight customers, beat the competition). Aspirations about what we wish would happen, without specifying how it will happen. Financial goals rather than how to win competitive markets. Plans that are in someone's head instead of written down and shared. Written documents that aren't referenced when creating plans.
-
-[^5]: Detail is great, if it is attached as optional reading, expanding on a summary.
+*مثال: بعد أن اشترت Google موقع YouTube، حددت هدفًا للمستقبل البعيد يتمثل في تحقيق مليار مشاهدة يوميًا. وقد تم ترشيح ذلك ليشمل كل شيء بدءًا من المتطلبات المتعلقة بالبنية التقنية، وحتى المناقشات الإستراتيجية مثل ما إذا كان من الممكن تحقيق هذه الكمية الهائلة من المشاهدات من خلال المحتوى الذي ينشئه المستخدمون وحدهم أو ما إذا كانوا بحاجة إلى ترخيص مكتبات البرامج التلفزيونية والأفلام الحالية. وفي مرحلة ما، أدركوا أن البنية التحتية العالمية للإنترنت ليس لديها القدرة الكافية على بث مليار مشاهدة يوميًا، لذلك استثمرت Google مليارات الدولارات في الألياف ومراكز البيانات لمنع ذلك من أن يصبح عنق الزجاجة - مليارات الدولارات لم تكن لتنفقها بدون رؤية للمستقبل تتطلب هذا الاستثمار.*
 
 ---
 
-A sailboat always moves forward, but if you don't decide on a specific destination, it will end up *somewhere*, but probably not where you wanted to be.
+## استراتيجية سيئة
 
-Time to decide how you will win.
+علامات واضحة لاستراتيجية تفتقر إلى هذه الصفات:
 
-## Postscript: How do I construct a strategy?
+#### ليست بسيطة
+صفحات التفاصيل.[^5] شرائح تحتوي على أكثر من 20 كلمة. سلسلة من الأرقام بدون سرد يشرح الأفكار التي تخلقها. لا توجد مخططات "ترسم الصورة" أو مخططات تحتوي على 20 صندوقًا. هناك عدد كبير جدًا من النقاط التي يتعذر على شخص ما [استعادتها من الذاكرة](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two). مفاهيم مهمة لا تلخصها عبارة قصيرة يمكن للناس استخدامها كاختصار يومي.
 
-Stay tuned for future articles that lay out a process for constructing a great strategy. Partial answers appear in [The roadmap for Product/Market Fit](https://longform.asmartbear.com/product-market-fit-formula/) and [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/).
+#### ليس صريحا
+لا شيء حيث مستقبل الشركة معلق في الميزان. لا شيء يجعل القارئ يقول، "يا إلهي، ماذا سنفعل حيال ذلك!؟" لا شيء مخيف يتطلب العمل. لا توجد عواقب خطيرة إذا لم يتم اتباع التوجيهات. القارئ الذي ينتهي من الوثيقة ويفكر: "ما زلنا نتجاهل الفيل الموجود في الغرفة".
 
-But don't wait. A mediocre strategy is still better than no strategy.
+#### ليست حاسمة
+لا توجد قرارات واضحة من شأنها أن تجعلنا "نقول لا بسهولة" للعديد من الأفكار الممتازة والمعقولة. ليس من الواضح ما لا نفعله. السوق المستهدفة غير المحددة (على سبيل المثال "للجميع")، والعملاء المستهدفين (على سبيل المثال "أي [عنوان]")، والوظائف المستهدفة التي يتعين إنجازها. التوجيهات والعناوين باستخدام كلمة "و" لتوسيع النطاق بدلاً من الحد منه. لا توجد عواقب سلبية ولكن مقبولة للقرارات. القرارات التي تتعارض مع بعضها البعض. القرارات التي لا يعزز بعضها البعض.
 
-## Further reading
+#### لا الاستدانة
+يمكن تطبيق الإستراتيجية بشكل جيد على المنافس، أو حتى على شركة في صناعة أخرى. لا تسلط الإستراتيجية الضوء على نقاط القوة الخاصة والأصول الدائمة للمنظمة، أو لا تشرح كيفية تطبيقها لتحقيق الفوز، وخاصة كيف ستضعها في مواجهة المنافسة. لا يتم إنشاء خنادق واضحة. لا توجد شبكة من القرارات المتشابكة التي تجعل الشركة مميزة. - المطالبة بأن تتغلب المنظمة على أكثر من واحد أو اثنين من أوجه القصور الرئيسية.
 
-* Article: [WTF is Strategy?](https://hackernoon.com/wtf-is-a-strategy-bcaa3fda9a31) by Vince Law: Defining the nested concepts of vision, mission, strategy, roadmap, and execution, thereby contextualizing the role of "strategy."
-* Book: [*Good Strategy, Bad Strategy*](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239) by Richard Rumelt: Doesn't explain how to construct a strategy, but terrific observations about what good and bad strategy looks like. ([Summary](https://jlzych.com/2018/06/27/notes-from-good-strategy-bad-strategy/) by Jeff Zych)
-* Book: [*Blue Ocean Strategy*](https://www.blueoceanstrategy.com/what-is-blue-ocean-strategy/) by W. Chan Kim & Renée Mauborgne: Explains how to construct a strategy that is not only "different from the competition" (i.e. competes better in so-called "red-ocean" force competitive markets) but competes in a wholly different way, creating a new value-proposition, often at higher profit, in so-called "blue oceans" where you've defined yourself such that there isn't any direct competition.
-* Article: [Gibson Biddle's multi-part series](https://gibsonbiddle.medium.com/intro-to-product-strategy-60bdf72b17e3) on how to build a product strategy that converts "how to win" into "what to do"
-* Article: [Taylor Pearson on optionality](https://taylorpearson.me/optionality/), and how to apply the Nassim Taleb quote in practice, even personally.
-* Article: [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/) on selecting the right "problem to solve" and "for whom" to increase the probability of success.
-* Article: [Using the Needs Stack for competitive strategy](https://longform.asmartbear.com/needs-stack/) on thinking about customer value, markets, competitors, and disruption.
-* Article: [When customers are "willing" to pay](https://longform.asmartbear.com/willingness-to-pay/) on how to create strategies that capture and keep customers as your allies, who help you grow and find new customers, rather than forcing them to stay through coercion.
-* Journal article: [The Design School: Reconsideration of the Basic Premises of Strategic Management](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.4250110302) by Henry Mintzberg, *Strategic Management Journal* (1990), with a summary of traditional strategy construction, a critique of its drawbacks, and conditions when it is appropriate.
+#### ليس غير متماثل
+إن الإيجابيات المحتملة ليست أكبر بـ 10 مرات على الأقل من التكاليف. التكلفة/المكافأة الخطية، أو المخاطرة/المكافأة. عدم خلق خيار في كيفية سير كل جانب بشكل صحيح، مما يؤدي إلى شيء واحد يجب أن ينجح بالتأكيد. مسار عمل يتطلب عدة أشياء مختلفة وصعبة لتسير بشكل صحيح في وقت واحد، وإلا ستفشل الاستراتيجية بأكملها.
+
+#### ليست مستقبلية
+لا يصف وجهة مستقبلية محددة للشركة أو المنتج. "رؤية" تصف ما تفعله الشركة بالفعل وما تفعله بالفعل، وليس كيف ستختلف الأمور بمجرد تنفيذ استراتيجيتنا بنجاح. لا يحدد الخنادق التي يتم إنشاؤها، وكيف. يحدد الفرق أو المنتجات أو الجداول الزمنية أو الميزات. يتعامل مع التحديات المؤقتة التي يمكن حلها في ربع ساعة بدلاً من التحديات طويلة المدى التي سيستغرق التغلب عليها بالكامل سنوات. يصف كيفية الفوز هذا العام بدلا من ثلاث سنوات. يعتمد بشكل أساسي على البيانات للتنبؤ بالمستقبل.
+
+#### ليست استراتيجية (مكافأة)
+عبارات عامة من شأنها أن تنطبق بالتساوي على أي شركة تقريبًا، حتى في مجال مختلف (على سبيل المثال، النمو بشكل أسرع، وتقليل الاستنزاف، وتوظيف أفضل المواهب، وإسعاد العملاء، والتغلب على المنافسة). تطلعات حول ما نتمنى أن يحدث، دون تحديد كيفية حدوثه. الأهداف المالية وليس كيفية الفوز بالأسواق التنافسية. الخطط الموجودة في رأس شخص ما بدلاً من كتابتها ومشاركتها. المستندات المكتوبة التي لا يتم الرجوع إليها عند إنشاء الخطط.
+
+[^5]: التفاصيل رائعة، إذا كانت مرفقة كقراءة اختيارية، فهي توسع في الملخص.
+
+---
+
+يتحرك المركب الشراعي دائمًا للأمام، ولكن إذا لم تقرر وجهة معينة، فسينتهي به الأمر *في مكان ما*، ولكن ربما ليس المكان الذي تريد أن تكون فيه.
+
+حان الوقت لتقرر كيف ستفوز.
+
+## بوستسكريبت: كيف يمكنني بناء استراتيجية؟
+
+ترقبوا المقالات المستقبلية التي توضح عملية بناء استراتيجية رائعة. تظهر الإجابات الجزئية في [خريطة الطريق لملاءمة المنتج/السوق](https://longform.asmartbear.com/product-market-fit-formula/) و[معذرة، هل هناك مشكلة؟](https://longform.asmartbear.com/problem/).
+
+لكن لا تنتظر. إن الإستراتيجية المتواضعة لا تزال أفضل من عدم وجود إستراتيجية.
+
+## مزيد من القراءة
+
+* مقال: [WTF هي الإستراتيجية؟] (https://hackernoon.com/wtf-is-a-strategy-bcaa3fda9a31) بقلم فينس لو: تحديد المفاهيم المتداخلة للرؤية والمهمة والاستراتيجية وخريطة الطريق والتنفيذ، وبالتالي وضع دور "الاستراتيجية" في سياقه.
+* الكتاب: [*استراتيجية جيدة، استراتيجية سيئة*](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239) بقلم ريتشارد روملت: لا يشرح كيفية بناء استراتيجية، ولكنه يقدم ملاحظات رائعة حول الشكل الذي تبدو عليه الإستراتيجية الجيدة والسيئة. ([ملخص](https://jlzych.com/2018/06/27/notes-from-good-strategy-bad-strategy/) بقلم Jeff Zych)
+* الكتاب: [*استراتيجية المحيط الأزرق*](https://www.blueoceanstrategy.com/what-is-blue-ocean-strategy/) بقلم دبليو تشان كيم ورينيه موبورن: يشرح كيفية بناء استراتيجية لا "تختلف عن المنافسة" فحسب (أي تتنافس بشكل أفضل في ما يسمى بالأسواق التنافسية لقوة "المحيط الأحمر") ولكنها تتنافس بطريقة مختلفة تمامًا، مما يخلق عرض قيمة جديدًا، غالبًا ما يكون بربح أعلى، في ما يسمى "المحيطات الزرقاء" حيث قمت بتعريف نفسك بحيث لا يوجد أي منافسة مباشرة.
+* مقال: [سلسلة Gibson Biddle متعددة الأجزاء] (https://gibsonbiddle.medium.com/intro-to-product-strategy-60bdf72b17e3) حول كيفية بناء استراتيجية منتج تحول "كيفية الفوز" إلى "ما يجب فعله"
+* مقال: [تايلور بيرسون حول الاختيارية](https://taylorpearson.me/Optionality/)، وكيفية تطبيق مقولة نسيم طالب عمليًا، حتى على المستوى الشخصي.
+* مقال: [معذرة، هل هناك مشكلة؟](https://longform.asmartbear.com/problem/) حول اختيار "المشكلة التي يجب حلها" و"لمن" المناسبين لزيادة احتمالية النجاح.
+* مقال: [استخدام Needs Stack للاستراتيجية التنافسية](https://longform.asmartbear.com/needs-stack/) حول التفكير في قيمة العميل والأسواق والمنافسين والتعطيل.
+* مقال: [عندما يكون العملاء "مستعدين" للدفع](https://longform.asmartbear.com/willingness-to-pay/) حول كيفية إنشاء استراتيجيات تجذب العملاء وتحافظ عليهم كحلفاء لك، يساعدونك على النمو والعثور على عملاء جدد، بدلاً من إجبارهم على البقاء من خلال الإكراه.
+* مقالة صحفية: [مدرسة التصميم: إعادة النظر في المبادئ الأساسية للإدارة الإستراتيجية](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.4250110302) بقلم هنري مينتزبيرج، *مجلة الإدارة الإستراتيجية* (1990)، مع ملخص لبناء الإستراتيجية التقليدية، وانتقاد عيوبها، والشروط عندما تكون مناسبة.

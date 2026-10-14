@@ -20,350 +20,304 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** عفواً، هل توجد مشكلة حقيقية أم أنك تخترع حلولاً لوهم؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Excuse me, is there a problem?
-
-> **Executive Summary:** Many startups fail despite identifying a real problem and building a product that solves that problem. This explains why, so you can avoid their fate.
-> **Original URL:** [https://longform.asmartbear.com/problem/](https://longform.asmartbear.com/problem/)
-
 ![Tweet: Dude the PTSD hit me so hard while reading this. I've heard all those excuses and make all those mistakes!](https://public.asmartbear.com/books/anthology/chapters/problem/tweet-simple.png)
 
-How many companies fail:
+كم شركة فاشلة:
 
-1. Founder gets a flash of insight: The world has a Problem.
-2. Founder talks to three potential customers who are experiencing The Problem, or who are expert in the domain of The Problem. They agree The Problem exists. *(And they're correct!)*
-3. Founder builds a product that solves The Problem. *(And it really does!)*
-4. Founder fails to make enough sales, and the company shuts down in 6-24 months, when the founder runs out of patience or money.
-5. Founder laments into the void (i.e. posts on Twitter): Why were sales so hard when the product clearly solved a real problem?
+1. يحصل المؤسس على ومضة من البصيرة: العالم لديه مشكلة.
+2. يتحدث المؤسس مع ثلاثة عملاء محتملين يواجهون المشكلة، أو خبراء في مجال المشكلة. يتفقون على أن المشكلة موجودة. *(وهما على حق!)*
+3. يبني المؤسس منتجًا يحل المشكلة. *(وهذا هو الحال حقا!)*
+4. يفشل المؤسس في تحقيق مبيعات كافية، وتغلق الشركة أبوابها خلال 6 إلى 24 شهرًا، عندما ينفد صبر المؤسس أو نفاد ماله.
+5. المؤسس يندب في الفراغ (أي منشورات على تويتر): لماذا كانت المبيعات صعبة للغاية عندما كان المنتج يحل مشكلة حقيقية بشكل واضح؟
 
-These companies fail because solving a problem is--perhaps surprisingly--not nearly enough to build a successful company.
+تفشل هذه الشركات لأن حل مشكلة ما - ربما يكون مفاجئًا - لا يكفي لبناء شركة ناجحة.
 
-The following model explains an extremely common reason why this happens, and what you can do about it.
+يشرح النموذج التالي سببًا شائعًا جدًا لحدوث ذلك، وما يمكنك فعله حيال ذلك.
 
-In the discussion, you'll figure out where your challenges are, and whether you can design a strategy to side-step the issue, or whether your business simply isn't viable.
+في المناقشة، ستكتشف أين تكمن التحديات التي تواجهك، وما إذا كان بإمكانك تصميم استراتيجية لتجنب المشكلة، أو ما إذا كان عملك ببساطة غير قابل للحياة.
 
-> "Greatness needs luck, but it's never by accident."  
-> --Unknown
+> "العظمة تحتاج إلى الحظ، لكن ذلك لا يأتي بالصدفة أبدًا."
+> --مجهول
 
-## The path from "The Problem" to "Viable Business Model"
+## الطريق من "المشكلة" إلى "نموذج الأعمال القابل للحياة"
 
-The main challenge facing a new startup is that so many different things have to go right for it to succeed. A subset of those things is the path "Problem" to "Viable Business Model."
+التحدي الرئيسي الذي يواجه أي شركة ناشئة جديدة هو أن العديد من الأشياء المختلفة يجب أن تسير بشكل صحيح حتى تنجح. مجموعة فرعية من هذه الأشياء هي المسار "المشكلة" إلى "نموذج الأعمال القابل للحياة".
 
 ![Flowchart of the steps between a problem and a full solution](https://public.asmartbear.com/books/anthology/chapters/problem/problemsolution-flow-simple.png)
 
-Let's dive in.
+دعونا نتعمق.
 
-## Plausible: Do 10M people or 100k companies have the problem?
+## معقول: هل يعاني 10 ملايين شخص أو 100 ألف شركة من المشكلة؟
 
-These numbers sound larger than necessary, but here's why it *is* necessary even for an indie startup, using [Fermi Estimation](https://longform.asmartbear.com/roi-rubric/):
+تبدو هذه الأرقام أكبر من اللازم، ولكن هذا هو سبب أهميتها حتى بالنسبة إلى الشركات الناشئة المستقلة، وذلك باستخدام [تقدير فيرمي](https://longform.asmartbear.com/roi-rubric/):
 
-#### 1% conversion: Impression → Visitor
-An AdWords campaign with multiple keywords, ads, and bids would be very successful at a 2% click-through rate. Display ads are more like 0.3%-0.5%. *(source: [HubSpot](https://blog.hubspot.com/agency/google-adwords-benchmark-data))*
+#### تحويل 1%: الظهور → الزائر
+ستحقق حملة AdWords التي تحتوي على كلمات رئيسية وإعلانات وعروض أسعار متعددة نجاحًا كبيرًا بنسبة نقر إلى ظهور تبلغ 2%. الإعلانات الصورية تشبه إلى حد كبير 0.3%-0.5%. *(المصدر: [HubSpot](https://blog.hubspot.com/agency/google-adwords-benchmark-data))*
 
-Top SEO position can be 3%-5%, but that's almost impossible to achieve for even a mildly competitive keyword. *(source: [HubSpot](https://blog.hubspot.com/agency/google-adwords-benchmark-data))*
+يمكن أن يتراوح موضع تحسين محركات البحث (SEO) بين 3% و5%، ولكن يكاد يكون من المستحيل تحقيقه حتى مع كلمة رئيسية تنافسية إلى حد ما. *(المصدر: [HubSpot](https://blog.hubspot.com/agency/google-adwords-benchmark-data))*
 
-#### 1% conversion: Visitor → Paid
-A typical, successful product website converts 1% of its traffic to paying customers. I don't have firm data, though I did an informal poll on this question years ago. [Some](https://www.contentgrip.com/conversion-rate-business-benchmark/) [data](https://adoric.com/blog/what-is-a-good-conversion-rate-2020/) show 2-5% conversion rate even for just a sign-up form or free trial, of which a fraction will become paying customers.
+#### تحويل 1%: زائر → مدفوع
+يحول موقع الويب النموذجي الناجح للمنتج 1٪ من حركة المرور الخاصة به إلى عملاء يدفعون. لا أملك بيانات مؤكدة، على الرغم من أنني قمت بإجراء استطلاع غير رسمي حول هذا السؤال منذ سنوات. [بعض](https://www.contentgrip.com/conversion-rate-business-benchmark/) [data](https://adoric.com/blog/what-is-a-good-conversion-rate-2020/) تعرض معدل تحويل يتراوح بين 2-5% حتى بالنسبة لنموذج الاشتراك أو النسخة التجريبية المجانية فقط، وسيصبح جزء صغير منها عملاء يدفعون.
 
-#### Therefore: 10,000 Impressions → 1 paying customer
-10,000 × (1% click-through) × (1% convert-to-pay) = 1.
+#### لذلك: 10000 ظهور → عميل واحد يدفع
+10000 × (1% نقر) × (1% تحويل إلى دفع) = 1.
 
-#### 10,000,000 Impressions → 1,000 paying customers
-Not every impression will be a unique person, but you still need closer to 10M potential eyeballs than to 1M, because while some people will see your material more than once, most of the market will never see your material.
+#### 10,000,000 ظهور → 1,000 عميل يدفع
+لن يكون كل انطباع بمثابة شخص فريد من نوعه، لكنك لا تزال بحاجة إلى ما يقرب من 10 ملايين مقلة عيون محتملة أكثر من مليون واحد، لأنه في حين أن بعض الأشخاص سيرون المواد الخاصة بك أكثر من مرة، فإن معظم السوق لن يرى المواد الخاصة بك أبدًا.
 
-1,000 paying customers is the minimum[^1] needed for a sustainable, small company. It will take about two years,[^2] 10M marketing impressions, and [luck](https://longform.asmartbear.com/lucky/).
+1000 عميل مدفوع هو الحد الأدنى[^1] المطلوب لشركة صغيرة مستدامة. سيستغرق الأمر حوالي عامين،[^2] 10 ملايين ظهور تسويقي، و[الحظ](https://longform.asmartbear.com/lucky/).
 
-[^1]: This is a rough rule of thumb companies charging $30-$100/mo; if less, you'll need even more customers to become sustainable; if more, you need fewer customers, but they are more difficult to find and convert than the numbers above suggest. [Pricing determines your business model](https://longform.asmartbear.com/pricing-determines-your-business-model/).
+[^1]: هذه قاعدة تقريبية للشركات التي تفرض رسومًا تتراوح بين 30 إلى 100 دولار شهريًا؛ وإذا كان أقل، فسوف تحتاج إلى المزيد من العملاء لتصبح مستدامًا؛ إذا كان هناك عدد أكبر من العملاء، فأنت بحاجة إلى عدد أقل من العملاء، ولكن العثور عليهم وتحويلهم أكثر صعوبة مما تشير إليه الأرقام المذكورة أعلاه. [يحدد التسعير نموذج نشاطك التجاري](https://longform.asmartbear.com/pricing-determines-your-business-model/).
 
-[^2]: WP Engine, the company I started over a decade ago, was a hyper-growth company and then a Unicorn, reaching $100M in ARR in a similar time frame to other hyper-growth companies (as in the chart mid-way through [this article](https://longform.asmartbear.com/predict-the-future/)) now with over 200,000 customers, yet it took two years to get the first 1,000 customers. Competitors who started after us also took that long, and [there](https://twitter.com/CoryMckane/status/1639664575686619138?s=20) [are](https://twitter.com/r00k/status/1639667146409009153?s=20) [many](https://twitter.com/timb03/status/1637211704093478912?s=12&t=mnlAhEmLkMKMeX_fkP_pzw) [many](https://twitter.com/shl/status/1639669362885021696?s=20) [many](https://twitter.com/jdnoc/status/1639669338587164674?s=20) [many](https://tinyurl.com/yhyyar7y) [many](https://twitter.com/hmps_/status/1639687300777951233?s=20) [many](https://twitter.com/jfriedlaender/status/1639766616270602240?s=46&t=mnlAhEmLkMKMeX_fkP_pzw) [many](https://twitter.com/danielkempe/status/1639894339521327104?s=20) [many](https://twitter.com/AlecEllin/status/1640008710507360257?s=20) [many](https://twitter.com/aprilzero/status/1639810561624899584?s=46&t=mnlAhEmLkMKMeX_fkP_pzw) [many](https://twitter.com/thedannorris/status/1639842020570308609?s=46&t=mnlAhEmLkMKMeX_fkP_pzw) [other](https://medium.com/swlh/how-do-you-get-your-first-1-000-customers-dd3b3968212a) [examples](https://ghost.org/about/). Of course it can also take [forever](https://twitter.com/AngeloRobertsJr/status/1640103585550614529?s=20), [4 years](https://twitter.com/masonarnold/status/1639965501118922752?s=20), [6 months](https://twitter.com/alxberman/status/1639900347136380928?s=20), or [52 hours](https://twitter.com/cemper/status/1639728089440681984?s=46&t=mnlAhEmLkMKMeX_fkP_pzw), because this is a rule of thumb, not a law of physics.
+[^2]: WP Engine، الشركة التي بدأتها منذ أكثر من عقد من الزمن، كانت شركة شديدة النمو ثم شركة Unicorn، ووصلت إلى 100 مليون دولار أمريكي في ARR في إطار زمني مماثل لشركات أخرى سريعة النمو (كما هو موضح في الرسم البياني في منتصف [هذه المقالة](https://longform.asmartbear.com/predict-the-future/)) الآن مع أكثر من 200000 عميل، ومع ذلك فقد استغرق الأمر عامين للحصول على الأول 1000 عميل. المنافسون الذين بدأوا بعدنا استغرقوا وقتًا طويلاً أيضًا، و[هناك](https://twitter.com/CoryMckane/status/1639664575686619138?s=20) [هي](https://twitter.com/r00k/status/1639667146409009153?s=20) [كثير](https://twitter.com/timb03/status/1637211704093478912?s=12&t=mnlAhEmLkMKMeX_fkP_pzw) [كثير](https://twitter.com/shl/status/1639669362885021696?s=20) [كثير](https://twitter.com/jdnoc/status/1639669338587164674?s=20) [كثير](https://tinyurl.com/yhyyar7y) [كثير](https://twitter.com/hmps_/status/1639687300777951233?s=20) [كثير](https://twitter.com/jfriedlaender/status/1639766616270602240?s=46&t=mnlAhEmLkMKMeX_fkP_pzw) [كثير](https://twitter.com/danielkempe/status/1639894339521327104?s=20) [كثير](https://twitter.com/AlecEllin/status/1640008710507360257?s=20) [كثير](https://twitter.com/aprilzero/status/1639810561624899584?s=46&t=mnlAhEmLkMKMeX_fkP_pzw) [كثير](https://twitter.com/thedannorris/status/1639842020570308609?s=46&t=mnlAhEmLkMKMeX_fkP_pzw) [أخرى](https://medium.com/swlh/how-do-you-get-your-first-1-000-customers-dd3b3968212a) [أمثلة](https://ghost.org/about/). بالطبع يمكن أن يستغرق الأمر أيضًا [إلى الأبد](https://twitter.com/AngeloRobertsJr/status/1640103585550614529?s=20), [4 سنوات](https://twitter.com/masonarnold/status/1639965501118922752?s=20), [6 أشهر](https://twitter.com/alxberman/status/1639900347136380928?s=20)، أو [52 ساعة](https://twitter.com/cemper/status/1639728089440681984?s=46&t=mnlAhEmLkMKMeX_fkP_pzw)، لأن هذه قاعدة الإبهام، وليس قانون الفيزياء.
 
-If you're selling directly to consumers, there needs to be 10M who have the problem, otherwise it's too small even for an indie company who wants to stay small forever.
+إذا كنت تبيع مباشرة للمستهلكين، فيجب أن يكون هناك 10 ملايين ممن لديهم المشكلة، وإلا فسيكون العدد صغيرًا جدًا حتى بالنسبة لشركة مستقلة تريد أن تظل صغيرة إلى الأبد.
 
-If you're selling to businesses, the total number of potential customers is an order of magnitude smaller, but they will pay orders-of-magnitude more to solve problems, and conversion rates are higher, thus 100k is sufficient.
+إذا كنت تبيع للشركات، فإن العدد الإجمالي للعملاء المحتملين هو أمر أصغر من حيث الحجم، لكنهم سيدفعون مبالغ أكبر لحل المشكلات، وتكون معدلات التحويل أعلى، وبالتالي فإن 100 ألف كافية.
 
-A lot of great ideas attack problems that just aren't actual problems, at least not for more than a small handful of people, and therefore fail to yield a successful company.
+هناك الكثير من الأفكار العظيمة تهاجم مشاكل ليست مشاكل حقيقية، على الأقل ليس لعدد قليل من الأشخاص، وبالتالي تفشل في تحقيق شركة ناجحة.
 
-**Can you be successful anyway? Yes, there's an exception to every rule.** For example, a high-price-tag product in a small niche can be a fine company. Or, perhaps you're happy staying frugal, never hiring an employee, and making $100,000/year post-expenses post-tax, replacing a salary but on your own terms.[^3] That's wonderful. You can be the exception, but with conditions.
+** هل يمكنك أن تكون ناجحا على أي حال؟ نعم، هناك استثناء لكل قاعدة. ** على سبيل المثال، يمكن لمنتج مرتفع السعر في مجال صغير أن يكون شركة جيدة. أو ربما تكون سعيدًا بالبقاء مقتصدًا، وعدم تعيين موظف أبدًا، والحصول على 100000 دولار سنويًا بعد النفقات بعد خصم الضرائب، واستبدال الراتب ولكن وفقًا لشروطك الخاصة.[^3] هذا رائع. يمكنك أن تكون الاستثناء، ولكن بشروط.
 
-[^3]: This is, in fact, what [80% of small businesses](https://reactionwheel.net/2019/01/schumpeter-on-strategy.html) do. It is a vibrant and valuable driver of [fulfillment](https://longform.asmartbear.com/fulfillment/) and the economy; ignore those who claim this is somehow less important than "swinging for the fences." Rather, there are two kinds of companies: Those which endeavor to replace a salary (and then some), and those who are trying to become huge, and they are simply different paths.
+[^3]: هذا، في الواقع، ما تفعله [80% من الشركات الصغيرة](https://reactionwheel.net/2019/01/schumpeter-on-strategy.html). إنه محرك حيوي وقيم [للوفاء](https://longform.asmartbear.com/fulfillment/) والاقتصاد؛ تجاهل أولئك الذين يزعمون أن هذا أقل أهمية إلى حد ما من "التأرجح نحو الأسوار". بل هناك نوعان من الشركات: تلك التي تسعى إلى استبدال الراتب (وبعضها)، وتلك التي تحاول أن تصبح ضخمة، وهي ببساطة مسارات مختلفة.
 
-## Self-Aware: Do they know & care they have the problem?
+## الوعي الذاتي: هل يعرفون ويهتمون بأن لديهم المشكلة؟
 
-It seems like the answer should be "obviously yes," but often the answer is "shockingly no."
+يبدو أن الإجابة يجب أن تكون "نعم بوضوح"، ولكن غالبًا ما تكون الإجابة "لا بشكل صادم".
 
-If a person does not already believe they have a problem, they will not be surfing the internet looking for a solution, and even if they happen upon your website somehow, you cannot get them to spend money to solve a problem they don't think they have.
+إذا كان الشخص لا يعتقد بالفعل أن لديه مشكلة، فلن يتصفح الإنترنت بحثًا عن حل، وحتى إذا حدث ذلك على موقع الويب الخاص بك بطريقة أو بأخرى، فلا يمكنك حمله على إنفاق المال لحل مشكلة لا يعتقد أنه يعاني منها.
 
 ![sign reads 162 days without addressing the real problem](https://public.asmartbear.com/books/anthology/chapters/problem/d6712print-simple.png)
 
-Sam Altman is the co-founder and CEO of OpenAI, and before that ran the Y-Combinator accelerator, and is therefore one of the world's most experienced experts on startups. He previously co-founded Loopt--a location-based, mobile social-network app. Oh look, those are *all* the keywords of 2005, when it was founded. It raised $30M and failed. When asked what happened, he said:
+سام ألتمان هو المؤسس المشارك والرئيس التنفيذي لشركة OpenAI، وقبل ذلك كان يدير مسرع Y-Combinator، وبالتالي فهو أحد أكثر الخبراء خبرة في العالم في مجال الشركات الناشئة. وقد شارك سابقًا في تأسيس Loopt، وهو تطبيق شبكة اجتماعية للهاتف المحمول يعتمد على الموقع. انظر، هذه هي *كل* الكلمات الرئيسية لعام 2005، عندما تم تأسيسها. لقد جمعت 30 مليون دولار وفشلت. وعندما سئل عما حدث قال:
 
-> The market wasn't there. You can't force a market. You can have an idea, and as a startup part of your job is to be ahead of it, and sometimes you're right about that, and sometimes you're not.  
->   
-> Sometimes you make Loopt, and sometimes you make OpenAI. You just keep trying.  
-> --Sam Altman, [interviewed by Kara Swisher](https://podcasts.apple.com/us/podcast/on-with-kara-swisher/id1643307527?i=1000605522804)
+> السوق لم يكن هناك. لا يمكنك فرض السوق. يمكن أن يكون لديك فكرة، وكجزء من وظيفتك الناشئة هو أن تكون متقدمًا عليها، وأحيانًا تكون على حق في ذلك، وأحيانًا لا تكون كذلك.
+> 
+> في بعض الأحيان تقوم بإنشاء Loopt، وأحيانًا تقوم بإنشاء OpenAI. أنت فقط تستمر في المحاولة.
+> --سام التمان، [أجرت المقابلة كارا سويشر](https://podcasts.apple.com/us/podcast/on-with-kara-swisher/id1643307527?i=1000605522804)
 
-I've [given the example](https://longform.asmartbear.com/customer-development/) of website security, which I know[^4] is a real problem plaguing millions of websites whose owners think "those mean hackers won't attack lil' ol' *me*; I'm nobody!" False. Hackers indeed don't care about lil' ol' *you*, but they do want to gain control of your lil' ol' *server*, so they can do their nefarious things, like spamming, [advertisement-click-fraud](https://www.searchenginejournal.com/the-global-ppc-click-fraud-report-2020-21/391493/), [remote-controlling](https://itnext.io/how-companies-are-hacked-via-malicious-javascript-code-12aa82560bdc) your visitors' browsers, or just bouncing off to yet another server as a way of covering their tracks. Everyone has the problem, but millions of people don't *think* they have the problem, so they're not searching for website security software, and certainly not buying it.
+لقد [قدمت المثال](https://longform.asmartbear.com/customer-development/) لأمان موقع الويب، والذي أعلم أن [^4] يمثل مشكلة حقيقية تعاني منها ملايين مواقع الويب التي يعتقد أصحابها أن "هؤلاء المتسللين لن يهاجموني *أنا*؛ أنا لا أحد!" خطأ شنيع. لا يهتم المتسللون حقًا بأمرك، ولكنهم يريدون السيطرة على خادمك الصغير، حتى يتمكنوا من القيام بأشياءهم الشائنة، مثل إرسال البريد العشوائي و[الاحتيال عبر الإعلان](https://www.searchenginejournal.com/the-global-ppc-click-fraud-report-2020-21/391493/)، [التحكم عن بعد](https://itnext.io/how-companies-are-hacked-via-malicious-javascript-code-12aa82560bdc) متصفحات زوار موقعك، أو مجرد الانتقال إلى خادم آخر كوسيلة لتغطية مساراتهم. يعاني الجميع من هذه المشكلة، لكن الملايين من الأشخاص لا *يعتقدون* أن لديهم المشكلة، لذا فهم لا يبحثون عن برامج أمان مواقع الويب، وبالتأكيد لا يشترونها.
 
-[^4]: A million websites run on WP Engine's platform, serving tens of billions of requests daily, as 9% of the global online population visits a WP Engine property every day. We block hundreds of millions of nefarious requests daily, and internally run SOC Type II and ISO/IEC 27001:2013 certified security processes. So we know a lot about what hackers do to websites large and small.
+[^4]: يعمل مليون موقع ويب على منصة WP Engine، ويخدم عشرات المليارات من الطلبات يوميًا، حيث يزور 9% من مستخدمي الإنترنت على مستوى العالم إحدى ممتلكات WP Engine يوميًا. نحن نحظر مئات الملايين من الطلبات الشائنة يوميًا، وندير داخليًا عمليات الأمان المعتمدة من SOC Type II وISO/IEC 27001:2013. لذلك نحن نعرف الكثير عما يفعله المتسللون لمواقع الويب الكبيرة والصغيرة.
 
-"Security" is a case of ignorance, but the other version of this challenge is when the customer knows they have the problem, but genuinely does not care. This could be because this problem is the ninth-most-important priority on their list, and they can only give attention to their top three... and this item will never bubble up to the top three. An example I see a lot at WP Engine is accessibility.[^5] Given lip-service by many marketing departments and product managers, it rarely makes the priority list for the public website or the product. Some companies choose to care, or are mandated by governments or contracts. This author chooses to care.[^6] But the fact is, though everyone agrees they have the "problem" of a non-accessible website or product, most don't have the will to act.
+"الأمن" هو حالة من الجهل، ولكن النسخة الأخرى من هذا التحدي هي عندما يعرف العميل أن لديه المشكلة، لكنه في الحقيقة لا يهتم. قد يكون هذا بسبب أن هذه المشكلة هي الأولوية التاسعة الأكثر أهمية في قائمتهم، ولا يمكنهم الاهتمام إلا بالثلاثة الأوائل لديهم... ولن يصل هذا العنصر أبدًا إلى الثلاثة الأوائل. أحد الأمثلة التي أراها كثيرًا في WP Engine هو إمكانية الوصول.[^5] نظرًا للتشدق الكلامي من قبل العديد من أقسام التسويق ومديري المنتجات، فإنه نادرًا ما يضع قائمة الأولويات لموقع الويب العام أو المنتج. تختار بعض الشركات الاهتمام، أو يتم تفويضها من قبل الحكومات أو العقود. اختار هذا المؤلف الاهتمام.[^6] ولكن الحقيقة هي أنه على الرغم من أن الجميع يتفقون على أن لديهم "مشكلة" موقع ويب أو منتج لا يمكن الوصول إليه، إلا أن معظمهم ليس لديهم الإرادة للتصرف.
 
-[^5]: "Accessibility" means working well for people with various challenges; in the visual sphere, consider cases like red/green color-blindness, needing high-contrast colors, needing larger text, or complete blindness, needing "screen reader" browsers to navigate menus, forms, and content.
+[^5]: "إمكانية الوصول" تعني العمل بشكل جيد للأشخاص الذين يواجهون تحديات مختلفة؛ في المجال البصري، فكر في حالات مثل عمى الألوان الأحمر/الأخضر، أو الحاجة إلى ألوان عالية التباين، أو الحاجة إلى نص أكبر، أو العمى الكامل، أو الحاجة إلى متصفحات "قارئ الشاشة" للتنقل بين القوائم والنماذج والمحتوى.
 
-[^6]: This site uses semantic tags for content and navigation, the entire stylesheet of both fonts and layout supports arbitrary changes in font size, automatically respecting browser-specific settings, supplies keyboard shortcuts for menu actions, has alt-text for all images, uses `aria-title` and related attributes, uses high-contrast foreground/background colors, also supports high-contrast mode, and works well in screen-readers (including those built for everyone, like Safari Reader and Readwise Reader and Pocket). That said, let me know if there's more I could be doing!
+[^6]: يستخدم هذا الموقع علامات دلالية للمحتوى والتنقل، وتدعم ورقة الأنماط الكاملة لكل من الخطوط والتخطيط التغييرات التعسفية في حجم الخط، وتحترم الإعدادات الخاصة بالمتصفح تلقائيًا، وتوفر اختصارات لوحة المفاتيح لإجراءات القائمة، وتحتوي على نص بديل لجميع الصور، وتستخدم `aria-title` والسمات ذات الصلة، وتستخدم ألوان المقدمة/الخلفية عالية التباين، كما تدعم وضع التباين العالي، وتعمل بشكل جيد في برامج قراءة الشاشة (بما في ذلك تلك المصممة للجميع، مثل Safari Reader وReadwise). القارئ والجيب). ومع ذلك، اسمحوا لي أن أعرف إذا كان هناك المزيد الذي يمكنني القيام به!
 
-Sometimes "willing and able" is a matter of market-timing. A famous example is Instacart: Successful after 80% of Americans carried a smart phone, unlike [WebVan](https://en.wikipedia.org/wiki/Webvan) which was exactly the same idea, solving the same problem in much the same way, but the market wasn't ready for it.
+في بعض الأحيان يكون "الاستعداد والقدرة" مسألة تتعلق بتوقيت السوق. أحد الأمثلة الشهيرة هو Instacart: نجح بعد أن كان 80% من الأمريكيين يحملون هواتف ذكية، على عكس [WebVan](https://en.wikipedia.org/wiki/Webvan) الذي كان لديه نفس الفكرة تمامًا، وحل نفس المشكلة بنفس الطريقة تقريبًا، لكن السوق لم يكن جاهزًا لها.
 
-A lot of great ideas, attacking real problems, fail to become successful companies, because the target market doesn't know they're even in the market. Because they're not.
+الكثير من الأفكار العظيمة، التي تهاجم مشاكل حقيقية، تفشل في أن تصبح شركات ناجحة، لأن السوق المستهدف لا يعرف حتى أنهم موجودون في السوق. لأنهم ليسوا كذلك.
 
-**Can you be successful anyway? Yes, there's an exception to every rule.** Some founders are not only the first-and-best sales-person, but also natural evangelists. More, they're [on a mission](https://longform.asmartbear.com/mission-vision/) to educate the world about their passion. They don't see a lack of interest as a barrier, but as an opportunity to change minds. That is a difficult, expensive, and slow path,[^7] but it is a path, and one that could result in zealous, loyal customers and a fulfilling existence. But you really have to want that path, doing that work with those consequences, if you're going to enter a market that you also have to create.
+** هل يمكنك أن تكون ناجحا على أي حال؟ نعم، هناك استثناء لكل قاعدة. ** بعض المؤسسين ليسوا فقط أول وأفضل مندوبي مبيعات، ولكنهم أيضًا مبشرون بالفطرة. علاوة على ذلك، فإنهم [في مهمة](https://longform.asmartbear.com/mission-vision/) لتثقيف العالم حول شغفهم. إنهم لا ينظرون إلى قلة الاهتمام كعائق، بل كفرصة لتغيير الأفكار. وهذا طريق صعب ومكلف وبطيء،[^7] ولكنه طريق يمكن أن يؤدي إلى عملاء متحمسين ومخلصين وحياة مُرضية. لكن عليك حقًا أن ترغب في هذا المسار، والقيام بهذا العمل مع تلك العواقب، إذا كنت ستدخل سوقًا يتعين عليك أيضًا إنشائه.
 
-[^7]: "Difficult" because changing someone's mind about anything is almost impossible, especially when they're not seeking to have their mind changed. "Expensive" because of the marketing and attention you have to bring to the cause, on top of the usual work of making a sale, with certainly-worse-than-average conversion rates. "Slow" because you're having to create demand and then fulfill it, rather than meet demand that already exists.
+[^7]: "صعب" لأن تغيير رأي شخص ما بشأن أي شيء يكاد يكون مستحيلاً، خاصة عندما لا يسعى إلى تغيير رأيه. "باهظة الثمن" بسبب التسويق والاهتمام الذي يتعين عليك جلبه للقضية، بالإضافة إلى العمل المعتاد لإجراء عملية بيع، مع معدلات تحويل أسوأ من المتوسط ​​بالتأكيد. "بطيء" لأنه يتعين عليك إنشاء الطلب ثم تلبيته، بدلاً من تلبية الطلب الموجود بالفعل.
 
-## Lucrative: Do they have substantial budget to solve this problem?
+## مربحة: هل لديهم ميزانية كبيرة لحل هذه المشكلة؟
 
-* *"You have a great product! I'd have to get [someone else's] approval for this though, and they don't understand all this."*
-* *"This is nice, I would use it, but they're carefully watching all expenditures and the truth is I can manage without it."*
-* *"I'd love to, but our budget is closed for the year and I can't start a new project."*
-* *"This is pretty cool, but our internal team who manages [the problem] says they don't need help. They might be just trying to save their jobs, but it is what it is."*
+* *"لديك منتج رائع! يجب أن أحصل على موافقة [شخص آخر] على هذا المنتج، وهم لا يفهمون كل هذا."*
+* *"هذا جميل، كنت سأستخدمه، لكنهم يراقبون جميع النفقات بعناية والحقيقة هي أنني أستطيع تدبر أمري بدونه."*
+* *"أود ذلك، لكن ميزانيتنا مغلقة لهذا العام ولا أستطيع البدء بمشروع جديد."*
+* *"هذا أمر رائع جدًا، لكن فريقنا الداخلي الذي يدير [المشكلة] يقول إنهم لا يحتاجون إلى المساعدة. ربما يحاولون فقط إنقاذ وظائفهم، ولكن هذا هو الواقع."*
 
-We've all heard these objections. Some are normal; you can't win every sale. But sometimes the target customer agrees they have the problem, yet doesn't have the money to solve it.
+لقد سمعنا جميعا هذه الاعتراضات. بعضها طبيعي. لا يمكنك الفوز بكل عملية بيع. لكن في بعض الأحيان يوافق العميل المستهدف على أن لديه المشكلة، لكنه لا يملك المال لحلها.
 
 ![Every year there are naughty children who don't get any toys. That's a vastly underserved niche I think we can capitalize on.](https://public.asmartbear.com/books/anthology/chapters/problem/d7423print-simple.png)
 
-At [Capital Factory](https://www.capitalfactory.com/),[^8] there's a constant stream of kids coming out of college with a startup that "sells ______ to college students." It's easy to find "problems"--restaurants and bars want to advertise to students, students don't want to spend much on food, students need books and supplies, and so on. The founders explain they "had the problem themselves, so they *really* understand it."
+في [Capital Factory](https://www.capitalfactory.com/)،[^8] هناك تدفق مستمر من الأطفال الذين يتخرجون من الكلية ويمتلكون شركة ناشئة "تبيع ______ لطلاب الجامعات". من السهل العثور على "مشاكل" - فالمطاعم والحانات ترغب في الإعلان للطلاب، ولا يرغب الطلاب في إنفاق الكثير على الطعام، ويحتاج الطلاب إلى الكتب واللوازم، وما إلى ذلك. يشرح المؤسسون أنهم "واجهوا المشكلة بأنفسهم، لذا فهم يفهمونها *حقًا*."
 
-[^8]: Capital Factory is by far Austin's largest and most prolific "Center of gravity for entrepreneurs in Texas," now a tiered system from co-working to mentoring to multi-million-dollar investments with hundreds of companies in orbit. The University of Texas, also in Austin, has a high-quality Computer Science department that is also one of the largest in the country.
+[^8]: يعد Capital Factory أكبر "مركز ثقل لرواد الأعمال في تكساس" وأكثره إنتاجًا في أوستن، وهو الآن نظام متدرج بدءًا من العمل المشترك إلى التوجيه وحتى الاستثمارات بملايين الدولارات مع مئات الشركات في المدار. يوجد في جامعة تكساس، الموجودة أيضًا في أوستن، قسم عالي الجودة لعلوم الكمبيوتر وهو أيضًا أحد أكبر الأقسام في البلاد.
 
-That's probably true. The deal-breaker is that college kids have no money, and don't spend what little money they have on SaaS products. And businesses that cater to college kids have to charge low prices (because college kids have no money), and therefore don't have budgets for oddball new ideas. In 17 years, none of these startups worked, even though arguably most of the "problems" existed.
+ربما هذا صحيح. ما يفسد الصفقة هو أن طلاب الجامعات ليس لديهم أموال، ولا ينفقون المال القليل الذي لديهم على منتجات SaaS. والشركات التي تلبي احتياجات طلاب الجامعات يتعين عليها أن تفرض أسعارًا منخفضة (لأن طلاب الجامعات لا يملكون المال)، وبالتالي ليس لديهم ميزانيات للأفكار الجديدة الغريبة. وخلال 17 عاماً، لم تنجح أي من هذه الشركات الناشئة، على الرغم من وجود معظم "المشاكل" هناك.
 
-You might think a large company will definitely allocate budget for a known problem, but here again the answer is often in the negative. Budgets are applied to the top few most-important problems of the year; if this is a problem, but not a top one, it won't get attention. Large companies have to allocate more than money--they have compliance teams who have to approve, they compare multiple vendors, they run pilot programs, and all of this won't be set in motion unless it's a top problem.
+قد تعتقد أن شركة كبيرة ستقوم بالتأكيد بتخصيص ميزانية لمشكلة معروفة، ولكن هنا مرة أخرى الإجابة غالبًا ما تكون سلبية. يتم تطبيق الميزانيات على المشاكل القليلة الأكثر أهمية في العام؛ إذا كانت هذه مشكلة، ولكنها ليست مشكلة كبيرة، فلن تحظى بالاهتمام. يتعين على الشركات الكبيرة أن تخصص ما هو أكثر من المال - فلديها فرق امتثال يجب عليها الموافقة، وتقوم بمقارنة العديد من البائعين، وتقوم بتشغيل برامج تجريبية، ولن يتم تنفيذ كل هذا إلا إذا كانت هذه مشكلة كبرى.
 
-Large companies have internal teams that are already tasked with the problem, which might means there's no additional budget for outside solutions. Those teams often fight against outside tools that are seen as making their jobs obsolete, or at least converts them into vendor-managers instead of innovators. You want to target companies who outsource this particular problem to outside vendors.
+لدى الشركات الكبيرة فرق داخلية مكلفة بالفعل بحل المشكلة، مما قد يعني عدم وجود ميزانية إضافية للحلول الخارجية. غالبًا ما تحارب هذه الفرق الأدوات الخارجية التي يُنظر إليها على أنها تجعل وظائفهم قديمة، أو على الأقل تحولهم إلى مديري بائعين بدلاً من مبتكرين. تريد استهداف الشركات التي تقوم بالاستعانة بمصادر خارجية لهذه المشكلة بالذات لموردين خارجيين.
 
-Once you get over the hurdle of there being a budget at all, is the budget large enough? I'm always shocked how little people will pay for productivity applications like to-do lists and note-taking. These are applications you might use dozens of times per day, as much as email. The slightest increase in efficiency or even simple delight will have a massive impact on the customer's life, every day. And yet people complain that the Pro version of [Bear App](https://bear.app/)[^9] is a whopping $15/year, or that [Remember the Milk](https://www.rememberthemilk.com/) is $40/year, or how they've been paying €29/year for Evernote for eleven years, but a change to €43 is so devastating that they will completely change to another application that has 1/10th the functionality and no tech support:
+بمجرد أن تتغلب على عقبة وجود ميزانية على الإطلاق، هل الميزانية كبيرة بما يكفي؟ أشعر بالصدمة دائمًا من قلة الأشخاص الذين سيدفعون مقابل تطبيقات الإنتاجية مثل قوائم المهام وتدوين الملاحظات. هذه هي التطبيقات التي قد تستخدمها عشرات المرات يوميًا، مثل البريد الإلكتروني. إن أدنى زيادة في الكفاءة أو حتى متعة بسيطة سيكون لها تأثير هائل على حياة العميل كل يوم. ومع ذلك، يشتكي الأشخاص من أن سعر الإصدار الاحترافي من [Bear App](https://bear.app/)[^9] يبلغ 15 دولارًا سنويًا، أو أن [Remember the Milk](https://www.rememberthemilk.com/) يبلغ 40 دولارًا سنويًا، أو كيف أنهم كانوا يدفعون 29 يورو سنويًا مقابل Evernote لمدة أحد عشر عامًا، ولكن التغيير إلى 43 يورو مدمر للغاية لدرجة أنهم سيتحولون تمامًا إلى تطبيق آخر يتمتع بـ 1/10 من الوظائف ولا الدعم الفني:
 
-[^9]: My note-taking application of choice, and not just because it's called "Bear!"
+[^9]: تطبيقي المفضل لتدوين الملاحظات، وليس فقط لأنه يسمى "Bear!"
 
 ![Comment on Reddit on leaving Evernote over a €14/year price increase](https://public.asmartbear.com/books/anthology/chapters/problem/aa272ce2-d320-4c6d-ba33-995782b4f045-simple.png)
 
-In general, consumers don't like paying for stuff, hence the multi-trillion-dollar success of having people "pay" with attention (advertisement) and data (privacy). This is why I think[^10] self-funded companies in particular should target businesses as customers; unlike consumers, they will spend money to solve problems and to [make more money](https://longform.asmartbear.com/more-value-not-save-money/).
+بشكل عام، لا يحب المستهلكون الدفع مقابل الأشياء، ومن هنا النجاح الذي تبلغ قيمته عدة تريليونات من الدولارات في جعل الناس "يدفعون" بالاهتمام (الإعلان) والبيانات (الخصوصية). ولهذا السبب أعتقد أن[^10] الشركات الممولة ذاتيًا على وجه الخصوص يجب أن تستهدف الشركات كعملاء؛ وعلى عكس المستهلكين، فإنهم سوف ينفقون الأموال لحل المشكلات و[كسب المزيد من المال](https://longform.asmartbear.com/more-value-not-save-money/).
 
-[^10]: This is clearly a personal bias. I can't wrap my head around the mentality described above, and that's why I don't build in and generally don't invest in B2C--I'm fully aware that I don't understand the customer!
+[^10]: من الواضح أن هذا تحيز شخصي. لا أستطيع أن أستوعب العقلية الموضحة أعلاه، ولهذا السبب لا أبني ولا أستثمر بشكل عام في B2C - أنا أدرك تمامًا أنني لا أفهم العميل!
 
-A lot of great ideas, attacking real problems that customers acknowledge and seek solutions for, are in areas where budgets don't exist, or not often, or are so small that it requires an enormous number of customers to make money (often also in a crowded competitive space), and therefore the company fails.
+الكثير من الأفكار العظيمة، التي تهاجم مشاكل حقيقية يعترف بها العملاء ويبحثون عن حلول لها، تكون في مجالات لا توجد بها ميزانيات، أو لا توجد بها في كثير من الأحيان، أو تكون صغيرة جدًا لدرجة أنها تتطلب عددًا هائلاً من العملاء لكسب المال (غالبًا أيضًا في مساحة تنافسية مزدحمة)، وبالتالي تفشل الشركة.
 
-**Can you be successful anyway? Yes, there's an exception to every rule.** If there are a huge number of potential customers, and if your cost-basis is extremely low,[^11] you can create a strategy targeting a large market at a low price with a simple product.[^12] This works even better if existing products are poor (so you can stand out and make a splash) and expensive (so your low price is itself a differentiator). It's still risky and difficult, but you could accept that and make decisions consistent with that challenge. But you have to really want that path, and increase the "10M" number, since you'll need a lot more customers to make ends meet.
+** هل يمكنك أن تكون ناجحا على أي حال؟ نعم، هناك استثناء لكل قاعدة.** إذا كان هناك عدد كبير من العملاء المحتملين، وإذا كان أساس التكلفة منخفضًا للغاية،[^11] يمكنك إنشاء إستراتيجية تستهدف سوقًا كبيرة بسعر منخفض باستخدام منتج بسيط.[^12] يعمل هذا بشكل أفضل إذا كانت المنتجات الحالية سيئة (حتى تتمكن من التميز وإثارة الإعجاب) ومكلفة (وبالتالي فإن السعر المنخفض هو في حد ذاته عامل تمييز). لا يزال الأمر محفوفًا بالمخاطر وصعبًا، ولكن يمكنك قبول ذلك واتخاذ قرارات تتوافق مع هذا التحدي. ولكن عليك أن تريد هذا المسار حقًا، وأن تزيد الرقم "10 ملايين"، نظرًا لأنك ستحتاج إلى عدد أكبر بكثير من العملاء لتغطية نفقاتك.
 
-[^11]: e.g. no direct customer service, no substantial infrastructure costs, a route to market that costs almost nothing to acquire a customer, the ability to build and maintain the application with very little design or engineering or product outside of the founders, switching costs are low so you don't have to do a lot of work or spend a lot of money to get a customer off another product and on-boarded onto your product
+[^11]: على سبيل المثال. لا توجد خدمة عملاء مباشرة، ولا توجد تكاليف كبيرة للبنية التحتية، وطريق إلى السوق لا يكلف شيئًا تقريبًا لاكتساب عميل، والقدرة على بناء التطبيق وصيانته مع القليل جدًا من التصميم أو الهندسة أو المنتج خارج المؤسسين، وتكاليف التبديل منخفضة لذا لا يتعين عليك القيام بالكثير من العمل أو إنفاق الكثير من المال لإبعاد العميل عن منتج آخر وانضمامه إلى منتجك
 
-[^12]: When a product will be widely used with little-to-no customer service, it must be simple or it won't scale.
+[^12]: عندما يتم استخدام المنتج على نطاق واسع مع خدمة عملاء قليلة أو معدومة، يجب أن يكون بسيطًا وإلا فلن يكون قابلاً للتوسع.
 
-## Liquid: Are they willing and able to buy right now?
+## السائل: هل هم مستعدون وقادرون على الشراء الآن؟
 
-* *"Oh yeah, we spend $100,000/year on this. But our contract isn't up for renewal for another 15 months."*
-* *"We just implemented a version of this in Workday. I'd rather use your product actually, but it's just part of Workday and the HR team likes that everything is integrated."*
-* *"This is way better than our current system, but we've invested a lot integrating with seven other systems, plus a few custom things some engineering teams did, so we can't really consider switching away at this point."*
-* *"That looks like great software for weddings. I'll let you know when I get married again! Haha!"*
+* *"أوه نعم، نحن ننفق 100000 دولار سنويًا على هذا. لكن عقدنا غير قابل للتجديد لمدة 15 شهرًا أخرى."*
+* *"لقد قمنا للتو بتنفيذ نسخة من هذا في Workday. أفضل استخدام منتجك فعليًا، ولكنه مجرد جزء من Workday ويحب فريق الموارد البشرية أن يكون كل شيء متكاملاً."*
+* *"هذا أفضل بكثير من نظامنا الحالي، ولكننا استثمرنا الكثير في التكامل مع سبعة أنظمة أخرى، بالإضافة إلى بعض الأشياء المخصصة التي قامت بها بعض الفرق الهندسية، لذلك لا يمكننا حقًا التفكير في التبديل بعيدًا في هذه المرحلة."*
+* *"يبدو أن هذا برنامج رائع لحفلات الزفاف. سأخبرك عندما أتزوج مرة أخرى! هاها!"*
 
-When the customer is already paying to solve the problem, or actively comparing options to solve the problem, you still run into the barrier of whether they have the organizational will to buy from you.
+عندما يدفع العميل بالفعل لحل المشكلة، أو يقارن الخيارات لحل المشكلة بشكل فعال، فإنك لا تزال تواجه حاجز ما إذا كان لديه الإرادة التنظيمية للشراء منك.
 
 ![we found problem all of your internal organs are in this little bag](https://public.asmartbear.com/books/anthology/chapters/problem/d6158print-simple.png)
 
-This can be for legal reasons, like being locked into a long-term contract or government fiat. This can be for convenience, as in the Workday example which at WP Engine caused us to cancel several other SaaS products because "now it's all in one system, which we're paying for anyway, so this is simpler and safer to manage." This can be because of other forms of lock-in, like difficulty in extracting and moving existing data, having to retrain thousands of employees, or having to re-implement a variety of cross-systems integrations that people rely on for their workflows, data, reports, and governance.
+يمكن أن يكون هذا لأسباب قانونية، مثل الالتزام بعقد طويل الأجل أو بأمر حكومي. يمكن أن يكون هذا من أجل الراحة، كما في مثال Workday الذي دفعنا في WP Engine إلى إلغاء العديد من منتجات SaaS الأخرى لأنه "الآن أصبح كل شيء في نظام واحد، والذي ندفع مقابله على أي حال، لذا فإن إدارة هذا الأمر أبسط وأكثر أمانًا." يمكن أن يكون ذلك بسبب أشكال أخرى من القفل، مثل صعوبة استخراج البيانات الموجودة ونقلها، أو الاضطرار إلى إعادة تدريب الآلاف من الموظفين، أو الاضطرار إلى إعادة تنفيذ مجموعة متنوعة من عمليات التكامل بين الأنظمة التي يعتمد عليها الأشخاص في سير العمل والبيانات والتقارير والحوكمة.
 
-Notice that **all these forces have nothing to do with your product or its price**. They are so powerful, they overwhelm a product that is solving the problem the best, at the best price. That's why they cannot be ignored, and why founders are surprised when their genuinely-great product in the definitely-extant market where customer are definitely paying for solutions, is still too difficult to sell.
+لاحظ أن **كل هذه القوى ليس لها علاقة بمنتجك أو سعره**. إنها قوية جدًا، فهي تطغى على المنتج الذي يحل المشكلة بشكل أفضل وبأفضل الأسعار. ولهذا السبب لا يمكن تجاهلها، ولماذا يتفاجأ المؤسسون عندما يكون منتجهم الرائع حقًا في السوق الموجود بالتأكيد حيث يدفع العملاء بالتأكيد مقابل الحلول، لا يزال من الصعب جدًا بيعه.
 
-On the bright side, this is a prompt for your strategy. How will your strategy create these sorts of "lock-ins" that will prevent your *competitors* from kicking *you* out of *your* customers?
+على الجانب المشرق، يعد هذا مؤشرًا لاستراتيجيتك. كيف ستنشئ استراتيجيتك هذا النوع من "الإغلاقات" التي ستمنع *منافسيك* من طردك من عملائك؟
 
-A final way that customers might not be able to buy right now, is when the product is needed at a specific moment in time, but not before or after that moment. Websites for events and occasions are an example, as are tools that solve temporary problems like sophisticated code profilers or load-testing tools. Because Smart Bear[^13] was in the developer tools market, I know a number of founders of products in the latter two spaces; all of them struggled to maintain even small companies, exactly because people didn't proactively need the product (i.e. "Don't have the problem"), but then suddenly did (i.e. "Willing to buy, but only *right now*"), and then didn't any more (i.e. "No longer willing to buy").
+الطريقة الأخيرة التي قد لا يتمكن العملاء من الشراء فيها الآن، هي عندما تكون هناك حاجة إلى المنتج في لحظة معينة من الزمن، ولكن ليس قبل تلك اللحظة أو بعدها. تعتبر مواقع الويب الخاصة بالأحداث والمناسبات مثالاً على ذلك، وكذلك الأدوات التي تحل المشكلات المؤقتة مثل ملفات تعريف التعليمات البرمجية المعقدة أو أدوات اختبار التحميل. نظرًا لأن Smart Bear[^13] كان موجودًا في سوق أدوات المطورين، فأنا أعرف عددًا من مؤسسي المنتجات في المجالين الأخيرين؛ جميعهم ناضلوا للحفاظ على الشركات الصغيرة، وذلك بالضبط لأن الناس لم يكونوا بحاجة إلى المنتج بشكل استباقي (أي "ليست لدي مشكلة")، ولكنهم فعلوا ذلك فجأة (أي "على استعداد للشراء، ولكن فقط *في الوقت الحالي*")، وبعد ذلك لم يعودوا بحاجة إليه (أي "لم يعد لديهم استعداد للشراء").
 
-[^13]: My company before WP Engine and the namesake of this website.
+[^13]: شركتي قبل WP Engine والاسم نفسه لهذا الموقع.
 
-Or, that moment in time might be in an ill-defined future, when the problem is of higher priority. If you're not one of the customers' top three priorities, they can't devote the time or budget to it, even if they agree the problem exists and that your software will solve it for a reasonable price. [This article explains this effect in detail](https://longform.asmartbear.com/purgatory/).
+أو قد تكون تلك اللحظة من الزمن في مستقبل غير محدد المعالم، عندما تكون المشكلة ذات أولوية أعلى. إذا لم تكن أحد أهم ثلاث أولويات للعملاء، فلن يتمكنوا من تخصيص الوقت أو الميزانية لذلك، حتى لو وافقوا على وجود المشكلة وأن برنامجك سوف يحلها بسعر معقول. [تشرح هذه المقالة هذا التأثير بالتفصيل](https://longform.asmartbear.com/purgatory/).
 
-**Can you be successful anyway? Yes, there's an exception to every rule.** If there's a legal contract, you can offer to pay the penalty for them breaking their contract (so long as that isn't so expensive that you can never be profitable). If it's hard to migrate, you can offer to do the migration as a service, perhaps even for free (this is common in WP Engine's market). If you're fighting the all-in-one enterprise systems like Workday, you can focus instead on a target market that cannot afford Workday and sees Workday as overly complex and cold, so that Workday isn't even a competitor. If timing is important, you might offer a way to buy that is cheap or even free while not using it, so you're "right there as soon as you need us again." But you have to really have answers for these challenges, and be ready to walk that path.
+** هل يمكنك أن تكون ناجحا على أي حال؟ نعم، هناك استثناء لكل قاعدة. ** إذا كان هناك عقد قانوني، يمكنك أن تعرض عليهم دفع غرامة كسر عقدهم (طالما أن ذلك ليس مكلفًا للغاية بحيث لا يمكنك تحقيق الربح أبدًا). إذا كان من الصعب الترحيل، فيمكنك عرض إجراء الترحيل كخدمة، وربما حتى مجانًا (وهذا أمر شائع في سوق WP Engine). إذا كنت تحارب أنظمة المؤسسات الشاملة مثل Workday، فيمكنك التركيز بدلاً من ذلك على السوق المستهدفة التي لا تستطيع تحمل تكاليف Workday وترى أن Workday معقد للغاية وبارد، لذا فإن Workday ليس حتى منافسًا. إذا كان التوقيت مهمًا، فقد تقدم طريقة للشراء رخيصة الثمن أو حتى مجانية أثناء عدم استخدامها، لذا فأنت "هناك بمجرد أن تحتاج إلينا مرة أخرى". ولكن يجب أن يكون لديك بالفعل إجابات لهذه التحديات، وأن تكون مستعدًا للسير في هذا الطريق.
 
-## Eager: Do they want to buy from you, specifically?
+## متلهفاً: هل يريدون الشراء منك تحديداً؟
 
-* *"It seems like it would work for us, but it looks like you've only been in business for a year?"*
-* *"It definitely worked fine during the trial, but we're expecting to grow 100x and we're not confident that you'll be able to handle it."*
-* *"For the features we need, [competitor] looks the same to us, and they're cheaper."*
-* *"I like how you do X, but [competitor] does Y and Z, which we really like, so we're going with them."*
-* *"Our policy requires that all vendors are SOC 2-compliant and provide a security audit trail API, so you did not meet our basic requirements."*
+* *"يبدو أن الأمر سينجح بالنسبة لنا، ولكن يبدو أنك تعمل في هذا المجال لمدة عام فقط؟"*
+* *"لقد سارت الأمور بشكل جيد بالتأكيد أثناء الفترة التجريبية، ولكننا نتوقع أن ننمو بمقدار 100 مرة ولسنا واثقين من قدرتك على التعامل معها."*
+* *"بالنسبة للميزات التي نحتاجها، يبدو [المنافس] متشابهًا بالنسبة إلينا، كما أنه أرخص."*
+* *"تعجبني طريقة قيامك بـ X، لكن [المنافس] يقوم بـ Y وZ، وهو ما نحبه حقًا، لذلك نحن نتبعه."*
+* *"تتطلب سياستنا أن يكون جميع البائعين متوافقين مع SOC 2 وأن يقدموا واجهة برمجة تطبيقات لمسار تدقيق الأمان، لذلك لم تستوف متطلباتنا الأساسية."*
 
-Even in a real market, with customers spending real money, in a purchasing process right now, you haven't yet won. There are other options, ranging from direct competitors to indirect alternatives. They will buy, but will they buy from *you*?
+حتى في السوق الحقيقي، حيث ينفق العملاء أموالاً حقيقية، في عملية الشراء الآن، فإنك لم تفز بعد. هناك خيارات أخرى تتراوح بين المنافسين المباشرين والبدائل غير المباشرة. سوف يشترون، لكن هل سيشترون منك *أنت*؟
 
 ![its not that i dont like you ted you just dont fit my target demographic](https://public.asmartbear.com/books/anthology/chapters/problem/d0106print-simple.png)
 
-The first hurdle is **trust**: Do they trust not only that the product works, but that your company will be around for many years to come, that you will maintain a high pace of development, that you won't have security issues, that your customer service will truly help them when inevitable problems arise, and that you can scale as the customer's needs scale?
+العقبة الأولى هي **الثقة**: هل يثقون ليس فقط في نجاح المنتج، بل في أن شركتك ستظل موجودة لسنوات عديدة قادمة، وأنك ستحافظ على وتيرة عالية من التطوير، وأنك لن تواجه مشكلات أمنية، وأن خدمة العملاء الخاصة بك ستساعدهم حقًا عند ظهور مشاكل لا مفر منها، وأنه يمكنك التوسع حسب حجم احتياجات العميل؟
 
-The second hurdle is **differentiation**. This doesn't just mean "you have [something unique](https://longform.asmartbear.com/worse-but-unique/)." You might have a feature that no one else has, but if only 10% of the market cares about that feature, that's not enough. Worse, your competitor will have some feature *you* don't have, and what if 30% of the market cares about *that* one? How to do this? See [this companion article on leverage](https://longform.asmartbear.com/leverage/).
+العقبة الثانية هي **التمايز**. هذا لا يعني فقط "أن لديك [شيئًا فريدًا](https://longform.asmartbear.com/worse-but-unique/)." قد تكون لديك ميزة لا يمتلكها أي شخص آخر، ولكن إذا كان 10% فقط من السوق يهتمون بهذه الميزة، فهذا ليس كافيًا. والأسوأ من ذلك، أن منافسك سيحصل على بعض الميزات التي لا تمتلكها أنت، وماذا لو كان 30% من السوق يهتمون بهذه الميزة؟ كيف تفعل هذا؟ راجع [هذه المقالة المصاحبة حول الرافعة المالية](https://longform.asmartbear.com/leverage/).
 
-A special difficulty comes when the product over-serves a large segment of the market. This means that, for example, you have ten features, but most of the market really cares about three of them. You might have all sorts of differentiation in the latter seven, but that won't sway most people. Picking something simpler or cheaper is the rational choice, even though your "feature comparison matrix" shows that you're a much more complete solution.
+تأتي الصعوبة الخاصة عندما يخدم المنتج شريحة كبيرة من السوق بشكل زائد. هذا يعني، على سبيل المثال، أن لديك عشر ميزات، لكن معظم السوق يهتم حقًا بثلاث منها. قد يكون لديك كل أنواع التمايز في السبعة الأخيرة، لكن هذا لن يؤثر على معظم الناس. إن اختيار شيء أبسط أو أرخص هو الاختيار العقلاني، على الرغم من أن "مصفوفة مقارنة الميزات" الخاصة بك تظهر أنك حل أكثر اكتمالاً.
 
-A sales team can combat both of these challenges. The job isn't just to schedule calls, cajole potential customers into action, and press for the close; the job also to build trust in your organization and talk around competitive points, positioning so that the customer wants to buy from the mixed bag of plusses-and-minuses that every product contains.
+يمكن لفريق المبيعات مواجهة هذين التحديين. لا تقتصر المهمة على جدولة المكالمات، وإقناع العملاء المحتملين بالتحرك، والضغط من أجل الإغلاق؛ المهمة أيضًا هي بناء الثقة في مؤسستك والتحدث عن النقاط التنافسية، وتحديد المواقع بحيث يرغب العميل في الشراء من الحقيبة المختلطة من الإيجابيات والسلبيات التي يحتوي عليها كل منتج.
 
-The best way to overcome these challenges are the "Love" and "Utility" types of [willingness-to-pay](https://longform.asmartbear.com/willingness-to-pay/).
+أفضل طريقة للتغلب على هذه التحديات هي نوعي "الحب" و"المنفعة" من [الاستعداد للدفع](https://longform.asmartbear.com/willingness-to-pay/).
 
-**Can you be successful anyway? Yes, there's an exception to every rule.** Trust can be side-stepped by building a type of product that doesn't require much trust.[^14] Or trust can be built by mitigation, for example open-source means the customer can shift to another vendor or take over the code base in a worst-case scenario. Differentiation is harder. Sometimes you're competing on price, which isn't ideal for the bottom-line or for the quality of customer, but can work very well. In a large market, differentiation can come from specializing in a niche. In a small market, you might not have many viable competitors, lessening the importance of differentiation. A company mission that is "bigger than all of us" can also be a distinguishing reason to buy,[^15] although typically more for consumer products where that's an allowable purchase-criterium. Still, it difficult to survive when you're no different from more mature, feature-rich, stable, innovative alternatives.
+** هل يمكنك أن تكون ناجحا على أي حال؟ نعم، هناك استثناء لكل قاعدة.** يمكن تجاوز الثقة عن طريق إنشاء نوع من المنتجات لا يتطلب قدرًا كبيرًا من الثقة.[^14] أو يمكن بناء الثقة عن طريق التخفيف، على سبيل المثال، المصدر المفتوح يعني أنه يمكن للعميل التحول إلى مورد آخر أو تولي قاعدة التعليمات البرمجية في أسوأ السيناريوهات. التمايز أصعب. في بعض الأحيان، تتنافس على السعر، وهو ليس مثاليًا بالنسبة إلى النتيجة النهائية أو لجودة العميل، ولكنه يمكن أن يعمل بشكل جيد للغاية. في سوق كبيرة، يمكن أن يأتي التمايز من التخصص في مكانة معينة. في سوق صغيرة، قد لا يكون لديك العديد من المنافسين القادرين على الاستمرار، مما يقلل من أهمية التمايز. يمكن أيضًا أن تكون مهمة الشركة "الأكبر منا جميعًا" سببًا مميزًا للشراء،[^15] على الرغم من أنها عادةً ما تكون أكثر بالنسبة للمنتجات الاستهلاكية حيث يكون هذا معيار شراء مسموحًا به. ومع ذلك، من الصعب البقاء على قيد الحياة عندما لا تكون مختلفًا عن البدائل الأكثر نضجًا والغنية بالميزات والمستقرة والمبتكرة.
 
-[^14]: "Security" isn't a concern if the data in your app isn't private, such as a social media management tool. "Uptime" isn't a concern if the product is run locally or the service isn't time-critical. "Company maturity" isn't a concern if it's a tool for individual use; in fact it can be an advantage for a new startup to sell to freelancers or other people who want to support other startups.
+[^14]: لا يشكل "الأمان" مصدر قلق إذا كانت البيانات الموجودة في تطبيقك ليست خاصة، مثل أداة إدارة الوسائط الاجتماعية. لا يشكل "وقت التشغيل" مصدر قلق إذا تم تشغيل المنتج محليًا أو إذا كانت الخدمة لا تتطلب وقتًا حرجًا. "نضج الشركة" لا يشكل مصدر قلق إذا كانت أداة للاستخدام الفردي؛ في الواقع، قد يكون من المفيد لشركة ناشئة جديدة بيعها للعاملين المستقلين أو الأشخاص الآخرين الذين يرغبون في دعم الشركات الناشئة الأخرى.
 
-[^15]: People buy windbreakers from Patagonia that are undifferentiated from other outdoor apparel vendors, because Patagonia is well-known for spending hundreds of millions of dollars on conservation and sustainability, and for treating their employees well.
+[^15]: يشتري الناس سترات واقية من الرياح من باتاغونيا لا تختلف عن بائعي الملابس الخارجية الآخرين، لأن باتاغونيا معروفة بإنفاق مئات الملايين من الدولارات على الحفاظ على البيئة والاستدامة، ومعاملة موظفيها بشكل جيد.
 
-## Enduring: Will they still be paying (or paying-it-forward) a year from now?
+## دائم: هل سيستمرون في الدفع (أو الدفع للأمام) بعد عام من الآن؟
 
-I cannot count the number of indie developers who grow to $15k MRR and start slowing down because their cancellation rate is 7%. Many don't think this is a problem; many of the rest believe that 5% would be a success. It's not.
+لا أستطيع إحصاء عدد المطورين المستقلين الذين وصل عددهم إلى 15 ألف دولار أمريكي وبدأوا في التباطؤ لأن معدل الإلغاء لديهم يبلغ 7%. لا يعتقد الكثيرون أن هذه مشكلة؛ يعتقد العديد من الباقين أن نسبة 5٪ ستكون ناجحة. ليست كذلك.
 
-[Financials and SaaS metrics](https://longform.asmartbear.com/product-metrics/) aren't even the primary reason why this is fatal. The problem is that the customers don't want the product. 5%/mo cancellation means only half the customers will still be customers a year from now, which means you're not building a sustainable business.
+[المقاييس المالية وSaaS](https://longform.asmartbear.com/product-metrics/) ليست حتى السبب الرئيسي وراء خطورة ذلك. المشكلة هي أن العملاء لا يريدون المنتج. يعني الإلغاء بنسبة 5% شهريًا أن نصف العملاء فقط سيظلون عملاء بعد عام من الآن، مما يعني أنك لا تقوم ببناء نشاط تجاري مستدام.
 
-The reasons can vary. Perhaps they needed the product temporarily; they might have loved it, but "the problem" disappears. More often, the product didn't work well enough--insufficient features, too many bugs, didn't integrate with some other system, too expensive for the end result, turns out the problem is not important enough.
+يمكن أن تختلف الأسباب. ربما كانوا بحاجة إلى المنتج بشكل مؤقت؛ ربما أحبوها، لكن "المشكلة" تختفي. في أغلب الأحيان، لا يعمل المنتج بشكل جيد بما فيه الكفاية - ميزات غير كافية، الكثير من الأخطاء، لم يتم دمجه مع نظام آخر، باهظ الثمن للغاية بالنسبة للنتيجة النهائية، يتبين أن المشكلة ليست مهمة بما فيه الكفاية.
 
-The financial reality is illuminating too. The challenge is that top-line growth is linear for many companies, and [quadratic (_not_ exponential)](https://longform.asmartbear.com/exponential-growth/) even with hyper-growth companies. But cancellation *is* exponential--that's why it's measured as a percent of the current customer base. Exponentials grow faster than lines or quadratics, therefore cancellation "catches up" faster than you can add new customers. Growth fades, and finally ceases, as one customer cancels for every new customer who signs up.
+الواقع المالي ينير أيضا. ويكمن التحدي في أن النمو الإجمالي يكون خطيًا بالنسبة للعديد من الشركات، و[تربيعي (_not_ أسي)](https://longform.asmartbear.com/exponential-growth/) حتى مع الشركات ذات النمو المفرط. لكن الإلغاء *أمر* أسي - ولهذا السبب يتم قياسه كنسبة مئوية من قاعدة العملاء الحالية. تنمو الأعداد الأسية بشكل أسرع من الخطوط أو المعادلات التربيعية، وبالتالي فإن الإلغاء "يلحق" بشكل أسرع مما يمكنك إضافة عملاء جدد. يتلاشى النمو ويتوقف أخيرًا، حيث يقوم عميل واحد بإلغاء الاشتراك مقابل كل عميل جديد يقوم بالتسجيل.
 
-With $15k MRR, adding $2k/mo of new customers--a healthy 15% *per month* growth rate--a 7% cancellation rate means already half of that growth is negated by customers leaving. The company barely got started and already its growth is being decimated. At that rate, only one year later, having grown to about $27k MRR, the company has stopped growing completely (Figure 2), despite spending time and money on marketing and sales.[^16] Don't forget--those new customers cost money to attract, sell, and on-board with tech support, but all the value of that expense is negated by an equal number of customers walking out the door.
+مع MRR بقيمة 15 ألف دولار، إضافة 2 ألف دولار شهريًا من العملاء الجدد - معدل نمو صحي بنسبة 15% *شهريًا* - معدل إلغاء بنسبة 7% يعني بالفعل أن نصف هذا النمو قد تم إبطاله بسبب مغادرة العملاء. بالكاد بدأت الشركة وقد تم بالفعل تدمير نموها. بهذا المعدل، بعد مرور عام واحد فقط، وبعد أن نمت الشركة إلى حوالي 27 ألف دولار أمريكي، توقفت الشركة عن النمو تمامًا (الشكل 2)، على الرغم من إنفاق الوقت والمال على التسويق والمبيعات.[^16] لا تنس--هؤلاء العملاء الجدد يكلفون أموالًا لجذبهم وبيعهم والاستفادة من الدعم الفني، ولكن كل قيمة هذه النفقات يتم إبطالها من خلال خروج عدد متساو من العملاء من الباب.
 
-[^16]: Growth stops because the $2k of new customers arriving in a month are negated by $27k × 7% ≈ $2k customers cancelling in that same month.
+[^16]: يتوقف النمو لأن مبلغ 2 ألف دولار أمريكي من العملاء الجدد الذين يصلون خلال شهر يتم إبطاله بمقدار 27 ألف دولار أمريكي × 7% ≈ 2 ألف دولار أمريكي من العملاء الذين يقومون بالإلغاء في نفس الشهر.
 
 ![Charting adding $2k/mo new MRR with 7%/mo using the SaaS Plateau Forecaster from Summit.](https://public.asmartbear.com/books/anthology/chapters/problem/e7de4ba8-c921-494d-99db-c1fdd3f7b787-simple.png)
 
-You certainly aren't required to have a goal of "grow forever,"[^17] but capping growth because customers don't really value your product, is not a healthy business no matter what your end goal is.
+بالتأكيد ليس مطلوبًا منك أن يكون لديك هدف "النمو إلى الأبد"،[^17] ولكن تحديد سقف للنمو لأن العملاء لا يقدرون منتجك حقًا، ليس عملاً صحيًا بغض النظر عن هدفك النهائي.
 
-[^17]: But especially if you do have the goal of becoming a scale-up Unicorn, it is impossible to do that without low churn. As just one example, Gainsight CEO Nick Mehta recently pointed out why "This stall will happen to all companies eventually," [explaining](https://cloud.substack.com/i/112444339/mistake-not-starting-act-ii-fast-enough) that launching a second product was their solution.
+[^17]: ولكن على وجه الخصوص، إذا كان لديك هدف أن تصبح شركة يونيكورن قابلة للتوسيع، فمن المستحيل القيام بذلك دون حدوث تغيير بسيط. وكمثال واحد فقط، أشار نيك ميهتا، الرئيس التنفيذي لشركة Gainsight، مؤخرًا إلى السبب وراء "حصول هذا المماطلة لجميع الشركات في نهاية المطاف،" [موضحًا](https://cloud.substack.com/i/112444339/mistake-not-starting-act-ii-fast-enough) أن إطلاق منتج ثانٍ كان هو الحل.
 
-This example was for a recurring-revenue business, but the same principle is true for one-time revenue businesses. **One-time revenue businesses still require repeat revenue**, in two ways:
+كان هذا المثال بالنسبة للشركات ذات الإيرادات المتكررة، ولكن المبدأ نفسه ينطبق على الشركات ذات الإيرادات لمرة واحدة. **لا تزال الأنشطة التجارية التي تحقق إيرادات لمرة واحدة تتطلب إيرادات متكررة**، بطريقتين:
 
-1. Customers buying again.
-2. Happy customers telling other people to become customers.
+1. العملاء يشترون مرة أخرى.
+2. العملاء السعداء يطلبون من الآخرين أن يصبحوا عملاء.
 
-Both of these require that customers are happy with the product. This reinforces the point that the most important problem is that the customer isn't satisfied, regardless of business model.
+كلاهما يتطلب أن يكون العملاء راضين عن المنتج. وهذا يعزز فكرة أن المشكلة الأكثر أهمية هي عدم رضا العميل، بغض النظر عن نموذج العمل.
 
-**Can you be successful anyway? Yes, there's an exception to every rule.** Shopify is a fantastically successful business with a 8% cancellation rate--[only 34% of new customers stick around for one year](https://www.theglobeandmail.com/business/article-shopify-customer-retention-problem/). They're successful anyway because (a) the ones that do stay tend to grow forever and super-linearly, (b) the market is enormous and still growing fast, so they won't run out of new customers anytime soon, and (c) customers cancel because their own business didn't succeed, not because Shopify's product is problematic. If the problem really is the product, I don't believe there is an exception. The product has to be work well for some segment of the market. The rest can be mitigated if other factors of the market, strategy, and business model can overcome this massive weakness with even-more-massive advantages.
+** هل يمكنك أن تكون ناجحا على أي حال؟ نعم، هناك استثناء لكل قاعدة.** Shopify هو نشاط تجاري ناجح بشكل مذهل مع معدل إلغاء يبلغ 8% -- [34% فقط من العملاء الجدد يستمرون لمدة عام واحد](https://www.theglobeandmail.com/business/article-shopify-customer-retention-problem/). إنهم ناجحون على أي حال لأن (أ) العملاء الذين يبقون يميلون إلى النمو إلى الأبد وبشكل خطي للغاية، (ب) السوق هائل ولا يزال ينمو بسرعة، لذلك لن ينفد منهم العملاء الجدد في أي وقت قريب، و (ج) يلغى العملاء لأن أعمالهم لم تنجح، وليس لأن منتج Shopify يمثل مشكلة. إذا كانت المشكلة حقًا هي المنتج، فلا أعتقد أن هناك استثناءً. يجب أن يعمل المنتج بشكل جيد لقطاع ما من السوق. ومن الممكن تخفيف الباقي إذا تمكنت عوامل أخرى في السوق، والاستراتيجية، ونموذج الأعمال من التغلب على هذا الضعف الهائل بمزايا أكثر ضخامة.
 
-## Evaluating startup viability
+## تقييم جدوى بدء التشغيل
 
-This path of "problem" to "business model" is not the only factor that determines success. There are still questions like whether you can reach customers, get their attention in the noisy internet and competitive space, can you do that cost-effectively, are company costs too high, do you have the skills, can you hire for skills, do you have enough time and money to do it, and so on.
+إن طريق "المشكلة" إلى "نموذج العمل" ليس هو العامل الوحيد الذي يحدد النجاح. لا تزال هناك أسئلة مثل ما إذا كان بإمكانك الوصول إلى العملاء، وجذب انتباههم في عالم الإنترنت الصاخب والفضاء التنافسي، وهل يمكنك القيام بذلك بفعالية من حيث التكلفة، وهل تكاليف الشركة مرتفعة للغاية، وهل لديك المهارات، وهل يمكنك توظيف المهارات، وهل لديك ما يكفي من الوقت والمال للقيام بذلك، وما إلى ذلك.
 
-Still, we can evaluate the viability of this path with the following model. We'll use [Fermi Estimation](https://longform.asmartbear.com/roi-rubric/) to avoid the analysis-paralysis of deep research and arguing over details.
+ومع ذلك، يمكننا تقييم جدوى هذا المسار من خلال النموذج التالي. سنستخدم [تقدير فيرمي](https://longform.asmartbear.com/roi-rubric/) لتجنب شلل التحليل في البحث العميق والجدال حول التفاصيل.
 
-**Some people have already started using this to think through their businesses**, like [Sam Bhagwat](https://twitter.com/calcsam), co-founder of [Gatsby](https://www.gatsbyjs.com/), [thinking through](https://twitter.com/calcsam/status/1645045534326145025) his next startup. There's also some [online calculators](https://www.codelantis.com/blog/startup-viability-score) if you like that sort of thing.
+**بدأ بعض الأشخاص بالفعل في استخدام هذا للتفكير في أعمالهم**، مثل [Sam Bhagwat](https://twitter.com/calcsam)، المؤسس المشارك لـ [Gatsby](https://www.gatsbyjs.com/)، و[thinking Through](https://twitter.com/calcsam/status/1645045534326145025) شركته الناشئة التالية. هناك أيضًا بعض [الآلات الحاسبة عبر الإنترنت](https://www.codelantis.com/blog/startup-viability-score) إذا كنت تحب هذا النوع من الأشياء.
 
-Answer with regard to a *specific* target market, which means a specific type of buyer solving a specific problem with a product that has made specific trade-offs, at a specific price.
+الإجابة تتعلق بسوق مستهدف *محدد*، وهو ما يعني نوع معين من المشترين الذين يقومون بحل مشكلة معينة مع منتج قام بمقايضات محددة، وبسعر محدد.
 
-| Criteria | Score |
-|:----|:----|
-| **Plausible** <br/> Number of potential customers (consumers or businesses) who actually have the problem | *Power-of-ten only* <br/> `1k`, `10k`, `100k`, `1M`, `10M`, `100M`, `1B` |
-| **Self-Aware** <br/> Willing to solve the problem | `0.01`: Few agree or care <br/> `0.1 `: Thought-leaders care and evangelize <br/> `0.5 `: It's an industry standard-practice <br/> `1.0 `: Almost impossible to find someone who doesn't care |
-| **Lucrative** <br/> Annual *allocated* budget | *Power-of-ten only, of net-revenue*[^18] <br/> `$1`, `$10`, `$100`, `$1k`, `$10k`, `$100k`, `$1M` |
-| **Liquid** <br/> Frequency of purchase decision | `0.01`: Every few years <br/> `0.1 `: An annual decision <br/> `1.0 `: Always in the market, easy to switch |
-| **Eager** *(identity)* <br/> Attitude towards your company | `0   `: They cannot buy from you <br/> `0.1 `: Structural challenges <br/> `0.5 `: Indifferent; no red flags <br/> `1.0 `: Mission-level emotional desire to select you |
-| **Eager** *(comparative)* <br/> Competitive differentiation | `0.1 `: No material differentiation <br/> `0.5 `: Some features are so good, some people will buy just for that <br/> `1.0 `: One-of-a-kind solution that has no viable alternative |
-| **Enduring** <br/> Will they still be here a year from now? | `0.01`: One-off purchase without loyalty <br/> `0.1 `: One-off purchase, but happy customers will buy again and tell their friends <br/> `0.5 `: Recurring-revenue from a recurring-problem <br/> `1.0 `: Strong lock-in from fiat, integrations, or being the system-of-record for a business-critical system |
-| *Normalize* <br/> Normalize the score so that `1` is the threshold for an indie startup, `2` or more for a scale-up.[^19] | *Divide by* `625,000` |
+| المعايير | النتيجة | |:----|:----| | **معقول** <br/> عدد العملاء المحتملين (المستهلكين أو الشركات) الذين لديهم المشكلة بالفعل | *قوة العشرة فقط* <br/> `1k`، `10k`، `100k`، `1M`، `10M`، `100M`، `1B` | | **مدرك لذاته** <br/> على استعداد لحل المشكلة | `0.01`: قليلون يوافقون أو يهتمون <br/> `0.1 `: قادة الفكر يهتمون ويبشرون <br/> `0.5 `: إنها ممارسة قياسية في الصناعة <br/> `1.0 `: يكاد يكون من المستحيل العثور على شخص لا يهتم | | **مربحة** <br/> الميزانية السنوية *المخصصة* | *قوة العشرة فقط، من صافي الإيرادات*[^18] <br/> `$1`، `$10`، `$100`، `$1k`، `$10k`، `$100k`، `$1M` | | **السائل** <br/> تكرار قرار الشراء | `0.01`: كل بضع سنوات <br/> `0.1`: قرار سنوي <br/> `1.0`: موجود دائمًا في السوق، سهل التبديل | | **الحرص** *(الهوية)* <br/> الموقف تجاه شركتك | `0 `: لا يمكنهم الشراء منك <br/> `0.1 `: التحديات الهيكلية <br/> `0.5 `: غير مبال؛ لا توجد أعلام حمراء <br/> `1.0`: الرغبة العاطفية على مستوى المهمة في اختيارك | | **الحرص** *(المقارنة)* <br/> التمايز التنافسي | `0.1 `: لا يوجد تمييز مادي <br/> `0.5 `: بعض الميزات جيدة جدًا، وسيشتري بعض الأشخاص من أجل ذلك فقط <br/> `1.0 `: حل فريد من نوعه ليس له بديل قابل للتطبيق | | **دائم** <br/> هل سيظلون هنا بعد عام من الآن؟ | `0.01`: شراء لمرة واحدة بدون ولاء <br/> `0.1 `: شراء لمرة واحدة، ولكن العملاء السعداء سيشترون مرة أخرى ويخبرون أصدقائهم <br/> `0.5 `: الإيرادات المتكررة من مشكلة متكررة <br/> `1.0 `: قفل قوي من الأوامر القانونية أو عمليات التكامل أو كونه نظام سجل لنظام مهم للأعمال | | *تطبيع* <br/> قم بتطبيع النتيجة بحيث يكون `1` هو الحد الأدنى لبدء التشغيل المستقل، أو `2` أو أكثر لتوسيع النطاق.[^19] | *القسمة على* `625,000` |
 
-Now you multiply. Why multiply? Because this is a series of "ands"--there needs to be customers with the problem *and* they have budget *and* they are buying today *and* so on. The effects compound.
+الآن تتضاعف. لماذا تتضاعف؟ نظرًا لأن هذه سلسلة من "و"--يجب أن يكون هناك عملاء لديهم المشكلة *و* لديهم ميزانية *و* يشترون اليوم *و* وما إلى ذلك. الآثار مركبة.
 
-[^18]: "Net-revenue" means your revenue after subtracting pass-through costs. For example, an eCommerce platform might process a $100 purchase on behalf of its customer, keeping $10 for itself as payment; that is net-revenue of $10. Pass-through costs do not include cost-of-goods-sold, i.e. you should not subtract out the marketing and sales costs to acquire the customer, nor customer support, nor infrastructure costs for SaaS products. Those are important for profitability, but in this exercise we are focused only on top-line revenue, not on the efficiency of your operations.
+[^18]: "صافي الإيرادات" يعني إيراداتك بعد خصم تكاليف التمرير. على سبيل المثال، قد تقوم منصة التجارة الإلكترونية بمعالجة عملية شراء بقيمة 100 دولار نيابة عن عميلها، مع الاحتفاظ بمبلغ 10 دولارات لنفسها كدفعة؛ وهذا هو صافي الإيرادات من 10 دولارا. لا تشمل تكاليف التمرير تكلفة البضائع المباعة، أي أنه لا ينبغي عليك طرح تكاليف التسويق والمبيعات للحصول على العميل، ولا دعم العملاء، ولا تكاليف البنية التحتية لمنتجات SaaS. تعتبر هذه الأمور مهمة لتحقيق الربحية، ولكننا في هذا التمرين نركز فقط على الإيرادات النهائية، وليس على كفاءة عملياتك.
 
-[^19]: Justification: Using the figures earlier in the article, you could be successful with 10M consumers at $10/mo, or 100k businesses at $1000/mo (e.g. dentist practice-management), so consider the threshold of those numbers combined to be 100M. Taking the middle value of all other questions--neither a deal-breaker nor a strong advantage--you end up with `100M ✕ 0.5` `✕ 0.1 ✕ 0.5` `✕ 0.5 ✕ 0.5` `= 625k`. Arguably you should have some strong advantages, but also some of these values will be on the low side, so this is a reasonable Fermi-style acceptance threshold.
+[^19]: المبررات: باستخدام الأرقام الواردة سابقًا في المقالة، يمكن أن تنجح مع 10 ملايين مستهلك بسعر 10 دولارات شهريًا، أو 100 ألف شركة بسعر 1000 دولار شهريًا (على سبيل المثال، إدارة ممارسة طبيب الأسنان)، لذا ضع في اعتبارك أن الحد الأدنى لهذه الأرقام مجتمعة هو 100 مليون. بأخذ القيمة المتوسطة لجميع الأسئلة الأخرى - والتي لا تعتبر كسرًا للصفقات ولا ميزة قوية - ينتهي بك الأمر بـ `100 مليون ✕ 0.5` `✕ 0.1 ✕ 0.5` `✕ 0.5 ✕ 0.5` `= 625 ألف`. يمكن القول أنه يجب أن يكون لديك بعض المزايا القوية، ولكن أيضًا بعض هذه القيم ستكون في الجانب المنخفض، لذلك يعد هذا عتبة قبول معقولة على طراز فيرمي.
 
-**This is dangerously close to a silly quiz**, so we have to be careful to use the final score as guidance rather than precise analysis. Still, different choices of target market, target customer, and product trade-offs can result in dramatically different results.
+**هذا يقترب بشكل خطير من اختبار سخيف**، لذا يجب أن نكون حذرين في استخدام النتيجة النهائية كدليل بدلاً من التحليل الدقيق. ومع ذلك، فإن الاختيارات المختلفة للسوق المستهدف، والعملاء المستهدفين، ومقايضات المنتجات يمكن أن تؤدي إلى نتائج مختلفة بشكل كبير.
 
-As usual, **having to think through the answers and trade-offs is most of the value of the exercise**, even more than the final score.
+كالعادة، **يعد الاضطرار إلى التفكير في الإجابات والمفاضلات هو الجزء الأكبر من قيمة التمرين**، بل وأكثر من النتيجة النهائية.
 
-### A few examples
+### بعض الأمثلة
 
-Still, let's try it, using WP Engine[^20] as the example. Note how our research is simplistic, but because we only have to be accurate to a power of ten, the answers are easy anyway:[^21]
+مع ذلك، دعونا نجرب ذلك، باستخدام WP Engine[^20] كمثال. لاحظ مدى تبسيط بحثنا، ولكن نظرًا لأننا يجب أن نكون دقيقين فقط إلى قوة العشرة، فإن الإجابات سهلة على أي حال:[^21]
 
-[^20]: WP Engine is the largest platform for WordPress-based websites among the top ten million websites in the world. Therefore, we'll take the market as "businesses using WordPress."
+[^20]: يعد WP Engine أكبر منصة لمواقع الويب المستندة إلى WordPress من بين أفضل عشرة ملايين موقع ويب في العالم. لذلك، سننظر إلى السوق على أنه "الشركات التي تستخدم WordPress".
 
-[^21]: For example, our figures for the first row are just page-one Google search results, but even if the figures are off by 50%, certainly the true answer must be far larger than 10M and far smaller than 1000M, hence 100M is the easy choice.
+[^21]: على سبيل المثال، الأرقام الخاصة بالصف الأول هي مجرد صفحة واحدة من نتائج بحث Google، ولكن حتى إذا كانت الأرقام أقل بنسبة 50%، فمن المؤكد أن الإجابة الحقيقية يجب أن تكون أكبر بكثير من 10 ملايين وأصغر بكثير من 1000 مليون، وبالتالي فإن 100 مليون هو الاختيار السهل.
 
-| Criteria | Score | Justification |
-|:----|:---:|:----|
-| **Plausible** <br/> Number of businesses who have the problem | `100M` | There are [334M](https://www.businessdit.com/how-many-businesses-are-there-in-the-world/) businesses in the world, [71%](https://www.zippia.com/advice/online-business-statistics/) of which have a website. [43%](https://w3techs.com/technologies/overview/content_management) of websites are WordPress. |
-| **Self-Aware** <br/> Willing to solve the problem | `0.1` | While everyone using WordPress definitionally hosts it somewhere, and industry practitioners often use a specialist vendor, most target customers don't care enough to do more than the bare minimum. |
-| **Lucrative** <br/> Annual allocated budget | `$100` | Difficult to say over such a large market; one could argue that `$10` is more accurate because most businesses are small and most don't buy expensive American things. |
-| **Liquid** <br/> Frequency of purchase decision | `0.01` | People rarely change their website platform. |
-| **Eager** *(identity)* <br/> Attitude towards your company | `0.5` | Could argue that it is `1.0` today because of our leadership position, but ten years ago we were one option among several, all of which were viable for many customers. |
-| **Eager** *(comparative)* <br/> Competitive differentiation | `0.5` | We have many capabilities and features that are either unique or we are the best, but competitors have other advantages, whether in features or price or geography. |
-| **Enduring** <br/> Will they still be here a year from now? | `1.0` | Today we easily justify this with our world-class retention metrics across 16 years of customer data, however even early on we saw high retention, and comparables also have high retention. |
+| المعايير | النتيجة | التبرير | |:----|:---:|:----| | **معقول** <br/> عدد الشركات التي لديها المشكلة | `100 م` | هناك [334 مليون](https://www.businessdit.com/how-many-businesses-are-there-in-the-world/) أنشطة تجارية في العالم، [71%](https://www.zippia.com/advice/online-business-statistics/) منها لديها موقع على الويب. [43%](https://w3techs.com/technologies/overview/content_management) من مواقع الويب هي WordPress. | | **مدرك لذاته** <br/> على استعداد لحل المشكلة | `0.1` | في حين أن كل من يستخدم WordPress يستضيفه في مكان ما، وغالبًا ما يستخدم الممارسون في الصناعة بائعًا متخصصًا، فإن معظم العملاء المستهدفين لا يهتمون بما يكفي للقيام بأكثر من الحد الأدنى. | | **مربحة** <br/> الميزانية السنوية المخصصة | `100 دولار` | من الصعب القول على مثل هذا السوق الكبير. يمكن للمرء أن يجادل بأن "10 دولارات" أكثر دقة لأن معظم الشركات صغيرة ومعظمها لا يشتري أشياء أمريكية باهظة الثمن. | | **السائل** <br/> تكرار قرار الشراء | `0.01` | نادرًا ما يغير الأشخاص منصة موقعهم الإلكتروني. | | **الحرص** *(الهوية)* <br/> الموقف تجاه شركتك | `0.5` | يمكن القول بأن الرقم هو "1.0" اليوم بسبب موقعنا القيادي، ولكن قبل عشر سنوات كنا خيارًا واحدًا من بين عدة خيارات، وكلها كانت قابلة للتطبيق للعديد من العملاء. | | **الحرص** *(المقارنة)* <br/> التمايز التنافسي | `0.5` | لدينا العديد من الإمكانيات والمميزات التي إما فريدة من نوعها أو أننا الأفضل، ولكن المنافسين لديهم مزايا أخرى سواء في الميزات أو السعر أو الجغرافيا. | | **دائم** <br/> هل سيظلون هنا بعد عام من الآن؟ | `1.0` | اليوم، نبرر ذلك بسهولة من خلال مقاييس الاحتفاظ ذات المستوى العالمي لدينا عبر 16 عامًا من بيانات العملاء، ولكن حتى في وقت مبكر شهدنا معدل احتفاظ مرتفع، كما أن المقارنات تتمتع أيضًا بمعدل احتفاظ مرتفع. |
 
-Score = `2,500,000 / 625,000 =` **4**, so it qualifies as a scale-up, and indeed that's what happened.
+النتيجة = `2,500,000 / 625,000 =` **4**، لذا فهي مؤهلة للتوسيع، وهذا ما حدث بالفعل.
 
-Let's try it again with an indie startup: [ConvertKit](https://convertkit.com/), a email marketing product competing with giants like Constant Contact and newcomers like Substack, designed to help you grow and then monetize your subscribers. They target creators who want to monetize their newsletters, not "anyone and everyone," which reduces the target market but increases willingness-to-pay.
+دعونا نجرب ذلك مرة أخرى مع شركة ناشئة مستقلة: [ConvertKit](https://convertkit.com/)، وهو منتج تسويق عبر البريد الإلكتروني يتنافس مع عمالقة مثل Constant Contact والوافدين الجدد مثل Substack، وهو مصمم لمساعدتك على النمو ثم تحقيق الدخل من المشتركين لديك. إنهم يستهدفون منشئي المحتوى الذين يرغبون في تحقيق الدخل من رسائلهم الإخبارية، وليس "أي شخص وكل شخص"، مما يقلل من السوق المستهدفة ولكنه يزيد من الاستعداد للدفع.
 
-| Criteria | Score | Justification |
-|:----|:---:|:----|
-| **Plausible** <br/> Number of people who have the problem | `10M` | There are tens of millions of newsletters using competing products. |
-| **Self-Aware** <br/> Willing to solve the problem | `1.0` | This is well-known as a best-practice, with multiple at-scale companies serving a mature market. |
-| **Lucrative** <br/> Annual allocated budget | `$100` | Customers with complex workflows and many thousands of subscribers will pay more, but most customers aren't in that category, and might pay $9/mo.[^22] |
-| **Liquid** <br/> Frequency of purchase decision | `0.01` | Customers buy newsletter software and then want to just use it, not be switching |
-| **Eager** *(identity)* <br/> Attitude towards your company | `0.5` | The founder was well-known among other indie founders, however in the broader market there's no reason not to trust them, but no particular mission-driven reason to pick them either. |
-| **Eager** *(comparative)* <br/> Competitive differentiation | `0.5` | Most features are similar, but there are interesting things at the margins for routing readers through flows and monetizing content, whereas more generic newsletter products don't have as many tools for direct monetization. |
-| **Enduring** <br/> Will they still be here a year from now? | `0.5` | For the customers who avail themselves of complex automations, this would be a `1.0`; most people will probably use it as a normal newsletter, with a simple follow-up flow that competitors also provide. |
+| المعايير | النتيجة | التبرير | |:----|:---:|:----| | **معقول** <br/> عدد الأشخاص الذين يعانون من المشكلة | `10M` | هناك عشرات الملايين من النشرات الإخبارية التي تستخدم منتجات منافسة. | | **مدرك لذاته** <br/> على استعداد لحل المشكلة | `1.0` | يُعرف هذا بأنه أفضل الممارسات، حيث تخدم العديد من الشركات واسعة النطاق سوقًا ناضجة. | | **مربحة** <br/> الميزانية السنوية المخصصة | `100 دولار` | العملاء الذين لديهم عمليات سير عمل معقدة وعدة آلاف من المشتركين سيدفعون أكثر، ولكن معظم العملاء ليسوا ضمن هذه الفئة، وقد يدفعون 9 دولارات شهريًا.[^22] | | **السائل** <br/> تكرار قرار الشراء | `0.01` | يشتري العملاء برامج الرسائل الإخبارية ثم يريدون استخدامها فقط، وليس التبديل | | **الحرص** *(الهوية)* <br/> الموقف تجاه شركتك | `0.5` | كان المؤسس معروفًا بين مؤسسي الشركات المستقلة الأخرى، ولكن في السوق الأوسع لا يوجد سبب لعدم الثقة بهم، ولكن لا يوجد سبب محدد مدفوع بالمهمة لاختيارهم أيضًا. | | **الحرص** *(المقارنة)* <br/> التمايز التنافسي | `0.5` | تتشابه معظم الميزات، ولكن هناك أشياء مثيرة للاهتمام على الهوامش لتوجيه القراء عبر التدفقات وتحقيق الدخل من المحتوى، في حين أن منتجات الرسائل الإخبارية الأكثر عمومية لا تحتوي على العديد من الأدوات لتحقيق الدخل المباشر. | | **دائم** <br/> هل سيظلون هنا بعد عام من الآن؟ | `0.5` | بالنسبة للعملاء الذين يستفيدون من عمليات الأتمتة المعقدة، سيكون هذا بمثابة "1.0"؛ من المحتمل أن يستخدمها معظم الأشخاص كرسالة إخبارية عادية، مع تدفق متابعة بسيط يقدمه المنافسون أيضًا. |
 
-[^22]: Alternately, you could focus on the customers who pay more; you might then reduce the "number of people who have the problem" to `1M`, and the annual budget to `$1000`. While results in same score, it's a different product, serving a different market, so this is an important decision.
+[^22]: بدلاً من ذلك، يمكنك التركيز على العملاء الذين يدفعون أكثر؛ يمكنك بعد ذلك تقليل "عدد الأشخاص الذين لديهم المشكلة" إلى "مليون"، والميزانية السنوية إلى "1000 دولار". على الرغم من أن النتيجة هي نفس النتيجة، إلا أنها منتج مختلف يخدم سوقًا مختلفة، لذلك يعد هذا قرارًا مهمًا.
 
-Score = `1,250,000 / 625,000 =` **2**. This is a good business model, possibly even a scale-up, and indeed ConvertKit grew quickly as a bootstrapped company, and while not a Unicorn, is an order of magnitude larger than most small businesses ever become.
+النتيجة = `1,250,000 / 625,000 =` **2**. يعد هذا نموذجًا تجاريًا جيدًا، وربما حتى توسيع نطاقه، وبالفعل نمت شركة ConvertKit بسرعة كشركة ذات تمويل تمهيدي، وعلى الرغم من أنها ليست شركة Unicorn، إلا أنها أكبر حجمًا مما أصبحت عليه معظم الشركات الصغيرة على الإطلاق.
 
-Finally, let's take the case of selling security software to consumers. This is a tough market; there are success stories (e.g. Norton, 1Password, Cloudflare), but it's hard to find small indie companies who are successful in this area (whereas it's easy to find successful indie WordPress hosting companies):
+أخيرًا، لنأخذ حالة بيع برامج الأمان للمستهلكين. هذا سوق صعب. هناك قصص نجاح (مثل Norton، و1Password، وCloudflare)، ولكن من الصعب العثور على شركات مستقلة صغيرة ناجحة في هذا المجال (في حين أنه من السهل العثور على شركات استضافة WordPress مستقلة ناجحة):
 
-| Criteria | Score | Justification |
-|:----|:---:|:----|
-| **Plausible** <br/> Number of people who have the problem | `1B` | There are [~5B](https://www.statista.com/statistics/617136/digital-population-worldwide/) people online today, who might have online security concerns |
-| **Self-Aware** <br/> Willing to solve the problem | `0.01` | Have you bought special security software for an online project? Almost no consumer does. |
-| **Lucrative** <br/> Annual allocated budget | `$10` | Consumers don't pay much for things, and globally consumers spend far less on average than Americans on equivalent online goods; arguably this should even be `$1`. |
-| **Liquid** <br/> Frequency of purchase decision | `0.01` | Consumers are rarely in the market. |
-| **Eager** *(identity)* <br/> Attitude towards your company | `0.5` | Unclear without specifics, we'll be generous and assume you can earn trust despite being an unknown brand. |
-| **Eager** *(comparative)* <br/> Competitive differentiation | `0.1` | Consumer-grade security products are undifferentiated. |
-| **Enduring** <br/> Will they still be here a year from now? | `0.5` | Consumers cancel at higher rates than businesses, but at a low price this could be something that is easy to maintain; industry data would be helpful. |
+| المعايير | النتيجة | التبرير | |:----|:---:|:----| | **معقول** <br/> عدد الأشخاص الذين يعانون من المشكلة | `1ب` | يوجد [~5 مليار](https://www.statista.com/statistics/617136/digital-population-worldwide/) أشخاص متصلين بالإنترنت اليوم، والذين قد تكون لديهم مخاوف أمنية عبر الإنترنت | | **مدرك لذاته** <br/> على استعداد لحل المشكلة | `0.01` | هل اشتريت برنامج أمان خاصًا لمشروع عبر الإنترنت؟ تقريبا لا يوجد مستهلك يفعل ذلك. | | **مربحة** <br/> الميزانية السنوية المخصصة | `10 دولارات` | لا يدفع المستهلكون الكثير مقابل الأشياء، وينفق المستهلكون على مستوى العالم أقل بكثير في المتوسط ​​من الأمريكيين على السلع المماثلة عبر الإنترنت؛ يمكن القول أن هذا يجب أن يكون `$1`. | | **السائل** <br/> تكرار قرار الشراء | `0.01` | نادرا ما يكون المستهلكون في السوق. | | **الحرص** *(الهوية)* <br/> الموقف تجاه شركتك | `0.5` | غير واضح بدون تفاصيل، سنكون كرماء ونفترض أنه يمكنك كسب الثقة على الرغم من كونك علامة تجارية غير معروفة. | | **الحرص** *(المقارنة)* <br/> التمايز التنافسي | `0.1` | منتجات الأمان المخصصة للمستهلكين غير متمايزة. | | **دائم** <br/> هل سيظلون هنا بعد عام من الآن؟ | `0.5` | يقوم المستهلكون بالإلغاء بمعدلات أعلى من الشركات، ولكن بسعر منخفض قد يكون هذا أمرًا يسهل الحفاظ عليه؛ بيانات الصناعة ستكون مفيدة. |
 
-Score = `25,000 / 625,000 =` **0.04**. This is not a good business model.
+النتيجة = `25,000 / 625,000 =` **0.04**. هذا ليس نموذج عمل جيد.
 
-*But there's hope...*
+*لكن هناك أمل...*
 
 ![why no one likes math branding issue everythings a problem](https://public.asmartbear.com/books/anthology/chapters/problem/d8144print-simple.png)
 
-### What to do with a negative answer
+### ما يجب القيام به مع إجابة سلبية
 
-We don't have to give up just yet.
+ليس علينا أن نستسلم بعد.
 
-What if the security company targets high-net-worth individuals instead of "everyone?" The "number of people" would fall to `1,000,000`, but willingness to solve the problem might rise to `1.0`, and budget certainly rises to `$100` if not `$1000`. The orders of magnitude can change dramatically, which might reveal a workable model.
+ماذا لو كانت شركة الأمن تستهدف الأفراد ذوي الثروات العالية بدلاً من "الجميع"؟ سينخفض ​​"عدد الأشخاص" إلى "1,000,000"، ولكن الاستعداد لحل المشكلة قد يرتفع إلى "1.0"، ومن المؤكد أن الميزانية ترتفع إلى "100 دولار" إن لم يكن "1000 دولار". يمكن أن تتغير ترتيبات الحجم بشكل كبير، مما قد يكشف عن نموذج عملي.
 
-What if the security company targets mid-sized businesses? The number of organizations is smaller than the number of consumers (but is still large), willingness to solve is very high (they have security policies and fear of the downside of a security incident), budgets are substantial, and so on.
+ماذا لو كانت شركة الأمن تستهدف الشركات متوسطة الحجم؟ عدد المنظمات أصغر من عدد المستهلكين (لكنه لا يزال كبيرًا)، والاستعداد للحل مرتفع جدًا (لديهم سياسات أمنية ويخافون من الجانب السلبي لحادث أمني)، والميزانيات كبيرة، وما إلى ذلك.
 
-In general, **targeting a niche often results in a better business model**, because although it reduces the number of target customers, it can increase several other numbers. This is very often the right answer whether your goal is to build a small, profitable, sustainable business (in which you stay in that niche forever) or a large multi-billion-dollar enterprise (in which the niche is your way to get started, and you expand the target market over time).
+بشكل عام، **غالبًا ما يؤدي استهداف قطاع ما إلى نموذج عمل أفضل**، لأنه على الرغم من أنه يقلل عدد العملاء المستهدفين، إلا أنه يمكن أن يزيد العديد من الأرقام الأخرى. غالبًا ما تكون هذه هي الإجابة الصحيحة سواء كان هدفك هو بناء مشروع تجاري صغير ومربح ومستدام (حيث يمكنك البقاء في هذا المجال إلى الأبد) أو مؤسسة كبيرة بمليارات الدولارات (حيث يكون هذا المجال هو طريقك للبدء، ويمكنك توسيع السوق المستهدف بمرور الوقت).
 
-> "I'd rather be wrong than do something wrong."  
-> --Larry Ellison
+> "أفضل أن أكون مخطئًا على أن أفعل شيئًا خاطئًا."
+> -- لاري إليسون
 
-**Or, finally, your business idea might simply not be viable.** That is a sad and tough [reality to face](https://longform.asmartbear.com/failure-to-face-the-truth/), but it's better to figure that out early, so you can spend your time finding a new idea.
+**أو، أخيرًا، قد لا تكون فكرة نشاطك التجاري قابلة للتطبيق.** هذا أمر محزن وصعب [واقع يجب مواجهته](https://longform.asmartbear.com/failure-to-face-the-truth/)، ولكن من الأفضل اكتشاف ذلك مبكرًا، حتى تتمكن من قضاء وقتك في البحث عن فكرة جديدة.
 
-I hope this framework helps you build a winning strategy!
+آمل أن يساعدك هذا الإطار في بناء استراتيجية رابحة!
 
-## Further Reading
+## مزيد من القراءة
 
-* [Five ways to build a $100M business](https://christophjanz.blogspot.com/2019/04/five-years-later-five-ways-to-build-100.html), the classic by Christoph Janz that uses five animals to show the different orders-of-magnitude of price versus size of company and quantity of those companies (Figure 3). This is equivalent to two of our rubric lines.
+* [خمس طرق لإنشاء مشروع تجاري بقيمة 100 مليون دولار](https://christophjanz.blogspot.com/2019/04/five-years-later-five-ways-to-build-100.html)، وهو كتاب كلاسيكي لكريستوف جانز يستخدم خمسة حيوانات لإظهار الترتيبات المختلفة من حيث الحجم للسعر مقابل حجم الشركة وكمية تلك الشركات (الشكل 3). وهذا يعادل اثنين من خطوط التقييم لدينا.
 
 ![Five ways to build a $100M SaaS business, in the form of analogy to five animals](https://public.asmartbear.com/books/anthology/chapters/problem/new5ways-001-simple.png)
 
-* [Pricing determines your business model](https://longform.asmartbear.com/pricing-determines-your-business-model/): How orders-of-magnitude in pricing changes your product and target market.
-* How to use the [Needs Stack](https://longform.asmartbear.com/needs-stack/) to determine both features and benefits that make sense for your customers.
-* The factors that cause customers to be [willing to pay more](https://longform.asmartbear.com/willingness-to-pay/) for a product.
-* Trading off [many customers at low price-points versus few at high price-points](https://longform.asmartbear.com/price-vs-quantity/).
-* Why [selling to the mid-market](https://longform.asmartbear.com/mid-market/) can be the "worst of both worlds."
-* [How small companies can win against Enterprise incumbents](https://longform.asmartbear.com/competing-big-companies/).
-* [Selling to Carol](https://longform.asmartbear.com/icp-ideal-customer-persona/): How targeting your one "perfect" customer is the right way to market in general.
+* [يحدد التسعير نموذج نشاطك التجاري](https://longform.asmartbear.com/pricing-determines-your-business-model/): كيف تؤدي الطلبات ذات الحجم الكبير في التسعير إلى تغيير منتجك والسوق المستهدف.
+* كيفية استخدام [Needs Stack](https://longform.asmartbear.com/needs-stack/) لتحديد الميزات والفوائد التي تناسب عملائك.
+* العوامل التي تجعل العملاء [على استعداد لدفع المزيد](https://longform.asmartbear.com/willingness-to-pay/) مقابل المنتج.
+* تداول [العديد من العملاء بنقاط سعر منخفضة مقابل عدد قليل من العملاء بنقاط سعر مرتفعة](https://longform.asmartbear.com/price-vs-quantity/).
+* لماذا يمكن أن يكون [البيع للسوق المتوسطة](https://longform.asmartbear.com/mid-market/) "الأسوأ في كلا العالمين".
+* [كيف يمكن للشركات الصغيرة أن تفوز على الشركات القائمة في المؤسسات](https://longform.asmartbear.com/competing-big-companies/).
+* [البيع لكارول](https://longform.asmartbear.com/icp-ideal-customer-persona/): كيف أن استهداف عميلك "المثالي" هو الطريقة الصحيحة للتسويق بشكل عام.
 
 ---
 
-*Many thanks to [Daniel Zarick](https://twitter.com/DanielZarick), [KimSia Sim](https://twitter.com/KimStacks), [Matt Wensing](https://twitter.com/mattwensing), [Sam Bhagwat](https://twitter.com/calcsam), [Tony Meijer](https://twitter.com/Tony_Meijer), and [Willis F Jackson III](https://twitter.com/wfjackson3) for contributing their insights to early drafts, and to Daniel Veihelmann for the [online calculator](https://www.codelantis.com/blog/startup-viability-score).*
+* جزيل الشكر إلى [دانيال زاريك](https://twitter.com/DanielZarick)، و[KimSia Sim](https://twitter.com/KimStacks)، و[مات وينسينغ](https://twitter.com/mattwensing)، و[Sam Bhagwat](https://twitter.com/calcsam)، و[Tony Meijer](https://twitter.com/Tony_Meijer)، و[ويليس F Jackson III](https://twitter.com/wfjackson3) لمساهمتهم بأفكارهم في المسودات المبكرة، وإلى Daniel Veihelmmann لـ [الآلة الحاسبة عبر الإنترنت](https://www.codelantis.com/blog/startup-viability-score).*

@@ -20,58 +20,45 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الندوب الريادية: الدروس التي لا تتعلمها إلا بعد أن تُجرح في السوق تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Scars
-
-> **Executive Summary:** Our emotional baggage and experience make us unique, but also serve as blinders.
-> **Original URL:** [https://longform.asmartbear.com/scars/](https://longform.asmartbear.com/scars/)
-
 ![insecurity desk](https://public.asmartbear.com/books/anthology/chapters/scars/d1505print-simple.png)
 
-I have a scraggly patch of hair on my right calf from when I scraped off a swath of skin in an Ultimate Frisbee tournament. (I made the catch for the score. My wife asked "Was it worth it?")
+لديّ رقعة متناثرة من الشعر على ساقي اليمنى منذ أن قمت بكشط قطعة من الجلد في بطولة Ultimate Frisbee. (لقد حققت النتيجة. وسألت زوجتي "هل كان الأمر يستحق ذلك؟")
 
-We all have scars. The interesting ones aren't physical, and are more subtly revealed. It's the guy who's a little *too* steadfast in his claim that "VCs are evil." It's the founder who says she doesn't need to talk to customers before embarking on a $200,000 development project because "customers don't know what they want until you show it to them." It's the developer who is sure that "Java sucks."
+لدينا جميعا ندوب. الأشياء المثيرة للاهتمام ليست جسدية، ويتم الكشف عنها بمهارة أكبر. إنه الرجل الثابت قليلاً في ادعائه بأن "رأس المال الاستثماري شرير". إنها المؤسس التي تقول إنها لا تحتاج إلى التحدث إلى العملاء قبل الشروع في مشروع تطوير بقيمة 200 ألف دولار لأن "العملاء لا يعرفون ما يريدون حتى تظهره لهم". إنه المطور الذي كان على يقين من أن "جافا سيئة".
 
-Scars are part of what makes us unique.
+الندوب هي جزء مما يجعلنا فريدين.
 
-Dwelling on our peculiar trauma is a comforting way to develop that uniqueness.
 
-> "I like scars. <br/> I want to remember. <br/> I want to feel blood and tears. <br/> I want it to feel tender. <br/> I'm watermarked, just like forever."  
-> --[Matt the Electrician](https://www.matttheelectrician.com/), *Home*
 
-**That uniqueness is good**, or [so says most advice](https://longform.asmartbear.com/leverage/). Embrace your scars, embrace your identity, own it completely, and suddenly you've solved one of the key riddles in life, not just in startups: [Who am I](https://longform.asmartbear.com/be-yourself/)? [What should I be doing](https://longform.asmartbear.com/fulfillment/)? How is that different from who anyone else is? [How do I communicate this](https://longform.asmartbear.com/authentic/)?
+> "أنا أحب الندوب. <br/> أريد أن أتذكر. <br/> أريد أن أشعر بالدم والدموع. <br/> أريد أن أشعر بالحنان. <br/> لقد وضعت علامة مائية، تمامًا مثل الأبد."
+> --[مات الكهربائي](https://www.matttheelectrician.com/)، *الصفحة الرئيسية*
 
-Some of my baggage, however, is a hindrance, whether or not it's also busy "defining me." I still find myself sometimes running [WP Engine](https://wpengine.com/) like the bootstrapped startup that it was for the first 18 months of its life, instead of the funded growth machine that it evolved into.
+**هذا التفرد أمر جيد**، أو [هكذا تقول معظم النصائح](https://longform.asmartbear.com/leverage/). احتضن ندوبك، واحتضن هويتك، وامتلكها بالكامل، وفجأة تكون قد حللت أحد الألغاز الرئيسية في الحياة، وليس فقط في الشركات الناشئة: [من أنا](https://longform.asmartbear.com/be-yourself/)؟ [ماذا يجب أن أفعل](https://longform.asmartbear.com/fulfillment/)؟ كيف يختلف ذلك عن أي شخص آخر؟ [كيف يمكنني توصيل هذا](https://longform.asmartbear.com/authentic/)؟
 
-For example, last week I spent about 10 hours saving about $1000/mo in hosting costs. Not bad, you say, that's $1000/mo right into your pocket! You can even make a financial argument: That's 10 hours to earn $12,000 over the next year, which means my time was worth over $1000/hour, and [that's a good hourly rate](https://longform.asmartbear.com/value-time/) no matter what.
+ومع ذلك، فإن بعض أمتعتي تشكل عائقًا، سواء كانت مشغولة أيضًا بـ "تعريفي" أم لا. ما زلت أجد نفسي أحيانًا أدير [WP Engine](https://wpengine.com/) مثل الشركة الناشئة التي تم تشغيلها خلال أول 18 شهرًا من عمرها، بدلاً من آلة النمو الممولة التي تطورت إليها.
 
-**No, not no matter what.** I could have used those 10 hours to make it easier to share a [website speed report](https://speed.wpengine.com/), and that might have resulted in 1000 people trying it over the next year, 10 of which end up moving their WordPress site to our platform, and a few consultants who collectively put 20 of their clients on us. Even at $50/mo, that's 30 × $50 = $1500/mo in direct new revenue plus side benefits in marketing and branding.
+على سبيل المثال، قضيت الأسبوع الماضي حوالي 10 ساعات في توفير حوالي 1000 دولار شهريًا من تكاليف الاستضافة. ليس سيئًا، كما تقول، فهذا يعني أن 1000 دولار شهريًا في جيبك! يمكنك أيضًا تقديم حجة مالية: هذه 10 ساعات لكسب 12000 دولار خلال العام التالي، مما يعني أن وقتي كان يساوي أكثر من 1000 دولار في الساعة، و[هذا معدل جيد للساعة](https://longform.asmartbear.com/value-time/) بغض النظر عن الأمر.
 
-If you're bootstrapping, getting that $1000/mo *right now* [is the better choice](https://longform.asmartbear.com/annual-prepay/). Money is scarce, time is precious, and $1000 today is better than $5000 next year (which you might not survive to see).
+**لا، لا يهم.** كان بإمكاني استغلال تلك الساعات العشر لتسهيل مشاركة [تقرير سرعة موقع الويب](https://speed.wpengine.com/)، وربما أدى ذلك إلى تجربة 1000 شخص له خلال العام التالي، حيث انتهى 10 منهم بنقل موقع WordPress الخاص بهم إلى نظامنا الأساسي، وعدد قليل من المستشارين الذين ضموا 20 من عملائهم إلينا. حتى بسعر 50 دولارًا شهريًا، يكون هذا 30 × 50 دولارًا = 1500 دولارًا شهريًا من الإيرادات الجديدة المباشرة بالإضافة إلى الفوائد الجانبية في التسويق والعلامة التجارية.
 
-But if you do have money in the bank it's just the opposite. [The whole point of an investment](https://longform.asmartbear.com/investment/) is to turn "money today" into long-term value, meaning a growing, profitable, predictable revenue machine.
+إذا كنت تقوم بالتمهيد، فإن الحصول على مبلغ 1000 دولار شهريًا *الآن* [هو الخيار الأفضل](https://longform.asmartbear.com/annual-prepay/). المال نادر، والوقت ثمين، و1000 دولار اليوم أفضل من 5000 دولار في العام المقبل (وهو ما قد لا تتمكن من رؤيته).
 
-So even if you know your scars, embrace them, and have perfect rationalization of why every decision is the correct one for you, it *still* might be wrong.
+لكن إذا كان لديك أموال في البنك فالأمر عكس ذلك تمامًا. [الهدف الأساسي من الاستثمار](https://longform.asmartbear.com/investment/) هو تحويل "أموال اليوم" إلى قيمة طويلة الأجل، مما يعني آلة إيرادات متنامية ومربحة ويمكن التنبؤ بها.
 
-What can you do to mitigate this?
+لذلك، حتى لو كنت تعرف ندوبك، وتتقبلها، ولديك تبرير كامل لسبب كون كل قرار هو القرار الصحيح بالنسبة لك، *لا يزال* قد يكون خاطئًا.
 
-First, you have to decide what your core beliefs are: The inalienable tenets by which you want to live your life, no matter what--even if it means making less money, or increasing risk, or hurting your brand, or hurting your feelings, or limiting your fame, or closing doors, or losing relationships. The things that you believe so strongly, that if a relationship were contrary to it, then it's the relationship that is wrong, and thus it's good that it dissolves; that if making money a certain way is contrary to it, then you don't want to make money that way. These are your core values, and also form the basis of the cultural values of your company. This is [who you are](https://longform.asmartbear.com/identity-selling-sadness/).
+ماذا يمكنك أن تفعل للتخفيف من هذا؟
 
-Second, you ensure your [startup journey](https://longform.asmartbear.com/success-guaranteed/) conforms to these values, as well as your natural strengths and weaknesses. Decide to build a company in which the correct, consistent decisions are the ones you'll naturally take. If you love optimizing the last dollar out of the process--as I apparently do--build a bootstrapped company. If you don't like working with people, be a Micropreneur like [Rob](https://robwalling.com/) and [Patrick](https://www.kalzumeus.com/). If you want to leave a mark on the world, have big ideas with lots of people and lots of money, seek advice from those who have walked that particular path before you, who [help you become a better version of yourself](https://longform.asmartbear.com/bad-advice/), rather than pushing you to be something "rational" but unnatural.
+أولاً، عليك أن تقرر ما هي معتقداتك الأساسية: المبادئ غير القابلة للتصرف التي تريد أن تعيش حياتك وفقًا لها، بغض النظر عن ذلك - حتى لو كان ذلك يعني كسب أموال أقل، أو زيادة المخاطر، أو الإضرار بعلامتك التجارية، أو إيذاء مشاعرك، أو الحد من شهرتك، أو إغلاق الأبواب، أو فقدان العلاقات. الأشياء التي تؤمن بها بشدة، أنه إذا كانت العلاقة تتعارض معها، فهذه العلاقة خاطئة، وبالتالي من الجيد أن تذوب؛ أنه إذا كان كسب المال بطريقة معينة يتعارض معها، فأنت لا تريد كسب المال بهذه الطريقة. هذه هي قيمك الأساسية، وتشكل أيضًا أساس القيم الثقافية لشركتك. هذا هو [من أنت](https://longform.asmartbear.com/identity-sale-sadness/).
 
-Third, use this as a guide for interacting with the rest of the world. Having defined "yourself," and made decisions consistent with that, you have to find out where you are wrong, where you're ignorant, where you're doing the wrong thing according to your own definition of "right." You can't do that alone, almost by definition; otherwise you would already have fixed the problem. So do what I'm doing now: Surround yourself with trusted advisors and be completely and continuously honest with them, then actually listen and learn. I know I'm naturally a bootstrapper, a "get to the first $10M in ARR, but only after seven years, and then what?" type of person, so I know I need constant course corrections.
+ثانيًا، عليك التأكد من أن [رحلة بدء التشغيل](https://longform.asmartbear.com/success-guaranteed/) تتوافق مع هذه القيم، بالإضافة إلى نقاط القوة والضعف الطبيعية لديك. قرر إنشاء شركة تكون فيها القرارات الصحيحة والمتسقة هي تلك التي ستتخذها بشكل طبيعي. إذا كنت تحب تحسين آخر دولار من هذه العملية - كما أفعل على ما يبدو - قم ببناء شركة ذات تمويل مسبق. إذا كنت لا تحب العمل مع الناس، كن رائد أعمال صغيرًا مثل [Rob](https://robwalling.com/) و[Patrick](https://www.kalzumeus.com/). إذا كنت تريد ترك بصمة في العالم، ولديك أفكار كبيرة مع الكثير من الأشخاص والكثير من المال، فاطلب النصيحة من أولئك الذين ساروا في هذا الطريق بالذات قبلك، والذين [يساعدونك على أن تصبح نسخة أفضل من نفسك](https://longform.asmartbear.com/bad-advice/)، بدلاً من دفعك إلى أن تكون شيئًا "عقلانيًا" ولكن غير طبيعي.
 
-Escape the echo chamber of your own head. Because, as in the example above, you **cannot know you're wrong**. Not even if, like me, you're [proactively introspective](https://longform.asmartbear.com/failure-to-face-the-truth/), escaped the clutches of [Impostor Syndrome](https://longform.asmartbear.com/impostor-syndrome/), and have a few successful startups under your belt.
+ثالثًا، استخدم هذا كدليل للتفاعل مع بقية العالم. بعد أن حددت "نفسك"، واتخذت قرارات متسقة مع ذلك، عليك أن تكتشف أين أنت مخطئ، وأين أنت جاهل، وأين تفعل الشيء الخطأ وفقًا لتعريفك الخاص لـ "الصواب". لا يمكنك القيام بذلك بمفردك، بحكم التعريف تقريبًا؛ وإلا لكنت قد أصلحت المشكلة بالفعل. لذا افعل ما أفعله الآن: أحط نفسك بالمستشارين الموثوق بهم وكن صادقًا معهم بشكل كامل ومستمر، ثم استمع وتعلم بالفعل. أعلم أنني بطبيعتي مبتدئ، "أحصل على أول 10 ملايين دولار في ARR، ولكن فقط بعد سبع سنوات، وماذا بعد ذلك؟" نوع الشخص، لذلك أعلم أنني بحاجة إلى تصحيحات مستمرة للمسار.
 
-So embrace your scars, let them lead you to who you are and what you believe, construct your life, relationships, and organizations around those, but then with that solid foundation, seek (compatible!) guidance on how you can execute on that despite the weaknesses and blind spots and flaws that those same scars create for you.
+الهروب من غرفة الصدى في رأسك. لأنه، كما في المثال أعلاه، **لا يمكنك معرفة أنك مخطئ**. ولا حتى لو كنت، مثلي، [متأملًا بشكل استباقي](https://longform.asmartbear.com/failure-to-face-the-truth/)، وهربت من براثن [متلازمة المنتحل](https://longform.asmartbear.com/impostor-syndrome/)، ولديك عدد قليل من الشركات الناشئة الناجحة تحت حزامك.
 
-You are your scars.
+لذا احتضن ندوبك، ودعها تقودك إلى هويتك وما تؤمن به، وقم ببناء حياتك وعلاقاتك ومؤسساتك حولها، ولكن بعد ذلك باستخدام هذا الأساس المتين، ابحث عن إرشادات (متوافقة!) حول كيفية تنفيذ ذلك على الرغم من نقاط الضعف والنقاط العمياء والعيوب التي تخلقها لك تلك الندبات نفسها.
 
-But you're also more than that.
+أنت ندوبك.
+
+لكنك أيضًا أكثر من ذلك.

@@ -20,35 +20,22 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** التوازن حالة ضعف وهشاشة، بينما الشد والتناغم التنافسي قوة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Balance is weak. Tension is strong.
-
-> **Executive Summary:** Balance is fragile. Tension is strong
-> **Original URL:** [https://longform.asmartbear.com/balance-vs-tension/](https://longform.asmartbear.com/balance-vs-tension/)
-
 ![Cartoon c7efd6f0](https://longform.asmartbear.com/balance-vs-tension/62da757a.png)
 
-Objects in tenuous balance will tumble at the slightest nudge.
+سوف تتعثر الأجسام ذات التوازن الهش عند أدنى دفعة.
 
-Objects in tension, on the other hand, are strong.
+ومن ناحية أخرى، فإن الأجسام المتوترة تكون قوية.
 
-When you fire a gun you pull with one hand while pushing with the other because in tension there is stability. A pull-up bar in a doorframe can hold 200 pounds because it's in tension, not in balance. Ethernet contains a pair of wires twisted together, electrons moving in opposing directions; their opposing magnetic fields cancel each other but also act as a shield to foreign fields that would otherwise disrupt the electrons' movements.
+عندما تطلق النار من مسدس فإنك تسحب بيد واحدة بينما تدفع باليد الأخرى لأنه في حالة التوتر يكون هناك ثبات. يمكن لقضيب السحب الموجود في إطار الباب أن يحمل 200 رطل لأنه في حالة توتر وليس في توازن. تحتوي شبكة الإيثرنت على زوج من الأسلاك الملتوية معًا، وتتحرك الإلكترونات في اتجاهات متعاكسة؛ تلغي مجالاتها المغناطيسية المتعارضة بعضها البعض ولكنها تعمل أيضًا كدرع للمجالات الأجنبية التي قد تؤدي إلى تعطيل حركات الإلكترونات.
 
-It's often said that "extremes are bad" and thus you should "[seek balance](https://longform.asmartbear.com/conflicting-choices/)." But balance is fragile; it's the wrong thing to seek.
+يُقال غالبًا أن "التطرف سيء" وبالتالي يجب عليك "[البحث عن التوازن](https://longform.asmartbear.com/conflicting-choices/)." لكن التوازن هش. فمن الخطأ أن نسعى إليه.
 
-Seeking tension means taking two strong stances, letting each thrive while keeping the other in check.
+إن البحث عن التوتر يعني اتخاذ موقفين قويين، والسماح لكل منهما بالازدهار مع إبقاء الآخر تحت السيطرة.
 
-Seeking balance means starting with two strong stances, then stripping out the powerful bits until both are weak enough to coexist in a gutless truce.
+إن البحث عن التوازن يعني البدء بموقفين قويين، ثم التخلص من الأجزاء القوية حتى يصبح كلاهما ضعيفاً بما يكفي للتعايش في هدنة جريئة.
 
-Seeking tension in co-founders or team members means extracting [everyone's best](https://longform.asmartbear.com/imbalanced-people/) while maintaining decorum and respect. A team wielding excellence, coordinated across multiple areas of expertise, is formidable.
+إن البحث عن التوتر لدى المؤسسين المشاركين أو أعضاء الفريق يعني استخراج [أفضل ما لدى الجميع](https://longform.asmartbear.com/imbalanced-people/) مع الحفاظ على اللياقة والاحترام. إن الفريق الذي يتمتع بالتميز، والمنسق عبر مجالات متعددة من الخبرة، هو أمر هائل.
 
-Seeking balance in a team means sanding objections off your ideas until the committee converges, not on the most powerful possibility, but on a [grey, uninspiring average that is disagreeable to no one](https://longform.asmartbear.com/wisdom-of-crowds/) only because it's empty of meaning.
+إن البحث عن التوازن في الفريق يعني التخلص من الاعتراضات على أفكارك حتى تتقارب اللجنة، ليس على أقوى الاحتمالات، ولكن على [متوسط ​​رمادي غير ملهم لا يرفضه أحد] (https://longform.asmartbear.com/wisdom-of-crowds/) فقط لأنه خالي من المعنى.
 
-[Extremes can be reckless](https://longform.asmartbear.com/copy-number-one/), but the powerful middle way arises from tension, not balance.
+[يمكن أن تكون التطرفات متهورة](https://longform.asmartbear.com/copy-number-one/)، ولكن الطريق الوسط القوي ينشأ من التوتر، وليس من التوازن.

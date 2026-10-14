@@ -20,63 +20,50 @@ summary_ar: "Tired of being told you need \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كفى شعوراً بالذنب لعدم كونك خبيراً في كل المجالات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Enough with the "expert" guilt
-
-> **Executive Summary:** Tired of being told you need "10,000 hours" before you can call yourself an "expert," and maybe become a "success?"  Maybe you don't.
-> **Original URL:** [https://longform.asmartbear.com/expert-distraction/](https://longform.asmartbear.com/expert-distraction/)
-
 ![you see any next generation leadership you call me](https://public.asmartbear.com/books/anthology/chapters/expert-distraction/d6018print-simple.png)
 
-I'm sick of being admonished that success is predicated on spending the next 10,000 hours of my life becoming "an expert."
+لقد سئمت من تحذيري من أن النجاح يعتمد على قضاء العشرة آلاف ساعة القادمة من حياتي لكي أصبح "خبيرًا".
 
-I'm sick of hearing about how I should be molding my life in the image of Michael Phelps or Albert Einstein, because the only thing that separates me from genius is identifying my strengths and working really really hard.
+لقد سئمت من سماع كيف يجب أن أشكل حياتي على صورة مايكل فيلبس أو ألبرت أينشتاين، لأن الشيء الوحيد الذي يفصلني عن العبقرية هو تحديد نقاط قوتي والعمل بجد حقًا.
 
-I'm calling bullshit.
+أنا أدعو هراء.
 
-**We're so busy trying to make ourselves into [outliers](https://www.amazon.com/gp/product/0316017922?ie=UTF8&amp%3Btag=asmbe-20&amp%3BlinkCode=as2&amp%3Bcamp=1789&amp%3Bcreative=390957&amp%3BcreativeASIN=0316017922) that we're forgetting about what's important.**
+** نحن مشغولون جدًا بمحاولة جعل أنفسنا كذلك [القيم المتطرفة](https://www.amazon.com/gp/product/0316017922?ie=UTF8&amp%3Btag=asmbe-20&amp%3BlinkCode=as2&amp%3Bcamp=1789&amp%3Bcreative=390957&amp%3BcreativeASIN=0316017922) أننا ننسى ما هو مهم.**
 
-Penelope Trunk pushed me over the edge [when she wrote](https://blog.penelopetrunk.com/2010/01/28/being-an-expert-takes-time-not-talent/) that for the last two years she's been schlepping around a Harvard Business Review article called "The Making of an Expert" because:
+لقد دفعتني بينيلوبي ترانك إلى أبعد الحدود [عندما كتبت] (https://blog.penelopetrunk.com/2010/01/28/being-an-expert-takes-time-not-talent/) أنها كانت تتجول على مدار العامين الماضيين حول مقالة في Harvard Business Review بعنوان "صنع خبير" للأسباب التالية:
 
-> "The article changed how I think about what I am doing here. In my life. I think I'm trying to be an expert.
+> "لقد غير المقال طريقة تفكيري فيما أفعله هنا. في حياتي. أعتقد أنني أحاول أن أكون خبيرًا.
 
-Penelope goes on to equate being an expert to "success," and laments that she isn't an expert in anything, nor is she making headway.
+تستمر بينيلوب في مساواة كونها خبيرة بـ "النجاح"، وتأسف لأنها ليست خبيرة في أي شيء، كما أنها لا تحرز أي تقدم.
 
-I don't know whether this is funny or sad, because she wrote this on her blog--a blog with 48,767 subscribers (at the moment). There are literally a million people trying to be "expert" enough at *anything* to achieve that level of "success," and almost none of them will ever be that "successful."
+لا أعرف ما إذا كان هذا مضحكًا أم محزنًا، لأنها كتبت هذا على مدونتها - وهي مدونة تضم 48.767 مشتركًا (في الوقت الحالي). هناك حرفيًا مليون شخص يحاولون أن يكونوا "خبراء" بدرجة كافية في *أي شيء* لتحقيق هذا المستوى من "النجاح"، ولن يتمكن أي منهم تقريبًا من تحقيق هذا "النجاح".
 
-Oh yeah, and this comes on top of a six-figure book deal and years of writing for teeny inconsequential publications like the Wall Street Journal and Time magazine.
+أوه نعم، ويأتي هذا بالإضافة إلى صفقة كتاب مكونة من ستة أرقام وسنوات من الكتابة لمنشورات صغيرة غير مهمة مثل صحيفة وول ستريت جورنال ومجلة تايم.
 
-**But Penelope considers herself neither a success nor an expert.**
+**لكن بينيلوب لا تعتبر نفسها ناجحة ولا خبيرة.**
 
-Yeah, right. She *is* a success. In fact, don't you agree her problem isn't a lack of expertise but rather that she shares [my irrational yet commonplace feelings of inadequacy](https://longform.asmartbear.com/impostor-syndrome/)?
+نعم صحيح. إنها * ناجحة. في الواقع، ألا توافق على أن مشكلتها لا تكمن في نقص الخبرة، بل في أنها تشاركني [مشاعري غير المنطقية والشائعة بعدم الكفاءة](https://longform.asmartbear.com/impostor-syndrome/)؟
 
-If by her definition she's not even close to being an "expert," **clearly being an expert isn't required for being successful.**
+إذا كانت حسب تعريفها ليست حتى قريبة من كونها "خبير"، **فمن الواضح أن كونها خبيرة ليس شرطًا لتحقيق النجاح.**
 
-She goes on to explain how much effort it takes before you're allowed "expert" status (my emphasis):
+وتستمر في شرح مقدار الجهد الذي يتطلبه الأمر قبل أن يُسمح لك بوضع "الخبير" (تأكيدي):
 
-> "You need to spend at least **ten years** working in a **very focused, everyday** way on the thing you want to be great at. Evidence: high school swimmers today would beat Olympic records from years ago."
+> "أنت بحاجة إلى قضاء **عشر سنوات** على الأقل في العمل بطريقة شديدة التركيز يوميًا** على الشيء الذي تريد أن تكون رائعًا فيه. الدليل: السباحون في المدارس الثانوية اليوم سيحطمون الأرقام القياسية الأولمبية منذ سنوات مضت."
 
-That's not "evidence." There are more high school swimmers than ever, therefore more opportunities to find and train great swimmers. They have access to diet, training, technology, and facilities that didn't exist years ago. That's what it is "evidence" of.
+هذا ليس "دليل". هناك عدد أكبر من السباحين في المدارس الثانوية أكثر من أي وقت مضى، وبالتالي المزيد من الفرص للعثور على السباحين الجيدين وتدريبهم. لديهم إمكانية الوصول إلى النظام الغذائي والتدريب والتكنولوجيا والمرافق التي لم تكن موجودة منذ سنوات. وهذا هو "الدليل" عليه.
 
-And anyway, supposing it does take that much sheer effort, clearly it also takes talent (though she denies this, [as do other](https://freakonomics.blogs.nytimes.com/2006/05/07/freakonomics-in-the-times-magazine-a-star-is-made/), *cough cough*, experts). I'm a case in point: I practiced the piano for an hour a day for more than ten years. I became good, but there were others who practiced twice as much who were worse, and still others who practiced less and are much better.
+وعلى أي حال، لنفترض أن الأمر يتطلب الكثير من الجهد الهائل، فمن الواضح أنه يتطلب أيضًا موهبة (على الرغم من أنها تنفي ذلك، [كما يفعل الآخرون](https://freakonomics.blogs.nytimes.com/2006/05/07/freakonomics-in-the-times-magazine-a-star-is-made/)، *السعال السعال*، الخبراء). أنا مثال على ذلك: لقد تدربت على العزف على البيانو لمدة ساعة يوميًا لأكثر من عشر سنوات. لقد أصبحت جيدًا، ولكن كان هناك آخرون مارسوا ضعف ما كانوا أسوأ منه، وما زال هناك آخرون مارسوا أقل وأصبحوا أفضل بكثير.
 
-We all know this. Why are we allowing people to tell us otherwise?
+نحن جميعا نعرف هذا. لماذا نسمح للناس أن يقولوا لنا خلاف ذلك؟
 
-**Not one of the successful entrepreneurs I know *started* as an expert.** Rather, **career and expertise were developed simultaneously**, eventually resulting in success when coupled with a few key events ([due as much to luck as effort](https://longform.asmartbear.com/lucky/)).
+**لم يبدأ أي من رواد الأعمال الناجحين الذين أعرفهم *كخبير.** بدلاً من ذلك، **تم تطوير الحياة المهنية والخبرة في وقت واحد**، مما أدى في النهاية إلى النجاح عندما اقترن ببعض الأحداث الرئيسية ([يرجع ذلك إلى الحظ بقدر الجهد](https://longform.asmartbear.com/lucky/)).
 
-Pick anyone. Sergey and Larry weren't advertising experts before they started Google. Joel Spolsky wasn't a blogging expert before starting FogCreek. I didn't know anything about peer code review before starting Smart Bear.
+اختر أي شخص. لم يكن سيرجي ولاري خبيرين في الإعلان قبل أن ينشئا شركة Google. لم يكن جويل سبولسكي خبيرًا في التدوين قبل أن يبدأ شركة FogCreek. لم أكن أعرف أي شيء عن مراجعة كود النظراء قبل البدء في Smart Bear.
 
-In fact, in all these cases it would have been impossible to have been an expert! Why? Because Google reinvented advertising, there were no "blogs" when Joel started posting essays, and there was no tool for code review until I invented one.
+وفي الواقع، في كل هذه الحالات كان من المستحيل أن يكون خبيراً! لماذا؟ ولأن جوجل أعادت اختراع الإعلانات، لم تكن هناك "مدونات" عندما بدأ جويل في نشر المقالات، ولم تكن هناك أداة لمراجعة التعليمات البرمجية حتى اخترعت واحدة.
 
-**Innovation defies prior expertise.**
+**الابتكار يتحدى الخبرة السابقة.**
 
-So let's stop being distracted with these arbitrary definitions, artificial goals, and unnecessary prerequisites to "success."
+لذا، دعونا نتوقف عن تشتيت انتباهنا بهذه التعريفات الاعتباطية، والأهداف المصطنعة، والمتطلبات الأساسية غير الضرورية لتحقيق "النجاح".
 
-Let's just get back to work.
+دعونا نعود إلى العمل.

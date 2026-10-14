@@ -20,71 +20,58 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الطريقة الوحيدة المضمونة لتحقيق النجاح الريادي تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The only way to guarantee startup success
-
-> **Executive Summary:** What is it like to reach the pinnacle of success? Is that where you attain happiness and fulfillment? Or are those found right here, right now.
-> **Original URL:** [https://longform.asmartbear.com/success-guaranteed/](https://longform.asmartbear.com/success-guaranteed/)
-
 ![as long as it has all its fins and remorseless eating machine well be happy](https://public.asmartbear.com/books/anthology/chapters/success-guaranteed/d5310print-simple.png)
 
-Everyone said this would be the most embarrassing moment in the band's eight-year career.
+قال الجميع إن هذه ستكون اللحظة الأكثر إحراجًا في مسيرة الفرقة التي استمرت ثماني سنوات.
 
-Depeche Mode had decided to play the Pasadena Rose Bowl--capacity 60,000--for the 101st show of their 1988 tour. To sell out would make it one of the largest music concerts ever played in America--highly unlikely for an English electronic band. Claiming they were popular enough to fill that stadium was an audacious act of bravado that critics were eager to see transform to humiliation as they played to a vast, near-vacant space, mocked by the each of the tens of thousands of empty seats.
+قرر Depeche Mode لعب Pasadena Rose Bowl - بسعة 60 ألف متفرج - في العرض رقم 101 من جولتهم عام 1988. إن بيع كل التذاكر سيجعلها واحدة من أكبر الحفلات الموسيقية التي يتم عزفها على الإطلاق في أمريكا - وهو أمر مستبعد جدًا بالنسبة لفرقة إلكترونية إنجليزية. كان الادعاء بأنهم يتمتعون بشعبية كافية لملء هذا الملعب بمثابة عمل جريء من التبجح الذي كان النقاد حريصين على رؤيته يتحول إلى إذلال أثناء لعبهم في مساحة شاسعة شبه شاغرة، سخر منها عشرات الآلاف من المقاعد الفارغة.
 
-KROQ DJ Richard Blade knew that secretly the band themselves were doubtful. As he sat with singer/writer Martin Gore in the empty stadium before tickets went on sale, Martin "confided in me that he was nervous and hoped they could at least sell out the floor seats--just 10,000 tickets."
+عرف KROQ DJ Richard Blade أن الفرقة نفسها كانت موضع شك سرًا. بينما كان يجلس مع المغني والكاتب مارتن جور في الاستاد الفارغ قبل طرح التذاكر للبيع، "أخبرني مارتن بأنه كان متوترًا ويأمل أن يتمكنوا على الأقل من بيع مقاعد الأرضية - 10000 تذكرة فقط".
 
-But the show sold out, with paid attendance greater than any Rose Bowl event in the eight preceding years. It was the defining moment of the band's career--the moment when they undeniably "made it."
+لكن العرض تم بيعه بالكامل، مع حضور مدفوع الأجر أكبر من أي حدث لـ Rose Bowl في السنوات الثماني السابقة. لقد كانت اللحظة الحاسمة في مسيرة الفرقة المهنية - اللحظة التي "نجحوا فيها" بلا شك.
 
-And yet, simultaneously, one of the saddest moments.
+ومع ذلك، وفي نفس الوقت، كانت إحدى أكثر اللحظات حزنًا.
 
-Again from Blade:
+مرة أخرى من بليد:
 
-> "Backstage, after their amazing performance, I chatted with [lead singer] Dave Gahan as he cried from pure happiness. He told me that the tears were because he didn't know if the group could ever pull off anything this great again and for him it was the most emotional concert of his career."
+> "خلف الكواليس، بعد أدائهم المذهل، تحدثت مع [المغني الرئيسي] ديف جاهان وهو يبكي من السعادة الخالصة. أخبرني أن الدموع كانت لأنه لم يكن يعرف ما إذا كانت المجموعة قادرة على أداء أي شيء رائع مرة أخرى وبالنسبة له كان الحفل الأكثر عاطفية في حياته المهنية. "
 
-Indeed, they never would pull off anything that great again, even though they increased record sales, wrote more hits, released more albums, played more tours, even reforming the band after the loss of one member and through multi-year battles with drugs, alcoholism and depression from the three remaining members.
+في الواقع، لم يتمكنوا أبدًا من تحقيق أي شيء عظيم مرة أخرى، على الرغم من أنهم زادوا مبيعاتهم القياسية، وكتبوا المزيد من الأغاني الناجحة، وأصدروا المزيد من الألبومات، وقاموا بجولات أكثر، حتى أنهم قاموا بإصلاح الفرقة بعد فقدان عضو واحد ومن خلال معارك متعددة السنوات مع المخدرات وإدمان الكحول والاكتئاب من الأعضاء الثلاثة المتبقين.
 
-It's true though, what could top that moment? After you've proved everything that could be proved, to the critics, to your fans, and even to yourself?
+لكن هذا صحيح، ما الذي يمكن أن يتصدر تلك اللحظة؟ بعد أن أثبتت كل ما يمكن إثباته أمام النقاد، ولمعجبيك، وحتى لنفسك؟
 
-**What does it mean for you or me**, that reaching the pinnacle of success is not only strikingly fleeting, but also unhappy? That tears of joy transmute immediately to tears of sadness, because **reaching the peak means by definition your next steps must be downhill**?
+**ماذا يعني بالنسبة لي أو لك** أن الوصول إلى قمة النجاح ليس مجرد أمر عابر بشكل لافت للنظر، ولكنه أيضًا أمر غير سعيد؟ أن دموع الفرح تتحول فورًا إلى دموع حزن، لأن **الوصول إلى القمة يعني بحكم التعريف أن خطواتك التالية يجب أن تكون هبوطًا**؟
 
-The same thing happens at startups. It's [well-documented](https://longform.asmartbear.com/ref/life-after-exit-en.pdf) that immediately following the "success" of an exit, founders almost inevitably fall into a sadness and even depression, as [I've written about before](https://longform.asmartbear.com/identity-selling-sadness/).
+نفس الشيء يحدث عند الشركات الناشئة. من [الموثق جيدًا](https://longform.asmartbear.com/ref/life-after-exit-en.pdf) أنه بعد "نجاح" الخروج مباشرة، يقع المؤسسون حتمًا في حالة من الحزن وحتى الاكتئاب، كما [كتبت عن ذلك من قبل](https://longform.asmartbear.com/identity-sale-sadness/).
 
-It could mean this is all for nothing. That our fleeting moment of noon-time glory is cruelly bookended by years of [gut-twisting emotional mountain-climbing](https://longform.asmartbear.com/startups-emotionally-draining/) in the a.m. and a meandering, permanently unfinished [quest for meaning and purpose](https://longform.asmartbear.com/fulfillment/) in the p.m.
+قد يعني هذا أن كل هذا من أجل لا شيء. أن لحظة مجدنا العابرة في وقت الظهيرة قد تم حجزها بقسوة من خلال سنوات من [تسلق الجبال العاطفي الملتوي] (https://longform.asmartbear.com/startups-emotionally-draining/) في الصباح و[السعي وراء المعنى والهدف] المتعرج وغير المكتمل بشكل دائم (https://longform.asmartbear.com/fulfillment/) في المساء.
 
-It does mean this, if you let it. **The way you let this happen is to believe that the goal is to achieve a single moment of success**--a big sale, going public, or passing it on to your daughter.
+إنه يعني هذا، إذا سمحت بذلك. **الطريقة التي تسمح بحدوث ذلك هي أن تؤمن بأن الهدف هو تحقيق لحظة واحدة من النجاح** - بيع كبير، أو طرحه للعامة، أو نقله إلى ابنتك.
 
-Rather, you must understand that it is **the building**, not the result of that building, that matters.
+بدلاً من ذلك، يجب أن تفهم أن **المبنى**، وليس نتيجة ذلك المبنى، هو ما يهم.
 
-Let's break it down:
+دعونا نقسمها:
 
-You spend 99.99% of your time on the journey of building a startup, and 0.01% basking in the temporary euphoria of "success," such as selling it to someone else or ringing the bell on the morning of your IPO.
+أنت تقضي 99.99% من وقتك في رحلة بناء شركة ناشئة، و0.01% تستمتع بنشوة "النجاح" المؤقتة، مثل بيعها لشخص آخر أو قرع الجرس في صباح يوم الاكتتاب العام الخاص بك.
 
-If that moment even comes, which it most likely will not. Often 100% of your time is spent on the journey, 0% in euphoric ecstasy.
+ولو جاءت تلك اللحظة، وهو الأمر الذي لن يحدث على الأرجح. غالبًا ما تقضي 100% من وقتك في الرحلة، و0% في النشوة المبهجة.
 
-If you look back and say "That was a wonderful time in my life. I'm glad I did it, and I'd do it again. Sure I would do some things differently--is that not true of anything?--but I'm proud of what I did and I'm stronger and wiser today than ever before. I created terrific jobs, where great people were empowered to build important things together, who were comfortable and safe, who shared in the bounty of whatever upside we could muster, and who themselves would also say they're personally fulfilled just as I am."
+إذا نظرت إلى الوراء وقلت "لقد كان ذلك وقتًا رائعًا في حياتي. أنا سعيد لأنني فعلت ذلك، وسأفعل ذلك مرة أخرى. بالتأكيد سأفعل بعض الأشياء بشكل مختلف - أليس هذا صحيحًا في أي شيء؟ - لكنني فخور بما فعلته وأنا أقوى وأكثر حكمة اليوم من أي وقت مضى. لقد خلقت وظائف رائعة، حيث تم تمكين الأشخاص العظماء من بناء أشياء مهمة معًا، وكانوا مرتاحين وآمنين، والذين شاركوا في فضل أي جانب إيجابي يمكننا حشده، والذين سيقولون أنفسهم أيضًا أنهم راضون شخصيًا تمامًا مثلي."
 
-Then you win.
+ثم تفوز.
 
-But if your measure of "success" is based on a specific outcome--based on metrics, or money, or growth-rate, or number of employees, or whether you had an exit, or how much money you raised, or how many humans you cajoled into sticking their nose in your app, then mathematically you're almost guaranteed to fail, but only because of your own [definition of failure](https://longform.asmartbear.com/fail/). You're guaranteed to spend years of your life in nervous agony, chasing an outcome you think will make you happy instead of *making all those years **be** the years you are happy.*
+ولكن إذا كان مقياس "النجاح" الخاص بك يعتمد على نتيجة محددة - استنادًا إلى المقاييس، أو المال، أو معدل النمو، أو عدد الموظفين، أو ما إذا كان لديك مخرج، أو مقدار الأموال التي جمعتها، أو عدد الأشخاص الذين أقنعتهم بوضع أنوفهم في تطبيقك، فمن الناحية الرياضية يكاد يكون الفشل مضمونًا، ولكن فقط بسبب [تعريف الفشل] الخاص بك (https://longform.asmartbear.com/fail/). نضمن لك قضاء سنوات من حياتك في عذاب عصبي، مطاردة نتيجة تعتقد أنها ستجعلك سعيدًا بدلاً من *جعل كل تلك السنوات **تكون** السنوات التي تعيش فيها السعادة.*
 
-Then you lose.
+ثم تخسر.
 
-Don't get me wrong--I love making money, I've made plenty from previous startups and I hope to make plenty more at WP Engine, and so do our employees (all of whom are shareholders) and our investors. And honoring metrics is part of building a high performing team and building a huge, sustainable enterprise. Nothing wrong with using metrics and money to keep score in this game.
+لا تفهموني خطأ--أنا أحب كسب المال، لقد كسبت الكثير من الشركات الناشئة السابقة وآمل أن أحقق الكثير في WP Engine، وكذلك يفعل موظفونا (جميعهم مساهمون) والمستثمرون لدينا. ويعد تكريم المقاييس جزءًا من بناء فريق عالي الأداء وبناء مؤسسة ضخمة ومستدامة. لا حرج في استخدام المقاييس والمال للحفاظ على النتيجة في هذه اللعبة.
 
-Keep score, so long as you can distinguish between the game and life. Keep score, while also basking in the thrill of generating happy customers and launching [unique](https://longform.asmartbear.com/worse-but-unique/) products and gathering the energy and brainpower of brilliant humans tackling interesting problems.
+احتفظ بالنتيجة، طالما يمكنك التمييز بين اللعبة والحياة. حافظ على النتيجة، بينما تستمتع أيضًا بالإثارة المتمثلة في توليد عملاء سعداء وإطلاق منتجات [فريدة من نوعها](https://longform.asmartbear.com/worse-but-unique/) وجمع الطاقة والقوة العقلية للبشر الرائعين الذين يعالجون المشكلات المثيرة للاهتمام.
 
-In fact, I'd argue that focusing on the [nature of the journey](https://longform.asmartbear.com/emptiness/) solves one of the great riddles facing all startups. To paraphrase Peter Thiel: the first employee joins because it's the ground floor of an exciting startup, but why will the 20th person join? Or the 200th?
+في الواقع، أعتقد أن التركيز على [طبيعة الرحلة](https://longform.asmartbear.com/emptiness/) يحل أحد الألغاز العظيمة التي تواجه جميع الشركات الناشئة. لإعادة صياغة ما قاله بيتر ثيل: ينضم الموظف الأول لأنه الطابق الأرضي لشركة ناشئة مثيرة، ولكن لماذا ينضم الشخص العشرين؟ أو ال 200؟
 
-To be part of the journey.
+لتكون جزءا من الرحلة.
 
-That's why you should be there too.
+لهذا السبب يجب أن تكون هناك أيضًا.
 
-If you value the journey, your "success" is guaranteed.
+إذا كنت تقدر الرحلة، فإن "نجاحك" مضمون.

@@ -20,85 +20,72 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** ضاعف إنتاجيتك دون مضاعفة ساعات العمل أو التوتر تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Double your productivity without more work or stress
-
-> **Executive Summary:** People love to say that getting "1% better per day" makes you 37x better after a year, but this obviously makes no sense.  But 2x better is possible.
-> **Original URL:** [https://longform.asmartbear.com/double-your-productivity/](https://longform.asmartbear.com/double-your-productivity/)
-
 ![Could you at least burn a candle at one end?](https://public.asmartbear.com/books/anthology/chapters/double-your-productivity/d3123print-simple.png)
 
-Zappos COO Alfred Lin [enlightens us](https://blogs.zappos.com/blogs/ceo-and-coo-blog/2009/01/07/the-power-of-1) on **how to become** ***37 times*** **more productive in only one year!** Can it be?
+Zappos COO Alfred Lin [ينيرنا] (https://blogs.zappos.com/blogs/ceo-and-coo-blog/2009/01/07/the-power-of-1) حول **كيف تصبح** ***37 مرة*** **أكثر إنتاجية في عام واحد فقط!** هل يمكن أن يكون الأمر كذلك؟
 
-Let's hear him out:
+فلنستمع إليه:
 
 ![I love Zappos](https://public.asmartbear.com/books/anthology/chapters/double-your-productivity/image-3-simple.png)
 
-> Make at least one improvement [every day] that makes Zappos better. It sounds daunting, but remember improvements don't have to be dramatic. Think about what it means to improve just 1% per day and build upon that every single day. Doing so has a dramatic effect and will make us 37x better, not 365% (3.65x) better at the end of the year.
+> قم بإجراء تحسين واحد على الأقل [كل يوم] يجعل Zappos أفضل. قد يبدو الأمر شاقًا، لكن تذكر أن التحسينات لا يجب أن تكون مثيرة. فكر فيما يعنيه التحسين بنسبة 1% فقط يوميًا والبناء على ذلك كل يوم. إن القيام بذلك له تأثير كبير وسيجعلنا أفضل بمقدار 37 مرة، وليس أفضل بنسبة 365% (3.65 مرة) في نهاية العام.
 
-At first glance it's inspiring. At second glance it's poppycock.
+للوهلة الأولى انها ملهمة. للوهلة الثانية هو الخشخاش.
 
-**Being 37x more productive is impossible**, and I'll show you why. But along the way it will become clear how **becoming 2-3x more productive might be within reach.**
+**زيادة الإنتاجية بمقدار 37 مرة أمر مستحيل**، وسأوضح لك السبب. ولكن على طول الطريق، سيصبح من الواضح كيف أن **زيادة الإنتاجية بمقدار 2-3 مرات قد يكون في متناول اليد.**
 
-His math isn't the problem per se. It's true that if you improve 1% each day over the previous day, that's a 1% *compounding* rate. My question is: Is it possible to increase your daily productivity by an entire percent every day?
+الرياضيات ليست هي المشكلة في حد ذاتها. صحيح أنه إذا تحسنت بنسبة 1% كل يوم مقارنة باليوم السابق، فهذا معدل *مضاعف* بنسبة 1%. سؤالي هو: هل من الممكن أن تزيد إنتاجيتك اليومية بنسبة كاملة كل يوم؟
 
-Well, if you can do only 1 push-up, then I believe that you could improve about 1% per day, and be able to do 37 push-ups at a time by the end of the year.
+حسنًا، إذا كان بإمكانك أداء تمرين الضغط مرة واحدة فقط، فأعتقد أنه يمكنك التحسن بنسبة 1% يوميًا، وستكون قادرًا على أداء 37 تمرين ضغط في المرة الواحدة بحلول نهاية العام.
 
-But it continues. The _next_ year you continue getting 1% better per day, and by the end of the *second* year you can do 1369 push-ups in one day. Yeah right.
+لكنها مستمرة. وفي العام التالي ستستمر في التحسن بنسبة 1% يوميًا، وبحلول نهاية العام *الثاني* يمكنك أداء 1369 تمرين ضغط في يوم واحد. نعم صحيح.
 
-Things rarely compound like that, even at slow rates. Or at least, there are other factors that overwhelm that simplistic idea.
+نادراً ما تتفاقم الأمور على هذا النحو، حتى بمعدلات بطيئة. أو على الأقل، هناك عوامل أخرى تطغى على هذه الفكرة التبسيطية.
 
 ![projecting growth rate of baby](https://public.asmartbear.com/books/anthology/chapters/double-your-productivity/image-simple.png)
 
-But there _is_ a smart way to 2x your productivity. (Once!)
+ولكن هناك طريقة ذكية لمضاعفة إنتاجيتك. (مرة واحدة!)
 
-Time for a fun math puzzle. Yeah, I know, "fun" is relative... Okay look if you don't like word problems just take a random guess at the answer. If you're up for the challenge, try to solve it without pen and paper. You know, just to prove your $200,000 in student debt wasn't all for nothing.
+حان الوقت لحل لغز رياضي ممتع. نعم، أعلم أن "المتعة" أمر نسبي... حسنًا، إذا كنت لا تحب المسائل الكلامية، فما عليك سوى تخمين الإجابة بشكل عشوائي. إذا كنت على مستوى التحدي، فحاول حله بدون قلم وورقة. كما تعلم، فقط لإثبات أن ديونك الطلابية البالغة 200 ألف دولار لم تكن هباءً.
 
-Here's the puzzle: You get in your car at home and head out towards your mother's house 60 miles away. (Your mom likes this word problem, I can already tell.) You hit traffic during the first half of the trip, so after 30 miles you've averaged only 30 miles per hour:
+هذا هو اللغز: تركب سيارتك في المنزل وتتجه نحو منزل والدتك على بعد 60 ميلاً. (والدتك تحب هذه المشكلة اللفظية، أستطيع أن أقول ذلك بالفعل). لقد واجهت حركة مرورية خلال النصف الأول من الرحلة، لذلك بعد 30 ميلاً، كان متوسط ​​سرعتك 30 ميلاً فقط في الساعة:
 
 ![car halfway home after one hour](https://public.asmartbear.com/books/anthology/chapters/double-your-productivity/velocity-diagram-simple.png)
 
-Now the traffic opens up and you can go as fast as you want. The question is: **How fast do you have to go during the second half of the trip such that you've averaged 60 mph over the entire trip?**
+الآن تفتح حركة المرور ويمكنك الذهاب بالسرعة التي تريدها. السؤال هو: **ما السرعة التي يجب عليك قطعها خلال النصف الثاني من الرحلة بحيث يبلغ متوسط ​​سرعتك 60 ميلاً في الساعة خلال الرحلة بأكملها؟**
 
-If you're not using pen and paper, maybe you guessed 90? 120?
+إذا كنت لا تستخدم القلم والورقة، فربما خمنت 90؟ 120؟
 
-Actually it's impossible! To average 60 mph you need to travel the whole 60 miles in a single hour. But it's already been an hour! Even if you went 1000 mph during the second half, it would have taken just over an hour to complete the 60 miles, therefore your average is still less than 60 mph.
+في الحقيقة الأمر مستحيل! لكي تصل سرعتك في المتوسط ​​إلى 60 ميلاً في الساعة، يتعين عليك السفر لمسافة 60 ميلاً كاملة في ساعة واحدة. ولكن لقد مرت بالفعل ساعة! حتى لو قطعت مسافة 1000 ميل في الساعة خلال النصف الثاني، فسيستغرق الأمر ما يزيد قليلاً عن ساعة لإكمال مسافة 60 ميلاً، وبالتالي فإن متوسط ​​سرعتك لا يزال أقل من 60 ميلاً في الساعة.
 
-**It's amazing how periods of low velocity wash away gains of high velocity.** In the puzzle, if you *doubled* your speed in the second half it would only increase your trip average from 30 to 40 mph. If you *quadrupled* your speed in the second half, your trip average would still be only 48 mph.
+**إنه لأمر مدهش كيف أن فترات السرعة المنخفضة تغسل مكاسب السرعة العالية.** في اللغز، إذا *ضاعفت* سرعتك في النصف الثاني، فسيؤدي ذلك إلى زيادة متوسط ​​رحلتك من 30 إلى 40 ميلاً في الساعة. إذا ضاعفت سرعتك أربع مرات في النصف الثاني، فسيظل متوسط ​​رحلتك 48 ميلاً في الساعة فقط.
 
-This puzzle illustrates the weird math of velocities, and what applies to "miles" per hour also applies to emails per hour or writing code or writing prose or any other "gettin' stuff done" per hour.
+يوضح هذا اللغز الرياضيات الغريبة للسرعات، وما ينطبق على "الأميال" في الساعة ينطبق أيضًا على رسائل البريد الإلكتروني في الساعة أو كتابة التعليمات البرمجية أو كتابة النثر أو أي "إنجاز أشياء" أخرى في الساعة.
 
-The problem with improving your productivity is that so much of your day is occupied by low-velocity activity--dealing with emails you didn't really need to see, dawdling in a meeting that hasn't started yet, or spending too much time reading blogs. (Except this one. This one is a high-velocity activity!)
+تكمن مشكلة تحسين إنتاجيتك في أن جزءًا كبيرًا من يومك مشغول بنشاط منخفض السرعة - مثل التعامل مع رسائل البريد الإلكتروني التي لم تكن بحاجة حقًا إلى رؤيتها، أو التواني في اجتماع لم يبدأ بعد، أو قضاء الكثير من الوقت في قراءة المدونات. (باستثناء هذا النشاط. هذا النشاط عالي السرعة!)
 
-When half your day moves at 30 mph, it's impossible to make up the time during the other half.
+عندما يتحرك نصف يومك بسرعة 30 ميلاً في الساعة، فمن المستحيل تعويض الوقت خلال النصف الآخر.
 
-This is one of the problems with Lin's 1% idea--the low-velocity stuff makes it too difficult to improve even 1% overall, at least not every day of the year. Even with 37x improvement in some areas, you still might not be 2x more productive overall.
+هذه إحدى مشكلات فكرة لين بنسبة 1% - فالأشياء ذات السرعة المنخفضة تجعل من الصعب جدًا تحسين حتى 1% بشكل عام، على الأقل ليس في كل يوم من أيام السنة. حتى مع التحسن بمقدار 37 ضعفًا في بعض المجالات، قد لا تكون أكثر إنتاجية بمقدار الضعف بشكل عام.
 
-There's good news here, however! Once you realize that the low-velocity stuff is responsible for most of the drag on your productivity, you realize that **the thing to do is eliminate the low-velocity stuff.** Yes it's good to learn to type faster, but cutting down on the time it takes to process useless email might help even more.
+هناك أخبار جيدة هنا، ولكن! بمجرد أن تدرك أن الأشياء ذات السرعة المنخفضة هي المسؤولة عن معظم التأثير على إنتاجيتك، فإنك تدرك أن **الشيء الذي يجب فعله هو التخلص من الأشياء ذات السرعة المنخفضة.** نعم، من الجيد أن تتعلم الكتابة بشكل أسرع، ولكن تقليل الوقت الذي تستغرقه معالجة البريد الإلكتروني غير المفيد قد يساعد بشكل أكبر.
 
-Ready for more good news? There are free tools that help you identify what the low-velocity stuff is. I use one called [RescueTime](https://rescuetime.com/). To show you how useful this is, consider this example of my stats for one week:
+على استعداد لمزيد من الأخبار الجيدة؟ هناك أدوات مجانية تساعدك على تحديد ماهية الأشياء منخفضة السرعة. أستخدم واحدًا يسمى [RescueTime](https://rescuetime.com/). لتوضيح مدى فائدة ذلك، فكر في هذا المثال لإحصائياتي لمدة أسبوع واحد:
 
 ![bar graph of time use from RescueTime](https://public.asmartbear.com/books/anthology/chapters/double-your-productivity/rescuetime-productivity-report-simple.png)
 
-Whoa--almost eight hours of email. That's a *solid, uninterrupted, full day of nothing but email* I'm blowing through every week. Is that really the way I should be spending my time? Can I ever get to 60 mph like this?
+قف--ما يقرب من ثماني ساعات من البريد الإلكتروني. إنه يوم *قوي، متواصل، يوم كامل من لا شيء سوى البريد الإلكتروني* الذي أمضيه كل أسبوع. هل هذه حقًا هي الطريقة التي يجب أن أقضي بها وقتي؟ هل يمكنني الوصول إلى 60 ميلاً في الساعة بهذه الطريقة؟
 
-Even the long tail can be instructive. Notice the 45 minutes of "Calendars." A drill-down bears out the awful conclusion--yes I spent almost an hour in Google Calendar. It's true this week was completely packed with events, but being in the calendar app isn't the same as being in the meeting; it means _managing_ the meetings. Low-velocity activity.
+حتى الذيل الطويل يمكن أن يكون مفيدًا. لاحظ الـ 45 دقيقة من "التقاويم". يؤدي البحث إلى الاستنتاج المروع - نعم، لقد أمضيت ما يقرب من ساعة في تقويم Google. صحيح أن هذا الأسبوع كان مليئًا بالأحداث، ولكن التواجد في تطبيق التقويم ليس هو نفسه التواجد في الاجتماع؛ يعني _إدارة_ الاجتماعات. نشاط منخفض السرعة.
 
-Another realization: I had an averaged 5.5 hours of activity per day. I was in the office for over 8 hours every one of those days--the rest is sopped up with meetings, office chatter, and lunch. Here's the mythical eight-hour workday quantified--I'm starting with 5-6 and even then I spent much of it fielding email.
+إدراك آخر: كان لدي ما متوسطه 5.5 ساعة من النشاط يوميًا. كنت أقضي في المكتب أكثر من 8 ساعات كل يوم من تلك الأيام، أما الباقي فكان مكتملًا بالاجتماعات والمحادثات المكتبية والغداء. هذا هو يوم العمل الأسطوري الذي يمتد لثماني ساعات - أبدأ بـ 5-6 ساعات، وحتى ذلك الحين قضيت الكثير منها في إرسال البريد الإلكتروني.
 
-Once you see the numbers it's easy to correct. I now notice more when I'm in an office conversation that's past the point of being productive. There's millions of tips for [how to process email more efficiently](https://www.43folders.com/izero).
+بمجرد رؤية الأرقام، يصبح من السهل تصحيحها. ألاحظ الآن أكثر عندما أكون في محادثة مكتبية تتجاوز نقطة الإنتاج. هناك الملايين من النصائح حول [كيفية معالجة البريد الإلكتروني بشكل أكثر كفاءة](https://www.43folders.com/izero).
 
-So if you're serious about wanting to increase productivity by, say, 2x, you can. Identify the biggest perpetrators of low-velocity activity and eliminate them.
+لذا، إذا كنت جادًا في رغبتك في زيادة الإنتاجية بمقدار 2x، على سبيل المثال، فيمكنك ذلك. تحديد أكبر مرتكبي النشاط منخفض السرعة والقضاء عليهم.
 
-And makes sure [your major "big rock" tasks are the right ones](https://longform.asmartbear.com/rocks-pebbles-sand/).
+ويتأكد من أن [مهامك الرئيسية في "موسيقى الروك الكبيرة" هي المهام الصحيحة](https://longform.asmartbear.com/rocks-pebbles-sand/).
 
-**The best part is, none of this means working late or working harder. Just stop averaging down!**
+**أفضل ما في الأمر هو أن لا شيء من هذا يعني العمل متأخرًا أو العمل بجدية أكبر. مجرد التوقف عن المتوسط ​​إلى أسفل! **
 
 ![As you can see, we've been able to significantly boost productivity by making everyone work much, much harder.](https://public.asmartbear.com/books/anthology/chapters/double-your-productivity/d6885print-simple.png)

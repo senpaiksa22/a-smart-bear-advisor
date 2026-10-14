@@ -20,95 +20,82 @@ summary_ar: "We're told \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كن نفسك في قيادتك، مع الاستمرار في تطوير نقاط ضعفك تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Being who you are, while becoming better
-
-> **Executive Summary:** We're told "be yourself" to seek happiness and success. But what if "being yourself" also means striving to become better? What is "yourself?"
-> **Original URL:** [https://longform.asmartbear.com/be-yourself/](https://longform.asmartbear.com/be-yourself/)
-
 ![Lady Gaga wearing her meat dress](https://public.asmartbear.com/books/anthology/chapters/be-yourself/image-simple.png)
 
-Whatever your position on meat dresses, no one today is more vocal about being true to yourself than Lady Gaga:
+مهما كان موقفك من الفساتين اللحمية، لا يوجد أحد اليوم أكثر صراحة بشأن الصدق مع نفسك من ليدي غاغا:
 
-> God makes no mistakes.  
-> I'm on the right track.  
-> I was born this way.
+> الله لا يخطئ.
+> أنا على الطريق الصحيح.
+> لقد ولدت بهذه الطريقة.
 
-As she's said in interviews, she's not speaking only to the [LGBT](https://en.wikipedia.org/wiki/LGBT) community; she's encouraging everyone who is seeking their identity and still looking for permission to be that person in public.
+وكما قالت في المقابلات، فهي لا تتحدث فقط إلى مجتمع [LGBT](https://en.wikipedia.org/wiki/LGBT)؛ إنها تشجع كل من يبحث عن هويته ولا يزال يبحث عن إذن ليكون ذلك الشخص في الأماكن العامة.
 
-**It's so simple and trite: Be yourself.**
+**الأمر بسيط جدًا ومبتذل: كن على طبيعتك.**
 
-The benefits are obvious: Fulfillment, happiness, even success. Surely you're more likely to be successful at any venture so long as your natural excitement leads to merry obsession, which leads to hard work and long hours, applied to a field aligned with your innate talents.[^1] Even in the worst case--complete failure--it was fun and worthwhile. Years from now you'll look back and say, "I lived a good life, and it was *my* life."
+الفوائد واضحة: الإنجاز، السعادة، وحتى النجاح. من المؤكد أنه من الأرجح أن تنجح في أي مشروع طالما أن الإثارة الطبيعية لديك تؤدي إلى هوس المرح، الذي يؤدي إلى العمل الجاد وساعات طويلة، في مجال يتماشى مع مواهبك الفطرية.[^1] حتى في أسوأ الحالات - الفشل التام - كان الأمر ممتعًا وجديرًا بالاهتمام. بعد سنوات من الآن ستنظر إلى الوراء وتقول: "لقد عشت حياة طيبة، وكانت تلك حياتي".
 
-[^1]: While this is an essential ingredient--or at least ought to be treated as such--there are [many other things which also have to be true](https://longform.asmartbear.com/product-market-fit-formula/) for a venture to succeed.
+[^1]: على الرغم من أن هذا عنصر أساسي - أو على الأقل يجب التعامل معه على هذا النحو - إلا أن هناك [العديد من الأشياء الأخرى التي يجب أن تكون صحيحة أيضًا](https://longform.asmartbear.com/product-market-fit-formula/) لكي ينجح أي مشروع.
 
-So why is it so **hard?**
+فلماذا هو ** من الصعب؟ **
 
-Not just hard to live true to yourself, but surprisingly difficult to even know what "yourself" is?
+ليس فقط من الصعب أن تعيش صادقًا مع نفسك، ولكن من الصعب أيضًا أن تعرف ما هي "نفسك"؟
 
-And further, **what about self-improvement?** It's sensible to embrace your faults and [work around them](https://longform.asmartbear.com/leverage/), but what about tackling them headlong? If you're afraid of public speaking, is it smart to pick a career that ensures you'll never grace a stage, or is it wiser to throw yourself into a stand-up comedy night-class that could exorcise your demon?
+علاوة على ذلك، **ماذا عن تحسين الذات؟** من المنطقي احتضان أخطائك و[التغلب عليها](https://longform.asmartbear.com/leverage/)، ولكن ماذا عن معالجتها بتهور؟ إذا كنت تخشى التحدث أمام الجمهور، فهل من الذكاء أن تختار مهنة تضمن أنك لن تتألق على خشبة المسرح أبدًا، أم أنه من الحكمة أن ترمي نفسك في فصل ليلي كوميدي يمكن أن يطرد شيطانك؟
 
-I used to think that in all things I had to be the best. I was upset if I didn't get the blue ribbon in the piano recital, the gold medal on the music theory test, and the 1st-place trophy in the Karate tournament.
+كنت أعتقد أنه في كل شيء كان علي أن أكون الأفضل. لقد شعرت بالانزعاج إذا لم أحصل على الشريط الأزرق في حفل البيانو، والميدالية الذهبية في اختبار نظرية الموسيقى، وكأس المركز الأول في بطولة الكاراتيه.
 
-In high school, however, I started internalizing that there will always be people smarter and better than me at anything, so the new challenge was to (1) be the best at *one thing* (telling a computer what to do), and (2) be constantly improving in other things. So I didn't need to beat Alex Saltman on the Math Team, but I worked to beat my own scores in national competitions year over year. I didn't have to outpace the endless stream of Korean piano prodigies but I did play progressively more difficult pieces, and played them as well as I could.
+ومع ذلك، في المدرسة الثانوية، بدأت أستوعب أنه سيكون هناك دائمًا أشخاص أكثر ذكاءً وأفضل مني في أي شيء، لذلك كان التحدي الجديد هو (1) أن أكون الأفضل في *شيء واحد* (إخبار الكمبيوتر بما يجب عليه فعله)، و(2) التحسن المستمر في أشياء أخرى. لذلك لم أكن بحاجة إلى التغلب على أليكس سالتمان في فريق الرياضيات، لكنني عملت على تحقيق نتائجي الخاصة في المسابقات الوطنية عامًا بعد عام. لم يكن علي أن أتفوق على التدفق اللامتناهي من الموهوبين الكوريين في العزف على البيانو، لكنني قمت بعزف مقطوعات أكثر صعوبة بشكل تدريجي، وعزفتها بأفضل ما أستطيع.
 
-But time erodes your sharpest edges, and responsibilities accumulate, and you realize that even just "improving" can be too much work. Today I no longer need to improve my 5k time, I just make sure to run a few 5k's a week, never timed. I don't need to play harder piano pieces, I just learn something new now and again, optimizing for enjoyment rather than progression.
+لكن الوقت يؤدي إلى تآكل مهاراتك الحادة، وتتراكم المسؤوليات، وتدرك أنه حتى مجرد "التحسين" يمكن أن يتطلب الكثير من العمل. اليوم، لم أعد بحاجة إلى تحسين وقتي في مسافة 5 كيلومترات، بل أتأكد فقط من تشغيل عدد قليل من 5 كيلومترات في الأسبوع، دون توقيت محدد. لا أحتاج إلى العزف على مقطوعات بيانو أصعب، أنا فقط أتعلم شيئًا جديدًا بين الحين والآخر، وأعمل على تحسينه من أجل الاستمتاع بدلاً من التقدم.
 
-That's fine for hobbies, but **what about your career or your startup?** You can't just say "Yeah I suck at selling stuff, and I don't care!"
+هذا جيد بالنسبة للهوايات، ولكن **ماذا عن حياتك المهنية أو شركتك الناشئة؟** لا يمكنك أن تقول فقط "نعم، أنا سيء في بيع الأشياء، ولا أهتم!"
 
-In my case, [I don't suck at selling](https://longform.asmartbear.com/startups-emotionally-draining/), but I constantly struggle with procrastination. Everyone does it to some degree--there's something you don't want to do, so you invent reasons to fulfill that desire. The reasons are all seemingly-logical but actually-bullshit:
+في حالتي، [أنا لا أجيد البيع](https://longform.asmartbear.com/startups-emotionally-draining/)، لكنني أعاني باستمرار من المماطلة. الجميع يفعل ذلك إلى حد ما، هناك شيء لا ترغب في القيام به، لذلك تخترع أسبابًا لتحقيق هذه الرغبة. الأسباب كلها تبدو منطقية ولكنها في الواقع هراء:
 
-* I don't have time for X right now. <br/> *(Time always exists, you're deciding to do something else with that time.)*
-* It will be more efficient to do X when I'm also doing Y and Z. <br/> *(But someone's waiting for X, and you've also been delaying Y and Z.)*
-* I'm not in the mood for X, and it will go twice as fast when I'm in the mood. <br/> *(But it's something you don't like which means you'll never be in the mood--or--you haven't been in the mood for weeks.)*
-* I forgot because I don't have a good system. <br/> *(But there are 100 organization systems and tools, and blogs and books and videos for training.)*
-* I have better things to do with my time. <br/> *(But then it should be [delegated](https://longform.asmartbear.com/delegation/) or deleted instead of sitting in your to-do list.)*
+* ليس لدي وقت لـ X الآن. <br/> *(الوقت موجود دائمًا، أنت تقرر أن تفعل شيئًا آخر في هذا الوقت.)*
+* سيكون تنفيذ X أكثر كفاءة عندما أقوم أيضًا بـ Y وZ. <br/> *(لكن هناك من ينتظر X، وأنت أيضًا تؤخر Y وZ.)*
+* أنا لست في مزاج X، وسوف يذهب أسرع مرتين عندما أكون في مزاج. <br/> *(ولكن هذا شيء لا يعجبك مما يعني أنك لن تكون في مزاج جيد أبدًا -- أو -- لم تكن في مزاج جيد منذ أسابيع.)*
+* لقد نسيت لأنه ليس لدي نظام جيد. <br/> *(لكن هناك 100 نظام وأدوات تنظيمية ومدونات وكتب وفيديوهات للتدريب)*
+* لدي أشياء أفضل لأفعلها بوقتي. <br/> *(ولكن بعد ذلك يجب أن يتم [تفويضه](https://longform.asmartbear.com/delegation/) أو حذفه بدلاً من الجلوس في قائمة المهام الخاصة بك.)*
 
-Still, knowing all this, I persist. It *is* on the to-do list and it *is* a "Next Action," but I deftly roll the deadline over to "tomorrow" and it vanishes for another 24 hours. Congratulations, me, you just out-witted your obedient to-do software.
+ومع ذلك، ومع معرفتي بكل هذا، فإنني أصر على ذلك. إنه *موجود* في قائمة المهام وهو *هو* "الإجراء التالي"، ولكني أقوم بتأجيل الموعد النهائي إلى "غدًا" ويختفي لمدة 24 ساعة أخرى. تهانينا، لقد تفوقت للتو على برنامج المهام المطيع الخاص بك.
 
-Besides, procrastination has its advantages. Really! I wrote a whole post about why [procrastination is useful for running a startup](https://longform.asmartbear.com/procrastinate/). See? _SEE?!?_
+علاوة على ذلك، فإن المماطلة لها مزاياها. حقًا! لقد كتبت منشورًا كاملاً حول سبب فائدة [المماطلة في تشغيل شركة ناشئة](https://longform.asmartbear.com/procrastinate/). يرى؟ _يرى؟!؟_
 
-I've done everything to cope with procrastination: I've used [GTD](https://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=asmbe-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=0142000280) for years (and yes, it works). I've been [inbox-zero](https://www.43folders.com/izero) for years (and yes, it changed my life). I've had temporary surges of success and guilt-ridden lapses of ineptitude. I've even tried to decide procrastination was a net-positive, hence that article.
+لقد فعلت كل شيء للتعامل مع المماطلة: لقد استخدمت [GTD](https://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=asmbe-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=0142000280) لسنوات (ونعم، إنه يعمل). لقد كنت في [inbox-zero](https://www.43folders.com/izero) لسنوات (ونعم، لقد غيرت حياتي). لقد مررت بموجات مؤقتة من النجاح وهفوات عدم الكفاءة المليئة بالذنب. لقد حاولت حتى أن أقرر أن المماطلة كانت أمرًا إيجابيًا، ومن هنا جاء هذا المقال.
 
-So where does that leave me with regard to Lady Gaga's admonition that I should "be myself?" Should I accept procrastination as a given? Keep writing more articles about how I'm actually wise to embrace it? Or should I continue to fight it, because fighting means I'll get more done in less time with less stress, and it means I'm optimizing for the long-run rather than what's easiest in the moment?
+إذن، أين يقودني هذا فيما يتصل بتحذير ليدي غاغا من أنني ينبغي لي أن "أكون على طبيعتي"؟ هل يجب علي قبول المماطلة كأمر مسلم به؟ استمر في كتابة المزيد من المقالات حول مدى حكمتي في احتضانها؟ أم يجب أن أستمر في محاربته، لأن القتال يعني أنني سأنجز المزيد في وقت أقل وبضغط أقل، ويعني أنني أقوم بالتحسين على المدى الطويل بدلاً من القيام بما هو أسهل في الوقت الحالي؟
 
-**I've decided to continue to the fight**, because I know something else about "who I am"--I'm a person who strives.
+**لقد قررت الاستمرار في القتال**، لأنني أعرف شيئًا آخر عن "من أنا" - أنا شخص يسعى جاهداً.
 
-I'm a person for whom "good enough," isn't. I can tell myself it's not important to run a 5k any faster than 26:06, but I'm going to anyway. I can lecture you about how [blogging success is about content and time](https://blog.asmartbear.com/how-i-got-6000-rss-subscribers-in-12-months.html) rather than [looks and plugins](https://blog.asmartbear.com/wordpress-plugins.html), but I still wrote my own plugin to manage exactly how the "retweet" link behaves in the RSS feed.
+أنا شخص لا تعتبره كلمة "جيد بما فيه الكفاية". أستطيع أن أقول لنفسي أنه ليس من المهم أن أركض مسافة 5 كيلومترات بشكل أسرع من 26:06، لكنني سأفعل ذلك على أي حال. يمكنني أن أحاضرك حول كيف أن [نجاح التدوين يعتمد على المحتوى والوقت](https://blog.asmartbear.com/how-i-got-6000-rss-subscribers-in-12-months.html) بدلاً من [المظهر والمكونات الإضافية](https://blog.asmartbear.com/wordpress-plugins.html)، لكنني مازلت أكتب مكونًا إضافيًا خاصًا بي لإدارة كيفية سلوك رابط "إعادة التغريد" بالضبط تغذية RSS.
 
-That attitude is something I see in most successful entrepreneurs. [Adam Carolla](https://adamcarolla.com/) says the same thing; he calls it a "motor"--an internal, unstoppable force causing you to just go, all the time, wake to sleep, for decades.
+هذا الموقف هو شيء أراه في معظم رواد الأعمال الناجحين. [آدم كارولا](https://adamcarolla.com/) يقول نفس الشيء؛ يسميه "محركًا" - قوة داخلية لا يمكن إيقافها تجعلك تستيقظ طوال الوقت لتنام لعقود من الزمن.
 
-It's why I couldn't just make software facilitating peer code review, I had to make it a so-called "real company," I had to create the modern theory around it, I had to [write a book about it](https://longform.asmartbear.com/impostor-syndrome/), and I had to push that book into 70,000 people's hands.
+لهذا السبب لم أتمكن من إنشاء برنامج يسهّل مراجعة الأكواد البرمجية، كان علي أن أجعلها ما يسمى بـ "الشركة الحقيقية"، واضطررت إلى إنشاء النظرية الحديثة حولها، وكان علي [كتابة كتاب عنها] (https://longform.asmartbear.com/impostor-syndrome/)، وكان علي أن أدفع هذا الكتاب إلى 70 ألف شخص.
 
-It's why I couldn't just read blog posts by [Joel Spolsky](https://longform.asmartbear.com/letters-to-joel-spolsky/) and [Jason Fried](https://world.hey.com/jason), I had to write my own, and I had to get better and better at writing, and promote myself, for no reason or reward other than pure ego. It's why I couldn't just be interviewed twice on Andrew Warner's [Mixergy](https://mixergy.com/)--already an honor. I had to push for a third appearance so I could [interview Andrew on his own show](https://mixergy.com/jason-cohen-wpengine-interview/).
+لهذا السبب لم أتمكن من قراءة منشورات المدونة التي كتبها [جويل سبولسكي](https://longform.asmartbear.com/letters-to-joel-spolsky/) و[جايسون فرايد](https://world.hey.com/jason)، كان علي أن أكتب مقالتي الخاصة، وكان علي أن أتحسن في الكتابة، وأن أروج لنفسي، دون أي سبب أو مكافأة سوى الأنا الخالصة. ولهذا السبب لم أتمكن من إجراء مقابلتي مرتين في برنامج [Mixergy](https://mixergy.com/) لأندرو وارنر - وهو شرف بالفعل. اضطررت إلى الضغط من أجل الظهور الثالث حتى أتمكن من [مقابلة أندرو في برنامجه الخاص](https://mixergy.com/jason-cohen-wpengine-interview/).
 
-It's why I couldn't just be retired after the [sale of Smart Bear](https://longform.asmartbear.com/rich-vs-king-sold-company/), writing blog posts and talking to entrepreneurs. New ideas foisted themselves on me, and I had to [run through bad ones until I found a good one](https://longform.asmartbear.com/good-startup-ideas/), and I had to go [start that company](https://longform.asmartbear.com/product-market-fit-formula/). It's why so many entrepreneurs are serial entrepreneurs--I like to say "You do the third one for the same reason you did the first one--because you are *compelled* to."
+ولهذا السبب لم أتمكن من التقاعد بعد [بيع Smart Bear](https://longform.asmartbear.com/rich-vs-king-sold-company/)، وكتابة منشورات على المدونة والتحدث إلى رواد الأعمال. فرضت عليّ أفكار جديدة، واضطررت إلى [تجربة الأفكار السيئة حتى وجدت فكرة جيدة](https://longform.asmartbear.com/good-startup-ideas/)، وكان عليّ أن أذهب [لبدء تلك الشركة](https://longform.asmartbear.com/product-market-fit-formula/). ولهذا السبب فإن العديد من رواد الأعمال هم رواد أعمال متسلسلون - أود أن أقول "أنت تقوم بالثالث لنفس السبب الذي فعلته بالأول - لأنك *مجبر* على ذلك."
 
-But the motor also **creates problems common to most entrepreneurs**, no matter how old or successful:
+لكن المحرك أيضًا **يخلق مشكلات شائعة لدى معظم رواد الأعمال**، بغض النظر عن عمرهم أو نجاحهم:
 
-#### "Spread too thin" syndrome.
-You're interested in everything, you're good at many things, so you get involved in too much stuff. Now you don't have enough time for any of them; most suffer as a result, probably even worse off than if you weren't involved, because then other people could plan accordingly instead of believing they can rely on you.
+#### متلازمة "انتشار رقيقة جدا".
+أنت مهتم بكل شيء، وتجيد العديد من الأشياء، لذا تتورط في الكثير من الأشياء. الآن ليس لديك الوقت الكافي لأي منهم؛ يعاني معظمهم نتيجة لذلك، وربما يكون وضعهم أسوأ مما لو لم تكن مشاركًا، لأنه عندها يمكن للأشخاص الآخرين التخطيط وفقًا لذلك بدلاً من الاعتقاد بأنهم يستطيعون الاعتماد عليك.
 
-#### "Shiny new thing" syndrome.
-You're bored as soon as a project leaves the childhood of "mostly creative" and enters the adolescence of "mostly execution." So you don't give projects the lasting attention they need to succeed.
+#### متلازمة "الشيء الجديد اللامع".
+تشعر بالملل بمجرد أن يغادر مشروع ما مرحلة الطفولة "الإبداعية في الغالب" ويدخل في مرحلة المراهقة "التنفيذ في الغالب". لذا فإنك لا تمنح المشاريع الاهتمام الدائم الذي تحتاجه لتحقيق النجاح.
 
-#### "Work all the time" syndrome.
-This works better when you're young, but even then you'll burn out. I did, and many other famous workaholics did, repeatedly, though they rarely admit it. Andrew Warner is honest enough to admit publicly that he sold his company for less than he should have just because of burn-out. [I am too.](https://youtu.be/Kn5MbZoSRNM) Pulling 70-hour weeks catches up to you. Period.
+#### متلازمة "العمل طوال الوقت".
+يعمل هذا بشكل أفضل عندما تكون صغيرًا، ولكن حتى ذلك الحين ستصاب بالإرهاق. لقد فعلت ذلك، كما فعل العديد من مدمني العمل المشهورين، مراراً وتكراراً، رغم أنهم نادراً ما يعترفون بذلك. أندرو وارنر صادق بما فيه الكفاية ليعترف علنا ​​​​بأنه باع شركته بأقل مما ينبغي له فقط بسبب الإرهاق. [وأنا أيضًا.](https://youtu.be/Kn5MbZoSRNM) إن العمل لمدة 70 ساعة في الأسبوع أمر متروك لك. فترة.
 
-#### "Not good enough" syndrome.
-Whether you're actually a perfectionist or just a control-freak, you feel like nothing is ever finished, ever done, ever enough. And when you implicitly believe others will discover your ineptitude, or that others are able to be perfect where you're not, you (like me) have [real problems](https://longform.asmartbear.com/impostor-syndrome/).
+#### متلازمة "ليست جيدة بما فيه الكفاية".
+سواء كنت في الواقع تسعى إلى الكمال أو مجرد مهووس بالسيطرة، فإنك تشعر أنه لم يتم الانتهاء من أي شيء على الإطلاق، ولم يتم إنجازه على الإطلاق، وعلى الإطلاق بما فيه الكفاية. وعندما تعتقد ضمنيًا أن الآخرين سيكتشفون عدم كفاءتك، أو أن الآخرين قادرون على أن يكونوا مثاليين حيث لا تكون أنت كذلك، فأنت (مثلي) تواجه [مشاكل حقيقية](https://longform.asmartbear.com/impostor-syndrome/).
 
-At the end of the day, these things are all manageable by acknowledging them and acting accordingly. Learn to [say "no" to new projects](https://longform.asmartbear.com/say-yes/) (allowing you to continue a healthy obsession over a few). Go on a trip without the laptop so you have no choice but to be "unproductive." (Do that once for a week and you'll be so amazed at your increased productivity, energy, and happiness when you return that you'll never doubt this tool again. Take it from this workaholic.)
+في نهاية المطاف، كل هذه الأشياء يمكن التحكم فيها من خلال الاعتراف بها والتصرف وفقًا لها. تعلم كيفية [قول "لا" للمشاريع الجديدة](https://longform.asmartbear.com/say-yes/) (مما يسمح لك بمواصلة الهوس الصحي على عدد قليل من المشاريع). اذهب في رحلة بدون الكمبيوتر المحمول حتى لا يكون لديك خيار سوى أن تكون "غير منتج". (افعل ذلك مرة واحدة لمدة أسبوع وستندهش من زيادة إنتاجيتك وطاقتك وسعادتك عند عودتك ولن تشك أبدًا في هذه الأداة مرة أخرى. خذها من مدمن العمل هذا.)
 
-So "be yourself," yes. Don't vomit out some [stupid marketing prose](https://longform.asmartbear.com/authentic-is-dead/) on your website; [decide what you believe](https://longform.asmartbear.com/authentic/), then [run your company accordingly and publicly](https://longform.asmartbear.com/little-company/) and you *will* be more proud, more fulfilled, and likely more successful. You can't fight every foible, nor should you. You certainly shouldn't compromise your ethics and your sense of taste and awesomeness, because those are some of the few things that differentiate you and your company in the world.
+لذا "كن نفسك"، نعم. لا تتقيأ بعض [النثر التسويقي الغبي] (https://longform.asmartbear.com/authentic-is-dead/) على موقع الويب الخاص بك؛ [قرر ما تعتقده](https://longform.asmartbear.com/authentic/)، ثم [قم بإدارة شركتك وفقًا لذلك وبشكل علني](https://longform.asmartbear.com/little-company/) و *سوف* تكون أكثر فخرًا وإشباعًا، وربما أكثر نجاحًا. لا يمكنك محاربة كل نقطة ضعف، ولا ينبغي لك ذلك. من المؤكد أنك لا يجب أن تتنازل عن أخلاقك وحس الذوق لديك والذهول، لأن هذه هي بعض الأشياء القليلة التي تميزك أنت وشركتك في العالم.
 
-But neither should you stop striving, improving, learning, and developing "who you are."
+ولكن لا يجب عليك التوقف عن السعي والتحسين والتعلم وتطوير "من أنت".
 
-Feed your motor.
+تغذية المحرك الخاص بك.

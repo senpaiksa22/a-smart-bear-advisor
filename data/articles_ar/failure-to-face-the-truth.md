@@ -20,120 +20,105 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الفشل في مواجهة الحقيقة والاعتراف بالواقع الميداني تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Failure to face the truth
-
-> **Executive Summary:** This admonition recurs in myriad books, frameworks, and topics, across decades of time. When something is so consistent, it must be wisdom.
-> **Original URL:** [https://longform.asmartbear.com/failure-to-face-the-truth/](https://longform.asmartbear.com/failure-to-face-the-truth/)
-
 ![turns out my imposter syndrome was pretty much right on](https://public.asmartbear.com/books/anthology/chapters/failure-to-face-the-truth/d8014print-simple.png)
 
-A primary blocker of progress, from our personal lives to our corporate strategies, is a
+إن العائق الأساسي أمام التقدم، من حياتنا الشخصية إلى استراتيجياتنا المؤسسية، هو
 
-_Failure to face the truth._
+_الفشل في مواجهة الحقيقة._
 
-"The truth hurts." Yeah, so we avoid it. The truth is hard to find if we're not looking for it, and we're not. Denial (when intentional) and rationalization (when unintentional) is our normal operating mode. Because we don't realize this, it's an immense, invisible barrier. Whether because we don't like to admit we're wrong (even to ourselves, in secret), or because it will be annoying or painful or career-altering for the truth to be said aloud, we avoid the truth.
+"الحقيقة مؤلمة." نعم، لذلك نتجنب ذلك. من الصعب العثور على الحقيقة إذا لم نبحث عنها، ولم نفعل ذلك. إن الإنكار (عندما يكون متعمدًا) والتبرير (عندما يكون غير مقصود) هو وضع التشغيل الطبيعي لدينا. لأننا لا ندرك ذلك، فهو حاجز هائل وغير مرئي. سواء لأننا لا نحب أن نعترف بأننا مخطئون (حتى لأنفسنا، سرًا)، أو لأنه سيكون مزعجًا أو مؤلمًا أو يغير مسيرتنا المهنية أن تقال الحقيقة بصوت عالٍ، فإننا نتجنب الحقيقة.
 
-Once you start seeing the pattern of "failure to face the truth," you see it everywhere. In almost every meeting, someone is thinking something and not saying it, even though one of the [best uses of a meeting](https://longform.asmartbear.com/productive-meeting-activities/) is to unveil and discuss insights. In every strategy discussion, there's a monster in the room no one will name, even though the point of strategy is to identify and then construct a battle plan against the monsters. Written plans and strategies are all optimism and confirmatory data, rather than crystalizing the scary challenges so that we can attack them together.
+بمجرد أن تبدأ في رؤية نمط "الفشل في مواجهة الحقيقة"، تراه في كل مكان. في كل اجتماع تقريبًا، يفكر شخص ما في شيء ما ولا يقوله، على الرغم من أن أحد [أفضل استخدامات الاجتماع](https://longform.asmartbear.com/productive-meeting-activities/) هو الكشف عن الأفكار ومناقشتها. في كل مناقشة حول الإستراتيجية، يوجد وحش في الغرفة لن يذكره أحد، على الرغم من أن الهدف من الإستراتيجية هو تحديد خطة المعركة ضد الوحوش ثم بناءها. الخطط والاستراتيجيات المكتوبة كلها تفاؤل وبيانات تأكيدية، وليس بلورة التحديات المخيفة حتى نتمكن من مهاجمتها معا.
 
-Those who break through this barrier are rewarded, as many famous books and frameworks point out. It's fun to see this in action, because the examples are individually interesting, and because a totality of instances illuminates the pattern.
+ومن يخترق هذا الحاجز يُكافأ، كما تشير العديد من الكتب والأطر المشهورة. من الممتع رؤية هذا على أرض الواقع، لأن الأمثلة مثيرة للاهتمام بشكل فردي، ولأن مجموعة الأمثلة تسلط الضوء على النمط.
 
-### Radical Candor
+### الصراحة الراديكالية
 
-"When you say 'um' every third word, it makes you sound stupid." Not the feedback Kim Scott was hoping for after what she thought was a successful presentation to executives at Google. And it came from Sheryl Sandberg of all people. (Before she joined Facebook).
+"عندما تقول "أم" بعد كل كلمة ثالثة، فإن ذلك يجعلك تبدو غبيًا." لم تكن هذه هي التعليقات التي كانت كيم سكوت تأمل في الحصول عليها بعد ما اعتقدت أنه عرض تقديمي ناجح للمديرين التنفيذيين في Google. وجاءت من شيريل ساندبرج من بين كل الناس. (قبل انضمامها إلى الفيسبوك).
 
-Now Scott knew, that Sandberg knew, that Scott *wasn't* stupid. Therefore, it was obvious to her that this feedback was meant to help, not "obnoxious aggression" as Scott would later name the same straightforwardness when the motives are to belittle and hurt rather than to coach. And so Scott was grateful for being made to "face the truth." In her words:
+الآن عرف سكوت أن ساندبيرج كان يعلم أن سكوت لم يكن غبيًا. لذلك، كان من الواضح لها أن هذه التعليقات كانت تهدف إلى المساعدة، وليس "العدوان البغيض" كما أطلق سكوت لاحقًا على نفس الصراحة عندما تكون الدوافع هي التقليل والأذى بدلاً من التدريب. ولذا كان سكوت ممتنًا لأنه أجبر على "مواجهة الحقيقة". في كلماتها:
 
-> Why had nobody told me for 15 years? It was like I'd been walking through my whole career with a hunk of spinach between my teeth and nobody had had the courtesy to tell me it was there.
+> لماذا لم يخبرني أحد لمدة 15 عامًا؟ كان الأمر كما لو كنت أسير طوال مسيرتي المهنية مع قطعة كبيرة من السبانخ بين أسناني ولم يكن لدى أحد المجاملة ليخبرني بوجودها.
 
-The truth is a courtesy; conversely, failure to face the truth is at least impolite, and at worst "ruinous" in Scott's terminology, as when a manager withholds necessary feedback for fear of hurt feelings or being seen as unkind.
+الحقيقة مجاملة. على العكس من ذلك، فإن الفشل في مواجهة الحقيقة هو على الأقل غير مهذب، وفي أسوأ الأحوال "مدمر" في مصطلحات سكوت، كما هو الحال عندما يحجب المدير التعليقات الضرورية خوفًا من جرح المشاعر أو أن يُنظر إليه على أنه قاس.
 
-Scott is now famous for promulgating this philosophy of direct, honest, empathetic facing-of-the-truth in her book, [_Radical Candor_](https://www.radicalcandor.com/the-book/). It starts with a foundation of personal trust--trust that the feedback-giver genuinely cares for the well-being of the feedback-receiver, and that it is given in the spirit of "facing the truth" and not in the spirit of domination or manipulation or other ill-intent that people in positions of power might visit upon those subject to that power.
+تشتهر سكوت الآن بنشر فلسفة المواجهة المباشرة والصادقة والمتعاطفة للحقيقة في كتابها، [_الصراحة الراديكالية_](https://www.radicalcandor.com/the-book/). يبدأ الأمر بأساس من الثقة الشخصية - الثقة في أن مقدم التغذية الراجعة يهتم بصدق برفاهية متلقي التغذية الراجعة، وأنها تُعطى بروح "مواجهة الحقيقة" وليس بروح الهيمنة أو التلاعب أو أي سوء نية آخر قد يلجأ إليه الأشخاص في مناصب السلطة على الأشخاص الخاضعين لتلك السلطة.
 
-We're thankful when a coach admonishes us and shows us a better way; a coach that lied to you, even by omission, telling you everything is fine when it isn't, would be a bad coach.
+نحن ممتنون عندما ينصحنا المدرب ويبين لنا طريقة أفضل؛ المدرب الذي كذب عليك، حتى عن طريق الإغفال، وأخبرك أن كل شيء على ما يرام عندما لم يكن كذلك، سيكون مدربًا سيئًا.
 
-### Five Dysfunctions of a Team
+### خمسة خلل في الفريق
 
-Possibly the most famous book on diagnosing problems in team dynamics and building high-functioning teams, [_Five Dysfunctions_](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) by Patrick Lencioni starts with the observation that great teams are built in layers, each requiring the next to be effective:
+من المحتمل أن الكتاب الأكثر شهرة حول تشخيص المشكلات في ديناميكيات الفريق وبناء فرق عالية الأداء، [_Five Dysfunctions_](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) يبدأ من تأليف باتريك لينسيوني بملاحظة أن الفرق العظيمة يتم بناؤها في طبقات، كل منها يتطلب ما يليه ليكون فعالاً:
 
 ![Diagram of Patrick Lencioni's "Five Dynfunctions of a Team" framework](https://public.asmartbear.com/books/anthology/chapters/failure-to-face-the-truth/image-simple.png)
 
-Exactly like Scott's Radical Candor, it is critical that a team be capable of constructive conflict, "discussing the real issues," facing the truth. That requires the team to first build trust, so that it is safe to have conflict.
+تمامًا مثل صراحة سكوت الراديكالية، من الأهمية بمكان أن يكون الفريق قادرًا على الصراع البناء، و"مناقشة القضايا الحقيقية"، ومواجهة الحقيقة. وهذا يتطلب من الفريق أن يقوم أولاً ببناء الثقة، بحيث يكون من الآمن حدوث صراع.
 
-"Failure to face the truth," together, in the open, prevents teams from being great. We must have enough trust in each other to face the truth, together. If someone can't handle that trust, maybe they're not right for the group after all.
+"الفشل في مواجهة الحقيقة" معًا، في العلن، يمنع الفرق من أن تكون عظيمة. يجب أن يكون لدينا ما يكفي من الثقة في بعضنا البعض لمواجهة الحقيقة معًا. إذا لم يتمكن شخص ما من التعامل مع هذه الثقة، فربما لا يكون مناسبًا للمجموعة بعد كل شيء.
 
-### Good Strategy, Bad Strategy
+### استراتيجية جيدة، استراتيجية سيئة
 
-In one of the seminal books defining "strategy," Richard Rumelt lists common hallmarks of bad strategy. Each one is so common, you'll shake your head and laugh (or cry, if you're guilty of these sins):
+في أحد الكتب الرائدة التي تحدد "الإستراتيجية"، يسرد ريتشارد روملت السمات المشتركة للاستراتيجية السيئة. كل واحدة منها شائعة جدًا، وسوف تهز رأسك وتضحك (أو تبكي، إذا كنت مذنبًا بهذه الخطايا):
 
-> • *Fluff*. Fluff is a form of gibberish masquerading as strategic concepts or arguments. It uses [non-specific or] esoteric concepts to create the illusion of high-level thinking.  
->   
-> • *Failure to face the challenge.* Bad strategy fails to recognize or define the challenge. When you cannot define the challenge, you cannot evaluate a strategy or improve it.  
->   
-> • *Mistaking goals for strategy.* Many bad strategies are just statements of desire rather than plans for overcoming obstacles.  
->   
-> • *Bad strategic objectives.* A strategic objective is set by a leader as a means to an end. Strategic objectives are "bad" when they fail to address critical issues or when they are impracticable.  
->   
-> --Richard Rumelt, [Good Strategy, Bad Strategy](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239), p32
+> • *زغب*. الزغب هو شكل من أشكال الثرثرة التي تتنكر في شكل مفاهيم أو حجج استراتيجية. يستخدم مفاهيم [غير محددة أو] مقصورة على فئة معينة لخلق وهم التفكير عالي المستوى.
+> 
+> • *الفشل في مواجهة التحدي.* الإستراتيجية السيئة تفشل في التعرف على التحدي أو تعريفه. عندما لا تتمكن من تحديد التحدي، لا يمكنك تقييم الإستراتيجية أو تحسينها.
+> 
+> • *الخلط بين الأهداف والإستراتيجية.* العديد من الاستراتيجيات السيئة هي مجرد تصريحات عن الرغبة وليست خططًا للتغلب على العقبات.
+> 
+> • *أهداف استراتيجية سيئة.* يتم تحديد الهدف الاستراتيجي من قبل القائد كوسيلة لتحقيق غاية. تعتبر الأهداف الإستراتيجية "سيئة" عندما تفشل في معالجة القضايا الحاسمة أو عندما تكون غير قابلة للتنفيذ.
+> 
+> --ريتشارد روملت، [استراتيجية جيدة، استراتيجية سيئة](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239)، صفحة 32
 
-His phrase "Failure to face the challenge" is my inspiration for "Failure to face the truth." Strategy must identify and then address the most important and difficult facts-of-the-matter of the market, competitive space, customers, product, and team.
+عبارته "الفشل في مواجهة التحدي" هي مصدر إلهامي لـ "الفشل في مواجهة الحقيقة". يجب أن تحدد الإستراتيجية ثم تعالج أهم وأصعب الحقائق المتعلقة بالسوق، والفضاء التنافسي، والعملاء، والمنتج، والفريق.
 
-It's scary to say "Our market is shrinking," but if it's true, and you refuse to identify it, if you don't write it down that crisply, if you don't challenge the company to come up with alternatives for how to address it, if you don't build a strategy that expressly attacks it head-on, then it will be fatal. Face the truth.
+من المخيف أن تقول "سوقنا ينكمش"، ولكن إذا كان هذا صحيحًا، وترفض تحديده، وإذا لم تكتبه بهذه الوضوح، وإذا لم تتحدى الشركة للتوصل إلى بدائل لكيفية التعامل معه، وإذا لم تقم ببناء استراتيجية تهاجمها صراحةً بشكل مباشر، فسيكون الأمر قاتلاً. واجه الحقيقة.
 
-### Lazy language belies a deeper failure
+### إن اللغة الكسولة تخفي فشلاً أعمق
 
-There are traces of "failure to face the truth" even in Rumelt's other bullets. Fluffy language is a personal peeve of mine. In the benign case it is simple laziness--avoiding the work of crafting prose by filling the requisite space on the page with jargon and generic phrases. In the worst case, it belies the lack of having thoughts in the first place.
+هناك آثار "للفشل في مواجهة الحقيقة" حتى في رصاصات روملت الأخرى. اللغة الرقيقة هي غيظ شخصي لي. في الحالة الحميدة، يكون الكسل البسيط هو تجنب العمل في صياغة النثر عن طريق ملء المساحة المطلوبة على الصفحة بالمصطلحات والعبارات العامة. وفي أسوأ الأحوال، فإنه يكذب عدم وجود أفكار في المقام الأول.
 
-This problem is rampant in marketing and content-marketing, but sticking with the theme of strategy, it's especially common in "vision" or "mission" statements, theoretically summarizing the company's aspirations, but often just a non-specific blob that also applies to any other company in the space, e.g.
+هذه المشكلة منتشرة في التسويق وتسويق المحتوى، ولكن مع التمسك بموضوع الإستراتيجية، فهي شائعة بشكل خاص في عبارات "الرؤية" أو "المهمة"، التي تلخص نظريًا تطلعات الشركة، ولكنها غالبًا ما تكون مجرد نقطة غير محددة تنطبق أيضًا على أي شركة أخرى في هذا المجال، على سبيل المثال.
 
-> A leading provider of website development for businesses of all sizes.
+> شركة رائدة في مجال تطوير مواقع الويب للشركات بجميع أحجامها.
 
-Well, that was easy! Easy because it says almost nothing, and as a result, it's wrong. Wrong because it doesn't develop websites both for coffee farmers in Ethiopia and also for Tesla's launch of their next vehicle ("all sizes").
+حسنا، كان ذلك سهلا! سهل لأنه لا يقول شيئًا تقريبًا، ونتيجة لذلك، فهو خطأ. خطأ لأنها لا تطور مواقع ويب لمزارعي القهوة في إثيوبيا وأيضًا لإطلاق Tesla لسيارتهم التالية ("جميع الأحجام").
 
-Perhaps it's mere laziness; after all, the only words that communicate anything about what it *is*, is "website development." Or perhaps the company refuses to "face the truth" of what it really does, and who it really serves, where it's really strong but also weak, afraid to say "no" to any potential customer. What if, instead:
+ربما يكون الأمر مجرد كسل؛ ففي نهاية المطاف، الكلمات الوحيدة التي تنقل أي شيء عن ماهيته هي "تطوير موقع الويب". أو ربما ترفض الشركة "مواجهة الحقيقة" بشأن ما تفعله حقًا، ومن تخدمه حقًا، حيث أنها قوية حقًا ولكنها ضعيفة أيضًا، وتخشى أن تقول "لا" لأي عميل محتمل. ماذا لو بدلاً من ذلك:
 
-> We are boutique artisans chosen by discerning businesses who demand the highest-quality, completely unique web experiences.
+> نحن حرفيون متخصصون تم اختيارهم من قبل الشركات المميزة التي تطلب تجارب ويب عالية الجودة وفريدة تمامًا.
 
-Sounds like a small company ("boutique") who nevertheless charges a lot (also "boutique"), but delivers amazing work ("discerning" and "unique"). By saying "no" to people who don't want that, you get to say "yes" to interesting projects at profitable rates, even beating out larger competitors who you can argue are just "factories that churn out the same website with different colors." But only if you face the truth.
+تبدو الشركة وكأنها شركة صغيرة ("بوتيك") والتي مع ذلك تتقاضى رسومًا كبيرة ("بوتيك" أيضًا)، ولكنها تقدم عملاً رائعًا ("مميزًا" و"فريدًا"). من خلال قول "لا" للأشخاص الذين لا يريدون ذلك، يمكنك أن تقول "نعم" للمشاريع المثيرة للاهتمام بأسعار مربحة، حتى أنك تتفوق على المنافسين الأكبر الذين يمكنك القول بأنهم مجرد "مصانع تنتج نفس الموقع بألوان مختلفة." ولكن فقط إذا واجهت الحقيقة.
 
-### Confront the brutal facts
+### مواجهة الحقائق القاسية
 
-In [_Good to Great_](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996), one of the most-cited books on the formula ([if such a thing exists](https://longform.asmartbear.com/survivor-bias/)) for successful businesses, Jim Collins frequently returns to the story of A&P and Kroger--two companies alike in dignity in fair 1960s America, where we lay our scene--yet Kroger catapulted past A&P because, in Collins's words, only Kroger was willing to "confront the brutal facts."
+في [_من الجيد إلى العظيم_](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)، أحد الكتب الأكثر استشهادًا حول الصيغة ([إذا كان هناك شيء من هذا القبيل](https://longform.asmartbear.com/survivor-bias/)) بالنسبة للشركات الناجحة، يعود جيم كولينز كثيرًا إلى قصة A&P وKroger - شركتان على حد سواء في الكرامة في أمريكا في الستينيات العادلة، حيث نرسم مشهدنا - ومع ذلك، تجاوز كروجر A&P لأنه، على حد تعبير كولينز، كان كروجر فقط هو الذي كان على استعداد "لمواجهة الحقائق الوحشية".
 
-![Kroger and A&P grew about the same for twenty years, both under-performing the broader market. Grocery stores are hard.
-(Source: Good to Great)](https://public.asmartbear.com/books/anthology/chapters/failure-to-face-the-truth/image021-simple.png)
+![Kroger and A&P grew about the same for twenty years, both under-performing the broader market. Grocery stores are hard. (Source: Good to Great)](https://public.asmartbear.com/books/anthology/chapters/failure-to-face-the-truth/image021-simple.png)
 
-![Kroger exploded with success after "confronting the brutal facts," while A&P continued to falter.
-(Source: Good to Great)](https://public.asmartbear.com/books/anthology/chapters/failure-to-face-the-truth/image022-simple.png)
+![Kroger exploded with success after "confronting the brutal facts," while A&P continued to falter. (Source: Good to Great)](https://public.asmartbear.com/books/anthology/chapters/failure-to-face-the-truth/image022-simple.png)
 
-Collins tells a fantastic story, abridged here:
+يروي كولينز قصة رائعة، مختصرة هنا:
 
-> A&P stood as the largest retailing organization in the world and one of the largest corporations in the United States, at one point ranking behind only General Motors in sales. Kroger, in contrast, stood as an unspectacular grocery chain, less than half the size of A&P.  
-> ...  
-> A&P had a perfect model for the first half of the twentieth century ... cheap, plentiful groceries sold in utilitarian stores. But in the affluent second half of the twentieth century, Americans changed. They wanted ... bigger stores, ... fresh-baked bread, flowers, cold medicines, forty-five choices of cereal, and ten types of milk. ... and they wanted to do their banking and get their annual flu shots. In short, they no longer wanted grocery stories. They wanted super-stores.  
-> ...  
-> Here's what's interesting: Both Kroger and A&P were old companies heading into the 1970s [Kroger 82, A&P 111]; both companies had nearly all their assets investing in traditional grocery stores; both had strongholds outside of the major growth areas of the United States; and both companies had knowledge of how the world around them was changing. Yet one of these companies confronted the brutal facts of reality head-on and completely changed its entire system in response; the other stuck its head in the sand.
+> تعتبر A&P أكبر مؤسسة للبيع بالتجزئة في العالم وواحدة من أكبر الشركات في الولايات المتحدة، حيث كانت في مرحلة ما تحتل مرتبة متأخرة عن جنرال موتورز فقط في المبيعات. في المقابل، كانت كروجر بمثابة سلسلة بقالة غير مذهلة، أي أقل من نصف حجم A&P.
+> ...
+> كان لدى شركة A&P نموذج مثالي للنصف الأول من القرن العشرين... البقالة الرخيصة والوفيرة التي تباع في المتاجر النفعية. ولكن في النصف الثاني من القرن العشرين، تغير الأميركيون. لقد أرادوا... متاجر أكبر،... خبزًا طازجًا، وزهورًا، وأدوية باردة، وخمسة وأربعين خيارًا من الحبوب، وعشرة أنواع من الحليب. ... وأرادوا القيام بمعاملاتهم المصرفية والحصول على لقاح الأنفلونزا السنوي. باختصار، لم يعودوا يريدون قصص البقالة. لقد أرادوا المتاجر الكبرى.
+> ...
+> وإليك ما هو مثير للاهتمام: كانت كل من Kroger وA&P شركتين قديمتين تتجهان إلى السبعينيات [Kroger 82, A&P 111]؛ كانت كلتا الشركتين تستثمران جميع أصولهما تقريبًا في متاجر البقالة التقليدية. وكلاهما كان لهما معاقل خارج مناطق النمو الرئيسية في الولايات المتحدة؛ وكانت كلتا الشركتين على علم بكيفية تغير العالم من حولهما. ومع ذلك، واجهت إحدى هذه الشركات حقائق الواقع القاسية وجهاً لوجه وغيرت نظامها بالكامل رداً على ذلك؛ والآخر غرس رأسه في الرمال.
 
-Collins goes on to detail this last sentence--how both companies were fully aware of these changes, A&P even opening a test store under a different name, which was a "super-store" that didn't even sell A&P items, which outperformed their standard stores. Not wanting to face those facts, they shuttered the test store and went back to business-as-usual. Meanwhile, Kroger made the same experiments, found the same results, and decided to pivot the entire company to become the modern-day supermarket.
+ويواصل كولينز تفصيل هذه الجملة الأخيرة - كيف كانت كلتا الشركتين على علم تام بهذه التغييرات، حتى أن A&P افتتحت متجرًا تجريبيًا تحت اسم مختلف، والذي كان "متجرًا كبيرًا" لم يبيع حتى عناصر A&P، والتي تفوقت على متاجرها القياسية. ولعدم رغبتهم في مواجهة هذه الحقائق، أغلقوا متجر الاختبار وعادوا إلى العمل كالمعتاد. وفي الوقت نفسه، أجرى كروجر نفس التجارب، ووجد نفس النتائج، وقرر تحويل الشركة بأكملها لتصبح السوبر ماركت الحديث.
 
-A&P saw the truth, but failed to face the truth. Whether it's Jim Collins analyzing dozens of companies or Rumelt with his experience with dozens of strategies, the pattern is the same: Face the truth, or be killed by it.
+لقد رأت A&P الحقيقة، لكنها فشلت في مواجهة الحقيقة. سواء كان جيم كولينز يقوم بتحليل العشرات من الشركات أو روميلت بخبرته في العشرات من الاستراتيجيات، فإن النمط هو نفسه: واجه الحقيقة، أو ستقتل بسببها.
 
-### When it's hard, we avoid it
+### عندما يكون الأمر صعبا، نتجنبه
 
-It seems obvious that avoiding the truth would lead to bad outcomes, so why do we do it? Because it's hard. It's not the only obvious thing in our lives that we avoid, solely because it's hard. Diet? Exercise? Giving feedback? Working on our relationships?
+يبدو من الواضح أن تجنب الحقيقة سيؤدي إلى نتائج سيئة، فلماذا نفعل ذلك؟ لأنه صعب. إنه ليس الشيء الوحيد الواضح في حياتنا الذي نتجنبه، فقط لأنه صعب. نظام عذائي؟ يمارس؟ إعطاء ردود الفعل؟ العمل على علاقاتنا؟
 
-It's hard to tell the truth to someone's face. It's hard to realize that your industry has completely shifted, and it's *really* hard to say that out loud in front of the whole company. It's hard to say "no" to a customer when you have bills to pay, and it's hard to make a major strategic choice, because what if you're wrong?
+من الصعب قول الحقيقة في وجه شخص ما. من الصعب أن تدرك أن مجال عملك قد تحول تمامًا، ومن الصعب *حقًا* أن تقول ذلك بصوت عالٍ أمام الشركة بأكملها. من الصعب أن تقول "لا" للعميل عندما يكون عليك دفع فواتير، ومن الصعب اتخاذ خيار استراتيجي كبير، فماذا لو كنت مخطئًا؟
 
-That's a good explanation for failure to face the truth, but it's not a good reason.
+وهذا تفسير جيد للفشل في مواجهة الحقيقة، لكنه ليس سببا وجيها.
 
-Face the truth.
+واجه الحقيقة.
 
-> "Go ahead. Faith will follow."  
-> --Jean-Baptiste le Rond d'Alembert, encouraging early practitioners of calculus, even though rigorous proofs of its legitimacy were still a hundred years away.
+> "المضي قدما. الإيمان سوف يتبع."
+> - جان باتيست لو روند دالمبيرت، يشجع ممارسي حساب التفاضل والتكامل الأوائل، على الرغم من أن الأدلة الصارمة على شرعيته كانت لا تزال على بعد مائة عام.

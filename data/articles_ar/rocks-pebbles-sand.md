@@ -20,247 +20,210 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الصخور الكبيرة، الحصى، والرمال: التطبيق العملي لإدارة الأولويات الاستراتيجية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Rocks, Pebbles, Sand: How to implement in practice
-
-> **Executive Summary:** This complete work-prioritization framework builds on the simplistic "Rocks, Pebbles, Sand" analogy, adding the details you need in the real world.
-> **Original URL:** [https://longform.asmartbear.com/rocks-pebbles-sand/](https://longform.asmartbear.com/rocks-pebbles-sand/)
-
-You know the geology-in-a-jar lesson [from Stephen Covey](https://resources.franklincovey.com/the-8th-habit/big-rocks-stephen-r-covey): Schedule big things first, otherwise you run out of time (Figure 1 & Figure 2).
+أنت تعرف درس الجيولوجيا في جرة [من ستيفن كوفي](https://resources.franklincovey.com/the-8th-habit/big-rocks-stephen-r-covey): حدد موعدًا للأشياء الكبيرة أولًا، وإلا فسينفذ منك الوقت (الشكل 1 والشكل 2).
 
 ![If you do little things first, there's no time for big things.](https://public.asmartbear.com/books/anthology/chapters/rocks-pebbles-sand/sand-rocks-pebbles-bad-simple.png)
 
 ![If you do big things first, you can fit in smaller things.](https://public.asmartbear.com/books/anthology/chapters/rocks-pebbles-sand/rocks-pebbles-sand-good-simple.png)
 
-A common mistake is to think this applies only to the *size* of the work. That is, "Rocks" means "stuff that takes a few quarters," "Pebbles" means "a few sprints," and "Sand" means "less than a sprint."
+من الأخطاء الشائعة الاعتقاد بأن هذا ينطبق فقط على *حجم* العمل. وهذا يعني أن "الصخور" تعني "الأشياء التي تستغرق بضعة أرباع"، و"الحصى" تعني "عدة سباقات السرعة"، و"الرمال" تعني "أقل من سباق سريع".
 
-This misses the most important point of work-ordering: It's about maximizing *impact* by not allowing the easy or urgent things to crowd out the strategic things that take years to unfold but are more important than everything else combined. A thousand "quick wins" do not create durable advantages or fulfill a long-term vision.
+وهذا يتجاهل النقطة الأكثر أهمية في ترتيب العمل: فهو يتعلق بتعظيم *التأثير* من خلال عدم السماح للأشياء السهلة أو العاجلة بمزاحمة الأشياء الإستراتيجية التي تستغرق سنوات لتتكشف ولكنها أكثر أهمية من كل شيء آخر مجتمعًا. إن ألف "مكاسب سريعة" لا تخلق مزايا دائمة أو تحقق رؤية طويلة المدى.
 
-Another mistake is to think that the previous paragraph is the end of the story. "Schedule revenue-growth stuff, then maintenance updates, got it." No. Each type of work requires different prioritization frameworks, has different goals, and hide different traps that make you unwittingly ineffective.
+والخطأ الآخر هو الاعتقاد بأن الفقرة السابقة هي نهاية القصة. "قم بجدولة الأمور المتعلقة بنمو الإيرادات، ثم تحديثات الصيانة، لقد فهمت الأمر." لا، فكل نوع من العمل يتطلب أطرًا مختلفة لتحديد الأولويات، وله أهداف مختلفة، ويخفي فخاخًا مختلفة تجعلك غير فعال عن غير قصد.
 
-If you pretend these differences don't exist, your team will be working hard and delivering lots of code-commits--the appearance of "productivity"--but they'll feel like they're not making progress fast enough, competition will start catching up, and they'll (correctly) complain that they can't see how their work is connected to the strategy.
+إذا تظاهرت بعدم وجود هذه الاختلافات، فسيعمل فريقك بجد ويقدم الكثير من التزامات التعليمات البرمجية - مظهر "الإنتاجية" - لكنهم سيشعرون أنهم لا يحرزون تقدمًا بالسرعة الكافية، وستبدأ المنافسة في اللحاق بالركب، وسيشتكون (بشكل صحيح) من أنهم لا يستطيعون رؤية مدى ارتباط عملهم بالاستراتيجية.
 
-The good news is: It does not take additional time to do it right. This is an instance of "smarter, not harder." You need the right frameworks.
+والخبر السار هو: لا يستغرق الأمر وقتًا إضافيًا للقيام بذلك بشكل صحيح. وهذا مثال على "الذكاء وليس الأصعب". أنت بحاجة إلى الأطر الصحيحة.
 
-## Three mindsets
+## ثلاث عقليات
 
-A tabular summary is trite, but it's a handy reference:
+الملخص الجدولي أمر مبتذل، لكنه مرجع مفيد:
 
-|  | Rocks | Pebbles | Sand |
-|:----|:---:|:---:|:---:|
-| Effort | ≥3 Months | 1-4 Sprints | ≤1 Sprint |
-| Maximize | Impact | ROI | Through­put |
-| Outlook | Long-term | Short-term | Imm­ediate |
-| Scope | Strategic | Tactical | _any_ |
-| How Decide | [Deliberate](https://longform.asmartbear.com/maximized-decision/) | [Analytical](https://longform.asmartbear.com/roi-rubric/) | In­tuitive |
-| Role of Exec | Decider | Observer | _none_ |
-| Role of PM | Driver | Decider | Decider <br/> *(but engage devs)* |
-| Beware | insufficient impact | over-esti­mating <br/> ROI | over-think­ing / <br/> over-plan­ning |
+|  | الصخور | الحصى | الرمال | |:----|:---:|:---:|:---:| | جهد | ≥3 أشهر | 1-4 سباقات السرعة | ≥1 سبرينت | | تعظيم | التأثير | عائد الاستثمار | الإنتاجية | | التوقعات | طويل الأمد | قصير المدى | فوري | | النطاق | استراتيجي | التكتيكية | _اي_ | | كيف تقرر | [متعمد](https://longform.asmartbear.com/maximized-decision/) | [تحليلي](https://longform.asmartbear.com/roi-rubric/) | بديهية | | دور المدير التنفيذي | مقرر | المراقب | _لا شيء_ | | دور رئيس الوزراء | سائق | مقرر | صاحب القرار <br/> *(ولكن إشراك المطورين)* | | احذر | تأثير غير كاف | المبالغة في تقدير عائد الاستثمار <br/> | الإفراط في التفكير / <br/> الإفراط في التخطيط |
 
-Now we'll justify and explain how to use this to maximum effect, each stone in turn.
+الآن سنقوم بتبرير وشرح كيفية استخدام هذا لتحقيق أقصى قدر من التأثير، كل حجر على حدة.
 
-## Rocks maximize Impact
+## الصخور تعظيم التأثير
 
 ![sisyphus treadmill working from home](https://public.asmartbear.com/books/anthology/chapters/rocks-pebbles-sand/d8717print-simple.png)
 
-#### Duration: 3-12 months
+#### المدة: 3-12 شهرا
 
-Rocks take the most time; let's call it 3-6 months. Long projects are not only expensive, they're also most likely to over-run, because they're the most complex, contain the most unknowns, and have the most dependencies. So it's really 3-12 months.
+تستغرق الصخور معظم الوقت؛ دعنا نسميها 3-6 أشهر. المشاريع الطويلة ليست باهظة الثمن فحسب، بل من المرجح أيضًا أن يتم تجاوزها، لأنها الأكثر تعقيدًا، وتحتوي على معظم الأشياء المجهولة، ولديها معظم التبعيات. لذا فهي في الحقيقة من 3 إلى 12 شهرًا.
 
-> **Hofstadter's Law**  
-> It always takes longer than you expect, even when you take Hofstadter's Law into account.
+> **قانون هوفستاتر**
+> يستغرق الأمر دائمًا وقتًا أطول مما تتوقع، حتى عندما تأخذ قانون هوفستاتر في الاعتبار.
 
-Well-oiled agile teams will point out they can hit earlier deadlines by adjusting scope and pushing less-urgent items past the deadline. That's wonderful for learning and customer-delight. But the leftover work still needs to be done, even if rearranged, so this doesn't change the magnitude of the effort required to achieve the full effect of the idea. And anyway, [there are good reasons](https://twitter.com/housecor/status/1552324251876593664?s=21) why we're consistently incapable of estimating big projects.
+ستشير فرق Agile المجهزة جيدًا إلى أنها تستطيع الالتزام بالمواعيد النهائية المبكرة من خلال تعديل النطاق ودفع العناصر الأقل إلحاحًا إلى ما بعد الموعد النهائي. وهذا أمر رائع للتعلم وإسعاد العملاء. لكن ما تبقى من العمل ما زال بحاجة إلى إنجازه، حتى لو أعيد ترتيبه، فلا يغير ذلك من حجم الجهد المطلوب لتحقيق التأثير الكامل للفكرة. وعلى أية حال، [هناك أسباب وجيهة](https://twitter.com/housecor/status/1552324251876593664?s=21) لماذا نحن دائمًا غير قادرين على تقدير المشاريع الكبيرة.
 
-A team might complete only one Rock in a year--certainly no more than three--especially because other work also needs to get done. If you can do only one big thing this year, that thing had better be extraordinary.
+قد يكمل الفريق صخرة واحدة فقط في العام - وبالتأكيد ليس أكثر من ثلاثة - خاصة وأن هناك أعمالًا أخرى تحتاج أيضًا إلى إنجازها. إذا كان بوسعك أن تفعل شيئًا كبيرًا واحدًا فقط هذا العام، فمن الأفضل أن يكون هذا الشيء استثنائيًا.
 
-#### Maximize impact
+#### تعظيم التأثير
 
-A Rock must deliver dramatic, measurable impact, not merely "incremental improvement." It must be *strategic*, meaning that it must attack the [most important challenges you face](https://longform.asmartbear.com/strategic-planning/), materially advancing the company down its [unique path](https://longform.asmartbear.com/worse-but-unique/) for winning its corner of the market, leveraging existing advantages to reduce risk and to forge a path that others cannot easily follow, and build new [durable advantages](https://longform.asmartbear.com/leverage/). This is where teams most often fall short: Not delivering enough impact to justify their [investment](https://longform.asmartbear.com/investment/) of time.
+يجب أن تقدم "الصخرة" تأثيرًا دراماتيكيًا وقابلاً للقياس، وليس مجرد "تحسين تدريجي". يجب أن يكون *إستراتيجيًا*، مما يعني أنه يجب أن يهاجم [أهم التحديات التي تواجهها](https://longform.asmartbear.com/strategic-planning/)، ويدفع الشركة ماديًا نحو [مسارها الفريد](https://longform.asmartbear.com/worse-but-unique/) للفوز بجزء من السوق، والاستفادة من المزايا الحالية لتقليل المخاطر وصياغة مسار لا يمكن للآخرين اتباعه بسهولة، وبناء [متين] جديد. المزايا](https://longform.asmartbear.com/leverage/). هذا هو المكان الذي تفشل فيه الفرق في أغلب الأحيان: عدم تحقيق تأثير كافٍ لتبرير [استثمارها](https://longform.asmartbear.com/investment/) من الوقت.
 
-Sadly, big projects not only over-run on time, but also often under-deliver on impact.[^1] These sorts of [predictions are famously inaccurate](https://longform.asmartbear.com/predict-the-future/). So it's even more imperative that we demand an enormous impact: That way, if we under-achieve, it was still worth the time.
+وللأسف، لا يقتصر تنفيذ المشاريع الكبيرة على تجاوز الوقت المحدد فحسب، بل غالبًا ما يكون تأثيرها أقل من اللازم.[^1] من المعروف أن هذا النوع من [التنبؤات غير دقيقة](https://longform.asmartbear.com/predict-the-future/). لذا، فمن الأكثر إلحاحًا أن نطالب بإحداث تأثير هائل: وبهذه الطريقة، إذا فشلنا في الإنجاز، فإن الأمر لا يزال يستحق الوقت.
 
-Crucially, and perhaps controversially: **Do _not_ maximize ROI**.[^2] Your primary job is to execute your strategy to the fullest, spending the most-possible time on the most-impactful thing. If an idea is less impactful, yet also quicker to achieve, that is *not* the right choice. When things go worse than planned, that "less impact" turns into "incremental impact," and you cannot spend half a year on something so trivial.
+الأمر الأهم، وربما المثير للجدل: **لا_تعظيم عائد الاستثمار**.[^2] مهمتك الأساسية هي تنفيذ إستراتيجيتك على أكمل وجه، وقضاء أكبر وقت ممكن في الشيء الأكثر تأثيرًا. إذا كانت الفكرة أقل تأثيرًا، ولكنها أيضًا أسرع في التنفيذ، فهذا ليس هو الاختيار الصحيح. عندما تسوء الأمور عما هو مخطط له، فإن ذلك "التأثير الأقل" يتحول إلى "تأثير متزايد"، ولا يمكنك قضاء نصف عام على شيء تافه للغاية.
 
-[^1]: Fortunately, on occasion they can over-deliver by an order of magnitude or two; this is always the *post hoc* story of a successful company, the founders shaking their heads saying they never believed it would be *this* successful.
+[^1]: لحسن الحظ، في بعض الأحيان يمكنهم الإفراط في التسليم بمعدل كبير أو اثنين؛ هذه هي دائمًا القصة *المرحلة اللاحقة* للشركة الناجحة، حيث يهز المؤسسون رؤوسهم قائلين إنهم لم يصدقوا أبدًا أنها ستكون *هذا* ناجحًا.
 
-[^2]: ROI is "Return on Investment," computed as a measure of impact divided by a measure of effort, resulting in a measure of efficiency, i.e. "value per sprint." (Whatever "value" means.)
+[^2]: عائد الاستثمار هو "عائد الاستثمار"، ويتم حسابه كمقياس للتأثير مقسومًا على مقياس الجهد، مما يؤدي إلى مقياس الكفاءة، أي "القيمة لكل سباق". (مهما كانت تعني "القيمة".)
 
-#### Beware: "Maximizing impact" is harder than you think
+#### احذر: "تعظيم التأثير" أصعب مما تعتقد
 
-The most common problem is executing Rocks that aren't impactful enough. The Rock claims to "make a difference," but not *enough* difference, and after a few years, it feels like "we're not moving fast enough" or "why isn't revenue higher" even though the work from engineering is high-quality and stories are duly delivered every sprint.
+المشكلة الأكثر شيوعًا هي تنفيذ الصخور التي لا يكون لها تأثير كافٍ. يدعي The Rock أنه "يحدث فرقًا"، ولكن ليس فرقًا *كافيًا*، وبعد بضع سنوات، يبدو الأمر وكأننا "لا نتحرك بالسرعة الكافية" أو "لماذا لا ترتفع الإيرادات" على الرغم من أن العمل الهندسي عالي الجودة ويتم تسليم القصص حسب الأصول في كل سباق.
 
-Hofstadter's Law applies not only to the time-estimate, but to the impact-estimate, and thus to the height of the bar that need to set: It must be higher than you think, even when you take Hofstadter's Law into account. Over-shooting is the antidote to Hofstadter's Law.
+لا ينطبق قانون هوفستاتر على تقدير الوقت فحسب، بل أيضًا على تقدير التأثير، وبالتالي على ارتفاع الشريط الذي يجب تحديده: يجب أن يكون أعلى مما تعتقد، حتى عندما تأخذ قانون هوفستاتر في الاعتبار. الإفراط في إطلاق النار هو الترياق لقانون هوفستاتر.
 
-Even if your ideas aren't good enough, you will be tempted to select the most impactful idea on the list and just do it. This is a mistake. It's such a common mistake, it is a cliché: ["Good" is the enemy of "Great."](https://www.goodreads.com/quotes/701885-good-is-the-enemy-of-great-and-that-is-one) You have to [face the truth](https://longform.asmartbear.com/failure-to-face-the-truth/): Your biggest problem is a lack of a truly great idea, and you must solve *that* rather than embarking on a long, misguided journey. The team can do Pebbles and Sand in the meantime, thus staying productive, while also helping create and validate better ideas.
+حتى لو لم تكن أفكارك جيدة بما فيه الكفاية، فسوف تميل إلى اختيار الفكرة الأكثر تأثيرًا في القائمة والقيام بذلك. هذا خطأ. إنه خطأ شائع، وهو عبارة مبتذلة: ["الجيد" هو عدو "العظيم."](https://www.goodreads.com/quotes/701885-good-is-the-enemy-of-great-and-that-is-one) عليك أن [تواجه الحقيقة](https://longform.asmartbear.com/failure-to-face-the-truth/): مشكلتك الأكبر هي الافتقار إلى إنها فكرة رائعة حقًا، ويجب عليك حل هذه المشكلة بدلاً من الشروع في رحلة طويلة ومضللة. يمكن للفريق أن يقوم بعمل Pebbles and Sand في هذه الأثناء، وبالتالي الحفاظ على إنتاجيته، مع المساعدة أيضًا في إنشاء أفكار أفضل والتحقق من صحتها.
 
-#### Deliberative decision-making process
+#### عملية اتخاذ القرار التداولية
 
-Because you're committing so much of the team's life,[^3] and because you have to be so confident that the Rock is strategic and impactful, you need to spend time on this decision up-front. This is not an "agile" decision, it's a strategic one. Once the direction is set, the big picture is clear, the mountain you want to climb is identified, *then* it is ideal to be "agile" in how you climb it. Execution details are never certain; backtracking is necessary. But if you're climbing up the wrong mountain in the first place, being "agile" doesn't help; the result is a team self-managing themselves into a mediocre, unfulfilling result. Although most decisions should be fast, [sometimes they should be slow](https://longform.asmartbear.com/decisions-fast-slow/); Rocks should be slow, or at least deliberate.
+نظرًا لأنك تلتزم بالكثير من حياة الفريق،[^3] ولأنك يجب أن تكون واثقًا جدًا من أن The Rock استراتيجي ومؤثر، فأنت بحاجة إلى قضاء بعض الوقت في اتخاذ هذا القرار مقدمًا. وهذا ليس قرارا "سريعا"، بل هو قرار استراتيجي. بمجرد تحديد الاتجاه، تصبح الصورة الكبيرة واضحة، ويتم تحديد الجبل الذي تريد تسلقه، *ثم* من المثالي أن تكون "رشيقًا" في كيفية تسلقه. تفاصيل التنفيذ ليست مؤكدة أبدًا؛ التراجع ضروري. ولكن إذا كنت تتسلق الجبل الخطأ في المقام الأول، فإن كونك "رشيقًا" لن يساعدك؛ والنتيجة هي فريق يدير نفسه بنفسه ويصل إلى نتيجة متواضعة وغير مرضية. على الرغم من أن معظم القرارات يجب أن تكون سريعة، [في بعض الأحيان يجب أن تكون بطيئة](https://longform.asmartbear.com/decisions-fast-slow/)؛ يجب أن تكون الصخور بطيئة، أو على الأقل متعمدة.
 
-[^3]: Agilists argue that if you find yourself part-way through a failing project, you can just abort, because "that's agile." That's true, and that's smarter than plodding forward in a [sunk-cost](https://longform.asmartbear.com/sunk-costs/) refusal to face reality, but on a human level it is demoralizing and ruins trust to abruptly cancel a project a team has been laboring on for months, "because we're agile." Canceling is necessary, but not free, so you should act *as if* a Rock is a [one-way door](https://www.businessinsider.com/jeff-bezos-on-type-1-and-type-2-decisions-2016-4).
+[^3]: يقول Agilists أنه إذا وجدت نفسك في منتصف الطريق خلال مشروع فاشل، فيمكنك إلغاءه، لأن "هذا أمر مرن". هذا صحيح، وهذا أذكى من المضي قدمًا في رفض مواجهة الواقع [بتكلفة غارقة] (https://longform.asmartbear.com/sunk-costs/)، ولكن على المستوى البشري، من المحبط والثقة أن نلغي فجأة مشروعًا كان الفريق يعمل عليه منذ أشهر، "لأننا نتمتع بالمرونة". الإلغاء ضروري، ولكنه ليس مجانيًا، لذا يجب عليك التصرف *كما لو* أن الصخرة هي [باب ذو اتجاه واحد](https://www.businessinsider.com/jeff-bezos-on-type-1-and-type-2-decisions-2016-4).
 
-**Use this framework to select the most impactful idea: [Binstack: Making a maximal multi-dimensional decision](https://longform.asmartbear.com/maximized-decision/).** This process enshrines "impact" as the highest priority, allows other dimensions to participate but neither confuse nor dominate the decision, and produces a pithy, clear explanation of the decision at the end.
+**استخدم هذا الإطار لاختيار الفكرة الأكثر تأثيرًا: [Binstack: اتخاذ أقصى قرار متعدد الأبعاد](https://longform.asmartbear.com/maximized-decision/).** تضع هذه العملية "التأثير" كأولوية قصوى، وتسمح للأبعاد الأخرى بالمشاركة ولكن دون إرباك القرار أو السيطرة عليه، وتنتج تفسيرًا بليغًا وواضحًا للقرار في النهاية.
 
-If you're not coming up with good-enough ideas in the first place, [try these prompts](https://longform.asmartbear.com/extreme-questions/). But also consider whether the real problem is that your strategy is too vague.
+إذا لم تتوصل إلى أفكار جيدة بما فيه الكفاية في المقام الأول، [جرب هذه المطالبات](https://longform.asmartbear.com/extreme-questions/). ولكن ضع في اعتبارك أيضًا ما إذا كانت المشكلة الحقيقية تكمن في أن استراتيجيتك غامضة للغاية.
 
-#### Execs decide, but ideally PMs are in command
+#### يقرر المسؤولون التنفيذيون، ولكن من الأفضل أن يكون مديرو المشاريع هم من يتولى القيادة
 
-Rocks materially advance the strategy, and executives[^4] ultimately own the strategy. So, ultimately the final decision of what Rock to execute rests with the executive. In practice, however, the PM should be in command of the strategy and the ideas, driving the discussion and the decision. Ideally[^5] the PM is actually [in command](https://longform.asmartbear.com/in-command/), and the executive is happy to play the role of coach and [Devil's Advocate](https://longform.asmartbear.com/productive-meeting-activities/) during the decision process, and to sign off on a well-thought-out proposal.
+تعمل الصخور على تطوير الإستراتيجية بشكل ملموس، ويمتلك المديرون التنفيذيون[^4] الإستراتيجية في النهاية. لذا، فإن القرار النهائي بشأن ما يجب على روك تنفيذه يقع في النهاية على عاتق السلطة التنفيذية. ومع ذلك، من الناحية العملية، يجب أن يكون رئيس الوزراء هو المسيطر على الإستراتيجية والأفكار، ويقود المناقشة والقرار. من الناحية المثالية[^5] يكون رئيس الوزراء هو [في القيادة](https://longform.asmartbear.com/in-command/)، ويسعد المدير التنفيذي بلعب دور المدرب و[محامي الشيطان](https://longform.asmartbear.com/productive-meeting-activities/) أثناء عملية اتخاذ القرار، والتوقيع على اقتراح مدروس جيدًا.
 
-[^4]: At a smaller company, this means whoever has the executive role, whoever is running all of Product, or R&D, or the CTO, or the CEO.
+[^4]: في شركة أصغر، يعني هذا من يتولى الدور التنفيذي، أو من يدير المنتج بالكامل، أو البحث والتطوير، أو المدير الفني التنفيذي، أو المدير التنفيذي.
 
-[^5]: We won't cover workplace dynamics in this article, so suffice to say that this is what "healthy" looks like, and the further reality is from ideal, the more one or both parties needs to change.
+[^5]: لن نغطي ديناميكيات مكان العمل في هذه المقالة، لذا يكفي أن نقول أن هذا هو ما يبدو عليه "الصحي"، وكلما ابتعد الواقع عن المثالية، كلما احتاج أحد الطرفين أو كليهما إلى التغيير.
 
-## Sand maximizes Throughput
+## الرمال تزيد من الإنتاجية
 
-Because Pebbles are the Goldilocks of work-items, it's instructive to leap over them and solve for the smallest items, establishing bookends around the middle-child.
+نظرًا لأن الحصى هي الحل الأمثل لعناصر العمل، فمن المفيد القفز فوقها وحل المشكلات الصغيرة، وإنشاء نهايات حول الطفل الأوسط.
 
 ![scissors rock lineup](https://public.asmartbear.com/books/anthology/chapters/rocks-pebbles-sand/d8798print-simple.png)
 
-#### Duration: ≤1 sprint
+#### المدة: ≥1 سباق السرعة
 
-Sand are items that don't need to be broken down. They're short, and typically "just need to be done" without discussion or ado. They can't take longer than a sprint; sometimes they take less than an hour.
+الرمل عبارة عن عناصر لا تحتاج إلى تكسير. إنها قصيرة، وعادة ما تكون "تحتاج فقط إلى إنجازها" دون مناقشة أو لغط. لا يمكنهم أن يستغرقوا وقتًا أطول من سباق السرعة؛ في بعض الأحيان يستغرق الأمر أقل من ساعة.
 
-There are a million little things that are individually unmeasurable but that add up to a significant impact. Great user interfaces require a hundred tweaks to attain greatness. High-quality error-handling requires esoteric corner-case unit-tests. High performance is often the result of innumerable optimizations. High-quality code means fixing myriad little bugs, some of which customers never experienced. Continuous, low-risk tech-debt reduction requires a hundred small refactorings. Security patches and library upgrades are mandatory maintenance. Documentation tweaks are helpful, low-risk, and should be done continuously. Great writing in general requires myriad tweaks, not grand organizational "pivots;" most edits to this document change a single sentence.
+هناك ملايين الأشياء الصغيرة التي لا يمكن قياسها بشكل فردي ولكنها تضيف ما يصل إلى تأثير كبير. تتطلب واجهات المستخدم الرائعة مائة تعديل لتحقيق العظمة. تتطلب معالجة الأخطاء عالية الجودة اختبارات وحدة حالة زاوية مقصورة على فئة معينة. غالبًا ما يكون الأداء العالي نتيجة لتحسينات لا حصر لها. الكود عالي الجودة يعني إصلاح عدد لا يحصى من الأخطاء الصغيرة، والتي لم يواجه العملاء بعضها أبدًا. ويتطلب التخفيض المستمر والمنخفض المخاطر لديون التكنولوجيا مئات من عمليات إعادة البناء الصغيرة. تعد تصحيحات الأمان وترقيات المكتبة بمثابة صيانة إلزامية. تعد تعديلات التوثيق مفيدة ومنخفضة المخاطر ويجب إجراؤها بشكل مستمر. تتطلب الكتابة العظيمة بشكل عام عددًا لا يحصى من التعديلات، وليس "المحاور" التنظيمية الكبرى؛ معظم التعديلات على هذا المستند تغير جملة واحدة.
 
-In bulk, Sand is mandatory for wonderful, high-quality software. When you use a piece of software and say, "Wow, this is really well-done," that's a result of Sand. While each grain is typically impossible to "measure," ignoring them means we will never attain greatness, even with the best strategy.
+بكميات كبيرة، يعد Sand أمرًا إلزاميًا للبرامج الرائعة عالية الجودة. عندما تستخدم أحد البرامج وتقول، "رائع، لقد تم إنجاز هذا بشكل جيد حقًا،" فهذا نتيجة لـ Sand. في حين أنه من المستحيل عادةً "قياس" كل حبة، فإن تجاهلها يعني أننا لن نحقق العظمة أبدًا، حتى مع أفضل الإستراتيجية.
 
-#### Maximize throughput
+#### تعظيم الإنتاجية
 
-Sand has a material impact only when executed *en masse*, as a sort of opposite to "death by a thousand cuts." Therefore the goal is to maximize how many of them we fit into the interstitial spaces between the Rocks and Pebbles. The measure of success is throughput: How many we complete per sprint.
+للرمل تأثير مادي فقط عند تنفيذه *بشكل جماعي*، كنوع من النقيض لـ "الموت بألف جرح". ولذلك فإن الهدف هو زيادة عدد العناصر التي نتناسب معها في المساحات الخلالية بين الصخور والحصى. مقياس النجاح هو الإنتاجية: كم عدد ما نكمله في كل سباق.
 
-We cannot--and should not--try to measure or prioritize "impact." It's too small to measure.[^6] It's enough to agree that fixing ten bugs this sprint is a great accomplishment, and that our customers and support techs will thank us for it.
+ولا نستطيع ـ ولا ينبغي لنا ـ أن نحاول قياس "التأثير" أو تحديد أولوياته. إنه صغير جدًا بحيث لا يمكن قياسه.[^6] يكفي الاتفاق على أن إصلاح عشرة أخطاء في هذا السباق يعد إنجازًا رائعًا، وأن عملائنا وتقنيي الدعم سوف يشكروننا على ذلك.
 
-[^6]: It is conceivable that two days' work has a measurable impact on [some metric](https://longform.asmartbear.com/product-metrics/). When you happen across one of these four-leaf clovers, you obviously should do it, regardless of whether you consider it Sand (because it's fast) or a Pebble (because it has impact). The point is to grant yourself the grace for Sand to *not* have a measurable impact.
+[^6]: من الممكن أن يكون للعمل لمدة يومين تأثير ملموس على [بعض المقاييس](https://longform.asmartbear.com/product-metrics/). عندما تصادف إحدى هذه البرسيمات ذات الأوراق الأربع، فمن الواضح أنك يجب أن تفعل ذلك، بغض النظر عما إذا كنت تعتبرها رملًا (لأنها سريعة) أو حصاة (لأنها ذات تأثير). الهدف هو أن تمنح نفسك النعمة حتى لا يكون لـ Sand تأثير قابل للقياس.
 
-Also, high-throughput is fulfilling and energizing for teams. It just feels good to cross lots of things off a list. Do not discount the importance of the *feeling* of productivity and usefulness.
+كما أن الإنتاجية العالية تُحقق الرضا والنشاط للفرق. من الجيد شطب الكثير من الأشياء من القائمة. لا تستبعد أهمية *الشعور* بالإنتاجية والفائدة.
 
-#### Beware: Administrative overhead destroys throughput
+#### احذر: النفقات الإدارية العامة تدمر الإنتاجية
 
-Exactly because each grain of Sand takes little time, management processes will dramatically bloat the total time from conception to prioritization to completion. Administration is the biggest impediment to throughput, therefore PM's must ruthlessly fight against the natural urge to debate and arrange and carefully assess and estimate the work, instead of just going about the business of completing the work.
+نظرًا لأن كل حبة رمل تستغرق وقتًا قليلًا، فإن عمليات الإدارة ستؤدي إلى تضخم إجمالي الوقت بشكل كبير بدءًا من التصور وحتى تحديد الأولويات وحتى الاكتمال. تعتبر الإدارة أكبر عائق أمام الإنتاجية، لذلك يجب على مديري المشاريع أن يحاربوا بلا هوادة الرغبة الطبيعية في مناقشة العمل وترتيبه وتقييمه وتقديره بعناية، بدلاً من مجرد الاكتفاء بإنجاز العمل.
 
-If you're using the same processes to prioritize and define Sand as to define Pebbles or Rocks, the process is wrong. Add up the time you debate the merits, craft user stories, fill out the fields in JIRA, vote and prioritize into this sprint then re-prioritize into the next and the next, and assign and balance work across people. Don't forget to multiply meeting time by the number of people in the meeting. This can easily occupy more time than it takes to complete the item in the first place.
+إذا كنت تستخدم نفس العمليات لتحديد أولويات الرمال وتعريفها كما هو الحال في تحديد الحصى أو الصخور، فإن العملية خاطئة. قم بإضافة الوقت الذي تناقش فيه المزايا، وقم بصياغة قصص المستخدمين، واملأ الحقول في JIRA، وقم بالتصويت وتحديد الأولويات في هذا السباق، ثم أعد تحديد الأولويات في المرحلة التالية والتي تليها، وقم بتعيين العمل وتحقيق التوازن بين الأشخاص. لا تنس أن تضرب وقت الاجتماع بعدد الأشخاص الموجودين في الاجتماع. يمكن أن يستغرق هذا وقتًا أطول مما يستغرقه إكمال العنصر في المقام الأول.
 
-Sand will often originate from engineering; notice how many of the examples above are internal requirements for great software development rather than customer-driven requests. In these cases, it's often a waste of time to perform the usual formalities like user-story-writing, because the engineers already know what to do, and why. You can observe this waste in senseless force-feeding of uninformative "proper product language" and template-filling, e.g.
+غالبًا ما يأتي الرمل من الهندسة؛ لاحظ كم من الأمثلة المذكورة أعلاه هي متطلبات داخلية لتطوير برامج رائعة وليست طلبات يحركها العملاء. في هذه الحالات، غالبًا ما يكون تنفيذ الإجراءات الشكلية المعتادة مثل كتابة قصة المستخدم مضيعة للوقت، لأن المهندسين يعرفون بالفعل ما يجب عليهم فعله ولماذا. يمكنك ملاحظة هذا الهدر من خلال التغذية القسرية التي لا معنى لها لـ "لغة المنتج المناسبة" غير المفيدة وملء القالب، على سبيل المثال.
 
-|  |  |
-|----:|:----|
-| Type: | Task |
-| Priority: | Moderate |
-| Source: | Engineering |
-| Estimate: | 1h |
-| Must-do by: | 2022-03-15 |
-| Story: | As a software developer I want to upgrade npm package `minimist` from version `1.2.2` to `1.2.3` so that I don't have a security vulnerability. |
-| Linked Goal: | Adhere to corporate security policies of applying security patches within thirty days of a known vulnerability of "low" severity and "low" risk. |
-| Risks: | Might break unit tests, might require refactoring around new APIs or behaviors, might delay other work scheduled in the sprint |
-| Testing Considerations: | Normal unit tests |
-| Acceptance Criteria: | Nothing changes after the upgrade |
+|  |  | |----:|:----| | النوع: | مهمة | | الأولوية: | معتدل | | المصدر : | هندسة | | تقدير: | ساعة واحدة | | يجب القيام به بواسطة: | 2022-03-15 | | القصة: | كمطور برامج، أرغب في ترقية حزمة npm "minimist" من الإصدار "1.2.2" إلى "1.2.3" حتى لا أواجه ثغرة أمنية. | | الهدف المرتبط: | الالتزام بسياسات أمان الشركة لتطبيق التصحيحات الأمنية خلال ثلاثين يومًا من وجود ثغرة أمنية معروفة ذات خطورة "منخفضة" ومخاطر "منخفضة". | | المخاطر: | قد يؤدي إلى كسر اختبارات الوحدة، أو قد يتطلب إعادة البناء حول واجهات برمجة التطبيقات أو السلوكيات الجديدة، أو قد يؤخر الأعمال الأخرى المجدولة في السباق | | اعتبارات الاختبار: | اختبارات الوحدة العادية | | معايير القبول: | لا شيء يتغير بعد الترقية |
 
-It can get much worse, all for something that could just be a one-liner to "upgrade `minimist` to at least `1.2.3` because of a security patch," and in practice the work will usually be done in a few minutes, changing one line in `package.json` and re-running the unit-tests.
+يمكن أن يصبح الأمر أسوأ بكثير، كل ذلك بالنسبة لشيء يمكن أن يكون مجرد سطر واحد "لترقية `minimist` إلى `1.2.3` على الأقل بسبب التصحيح الأمني"، وعمليًا سيتم إنجاز العمل عادةً في بضع دقائق، مع تغيير سطر واحد في `package.json` وإعادة تشغيل اختبارات الوحدة.
 
-#### Prioritize with intuition and desire, not math and metrics
+#### حدد أولوياتك بالحدس والرغبة، وليس بالرياضيات والمقاييس
 
-Because Sand is largely not measurable, complex prioritization systems won't produce meaningful results. Fortunately, exactly because they don't take long to implement, it's typically not important when they're done, and indeed many never will get done because we always have more ideas than time.
+ونظرًا لأن الرمال غير قابلة للقياس إلى حد كبير، فإن أنظمة تحديد الأولويات المعقدة لن تؤدي إلى نتائج ذات معنى. لحسن الحظ، نظرًا لأن تنفيذها لا يستغرق وقتًا طويلاً، فإنه ليس من المهم عادةً عند الانتهاء منها، وبالفعل لن يتم تنفيذ الكثير منها أبدًا لأن لدينا دائمًا أفكارًا أكثر من الوقت.
 
-Therefore, this is a great opportunity to engage people's emotions, and go with things people *want* to do. Since delivered-value is near-nil, why not choose things people have energy for? This increases happiness, morale, and often quality. Because people naturally work harder and better on things they want to do, you get "productivity for free," which in turn increases throughput, which is the primary goal.
+لذلك، فهذه فرصة عظيمة للتفاعل مع مشاعر الناس، والقيام بالأشياء التي *يريد* الناس القيام بها. وبما أن القيمة المسلمة تقترب من الصفر، فلماذا لا نختار الأشياء التي يتمتع الناس بالطاقة من أجلها؟ وهذا يزيد من السعادة والروح المعنوية والجودة في كثير من الأحيان. نظرًا لأن الأشخاص يعملون بطبيعتهم بجدية أكبر وبشكل أفضل في الأشياء التي يريدون القيام بها، فإنك تحصل على "الإنتاجية مجانًا"، والتي بدورها تزيد من الإنتاجية، وهو الهدف الأساسي.
 
-#### Self-managed teams schedule their own Sand
+#### تقوم الفرق المُدارة ذاتيًا بجدولة الرمال الخاصة بها
 
-In keeping with the rule to minimize administrative overhead, teams should schedule Sand themselves, not debate prioritization with executives.
+وتمشيا مع قاعدة تقليل النفقات الإدارية، يجب على الفرق جدولة ساند بأنفسهم، وليس مناقشة تحديد الأولويات مع المديرين التنفيذيين.
 
-If the management is constantly engaged in Sand-scheduling, something is amiss and needs to be corrected, and it's always the manager's fault. Perhaps the team is perfectly capable of scheduling Sand; in that case, the manager is micro-managing, which is the manager's fault. Perhaps the team really doesn't understand the customer, the market, the technology, or the work, and therefore truly is incapable of scheduling Sand; in that case, the manager has hired incorrectly or not created an environment where the team can understand these things, which is the manager's fault.
+إذا كانت الإدارة منخرطة باستمرار في الجدولة الرملية، فسيكون هناك خطأ ما ويجب تصحيحه، ويكون هذا دائمًا خطأ المدير. ربما يكون الفريق قادرًا تمامًا على جدولة ساند؛ في هذه الحالة، يقوم المدير بالإدارة الجزئية، وهذا خطأ المدير. ربما لا يفهم الفريق حقًا العميل أو السوق أو التكنولوجيا أو العمل، وبالتالي فهو غير قادر حقًا على جدولة Sand؛ في هذه الحالة، يكون المدير قد قام بالتوظيف بشكل غير صحيح أو لم يخلق بيئة يستطيع فيها الفريق فهم هذه الأمور، وهذا خطأ المدير.
 
-Little requests and suggestions are normal; indeed, these will come from all over the organization. But if you're debating with spreadsheets and virtual-sticky-note-boards, it's gone too far.
+الطلبات والاقتراحات الصغيرة أمر طبيعي؛ في الواقع، سيأتي هؤلاء من جميع أنحاء المنظمة. ولكن إذا كنت تتناقش باستخدام جداول البيانات ولوحات الملاحظات الافتراضية، فقد ذهب الأمر إلى أبعد من ذلك.
 
-## Pebbles maximize ROI
+## الحصى تعظيم عائد الاستثمار
 
-Pebbles [are not a "balance"](https://longform.asmartbear.com/conflicting-choices/) between Rocks and Sand; they are their own creatures. Their time frame is definitionally constrained between that of Sand and Rocks; the more important difference is that while Rocks are strategic, with a view towards winning over the next few years, Pebbles are tactical wins that have an impact in the next few months, attacking the challenges you're facing right now, or a great feature idea you can surprise customers with sooner than they expect.
+الحصى [ليست "توازنًا"](https://longform.asmartbear.com/conflicting-choices/) بين الصخور والرمال؛ هم مخلوقات خاصة بهم. إطارها الزمني مقيد بشكل واضح بين إطار الرمال والصخور. الفرق الأكثر أهمية هو أنه في حين أن Rocks تعتبر استراتيجية، بهدف الفوز على مدى السنوات القليلة المقبلة، فإن Pebbles هي انتصارات تكتيكية لها تأثير في الأشهر القليلة المقبلة، أو مهاجمة التحديات التي تواجهها الآن، أو فكرة ميزة رائعة يمكنك مفاجأة العملاء بها في وقت أقرب مما يتوقعون.
 
 ![start with some small pebbles](https://public.asmartbear.com/books/anthology/chapters/rocks-pebbles-sand/d8651print-simple.png)
 
-#### Duration: 1-4 sprints
+#### المدة: 1-4 سباقات السرعة
 
-Pebbles take multiple stories and possibly sprints. Unlike Sand, they do need to have a measurable impact; you can't spend a month or two of the team's time and have nothing objective to show for it.
+تأخذ الحصى قصصًا متعددة وربما سباقات السرعة. وعلى عكس ساند، فإنها تحتاج إلى أن يكون لها تأثير قابل للقياس؛ لا يمكنك قضاء شهر أو شهرين من وقت الفريق وليس لديك أي هدف لإظهاره.
 
-It is difficult to craft great Pebbles, because impactful things have a tendency to explode in effort. Anything longer than four sprints invokes the Hofstadter problem of time and impact, and therefore must be analyzed and prioritized as a Rock. If a Pebble starts expanding, you have two choices:
+من الصعب صناعة حصوات عظيمة، لأن الأشياء المؤثرة تميل إلى الانفجار في الجهد. أي شيء أطول من أربع جولات سريعة يستدعي مشكلة هوفستاتر الخاصة بالوقت والتأثير، وبالتالي يجب تحليله وإعطاؤه الأولوية باعتباره صخرة. إذا بدأت الحصاة في التوسع، فلديك خياران:
 
-1. Reduce the scope of the idea so it can be achieved in a smaller time frame, or
-2. Move the item into the "Rocks" category, where it will be prioritized appropriately.
+1. تقليل نطاق الفكرة حتى يمكن تحقيقها في إطار زمني أصغر، أو
+2. انقل العنصر إلى فئة "الصخور"، حيث سيتم منحه الأولوية بشكل مناسب.
 
-In both cases, you often discover that the impact is no longer big enough.[^7] Either this means the team needs to get more creative in how to deliver more impact with less effort, or maybe this idea simply isn't a good-enough use of your time.
+وفي كلتا الحالتين، غالبًا ما تكتشف أن التأثير لم يعد كبيرًا بما يكفي.[^7] إما أن يعني ذلك أن الفريق يحتاج إلى مزيد من الإبداع في كيفية تحقيق تأثير أكبر بجهد أقل، أو ربما لا تمثل هذه الفكرة استخدامًا جيدًا لوقتك.
 
-[^7]: For (1), reducing scope might also reduce impact, in number of customers affected or in the magnitude of the effect. For (2) the impact might have been great for a one-month project, but too small when compared to other large projects.
+[^7]: بالنسبة إلى (1)، قد يؤدي تقليل النطاق أيضًا إلى تقليل التأثير، سواء في عدد العملاء المتأثرين أو في حجم التأثير. بالنسبة إلى (2) قد يكون التأثير كبيرًا بالنسبة لمشروع مدته شهر واحد، ولكنه صغير جدًا مقارنة بالمشاريع الكبيرة الأخرى.
 
-#### Maximize ROI
+#### تعظيم عائد الاستثمار
 
-If Rocks maximize strategic impact over the long-term, Pebbles maximize immediate impact in the short-term. Said another way: They are the "most effective use of the team's precious time."
+إذا كانت الصخور تزيد من التأثير الاستراتيجي على المدى الطويل، فإن الحصى تزيد من التأثير الفوري على المدى القصير. وقال بطريقة أخرى: إنهم "الاستخدام الأكثر فعالية لوقت الفريق الثمين".
 
-Pebbles maximize ROI: A measure of value, divided by a measure of effort, resulting in a metric of efficiency. Modest value won in a short time, or more value over more time, are both great uses of time. What you cannot do is deliver little value but still take a long time.
+تعمل الحصى على زيادة عائد الاستثمار إلى الحد الأقصى: مقياس القيمة، مقسومًا على مقياس الجهد، مما يؤدي إلى مقياس الكفاءة. القيمة المتواضعة التي يتم الحصول عليها في وقت قصير، أو القيمة الأكبر خلال وقت أطول، كلاهما استخدامان عظيمان للوقت. ما لا يمكنك فعله هو تقديم قيمة قليلة ولكن لا يزال يستغرق وقتًا طويلاً.
 
-#### Beware the surprisingly high impact of estimation error on ROI
+#### احذر من التأثير الكبير المفاجئ لخطأ التقدير على عائد الاستثمار
 
-The Hofstadter problem is magnified with ROI calculations, so you have to be especially careful, especially with classic frameworks like rubrics.
+يتم تضخيم مشكلة Hofstadter مع حسابات عائد الاستثمار، لذلك عليك أن تكون حذرًا بشكل خاص، خاصة مع الأطر الكلاسيكية مثل نماذج التقييم.
 
-For example, consider a task that ends up producing 20% less impact and ended up taking 50% more time than expected--a common real-world result:
+على سبيل المثال، ضع في اعتبارك مهمة تؤدي في النهاية إلى إنتاج تأثير أقل بنسبة 20% وتستغرق وقتًا أطول بنسبة 50% من المتوقع - وهي نتيجة شائعة في العالم الحقيقي:
 
-|  | Estimated | Actual |
-|:----|:---:|:---:|
-| Impact | 60 | 48 |
-| Effort | 4 | 6 |
-| **ROI:** | **15** | **8** |
+|  | مقدر | الفعلي | |:----|:---:|:---:| | التأثير | 60 | 48 | | جهد | 4 | 6 | | **عائد الاستثمار:** | **15** | **8** |
 
-This item has *half* the ROI than we originally thought. This is an immense magnitude of error, swamping the signal you thought you computed. Many other items' ROI will fall within this range of error, telling us that the noise from the error exceeds the signal from analysis. Which means the rubric is useless.
+يحتوي هذا العنصر على *نصف* عائد الاستثمار مما كنا نعتقد في الأصل. وهذا خطأ هائل، مما يؤدي إلى إغراق الإشارة التي اعتقدت أنك قمت بحسابها. سيندرج عائد استثمار العديد من العناصر الأخرى ضمن نطاق الخطأ هذا، مما يخبرنا أن الضجيج الناتج عن الخطأ يتجاوز الإشارة من التحليل. مما يعني أن عنوان التقييم لا فائدة منه.
 
-**To avoid this issue, [use this framework for performing an ROI analysis](https://longform.asmartbear.com/roi-rubric/).**
+**لتجنب هذه المشكلة، [استخدم إطار العمل هذا لإجراء تحليل عائد الاستثمار](https://longform.asmartbear.com/roi-rubric/).**
 
-#### Product Managers decide Pebbles
+#### مديرو المنتجات هم من يقررون شركة Pebbles
 
-You could argue that [the Product Manager's most important job](https://longform.asmartbear.com/great-product-manager/) is to make decisions exactly like this one: Which Pebble will we tackle next?
+يمكنك القول بأن [الوظيفة الأكثر أهمية لمدير المنتج](https://longform.asmartbear.com/great-product-manager/) هي اتخاذ قرارات مثل هذا تمامًا: ما هي الحصاة التي سنتعامل معها بعد ذلك؟
 
-Ultimately it's a judgment call: A synthesis of what customers need most, what competitors are doing, what is consistent with the strategy, what is best for company metrics, and what is best for customer delight. Input from many directions is appreciated, but one mind needs to make the call. That should be the mind closest to the customers, to the product, to the competitors, and to the market, not a drive-by decision from a manager, and not a hostage negotiation with engineers who would rather rewrite a whole module from scratch.
+في نهاية المطاف، إنها دعوة للحكم: تجميع لما يحتاجه العملاء أكثر، وما يفعله المنافسون، وما يتوافق مع الإستراتيجية، وما هو الأفضل لمقاييس الشركة، وما هو الأفضل لإسعاد العملاء. إن المدخلات من عدة اتجاهات موضع تقدير، ولكن يحتاج عقل واحد إلى اتخاذ القرار. يجب أن يكون هذا هو العقل الأقرب إلى العملاء، وإلى المنتج، وإلى المنافسين، وإلى السوق، وليس قرارًا من المدير، وليس مفاوضات رهينة مع المهندسين الذين يفضلون إعادة كتابة وحدة كاملة من الصفر.
 
-That said, committing a few months of time to anything is a big decision, which means it should have a sensible justification, and some objective measure of impact so we can see whether this activity is having the desired effect. With "self-managed teams" comes not only the freedom to decide and act, but the responsibility to own the results.
+ومع ذلك، فإن الالتزام ببضعة أشهر من الوقت لأي شيء هو قرار كبير، مما يعني أنه يجب أن يكون له مبرر معقول، وبعض المقاييس الموضوعية للتأثير حتى نتمكن من معرفة ما إذا كان هذا النشاط له التأثير المطلوب. مع "الفرق المُدارة ذاتيًا" لا تأتي حرية اتخاذ القرار والتصرف فحسب، بل أيضًا مسؤولية امتلاك النتائج.
 
-## A simple sprint-planning system
+## نظام بسيط لتخطيط العدو
 
-How can you put all this together in practice, in real sprint-planning?
+كيف يمكنك وضع كل هذا معًا في الممارسة العملية، في التخطيط الحقيقي لسباق السرعة؟
 
-Schedule things in this order, skipping one if there is insufficient capacity to make significant progress on it given the other items in the list, or if high-quality stories aren't ready-to-work:
+قم بجدولة الأشياء بهذا الترتيب، مع تخطي واحدة إذا لم تكن هناك قدرة كافية لإحراز تقدم كبير فيها بالنظر إلى العناصر الأخرى في القائمة، أو إذا كانت القصص عالية الجودة ليست جاهزة للعمل:
 
-1. Time-critical items, regardless of size. *(Examples: security patches, bugs actively impacting customers, critical work for a launch or other event with an externally-imposed, immovable date)*
-2. One or more stories from the current Rock.
-3. One or more stories from the current Pebble.
-4. Sand.
+1. العناصر ذات الأهمية الزمنية، بغض النظر عن حجمها. *(أمثلة: تصحيحات الأمان، والأخطاء التي تؤثر بشكل نشط على العملاء، والعمل الهام لإطلاق أو حدث آخر له تاريخ مفروض خارجيًا وغير قابل للتغيير)*
+2. قصة واحدة أو أكثر من الصخرة الحالية.
+3. قصة واحدة أو أكثر من Pebble الحالية.
+4. رمل.
 
-Life is never as simple as that, so here's how to manage the common issues:
+الحياة ليست بهذه البساطة أبدًا، لذا إليك كيفية إدارة المشكلات الشائعة:
 
-#### "Time-Critical" takes up so much time, we can't make progress on Rocks and Pebbles
-You have a meta-problem: Your team doesn't have enough time to be effective; solving *this* is now your top priority. This problem is even more important than your Rock, because in this condition you won't actually complete any Rock. There are myriad causes, and maybe multiple simultaneously: Is it a problem of individual productivity, of the team owning too many things, of architectural dependencies, of the problem-domain requiring more people, of lacking specialized skill sets, of greater fortitude of saying "no" to certain requests, or what? You must diagnose and cure the disease. Schedule sprint time to work on the solution.
+#### "الوقت الحرج" يستغرق الكثير من الوقت، ولا يمكننا إحراز تقدم في الصخور والحصى
+لديك مشكلة وصفية: ليس لدى فريقك الوقت الكافي ليكون فعالاً؛ أصبح حل *هذا* الآن على رأس أولوياتك. هذه المشكلة أكثر أهمية من صخرتك، لأنك في هذه الحالة لن تتمكن فعليًا من إكمال أي صخرة. هناك أسباب لا تعد ولا تحصى، وربما متعددة في وقت واحد: هل هي مشكلة الإنتاجية الفردية، أو امتلاك الفريق لأشياء كثيرة جدًا، أو التبعيات المعمارية، أو أن مجال المشكلة يتطلب عددًا أكبر من الأشخاص، أو الافتقار إلى مجموعات المهارات المتخصصة، أو الثبات الأكبر في قول "لا" لطلبات معينة، أم ماذا؟ يجب عليك تشخيص المرض وعلاجه. جدولة وقت العدو للعمل على الحل.
 
-#### Starving the Rock
-Just one story per sprint will cause too much context-switching, and take too much calendar-time. If you're constantly starving your most strategic item, this is an impediment that the PM needs to address with the team. You're probably falling prey to the [Eisenhower Matrix](https://www.productplan.com/glossary/eisenhower-matrix/) fallacy of working on things that are urgent, rather than things that are important. Maybe you need to pause your Pebble for a while?
+#### تجويع الصخرة
+ستؤدي قصة واحدة فقط في كل سباق إلى الكثير من تبديل السياق، وستستغرق الكثير من وقت التقويم. إذا كنت تحرم باستمرار العنصر الأكثر إستراتيجية لديك، فهذا عائق يجب على رئيس الوزراء معالجته مع الفريق. من المحتمل أنك تقع فريسة لمغالطة [Eisenhower Matrix](https://www.productplan.com/glossary/eisenhower-matrix/) المتمثلة في العمل على الأشياء العاجلة، بدلاً من الأشياء المهمة. ربما تحتاج إلى إيقاف Pebble مؤقتًا لفترة من الوقت؟
 
-#### More than one Pebble
-If you're truly going to execute on all four sections, you don't have time for two Pebbles at once. Plus, the context-switching is worse for morale and for productivity. The exception is when a Pebble is essentially complete, or will be blocked for at least a week, and therefore you truly do have the time to work on something else.
+#### أكثر من حصاة واحدة
+إذا كنت ستنفذ حقًا جميع الأقسام الأربعة، فلن يكون لديك الوقت الكافي لحصاتين في وقت واحد. بالإضافة إلى ذلك، فإن تبديل السياق أسوأ بالنسبة للمعنويات والإنتاجية. الاستثناء هو عندما تكون الحصاة مكتملة بشكل أساسي، أو سيتم حظرها لمدة أسبوع على الأقل، وبالتالي يكون لديك الوقت الكافي للعمل على شيء آخر.
 
-#### Always the Rock, never the Pebble
-Because Sand is definitionally small, a few of those items always fit. But, a significant story for a Pebble may not. What if Pebble stories *never* fit? Consider that this might not actually be a problem, if the Rock is so valuable. Declaring the Rock "the theme of the next four months" might be exactly what the team needs for focus and maximum impact. It could be that once the Rock is "done" (in the sense of "first complete version"), you can then tackle a Pebble and then another, just doing incremental (small) updates to the Rock as you continue to learn and evolve its result, rather than immediately tackling an entirely new Rock.
+#### دائمًا الصخرة، وليس الحصاة أبدًا
+نظرًا لأن الرمل صغير الحجم، فإن عددًا قليلًا من هذه العناصر مناسب دائمًا. لكن القصة المهمة لبيبل قد لا تكون كذلك. ماذا لو كانت قصص بيبل *لا تناسب أبدًا*؟ ضع في اعتبارك أن هذا قد لا يمثل مشكلة في الواقع، إذا كانت الصخرة ذات قيمة كبيرة. قد يكون الإعلان عن الصخرة "موضوع الأشهر الأربعة المقبلة" هو بالضبط ما يحتاجه الفريق للتركيز وتحقيق أقصى قدر من التأثير. من الممكن أنه بمجرد "الانتهاء" من الصخرة (بمعنى "الإصدار الكامل الأول")، يمكنك بعد ذلك معالجة حصاة ثم أخرى، فقط قم بإجراء تحديثات تدريجية (صغيرة) على الصخرة بينما تستمر في التعلم وتطوير نتائجها، بدلاً من معالجة صخرة جديدة تمامًا على الفور.
 
-#### Zero Sand
-Since it's last on the list, and often aren't even full stories, it's easy to just never do Sand, but this will result in a poor product and unhappy engineers (as much of their internal work falls under this category). Consider toning down stories from other areas, maybe pausing the Rock or Pebble for one sprint, or even having a sprint devoted only to Sand, as a fun way to get a ton accomplished in a short amount of time and to break up the monotony of the sprint-planning cycle.
+#### صفر الرمال
+نظرًا لأنها الأخيرة في القائمة، وغالبًا ما لا تكون حتى قصصًا كاملة، فمن السهل عدم استخدام Sand أبدًا، ولكن هذا سيؤدي إلى منتج سيئ ومهندسين غير سعداء (حيث أن الكثير من عملهم الداخلي يقع ضمن هذه الفئة). فكر في تخفيف حدة القصص من مناطق أخرى، ربما إيقاف الصخرة أو Pebble مؤقتًا لسباق سريع واحد، أو حتى تخصيص سباق سريع للرمل فقط، كطريقة ممتعة لإنجاز الكثير في فترة زمنية قصيرة وكسر رتابة دورة التخطيط للسباق.
 
-#### Starting a new Rock or Pebble too soon, rather than creating more quality and value from the ones that just "completed"
-With long lists of genuinely terrific Rocks and Pebbles, it's tempting to start a new one as soon as the current one is complete. But software rarely works that way. Between learning how customers actually use (or don't use) things in the field, completing small items that were originally deferred (so that we shipped sooner and started learning sooner and started selling the feature sooner), and both incremental and significant follow-on functionality, often you need to keep the Rock and Pebble around longer than it first seemed, or at least not start a new one quite yet. This is realistic for great software and a healthy, sustainable pace of work, and this is another reason why our "time estimates" on both Rocks and Pebbles are subject to Hofstadter's Law, and further justifies our draconian admonitions about identifying and prioritizing that work.
+#### البدء في إنشاء صخرة أو Pebble جديدة في وقت مبكر جدًا، بدلاً من إنشاء المزيد من الجودة والقيمة من تلك التي "اكتملت" للتو
+مع وجود قوائم طويلة من الصخور والحصى الرائعة حقًا، فمن المغري أن تبدأ قائمة جديدة بمجرد اكتمال القائمة الحالية. لكن البرامج نادراً ما تعمل بهذه الطريقة. بين تعلم كيفية استخدام العملاء فعليًا (أو عدم استخدامهم) للأشياء في الميدان، واستكمال العناصر الصغيرة التي تم تأجيلها في الأصل (حتى نتمكن من الشحن مبكرًا وبدأنا التعلم عاجلاً وبدأنا في بيع الميزة عاجلاً)، وكل من وظائف المتابعة المتزايدة والهامة، غالبًا ما تحتاج إلى الاحتفاظ بـ Rock and Pebble لفترة أطول مما بدا في البداية، أو على الأقل عدم بدء واحدة جديدة تمامًا بعد. يعد هذا أمرًا واقعيًا بالنسبة للبرامج الرائعة ووتيرة العمل الصحية والمستدامة، وهذا سبب آخر وراء خضوع "تقديراتنا الزمنية" لكل من الصخور والحصى لقانون هوفستاتر، ويبرر أيضًا تحذيراتنا الصارمة حول تحديد هذا العمل وترتيب أولوياته.
 
-#### Trying to "balance" every sprint
-It's not important that every sprint is perfectly balanced between all types of work. It *is* important that we're balanced over a period several months, otherwise something important is getting starved. Indeed, it's often wise to build imbalanced sprints intentionally, because that means greater focus, less context-switching, and therefore getting more quality work done.
+#### محاولة "الموازنة" في كل سباق
+ليس من المهم أن تكون كل سباقات السرعة متوازنة تمامًا بين جميع أنواع العمل. *من المهم* أن نكون متوازنين على مدى عدة أشهر، وإلا فإن شيئًا مهمًا سيتضور جوعًا. في الواقع، غالبًا ما يكون من الحكمة بناء سباقات سرعة غير متوازنة عن عمد، لأن ذلك يعني تركيزًا أكبر، وتبديلًا أقل للسياق، وبالتالي إنجاز المزيد من العمل عالي الجودة.
 
-Of course all this is easy to say, but hard to execute. Still, when we write it down as simply as possible, and try to honor it, we'll make better decisions sprint by sprint, which in turn creates the most impact year by year.
+بالطبع كل هذا من السهل قوله، ولكن من الصعب تنفيذه. ومع ذلك، عندما نكتبها ببساطة قدر الإمكان، ونحاول احترامها، فإننا سنتخذ قرارات أفضل بسرعة، مما يؤدي بدوره إلى إحداث أكبر تأثير سنة بعد سنة.

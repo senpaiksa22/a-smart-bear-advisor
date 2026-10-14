@@ -20,75 +20,62 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** أنت شركة صغيرة، تصرف بذكاء وخفة الشركات الصغيرة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# You're a little company, now act like one
-
-> **Executive Summary:** You're afraid that looking like being a small company means you'll lose sales. It's actually the opposite -- you're alienating your best customers.
-> **Original URL:** [https://longform.asmartbear.com/little-company/](https://longform.asmartbear.com/little-company/)
-
 ![We're a big player in the no one knows what it is but everyone thinks they need it space.](https://longform.asmartbear.com/little-company/f23d9e7e.png)
 
-I talk to a lot of companies that are still hunting for customer #1, or a few sales have been made but [the ball isn't rolling yet](https://longform.asmartbear.com/product-market-fit/).
+أتحدث إلى الكثير من الشركات التي لا تزال تبحث عن العميل رقم 1، أو تم إجراء عدد قليل من المبيعات ولكن [الكرة لم تتدحرج بعد](https://longform.asmartbear.com/product-market-fit/).
 
-Most of them are making the same mistake: **Their public persona is exactly wrong.**
+معظمهم يرتكبون نفس الخطأ: **شخصيتهم العامة خاطئة تمامًا.**
 
-I know, because **I made the same mistake!** But I learned my lesson, and I'd like to share it with you.
+أعلم ذلك، لأنني **لقد ارتكبت نفس الخطأ!** لكنني تعلمت الدرس، وأود مشاركته معك.
 
 ![Nobody's this happy about installing new software.](https://longform.asmartbear.com/little-company/8e1a38ec.png)
 
-Even before I had a single customer, I "knew" it was important to look professional. My website would need to look and feel like a "real company." I need culture-neutral language complementing culturally-diverse clip-art photos of frighteningly chipper co-workers huddled around a laptop, awash in the thrill of configuring a JDBC connection to SQL Server 2008.
+حتى قبل أن يكون لدي عميل واحد، كنت "أعلم" أنه من المهم أن أبدو محترفًا. يجب أن يبدو موقع الويب الخاص بي وكأنه "شركة حقيقية". أحتاج إلى لغة محايدة ثقافيًا تكمل صور القصاصات الفنية المتنوعة ثقافيًا لزملاء العمل المرحين بشكل مخيف وهم يتجمعون حول جهاز كمبيوتر محمول، غارقين في إثارة تكوين اتصال JDBC بـ SQL Server 2008.
 
-It also means adopting typical "marketing-speak," so my "About Us" page started with:
+ويعني أيضًا اعتماد "الحديث التسويقي" النموذجي، لذلك بدأت صفحتي "نبذة عنا" بما يلي:
 
-> Smart Bear is the leading provider of enterprise version control data-mining tools. Companies world-wide use Smart Bear's Code Historian software for risk-analysis, root-cause discovery, and software development decision-support.
+> Smart Bear هي الشركة الرائدة في مجال توفير أدوات التنقيب عن بيانات التحكم في إصدار المؤسسات. تستخدم الشركات في جميع أنحاء العالم برنامج Smart Bear's Code Historian لتحليل المخاطر واكتشاف الأسباب الجذرية ودعم اتخاذ القرار في مجال تطوير البرمجيات.
 
-"Leading provider?" "Data mining?" I'm not even [sure what that means](https://longform.asmartbear.com/the-leading-provider/). But you have to give me credit for an impressive quantity of hyphens.
+"المزود الرائد؟" "استخراج البيانات؟" لست حتى [متأكدًا مما يعنيه ذلك](https://longform.asmartbear.com/the-leading-provider/). ولكن عليك أن تمنحني الفضل في كمية رائعة من الواصلات.
 
 ![bear business suit](https://longform.asmartbear.com/little-company/aa8b986f.png)
 
-That's what you're *supposed* to do right? That's what other companies do, so it *must* be right. Who am I to break with tradition? Surely my potential customers would immediately close the browser if they read:
+هذا ما *من المفترض* أن تفعله، أليس كذلك؟ وهذا ما تفعله الشركات الأخرى، لذلك *يجب* أن يكون صحيحًا. من أنا لكي أكسر التقاليد؟ من المؤكد أن عملائي المحتملين سيغلقون المتصفح على الفور إذا قرأوا:
 
-> Hi, I'm Jason and I built an inexpensive tool for visualizing what's in your version control system. It's useful for answering questions like "When was the last time we changed this file?" Check it out and tell me what sucks!
+> مرحبًا، أنا جيسون وقمنا ببناء أداة غير مكلفة لتصور ما يوجد في نظام التحكم في الإصدار لديك. إنه مفيد للإجابة على أسئلة مثل "متى كانت آخر مرة قمنا فيها بتغيير هذا الملف؟" تحقق من ذلك وأخبرني ما هو السيء!
 
-I mean, can you *just imagine* a person with "Software Engineer III" on their business card taking me seriously if I talked like a human being? What if someone gets [offended by the word "sucks?"](https://longform.asmartbear.com/is-it-ok-to-sucks/) No no, big companies want to see professional language!
+أعني، هل يمكنك *فقط أن تتخيل* شخصًا يحمل عبارة "مهندس برمجيات III" على بطاقة العمل الخاصة به يأخذني على محمل الجد إذا تحدثت كإنسان؟ ماذا لو شعر شخص ما [بالإهانة من كلمة "سيء؟"](https://longform.asmartbear.com/is-it-ok-to-sucks/) لا، لا، الشركات الكبرى تريد رؤية لغة احترافية!
 
-**But I was wrong.** I'll explain why from the point of view of selling software over the web, but the same lesson applies to every little company trying to get off the ground.
+**لكنني كنت مخطئًا.** سأشرح السبب من وجهة نظر بيع البرامج عبر الويب، ولكن نفس الدرس ينطبق على كل شركة صغيرة تحاول الانطلاق.
 
-Now repeat after me:
+كرر الآن بعدي:
 
-{{<raw-html>}}<span class="indent-1">{{</raw-html>}}My next sale won't be a 1000-seat order from Lockheed Martin.  <br/>  My next sale won't be a 1000-seat order from Lockheed Martin.  <br/>  My next sale won't be a 1000-seat order from Lockheed Martin. {{<raw-html>}}</span>{{</raw-html>}}
+{{<raw-html>}}<span class="indent-1">{{</raw-html>}}لن تكون عملية البيع التالية عبارة عن طلب شراء 1000 مقعد من شركة Lockheed Martin.  <br/> لن يكون بيعي التالي عبارة عن طلب شراء 1000 مقعد من شركة لوكهيد مارتن.  <br/> لن يكون بيعي التالي عبارة عن طلب شراء 1000 مقعد من شركة لوكهيد مارتن. {{<raw-html>}}</span>{{</raw-html>}}
 
-I'm telling you this having sold software to every size of company from indie hacker to IBM, and, well, to Lockheed Martin.
+أقول لك هذا بعد أن قمت ببيع برامج لكل أحجام الشركات بدءًا من القراصنة المستقلين إلى شركة IBM، وكذلك إلى شركة Lockheed Martin.
 
-Your vision is to land $100k deals with big companies--and you will! But not today. Today your product is a shaky version one-dot-oh with bugs you haven't uncovered yet, [missing 90% of the features](https://longform.asmartbear.com/slc/) big companies require, and with no significant documentation like case studies or a proper manual or [an ROI model](https://longform.asmartbear.com/roi-selling/)  or a large, reference-able customer.
+رؤيتك هي الحصول على صفقات بقيمة 100 ألف دولار مع الشركات الكبرى - وسوف تفعل ذلك! ولكن ليس اليوم. أصبح منتجك اليوم عبارة عن نسخة مهزوزة تحتوي على أخطاء لم تكتشفها بعد، [يفتقد 90% من الميزات](https://longform.asmartbear.com/slc/) التي تتطلبها الشركات الكبرى، ولا يحتوي على وثائق مهمة مثل دراسات الحالة أو دليل مناسب أو [نموذج عائد الاستثمار](https://longform.asmartbear.com/roi-sale/) أو عميل كبير يمكن الرجوع إليه.
 
-Today, you're a complete mismatch with Lockheed Martin! **But there's a nice big niche that's a** ***perfect*** **match: Early Adopters.**
+اليوم، أنت غير متطابق تمامًا مع شركة لوكهيد مارتن! **ولكن هناك مجالًا كبيرًا ولطيفًا يعد ** ***مثاليًا*** **متطابقًا: المتبنون الأوائل.**
 
-[Early Adopters](http://en.wikipedia.org/wiki/Early_adopter) are people who *want* to live on the bleeding edge. They like new technology, even if buggy. They like working with teeny companies where they [have a personal relationship with the founders](https://longform.asmartbear.com/authentic/), where they are showered with attention, and where their ideas are implemented before their very eyes. They don't mind putting up with a hundred bugs so long as they get fixed fast. They want to be involved in the process.
+[المتبنون الأوائل](http://en.wikipedia.org/wiki/Early_adopter) هم أشخاص *يريدون* أن يعيشوا على حافة الهاوية. إنهم يحبون التكنولوجيا الجديدة، حتى لو كانت عربات التي تجرها الدواب. إنهم يحبون العمل مع الشركات الصغيرة حيث [تتمتع بعلاقة شخصية مع المؤسسين](https://longform.asmartbear.com/authentic/)، حيث تحظى بالاهتمام، وحيث يتم تنفيذ أفكارهم أمام أعينهم. إنهم لا يمانعون في تحمل مئات الأخطاء طالما يتم إصلاحها بسرعة. يريدون أن يشاركوا في هذه العملية.
 
-The reason they're willing to do that, is Early Adopters see new technology as a way for them to beat their competitors. They're willing to take the risk, if it pays off in features that only they have, or distribution channels they can win in, or some other significant competitive advantage.  [Most companies aren't willing to take risks](https://longform.asmartbear.com/startup-beats-incumbent/) for _any_ reason, so this is a winning strategy for those willing to take risks.
+السبب وراء رغبتهم في القيام بذلك هو أن المتبنين الأوائل يرون أن التكنولوجيا الجديدة هي وسيلة لهم للتغلب على منافسيهم. إنهم على استعداد لتحمل المخاطرة، إذا كان ذلك يؤتي ثماره في الميزات التي يمتلكونها فقط، أو قنوات التوزيع التي يمكنهم الفوز بها، أو بعض المزايا التنافسية الهامة الأخرى.  [معظم الشركات ليست على استعداد لتحمل المخاطر](https://longform.asmartbear.com/startup-beats-incumbent/) لأي سبب من الأسباب، لذا فهذه استراتيجية رابحة لأولئك الذين يرغبون في تحمل المخاطر.
 
-[Tom](https://longform.asmartbear.com/customer-love/) is an Early Adopter. At Smart Bear I must have had ten or twenty of these folks before our product was stable enough and feature-rich enough to start getting attention from bigger companies.
+[توم](https://longform.asmartbear.com/customer-love/) هو من أوائل المتبنين. في Smart Bear كان لدي عشرة أو عشرين من هؤلاء الأشخاص قبل أن يصبح منتجنا مستقرًا بدرجة كافية وغنيًا بالميزات بما يكفي لبدء جذب انتباه الشركات الكبرى.
 
-The best part is, this is exactly the moment in your company's life when you *need* Early Adopters to help you build the right product! You don't need people who download, get discouraged, and then never call you back. You need a chatty Cathy who wants to dive in and help out.
+أفضل ما في الأمر هو أن هذه هي بالضبط اللحظة في حياة شركتك التي *تحتاج فيها* إلى المتبنين الأوائل لمساعدتك في بناء المنتج المناسب! لا تحتاج إلى أشخاص يقومون بالتنزيل، فيشعرون بالإحباط، ثم لا يتصلون بك أبدًا. أنت بحاجة إلى كاثي الثرثارة التي تريد الغوص والمساعدة.
 
-In short, you need to [tightly define your ICP](https://longform.asmartbear.com/icp-ideal-customer-persona/), because those are the people who love you, for who you are, today, and therefore where you will be successful.
+باختصار، تحتاج إلى [تحديد برنامج المقارنات الدولية الخاص بك بدقة](https://longform.asmartbear.com/icp-ideal-customer-persona/)، لأن هؤلاء هم الأشخاص الذين يحبونك، ولمن أنت، اليوم، وبالتالي أين ستنجح.
 
-So now back to your website, your blog, your Twitters--your public corporate persona generally. **What do you put up on your website that screams out to those potential Early Adopter Cheerleaders that you are exactly what they're looking for**: A cool new company with a fresh product and fresh attitude; a product that might be rough around the edges but is ripe for feedback and collaboration; a company that may be small today but is thinking big.
+لذا، عد الآن إلى موقع الويب الخاص بك، ومدونتك، وحساباتك على تويتر - الشخصية العامة لشركتك بشكل عام. ** ما الذي تضعه على موقع الويب الخاص بك والذي يصرخ أمام هؤلاء المشجعين المحتملين المتبنين الأوائل أنك بالضبط ما يبحثون عنه **: شركة جديدة رائعة بمنتج جديد وموقف جديد؛ منتج قد يكون قاسيًا حول الحواف ولكنه جاهز للتعليقات والتعاون؛ شركة قد تكون صغيرة اليوم ولكنها تفكر بشكل كبير.
 
-Well here's how *not* to it: Say "a leading provider of" and blather on about how you "Provide the ability to quickly and easily do XYZ so you can go back to accomplishing high-value tasks."
+حسنًا، إليك كيفية *عدم* القيام بذلك: قل "مزود رائد" وثرثر حول كيفية "توفير القدرة على تنفيذ XYZ بسرعة وسهولة حتى تتمكن من العودة إلى إنجاز المهام ذات القيمة العالية."
 
-Puh-leeze. Can you be more uninspiring?
+بوه ليز. هل يمكنك أن تكون غير ملهم أكثر؟
 
-**Put yourself in the shoes of that Early Adopter.** Does she want to see content-free garbage phrases or does she want to hear about how you totally understand her pain? Should you come off as a big, established, safe company or as a cool, passionate, small team who wants to make a difference? Should you hide behind "Contact Us" forms or display your phone number and Twitter account on your home page? Should you promote features and benefits you don't really have implemented yet or should you promote your forums, blog, and weekly all-customer virtual meeting where everyone chimes in with feedback?
+**ضع نفسك مكان المتبنين الأوائل.** هل تريد أن ترى عبارات تافهة خالية من المحتوى أم تريد أن تسمع كيف تفهم تمامًا ألمها؟ هل يجب أن تظهر كشركة كبيرة وراسخة وآمنة أم كفريق صغير رائع وعاطفي يريد أن يحدث فرقًا؟ هل يجب عليك الاختباء خلف نماذج "اتصل بنا" أو عرض رقم هاتفك وحساب تويتر على صفحتك الرئيسية؟ هل يجب عليك الترويج للميزات والفوائد التي لم تنفذها بالفعل بعد أم يجب عليك الترويج لمنتدياتك ومدونتك والاجتماع الافتراضي الأسبوعي المخصص لجميع العملاء حيث يتناغم الجميع مع التعليقات؟
 
-Say something [specific](https://longform.asmartbear.com/specificity/) and [meaningful](https://longform.asmartbear.com/authentic-is-dead/).  [Be human](https://longform.asmartbear.com/authentic/).  [Be yourself](https://longform.asmartbear.com/be-yourself/).
+قل شيئًا [محددًا](https://longform.asmartbear.com/specity/) و[ذو معنى](https://longform.asmartbear.com/authentic-is-dead/).  [كن إنسانًا](https://longform.asmartbear.com/authentic/).  [كن نفسك](https://longform.asmartbear.com/be-yourself/).
 
-Stop hiding.
+توقف عن الاختباء.

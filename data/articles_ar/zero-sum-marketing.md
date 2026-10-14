@@ -20,37 +20,24 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** قنوات التسويق ذات المحصلة الصفرية: هل تناسب الشركات الناشئة؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Zero-sum marketing channels: Good or bad for a startup to pursue?
-
-> **Executive Summary:** Paying a premium for zero-sum marketing channels? Invest in scalable, non-zero-sum channels instead.
-> **Original URL:** [https://longform.asmartbear.com/zero-sum-marketing/](https://longform.asmartbear.com/zero-sum-marketing/)
-
 ![Tom creates awareness](https://longform.asmartbear.com/zero-sum-marketing/0e49113d.png)
 
-Many marketing channels are "zero-sum," meaning when one company wins a piece of the channel, it necessarily locks out other companies from using that piece.
+العديد من قنوات التسويق هي "محصلتها صفر"، مما يعني أنه عندما تفوز إحدى الشركات بجزء من القناة، فإنها بالضرورة تمنع الشركات الأخرى من استخدام تلك القطعة.
 
-Example: AdWords, where the price is set by the highest (dumbest?) bidder, and the few companies who get the good slots will get the vast majority of the clicks, whereas the other companies cannot get enough clicks to materially impact their sales.
+على سبيل المثال: AdWords، حيث يتم تحديد السعر بواسطة أعلى مزايد (أغبى؟)، والشركات القليلة التي تحصل على الأماكن الجيدة ستحصل على الغالبية العظمى من النقرات، في حين لا تستطيع الشركات الأخرى الحصول على ما يكفي من النقرات للتأثير بشكل مادي على مبيعاتها.
 
-Example: SEO, where the top three search results receive nearly all the traffic. Even getting 10 of the slots ranged 11-30 doesn't add up to a fraction of what the winners get.
+على سبيل المثال: تحسين محركات البحث (SEO)، حيث تتلقى نتائج البحث الثلاثة الأولى كل حركة المرور تقريبًا. حتى الحصول على 10 فتحات تتراوح ما بين 11 إلى 30 لا يمثل جزءًا صغيرًا مما يحصل عليه الفائزون.
 
-Counter-Example: Social Media. If company P has an awesome Twitter feed, that doesn't prevent company Q from also having an awesome Twitter feed. Great tweets or content by P doesn't prevent Q from to earning attention in the same manner.
+مثال مضاد: وسائل التواصل الاجتماعي. إذا كانت الشركة P لديها خلاصة Twitter رائعة، فهذا لا يمنع الشركة Q من الحصول أيضًا على خلاصة Twitter رائعة. التغريدات أو المحتوى الرائع من P لا يمنع Q من جذب الانتباه بنفس الطريقة.
 
-You might conclude that it's wise to try to win zero-sum games, because there's "double" value. That is, not only do you *get* the sale, all your competitors *don't get* the sale. But, especially with auction-style zero-sum games, this means paying top-dollar. Even then, the available inventory is limited, e.g. the top few slots in AdWords or SEO.
+قد تستنتج أنه من الحكمة محاولة الفوز في الألعاب ذات المحصلة الصفرية، لأن هناك قيمة "مزدوجة". وهذا يعني أنك لا تحصل على البيع فقط، بل إن جميع منافسيك لا يحصلون على البيع. ولكن، خاصة مع الألعاب ذات المحصلة الصفرية على غرار المزاد، فإن هذا يعني دفع أعلى قيمة. وحتى ذلك الحين، فإن المخزون المتاح محدود، على سبيل المثال. الفتحات القليلة الأولى في AdWords أو SEO.
 
-So, even if you win a zero-sum channel, your growth in that channel is capped, and expensive.
+لذلك، حتى لو فزت بقناة محصلتها صفر، فإن نموك في تلك القناة يكون محدودًا ومكلفًا.
 
-Whereas if you invest in non-zero-sum channels like social media, long-tail SEO, brand-building, content, value-added resellers, or even cold-calling, the limit of the channel is closer to the limit of the market itself, rather than the sliver of the market which might reach you via a single advertising channel.
+بينما إذا كنت تستثمر في قنوات ذات محصلة غير صفرية مثل وسائل التواصل الاجتماعي، أو تحسين محركات البحث طويلة المدى، أو بناء العلامة التجارية، أو المحتوى، أو بائعي القيمة المضافة، أو حتى الاتصال البارد، فإن حدود القناة أقرب إلى حدود السوق نفسها، بدلاً من شريحة السوق التي قد تصل إليك عبر قناة إعلانية واحدة.
 
-And, **your success is dependent almost exclusively on yourself**, not dependent on how some advertising platform works, or how much money some competitor is willing lose.
+و**يعتمد نجاحك بشكل حصري تقريبًا على نفسك**، ولا يعتمد على كيفية عمل بعض منصات الإعلان، أو مقدار الأموال التي يرغب أحد المنافسين في خسارتها.
 
-This is especially true for smaller companies, because you don't have the resources (money, consultants, in-house expertise) that large (or funded) companies employ in the gladiator-style kill-or-be-killed arenas of zero-sum games, whereas there's nothing the big guys can do to prevent you from shining in the other games.
+وينطبق هذا بشكل خاص على الشركات الصغيرة، لأنك لا تملك الموارد (المال، والاستشاريين، والخبرة الداخلية) التي تستخدمها الشركات الكبيرة (أو الممولة) في ساحات القتل أو القتل بأسلوب المصارع في الألعاب ذات المحصلة الصفرية، في حين أنه لا يوجد شيء يمكن أن يفعله الرجال الكبار لمنعك من التألق في الألعاب الأخرى.
 
-There are few things in startups that you control. The product, your [culture](https://longform.asmartbear.com/emptiness/), and your voice online are [among the few](https://longform.asmartbear.com/startup-beats-incumbent/). Take advantage of those when you can!
+هناك أشياء قليلة في الشركات الناشئة يمكنك التحكم فيها. المنتج و[ثقافتك](https://longform.asmartbear.com/emptiness/) وصوتك عبر الإنترنت [من بين القليل](https://longform.asmartbear.com/startup-beats-incumbent/). الاستفادة من تلك عندما تستطيع!

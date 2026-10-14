@@ -20,196 +20,183 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** استخدام هرم الاحتياجات (Needs Stack) في بناء الاستراتيجية التنافسية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Using the Needs Stack for competitive strategy
-
-> **Executive Summary:** This simple method positions your product to be more valuable, especially against competitors who aim to disrupt you, or you them.
-> **Original URL:** [https://longform.asmartbear.com/needs-stack/](https://longform.asmartbear.com/needs-stack/)
-
 ![knew it was bad stopped wanting cracker started needing one](https://public.asmartbear.com/books/anthology/chapters/needs-stack/d7353print-simple.png)
 
-## The Needs Stack
+## كومة الاحتياجات
 
-How would you describe what is Charlie doing?
+كيف تصف ما يفعله تشارلي؟
 
-Charlie creates an account with AWS--Amazon Web Services: pay by-the-hour and by-the-gigabyte for internet servers, storage, and network connectivity--happy to see a "free tier" for the infrastructure they need, just like the "how-to" article explained. All the acronyms are new and unfamiliar; this is tricky, but exciting! Someday, Charlie's website might grow large enough to exceed the free tier--let's hope!
+أنشأ تشارلي حسابًا مع AWS - خدمات الويب من أمازون: الدفع بالساعة وبالجيجابايت مقابل خوادم الإنترنت والتخزين والاتصال بالشبكة - ويسعده رؤية "الطبقة المجانية" للبنية التحتية التي يحتاجونها، تمامًا كما هو موضح في مقالة "كيفية العمل". جميع المختصرات جديدة وغير مألوفة. هذا أمر صعب، ولكنه مثير! يومًا ما، قد ينمو موقع ويب تشارلي بشكل كبير بما يكفي ليتجاوز الطبقة المجانية - فلنأمل!
 
-Apparently, Charlie's to-do list was:
+من الواضح أن قائمة مهام تشارلي كانت:
 
-★ Buy infrastructure: web server, disk space, networking, database.
+★ شراء البنية التحتية: خادم الويب، ومساحة القرص، والشبكات، وقاعدة البيانات.
 
-Nominally this is true, but Charlie's life ambition is not "to buy infrastructure." In fact, it's a means to an end. What Charlie *really* wants is to have a functioning WordPress-based website, because WordPress is by an order of magnitude the most popular[^1] way for people to easily write and publish content, and integrate with online marketing software needed to build a successful website.
+وهذا صحيح اسمياً، ولكن طموح تشارلي في الحياة ليس "شراء البنية التحتية". في الواقع، إنها وسيلة لتحقيق غاية. ما يريده تشارلي *حقًا* هو أن يكون لديه موقع ويب قائم على WordPress، لأن WordPress هو الطريقة الأكثر شيوعًا[^1] للأشخاص لكتابة المحتوى ونشره بسهولة، والتكامل مع برامج التسويق عبر الإنترنت اللازمة لإنشاء موقع ويب ناجح.
 
-So, a better way to explain what's happening, is that Charlie has a higher-level "need," which is to set up a WordPress site. Getting the infrastructure is a means to an end, rather than the end itself; in this sense, it's a "need" but it's lower in the "stack."
+لذا، الطريقة الأفضل لشرح ما يحدث، هي أن تشارلي لديه "حاجة" ذات مستوى أعلى، وهي إنشاء موقع WordPress. إن الحصول على البنية التحتية هو وسيلة لتحقيق غاية، وليس الغاية نفسها؛ وبهذا المعنى، فهي "حاجة" ولكنها أقل في "المكدس".
 
-[^1]: 43% of the largest 10,000,000 websites use WordPress; Shopify is the next largest with 4%. [(Data from W3Techs)](https://w3techs.com/technologies/history_overview/content_management/all/q)
+[^1]: 43% من أكبر 10,000,000 موقع ويب تستخدم WordPress؛ Shopify هو التالي الأكبر بنسبة 4٪. [(البيانات من W3Techs)](https://w3techs.com/technologies/history_overview/content_management/all/q)
 
-What Charlie is doing *really* is:
+ما يفعله تشارلي * حقًا * هو:
 
-★ Set up a WordPress site. <br/> → Buy infrastructure: web server, disk space, networking, database.
+★ إنشاء موقع ووردبريس. <br/> → شراء البنية التحتية: خادم الويب، ومساحة القرص، والشبكات، وقاعدة البيانات.
 
-This might sound like a verbose restatement of [Jobs to be Done](https://hbswk.hbs.edu/item/clay-christensens-milkshake-marketing) or [Five Why's](https://en.wikipedia.org/wiki/Five_whys), but **there's a strategic competitive insight lurking here**, which companies often fail to appreciate	 at their peril:
+قد يبدو هذا بمثابة إعادة صياغة مطولة لـ [Jobs to Done](https://hbswk.hbs.edu/item/clay-christensens-milkshake-marketing) أو [Five Why's](https://en.wikipedia.org/wiki/Five_whys)، ولكن **هناك رؤية تنافسية استراتيجية كامنة هنا**، والتي غالبًا ما تفشل الشركات في تقديرها على مسؤوليتها:
 
-*Charlie never wanted to set up infrastructure, and still doesn't.* Charlie wants a WordPress site. Therefore, a company who provides the higher-level need of "WordPress site" makes the lower-level need of "infrastructure" *obsolete*.
+*تشارلي لم يرغب أبدًا في إعداد البنية التحتية، ولا يزال لا يريد ذلك.* يريد تشارلي موقع WordPress. لذلك، فإن الشركة التي توفر احتياجات المستوى الأعلى من "موقع WordPress" تجعل احتياجات المستوى الأدنى من "البنية التحتية" *قديمة*.
 
-Specifically, when a company like [WP Engine](https://wpengine.com/) makes it possible to set up a WordPress site in one minute, with no infrastructure to think about, handling all the technology and 24/7 monitoring, and customer support that helps with WordPress, then that company is going to win Charlie's business, and AWS will never see Charlie.
+على وجه التحديد، عندما تتيح شركة مثل [WP Engine](https://wpengine.com/) إعداد موقع WordPress في دقيقة واحدة، مع عدم وجود بنية تحتية للتفكير فيها، والتعامل مع كل التكنولوجيا والمراقبة على مدار الساعة طوال أيام الأسبوع، ودعم العملاء الذي يساعد في WordPress، فإن تلك الشركة ستفوز بأعمال تشارلي، ولن ترى AWS تشارلي أبدًا.
 
-**Charlie disappears from the cloud infrastructure market.** This is the insight.
+**يختفي تشارلي من سوق البنية التحتية السحابية.** هذه هي الرؤية.
 
-If you ask AWS who their competitors are, the answers are other cloud infrastructure suppliers like GCP (Google), Azure (Microsoft), and Digital Ocean. And they are correct, because the Charlies of the world who *do* buy infrastructure, will buy from one of those. But WP Engine is also a competitor of AWS when it comes to Charlie, not because WP Engine competes on infrastructure (which it doesn't, and in fact WP Engine itself buys infrastructure from AWS, GCP, and Azure!), but because WP Engine targets a higher-level "need" in the stack.
+إذا سألت AWS عن منافسيها، فإن الإجابات هي موردي البنية التحتية السحابية الآخرين مثل GCP (Google)، وAzure (Microsoft)، وDigital Ocean. وهم على حق، لأن أمثال شارلي في العالم الذين *يشترون* البنية التحتية، سيشترون من واحدة منها. لكن WP Engine هو أيضًا منافس لـ AWS عندما يتعلق الأمر بـ Charlie، ليس لأن WP Engine يتنافس على البنية التحتية (وهو ما لا يفعله، وفي الواقع، يشتري WP Engine نفسه البنية التحتية من AWS وGCP وAzure!)، ولكن لأن WP Engine يستهدف "حاجة" ذات مستوى أعلى في المكدس.
 
-But you can't stop there. That's the trouble--you always want to stop when you've reached the level you operate on, but there's always another level.
+لكن لا يمكنك التوقف عند هذا الحد. هذه هي المشكلة - فأنت تريد دائمًا التوقف عندما تصل إلى المستوى الذي تعمل عليه، ولكن هناك دائمًا مستوى آخر.
 
-> "Instagram's real product isn't photos; it's likes."  
-> --[Alex Danco](https://alexdanco.com/2019/04/28/secrets-about-people-a-short-and-dangerous-introduction-to-rene-girard/)
+> "منتج Instagram الحقيقي ليس الصور، بل الإعجابات."
+> --[أليكس دانكو](https://alexdanco.com/2019/04/28/secrets-about-people-a-short-and-dangerous-introduction-to-rene-girard/)
 
-It's not Charlie's life ambition to make a WordPress site; this is just a means to an end. What Charlie *really* wants is to have a personal website for content and self-promotion. Charlie wants to carve out a digital *pied à terre*. In the virtual universe there's infinite *terre*, so why not slap your *pied* on some of it!
+ليس من طموح حياة تشارلي إنشاء موقع WordPress؛ هذه مجرد وسيلة لتحقيق غاية. ما يريده تشارلي *حقًا* هو أن يكون لديه موقع ويب شخصي للمحتوى والترويج الذاتي. يريد تشارلي إنشاء نموذج رقمي *مثبت على الأرض*. في العالم الافتراضي هناك *أرض* لا حصر لها، فلماذا لا تصفع *بيدك* على بعض منها!
 
-Now the Needs Stack becomes:
+الآن يصبح مكدس الاحتياجات:
 
-★ Have a personal website for content and self-promotion. <br/> → Set up a WordPress site. <br/> → Buy infrastructure: web server, disk space, networking, database.
+★ أن يكون لديك موقع ويب شخصي للمحتوى والترويج الذاتي. <br/> → قم بإعداد موقع ووردبريس. <br/> → شراء البنية التحتية: خادم الويب، ومساحة القرص، والشبكات، وقاعدة البيانات.
 
-Charlie can still achieve this higher-level need with WordPress running on WP Engine--indeed, over one million websites run this way today. But there are alternatives that target this higher-level need. Wix and Squarespace both let you create websites without WordPress, cutting out the step of "get WordPress" just as WP Engine cut out the step of "get infrastructure."
+لا يزال بإمكان تشارلي تحقيق هذه الحاجة ذات المستوى الأعلى من خلال تشغيل WordPress على WP Engine - في الواقع، يعمل أكثر من مليون موقع ويب بهذه الطريقة اليوم. ولكن هناك بدائل تستهدف هذه الحاجة ذات المستوى الأعلى. يتيح لك كل من Wix وSquarespace إنشاء مواقع ويب بدون WordPress، مع الاستغناء عن خطوة "الحصول على WordPress" تمامًا كما قام WP Engine بإلغاء خطوة "الحصول على البنية التحتية".
 
-Does this mean WP Engine no longer has a business? No, that's not the conclusion, any more than you should conclude that AWS no longer has a business. WP Engine is 16 years old and still healthy, growing, and profitable; AWS just posted $5.2B in *profit* just last *quarter*. So what's going on?
+هل هذا يعني أن WP Engine لم يعد لديه عمل؟ لا، هذا ليس الاستنتاج، مثلما يجب أن تستنتج أن AWS لم يعد لديها عمل. يبلغ عمر WP Engine 16 عامًا ولا يزال يتمتع بصحة جيدة ومتناميًا ومربحًا؛ سجلت AWS للتو أرباحًا بقيمة 5.2 مليار دولار أمريكي في الربع الأخير فقط. إذن ماذا يحدث؟
 
-These alternatives to WordPress certainly have advantages, but they are worse than WordPress for long-form content and for customizability. For this reason, they might not be right for Charlie. But they *are* competitors. Similarly, WP Engine doesn't let you customize your infrastructure, so those who need to do so, still need to buy directly from AWS.
+من المؤكد أن هذه البدائل لـ WordPress تتمتع بمزايا، لكنها أسوأ من WordPress فيما يتعلق بالمحتوى الطويل وقابلية التخصيص. لهذا السبب، قد لا يكونون مناسبين لتشارلي. ولكنهم * هم * المنافسين. وبالمثل، لا يسمح لك WP Engine بتخصيص البنية التحتية الخاصة بك، لذا فإن أولئك الذين يحتاجون إلى القيام بذلك، لا يزالون بحاجة إلى الشراء مباشرة من AWS.
 
-The pattern here is the next insight: **Up the stack, customers achieve their end-goal faster; down the stack, customers have more flexibility and customization.**
+النمط هنا هو الرؤية التالية: **في أعلى المجموعة، يحقق العملاء هدفهم النهائي بشكل أسرع؛ وفي جميع أنحاء المجموعة، يتمتع العملاء بمزيد من المرونة والتخصيص.**
 
-But wait... once again "having a personal website" is not Charlie's life ambition, but rather just a means to an end. Charlie *really* wants a book deal. Being a properly-published author with a hard-back volume on the shelf that you can show to your [kids](https://longform.asmartbear.com/startup-life/) (who will just shrug today but maybe someday they'll appreciate it), and that you can gaze upon now and then in your dotage as a great accomplishment. This is Charlie's personal idea of "successful and popular." The way to get a book deal is to already have an online following; you'll have honed your writing craft, you'll have a natural audience to kick-start sales, and the fact that you've won followers in the competitive, noisy internet proves your content is worth reading. Publishers want authors whose content has been de-risked and who come with a built-in marketing channel.
+لكن مهلا... مرة أخرى، "امتلاك موقع إلكتروني شخصي" ليس طموح تشارلي في الحياة، بل مجرد وسيلة لتحقيق غاية. تشارلي *حقًا* يريد صفقة كتاب. أن تكون مؤلفًا منشورًا بشكل صحيح وله مجلد مقوى على الرف يمكنك عرضه لـ [أطفالك] (https://longform.asmartbear.com/startup-life/) (الذين سيتجاهلون اليوم ولكن ربما في يوم من الأيام سيقدرون ذلك)، ويمكنك النظر إليه بين الحين والآخر في فترتك كإنجاز عظيم. هذه هي فكرة تشارلي الشخصية عن "الناجحة والشعبية". الطريقة للحصول على صفقة كتاب هي أن يكون لديك بالفعل متابعين عبر الإنترنت؛ ستكون قد شحذت حرفتك في الكتابة، وسيكون لديك جمهور طبيعي لبدء المبيعات، وحقيقة أنك فزت بمتابعين في الإنترنت التنافسي والصاخب تثبت أن المحتوى الخاص بك يستحق القراءة. يريد الناشرون المؤلفين الذين تم إزالة مخاطر محتواهم والذين لديهم قناة تسويق مدمجة.
 
-So the Needs Stack deepens:
+لذا فإن مجموعة الاحتياجات تتعمق:
 
-★ Become a popular content-producer, leading to a book deal. <br/> → Have a personal website for content and self-promotion. <br/> → Set up a WordPress site. <br/> → Buy infrastructure: web server, disk space, networking, database.
+★ كن منتجًا مشهورًا للمحتوى، مما يؤدي إلى عقد صفقة كتاب. <br/> → أن يكون لديك موقع ويب شخصي للمحتوى والترويج الذاتي. <br/> → قم بإعداد موقع ووردبريس. <br/> → شراء البنية التحتية: خادم الويب، ومساحة القرص، والشبكات، وقاعدة البيانات.
 
-The new layer brings new alternative solutions. There are companies like Substack, purpose-built to help you gain a following, with the tools for long-form content, for building a mailing list, and for promoting your content on social media.
+الطبقة الجديدة تجلب حلولاً بديلة جديدة. هناك شركات مثل Substack، مصممة خصيصًا لمساعدتك في الحصول على متابعين، مع أدوات للمحتوى الطويل، لإنشاء قائمة بريدية، وللترويج للمحتوى الخاص بك على وسائل التواصل الاجتماعي.
 
-Substack doesn't automatically win, because WordPress is better than Substack in many ways. For example, WordPress is far more configurable, so you can make it look unique, unlike a million newsletters at Substack that all look identical (with character-kerning that's too wide for my taste, but I'm biased). Also, the tools for long-form writing in WordPress are far superior, with drag-and-drop elements supporting complex layouts--including different layouts for phones versus tablets versus laptops--that an email newsletter cannot support. If Charlie values those things, then WordPress is still the right choice.
+لا يفوز Substack تلقائيًا، لأن WordPress أفضل من Substack بعدة طرق. على سبيل المثال، يعد WordPress أكثر قابلية للتكوين، لذا يمكنك جعله يبدو فريدًا، على عكس مليون رسالة إخبارية في Substack التي تبدو جميعها متطابقة (مع تقنين الأحرف الذي يعد واسعًا جدًا بالنسبة لذوقي، لكنني متحيز). كما أن أدوات الكتابة الطويلة في WordPress هي أفضل بكثير، حيث تدعم عناصر السحب والإفلات التخطيطات المعقدة - بما في ذلك التخطيطات المختلفة للهواتف مقابل الأجهزة اللوحية مقابل أجهزة الكمبيوتر المحمولة - التي لا تستطيع النشرة الإخبارية عبر البريد الإلكتروني دعمها. إذا كان تشارلي يقدر هذه الأشياء، فإن WordPress لا يزال هو الخيار الصحيح.
 
-This again exemplifies the pattern that software at higher levels of the Needs Stack have fewer features and less customization than software lower on the Stack. In exchange for these limitations, their focus on the higher-level Need means it's easier for the customer to achieve that Need. If the ease of achieving the Need is more important to a customer than the ability to customize and extend, the higher-level product makes all lower levels obsolete.
+يجسد هذا مرة أخرى النمط الذي تتمتع به البرامج في المستويات الأعلى من Needs Stack بميزات أقل وتخصيص أقل من البرامج الأقل في المكدس. وفي مقابل هذه القيود، فإن تركيزها على الحاجة ذات المستوى الأعلى يعني أنه من الأسهل على العميل تحقيق تلك الحاجة. إذا كانت سهولة تحقيق الحاجة أكثر أهمية بالنسبة للعميل من القدرة على التخصيص والتوسيع، فإن المنتج ذو المستوى الأعلى يجعل جميع المستويات الأدنى قديمة.
 
-But wait a minute Substack because--you guessed it--there's another level to Charlie's Needs Stack. Because while Charlie wants a book deal as a signifier of popularity and success, it's not Charlie's life ambition. Charlie *really* wants to become a famous speaker. It started at a [Tony Robbins](https://www.tonyrobbins.com/) show; Charlie instantly knew that the stage was their calling. It's the prestige of being "that person" at parties, and the idea of being a jet-setter in first-class and a black car to pick you up with your name in the window, the ego basking in the glow of the lights and the elevation of the stage, gazed upon by an adoring audience who rushes up afterwards to grab a selfie and nervously blurt out a fraction of a story about how the speaker changed their life.
+لكن انتظر لحظة Substack لأنه - كما خمنت - هناك مستوى آخر لمكدس احتياجات تشارلي. لأنه بينما يريد تشارلي صفقة كتاب كدليل على الشعبية والنجاح، فإن هذا ليس طموح حياة تشارلي. يريد تشارلي *حقًا* أن يصبح متحدثًا مشهورًا. بدأ الأمر في عرض [توني روبينز](https://www.tonyrobbins.com/)؛ عرف تشارلي على الفور أن المسرح هو دعوتهم. إنها هيبة كونك "ذلك الشخص" في الحفلات، وفكرة أن تكون سائق طائرة في الدرجة الأولى وسيارة سوداء لاصطحابك واسمك من النافذة، والغرور الذي يستمتع بوهج الأضواء وارتفاع المسرح، الذي يحدق به الجمهور المحب الذي يهرع بعد ذلك لالتقاط صورة شخصية ويتحدث بعصبية عن جزء من القصة حول كيفية تغيير المتحدث لحياته.
 
-And the money.
+والمال.
 
-★ Get lucrative speaking gigs around the world. <br/> → Become a popular content-producer, leading to a book deal. <br/> → Have a personal website for content and self-promotion. <br/> → Set up a WordPress site. <br/> → Buy infrastructure: web server, disk space, networking, database.
+★ احصل على حفلات نقاش مربحة حول العالم. <br/> → كن منتج محتوى مشهورًا، مما يؤدي إلى صفقة كتاب. <br/> → أن يكون لديك موقع ويب شخصي للمحتوى والترويج الذاتي. <br/> → قم بإعداد موقع ووردبريس. <br/> → شراء البنية التحتية: خادم الويب، ومساحة القرص، والشبكات، وقاعدة البيانات.
 
-Charlie's plan isn't bad, but what if it were possible to skip the website and years of writing and self-promotion and the book deal and the two years of labor creating the book and directly become the next Tony Robbins? It's not impossible; there are speaker bureaus and online services like [SpeakerMatch](https://speakermatch.com/) that help you find gigs and facilitate the transaction. Why spend years building an online following (if you're lucky) when you could spend that time creating inspirational presentations, delivering them to acclaim, earning testimonials for your next gig, building a reputation with an agency, and getting bigger and better gigs over time. In this scenario, Substack, Squarespace, WP Engine, and AWS are all irrelevant for Charlie; with the higher need met, the rest might as well not exist.
+خطة تشارلي ليست سيئة، ولكن ماذا لو كان من الممكن تخطي الموقع الإلكتروني وسنوات الكتابة والترويج الذاتي وصفقة الكتاب وسنتين من العمل في تأليف الكتاب وتصبح توني روبينز التالي مباشرة؟ الأمر ليس مستحيلاً؛ هناك مكاتب المتحدثين والخدمات عبر الإنترنت مثل [SpeakerMatch](https://speakermatch.com/) التي تساعدك في العثور على العربات وتسهيل المعاملة. لماذا تقضي سنوات في بناء متابعين عبر الإنترنت (إذا كنت محظوظًا) بينما يمكنك قضاء هذا الوقت في إنشاء عروض تقديمية ملهمة، وتقديمها للاستحسان، وكسب شهادات عن حفلتك التالية، وبناء سمعة طيبة مع وكالة ما، والحصول على عروض أكبر وأفضل بمرور الوقت. في هذا السيناريو، Substack وSquarespace وWP Engine وAWS كلها غير ذات صلة بتشارلي؛ ومع تلبية الاحتياجات الأعلى، قد لا يكون الباقي موجودًا.
 
-**The moral of the story is: You need to understand the Needs Stack of your target customers.** Not just your "market" or your "product" or "[solving the problem](https://longform.asmartbear.com/problem/)" or even the immediate Jobs-To-Be-Done of your customer--those are all means to ends.
+**المغزى من القصة هو: أنت بحاجة إلى فهم مجموعة احتياجات عملائك المستهدفين.** ليس فقط "السوق" أو "منتجك" أو "[حل المشكلة](https://longform.asmartbear.com/problem/)" أو حتى المهام المباشرة التي يتعين على عميلك إنجازها - فهذه كلها وسائل لتحقيق غايات.
 
-Already you can see how this will help you think about positioning and features; let's see what else it helps you to do.
+يمكنك بالفعل أن ترى كيف سيساعدك هذا في التفكير في تحديد المواقع والميزات؛ دعونا نرى ما الذي يساعدك على القيام به.
 
-## How to leverage the Needs Stack
+## كيفية الاستفادة من كومة الاحتياجات
 
-### The solution to "selling benefits" vs "selling features"
+### الحل لـ "بيع الفوائد" مقابل "ميزات البيع"
 
-"Sell benefits, not features" marketers have told us since the universe cooled enough for galaxies to form. We're supposed to say "saves time" rather than showing a screenshot of the feature. (Or better yet, "[grows revenue](https://longform.asmartbear.com/more-value-not-save-money/).") For Charlie, say "Become famous" rather than "Get a website."
+لقد أخبرنا المسوقون "بيع الفوائد، وليس الميزات" منذ أن برد الكون بدرجة كافية لتشكل المجرات. من المفترض أن نقول "يوفر الوقت" بدلاً من عرض لقطة شاشة للميزة. (أو الأفضل من ذلك، "[تزيد الإيرادات](https://longform.asmartbear.com/more-value-not-save-money/).") بالنسبة إلى تشارلي، قل "اصبح مشهورًا" بدلاً من "احصل على موقع ويب".
 
-And yet, does an Engineer looking for a database infrastructure solution *really* want to be told "saves time" or do they want to see specs and features? (A: Specs and features.)
+ومع ذلك، هل يريد المهندس الذي يبحث عن حل البنية التحتية لقاعدة البيانات *حقًا* أن يقال له "يوفر الوقت" أم أنه يريد رؤية المواصفات والميزات؟ (ج: المواصفات والميزات.)
 
-If a construction worker is looking for a wrench, do they search Google for "wrench that saves me time" or "socket wrench for a 5/16" lock nut?" And when that person clicks a link to potentially buy the wrench, do they want pictures of happy people "saving time," or do they want to see the specifications and features like "has a mounted light." Do they really need to be told "the light is useful to see in dark corners?" Oh! Thanks for spelling out the benefits of photons!
+إذا كان عامل بناء يبحث عن مفتاح ربط، فهل يبحث في Google عن "مفتاح ربط يوفر لي الوقت" أو "مفتاح ربط لصامولة قفل مقاس 5/16"؟" وعندما ينقر هذا الشخص على رابط لشراء مفتاح الربط، هل يريد صورًا لأشخاص سعداء "لتوفير الوقت"، أم يريدون رؤية المواصفات والميزات مثل "يحتوي على ضوء مثبت". هل يحتاجون حقًا إلى أن يقال لهم "الضوء مفيد للرؤية في الزوايا المظلمة؟" أوه! شكرًا على التهجئة. من فوائد الفوتونات!
 
-So which is it?
+إذن ما هو؟
 
 ![this is tom he creates awareness](https://public.asmartbear.com/books/anthology/chapters/needs-stack/d7214print-simple.png)
 
-The Needs Stack suggests an answer. Charlie is not constantly and consciously thinking "I gotta become Tony Robbins," even though that's the top of their Needs Stack. Charlie is thinking at some other level of the stack at any given moment, for example "I gotta get some content online."
+يقترح Needs Stack إجابة. لا يفكر تشارلي باستمرار وبوعي "يجب أن أصبح توني روبنز"، على الرغم من أن هذا هو الجزء العلوي من مجموعة الاحتياجات الخاصة بهم. يفكر تشارلي في مستوى آخر من المكدس في أي لحظة، على سبيل المثال، "يجب أن أحصل على بعض المحتوى عبر الإنترنت."
 
-Google searches are a good proxy for "what level of the stack are potential customers operating at right now?" When Charlie embarked on this project, the search might have been something like "best way to publish online," not "how to become a famous globe-trotting speaker." After reading some articles about how WordPress is inexpensive, popular and has all the tools you need, maybe then Charlie moved down the Stack to search "how to get a WordPress site."
+تعد عمليات بحث Google بمثابة وكيل جيد لـ "ما هو مستوى المكدس الذي يعمل فيه العملاء المحتملون الآن؟" عندما شرع تشارلي في هذا المشروع، ربما كان البحث عبارة عن "أفضل طريقة للنشر عبر الإنترنت"، وليس "كيف تصبح متحدثًا مشهورًا يجوب العالم". بعد قراءة بعض المقالات حول كون WordPress غير مكلف وشعبي ويحتوي على جميع الأدوات التي تحتاجها، ربما انتقل تشارلي إلى أسفل المكدس للبحث عن "كيفية الحصول على موقع WordPress."
 
-If someone has in their head "get a WordPress site," you want to meet them where they are, and talk about how your product is the best way to "get a WordPress site." **That's the part where you talk about features.**
+إذا كان شخص ما في ذهنه "الحصول على موقع WordPress"، فأنت تريد مقابلته أينما كان، والتحدث عن كيف أن منتجك هو أفضل طريقة "للحصول على موقع WordPress". **هذا هو الجزء الذي تتحدث فيه عن الميزات.**
 
-However, benefits still have a role to play, because it's true that these features are a "means to an end," and the more you convince the customer that you're the best means to that end, you win even over alternatives. So, you can **sell the benefits that are one level higher on the stack.**
+ومع ذلك، لا يزال للفوائد دور تلعبه، لأنه صحيح أن هذه الميزات هي "وسيلة لتحقيق غاية"، وكلما أقنعت العميل بأنك أفضل وسيلة لتحقيق هذه الغاية، فإنك تفوز حتى بالبدائل. لذا، يمكنك **بيع المزايا التي تكون أعلى مستوى في المجموعة.**
 
-In this case, you could imagine a home page message like: "Become famous online with our turn-key, customizable WordPress website." That's the benefit from one level above, promised as a consequence of the current level.
+في هذه الحالة، يمكنك أن تتخيل رسالة على الصفحة الرئيسية مثل: "اصبح مشهورًا عبر الإنترنت من خلال موقع WordPress الجاهز والقابل للتخصيص." هذه هي الفائدة من مستوى واحد أعلاه، الموعودة كنتيجة للمستوى الحالي.
 
-Conversely, if you're Substack, you can't say "customizable" because that's not what the product is, and it's barely even a "website" (it's just back-issues of your newsletter), but you *can* speak to the product "getting eyeballs." So, that message could be "Grow your own audience with our turn-key newsletter platform."[^2]
+على العكس من ذلك، إذا كنت Substack، فلا يمكنك أن تقول "قابل للتخصيص" لأن هذا ليس هو المنتج، وهو بالكاد "موقع ويب" (إنه مجرد إصدارات سابقة من رسالتك الإخبارية)، ولكن يمكنك * التحدث إلى المنتج "لجذب الانتباه". لذا، يمكن أن تكون هذه الرسالة "قم بتنمية جمهورك من خلال منصة الرسائل الإخبارية الجاهزة لدينا."[^2]
 
-[^2]: Sure enough, as of this writing the Substack homepage says: "Substack lets independent writers and podcasters publish directly to their audience and get paid through subscriptions," which are benefits from one level higher (i.e. "be independent" and "get paid for writing"). Lower on the page it lists features from the level they are on: "A Substack combines a blog, newsletter, payment system, and customer support team--all integrated seamlessly with a simple interface. We handle the admin, billing, and tech."
+[^2]: بالتأكيد، حتى كتابة هذه السطور، تقول الصفحة الرئيسية لـ Substack: "يتيح Substack للكتاب المستقلين ومقدمي البودكاست النشر مباشرة إلى جمهورهم والحصول على أموال من خلال الاشتراكات،" وهي فوائد من مستوى أعلى (أي "أن تكون مستقلاً" و"تحصل على أموال مقابل الكتابة"). في أسفل الصفحة، يتم إدراج ميزات من المستوى الذي هي عليه: "يجمع Substack بين مدونة ونشرة إخبارية ونظام دفع وفريق دعم العملاء - كل ذلك مدمج بسلاسة مع واجهة بسيطة. نحن نتعامل مع الإدارة والفواتير والتكنولوجيا."
 
-### Position lower levels as irrelevant
+### ضع المستويات الأدنى على أنها غير ذات صلة
 
-If Substack tried to fight the battle at the "get a website" level of the stack, they would lose every time--it has almost no features of a modern website. But, it can fight the battle at the "build an audience" level; for some subset of the market, that's a more relevant level. Therefore, the idea is to make all levels below that irrelevant, by focusing only on your benefits:
+إذا حاول Substack خوض المعركة على مستوى المكدس "الحصول على موقع ويب"، فسوف يخسرون في كل مرة - فهو لا يحتوي تقريبًا على أي ميزات لموقع ويب حديث. لكنها تستطيع خوض المعركة على مستوى "بناء الجمهور". بالنسبة لبعض المجموعات الفرعية من السوق، يعد هذا مستوى أكثر صلة. ولذلك، فإن الفكرة هي جعل جميع المستويات أدناه غير ذات صلة، من خلال التركيز فقط على فوائدك:
 
-"While others just give you a website, we help you build a following." Right, because "popularity" is what I wanted, not "a website!" This message won't work on businesses, for example, because they actually do need a website. But for the aspirational speaker, this might be perfect.
+"في حين أن الآخرين يقدمون لك موقعًا إلكترونيًا فقط، فإننا نساعدك في بناء متابعين." صحيح، لأن "الشعبية" هي ما أردته، وليس "موقعًا إلكترونيًا!" لن تعمل هذه الرسالة مع الأنشطة التجارية، على سبيل المثال، لأنها تحتاج بالفعل إلى موقع ويب. ولكن بالنسبة للمتحدث الطموح، قد يكون هذا مثاليًا.
 
-Conversely, WP Engine does the same thing with cloud services. The major cloud services say: "Oh it's easy to have a WordPress site. You just click 17 times on all this stuff to make a server, and then download and install a bunch of stuff to create server software, then set up and configure WordPress, then use this 8-page tutorial to integrate with a fast caching network (which costs extra), then download and configure WordPress plugins to talk to the caching network, then stay on top of all the security patches and software upgrades, and it wouldn't hurt you to learn how to SSH into your Ubuntu server so that...."
+على العكس من ذلك، يقوم WP Engine بنفس الشيء مع الخدمات السحابية. تقول الخدمات السحابية الرئيسية: "أوه، من السهل أن يكون لديك موقع WordPress. ما عليك سوى النقر 17 مرة على كل هذه الأشياء لإنشاء خادم، ثم تنزيل وتثبيت مجموعة من الأشياء لإنشاء برنامج خادم، ثم إعداد WordPress وتكوينه، ثم استخدم هذا البرنامج التعليمي المكون من 8 صفحات للتكامل مع شبكة تخزين مؤقت سريعة (مما يكلف المزيد)، ثم قم بتنزيل وتكوين مكونات WordPress الإضافية للتحدث مع شبكة التخزين المؤقت، ثم ابق على اطلاع بجميع تصحيحات الأمان وترقيات البرامج، ولن يضرك تعلم كيفية ذلك SSH في خادم Ubuntu الخاص بك بحيث..."
 
-Whereas, the Managed WordPress Platform says: "You don't want infrastructure, you want a WordPress site, and in less than one minute, you'll have exactly that. And it's faster and more secure than doing it yourself. And when you have trouble, you can call our support line, which cloud services don't have."
+حيث أن منصة WordPress المُدارة تقول: "أنت لا تريد البنية التحتية، فأنت تريد موقع WordPress، وفي أقل من دقيقة واحدة، سيكون لديك ذلك بالضبط. وهو أسرع وأكثر أمانًا من القيام بذلك بنفسك. وعندما تواجه مشكلة، يمكنك الاتصال بخط الدعم الخاص بنا، وهو ما لا تتوفر فيه الخدمات السحابية."
 
-In short, make "infrastructure" irrelevant by focusing on the next level up. The customer never wanted to think about infrastructure in the first place.
+باختصار، اجعل "البنية التحتية" غير ذات صلة بالتركيز على المستوى التالي للأعلى. لم يرغب العميل مطلقًا في التفكير في البنية التحتية في المقام الأول.
 
-### Add more value by moving up the hierarchy
+### أضف المزيد من القيمة عن طريق الارتقاء بالتسلسل الهرمي
 
-If products targeted at one level disrupt the products below them, there's an obvious strategic conclusion: You could **disrupt yourself and your competitors** by moving up the hierarchy.
+إذا كانت المنتجات المستهدفة على مستوى ما تعطل المنتجات التي تحتها، فهناك استنتاج استراتيجي واضح: يمكنك **تعطيل نفسك ومنافسيك** من خلال الارتقاء إلى أعلى التسلسل الهرمي.
 
 ![sounds like a lot of work could we make a big mess instead](https://public.asmartbear.com/books/anthology/chapters/needs-stack/d7965print-simple.png)
 
-There are huge barriers to accomplishing this. The barriers are so large, companies almost never overcome them:
+هناك عوائق كبيرة أمام تحقيق ذلك. إن العوائق كبيرة جدًا لدرجة أن الشركات لا تتغلب عليها أبدًا:
 
-#### The next level is a different product, and a different business.
-If you're known for selling WordPress sites, you'd have to re-brand to be known for building an audience, whether that's actually a new brand or expanding an existing brand. You also need to become expert in what that product is, and build it.[^3] You might need to change your business model, e.g. selling infrastructure by the gigabyte, versus selling whole websites by the month, versus selling new subscribers on a pay-for-performance basis, versus taking a percentage of speaking fees.
+#### المستوى التالي هو منتج مختلف، وعمل مختلف.
+إذا كنت معروفًا ببيع مواقع WordPress، فسيتعين عليك إعادة صياغة علامتك التجارية حتى تصبح معروفًا ببناء جمهور، سواء كان ذلك في الواقع علامة تجارية جديدة أو توسيع علامة تجارية موجودة. تحتاج أيضًا إلى أن تصبح خبيرًا في ماهية هذا المنتج، وأن تقوم بإنشائه.[^3] قد تحتاج إلى تغيير نموذج عملك، على سبيل المثال. بيع البنية التحتية بالجيجابايت، مقابل بيع مواقع ويب كاملة شهريًا، مقابل بيع مشتركين جدد على أساس الدفع مقابل الأداء، مقابل أخذ نسبة مئوية من رسوم التحدث.
 
-#### The next level isn't possible
-It's not clear that one *can* build a product that fulfills the promise to get someone a substantial following. Twitter and Facebook sort of can, in that you can pay them to advertise your content. But the internet is a large and noisy place; marketing software doesn't automatically generate attention. Once you get the attention, if your content isn't compelling, software can't force people to subscribe. In short, if you go high enough in the Needs Stack, you might run into something that a product cannot produce. (Or at least *you* can't.)
+#### المستوى التالي غير ممكن
+ليس من الواضح ما إذا كان بإمكان الشخص بناء منتج يفي بوعده بالحصول على عدد كبير من المتابعين لشخص ما. يمكن لـ Twitter و Facebook أن تدفع لهم مقابل الإعلان عن المحتوى الخاص بك. لكن الإنترنت مكان كبير وصاخب؛ برامج التسويق لا تجذب الانتباه تلقائيًا. بمجرد جذب الاهتمام، إذا لم يكن المحتوى الخاص بك مقنعًا، فلن يتمكن البرنامج من إجبار الأشخاص على الاشتراك. باختصار، إذا وصلت إلى مستوى عالٍ بدرجة كافية في Needs Stack، فقد تواجه شيئًا لا يستطيع المنتج إنتاجه. (أو على الأقل * أنت * لا تستطيع ذلك.)
 
-#### The next level targets a smaller market
-Few people share Charlie's Needs Stack exactly. A business with a broad customer base like WP Engine sells an all-purpose platform for all kinds of sites. There are many different personas whose Needs Stack includes "set up a WordPress site."[^4] In each case, the "next level up" is different. Therefore, targeting a higher level also means narrowing the market. This might be wise--it is a tried-and-true strategy to be the best product in a smaller niche, rather than a small fish in a large, crowded ocean. But, a company who has an established brand in the wider market might not want to narrow into a sub-market. There might not be enough money in it.
+#### المستوى التالي يستهدف سوقا أصغر
+قليل من الناس يتشاركون في مجموعة احتياجات تشارلي بالضبط. تبيع شركة ذات قاعدة عملاء واسعة مثل WP Engine منصة متعددة الأغراض لجميع أنواع المواقع. هناك العديد من الأشخاص المختلفين الذين تتضمن مجموعة احتياجاتهم "إعداد موقع WordPress".[^4] في كل حالة، يختلف "المستوى الأعلى التالي". ولذلك، فإن استهداف مستوى أعلى يعني أيضًا تضييق السوق. قد يكون هذا حكيمًا - إنها استراتيجية مجربة وحقيقية لتكون المنتج الأفضل في مكان أصغر، بدلاً من أن تكون سمكة صغيرة في محيط كبير ومزدحم. لكن الشركة التي لديها علامة تجارية راسخة في السوق الأوسع قد لا ترغب في تضييق نطاقها إلى سوق فرعية. قد لا يكون هناك ما يكفي من المال فيه.
 
-[^3]: Or buy it, which mature companies often do, trading cash for speed-to-market.
+[^3]: أو قم بشرائه، وهو ما تفعله الشركات الناضجة غالبًا، حيث تقوم بتداول الأموال النقدية مقابل سرعة طرحها في السوق.
 
-[^4]: e.g. individuals wanting attention, companies broadcasting their brand, media companies attracting eyeballs for advertising revenue, eCommerce stores using content-marketing to drive sales, communities using content to inform and engage, non-profits raising money, governments interacting with citizens
+[^4]: على سبيل المثال. الأفراد الذين يريدون الاهتمام، الشركات التي تبث علاماتها التجارية، شركات الإعلام التي تجتذب مقل العيون من أجل إيرادات الإعلانات، متاجر التجارة الإلكترونية التي تستخدم تسويق المحتوى لزيادة المبيعات، المجتمعات التي تستخدم المحتوى للإعلام والمشاركة، المؤسسات غير الربحية التي تجمع الأموال، الحكومات تتفاعل مع المواطنين
 
-Since a full pivot is unlikely to succeed, there are other ways to build a strategy that partially climbs the hierarchy:
+نظرًا لأنه من غير المرجح أن ينجح المحور الكامل، فهناك طرق أخرى لبناء إستراتيجية تتسلق التسلسل الهرمي جزئيًا:
 
-#### Create sub-brands / products
-Keep the original business going, and launch "vertical" or "niche" products. Leverage the scale and operational excellence of the parent, but treat each product as its own "startup."
+#### إنشاء علامات تجارية فرعية/منتجات
+حافظ على استمرارية العمل الأصلي، وأطلق منتجات "رأسية" أو "متخصصة". استفد من حجم الشركة الأم وتميزها التشغيلي، ولكن تعامل مع كل منتج على أنه "شركة ناشئة" خاصة به.
 
-#### Add features without fully committing to the next level
-Perhaps you can't completely pivot to a product that promises subscriber-growth, but you could create an add-on product that helps someone do that. This becomes an extension of an existing product, aimed at personas who share that next level of their Needs Stack.
+#### أضف الميزات دون الالتزام الكامل بالمستوى التالي
+ربما لا يمكنك التركيز بشكل كامل على منتج يعد بنمو المشتركين، ولكن يمكنك إنشاء منتج إضافي يساعد شخصًا ما على القيام بذلك. يصبح هذا امتدادًا لمنتج موجود، يستهدف الأشخاص الذين يشاركون هذا المستوى التالي من مجموعة الاحتياجات الخاصة بهم.
 
-#### Better marketing
-Address the need with words instead of features. Without "promising" results, you can help, educate, and lead in that area. You can have a field guide about how to attract and retain subscribers to a blog. You can give customers ideas for new kinds of content. You could partner with other companies who help with promotion. You could highlight customers who have been successful, wherein they share their experience to help others.
+#### تسويق أفضل
+عالج الحاجة بالكلمات بدلاً من الميزات. وبدون نتائج "واعدة"، يمكنك المساعدة والتثقيف والقيادة في هذا المجال. يمكنك الحصول على دليل ميداني حول كيفية جذب المشتركين إلى المدونة والاحتفاظ بهم. يمكنك منح العملاء أفكارًا لأنواع جديدة من المحتوى. يمكنك الشراكة مع شركات أخرى تساعد في الترويج. يمكنك تسليط الضوء على العملاء الذين نجحوا، حيث يشاركون خبراتهم لمساعدة الآخرين.
 
-Still, while this advice is good for most organizations who cannot completely move up the hierarchy, there are examples of fantastic businesses that succeeded exactly because they successfully made the transition. For example, all of the case studies given in the "Emotional vs Functional" chapter of _[Blue Ocean Strategy](https://www.amazon.com/Blue-Ocean-Strategy-Uncontested-Competition/dp/1591396190/ref=asc_df_1591396190/?tag=hyprod-20&linkCode=df0&hvadid=312175933381&hvpos=&hvnetw=g&hvrand=11171918790451270235&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028297&hvtargid=pla-522339108124&psc=1&tag=&ref=&adgrpid=60258871817&hvpone=&hvptwo=&hvadid=312175933381&hvpos=&hvnetw=g&hvrand=11171918790451270235&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028297&hvtargid=pla-522339108124)_, such as Cemex selling "build an addition to your house, for your family" instead of just selling cement or Starbucks selling a lifestyle experience rather than B-grade coffee.
+ومع ذلك، على الرغم من أن هذه النصيحة مفيدة لمعظم المؤسسات التي لا تستطيع الارتقاء بشكل كامل إلى أعلى التسلسل الهرمي، إلا أن هناك أمثلة على شركات رائعة نجحت بالضبط لأنها نجحت في تحقيق هذا التحول. على سبيل المثال، جميع دراسات الحالة الواردة في الفصل "العاطفي مقابل الوظيفي" في _[المحيط الأزرق الإستراتيجية](https://www.amazon.com/Blue-Ocean-Strategy-Uncontested-Competition/dp/1591396190/ref=asc_df_1591396190/?tag=hypro d-20&linkCode=df0&hvadid=312175933381&hvnetw=g&hvrand=11171918790451270235&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&h vlocint=&hvlocphy=9028297&hvtargid=pla-522339108124&psc=1&tag=&ref=&adgrpid=60258871817&hvpone=&hvptwo=&hvadid=312175933381& hvpos=&hvnetw=g&hvrand=11171918790451270235&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028297&hvtargid=pla-522339108124)_, مثل بيع Cemex "قم ببناء إضافة إلى منزلك لعائلتك" بدلاً من مجرد بيع الأسمنت أو بيع ستاربكس تجربة نمط الحياة بدلاً من القهوة من الدرجة الثانية.
 
-### Measure the next level up
+### قياس المستوى التالي لأعلى
 
-The perennial question: Which [few key metrics](https://longform.asmartbear.com/product-metrics/) measure whether the customer is deriving value from our product, and thus predict whether they'll stay a customer? And beyond that, become a vocal advocate? The Needs Stack helps us uncover these more strategic metrics.
+السؤال الدائم: ما هي [القليل من المقاييس الرئيسية](https://longform.asmartbear.com/product-metrics/) التي تقيس ما إذا كان العميل يستمد قيمة من منتجنا، وبالتالي التنبؤ بما إذا كان سيظل عميلاً؟ وبعد ذلك، هل تصبح داعية صوتيًا؟ يساعدنا Needs Stack في الكشف عن هذه المقاييس الأكثر استراتيجية.
 
-Metrics from the bottom of the Stack measure whether we're operating well, and certainly this is necessary even if not sufficient. Metrics at the level the customer is actively thinking about are useful to measure whether our Product is delivering on its direct promise, which again is vital.
+تقيس المقاييس الموجودة في أسفل المكدس ما إذا كنا نعمل بشكل جيد، وبالتأكيد يعد هذا ضروريًا حتى لو لم يكن كافيًا. تعد المقاييس على المستوى الذي يفكر فيه العميل بنشاط مفيدة لقياس ما إذا كان منتجنا يفي بوعده المباشر، وهو أمر حيوي مرة أخرى.
 
-It's strategic to measure further up the stack. Not too far, otherwise it's not only difficult to measure, but too many external factors drive the number. But the very next level up could be a critical way to measure value and to understand whether customers will be happy in the long run.
+من الاستراتيجي قياس المزيد من المكدس. ليس بعيدًا جدًا، وإلا فلن يكون من الصعب قياسه فحسب، بل هناك العديد من العوامل الخارجية التي تحدد الرقم. لكن المستوى الأعلى التالي يمكن أن يكون وسيلة حاسمة لقياس القيمة وفهم ما إذا كان العملاء سيكونون سعداء على المدى الطويل.
 
-If a customer of Shopify successfully creates a store, the product of "have a store online" is succeeding, and that will be reflected in metrics like "number of products currently for sale" and in user surveys like "how easy was it to set up products for sale." That's important, but what if no one buys their wares? That customer will probably churn, even though the software delivered on its promise. Indeed, Shopify has enormous cancellation rates that would sink most companies; they survive because the ones that stay, grow a lot. Because they have so many inbound new customers, they can manage around the fact that [only 34% stick around for even one year](https://www.theglobeandmail.com/business/article-shopify-customer-retention-problem/).
+إذا نجح أحد عملاء Shopify في إنشاء متجر بنجاح، فإن منتج "لديك متجر عبر الإنترنت" ينجح، وسينعكس ذلك في مقاييس مثل "عدد المنتجات المعروضة للبيع حاليًا" وفي استطلاعات المستخدمين مثل "مدى سهولة إعداد المنتجات للبيع". هذا مهم، ولكن ماذا لو لم يشتري أحد بضاعتهم؟ من المحتمل أن يتراجع هذا العميل، على الرغم من أن البرنامج قد أوفي بوعده. في الواقع، لدى Shopify معدلات إلغاء هائلة من شأنها أن تغرق معظم الشركات؛ إنهم يبقون على قيد الحياة لأن أولئك الذين يبقون ينمون كثيرًا. نظرًا لوجود عدد كبير جدًا من العملاء الجدد الوافدين، يمكنهم التعامل مع حقيقة أن [34% فقط يستمرون في العمل لمدة عام واحد](https://www.theglobeandmail.com/business/article-shopify-customer-retention-problem/).
 
-Can Shopify ensure that all customers who create a store end up doing thousands of dollars a month in business? No, this is an example where the next level up is vital, but Shopify cannot control it. However, they can measure it, and help. They could have articles about how to do online marketing, or features inside the store that help potential customers complete a checkout rather than abandon.[^5]
+هل يستطيع Shopify التأكد من أن جميع العملاء الذين يقومون بإنشاء متجر ينتهي بهم الأمر إلى تحقيق آلاف الدولارات شهريًا في الأعمال التجارية؟ لا، هذا مثال حيث يكون المستوى التالي أمرًا حيويًا، لكن Shopify لا يمكنه التحكم فيه. ومع ذلك، يمكنهم قياس ذلك، والمساعدة. ويمكن أن يكون لديهم مقالات حول كيفية القيام بالتسويق عبر الإنترنت، أو ميزات داخل المتجر تساعد العملاء المحتملين على إكمال عملية الدفع بدلاً من التخلي عنه.[^5]
 
-[^5]: Features like ShopPay, in which previous customers of other Shopify stores are fast-tracked through the purchase process, increasing the percentage of shopping carts that result in completed transactions.
+[^5]: ميزات مثل ShopPay، حيث يتم تتبع العملاء السابقين لمتاجر Shopify الأخرى بشكل سريع خلال عملية الشراء، مما يزيد من النسبة المئوية لعربات التسوق التي تؤدي إلى إتمام المعاملات.
 
-This is why Shopify's primary success metric is GMV;[^6] they [report it to Wall Street](https://news.shopify.com/shopify-announces-fourth-quarter-and-full-year-2022-financial-results) directly after revenue, and in the same large font. GMV measures whether their customers are succeeding in the next level up on the stack. GMV not only reflects the truth about where the customer value is, it also encourages their product mangers to think about how to stretch up from the level of the stack they fully control.
+ولهذا السبب فإن مقياس النجاح الأساسي لـ Shopify هو GMV؛[^6] يقومون [بإبلاغ Wall Street](https://news.shopify.com/shopify-anounces-fourth-ربع-and-full-year-2022-financial-results) مباشرة بعد الإيرادات، وبنفس الخط الكبير. تقيس GMV ما إذا كان عملاؤها ينجحون في المستوى التالي للأعلى في المكدس. لا تعكس GMV الحقيقة حول مكان وجود قيمة العميل فحسب، بل تشجع أيضًا مديري منتجاتهم على التفكير في كيفية الارتقاء من مستوى المجموعة التي يسيطرون عليها بالكامل.
 
-[^6]: Gross Merchandise Value: the total amount of money their customers are selling through their stores.
+[^6]: إجمالي قيمة البضائع: إجمالي المبلغ المالي الذي يبيعه عملاؤهم من خلال متاجرهم.
 
-### A source of higher purpose
+### مصدر لهدف أسمى
 
-Our direct goals are often simple: Sign up more customers, get them to activate on the product, reduce churn, reduce support tickets, reduce costs. All of that is important, but none of it [creates a higher purpose](https://longform.asmartbear.com/mission-vision/).
+غالبًا ما تكون أهدافنا المباشرة بسيطة: تسجيل المزيد من العملاء، وحثهم على التنشيط على المنتج، وتقليل معدل التوقف عن العمل، وتقليل تذاكر الدعم، وخفض التكاليف. كل هذا مهم، ولكن لا شيء منه [يخلق هدفًا أعلى](https://longform.asmartbear.com/mission-vision/).
 
-[What's it all for](https://longform.asmartbear.com/emptiness/)? Why should we even bother?
+[لماذا كل هذا](https://longform.asmartbear.com/emptiness/)؟ لماذا يجب أن نهتم حتى؟
 
-Many companies can't answer the question. Indeed, maybe they have no purpose other than "growth." Will folks be motivated to do their best work at a company that values only conversion rates?
+العديد من الشركات لا تستطيع الإجابة على هذا السؤال. وفي الواقع، ربما ليس لديهم أي غرض آخر غير "النمو". هل سيتم تحفيز الأشخاص لبذل قصارى جهدهم في شركة تقدر معدلات التحويل فقط؟
 
-Purpose can be found in the higher levels of the Needs Stack. The immediate work is "getting a website," but the higher purpose is to enable someone to build a career for themselves, to engage their creativity and speciality, to help them win the respect of others. Or help them [become a hero](https://longform.asmartbear.com/more-value-not-save-money/) within a bigger organization through some new marketing project, which will eventually lead to their promotion. Or help them raise awareness and money for an important cause. Or enable them to speak truth to power in a region of the world where such speech is forbidden.
+يمكن العثور على الغرض في المستويات الأعلى من مجموعة الاحتياجات. العمل المباشر هو "الحصول على موقع على شبكة الإنترنت"، ولكن الهدف الأسمى هو تمكين شخص ما من بناء مهنة لنفسه، وإشراك إبداعه وتخصصه، لمساعدته على كسب احترام الآخرين. أو ساعدهم على [أن يصبحوا أبطالًا](https://longform.asmartbear.com/more-value-not-save-money/) داخل مؤسسة أكبر من خلال بعض المشاريع التسويقية الجديدة، الأمر الذي سيؤدي في النهاية إلى ترقيتهم. أو ساعدهم في زيادة الوعي وجمع المال لقضية مهمة. أو تمكينهم من قول الحقيقة للسلطة في منطقة من العالم حيث يُحظر مثل هذا الكلام.
 
-Tell those stories. On the website and internally. Celebrate with your team when this actually happens for a customer, because that *is* what it's all about. Those stories are why we should care.
+أخبر تلك القصص. على الموقع وداخليا. احتفل مع فريقك عندما يحدث هذا بالفعل للعميل، لأن هذا هو كل ما يدور حوله الأمر. هذه القصص هي السبب الذي يجعلنا نهتم.
 
-Identify those upper reaches of the Needs Stack, not only because it helps you build more valuable features, not only because it helps you build a better strategy, but because it is the ultimate reason why any of this is worth doing in the first place.
+حدد هذه العناصر العليا من مجموعة الاحتياجات، ليس فقط لأنها تساعدك على بناء ميزات أكثر قيمة، وليس فقط لأنها تساعدك على بناء استراتيجية أفضل، ولكن لأنها السبب النهائي الذي يجعل أيًا من هذا يستحق القيام به في المقام الأول.

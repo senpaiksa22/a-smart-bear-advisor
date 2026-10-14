@@ -20,111 +20,98 @@ summary_ar: "Some of my articles have \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** نصائح داروينية حول الانتشار الفيروسي الحقيقي للمنتجات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Darwinian advice for "Going Viral"
-
-> **Executive Summary:** Some of my articles have "gone viral." While you can't force it to happen, this is my Darwinian Theory of how to "go viral."
-> **Original URL:** [https://longform.asmartbear.com/going-viral/](https://longform.asmartbear.com/going-viral/)
-
 ![It's just some viral marketing; you'll be fine.](https://longform.asmartbear.com/going-viral/41757040.png)
 
-Everyone wants to "go viral" these days. A viral video, blog post, news announcement, who cares so long as it's *viral!*
+الجميع يريد أن "ينتشر" هذه الأيام. مقطع فيديو سريع الانتشار، أو مشاركة مدونة، أو إعلان إخباري، من يهتم طالما أنه *سريع الانتشار!*
 
-I can't stand the phrase, personally. "Dude, we're going viral tonight." Sounds like a one-night stand without protection. And a self-fulfilling prophecy.
+أنا شخصياً لا أستطيع تحمل هذه العبارة. "يا صاح، سننتشر الليلة على نطاق واسع." يبدو وكأنه ليلة واحدة دون حماية. ونبوءة تحقق ذاتها.
 
-**Some of my articles have "gone viral," so I'd like to offer up my own perspective** about how to make something viral: The Darwinian Theory of Going Viral.
+**لقد انتشرت بعض مقالاتي بسرعة كبيرة، لذا أود أن أقدم وجهة نظري الخاصة** حول كيفية جعل شيء ما سريع الانتشار: النظرية الداروينية للانتشار الفيروسي.
 
 ---
 
-The common way to describe Darwinian evolution is "survival of the fittest:" Animals compete to acquire food and evade predators; whichever individuals are more capable than their peers will survive. Over time, successful characteristics are reinforced and unsuccessful ones die off.
+الطريقة الشائعة لوصف التطور الدارويني هي "البقاء للأصلح": تتنافس الحيوانات للحصول على الغذاء والتهرب من الحيوانات المفترسة؛ أي فرد أكثر قدرة من أقرانه سوف يبقى على قيد الحياة. وبمرور الوقت، تتعزز الخصائص الناجحة وتختفي الخصائص غير الناجحة.
 
-[In one of the most famous examples](http://en.wikipedia.org/wiki/Peppered_moth_evolution), in 1848 the peppered moth in England was white with black spots, matching the lichens on the trees they perched on and therefore invisible to hungry birds. A mutation carried by 2% of the population caused the moth to be completely black; they stood out like pimples and the birds had an easy time keeping their population in check.
+[في أحد الأمثلة الأكثر شهرة] (http://en.wikipedia.org/wiki/Peppered_moth_evolution)، في عام 1848، كانت العثة المفلفلة في إنجلترا بيضاء مع بقع سوداء، مطابقة للأشنات الموجودة على الأشجار التي تطفو عليها، وبالتالي غير مرئية للطيور الجائعة. تسببت الطفرة التي يحملها 2٪ من السكان في تحول الفراشة إلى اللون الأسود بالكامل؛ لقد برزت مثل البثور وكان من السهل على الطيور مراقبة أعدادها.
 
-But once the industrial revolution set in, soot from the new coal-burning factories killed the lichens and turned the tree trunks black. For the moths, black was the new white; now the dark moths blended in and the white-peppered ones became dinner. By 1895, 98% of the moths carried the black-body "mutation"--the genetic incidence had exactly swapped.
+ولكن بمجرد بدء الثورة الصناعية، قتل السخام الناتج عن مصانع حرق الفحم الجديدة الأشنات وحوّل جذوع الأشجار إلى اللون الأسود. بالنسبة للعث، كان الأسود هو الأبيض الجديد؛ الآن امتزجت الفراشات الداكنة وأصبحت الفراشات ذات الفلفل الأبيض هي العشاء. بحلول عام 1895، كان 98% من الفراشات يحمل "طفرة" الجسم الأسود، وكان معدل الإصابة الجيني قد تغير تمامًا.
 
 ![black and white peppered English moths](https://longform.asmartbear.com/going-viral/ac66cd18.png)
 
-Yay, "survival of the fittest." 
+ياي، "البقاء للأصلح".
 
-**The temptation now is to make an analogy to "going viral."**
+**الإغراء الآن هو إجراء تشبيه بـ "الانتشار الفيروسي".**
 
-Specifically, when you twitter a link it goes out to your direct followers: That's the first "generation." Then some of your followers might retweet it to their followers: The second generation. Instead of competing for food or avoiding predation, you're [competing for attention](https://longform.asmartbear.com/standing-out-from-the-noise/).
+على وجه التحديد، عندما تقوم بتغريد رابط ما، فإنه يخرج إلى متابعيك المباشرين: هذا هو "الجيل" الأول. ومن ثم قد يقوم بعض متابعيك بإعادة تغريدها لمتابعيهم: الجيل الثاني. بدلاً من التنافس على الطعام أو تجنب الافتراس، فإنك [تتنافس على الاهتمام](https://longform.asmartbear.com/standing-out-from-the-noise/).
 
-You are "going viral" when the link is "procreating" (being retweeted) more often then dying (not being retweeted).
+أنت "تنتشر بسرعة" عندما "يتكاثر" الرابط (يتم إعادة تغريده) في كثير من الأحيان ثم يموت (لا تتم إعادة تغريده).
 
-OK, but **so far this analogy is not enlightening**.
+حسنًا، ولكن **حتى الآن هذا التشبيه ليس مفيدًا**.
 
-For real insight, I'll need to fix my subtly but critically incorrect definition of Darwinian evolution. If you're a scientifically-minded stickler you'll know that "survival of the fittest" isn't quite accurate.
+للحصول على رؤية حقيقية، سأحتاج إلى إصلاح تعريفي الدقيق والخاطئ للتطور الدارويني. إذا كنت من أصحاب التفكير العلمي، فستعرف أن مبدأ "البقاء للأصلح" ليس دقيقًا تمامًا.
 
-To see why, consider a horse and a donkey very much in love, star-crossed lovers who just can't conform to a society that says separate species shouldn't mate. Or marry. So they do (mate) and produce a mule. Mules have a [combination of attributes from each parent](http://www.ruralheritage.com/mule_paddock/mule_compare.htm), but most importantly for our purposes, *a mule is sterile*.
+لمعرفة السبب، فكر في حصان وحمار يقعان في حالة حب شديدة، عاشقان متناقضان لا يستطيعان التوافق مع مجتمع يقول إنه لا ينبغي للأنواع المنفصلة أن تتزاوج. أو الزواج. فيفعلون (يتزاوجون) وينتجون بغلاً. تمتلك البغال [مجموعة من السمات من كل والد] (http://www.ruralheritage.com/mule_paddock/mule_compare.htm)، ولكن الأهم من ذلك بالنسبة لأغراضنا، *البغل عقيم*.
 
 ![Illustration by Bethany Caskey, originally featured in the Summer 1998 issue of [Rural Heritage](http://www.mischka.com/shop/home.php?cat=283) magazine](https://longform.asmartbear.com/going-viral/121cd591.png)
 
-The problem from an evolutionary point of view is that the mule can't transmit its characteristics to the next generation. It doesn't matter if the mule survives, gets food, avoids predators, plays [Parcheesi](https://longform.asmartbear.com/ho-rudolph/), gets a B+ in vector calculus, and whatever else you'd consider "fitness"--if you can't make more babies, you're a genetic dead end.
+المشكلة من وجهة نظر تطورية هي أن البغل لا يستطيع نقل خصائصه إلى الجيل التالي. لا يهم إذا نجا البغل، وحصل على الطعام، وتجنب الحيوانات المفترسة، ولعب [Parcheesi] (https://longform.asmartbear.com/ho-rudolph/)، وحصل على B+ في حساب التفاضل والتكامل، وأي شيء آخر قد تعتبره "لياقة بدنية" - إذا لم تتمكن من إنجاب المزيد من الأطفال، فأنت في طريق مسدود وراثيًا.
 
-**Mule  ==  Evolution Fail**
+** البغل == فشل التطور **
 
-To fix our definition, we realize that "fittest children" is not enough; rather we need "children who themselves make the fittest children." Involving the grandchildren ensures there's a "chain reaction" of fitness, not a one-off fitness like the mule.
+ولإصلاح تعريفنا، ندرك أن "الأطفال الأكثر لياقة" لا يكفي؛ بل نحن بحاجة إلى "الأطفال الذين هم أنفسهم يصنعون الأطفال الأكثر لياقة". إن إشراك الأحفاد يضمن وجود "رد فعل متسلسل" للياقة البدنية، وليس لياقة لمرة واحدة مثل البغل.
 
-So here's the insight into building a viral message: **It's not enough for the message to be interesting to your *direct* followers (children), it needs to be something your followers would be interested in *repeating* (grandchildren).**
+إذن، إليك نظرة ثاقبة لبناء رسالة سريعة الانتشار: **لا يكفي أن تكون الرسالة مثيرة للاهتمام لمتابعيك *المباشرين* (الأطفال)، بل يجب أن تكون شيئًا قد يثير اهتمام متابعيك *بتكراره* (الأحفاد).**
 
-If you think about it, this is exactly the principle behind the chain-letter of yesteryear--the original "viral" message. They were successful not because you sent the letter to ten other people, but because the letter requires the recipients to do the same.
+إذا فكرت في الأمر، فهذا هو بالضبط المبدأ الكامن وراء الرسالة المتسلسلة من الأمس - الرسالة الأصلية "الفيروسية". لقد نجحوا ليس لأنك أرسلت الرسالة إلى عشرة أشخاص آخرين، ولكن لأن الرسالة تتطلب من المستلمين أن يفعلوا الشيء نفسه.
 
-How does this affect how you try to get a message to go viral? **The message itself needs to suggest retransmission.**
+كيف يؤثر هذا على كيفية محاولتك نشر رسالة على نطاق واسع؟ **تحتاج الرسالة نفسها إلى اقتراح إعادة الإرسال.**
 
-The simplest way to do this is to simply ask for retransmission in the message. For example, don't just tweet this:
+إن أبسط طريقة للقيام بذلك هي ببساطة طلب إعادة الإرسال في الرسالة. على سبيل المثال، لا تكتفي بالتغريد بهذا:
 
 ![tweet](https://longform.asmartbear.com/going-viral/1d9a0289.png)
 
-Instead, specifically ask for the retweet:
+بدلاً من ذلك، اطلب إعادة التغريدة على وجه التحديد:
 
 ![tweet with "please RT"](https://longform.asmartbear.com/going-viral/2c98b4a8.png)
 
-This sounds so trivial, but remember that most people retweet by tapping the "retweet" button, therefore your plea for further retweets will be preserved.
+يبدو هذا تافهًا للغاية، لكن تذكر أن معظم الأشخاص يقومون بإعادة التغريد من خلال النقر على زر "إعادة التغريد"، وبالتالي سيتم الحفاظ على نداءك لمزيد من إعادة التغريد.
 
-Here's a different example, this time with email. If you want to promote the 1.0 release of your new software, you might entreat your friends and family for promotion with an email like this:
+وإليك مثال مختلف، هذه المرة مع البريد الإلكتروني. إذا كنت ترغب في الترويج للإصدار 1.0 من برنامجك الجديد، فيمكنك أن تطلب من أصدقائك وعائلتك الترويج برسالة بريد إلكتروني مثل هذه:
 
-> Dear Francis,
+> عزيزي فرانسيس،
 > 
-> I just released v1.0! Aren't you happy for me? 
+> لقد قمت للتو بإصدار v1.0! ألست سعيدا من أجلي؟
 > 
-> It would mean a lot to me if you could tell everyone you know and help me kick-start this. I'll buy you a beer or something! Okaythxbye.
+> سيعني الكثير بالنسبة لي إذا تمكنت من إخبار كل شخص تعرفه ومساعدتي في بدء هذا الأمر. سأشتري لك بيرة أو شيء من هذا! حسنًا.
 
-**The problem is that you've just given Francis work to do.** Should Francis send a tweet? If so, what should it say, and how will they say it briefly? Do you think Francis will come up with a pithy, fun, intriguing 140 characters? How much time do you think Francis is willing to put into this? Are you sure Francis is even sober?
+**المشكلة هي أنك أعطيت فرانسيس للتو عملاً ليقوم به.** هل ينبغي على فرانسيس أن يرسل تغريدة؟ إذا كان الأمر كذلك، فماذا يجب أن يقول، وكيف سيقولونه باختصار؟ هل تعتقد أن فرانسيس سوف يأتي بـ 140 حرفًا بليغًا وممتعًا ومثيرًا للاهتمام؟ ما هو الوقت الذي تعتقد أن فرانسيس على استعداد لتخصيصه لهذا الأمر؟ هل أنت متأكد من أن فرانسيس رزين حتى؟
 
-Instead, help Francis. Tear down every barrier they have for retransmission. Do the thinking for them.
+بدلا من ذلك، ساعد فرانسيس. هدم كل حاجز لديهم لإعادة الإرسال. هل التفكير بالنسبة لهم.
 
-> Dear Francis,
+> عزيزي فرانسيس،
 > 
-> I just released v1.0! I would be forever grateful if you took just 60 seconds of your time to help me spread the word.
+> لقد قمت للتو بإصدار v1.0! سأكون ممتنًا إلى الأبد إذا أخذت 60 ثانية فقط من وقتك لمساعدتي في نشر الكلمة.
 > 
-> Here's a Twitter message you could use:
+> إليك رسالة تويتر التي يمكنك استخدامها:
 > 
-> [Cool Tool, plz R/T!] Find out who's talking about your blog! http://LinksFor.Us
+> [أداة رائعة، من فضلك R/T!] اكتشف من يتحدث عن مدونتك! http://LinksFor.Us
 > 
-> Or if you wouldn't mind sending an email to your friends or a LinkedIn message, here's some text you could use:
+> أو إذا كنت لا تمانع في إرسال بريد إلكتروني إلى أصدقائك أو رسالة على LinkedIn، فإليك بعض النصوص التي يمكنك استخدامها:
 > 
-> Hi! My friend Jason just released a new, free service for bloggers that shows who is talking about or linking to your blog posts. Thought you'd enjoy:  http://LinksFor.Us
->
-> Anyway, thanks in advance for helping me spread the word! I'll buy you a beer.
+> أهلاً! أصدر صديقي جيسون للتو خدمة مجانية جديدة للمدونين توضح من يتحدث عن منشورات مدونتك أو يرتبط بها. أعتقد أنك ستستمتع: http://LinksFor.Us
+> 
+> على أي حال، شكرا مقدما لمساعدتي في نشر الكلمة! سأشتري لك بيرة.
 
-In the end, though, I have to admit that **when my posts have gone viral it wasn't because of these techniques!**
+في النهاية، عليّ أن أعترف أنه **عندما انتشرت منشوراتي على نطاق واسع، لم يكن ذلك بسبب هذه التقنيات!**
 
-Rather, they went viral because a lot of people found the content genuinely useful or entertaining or inspiring, or hopefully all of the above.
+بل لقد انتشرت على نطاق واسع لأن الكثير من الأشخاص وجدوا المحتوى مفيدًا حقًا أو ترفيهيًا أو ملهمًا، أو نأمل أن يكون كل ما سبق.
 
-[Seth Godin put it](https://seths.blog/2007/01/how_to_be_remar/) nicely:
+[صاغها سيث جودين](https://seths.blog/2007/01/how_to_be_remar/) بشكل جيد:
 
-> Being noticed is not the same as being remarkable. Running down the street naked will get you noticed, but it won't accomplish much. ... If you put it on a T-shirt, would people wear it?
+> أن تكون ملاحظًا لا يعني أن تكون مميزًا. الجري في الشارع عاريًا سوف يلفت انتباهك، لكنه لن يحقق الكثير. ... لو وضعته على تيشيرت هل سيرتديه الناس؟
 
-You can see this in the list of [most popular YouTube videos](http://tinyurl.com/pm54h)--the most viral of them all. Not a single one is a result of a company trying to push a product or service (except music videos). People spread these not because of a carefully crafted campaign, but because they just plain liked it.
+يمكنك رؤية ذلك في قائمة [مقاطع الفيديو الأكثر شهرة على YouTube] (http://tinyurl.com/pm54h) - الأكثر انتشارًا على الإطلاق. لا يوجد أي نتيجة لمحاولة شركة الترويج لمنتج أو خدمة (باستثناء مقاطع الفيديو الموسيقية). لم ينشر الناس هذه الأشياء بسبب حملة تم إعدادها بعناية، ولكن لأنهم أعجبوا بها فحسب.
 
-**So the #1 best rule is: Have overwhelmingly awesome content.** So good that people intrinsically want to spread the word. But then of course you might as well also be smart about how you help them spread the message.
+**لذا فإن أفضل قاعدة رقم 1 هي: احصل على محتوى رائع للغاية.** جيد جدًا لدرجة أن الناس يرغبون بشكل جوهري في نشر الكلمة. ولكن بالطبع قد تكون أيضًا ذكيًا بشأن كيفية مساعدتهم على نشر الرسالة.
 
-What's the mechanistic formula for generating incredible, remarkable content? Ha ha, let me know when you find one.
+ما هي الصيغة الآلية لإنتاج محتوى مذهل ورائع؟ ها ها، اسمحوا لي أن أعرف عندما تجد واحدة.

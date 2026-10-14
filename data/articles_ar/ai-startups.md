@@ -20,132 +20,119 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** شركات الذكاء الاصطناعي تحتاج استراتيجيات جديدة: هذه المرة الأمر مختلف حقاً تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# AI startups require new strategies: This time it's actually different
-
-> **Executive Summary:** The typical dynamics between startups and incumbents do not apply in AI as they did in previous technology revolutions like mobile and the internet.  Ignore this at your peril.
-> **Original URL:** [https://longform.asmartbear.com/ai-startups/](https://longform.asmartbear.com/ai-startups/)
-
 ![uprising calendar friday](https://public.asmartbear.com/books/anthology/chapters/ai-startups/d8802print-simple.png)
 
-Startups must leverage their [specific advantages they have over incumbents](https://longform.asmartbear.com/startup-beats-incumbent/) to overcome the massive barriers erected by those incumbents: Mature products, mature distribution channels, brand, trust, optimized organizations, and cash in the bank.
+يجب على الشركات الناشئة الاستفادة من [المزايا المحددة التي تتمتع بها على الشركات القائمة] (https://longform.asmartbear.com/startup-beats-incumbent/) للتغلب على الحواجز الهائلة التي أقامتها تلك الشركات القائمة: المنتجات الناضجة، وقنوات التوزيع الناضجة، والعلامة التجارية، والثقة، والمؤسسات المحسنة، والأموال النقدية في البنك.
 
-However, in the AI revolution many of those advantages are unavailable. Some even become a disadvantage. This is substantively different from the other two major technological revolutions of the past twenty-five years.[^1]
+ومع ذلك، في ثورة الذكاء الاصطناعي، لا تتوفر العديد من هذه المزايا. حتى أن البعض يصبح عيبًا. وهذا يختلف جوهريًا عن الثورتين التكنولوجيتين الرئيسيتين الأخريين في الخمسة والعشرين عامًا الماضية.[^1]
 
-[^1]: The internet and mobile devices. Not blockchain, at least not yet--that has had almost no effect on businesses despite the application of billions of dollars over more than a decade.
+[^1]: الإنترنت والأجهزة المحمولة. لم يكن لتقنية blockchain، على الأقل حتى الآن - أي تأثير تقريبًا على الشركات على الرغم من إنفاق مليارات الدولارات على مدى أكثر من عقد من الزمن.
 
-Specifically:
+خاصة:
 
-#### Disruption Theory & risk-aversion don't apply
-Incumbents typically cede market space to startups wherever there's new, unproven technology or a new, unproven market, especially in spaces where they can't use past data to predict the future. But in AI, they're rushing to embrace new technology and uncertain markets, spending historic amounts of money and time.
+#### لا تنطبق نظرية التعطيل والنفور من المخاطرة
+عادةً ما يتنازل أصحاب الشركات عن مساحة السوق للشركات الناشئة حيثما توجد تكنولوجيا جديدة غير مثبتة أو سوق جديد غير مثبت، خاصة في المساحات التي لا يمكنهم فيها استخدام البيانات السابقة للتنبؤ بالمستقبل. لكن في مجال الذكاء الاصطناعي، فإنهم يسارعون إلى تبني التكنولوجيا الجديدة والأسواق غير المؤكدة، وينفقون مبالغ تاريخية من المال والوقت.
 
-#### Incumbents aren't failing to innovate
-Typically the race is "whether the startup gets distribution before the incumbent gets innovation ([Alex Rampell](https://a16z.com/distribution-vs-innovation/))." But in AI, the incumbents already have the innovation (whether through closed APIs or open source), while startups struggle as mightily as ever to find distribution. Perhaps an even greater struggle, as every market is over-saturated with new startup competitors, some with massive funding.
+#### شاغلو الوظائف لا يفشلون في الابتكار
+عادةً ما يكون السباق هو "ما إذا كانت الشركة الناشئة ستحصل على التوزيع قبل أن يحصل شاغل الوظيفة على الابتكار ([Alex Rampell](https://a16z.com/distribution-vs-innovation/))." ولكن في مجال الذكاء الاصطناعي، يمتلك شاغلو الوظائف بالفعل الابتكار (سواء من خلال واجهات برمجة التطبيقات المغلقة أو المصدر المفتوح)، في حين تكافح الشركات الناشئة بقوة أكثر من أي وقت مضى للعثور على التوزيع. وربما يكون الصراع أكبر، حيث أن كل سوق مشبع بالمنافسين الجدد من الشركات الناشئة، وبعضهم يتمتع بتمويل ضخم.
 
-#### Incumbents have the data
-"There's no AI strategy without a data strategy," the (now often-repeated) saying goes. For training, testing, benchmarking, and features, you need data. Incumbents have it or can afford it; startups are at another disadvantage.
+#### شاغلوها لديهم البيانات
+يقول المثل (الذي يتكرر كثيرًا الآن): "لا توجد استراتيجية للذكاء الاصطناعي بدون استراتيجية بيانات". للتدريب والاختبار وقياس الأداء والميزات، تحتاج إلى البيانات. يمتلكها شاغلو الوظائف أو يستطيعون تحمل تكاليفها؛ الشركات الناشئة في وضع غير مؤاتٍ آخر.
 
-#### Great talent are happy at incumbents
-While there will always be fantastic people who only want to be at a small company, there are even more people, including the top AI and software engineering talent in the world, who are getting paid above-market rates to work on the most exciting projects, with healthy budgets, with data to leverage, and with the ability to impact huge numbers of customers quickly without having to do marketing, sales, support, or accounting.
+#### المواهب العظيمة سعيدة في شاغليها
+في حين أنه سيكون هناك دائمًا أشخاص رائعون يريدون فقط أن يكونوا في شركة صغيرة، إلا أن هناك المزيد من الأشخاص، بما في ذلك أفضل مواهب الذكاء الاصطناعي وهندسة البرمجيات في العالم، الذين يحصلون على رواتب أعلى من أسعار السوق للعمل في المشاريع الأكثر إثارة، بميزانيات جيدة، مع بيانات يمكن الاستفادة منها، ولديهم القدرة على التأثير على أعداد كبيرة من العملاء بسرعة دون الحاجة إلى القيام بالتسويق أو المبيعات أو الدعم أو المحاسبة.
 
-#### The so-called "AI market" is not what you think it is
-People say "the AI market will be trillions of dollars so there's enough for everyone," but there's no such thing as "the AI market" unless you're competing directly with OpenAI. The market for chatbots and SEO tools is the same market as before, now with stiffer competition.
+#### إن ما يسمى بـ "سوق الذكاء الاصطناعي" ليس كما تعتقد
+يقول الناس "سيبلغ حجم سوق الذكاء الاصطناعي تريليونات الدولارات، لذا يوجد ما يكفي للجميع"، ولكن لا يوجد شيء اسمه "سوق الذكاء الاصطناعي" إلا إذا كنت تتنافس مباشرة مع OpenAI. سوق روبوتات الدردشة وأدوات تحسين محركات البحث (SEO) هو نفس السوق كما كان من قبل، والآن مع منافسة أشد.
 
-**The typical startup strategies are wrong** because typical strategies rely on the typical advantages of David against Goliath, which are largely untrue in AI. If [strategy is "how we will win,"](https://longform.asmartbear.com/great-strategy/) then the "how" must be different with AI.
+**الاستراتيجيات النموذجية لبدء التشغيل خاطئة** لأن الاستراتيجيات النموذجية تعتمد على المزايا النموذجية التي يتمتع بها داود ضد جالوت، وهي غير صحيحة إلى حد كبير في مجال الذكاء الاصطناعي. إذا كانت [الاستراتيجية هي "كيف سنفوز"](https://longform.asmartbear.com/great-strategy/) فيجب أن تكون "الكيفية" مختلفة مع الذكاء الاصطناعي.
 
-Few AI startups have embraced this reality, and most will fail as a result. It is easy to create an AI startup, gain attention, and generate excitement, but it is much more challenging to compete and win.
+وقد تبنت عدد قليل من الشركات الناشئة في مجال الذكاء الاصطناعي هذا الواقع، وسوف تفشل أغلبها نتيجة لذلك. من السهل إنشاء شركة ناشئة تعمل بالذكاء الاصطناعي وجذب الانتباه وإثارة الإثارة، لكن المنافسة والفوز أصعب بكثير.
 
-The remainder of the article details and defends this case.
+وبقية المقال تفاصيل هذه القضية وتدافع عنها.
 
 ---
 
-## Disruption Theory does not apply to AI
+## لا تنطبق نظرية التعطيل على الذكاء الاصطناعي
 
-The Innovator's Dilemma is not a dilemma this time around.
+معضلة المبتكر ليست معضلة هذه المرة.
 
 ![Book cover for Innovator's Dilemma](https://public.asmartbear.com/books/anthology/chapters/ai-startups/image-2-simple.png)
 
-Disruption Theory explains how [little upstarts leverage](https://longform.asmartbear.com/leverage/) new technology to topple incumbents, even though the incumbents see it coming and act in their rational self-interest.
+تشرح نظرية الاضطراب كيف تستفيد الشركات الناشئة الصغيرة من التكنولوجيا الجديدة للإطاحة بشاغلي المناصب، على الرغم من أن شاغلي المناصب يرون أنها قادمة ويتصرفون بما يحقق مصلحتهم الذاتية العقلانية.
 
-The theory goes: New technology is often (a) better in some ways, (b) worse in some ways, and (c) cheaper than existing technology. The combination of (a) and (c) can overcome (b). The classic example given in the book is the original transistor radio, whose the sound quality was far worse than the incumbent, beautiful-to-look-at, rich-sounding, furniture-sized-and-weight RCA radios. However, the advantage of the transistor radio is that it is portable, a feature made possible because transistors use so little energy. A radio at the beach that's staticky and a tinny is a lot better than not having a radio at all. So, upstarts were able to sell radios that were [worse in a very important way](https://longform.asmartbear.com/worse-but-unique/), but also cheaper and with the advantage of mobility.
+تقول النظرية: إن التكنولوجيا الجديدة غالبًا ما تكون (أ) أفضل في بعض النواحي، (ب) أسوأ في بعض النواحي، و (ج) أرخص من التكنولوجيا الحالية. الجمع بين (أ) و (ج) يمكن أن يتغلب على (ب). المثال الكلاسيكي الوارد في الكتاب هو راديو الترانزستور الأصلي، الذي كانت جودة صوته أسوأ بكثير من أجهزة راديو RCA الحالية ذات المظهر الجميل والغنية بالحجم والوزن. ومع ذلك، فإن ميزة راديو الترانزستور هي أنه محمول، وهي ميزة أصبحت ممكنة لأن الترانزستورات تستخدم طاقة قليلة جدًا. إن الراديو الذي يكون ثابتًا وصغير الحجم على الشاطئ أفضل بكثير من عدم وجود راديو على الإطلاق. لذا، تمكنت الشركات الناشئة من بيع أجهزة راديو كانت [أسوأ من ذلك بكثير](https://longform.asmartbear.com/worse-but-unique/)، ولكنها أيضًا أرخص وتتمتع بميزة التنقل.
 
-Of course, over time, the transistor radio improved its sound quality, and this is the other factor in Disruption Theory: The technology that starts out worse becomes better over time, and yet is still cheaper and retains its positive qualities. Then the new technology fully disrupts the incumbents, who had been looking on, thinking "we're the ones who have great sound, so we're safe. We're not even really competing with those toy radios."
+وبطبيعة الحال، مع مرور الوقت، قام راديو الترانزستور بتحسين جودة الصوت، وهذا هو العامل الآخر في نظرية التعطيل: التكنولوجيا التي تبدأ بشكل أسوأ تصبح أفضل بمرور الوقت، ومع ذلك لا تزال أرخص وتحتفظ بصفاتها الإيجابية. ثم تعطل التكنولوجيا الجديدة تمامًا شاغلي الوظائف، الذين كانوا يراقبون، معتقدين "نحن الذين نتمتع بصوت رائع، لذلك نحن آمنون. نحن لا نتنافس حقًا مع أجهزة الراديو اللعبة تلك."
 
 ![Disruptions start "worse," but then become even better than incumbents](https://public.asmartbear.com/books/anthology/chapters/ai-startups/image-4-simple.png)
 
-In AI, the conditions of Disruption Theory are not present.
+في الذكاء الاصطناعي، شروط نظرية التعطيل غير موجودة.
 
-The incumbents do not look at AI and say "this technology is cheaper but worse, so we will ignore it." They're doing just the opposite. They say "this technology is groundbreaking and if we don't embrace it, we will become irrelevant" and "our shareholders are demanding that we invest huge percentages of our annual revenue to do it."
+ولا تنظر الشركات القائمة إلى الذكاء الاصطناعي وتقول: "هذه التكنولوجيا أرخص ولكنها أسوأ، لذا فإننا سوف نتجاهلها". إنهم يفعلون العكس تمامًا. يقولون "إن هذه التكنولوجيا رائدة وإذا لم نتبناها، فسنصبح غير ذي صلة" و"يطالبنا المساهمون باستثمار نسب كبيرة من إيراداتنا السنوية للقيام بذلك".
 
-Therefore, startups who normally depend on incumbents ignoring new technology and new markets, cannot depend on that in AI, and therefore are competing directly with well-funded incumbents who are selling to their existing customer bases.
+ولذلك، فإن الشركات الناشئة التي تعتمد عادة على الشركات القائمة التي تتجاهل التكنولوجيا الجديدة والأسواق الجديدة، لا يمكنها الاعتماد على ذلك في الذكاء الاصطناعي، وبالتالي فهي تتنافس بشكل مباشر مع الشركات القائمة الممولة بشكل جيد والتي تبيع لقواعد عملائها الحالية.
 
-## Differentiation when everyone has the same technology
+## التمايز عندما يكون لدى الجميع نفس التكنولوجيا
 
-The "hard tech" in AI are the LLMs available for rent from OpenAI, Anthropic, Cohere, and others, or available as open source with Llama, Bloom, Mistral and others.
+"التكنولوجيا الصلبة" في الذكاء الاصطناعي هي شهادات LLM المتاحة للإيجار من OpenAI وAnthropic وCohere وغيرها، أو متاحة كمصدر مفتوح مع Llama وBloom وMistral وغيرها.
 
-The hard-tech is a level playing field; startups do not have an advantage over incumbents.
+التكنولوجيا الصلبة هي ساحة لعب متكافئة. الشركات الناشئة لا تتمتع بميزة على الشركات القائمة.
 
 ![an even match of tug-of-war](https://public.asmartbear.com/books/anthology/chapters/ai-startups/image-5-simple.png)
 
-There can be differentiation in prompt engineering, problem break-down, use of vector databases, and more. However, this isn't something where startups have an edge, such as being willing to take more risks or be more creative. At best, it is neutral; certainly not an advantage.
+يمكن أن يكون هناك تمايز في الهندسة السريعة، وتقسيم المشكلات، واستخدام قواعد البيانات المتجهة، والمزيد. ومع ذلك، هذا ليس شيئًا تتمتع فيه الشركات الناشئة بميزة، مثل الاستعداد لتحمل المزيد من المخاطر أو أن تكون أكثر إبداعًا. وفي أحسن الأحوال، فهو محايد. بالتأكيد ليست ميزة.
 
-In a market where everyone has access to the same core technologies, simply matching the capabilities of established players is not a winning strategy. This doesn't mean it's impossible for a startup to succeed; surely many will. It means that you need a strategy that creates differentiation and distribution, even more quickly and dramatically than is normally required.
+في سوق يتمتع فيه الجميع بإمكانية الوصول إلى نفس التقنيات الأساسية، فإن مجرد مطابقة قدرات اللاعبين الراسخين لا يعد استراتيجية رابحة. هذا لا يعني أنه من المستحيل أن تنجح الشركة الناشئة؛ بالتأكيد سوف يفعل الكثير. هذا يعني أنك بحاجة إلى استراتيجية تخلق التمايز والتوزيع، بشكل أسرع وأكثر دراماتيكية مما هو مطلوب عادة.
 
-## There is no AI Strategy without a Data Strategy
+## لا توجد استراتيجية للذكاء الاصطناعي بدون استراتيجية البيانات
 
-Training AI models requires data. Whether you're training existing models, developing models from scratch, or simply testing theories, high-quality data is crucial.
+يتطلب تدريب نماذج الذكاء الاصطناعي البيانات. سواء كنت تقوم بتدريب النماذج الموجودة، أو تطوير النماذج من الصفر، أو ببساطة اختبار النظريات، فإن البيانات عالية الجودة أمر بالغ الأهمية.
 
-Incumbents have the data because they have the customers. They can immediately leverage customers' data to train models and tune algorithms, so long as they maintain secrecy and privacy.
+يمتلك شاغلو الوظائف البيانات لأن لديهم العملاء. ويمكنهم الاستفادة على الفور من بيانات العملاء لتدريب النماذج وضبط الخوارزميات، طالما أنهم يحافظون على السرية والخصوصية.
 
-For instance, Intercom's AI strategy is built on the foundation of hundreds of millions of customer interactions. This gives them an advantage over a newcomer developing a chatbot from scratch. Similarly, Google has an advantage in AI video because they own the entire YouTube library. GitHub has an advantage with Copilot because they trained their AI on their vast code repository (including changes, with human-written explanations of the changes).
+على سبيل المثال، تم بناء استراتيجية الذكاء الاصطناعي الخاصة بشركة Intercom على أساس مئات الملايين من تفاعلات العملاء. وهذا يمنحهم ميزة على الوافد الجديد الذي يقوم بتطوير برنامج الدردشة الآلية من الصفر. وبالمثل، تتمتع شركة Google بميزة في فيديو الذكاء الاصطناعي لأنها تمتلك مكتبة YouTube بأكملها. يتمتع GitHub بميزة مع Copilot لأنهم قاموا بتدريب الذكاء الاصطناعي الخاص بهم على مستودع الأكواد الضخم الخاص بهم (بما في ذلك التغييرات، مع تفسيرات مكتوبة من قبل الإنسان للتغييرات).
 
-Incumbents can also afford to pay for data:
+يمكن لشاغلي الوظائف أيضًا تحمل تكاليف البيانات:
 
 ![Axel Springer licenses news to OpenAI for tens of millions of dollars](https://public.asmartbear.com/books/anthology/chapters/ai-startups/image-3-simple.png)
 
 ![Reddit strikes deal with unnamed AI provider to train AI for $60M](https://public.asmartbear.com/books/anthology/chapters/ai-startups/image-simple.png)
 
-AI will continue to become cheaper, better, and faster in the next few years. Getting access to huge amounts of training data will not; in fact, just the opposite as the companies who possess that data have already learned how valuable it is.
+سوف يستمر الذكاء الاصطناعي في أن يصبح أرخص وأفضل وأسرع في السنوات القليلة المقبلة. لن تتمكن من الوصول إلى كميات هائلة من بيانات التدريب؛ في الواقع، على العكس تمامًا، فالشركات التي تمتلك تلك البيانات قد تعلمت بالفعل مدى قيمتها.
 
-## Great talent are happy working at incumbents
+## المواهب العظيمة سعيدة بالعمل في شاغلي الوظائف
 
-Traditionally, startups have attracted dynamic and innovative talent with promises of autonomy and wealth potential, outshining rigid incumbents.
+تقليديا، اجتذبت الشركات الناشئة المواهب الديناميكية والمبتكرة مع وعود بالاستقلالية وإمكانات الثروة، متفوقة على شاغلي الوظائف الصارمين.
 
-However, the landscape shifts when it comes to AI. While there will always be individuals preferring the startup environment, the allure of working on AI at an incumbent is equally strong for many, especially pure computer and data scientists who, more than anything else, want to work on interesting AI projects. They get to work in the code, with a large budget, with all the data, with above-market compensation, and a built-in large customer base that will enjoy the fruits of their labor, all without having to do sales, marketing, tech support, accounting, raising money, or anything else that isn't the pure joy of writing interesting code. This is heaven for many.
+ومع ذلك، يتغير المشهد عندما يتعلق الأمر بالذكاء الاصطناعي. في حين أنه سيكون هناك دائمًا أفراد يفضلون بيئة الشركات الناشئة، فإن جاذبية العمل على الذكاء الاصطناعي في شاغل الوظيفة قوية بنفس القدر بالنسبة للكثيرين، وخاصة علماء الكمبيوتر والبيانات البحتين الذين يرغبون، أكثر من أي شيء آخر، في العمل في مشاريع الذكاء الاصطناعي المثيرة للاهتمام. يمكنهم العمل في الكود، بميزانية كبيرة، مع جميع البيانات، مع تعويضات أعلى من السوق، وقاعدة عملاء كبيرة مدمجة ستستمتع بثمار عملهم، كل ذلك دون الاضطرار إلى القيام بالمبيعات، أو التسويق، أو الدعم الفني، أو المحاسبة، أو جمع الأموال، أو أي شيء آخر ليس المتعة الخالصة لكتابة كود مثير للاهتمام. هذه هي الجنة للكثيرين.
 
 ![two robots at cocktail party have nametags showing bar codes instead of names](https://public.asmartbear.com/books/anthology/chapters/ai-startups/d5518print-simple.png)
 
-Many people want to create or join a startup of course. But startups don't have an inherent advantage for attracting talent; at best this is neutral again.
+يرغب العديد من الأشخاص في إنشاء شركة ناشئة أو الانضمام إليها بالطبع. لكن الشركات الناشئة لا تتمتع بميزة متأصلة في جذب المواهب؛ في أحسن الأحوال، هذا محايد مرة أخرى.
 
-## The "market" is not what you think: AI is not a large, growing market
+## "السوق" ليس كما تعتقد: الذكاء الاصطناعي ليس سوقًا كبيرًا ومتناميًا
 
-"AI will be a multi-trillion-dollar market" people say. AI is surely the definition of a large, growing market, with many orders of magnitude of growth in its future. Which means it's perfect for startups.
+يقول الناس: "سيكون الذكاء الاصطناعي سوقًا تبلغ قيمته عدة تريليونات من الدولارات". من المؤكد أن الذكاء الاصطناعي هو تعريف السوق الكبيرة والمتنامية، مع العديد من مستويات النمو في المستقبل. مما يعني أنه مثالي للشركات الناشئة.
 
-Except these are nonsense statements. A "market" is a set of buyers, with sufficiently similar needs, constraints, and goals, that the same product can be sold to all of them. The "AI" market consist of companies like OpenAI and Cohere, and indeed that is a large and growing market, but unless you're competing directly with them, you're not "in the AI market."
+إلا أن هذه تصريحات هراء. "السوق" عبارة عن مجموعة من المشترين، الذين لديهم احتياجات وقيود وأهداف متشابهة بدرجة كافية، بحيث يمكن بيع نفس المنتج لهم جميعًا. يتكون سوق "الذكاء الاصطناعي" من شركات مثل OpenAI وCohere، وهو بالفعل سوق كبير ومتنامي، ولكن ما لم تكن تتنافس معهم بشكل مباشر، فأنت لست "في سوق الذكاء الاصطناعي".
 
-A chatbot is in the chatbot market, and an SEO tool is in the SEO market. Adding AI to those tools is obviously a good idea; indeed companies who fail to add AI will likely become irrelevant in the long run. Thus we see that "AI" is a new tool for developing within existing markets, not itself a new market (except for actual hard-tech AI companies).
+يوجد chatbot في سوق chatbot، وأداة تحسين محركات البحث موجودة في سوق تحسين محركات البحث. من الواضح أن إضافة الذكاء الاصطناعي إلى هذه الأدوات فكرة جيدة؛ في الواقع، من المرجح أن تصبح الشركات التي تفشل في إضافة الذكاء الاصطناعي غير ذات صلة على المدى الطويل. وهكذا نرى أن "الذكاء الاصطناعي" هو أداة جديدة للتطوير داخل الأسواق الحالية، وليس في حد ذاته سوقًا جديدًا (باستثناء شركات الذكاء الاصطناعي الفعلية ذات التقنية الصلبة).
 
-**AI is in the solution-space, not the problem-space**, as we say in product management. The customer problem you're solving is still the same as ever. The problem a chatbot is solving is the same as ever: Talk to customers 24/7 in any language. AI enables completely new solutions that none of us were imagining a few years ago; that's what's so exciting and truly transformative. However, the customer problems remain the same, even though the solutions are different.
+**الذكاء الاصطناعي موجود في مساحة الحلول، وليس في مساحة المشكلات**، كما نقول في إدارة المنتجات. لا تزال مشكلة العملاء التي تحلها كما كانت دائمًا. المشكلة التي يحلها برنامج chatbot هي نفسها كما كانت دائمًا: تحدث إلى العملاء على مدار الساعة طوال أيام الأسبوع بأي لغة. يتيح الذكاء الاصطناعي حلولاً جديدة تمامًا لم يكن أحد منا يتخيلها قبل بضع سنوات؛ هذا هو الأمر المثير للغاية والتحويلي حقًا. ومع ذلك، تظل مشاكل العملاء كما هي، على الرغم من اختلاف الحلول.
 
-That said, AI can reignite growth in existing markets. Companies will pay more for chatbots where the AI is excellent, more support contacts are deferred from reaching a human, more languages are supported, and more kinds of questions can be answered, so existing chatbot customers might pay more, which grows the market. Furthermore, some companies who previously (rightly) saw chatbots as a terrible customer experience, will change their mind with sufficiently good AI, and will enter the chatbot market, which again grows that market.
+ومع ذلك، يمكن للذكاء الاصطناعي أن يعيد إشعال النمو في الأسواق الحالية. ستدفع الشركات المزيد مقابل روبوتات الدردشة حيث يكون الذكاء الاصطناعي ممتازًا، ويتم تأجيل المزيد من جهات اتصال الدعم من الوصول إلى الإنسان، ويتم دعم المزيد من اللغات، ويمكن الإجابة على المزيد من أنواع الأسئلة، لذلك قد يدفع عملاء روبوتات الدردشة الحاليون المزيد، مما يؤدي إلى نمو السوق. علاوة على ذلك، فإن بعض الشركات التي كانت ترى في السابق (بحق) أن روبوتات الدردشة تمثل تجربة سيئة للعملاء، ستغير رأيها باستخدام ذكاء اصطناعي جيد بما فيه الكفاية، وستدخل سوق روبوتات الدردشة، مما يؤدي إلى نمو هذا السوق مرة أخرى.
 
-Still, the right way to analyze this is not to say "the AI market is big and growing" but rather: "Here is how AI will transform this existing market." And then: "Here's how we fit into that growth."
+ومع ذلك، فإن الطريقة الصحيحة لتحليل ذلك لا تتمثل في القول بأن "سوق الذكاء الاصطناعي كبير ومتنامي"، بل بالأحرى: "إليكم كيف سيغير الذكاء الاصطناعي هذه السوق الحالية". وبعد ذلك: "هذه هي الطريقة التي نتناسب بها مع هذا النمو."
 
-Even so, it sounds a lot easier for an incumbent with a trusted brand and existing customers and all the data, than for a startup. Not impossible for a startup, again the startup is at a special disadvantage that it doesn't normally have, especially when the startup is entering a new niche, a new market, or is in a market which is organically large and growing.
+ومع ذلك، يبدو الأمر أسهل كثيرًا بالنسبة إلى شاغل الوظيفة الذي لديه علامة تجارية موثوقة وعملاء حاليين وجميع البيانات، مقارنةً بشركة ناشئة. ليس الأمر مستحيلًا بالنسبة لشركة ناشئة، مرة أخرى، تكون الشركة الناشئة في وضع غير مواتٍ بشكل خاص لا تعاني منه عادةً، خاصة عندما تدخل الشركة الناشئة مجالًا جديدًا، أو سوقًا جديدًا، أو تكون في سوق كبيرة ومتنامية عضويًا.
 
 ---
 
-AI is different from previous technological disruptions. The dynamics between startups and incumbents are fundamentally different, and **that means you need a different strategy**.
+يختلف الذكاء الاصطناعي عن الاضطرابات التكنولوجية السابقة. تختلف الديناميكيات بين الشركات الناشئة والشركات القائمة اختلافًا جوهريًا، و**هذا يعني أنك بحاجة إلى استراتيجية مختلفة**.
 
-If an AI startup has a strategy that looks like a strategy a non-AI startup had five years ago, that may very well be the wrong strategy.
+إذا كانت لدى شركة ناشئة في مجال الذكاء الاصطناعي استراتيجية تبدو وكأنها استراتيجية كانت لدى شركة ناشئة لا تعتمد على الذكاء الاصطناعي قبل خمس سنوات، فقد تكون هذه استراتيجية خاطئة.
 
-This doesn't mean you shouldn't make an AI-based startup. In fact, all new startups probably do need to include AI.
+هذا لا يعني أنه لا ينبغي عليك إنشاء شركة ناشئة تعتمد على الذكاء الاصطناعي. في الواقع، ربما تحتاج جميع الشركات الناشئة الجديدة إلى تضمين الذكاء الاصطناعي.
 
-It means the usual startup strategies might not work, so you need to think deeply and have a different point of view about how you're going to win.
+وهذا يعني أن استراتيجيات بدء التشغيل المعتادة قد لا تنجح، لذا عليك أن تفكر بعمق وأن يكون لديك وجهة نظر مختلفة حول كيفية تحقيق الفوز.

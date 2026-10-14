@@ -20,51 +20,38 @@ summary_ar: "\"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** البناء في العلن يجبرك على خلق ميزة تنافسية حقيقية غير قابلة للسرقة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Building in public forces true competitive advantage
-
-> **Executive Summary:** "Building in public" is popular: How fun when strangers cheer you on! But isn't competitive advantage ruined when competitors know your growth rate and steal your source code?
-> **Original URL:** [https://longform.asmartbear.com/building-in-public/](https://longform.asmartbear.com/building-in-public/)
-
 ![Cartoon 97f657f2](https://longform.asmartbear.com/building-in-public/5a63eef4.png)
 
-What would happen if I forced you to put all your precious, proprietary, secret-sauce code in a *public* Github repository?
+ماذا سيحدث إذا أجبرتك على وضع جميع رموز الصلصة السرية الثمينة والمملوكة لك في مستودع Github * العام *؟
 
-For one: You would be judged. Your peers would judge you by that code, with various definitions of "goodness" that includes everything from file and class organization, documentation, tests, eliminating your reliance on "security by obscurity," tracking to-dos, and even the artful quality nebulously defined as "you know it when you see it.[^1]"
+أولاً: سوف يتم إدانتك. سيحكم عليك زملائك من خلال هذا الرمز، مع تعريفات مختلفة لـ "الجودة" التي تتضمن كل شيء بدءًا من تنظيم الملفات والفئات، والوثائق، والاختبارات، والقضاء على اعتمادك على "الأمان من خلال الغموض"، وتتبع المهام، وحتى الجودة الفنية التي تم تعريفها بشكل غامض على أنها "تعرفها عندما تراها.[^1]"
 
-[^1]:  Famously said by US Supreme Court Justice Potter Stewart in 1964 as his criteria for "obscenity," though in 1972 he was part of a court that created a more specific [three-part criteria](https://en.wikipedia.org/wiki/Miller_v._California); in 1981 he said he "regrets having said what I said about obscenity--that's going to be on my tombstone."
+[^1]: قالها قاضي المحكمة العليا الأمريكية بوتر ستيوارت بشكل مشهور في عام 1964 كمعيار لـ "الفحش"، على الرغم من أنه كان في عام 1972 جزءًا من المحكمة التي أنشأت [معايير من ثلاثة أجزاء] أكثر تحديدًا (https://en.wikipedia.org/wiki/Miller_v._California)؛ في عام 1981 قال إنه "يأسف لقول ما قلته عن الفحش - سيكون هذا على شاهد قبري".
 
-In this sense, **building in public would force you to create quality, artful code.**
+ومن هذا المنطلق، **البناء العلني سيجبرك على إنشاء تعليمات برمجية عالية الجودة ومتقنة.**
 
-The force is as simple as it is universal: Ego--your desire to impress others.
+القوة بسيطة بقدر ما هي عالمية: الأنا - رغبتك في إثارة إعجاب الآخرين.
 
-But... haven't you lost your competitive advantage? Your competition can easily copy you, so you're screwed, right?
+لكن... ألم تفقد ميزتك التنافسية؟ يمكن لمنافسيك أن يقلدوك بسهولة، لذا فأنت فاشل، أليس كذلك؟
 
-You are therefore forced to build some other, non-technical [competitive advantage](https://longform.asmartbear.com/moats/) into your business. For example, if Etsy open-sourced their entire stack, would that make it easy for a competitor to overtake Etsy? No, because Etsy has  [built a marketplace](https://longform.asmartbear.com/marketplace-business-model/); the presence of buyers and sellers is their primary asset, not the software that drives the website or payments. Now that Facebook has open-sourced their entire data center infrastructure, does that make it easy for a competitor to overtake Facebook as a social network? No. The value in these companies  [cannot be replicated with money](https://longform.asmartbear.com/startup-money/), which is exactly why those companies are valuable.
+لذلك أنت مجبر على بناء [ميزة تنافسية] أخرى غير تقنية (https://longform.asmartbear.com/moats/) في عملك. على سبيل المثال، إذا قامت Etsy بجعل مجموعتها مفتوحة المصدر بالكامل، فهل سيجعل ذلك من السهل على المنافس أن يتفوق على Etsy؟ لا، لأن Etsy قامت [بإنشاء سوق](https://longform.asmartbear.com/marketplace-business-model/)؛ إن وجود المشترين والبائعين هو أصلهم الأساسي، وليس البرنامج الذي يحرك موقع الويب أو المدفوعات. الآن بعد أن قام فيسبوك بفتح البنية التحتية لمركز البيانات بالكامل، فهل هذا يجعل من السهل على المنافس أن يتفوق على فيسبوك كشبكة اجتماعية؟ لا، القيمة في هذه الشركات [لا يمكن تكرارها بالمال](https://longform.asmartbear.com/startup-money/)، وهذا هو بالضبط سبب أهمية هذه الشركات.
 
-A technical competitive advantage can be permanent in select cases, as in [this case study of Amazon AWS](https://longform.asmartbear.com/moats/). But this is rare; typically a technical advantage is a fleeting advantage, because most technical things can be replicated. In fact, they're often replicated more quickly and cheaply than their original inventors, as proved by observing that  ["first to market" often doesn't equate to "winning the market."](https://longform.asmartbear.com/first-competitive-advantage/) 
+يمكن أن تكون الميزة التنافسية التقنية دائمة في حالات محددة، كما في [دراسة الحالة هذه لـ Amazon AWS](https://longform.asmartbear.com/moats/). لكن هذا نادر؛ عادة ما تكون الميزة التقنية ميزة عابرة، لأن معظم الأشياء التقنية يمكن تكرارها. في الواقع، غالبًا ما يتم تكرارها بسرعة أكبر وبتكلفة أقل من مخترعيها الأصليين، كما ثبت من خلال ملاحظة أن ["أول من يصل إلى السوق" غالبًا لا يعني "الفوز بالسوق."](https://longform.asmartbear.com/first-competitive-advantage/)
 
-Thus, **building in public forces you to create permanent competitive advantages.**
+وبالتالي، **البناء في المجال العام يجبرك على إنشاء مزايا تنافسية دائمة.**
 
-"Building in public" doesn't just mean software, however. What about the organization, or individual people?
+ومع ذلك، فإن "البناء في الأماكن العامة" لا يعني فقط البرمجيات. ماذا عن المنظمة أو الأفراد؟
 
-If you publish the salary formula for everyone at your company, you no can longer compete for talent solely on compensation. You can't kick in an extra $10k/year to win a  [critical employee](https://longform.asmartbear.com/imbalanced-people/)  with especially germane experience. And it can be weird for everyone to know how much money everyone else makes. But for many people, it's not weird, [it's fantastic](https://twitter.com/nathanbarry/status/1619003240787623936).
+إذا قمت بنشر صيغة الرواتب للجميع في شركتك، فلن يعد بإمكانك التنافس على المواهب على أساس التعويض فقط. لا يمكنك الحصول على مبلغ إضافي قدره 10 آلاف دولار سنويًا للفوز بـ [موظف مهم](https://longform.asmartbear.com/imbalanced-people/) يتمتع بخبرة وثيقة الصلة بشكل خاص. وقد يكون من الغريب أن يعرف الجميع مقدار الأموال التي يجنيها الآخرون. لكن بالنسبة للعديد من الأشخاص، هذا ليس غريبًا، [إنه رائع](https://twitter.com/nathanbarry/status/1619003240787623936).
 
-This forces you to build a company where great talent *wants* to work, where people are there for the culture and mission rather than as mercenaries. There are many frameworks that guide you in constructing such an environment, but in general they include **Autonomy** (i.e. freedom to explore, the control and empowerment to invent solutions to problems, and to prove the quality of those solutions through implementation, in exchange for accountability for the result), **Growth** (i.e. working on interesting puzzles, whether personal or professional, along a  [fulfilling journey](https://longform.asmartbear.com/success-guaranteed/)), and **Purpose** (i.e. why should this company exist? Why is it worthwhile to bust ass to see it thrive,  [the culture, the values](https://longform.asmartbear.com/emptiness/), the joy of working with others whom you admire).
+وهذا يجبرك على بناء شركة حيث *ترغب* المواهب العظيمة في العمل، وحيث يكون الأشخاص هناك من أجل الثقافة والرسالة وليس كمرتزقة. هناك العديد من الأطر التي ترشدك في بناء مثل هذه البيئة، لكنها بشكل عام تشمل **الاستقلالية** (أي حرية الاستكشاف والتحكم والتمكين لابتكار حلول للمشكلات، وإثبات جودة تلك الحلول من خلال التنفيذ، مقابل المساءلة عن النتيجة)، **النمو** (أي العمل على ألغاز مثيرة للاهتمام، سواء كانت شخصية أو مهنية، على طول [تحقيق رحلة](https://longform.asmartbear.com/success-guaranteed/)) و**الغرض** (أي لماذا يجب أن تكون هذه الشركة موجودة؟ لماذا من المفيد أن نبذل قصارى جهدنا لرؤيتها تزدهر، [الثقافة والقيم](https://longform.asmartbear.com/emptiness/)، متعة العمل مع الآخرين الذين تعجبهم).
 
-[Here is a more comprehensive framework](https://longform.asmartbear.com/fulfillment/).
+[إليك إطار عمل أكثر شمولاً](https://longform.asmartbear.com/fulfillment/).
 
-Thus, **building in public forces you to create a company with exceptional culture and an organization of empowerment and purpose.**
+وبالتالي، **البناء في القطاع العام يجبرك على إنشاء شركة تتمتع بثقافة استثنائية ومنظمة تتسم بالتمكين والهدف.**
 
-Writing code you can be proud of, constructing true permanent competitive advantages, and creating a company culture that attracts and retains top talent for reasons beyond legal bribery--are critical ingredients for creating durable companies whose growth and brand are unhindered by the onslaught of well-funded, hard-working, intelligent upstarts that inevitably join any market big enough to be interesting.
+إن كتابة التعليمات البرمجية التي يمكنك أن تفخر بها، وبناء مزايا تنافسية دائمة حقيقية، وإنشاء ثقافة الشركة التي تجتذب أفضل المواهب وتحتفظ بها لأسباب تتجاوز الرشوة القانونية - هي مكونات حاسمة لإنشاء شركات متينة لا يعيق نموها وعلامتها التجارية هجمة الشركات الناشئة الذكية الممولة جيدًا، والتي تعمل بجد، والتي تنضم حتمًا إلى أي سوق كبير بما يكفي لتكون مثيرة للاهتمام.
 
-By building everything in public, you're *forced* to do "what's most valuable" as well as "[what isn't easily copyable](https://longform.asmartbear.com/unfair-advantages/)," whether that means the quality of your workmanship, the fortress of your business model, or a talent magnet.
+من خلال نشر كل شيء علنًا، فأنت *مجبر* على القيام "بالأشياء الأكثر قيمة" بالإضافة إلى "[ما لا يمكن نسخه بسهولة](https://longform.asmartbear.com/unfair-advantages/)،" سواء كان ذلك يعني جودة صنعتك، أو قوة نموذج عملك، أو جذب المواهب.
 
-It's still possible, and occasionally advisable, to operate in secret. But sunlight isn't just the best disinfectant, it's a great way to forge durability.
+لا يزال من الممكن، ومن المستحسن في بعض الأحيان، العمل سراً. لكن ضوء الشمس ليس أفضل مطهر فحسب، بل هو وسيلة رائعة لتعزيز المتانة.

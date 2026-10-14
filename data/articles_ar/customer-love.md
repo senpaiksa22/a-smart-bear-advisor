@@ -20,94 +20,81 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كيف تكسب عملاء يحبون شركتك حتى عندما ترتكب أخطاء برمجية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# How to get customers who love you even when you screw up
-
-> **Executive Summary:** Customers love you when you're honest, even about your foibles. We forgive honest mistakes from earnest people, not stolid, cold, inhuman corporations.
-> **Original URL:** [https://longform.asmartbear.com/customer-love/](https://longform.asmartbear.com/customer-love/)
-
 ![id like drunken college kid right here](https://public.asmartbear.com/books/anthology/chapters/customer-love/d4704print-simple.png)
 
-During the first year of Smart Bear's existence, my software was crap. How did I get customers, and why were they so vehemently loyal to what was clearly a wobbly, new product from a teeny tiny company-of-one?
+خلال السنة الأولى من وجود Smart Bear، كان برنامجي سيئًا. كيف حصلت على العملاء، ولماذا كانوا مخلصين بشدة لما كان من الواضح أنه منتج جديد متذبذب من شركة صغيرة جدًا؟
 
-Because of people like Tom.
+بسبب أشخاص مثل توم.
 
 ---
 
-So Tom calls up one day...
+لذا اتصل توم ذات يوم...
 
-Now wait, understand this is already a newsworthy event! Remember we sell software to software developers, legendary for their phone-aversion. (I'm no exception!) So let me try that again:
+الآن انتظر، افهم أن هذا بالفعل حدث يستحق النشر! تذكر أننا نبيع البرامج لمطوري البرامج، بسبب نفورهم من الهواتف. (أنا لست استثناءً!) لذا اسمحوا لي أن أحاول ذلك مرة أخرى:
 
-Tom *called* me. On the *phone*.
+توم * اتصل بي *. على *الهاتف*.
 
-Tom wants to talk about new features. What a relief--for six weeks it's been nothing but bug reports. Real bugs, I admit. In fact, Tom had single-handedly debugged a significant amount my shitty code, even enlisting his own employees for the cause. (Why had he done that?)
+يريد توم التحدث عن الميزات الجديدة. يا له من راحة - لمدة ستة أسابيع لم يكن هناك سوى تقارير عن الأخطاء. الأخطاء الحقيقية، وأنا أعترف. في الواقع، قام توم بمفرده بتصحيح قدر كبير من التعليمات البرمجية الخاصة بي، حتى أنه قام بتجنيد موظفيه لهذه القضية. (لماذا فعل ذلك؟)
 
-Tom lists 20 new features he'd like to see. When does he expect delivery? "Oh, I know you're just a one-man shop, so just do your best. If you get through this half as fast as you get through bugs, we'll be fine."
+يسرد توم 20 ميزة جديدة يود رؤيتها. متى يتوقع التسليم؟ "أوه، أعلم أنك مجرد متجر لرجل واحد، لذا ابذل قصارى جهدك. إذا اجتزت هذا النصف بالسرعة التي تغلبت بها على الأخطاء، سنكون بخير."
 
-**Whozajigga-wha?** I never said I was a one-man shop!
+**Whozajigga-wha؟** لم أقل أبدًا أنني كنت متجرًا لرجل واحد!
 
-"We" always use the first-person-plural when talking about "our software" and "our release cycle" and "our tech support." My website [was professional-looking](https://longform.asmartbear.com/design/) (uhhh right?). Tech support always came from `support@smartbear.com`; my name was never on it.
+"نحن" نستخدم دائمًا صيغة الجمع عند الحديث عن "برنامجنا" و"دورة الإصدار" و"الدعم الفني لدينا". موقع الويب الخاص بي [كان ذو مظهر احترافي](https://longform.asmartbear.com/design/) (أه، أليس كذلك؟). يأتي الدعم الفني دائمًا من `support@smartbear.com`؛ اسمي لم يكن عليه أبدا.
 
-So was Tom the Sherlock Holmes of small business façades? Hardly. The web site doesn't look *that* professional. Tom's gotten sales support, tech support, and bug fixes for weeks now; he recognizes the same style and phrases. He always called the main line and never found anyone but me.
+فهل كان توم بمثابة شيرلوك هولمز لواجهات الأعمال الصغيرة؟ بالكاد. موقع الويب لا يبدو محترفًا. حصل توم على دعم المبيعات والدعم الفني وإصلاحات الأخطاء منذ أسابيع؛ يتعرف على نفس الأسلوب والعبارات. لقد كان يتصل دائمًا بالخط الرئيسي ولم يجد أي شخص غيري.
 
-Duh!
+دوه!
 
-But this was going to be a problem (or so I thought). See, Tom worked for a big company (I don't have permission to say which) with thousands of employees and billions in revenue. Big companies don't buy software from one-man shops. Or [so I've been told](https://longform.asmartbear.com/bad-advice/).
+ولكن هذا سيكون مشكلة (أو هكذا اعتقدت). كما ترون، عمل توم في شركة كبيرة (ليس لدي إذن لقول ذلك) تضم آلاف الموظفين وتحقق إيرادات بالمليارات. الشركات الكبرى لا تشتري البرامج من متاجر فردية. أو [هكذا قيل لي](https://longform.asmartbear.com/bad-advice/).
 
-I almost puked out the mantra of how, yes, I'm the only full-time employee, but I use consultants for stuff when the workload goes up (which wasn't true). And I almost went into defensive mode, talking about how good our/my service was and [all that](https://longform.asmartbear.com/one-benefit/).
+كدت أتقيأ الشعار القائل بأنني، نعم، الموظف الوحيد بدوام كامل، لكنني أستخدم المستشارين في الأمور عندما يرتفع عبء العمل (وهذا لم يكن صحيحًا). وكدت أن ألجأ إلى وضع دفاعي، وأتحدث عن مدى جودة خدمتنا/خدمتي و[كل ذلك](https://longform.asmartbear.com/one-benefit/).
 
-But fortunately I recognized that Tom didn't want to hear any of that. Tom was saying: "I know who you really are, and I accept it. I still want to do this. How about a few features since we put up with those bugs?"
+لكن لحسن الحظ أدركت أن توم لا يريد سماع أي من ذلك. كان توم يقول: "أنا أعرف من أنت حقًا، وأنا أقبل ذلك. ما زلت أرغب في القيام بذلك. ماذا عن بعض الميزات منذ أن تحملنا هذه الأخطاء؟"
 
-I *had* to match that honesty. Anything else would be an insult to his intelligence and a step backward in the relationship.
+كان عليّ أن أطابق هذا الصدق. أي شيء آخر سيكون بمثابة إهانة لذكائه وخطوة إلى الوراء في العلاقة.
 
-> "Truth is such a rare thing, it is delightful to tell it."  
-> --Emily Dickinson
+> "الحقيقة شيء نادر، ومن الممتع أن نقولها."
+> - إميلي ديكنسون
 
-It wasn't until I visited him in Ottawa that I fully understood why Tom was so solicitous. We met with two of Tom's bosses in a small office to discuss widespread purchase and roll-out of our peer code review tool.
+لم أفهم تمامًا سبب اهتمام توم بهذا القدر من الاهتمام إلا بعد زيارتي له في أوتاوا. لقد التقينا باثنين من رؤساء توم في مكتب صغير لمناقشة الشراء على نطاق واسع ونشر أداة مراجعة الأكواد الخاصة بنا.
 
-Tom introduced me in a way I didn't expect: "Half a year ago I found this company in Austin. They had the beginnings of a code review tool. I've been guiding their development so now it works perfectly for our environment."
+قدمني توم بطريقة لم أتوقعها: "منذ نصف عام وجدت هذه الشركة في أوستن. كانت لديهم بدايات أداة مراجعة التعليمات البرمجية. لقد كنت أرشد تطويرهم، لذا فهي الآن تعمل بشكل مثالي لبيئتنا."
 
-Hmmm, that's not exactly accurate... or is it? I'm on the spot, so I just nod in agreement.
+هممم، هذا ليس دقيقًا تمامًا... أم أنه كذلك؟ أنا في الموقع، لذا أومأت برأسي بالموافقة.
 
-The bosses questioned the utility of the tool. How much time could it save? Tom had the answer: "I do sixty code reviews every day."
+شكك الرؤساء في فائدة الأداة. كم من الوقت يمكن أن يوفر؟ كان لدى توم الإجابة: "أجري ستين مراجعة للكود كل يوم."
 
-**He might as well have said "I can squeeze crude oil from cow patties."** One boss flatly said "That's impossible." Honestly I'm not sure whether he was referring to Tom's fortitude or the tool's efficiency. But they looked at Tom's evidence, and approved the roll-out. I got a big order, thanks to Tom. But again I ask you, why?
+** ربما كان من الممكن أن يقول أيضًا "أستطيع استخراج النفط الخام من فطائر البقر". ** قال أحد الرؤساء بصراحة "هذا مستحيل". بصراحة، لست متأكدًا مما إذا كان يشير إلى ثبات توم أو كفاءة الأداة. لكنهم نظروا إلى أدلة توم، ووافقوا على بدء التنفيذ. لقد حصلت على طلبية كبيرة، وذلك بفضل توم. لكن مرة أخرى أسألك لماذا؟
 
-In that moment I understood Tom's motivation: **Tom was a hero.**
+في تلك اللحظة فهمت دافع توم: **كان توم بطلاً.**
 
 ![hero project manager](https://public.asmartbear.com/books/anthology/chapters/customer-love/hero-project-manager-simple.png)
 
-Tom had figured out how to deliver code with fewer bugs and was training his new hires faster than other team-leads. Tom didn't do this by paying IBM or implementing a process he read about in Dr. Dobbs--he found a little company (us... I mean "me"), and he was now *personally* responsible for directing our product development. We jump when he says jump, therefore the perfect product (for their company) had been forged.
+لقد اكتشف توم كيفية تقديم التعليمات البرمجية بأخطاء أقل وكان يدرب موظفيه الجدد بشكل أسرع من قادة الفرق الآخرين. لم يفعل توم ذلك عن طريق الدفع لشركة IBM أو تنفيذ عملية قرأ عنها في دكتور دوبس - لقد وجد شركة صغيرة (نحن... أعني "أنا")، وأصبح الآن *شخصيًا* مسؤولاً عن توجيه تطوير منتجاتنا. نحن نقفز عندما يقول اقفز، لذلك تم تصنيع المنتج المثالي (لشركتهم).
 
-All due to his prescience, product development prowess, and a relationship he had forged with the founder.
+كل ذلك بفضل بصيرته وبراعته في تطوير المنتجات والعلاقة التي أقامها مع المؤسس.
 
-Don't forget, this was before "relationship" became the buzzword of modern marketing--before blogs and Twitter and back when Facebook wasn't just for boomers and neighborhood groups.
+لا تنس أن هذا كان قبل أن تصبح "العلاقة" هي الكلمة الطنانة للتسويق الحديث - قبل المدونات وتويتر، وعندما لم يكن فيسبوك مخصصًا لجيل الطفرة السكانية ومجموعات الأحياء فقط.
 
-**I can't begin to tell you the amount crap Tom put up with over the years.** We're good at this now (no really, 15 people counts as "we!"), but back then screens would lock up, reviews would inexplicably disappear, installers would install the wrong files, and occasionally we'd run computers out of memory.
+**لا أستطيع أن أخبرك بكمية الهراء التي تحملها توم على مر السنين.** نحن جيدون في هذا الآن (ليس حقًا، 15 شخصًا يعتبرون "نحن!")، ولكن في ذلك الوقت كانت الشاشات تُغلق، وكانت المراجعات تختفي لسبب غير مفهوم، وكان القائمون على التثبيت يقومون بتثبيت الملفات الخاطئة، وأحيانًا كانت ذاكرة أجهزة الكمبيوتر تنفد.
 
-He put up with all of it why? Because it was just him and me. Because he knew I always kept my word. Because he knew he could stick his neck out for Smart Bear and I wouldn't let him down. Because he knew I would ensure that as the product changed it continued to solve his problems better, because I didn't want to let him down.
+لقد تحمل كل ذلك لماذا؟ لأنه كان فقط هو وأنا. لأنه كان يعلم أنني دائمًا أحفظ كلمتي. لأنه كان يعلم أنه يستطيع أن يبذل قصارى جهده من أجل سمارت بير ولن أخذله. لأنه كان يعلم أنني سأضمن أنه مع تغيير المنتج، سيستمر في حل مشاكله بشكل أفضل، لأنني لم أرغب في أخذله.
 
-So he pinned his own reputation on it and won. As a bonus, he lived vicariously through Smart Bear as a product designer.
+لذلك علق سمعته عليها وفاز. على سبيل المكافأة، عاش بشكل غير مباشر من خلال Smart Bear كمصمم منتجات.
 
-If I hadn't fessed up and behaved honestly, perhaps none of this would have happened.
+لو لم أعترف وتصرفت بأمانة، ربما لم يكن ليحدث أي من هذا.
 
-**What will your first hundred customers look like?** Big, established companies with bureaucratic purchasing systems that you will bluff your way through? Well-known consumer-advocacy bloggers?
+** كيف سيبدو أول مائة من عملائك؟ ** الشركات الكبيرة الراسخة التي لديها أنظمة شراء بيروقراطية والتي سوف تخدعك في طريقك؟ المدونون المشهورون في مجال الدفاع عن المستهلك؟
 
-No, they'll be early-adopters--folks who like trying new stuff and like working with new companies who still have spark and something to prove. Folks who want to be part of the creative process and be able to tell their friends that they were there at the beginning.
+لا، سيكونون من أوائل المتبنين - الأشخاص الذين يحبون تجربة أشياء جديدة ويحبون العمل مع الشركات الجديدة التي لا تزال لديها الشعلة والشيء الذي يجب إثباته. الأشخاص الذين يريدون أن يكونوا جزءًا من العملية الإبداعية وأن يكونوا قادرين على إخبار أصدقائهم أنهم كانوا هناك في البداية.
 
-If you pretend to be something you're not, they'll see right through it. Then what have you done? **You've lied to those who would have [loved you for who you are](https://longform.asmartbear.com/icp-ideal-customer-persona/)**; that's not how you build a relationship.
+إذا تظاهرت بأنك شيء ليس أنت، فسيدركون ذلك تمامًا. ثم ماذا فعلت؟ ** لقد كذبت على أولئك الذين [أحبوك كما أنت](https://longform.asmartbear.com/icp-ideal-customer-persona/)**؛ هذه ليست الطريقة التي تبني بها العلاقة.
 
-It doesn't mean never telling a lie. [Authenticity](https://longform.asmartbear.com/authentic/) doesn't mean abandoning social white lies. We all know the difference between outright lies and the business equivalent of "No those pants don't make you look fat."
+هذا لا يعني عدم الكذب أبدًا. [المصداقية](https://longform.asmartbear.com/authentic/) لا تعني التخلي عن الأكاذيب البيضاء الاجتماعية. نعلم جميعًا الفرق بين الأكاذيب الصريحة والمعادل التجاري لـ "لا، هذه السراويل لا تجعلك تبدو سمينًا".
 
-Theoretically, honesty should be easier than dishonesty. After all, "if you tell the truth you don't have to remember anything" (Mark Twain). It's true that in business you're so accustomed to fluffing your feathers and putting on a show, it can be hard to remember to act like a normal human being.
+من الناحية النظرية، الصدق يجب أن يكون أسهل من الكذب. بعد كل شيء، "إذا قلت الحقيقة، فلن تضطر إلى تذكر أي شيء" (مارك توين). صحيح أنك في العمل معتاد جدًا على نفث ريشك وتقديم عرض، قد يكون من الصعب أن تتذكر التصرف كإنسان عادي.
 
-["Be yourself"](https://longform.asmartbear.com/be-yourself/) is just as hard in business as it is in personal life. But it's worth it.
+["كن نفسك"](https://longform.asmartbear.com/be-yourself/) أمر صعب في العمل كما هو الحال في الحياة الشخصية. لكن الأمر يستحق ذلك.
 
-And it's one of the few [advantages small companies have](https://longform.asmartbear.com/startup-beats-incumbent/) over big ones. Use it.
+وهي إحدى [المزايا القليلة التي تتمتع بها الشركات الصغيرة](https://longform.asmartbear.com/startup-beats-incumbent/) مقارنة بالشركات الكبيرة. استخدمه.

@@ -20,111 +20,98 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** المقاييس التي لا يمكن قياسها حتى بعد فوات الأوان تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Metrics that cannot even be measured in retrospect
-
-> **Executive Summary:** Some of the most enticing, important metrics are impossible to measure, even after the fact. Here's how to identify and avoid this trap.
-> **Original URL:** [https://longform.asmartbear.com/unmeasurable-metrics/](https://longform.asmartbear.com/unmeasurable-metrics/)
-
 ![where do see myself five years](https://public.asmartbear.com/books/anthology/chapters/unmeasurable-metrics/d9215print-simple.png)
 
-Some things cannot be measured, even after months pass and we have all the facts and data and analysis at our disposal.
+بعض الأشياء لا يمكن قياسها، حتى بعد مرور أشهر ولدينا كل الحقائق والبيانات والتحليلات تحت تصرفنا.
 
-If they cannot be measured in retrospect, they cannot be measured now, and you certainly cannot predict them or make a goal from them.
+إذا لم يكن من الممكن قياسها بأثر رجعي، فلا يمكن قياسها الآن، وبالتأكيد لا يمكنك التنبؤ بها أو تحديد هدف منها.
 
-This sounds obvious, but many of these are so tempting, seemingly so important, we end up trying anyway. But it's a frustrating waste of time, and we ultimately fail.
+يبدو هذا واضحًا، لكن العديد من هذه الأشياء مغرية جدًا، وتبدو مهمة جدًا، وينتهي بنا الأمر بالمحاولة على أي حال. ولكن هذا مضيعة محبطة للوقت، ونحن نفشل في نهاية المطاف.
 
-Here's some common examples so you can train your pattern-matching engine, and see how to navigate the conversations.
+فيما يلي بعض الأمثلة الشائعة حتى تتمكن من تدريب محرك مطابقة الأنماط الخاص بك ومعرفة كيفية التنقل في المحادثات.
 
-## Impact of a single feature on the revenue of a product
+## تأثير ميزة واحدة على إيرادات المنتج
 
-There are features at WP Engine which sales team pitch because people respond with genuine excitement. But then, after the sale, customers rarely use them.[^1] Does that lack of usage mean the feature isn't contributing to revenue? No, it might have helped the sale.[^2]
+هناك ميزات في WP Engine يقدمها فريق المبيعات لأن الأشخاص يستجيبون بإثارة حقيقية. ولكن بعد البيع، نادرًا ما يستخدمها العملاء.[^1] هل يعني عدم الاستخدام أن الميزة لا تساهم في الإيرادات؟ لا، ربما ساعد ذلك في عملية البيع.[^2]
 
-[^1]: Don't worry, we don't charge extra for those features, so it's not unethical.
+[^1]: لا تقلق، فنحن لا نفرض أي رسوم إضافية مقابل هذه الميزات، لذا فهذا ليس أمرًا غير أخلاقي.
 
-[^2]: P.S. Do you think it's wise for our competitors to copy those features? This is why you need to listen to customers instead of copying your competitors; who knows what's going on over there.
+[^2]: ملاحظة. هل تعتقد أنه من الحكمة أن يقوم منافسونا بنسخ هذه الميزات؟ ولهذا السبب عليك الاستماع إلى العملاء بدلاً من تقليد منافسيك؛ من يعرف ما يحدث هناك.
 
-A feature that is used frequently is almost surely valuable; it's reasonable to claim that this feature is one of the main reasons why people pay for the product. But how much influence is it really? What if ten other features are also used frequently; do each "earn" 10% of the revenue? What if the feature is also used frequently by people who cancel--that would indicate the feature wasn't keeping them here after all. But maybe it was, and something totally unrelated caused the cancellation. What about all those other reasons customers are [willing to pay](https://longform.asmartbear.com/willingness-to-pay/) that are unrelated to that oft-used feature?
+من المؤكد تقريبًا أن الميزة التي يتم استخدامها بشكل متكرر تكون ذات قيمة؛ من المعقول الادعاء بأن هذه الميزة هي أحد الأسباب الرئيسية التي تجعل الأشخاص يدفعون مقابل المنتج. لكن ما مدى تأثيرها حقًا؟ ماذا لو تم أيضًا استخدام عشر ميزات أخرى بشكل متكرر؛ هل "يكسب" كل منهم 10% من الإيرادات؟ ماذا لو تم استخدام الميزة بشكل متكرر من قبل الأشخاص الذين يقومون بالإلغاء - فهذا يشير إلى أن الميزة لم تكن تحتفظ بهم هنا بعد كل شيء. ولكن ربما كان الأمر كذلك، وتسبب شيء غير ذي صلة على الإطلاق في الإلغاء. ماذا عن كل تلك الأسباب الأخرى التي تجعل العملاء [على استعداد للدفع](https://longform.asmartbear.com/willingness-to-pay/) والتي لا علاقة لها بهذه الميزة المستخدمة كثيرًا؟
 
-This is too difficult to unravel. This is why [I like using a variety of KPIs](https://longform.asmartbear.com/product-metrics/), only one of which is "usage." Of course product teams should celebrate when they create features that are widely used. It's just not the same thing as revenue.
+وهذا أمر صعب للغاية لكشفه. ولهذا السبب [أحب استخدام مجموعة متنوعة من مؤشرات الأداء الرئيسية](https://longform.asmartbear.com/product-metrics/)، واحدة منها فقط هي "الاستخدام". بالطبع يجب أن تحتفل فرق المنتجات عندما تقوم بإنشاء ميزات يتم استخدامها على نطاق واسع. إنها ليست نفس الشيء مثل الإيرادات.
 
-Even after the fact, with 100s of 1000s of customers (in our case at WP Engine), it's still not possible to attribute revenue to individual features.
+حتى بعد حدوث ذلك، مع وجود مئات الآلاف من العملاء (في حالتنا في WP Engine)، لا يزال من غير الممكن أن ننسب الإيرادات إلى الميزات الفردية.
 
-## Impact of incremental activities on customer churn
+## تأثير الأنشطة المتزايدة على حركة العملاء
 
-As covered in [another article](https://longform.asmartbear.com/problem/), customer churn severely limits growth and, more importantly, is a lagging indicator that customers don't want what you're selling. Therefore, it's almost always a good use of time to uncover the main drivers of churn, and address them with product, process, people, price, and other words that start with "p."
+وكما هو موضح في [مقالة أخرى](https://longform.asmartbear.com/problem/)، فإن تراجع العملاء يحد بشدة من النمو، والأهم من ذلك، أنه مؤشر متأخر على أن العملاء لا يريدون ما تبيعه. لذلك، يكون دائمًا استغلالًا جيدًا للوقت للكشف عن الدوافع الرئيسية للاضطراب، ومعالجتها بالمنتج والعملية والأشخاص والسعر والكلمات الأخرى التي تبدأ بالحرف "p".
 
-So the common and very reasonable question is: If we do X, how much will churn go down? And while we're actually doing X, how much is churn going down? And this leads to the crux: A year from now, will you _then_ know the impact X had on churn? Unless X has an enormous and immediate impact, the answer is no.
+لذا فإن السؤال الشائع والمعقول للغاية هو: إذا فعلنا X، ما مقدار الانخفاض الذي سيحدث؟ وبينما نقوم بالفعل بتنفيذ X، ما مقدار الانخفاض في معدل الزبد؟ وهذا يقودنا إلى النقطة الجوهرية: بعد عام من الآن، هل ستعرف حينها تأثير X على الاضطراب؟ وما لم يكن لـ X تأثير هائل وفوري، فالإجابة هي لا.
 
-The reasons often apply in cases besides churn, so let's list them separately to train your pattern-matching engine, while continuing to use churn as the example:
+غالبًا ما تنطبق الأسباب في حالات أخرى غير الاضطراب، لذا دعنا ندرجها بشكل منفصل لتدريب محرك مطابقة النمط الخاص بك، مع الاستمرار في استخدام الاضطراب كمثال:
 
-#### Cannot measure rare things, because signal is swamped by noise
-If churn is 3%/mo, an initiative that reduces churn by 10%--a big impact!--will result in 2.7%/mo. How hard is it to measure a difference of 0.3%, month over month? How much does churn vary through pure randomness? Probably more than that. Some months have 15% more weekdays than subsequent months; if most customers churns on weekdays, that could make churn vary by 15% for that reason alone--again, pure noise. You probably just can't measure something that is so rare.
+#### لا يمكن قياس الأشياء النادرة، لأن الإشارة مغمورة بالضوضاء
+إذا كان معدل التوقف عن العمل 3% شهريًا، فإن المبادرة التي تقلل فقدان العمل بنسبة 10% - وهو تأثير كبير! - ستؤدي إلى 2.7% شهريًا. ما مدى صعوبة قياس فرق قدره 0.3%، شهرًا بعد شهر؟ ما مدى اختلاف الزبد من خلال العشوائية البحتة؟ ربما أكثر من ذلك. تحتوي بعض الأشهر على أيام عمل أكثر بنسبة 15% من الأشهر اللاحقة؛ إذا كان معظم العملاء يتوقفون عن العمل خلال أيام الأسبوع، فقد يؤدي ذلك إلى اختلاف معدل التوقف بنسبة 15% لهذا السبب وحده - مرة أخرى، ضجيج خالص. ربما لا يمكنك قياس شيء نادر جدًا.
 
-#### Lag between action and reaction
-A customer who churns today has probably been unsuccessful for a while. They've been researching alternatives for weeks or months, weighing whether to pull the trigger. Larger customers might have tried to make it work for a year or more, then ran a multi-month process to investigate the options. So, an activity you start today is unlikely to change the trajectory of customers who have already decided to leave, and only today happened to push the red button.
+#### الفارق بين الفعل ورد الفعل
+ربما يكون العميل الذي يتردد اليوم غير ناجح لفترة من الوقت. لقد كانوا يبحثون عن بدائل لأسابيع أو أشهر، ويزنون ما إذا كانوا سيضغطون على الزناد. ربما حاول العملاء الأكبر حجمًا إنجاحه لمدة عام أو أكثر، ثم أجروا عملية تستغرق عدة أشهر للتحقق من الخيارات. لذلك، من غير المرجح أن يغير النشاط الذي تبدأه اليوم مسار العملاء الذين قرروا المغادرة بالفعل، واليوم فقط تم الضغط على الزر الأحمر.
 
-#### Many causes of a result, means it's hard to measure a change in any one cause
-There are many reasons why people leave. Some were never that interested, and didn't get hooked. Some got mad because of support interactions, even though they like the product. Some finally gave up waiting for you to make a feature they've needed, even though they love the support interactions. Some were never the right fit, but tried to make it work, and so did you. Some forgot they even had it unless their spouse asked what this credit card charge is. So any one action you take is likely incremental, difficult to measure in the fog of almost every customer _not_ caring about that particular thing.
+#### تعدد أسباب النتيجة يعني أنه من الصعب قياس التغير في أي سبب واحد
+هناك العديد من الأسباب التي تجعل الناس يغادرون. لم يكن البعض مهتمًا أبدًا بهذا القدر، ولم يصبحوا مدمنين. لقد شعر البعض بالغضب بسبب تفاعلات الدعم، على الرغم من إعجابهم بالمنتج. لقد تخلى البعض أخيرًا عن انتظارك لإنشاء ميزة يحتاجون إليها، على الرغم من أنهم يحبون تفاعلات الدعم. لم يكن البعض مناسبًا أبدًا، لكنهم حاولوا إنجاح الأمر، وكذلك فعلت أنت. نسي البعض أنهم حصلوا عليها ما لم يسأل زوجهم عن رسوم بطاقة الائتمان هذه. لذا فإن أي إجراء تتخذه من المحتمل أن يكون تدريجيًا، ومن الصعب قياسه في ظل ضبابية كل عميل تقريبًا _لا_ يهتم بهذا الشيء المحدد.
 
-#### External forces that are larger than forces under your control
-The market, competition, and the economy at large has a large yet unmeasurable impact. You can just go blaming the global economy--you have a business to run, and you are in control of more than you're currently controlling. Still, it's easy to map things like growth rates and churn rates onto the US stock market or inflation. Sometimes it can be the largest factor. How, in the face of these major factors, will you measure the tiny blips that your incremental work might accomplish?
+#### القوى الخارجية أكبر من القوى الخاضعة لسيطرتك
+إن السوق والمنافسة والاقتصاد بشكل عام لها تأثير كبير ولكن غير قابل للقياس. يمكنك فقط إلقاء اللوم على الاقتصاد العالمي - لديك عمل تديره، وأنت تتحكم في أكثر مما تتحكم فيه حاليًا. ومع ذلك، من السهل رسم خريطة لأشياء مثل معدلات النمو ومعدلات التقلب في سوق الأسهم الأمريكية أو التضخم. في بعض الأحيان يمكن أن يكون العامل الأكبر. كيف يمكنك، في مواجهة هذه العوامل الرئيسية، قياس التغيرات الصغيرة التي قد يحققها عملك الإضافي؟
 
-Does this mean we shouldn't work on improving churn? Of course not--again it's one of the most valuable things any company can do, because retention compounds, and all the profit generated by a customer of a SaaS business happens in the later years, after they've paid back the sales and marketing expenses, gotten past the higher-than-average initial support load, and after your gross margins expand with scale.
+هل هذا يعني أننا لا ينبغي أن نعمل على تحسين المخض؟ بالطبع لا - مرة أخرى، إنها واحدة من أكثر الأشياء قيمة التي يمكن لأي شركة القيام بها، لأن مركبات الاحتفاظ، وكل الأرباح الناتجة عن عميل أعمال SaaS تحدث في السنوات اللاحقة، بعد أن يسددوا نفقات المبيعات والتسويق، ويتجاوزوا حمل الدعم الأولي الأعلى من المتوسط، وبعد أن يتوسع إجمالي هوامش الربح مع الحجم.
 
-But, trying to measure the impact of a single activity is folly;[^3] even a year later, you'll never know how much that factored in relative to all the other things.
+لكن محاولة قياس تأثير نشاط واحد هي حماقة؛[^3] حتى بعد مرور عام، لن تعرف أبدًا مدى تأثير ذلك على جميع الأشياء الأخرى.
 
-[^3]: The exception is when your churn is especially bad; anything over 3%/mo is scary. Then, sometimes it's possible to make large improvements.
+[^3]: الاستثناء هو عندما يكون المزج سيئًا بشكل خاص؛ أي شيء يزيد عن 3% شهريًا يعد أمرًا مخيفًا. ومن ثم، في بعض الأحيان يكون من الممكن إجراء تحسينات كبيرة.
 
-## Probabilities of "risks"
+## احتمالات "المخاطر"
 
-The "Risk Slide" lists things that could derail the project or even tank the company. Executives quite rightly want to know: What is the chance that this will happen, and what is the magnitude of the impact if it does?
+تسرد "شريحة المخاطر" الأشياء التي يمكن أن تعرقل المشروع أو حتى تدمر الشركة. ويريد المسؤولون التنفيذيون أن يعرفوا بحق: ما هي فرصة حدوث ذلك، وما هو حجم التأثير إذا حدث؟
 
-We can't invest in mitigating low-probability risks, although we might monitor the situation if the impact would be high. Conversely, high-probability risks might need proactive mitigation efforts. Thus the "probability of the event" is critical information, because it determines our actions.
+لا نستطيع أن نستثمر في تخفيف المخاطر ذات الاحتمالية المنخفضة، على الرغم من أننا قد نراقب الوضع إذا كان التأثير كبيراً. وعلى العكس من ذلك، قد تحتاج المخاطر ذات الاحتمالية العالية إلى جهود تخفيف استباقية. وبالتالي فإن "احتمالية الحدث" هي معلومات مهمة، لأنها تحدد أفعالنا.
 
-But these probabilities aren't possible to measure, even after the fact.
+لكن هذه الاحتمالات لا يمكن قياسها، حتى بعد وقوعها.
 
-Each risk is independent. It will happen, or it won't. You won't find out for months, maybe years. Then one or two happen and six don't. Maybe the one that happened was listed as a 30% probability,[^4] and one that didn't was listed at 70%. Does that mean the probabilities were wrong? No, because 30% doesn't mean 0% and 70% doesn't mean 100%.
+كل خطر مستقل. سوف يحدث، أو لن يحدث. لن تكتشف ذلك لعدة أشهر، وربما سنوات. ثم يحدث واحد أو اثنان ولا يحدث ستة. ربما تم إدراج ما حدث على أنه احتمال بنسبة 30%،[^4] والآخر الذي لم يحدث تم إدراجه على أنه احتمال بنسبة 70%. هل هذا يعني أن الاحتمالات كانت خاطئة؟ لا، لأن 30% لا تعني 0%، و70% لا تعني 100%.
 
-[^4]: If you're lucky; I often see probabilities listed as "medium" or "low." Here's [how to talk about probabilities](https://longform.asmartbear.com/probability-words/) properly.
+[^4]: إذا كنت محظوظًا؛ غالبًا ما أرى الاحتمالات مدرجة على أنها "متوسطة" أو "منخفضة". إليك [كيفية التحدث عن الاحتمالات](https://longform.asmartbear.com/probability-words/) بشكل صحيح.
 
-This is similar to weather forecasting. If there's a 30% chance of rain, and it rains, was the forecast correct? While you cannot answer that for a single day, there is an answer across hundreds of days: You take all of the days for which the forecast was 30%, and see how often it did rain. If the real result is, say, 34%, the forecaster is doing a great job; if the real number is 70%, the forecaster needs improvement.[^5]
+وهذا مشابه للتنبؤ بالطقس. إذا كان هناك احتمال بنسبة 30% لتساقط الأمطار، فهل كانت التوقعات صحيحة؟ في حين أنك لا تستطيع الإجابة على هذا السؤال ليوم واحد، فهناك إجابة عبر مئات الأيام: عليك أن تأخذ كل الأيام التي كانت التوقعات فيها 30%، وترى كم مرة هطلت الأمطار. فإذا كانت النتيجة الحقيقية، على سبيل المثال، 34%، فإن المتنبئ يقوم بعمل عظيم؛ إذا كان الرقم الحقيقي 70%، فإن المتنبئ يحتاج إلى تحسين.[^5]
 
-[^5]: Actually that's not the full story; [here is the fascinating math behind evaluating forecasts](https://longform.asmartbear.com/forecast/).
+[^5]: في الواقع هذه ليست القصة الكاملة؛ [هذه هي الرياضيات الرائعة وراء تقييم التوقعات](https://longform.asmartbear.com/forecast/).
 
 ![but to be fair theres fifty percent chance of just about anything](https://public.asmartbear.com/books/anthology/chapters/unmeasurable-metrics/d5221print-simple.png)
 
-That's great, but not for our Risk Slide. We don't have hundreds of measurements from forecasts of well-defined events. We have a slide of a handful of independent, complex risks, none of which have ever happened before. So we can't know whether our probabilities were correct, even years later when we know with complete certainty what actually happened.
+هذا أمر عظيم، ولكن ليس بالنسبة لشريحة المخاطر لدينا. ليس لدينا مئات القياسات من توقعات الأحداث المحددة جيدًا. لدينا شريحة من مجموعة من المخاطر المستقلة والمعقدة، والتي لم يحدث أي منها من قبل. لذلك لا يمكننا أن نعرف ما إذا كانت احتمالاتنا صحيحة، حتى بعد مرور سنوات عندما نعرف على وجه اليقين ما حدث بالفعل.
 
-So don't put probabilities on the slide at all. Only list the risks that you feel are so important that they either merit action or awareness.
+لذا، لا تضع الاحتمالات على الشريحة على الإطلاق. قم فقط بإدراج المخاطر التي تشعر أنها مهمة جدًا لدرجة أنها تستحق اتخاذ إجراء أو الوعي بها.
 
-## More examples
+## المزيد من الأمثلة
 
-Now that the general pattern is clear, here are more examples to avoid:
+والآن بعد أن أصبح النمط العام واضحًا، إليك المزيد من الأمثلة التي يجب تجنبها:
 
-#### Measuring the effect of small design choices on user experience
-Things like color, typography, layout, and word-choice, definitely matter, but typically noise overwhelms signal in attempting to measure it, especially in small iterations, and it's not effective to survey users about exactly which font they like better. Also, any UI change initially results in lower satisfaction scores, because people don't like change.
+#### قياس تأثير خيارات التصميم الصغيرة على تجربة المستخدم
+من المؤكد أن أشياء مثل اللون والطباعة والتخطيط واختيار الكلمات، مهمة، ولكن عادةً ما تطغى الضوضاء على الإشارة عند محاولة قياسها، خاصة في التكرارات الصغيرة، وليس من الفعال استطلاع آراء المستخدمين حول الخط الذي يفضلونه بالضبط. كما أن أي تغيير في واجهة المستخدم يؤدي في البداية إلى انخفاض درجات الرضا، لأن الأشخاص لا يحبون التغيير.
 
-#### Measuring the effect or ROI of company culture or values
-Having a [strong culture, with a specific direction](https://longform.asmartbear.com/emptiness/), helps you create a healthy organization of people who are alike in the ways that matter, while creating diversity in all other ways. But, measuring the impact of a specific value or a specific culture-related initiative, doesn't make sense.
+#### قياس تأثير أو عائد الاستثمار لثقافة الشركة أو قيمها
+يساعدك وجود [ثقافة قوية ذات اتجاه محدد](https://longform.asmartbear.com/emptiness/) على إنشاء منظمة صحية من الأشخاص المتشابهين في الطرق المهمة، مع خلق التنوع في جميع الطرق الأخرى. لكن قياس تأثير قيمة معينة أو مبادرة معينة مرتبطة بثقافة معينة، ليس له معنى.
 
-#### Measuring the value of brand
-While there are some techniques that could make sense for the largest companies in the world (e.g. ["unaided awareness" or "brand recall"](https://en.wikipedia.org/wiki/Brand_awareness)), you generally cannot look at winning specific deals, or competitiveness, or growth, and answer "How much of that was due to brand?" This includes marketing campaigns that are primarily about brand, such as company-sponsored events.
+#### قياس قيمة العلامة التجارية
+في حين أن هناك بعض الأساليب التي قد تكون منطقية بالنسبة لأكبر الشركات في العالم (على سبيل المثال ["الوعي بدون مساعدة" أو "استدعاء العلامة التجارية"](https://en.wikipedia.org/wiki/Brand_awareness))، إلا أنه لا يمكنك عمومًا النظر إلى الفوز بصفقات محددة، أو القدرة التنافسية، أو النمو، والإجابة "كم من ذلك كان بسبب العلامة التجارية؟" يتضمن ذلك الحملات التسويقية التي تتعلق في المقام الأول بالعلامة التجارية، مثل الأحداث التي ترعاها الشركة.
 
-#### Measuring the value of proactively fixing bugs or good engineering practices
-You cannot measure the impact of a bug that never shipped, or the impact of an engineering practice that is simply how you work. There is no counter-factual.
+#### قياس قيمة إصلاح الأخطاء أو الممارسات الهندسية الجيدة بشكل استباقي
+لا يمكنك قياس تأثير خطأ لم يتم شحنه مطلقًا، أو تأثير ممارسة هندسية هي ببساطة الطريقة التي تعمل بها. لا يوجد واقع مضاد.
 
-#### Measuring "willingness-to-pay" or "value delivered"
-I've detailed a [theory of willingness-to-pay](https://longform.asmartbear.com/willingness-to-pay/) as a path both to profits and genuinely happy customers, yet directly measuring "value" or "willingness" is elusive. Even if you raise prices, and measure the change in the number of new customers or the ire and cancellation of existing customers, that still doesn't measure "value" or "willingness." Anyway, that's a test you cannot run often, and a test that's often destructive for brand and customer relationships.
+#### قياس "الاستعداد للدفع" أو "القيمة المقدمة"
+لقد قمت بتفصيل [نظرية الاستعداد للدفع](https://longform.asmartbear.com/willingness-to-pay/) كطريق لتحقيق الأرباح والعملاء السعداء حقًا، ومع ذلك فإن قياس "القيمة" أو "الاستعداد" بشكل مباشر أمر بعيد المنال. حتى لو قمت برفع الأسعار، وقياس التغير في عدد العملاء الجدد أو الغضب وإلغاء العملاء الحاليين، فإن ذلك لا يزال لا يقيس "القيمة" أو "الاستعداد". على أية حال، هذا اختبار لا يمكنك إجراؤه كثيرًا، وهو اختبار غالبًا ما يكون مدمرًا للعلاقات بين العلامة التجارية والعملاء.
 
-#### Measuring the efficacy of employee compensation or retention programs
-Overall retention is easy and important to measure, but it is always multi-factored, and the rules can change over time. Thus this is like measuring the impact of a feature on product retention.
+#### قياس فعالية تعويضات الموظفين أو برامج الاحتفاظ بهم
+يعد الاحتفاظ الإجمالي أمرًا سهلاً ومهمًا للقياس، ولكنه دائمًا متعدد العوامل، ويمكن أن تتغير القواعد بمرور الوقت. وبالتالي فإن هذا يشبه قياس تأثير الميزة على الاحتفاظ بالمنتج.
 
-So stick with [KPIs that measure specific aspects of your systems](https://longform.asmartbear.com/product-metrics/), and stay clear of things you cannot measure even after the fact.
+لذا التزم بـ [مؤشرات الأداء الرئيسية التي تقيس جوانب محددة من أنظمتك](https://longform.asmartbear.com/product-metrics/)، وابتعد عن الأشياء التي لا يمكنك قياسها حتى بعد حدوثها.

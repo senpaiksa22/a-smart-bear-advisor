@@ -20,77 +20,64 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** هل تجرؤ على فضح الهراء الإداري والتسويقي بصوت عالٍ؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Do I dare call bullshit aloud? Do you?
-
-> **Executive Summary:** A side-effect of my moderate, only-in-bubble fame is a barrage of "special" offers, guest-post requests, pleas for attention, and modest, tasteful bribery.
-> **Original URL:** [https://longform.asmartbear.com/call-bullshit/](https://longform.asmartbear.com/call-bullshit/)
-
-A side-effect of my moderate, only-in-bubble fame is a barrage of "special" offers, guest-post requests, pleas for attention, and modest, tasteful bribery.
+أحد الآثار الجانبية لشهرتي المعتدلة الوحيدة في الفقاعة هو وابل من العروض "الخاصة"، وطلبات مشاركة الضيوف، وطلبات الاهتمام، والرشوة المتواضعة والذوق.
 
 ![monetizing](https://longform.asmartbear.com/call-bullshit/fd556589.png)
 
-It's not awful; most are sincere, and even those blatant marketing ploys requesting me to "review this *fantastic* new book that's so *relevant* to your *readers* who are *aching* to read it" are professional, direct, and come bearing gifts (even if it *is* just a free book).
+انها ليست فظيعة. معظمهم صادقون، وحتى تلك الحيل التسويقية الصارخة التي تطلب مني "مراجعة هذا الكتاب الجديد *الرائع* الذي له صلة كبيرة بقراءك الذين *يتألمون* لقراءته" هي حيل احترافية ومباشرة وتأتي حاملة الهدايا (حتى لو كان * مجرد كتاب مجاني).
 
-My response is well-mannered, even when the correspondence lands squarely in the class of spam:
+كان ردي مهذبًا، حتى عندما تقع المراسلات بشكل مباشر في فئة البريد العشوائي:
 
-> Thanks so much for extending me the privilege to let me "e-interview" Person You Claim is a Celebrity who you're writing-on-behalf-of, but I'm compelled to pass on your offer because "Vampires: Under the Cape" is not, in fact, directly relevant to my audience.
+> شكرًا جزيلاً لمنحي امتياز السماح لي بإجراء "مقابلة إلكترونية" مع الشخص الذي تدعي أنه أحد المشاهير الذين تكتب نيابةً عنهم، لكنني مضطر لتمرير عرضك لأن "Vampires: Under the Cape" ليس له، في الواقع، صلة مباشرة بجمهوري.
 
-But tonight I'm thinking I shouldn't be so kind. That maybe it's even my duty to not be.
+لكن الليلة أعتقد أنني لا ينبغي أن أكون لطيفًا. وربما يكون من واجبي ألا أكون كذلك.
 
-Why am I so kind in the first place? Why not just ignore it?
+لماذا أنا لطيف جدًا في المقام الأول؟ لماذا لا نتجاهلها فقط؟
 
-I think the answer is terrible: That I'm afraid I might piss off someone famous or potentially famous who then might not want to work with me in future or even say something bad about me in public.
+أعتقد أن الإجابة فظيعة: أخشى أنني قد أغضب شخصًا مشهورًا أو قد لا يرغب في العمل معي في المستقبل أو حتى أن يقول شيئًا سيئًا عني علنًا.
 
-Pathetic.
+مثير للشفقة.
 
-Here's what's bringing this to a head.
+وإليك ما جلب هذا إلى رأسه.
 
-Recently I got the worst solicitation to date. The title of the email was excellent: "Guest Blogger Proposal--An Interesting Twist."
+لقد تلقيت مؤخرًا أسوأ التماس حتى الآن. كان عنوان البريد الإلكتروني ممتازًا: "اقتراح ضيف مدون - تطور مثير للاهتمام".
 
-I won't repeat the entire contents of the email, not because of "privacy" but because it was 729 words which is almost the length of this article and who has time to read all that? (Present company excepted. And yes it's "excepted" and not "accepted.")
+لن أكرر محتوى الرسالة بالكامل، ليس بسبب "الخصوصية" ولكن لأنها كانت 729 كلمة وهو طول هذه المقالة تقريبًا ومن لديه الوقت لقراءة كل ذلك؟ (الشركة الحالية مستثناة. ونعم هي "مستثناة" وليست "مقبولة.")
 
-Besides employing the conventional turns of phrase including "We are only looking for a handful of sites where we can contribute and *don't want you to miss out*" (their excited emphasis) and "saving you time and effort!!" (their excessive use of [bang](http://www.computerhope.com/jargon/b/bang.htm)), they had the audacity to suggest that I should "provide us with our own restricted login (preferred)" (their ludicrous parenthetical recommendation) **enabling them to autonomously publish articles directly to you**, dear reader, which they "guarantee will include sub-headlines and bullets written on topics like 'how to ...', '7 tips for ...', '5 reasons...', etc."
+إلى جانب استخدام العبارات التقليدية بما في ذلك "نحن نبحث فقط عن عدد قليل من المواقع التي يمكننا المساهمة فيها و *لا نريد أن تفوتك*" (تأكيدهم المثير) و"توفير الوقت والجهد!!" (استخدامهم المفرط لـ [bang](http://www.computerhope.com/jargon/b/bang.htm))، كانت لديهم الجرأة لاقتراح أنه ينبغي لي "تزويدنا بتسجيل الدخول المقيد الخاص بنا (المفضل)" (توصيتهم الأقواية السخيفة) ** تمكينهم من نشر المقالات بشكل مستقل إليك مباشرةً **، عزيزي القارئ، والتي "يضمنون أنها ستتضمن عناوين فرعية ورموز نقطية مكتوبة حول موضوعات مثل" كيفية ... "،" 7 نصائح ل...'، '5 أسباب...'، وما إلى ذلك."
 
-Bullets and numbers in titles *guaranteed?!?* Fantastic!
+التعداد النقطي والأرقام في العناوين *مضمون؟!؟* رائع!
 
-If this weren't sufficiently absurd, it turns out these people are affiliate marketers, and what they neglected to mention in the introductory email is that these auto-published articles would furthermore push products for them to monetize.
+إذا لم يكن هذا سخيفًا بما فيه الكفاية، فقد اتضح أن هؤلاء الأشخاص هم مسوقون تابعون، وما أهملوا ذكره في البريد الإلكتروني التمهيدي هو أن هذه المقالات المنشورة تلقائيًا ستدفع المنتجات لهم لتحقيق الدخل.
 
-This time I couldn't just "take a rain check" with the customary social niceties. Maybe it was the two "poor-man's martini's" I had just consumed (drop three ice cubes and swirl instead of getting out the shaker). OK yeah, it was definitely that.
+هذه المرة لم أتمكن من مجرد "التحقق من المطر" مع المجاملات الاجتماعية المعتادة. ربما كان الأمر يتعلق بـ "مارتيني الرجل الفقير" الذي تناولته للتو (أسقط ثلاثة مكعبات من الثلج وحركها بدلاً من إخراج شاكر). حسنًا، نعم، لقد كان ذلك بالتأكيد.
 
-But the ancient Macedonians used to make important decisions *only* when inebriated, the idea being that only when mentally lubricated are you free of societal filters and self-doubt, and therefore think and act as your true self. Therefore you are thinking and acting *truthfully*, and hence *correctly*.
+لكن المقدونيين القدماء اعتادوا على اتخاذ قرارات مهمة *فقط* عندما يكونون مخمورين، والفكرة هي أنه فقط عندما يتم تشحيم ذهنك، تصبح خاليًا من المرشحات المجتمعية والشك في الذات، وبالتالي تفكر وتتصرف على طبيعتك الحقيقية. لذلك أنت تفكر وتتصرف *بصدق*، وبالتالي *بشكل صحيح*.
 
-With this in mind, my response was:
+ومع أخذ ذلك في الاعتبار، كان ردي:
 
-> What a fascinating scam! I'll have to let everyone I know about this ridiculous offer to pollute my blog with garbage. I'm sure my readers will be thrilled to know I'm introducing anonymous, self-serving posts filled with "bullets" and promotional offers.
+> يا لها من عملية احتيال رائعة! سأضطر إلى السماح لكل شخص أعرفه بشأن هذا العرض السخيف بتلويث مدونتي بالقمامة. أنا متأكد من أن قرائي سيشعرون بسعادة غامرة عندما يعلمون أنني أقدم منشورات مجهولة المصدر ذاتية الخدمة مليئة بـ "النقاط" والعروض الترويجية.
 > 
-> Please send me more email with your contact information so I can post it on the internet. I'm sure many people would like to send you a token of their appreciation.
+> من فضلك أرسل لي المزيد من البريد الإلكتروني مع معلومات الاتصال الخاصة بك حتى أتمكن من نشرها على شبكة الإنترنت. أنا متأكد من أن العديد من الأشخاص يرغبون في إرسال عربون تقدير لهم.
 
-Surely the recipient of my missive couldn't care less, but it's important to me because **I finally grew the stones to say what I feel even if it pisses someone off.**
+من المؤكد أن متلقي رسالتي لن يهتم كثيرًا، لكن هذا مهم بالنسبة لي لأنني **لقد قمت أخيرًا بزراعة الحجارة لأقول ما أشعر به حتى لو كان ذلك يثير غضب شخص ما.**
 
-I mean, as much as Social Media is supposed to be about "honesty" and "being human" and "genuineness," of course most isn't. Bloggers fluff their feathers, coming off more confident, smarter, and more sure than they are (present company included, though at least I make an effort to [reveal](https://longform.asmartbear.com/impostor-syndrome/) the [emotional](https://longform.asmartbear.com/startups-emotionally-draining/) underbelly). Twitterers RT and "follow" and pander to the most minor of celebs (present company again included) in the hopes that someday that lesser deity might deign to RT one of their tweets or accept an email as non-spam because they've already "joined the conversation."
+أعني، بقدر ما يفترض أن تدور وسائل التواصل الاجتماعي حول "الصدق" و"أن تكون إنسانًا" و"الصدق"، فإن معظمها بالطبع ليس كذلك. ينفث المدونون ريشهم، ويبدون أكثر ثقة وذكاءً وثقة مما هم عليه (بما في ذلك الشركة الحالية، على الرغم من أنني على الأقل أبذل جهدًا لـ [الكشف](https://longform.asmartbear.com/impostor-syndrome/) عن الجانب [العاطفي](https://longform.asmartbear.com/startups-emotionally-draining/)). Twitterers RT و "المتابعة" والقوادة لأصغر المشاهير (بما في ذلك الشركة الحالية مرة أخرى) على أمل أن يتنازل هذا الإله الأقل يومًا ما عن RT لإحدى تغريداتهم أو يقبل بريدًا إلكترونيًا على أنه غير بريد عشوائي لأنهم "انضموا بالفعل إلى المحادثة".
 
-I do too. Still do.
+أنا كذلك. لا تزال تفعل.
 
-Do I dare to publicly disagree with a solitary thing Seth Godin says, lest he not consider me for his Domino project? Do I dare to disagree with Jason Fried lest he lay into me like [he did Mint](http://37signals.com/svn/posts/1927-the-next-generation-bends-over)? Do I dare [make fun of Joel Spolsky](https://longform.asmartbear.com/letters-to-joel-spolsky/) lest I not get invited back to Business of Software?
+هل أجرؤ على الاختلاف علنًا مع شيء واحد يقوله سيث جودين، خشية ألا يقبلني في مشروع الدومينو الخاص به؟ هل أجرؤ على الاختلاف مع جيسون فرايد خشية أن يكذب علي كما فعل مع مينت](http://37signals.com/svn/posts/1927-the-next-generation-bends-over)؟ هل أجرؤ على [السخرية من جويل سبولسكي](https://longform.asmartbear.com/letters-to-joel-spolsky/) خشية ألا تتم دعوتي مرة أخرى إلى Business of Software؟
 
-**When do I earn the right to say what I think?** Why do I think I need to "earn" that right? How many RSS subscribers or Twitter followers do I need before I decide it's OK to rail against asinine offers like that email, or even gently disagree with luminaries who I do, in fact, respect?
+**متى أكتسب الحق في أن أقول ما أفكر فيه؟** لماذا أعتقد أنني بحاجة إلى "اكتساب" هذا الحق؟ كم عدد مشتركي RSS أو متابعي Twitter الذين أحتاجهم قبل أن أقرر أنه من المقبول معارضة العروض التافهة مثل هذا البريد الإلكتروني، أو حتى الاختلاف بلطف مع الشخصيات البارزة التي أحترمها في الواقع؟
 
-I guess the answer is: This many.
+أعتقد أن الجواب هو: هذا كثير.
 
-To take [Amanda Palmer](http://amandapalmer.net/) a little out of context:
+لإخراج [أماندا بالمر](http://amandapalmer.net/) قليلاً خارج السياق:
 
-> How strange to see
-> that I don't want to be
-> the person that I want to be.
+> كم هو غريب أن نرى
+> أنني لا أريد أن أكون
+> الشخص الذي أريد أن أكون.
 > 
-> And maybe it's funniest of all 
-> to think I'll die before I actually see
-> that I am [already] the person that I want to be.
+> وربما هو أطرف من كل شيء
+> أعتقد أنني سأموت قبل أن أرى بالفعل
+> أنني [بالفعل] الشخص الذي أريد أن أكونه.

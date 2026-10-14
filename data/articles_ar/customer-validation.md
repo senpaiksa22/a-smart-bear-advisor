@@ -20,111 +20,98 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** نعم، ولكن من قال إنهم سيدفعون أموالاً حقيقية لشراء هذا الشيء؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Yes, but who said they'd actually BUY the damn thing?
-
-> **Executive Summary:** Have a great idea? Prove it by finding ten customers ready to hand over cash. Everything else is avoiding the truth.
-> **Original URL:** [https://longform.asmartbear.com/customer-validation/](https://longform.asmartbear.com/customer-validation/)
-
 ![Your mom is not a valid test market](https://public.asmartbear.com/books/anthology/chapters/customer-validation/your-mom-not-test-market-simple.png)
 
-Of hundreds of startup pitches at the [Capital Factory](https://capitalfactory.com/) incubator in Austin, Texas, *almost none* had unearthed 10 people willing to say, "If you build this product, I'll give you $X."
+من بين المئات من العروض التقديمية للشركات الناشئة في حاضنة [Capital Factory](https://capitalfactory.com/) في أوستن، تكساس، لم يتمكن أي منها تقريبًا من اكتشاف 10 أشخاص على استعداد للقول: "إذا قمت ببناء هذا المنتج، فسوف أعطيك X دولارًا."
 
-**Meditate on this:** Hundreds of people ready to quit their day jobs, burn up savings, risk personal reputation, toil 70 hours per week, absorb as much stress as having a baby (believe me, I've done both).... all without identifying even ten measly people actually willing to pay for what they're peddling.
+**تأمل في هذا:** مئات الأشخاص المستعدون لترك وظائفهم اليومية، وحرق مدخراتهم، والمخاطرة بسمعتهم الشخصية، والكدح 70 ساعة في الأسبوع، وامتصاص قدر كبير من التوتر مثل إنجاب طفل (صدقني، لقد فعلت كليهما).... كل ذلك دون تحديد حتى عشرة أشخاص تافهين على استعداد فعليًا لدفع ثمن ما يبيعونه.
 
-Short-sighted, no?
+قصر النظر، أليس كذلك؟
 
-### If you can't find ten people who say they'll buy it, your company is bullshit.
+### إذا لم تتمكن من العثور على عشرة أشخاص يقولون إنهم سيشترونها، فشركتك هراء.
 
-Aren't you sick of every startup blogger on Earth badgering you about this? Steve Blank says "get outside the building," Eric Ries says "seek [validated learning](https://longform.asmartbear.com/lean-startup-ballad/)," Sean Ellis says "seek [product/market fit](https://longform.asmartbear.com/product-market-fit/)," Drew Houston says "the only way to learn on a $0 budget is to talk to people."
+ألست سئمت من كل مدون الشركات الناشئة على وجه الأرض الذي يضايقك بشأن هذا؟ يقول ستيف بلانك "اخرج من المبنى"، ويقول إريك ريس "ابحث عن [التعلم المعتمد](https://longform.asmartbear.com/lean-startup-ballad/)، ويقول شون إليس "ابحث عن [المنتج/السوق المناسب](https://longform.asmartbear.com/product-market-fit/)، ويقول درو هيوستن "إن الطريقة الوحيدة للتعلم بميزانية 0 دولار هي التحدث إلى الناس".
 
-I say "find ten people who say they'll buy." I say "get off your ass and produce hard evidence that customers are in your [future light cone](https://en.wikipedia.org/wiki/Light_cone)." I even tell you [how to interview customers](https://longform.asmartbear.com/customer-development/) and how to [do everything else](https://longform.asmartbear.com/product-market-fit-formula/).
+أقول "ابحث عن عشرة أشخاص يقولون إنهم سيشترون". أقول "انهض من مؤخرتك وقدم دليلاً دامغًا على أن العملاء موجودون في [مخروط الضوء المستقبلي] (https://en.wikipedia.org/wiki/Light_cone)." حتى أنني أخبرك [كيفية إجراء مقابلات مع العملاء](https://longform.asmartbear.com/customer-development/) وكيفية [القيام بكل شيء آخر](https://longform.asmartbear.com/product-market-fit-formula/).
 
-**But you're still not listening.** You repeat these mantras at Lean Startup Meetings *but you're not doing it.*
+**لكنك مازلت لا تستمع.** أنت تكرر هذه العبارات في Lean Startup Meetings *ولكنك لا تفعلها.*
 
-**You're understandably scared of been proved wrong**, especially now that you're all worked up about the new business idea, and extra especially after you've already told friends and family you're doing this and they're expecting you to complete your quest.
+**من المفهوم أنك خائف من أن يثبت خطأك**، خاصةً الآن بعد أن أصبحت منشغلًا بفكرة العمل الجديدة، وخاصةً بعد أن أخبرت أصدقائك وعائلتك بالفعل أنك تفعل ذلك ويتوقعون منك إكمال مهمتك.
 
-But jeez people, you're not even trying. And worse, **you're inventing lame excuses for why you're not trying.**
+لكن يا رفاق، أنتم لا تحاولون حتى. والأسوأ من ذلك، **إنك تخترع أعذارًا واهية لعدم محاولتك.**
 
-One excuse is: "I don't know how to get 10 people to talk to me, before I have a product." OK, [here are a huge number of ways](https://longform.asmartbear.com/find-customers-to-interview/) that other entrepreneurs have successfully used. Pick one or two.
+أحد الأعذار هو: "لا أعرف كيف أجعل 10 أشخاص يتحدثون معي، قبل أن يكون لدي منتج". حسنًا، [إليك عددًا كبيرًا من الطرق](https://longform.asmartbear.com/find-customers-to-interview/) التي استخدمها رواد الأعمال الآخرون بنجاح. اختر واحدة أو اثنتين.
 
-Full power to forward shields y'all, I'm coming for you.
+القوة الكاملة لتوجيه دروعكم جميعًا، أنا قادم من أجلكم.
 
-### "I'm scratching my own itch. Since I'm my own target customer, I already know what to build."
+### "أنا أخدش حكة نفسي. وبما أنني عميلي المستهدف، فأنا أعرف بالفعل ما الذي يجب أن أبنيه."
 
-Oh! I didn't realize your typical customer is observant enough to recognize monetizable pain, creative enough to invent products, able to convince others to work for free and invest money and time with you, and passionate enough to quit her job to pursue unproven ideas.
+أوه! لم أكن أدرك أن عميلك النموذجي ملتزم بدرجة كافية للتعرف على الألم الذي يمكن تحقيق الدخل منه، ومبدع بما يكفي لاختراع المنتجات، وقادر على إقناع الآخرين بالعمل مجانًا واستثمار المال والوقت معك، وشغوف بما يكفي لترك وظيفته لمتابعة أفكار غير مثبتة.
 
-Fooey! **By definition, if you're a startup founder you're explicitly *not* your customer.**
+فوي! **بحكم التعريف، إذا كنت مؤسس شركة ناشئة، فأنت *لست* عميلًا صراحةً.**
 
-"Scratching your own itch" is how all three of my companies started, **but it's only that--the start.** It's the spark of inspiration, not the strategy. It's the grain of sand tickling the oyster, not the pearl.
+"اخدش حاجتك بنفسك" هي الطريقة التي بدأت بها شركاتي الثلاث، **ولكن هذا فقط - البداية.** إنها شرارة الإلهام، وليست الإستراتيجية. إنها حبة الرمل التي تدغدغ المحار، وليس اللؤلؤة.
 
-Look! Smart people agree:
+ينظر! الأذكياء يتفقون:
 
-> "Be a user of your own product. Make it better based on your own desires. But don't trick yourself into thinking you are your user." *--*[*Evan Williams*](https://evhead.com/2005/11/ten-rules-for-web-startups.asp)*, founder Blogger & Twitter*  
->   
-> *"If the VP of Engineering thinks the target customer is just like him/her, you're doomed. If the VP of Marketing thinks the target customer is just like him/her, you're doomed." *--*[*Cranky Product Manager*](https://crankypm.com/2009/09/10-cranky-product-manager-learned-product-management/)*  
->   
-> "Our customers did a lot of stuff that I would never do. We think differently. We solve our problems differently. We have different needs and wants. Repeat after me: You are not your customer." *--*[*Eric Ries*](https://www.startuplessonslearned.com/2009/10/case-study-using-loi-to-get-customer.html)*, Lean Startup leader (repeating a conversation with a startup founder)*
+> "كن مستخدمًا لمنتجك الخاص. واجعله أفضل بناءً على رغباتك الخاصة. ولكن لا تخدع نفسك بالاعتقاد أنك مستخدم لك." *--*[*إيفان ويليامز*](https://evhead.com/2005/11/ten-rules-for-web-startups.asp)*، مؤسس Blogger وTwitter*
+> 
+> *"إذا كان نائب رئيس قسم الهندسة يعتقد أن العميل المستهدف يشبهه تمامًا، فأنت محكوم عليك بالفشل. وإذا كان نائب رئيس التسويق يعتقد أن العميل المستهدف يشبهه تمامًا، فأنت محكوم عليك بالهلاك." *--*[*مدير منتج غريب الأطوار*](https://crankypm.com/2009/09/10-cranky-product-manager-learned-product-management/)*
+> 
+> "لقد فعل عملاؤنا الكثير من الأشياء التي لم أكن لأفعلها أبدًا. نحن نفكر بشكل مختلف. ونحل مشاكلنا بشكل مختلف. لدينا احتياجات ورغبات مختلفة. كرر بعدي: أنت لست عميلك." *--*[*إريك ريس*](https://www.startuplessonslearned.com/2009/10/case-study-using-loi-to-get-customer.html)*، قائد Lean Startup (تكرار محادثة مع مؤسس شركة ناشئة)*
 
-In fact I challenge you to find *one* founder of a real business who thinks "I'm the customer" is [the only market validation you need](https://longform.asmartbear.com/successful-founders-dont-say/). If you still don't believe me, [here's a whole article](https://longform.asmartbear.com/scratched-my-own-itch/) debunking this idea in detail.
+في الواقع، أتحداك أن تجد مؤسسًا *واحدًا* لشركة حقيقية يعتقد أن عبارة "أنا العميل" هي [التحقق الوحيد الذي تحتاجه من السوق](https://longform.asmartbear.com/successful-founders-dont-say/). إذا كنت لا تزال لا تصدقني، [إليك مقالة كاملة](https://longform.asmartbear.com/scratched-my-own-itch/) فضح هذه الفكرة بالتفصيل.
 
-### "There are millions of potential customers, so it doesn't matter what only ten of them think. I need to just start; later I can survey and learn something statistically significant."
+### "هناك الملايين من العملاء المحتملين، لذلك لا يهم ما يفكر فيه عشرة منهم فقط. أحتاج أن أبدأ للتو؛ وفي وقت لاحق يمكنني إجراء مسح ومعرفة شيء ذي أهمية إحصائية."
 
-If [there are millions](https://longform.asmartbear.com/problem/), it's trivial to find ten. If you can't find even ten, then either there's not millions or those millions aren't interested in you.
+إذا كان [هناك الملايين](https://longform.asmartbear.com/problem/)، فمن السهل العثور على عشرة. إذا لم تتمكن من العثور حتى على عشرة، فإما أنه لا يوجد ملايين أو أن هؤلاء الملايين غير مهتمين بك.
 
-Businesses don't start with millions of customers, they start with one, then ten, then a hundred, and then a thousand. **But most don't get past ten.**
+لا تبدأ الأعمال التجارية بملايين العملاء، بل تبدأ بواحد، ثم عشرة، ثم مائة، ثم ألف. **ولكن معظمهم لا يتجاوزون العاشرة.**
 
-If you haven't gotten ten to at least *say* they'll buy, where do you get your hubris to proclaim that thousands actually *will* buy?
+إذا لم يكن لديك عشرة على الأقل *تقول* أنهم سيشترون، فمن أين تحصل على غطرستك لتعلن أن الآلاف *سيشترون* بالفعل؟
 
-### "My customers can't understand mock-ups. I have to build it first."
+### "لا يستطيع عملائي فهم النماذج الأولية. يجب أن أقوم بإنشائها أولاً."
 
-You shouldn't need screenshots or PowerPoints to convince [someone in your target market](https://longform.asmartbear.com/icp-ideal-customer-persona/) that what you're doing is compelling. If your concept is so esoteric that you can't describe it in 30 seconds at a cocktail party, it's either too complex or you don't understand it yourself.
+لا يجب أن تحتاج إلى لقطات شاشة أو عروض PowerPoint لإقناع [شخص ما في السوق المستهدف](https://longform.asmartbear.com/icp-ideal-customer-persona/) بأن ما تفعله مقنع. إذا كان مفهومك مقصورًا على فئة معينة بحيث لا يمكنك وصفه في 30 ثانية في حفل كوكتيل، فهو إما معقد للغاية أو أنك لا تفهمه بنفسك.
 
-Take me and WP Engine. I got *thirty* people to tell me they'd pay $50/mo for this service before I had a company name, a website, a product, a co-founder, or an employee. And don't say it's easy for me because I've done this before--the [full story](https://longform.asmartbear.com/good-startup-ideas/) is that I had other ideas which proved to be crap.
+خذني ومحرك الفسفور الأبيض. لقد أخبرني *ثلاثون* شخصًا أنهم سيدفعون 50 دولارًا شهريًا مقابل هذه الخدمة قبل أن يكون لدي اسم شركة، أو موقع ويب، أو منتج، أو مؤسس مشارك، أو موظف. ولا تقل أن الأمر سهل بالنسبة لي لأنني فعلت ذلك من قبل - [القصة الكاملة](https://longform.asmartbear.com/good-startup-ideas/) هي أن لدي أفكارًا أخرى ثبت أنها هراء.
 
-Even if I concede that sometimes you need a mock-up, and that some folks can't grok mock-ups, remember that your first customers will by definition be [early-adopters who are OK with alpha software](https://longform.asmartbear.com/little-company/). If you can't find a few of those and get them excited about your product, maybe your product isn't exciting.
+حتى لو أقررت أنك في بعض الأحيان تحتاج إلى نموذج بالحجم الطبيعي، وأن بعض الأشخاص لا يستطيعون التعامل مع النماذج بالحجم الطبيعي، تذكر أن عملائك الأوائل سيكونون بحكم التعريف [المتبنون الأوائل الذين يوافقون على استخدام برامج ألفا](https://longform.asmartbear.com/little-company/). إذا لم تتمكن من العثور على عدد قليل منها وإثارة حماسهم بشأن منتجك، فربما لا يكون منتجك مثيرًا.
 
-### "I suck at sales/marketing; I need to build a product so compelling it sells itself."
+### "أنا فاشل في المبيعات/التسويق؛ أحتاج إلى بناء منتج مقنع بحيث يبيع نفسه."
 
-The world is filled with decent products that make no money. You know this!
+العالم مليء بالمنتجات اللائقة التي لا تدر أي أموال. أنت تعرف هذا!
 
-Oh fine, you want empirical evidence? For the top 100 Twitter clients:[^1]
+حسنًا، هل تريد أدلة تجريبية؟ لأفضل 100 عميل على تويتر:[^1]
 
-[^1]: *Editor's Note:* This was in 2010 when there were over 150 Twitter clients.
+[^1]: *ملاحظة المحرر:* كان هذا في عام 2010 عندما كان هناك أكثر من 150 عميلاً على تويتر.
 
-* How many do you suppose are decent pieces of software that basically work? (My guess: 80%)
-* How many do you suppose produce *any* revenue? (My guess: 5%)
-* How many do you suppose produce enough revenue that, after hosting and marketing expenses, they result in a profitable company where the owner doesn't need a day job? (My guess: <1%)
+* كم عدد البرامج اللائقة التي تفترض أنها تعمل بشكل أساسي؟ (تخميني: 80%)
+* كم عدد المنتجات التي تفترض أنها تنتج إيرادات *أي*؟ (تخميني: 5%)
+* كم عدد الشركات التي تفترض أنها تنتج إيرادات كافية، بعد نفقات الاستضافة والتسويق، تؤدي إلى شركة مربحة حيث لا يحتاج المالك إلى وظيفة يومية؟ (تخميني: <1%)
 
-Conclusion: If your goal is a business (not a hobby), **building charming, novel software isn't enough.**
+الخلاصة: إذا كان هدفك هو عمل تجاري (وليس هواية)، **فبناء برامج جذابة ومبتكرة ليس كافيًا.**
 
-You and I know you have the ability to build cool new software. We agree that will be fun and exciting. But *that's not going to create a business*.
+أنا وأنت نعلم أن لديك القدرة على إنشاء برامج جديدة رائعة. نحن نتفق على أن ذلك سيكون ممتعًا ومثيرًا. لكن *هذا لن يؤدي إلى إنشاء مشروع تجاري*.
 
-Writing code is what you love, so you [myopically decide that's what you'll do](https://longform.asmartbear.com/put-down-the-compiler/). But what you *should* do is just the opposite: Attack the part of the business you're *least* sure of, you're *least* qualified for.
+كتابة التعليمات البرمجية هي ما تحبه، لذلك [تقرر بقصر نظر أن هذا ما ستفعله](https://longform.asmartbear.com/put-down-the-compiler/). ولكن ما *يجب* عليك فعله هو العكس تمامًا: مهاجمة الجزء من العمل الذي أنت *الأقل* متأكدًا منه، وأنت *الأقل* مؤهلاً له.
 
-If you're still not convinced, **think of it as project risk management**. In a big software project do you tackle the high-risk, ill-defined stuff first, or do you postpone that to the end? Obviously you address the uncertain stuff first--most of project risk is created by the unknown, so the earlier you can sort out uncertainty the more time you have to deal with the consequences.
+إذا كنت لا تزال غير مقتنع، **فكر في الأمر على أنه إدارة مخاطر المشروع**. في مشروع برمجي كبير، هل تتعامل مع الأمور عالية المخاطر وغير المحددة أولاً، أم تؤجل ذلك إلى النهاية؟ من الواضح أنك تعالج الأمور غير المؤكدة أولاً - فمعظم مخاطر المشروع تنشأ من المجهول، لذا كلما تمكنت من حل عدم اليقين في وقت مبكر، زاد الوقت المتاح لك للتعامل مع العواقب.
 
-I'm making the same argument, except the "high-risk unknown" is "everything that's not code." Your code will be good enough; it's the other stuff that will probably sink your ship--unable to find customers or unable to convince the target audience they should open their wallets.
+أنا أطرح نفس الحجة، باستثناء أن "المجهول عالي المخاطر" هو "كل شيء ليس رمزًا". سيكون الكود الخاص بك جيدًا بما فيه الكفاية؛ إنها الأشياء الأخرى التي من المحتمل أن تغرق سفينتك - عدم القدرة على العثور على العملاء أو عدم القدرة على إقناع الجمهور المستهدف بضرورة فتح محافظهم.
 
-No sense in postponing it.
+ولا معنى لتأجيله.
 
-### "My friend / brother / co-worker / dentist thinks it's a great idea."
+### "يعتقد صديقي / أخي / زميل العمل / طبيب الأسنان أنها فكرة رائعة."
 
-Your mother thinks you're smart and good-looking, but that doesn't mean I do.
+والدتك تعتقد أنك ذكي وحسن المظهر، ولكن هذا لا يعني أنني أفعل ذلك.
 
-It doesn't matter what non-entrepreneurs think because they're not versed [product/market fit](https://longform.asmartbear.com/product-market-fit/), squeezing blood from evanescent budgets, and using Facebook for advertising instead of sharing the latest [FailBlog](https://failblog.org/) movie.
+لا يهم ما يعتقده غير رواد الأعمال لأنهم ليسوا على دراية بـ [المنتج/السوق المناسب](https://longform.asmartbear.com/product-market-fit/)، ويضغطون الدم من الميزانيات الزائلة، ويستخدمون Facebook للإعلان بدلاً من مشاركة أحدث فيلم [FailBlog](https://failblog.org/).
 
-In fact it only barely matters what real entrepreneurs think either, because they're not expert in your problem domain, they might have outdated notions, they might be [biased](https://longform.asmartbear.com/survivor-bias/) against certain ideas and technology, and they carry baggage from good and bad experiences (due as much to [timing and luck](https://longform.asmartbear.com/lucky/) as anything else).
+في الواقع، لا يهم سوى ما يفكر فيه رواد الأعمال الحقيقيون أيضًا، لأنهم ليسوا خبراء في مجال مشكلتك، وقد يكون لديهم أفكار قديمة، وقد يكونون [متحيزين](https://longform.asmartbear.com/survivor-bias/) ضد أفكار وتقنيات معينة، ويحملون أعباء من التجارب الجيدة والسيئة (بسبب [التوقيت والحظ](https://longform.asmartbear.com/lucky/) مثل أي شيء آخر).
 
-**The only thing that matters is that people are willing to give you money!**
+**الشيء الوحيد المهم هو أن الناس على استعداد لإعطائك المال!**
 
-Business ["experts"](https://longform.asmartbear.com/expert-harmful/) can argue all day long that it makes no sense to buy shoes over the internet, but as long as people give Zappos $1 billion per year, it doesn't matter what experts say.
+يمكن لخبراء الأعمال ["الخبراء"](https://longform.asmartbear.com/expert-harmful/) أن يجادلوا طوال اليوم بأنه ليس من المنطقي شراء الأحذية عبر الإنترنت، ولكن طالما أن الناس يمنحون شركة Zappos مليار دولار سنويًا، فلا يهم ما يقوله الخبراء.
 
-When ten people say they'll give you money, that's the only validation that counts.
+عندما يقول عشرة أشخاص أنهم سوف يعطونك المال، فهذا هو التحقق الوحيد الذي يهم.

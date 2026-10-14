@@ -20,196 +20,183 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** ورشة عمل 'الأفعال مقابل الأقوال': كيف تحول الوعود لنتائج ملموسة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# The "Talk vs Walk" workshop
-
-> **Executive Summary:** We invented this strategic exercise at WP Engine -- engaging both Marketing and Product, generating actions for both sides that make products more desirable and competitive.
-> **Original URL:** [https://longform.asmartbear.com/talk-vs-walk/](https://longform.asmartbear.com/talk-vs-walk/)
-
 ![go back and give that part little more oomph really make me believe](https://public.asmartbear.com/books/anthology/chapters/talk-vs-walk/d5328print-simple.png)
 
-Despite the insipid rhyming, it's a surprisingly useful question to analyze:
+على الرغم من القافية غير المشوقة، إلا أنه من المفيد تحليل هذا السؤال بشكل مدهش:
 
- <br/> 
+<br/>
 
-_You talk the talk, but do you walk the walk?_
+_أنت تتحدث بالحديث، ولكن هل تمشي؟_
 
- <br/> 
+<br/>
 
-Whether it's the early-stage company, understandably exaggerating its product's qualities on the home page in a lived experience of "Fake it 'till you make it,"[^1] or the venerable company whose marketing department isn't taking enough credit for legitimately world-class qualities, because they've become so second-nature that it doesn't occur to them to brag about it.
+سواء كانت الشركة في مرحلة مبكرة، والتي تبالغ بشكل مفهوم في جودة منتجها على الصفحة الرئيسية في تجربة حية تحت عنوان ""تزييفها حتى تصنعها""[^1] أو الشركة الموقرة التي لا يحصل قسم التسويق فيها على ما يكفي من الفضل في الصفات ذات المستوى العالمي المشروعة، لأنها أصبحت طبيعة ثانية لدرجة أنه لا يخطر ببالهم التفاخر بها.
 
-[^1]: Again with the rhyming?
+[^1]: مرة أخرى مع القافية؟
 
-Plotting items on a "talk" vs "walk" chart is not only useful in analyzing current-state, but also in uncovering ways that both the Marketing and Product groups can sell better and create better products.
+إن رسم العناصر على مخطط "الحديث" مقابل "المشي" ليس مفيدًا فقط في تحليل الحالة الحالية، ولكن أيضًا في الكشف عن الطرق التي يمكن من خلالها لمجموعتي التسويق والمنتجات البيع بشكل أفضل وإنشاء منتجات أفضل.
 
-## The method
+## الطريقة
 
-### Write-storming ideas
+### أفكار عاصفة الكتابة
 
-Using a whiteboard,[^2] set up a vertical axis called "**Talk**: How much/loudly do we claim this" and a horizontal axis called "**Walk**: How well do we pay this off in practice." (Figure 1)
+باستخدام السبورة البيضاء،[^2] قم بإعداد محور رأسي يسمى "**التحدث**: إلى أي مدى/بصوت عالٍ نطالب بهذا" ومحورًا أفقيًا يسمى "**المشي**: إلى أي مدى نحقق هذا الهدف عمليًا." (الشكل 1)
 
-[^2]: Likely virtual nowadays, e.g. Miro, LucidChart, or even Google Slides; something where folks can easily create and drag around "cards," and see the results immediately.
+[^2]: من المحتمل أن تكون افتراضية هذه الأيام، على سبيل المثال. Miro أو LucidChart أو حتى Google Slides؛ شيء يمكن للأشخاص من خلاله إنشاء "البطاقات" وسحبها بسهولة ورؤية النتائج على الفور.
 
 ![The two axes of the Talk/Walk Framework](https://public.asmartbear.com/books/anthology/chapters/talk-vs-walk/talk-walk-simple.png)
 
-Then, independently write-storm:[^3] Create "sticky notes" and place them wherever each person believes they should go on the chart. You could even allow several days, giving people time to think and to schedule the thinking during periods when their brains and work-environments are most effective at tackling such projects.
+بعد ذلك، قم بالكتابة بشكل مستقل:[^3] أنشئ "ملاحظات لاصقة" وضعها في المكان الذي يعتقد كل شخص أنه يجب وضعه على الرسم البياني. يمكنك أيضًا السماح لعدة أيام، مما يتيح للأشخاص الوقت للتفكير وجدولة التفكير خلال الفترات التي تكون فيها أدمغتهم وبيئات عملهم أكثر فعالية في التعامل مع مثل هذه المشاريع.
 
-[^3]: **Do not brain-storm items one-by-one.** In live brain-storming the conversations follows the fastest and loudest people, rather than leveraging everyone's brains to invent different ideas. Live brainstorming filters out ideas that take longer than a few minutes to think of. Live brainstorming eliminates the possibility of having an "ah-ha" moment in the shower. "There is not a single published study in which a face-to-face brainstorming group outperforms a [write-storming] group" observes Leigh Thompson in _[Creative Conspiracy](https://www.amazon.com/Creative-Conspiracy-Rules-Breakthrough-Collaboration/dp/1422173348?tag=wwwfccom-20)_. [Recent research](https://www.nature.com/articles/s41586-022-04643-y) suggests that people are less creative in generating ideas over video-conferencing versus in-person; write-storming restores the creativity because it's independent, even if the discussion is over Zoom.
+[^3]: **لا تقم بطرح الأفكار واحدًا تلو الآخر.** في العصف الذهني المباشر، تتبع المحادثات الأشخاص الأسرع والأعلى صوتًا، بدلاً من الاستفادة من أدمغة الجميع لابتكار أفكار مختلفة. يقوم العصف الذهني المباشر بتصفية الأفكار التي تستغرق وقتًا أطول من بضع دقائق للتفكير فيها. العصف الذهني المباشر يلغي إمكانية الحصول على لحظة "آه ها" أثناء الاستحمام. "لا توجد دراسة منشورة واحدة تتفوق فيها مجموعة العصف الذهني وجهًا لوجه على مجموعة [العصف الذهني]" لاحظ لي طومسون في _[المؤامرة الإبداعية](https://www.amazon.com/Creative-Conspiracy-Rules-Breakthrough-Collaboration/dp/1422173348?tag=wwwfccom-20)_. تشير [الأبحاث الحديثة](https://www.nature.com/articles/s41586-022-04643-y) إلى أن الناس أقل إبداعًا في توليد الأفكار عبر مؤتمرات الفيديو مقارنةً باللقاء الشخصي؛ عاصفة الكتابة تعيد الإبداع لأنها مستقلة، حتى لو كانت المناقشة عبر Zoom.
 
-Where do ideas come from? Because the exercise is about "what our company claims," obvious sources are the public website, advertisements, public presentations and webinars, quotes from your employees in the media, sales materials, and support materials like knowledge-base articles or copy/paste shortcuts. If you're quoting directly, put the phrase in double-quotes to emphasize that "we really do say this!"
+من أين تأتي الأفكار؟ نظرًا لأن التمرين يدور حول "ما تدعيه شركتنا"، فإن المصادر الواضحة هي موقع الويب العام، والإعلانات، والعروض التقديمية العامة والندوات عبر الإنترنت، والاقتباسات من موظفيك في وسائل الإعلام، ومواد المبيعات، ومواد الدعم مثل المقالات القائمة على المعرفة أو اختصارات النسخ/اللصق. إذا كنت تقتبس بشكل مباشر، ضع العبارة بين علامتي اقتباس للتأكيد على "نحن حقًا نقول هذا!"
 
-There are also the things you're doing that you're *not* talking about. Those things are more difficult to generate. Sources are what you're maintaining (i.e. existing systems owned by some team), work from recent sprints (i.e. work you're actually doing), long-term planning documents (i.e. larger initiatives), and prompts like "What are we really good at?" and "What technology assets or human capabilities have we built up over time?"
+هناك أيضًا الأشياء التي تفعلها والتي *لا* تتحدث عنها. هذه الأشياء أكثر صعوبة في توليدها. المصادر هي ما تحافظ عليه (أي الأنظمة الحالية المملوكة لبعض الفرق)، والعمل من السباقات الأخيرة (أي العمل الذي تقوم به بالفعل)، ووثائق التخطيط طويلة المدى (أي المبادرات الأكبر)، والمطالبات مثل "ما الذي نجيده حقًا؟" و"ما هي الأصول التكنولوجية أو القدرات البشرية التي قمنا ببنائها مع مرور الوقت؟"
 
-The hardest things to think of, are the things you're not talking about and also not doing. Isn't that an infinite number of things? Yes, but it's useful to list things you reasonably *could* say or do, but are intentionally avoiding. One source is backlogs of features requests from customers, support, sales, marketing, product, and engineers; whether you plan to do them eventually or not, they are "items of interest." Another source is key, differentiating things that competitors are saying or doing (whether you're avoiding those things purposefully or reluctantly). Yet another is your own long-term plans for big initiatives you haven't gotten to yet.
+أصعب الأشياء التي يجب التفكير فيها هي الأشياء التي لا تتحدث عنها ولا تفعلها أيضًا. أليس هذا عدد لا نهائي من الأشياء؟ نعم، ولكن من المفيد أن تقوم بإدراج الأشياء التي *يمكنك* أن تقولها أو تفعلها بشكل معقول، ولكنك تتجنبها عمدًا. أحد المصادر هو تراكم طلبات الميزات من العملاء والدعم والمبيعات والتسويق والمنتجات والمهندسين؛ سواء كنت تخطط للقيام بها في النهاية أم لا، فهي "عناصر مثيرة للاهتمام". المصدر الآخر هو المفتاح، وهو التمييز بين الأشياء التي يقولها أو يفعلها المنافسون (سواء كنت تتجنب تلك الأشياء عن قصد أو على مضض). والشيء الآخر هو خططك طويلة المدى للمبادرات الكبيرة التي لم تقم بها بعد.
 
-### Debating placement is one-third the value
+### مناقشة التنسيب هي ثلث القيمة
 
-Come together as a group, take each idea in turn, and debate where it should go on the chart. Coalesce duplicates into a single card; if the duplicates were originally strewn all over the chart, that's even more indication that a discussion is useful. If there's immediate widespread agreement on the right location for a card, skip the discussion to save time.
+اجتمعوا معًا كمجموعة، وأخذوا كل فكرة على حدة، وناقشوا أين يجب أن تظهر على الرسم البياني. دمج التكرارات في بطاقة واحدة؛ إذا كانت التكرارات متناثرة في جميع أنحاء المخطط، فهذا مؤشر أكثر على أن المناقشة مفيدة. إذا كان هناك اتفاق فوري واسع النطاق على الموقع الصحيح للبطاقة، فتخطى المناقشة لتوفير الوقت.
 
-Generally you'll find three sources of disagreements. All three are useful, but in different ways:
+عموما ستجد ثلاثة مصادر للخلافات. الثلاثة كلها مفيدة، ولكن بطرق مختلفة:
 
-#### Lack of knowledge
-"We don't talk about this." "Yes we do, it's in all the sales materials!" "In support, we tell people the opposite." "We say this in sales but not on the website." "We *used* to say that, but not since the latest website revamp."
+#### نقص المعرفة
+"نحن لا نتحدث عن هذا." "نعم، هذا موجود في جميع مواد البيع!" "في الدعم، نقول للناس العكس." "نقول هذا في المبيعات ولكن ليس على الموقع الإلكتروني." "*اعتدنا* أن نقول ذلك، ولكن ليس منذ التجديد الأخير للموقع."
 
-This is a great excuse to get everyone up to speed about what we're saying, and where. If the answer varies (e.g. "we say this a lot on the home page, but nowhere else"), you can place the item more in the middle of the chart, but add a "comment" to record that detail; it will be useful later when you decide how to act on this information.
+وهذا عذر عظيم لجعل الجميع مطلعين على ما نقوله وأين نقوله. إذا كانت الإجابة تختلف (على سبيل المثال، "نقول هذا كثيرًا على الصفحة الرئيسية، ولكن ليس في أي مكان آخر")، يمكنك وضع العنصر أكثر في منتصف المخطط، ولكن أضف "تعليقًا" لتسجيل تلك التفاصيل؛ سيكون مفيدًا لاحقًا عندما تقرر كيفية التصرف بناءً على هذه المعلومات.
 
-#### Disagreement on terminology
-People often interpret the same phrase differently. If you can't agree on what it means internally, imagine how confused customers are! Or a new employee who isn't part of the echo chamber?
+#### الخلاف في المصطلحات
+غالبًا ما يفسر الناس نفس العبارة بشكل مختلف. إذا لم تتمكن من الاتفاق على ما يعنيه ذلك داخليًا، فتخيل مدى حيرة العملاء! أو موظف جديد ليس جزءًا من غرفة الصدى؟
 
-An example will illustrate how this is useful: In a recent exercise at [WP Engine](https://wpengine.com/), multiple people put "Enterprise-Grade Security" on the board. We talk about this constantly, so no one disagreed that it was high on the "talk" axis. But there was disagreement on "walk," ranging from the middle to the far-right.
+سيوضح أحد الأمثلة مدى فائدة ذلك: في تمرين حديث في [WP Engine](https://wpengine.com/)، قام العديد من الأشخاص بوضع "Enterprise-Grade Security" على اللوحة. نتحدث عن هذا باستمرار، فلا يختلف أحد على أنه يحتل مكانة عالية في محور "الحديث". ولكن كان هناك خلاف حول "المشي"، بدءاً من الوسط إلى أقصى اليمين.
 
-But how is this controversial? We're well-known for having the best security in the industry. Our customers include some of the largest security companies and financial institutions in the world, both of which maintain the highest bar for security; we are certified with multiple accreditations; we leverage myriad security products covering every layer of the tech stack; we commission third-party pen-tests for every new product and periodically for all products; we conduct annual company-wide training to guard against social engineering attacks; we have formal written security policies that we actually enforce. With all this, how could you not agree "Security" is 100% on "walking the walk?"
+ولكن كيف يكون هذا مثيرا للجدل؟ نحن معروفون بالحصول على أفضل مستوى أمان في الصناعة. يشمل عملاؤنا بعضًا من أكبر الشركات الأمنية والمؤسسات المالية في العالم، وكلاهما يحافظ على أعلى معايير الأمان؛ نحن معتمدون باعتمادات متعددة؛ نحن نستفيد من عدد لا يحصى من المنتجات الأمنية التي تغطي كل طبقة من طبقات التكنولوجيا؛ نقوم بإجراء اختبارات قلمية من طرف ثالث لكل منتج جديد وبشكل دوري لجميع المنتجات؛ ونقوم بإجراء تدريب سنوي على مستوى الشركة للحماية من هجمات الهندسة الاجتماعية؛ لدينا سياسات أمنية مكتوبة رسمية نقوم بتنفيذها بالفعل. مع كل هذا، كيف لا توافق على أن "الأمن" هو 100% على "المشي في المشي"؟
 
-Turned out, the person who placed it in the middle was specifically thinking about a few items in the backlog that would make a certain corner the platform even more secure. We'd never experienced an incident because of, and there was no reason to believe we would. Still, this person thought, If there's still a few obvious items in the backlog that we *could* do, then we're not yet fully "walking the walk" on security.
+اتضح أن الشخص الذي وضعه في المنتصف كان يفكر على وجه التحديد في بعض العناصر الموجودة في العمل المتراكم والتي من شأنها أن تجعل زاوية معينة من المنصة أكثر أمانًا. لم نتعرض لحادث من قبل بسبب ذلك، ولم يكن هناك سبب للاعتقاد بأننا سنفعل ذلك. ومع ذلك، فكر هذا الشخص، إذا كان لا يزال هناك بعض العناصر الواضحة في الأعمال المتراكمة التي *يمكننا* القيام بها، فإننا لم نقم بعد "بالسير على الأقدام" بشكل كامل فيما يتعلق بالأمن.
 
-A discussion resolved the difference of opinion. We decided that "great security" isn't defined by never having a ticket in the backlog; after all, nearly all software updates contains security patches (check the version history!). That doesn't mean the software wasn't already secure. Indeed, it's the opposite: Being so diligent that we even "fix" things that aren't broken, thinking a few steps ahead, proactively preventing incidents, *is* what *makes* us secure; it's a sign that we are in fact "walking the walk."
+والمناقشة حلت الخلاف في الرأي. لقد قررنا أن "الأمن الرائع" لا يتم تعريفه بعدم وجود تذكرة مطلقًا في الأعمال المتراكمة؛ ففي نهاية المطاف، تحتوي جميع تحديثات البرامج تقريبًا على تصحيحات أمنية (راجع سجل الإصدارات!). هذا لا يعني أن البرنامج لم يكن آمنًا بالفعل. في الواقع، الأمر على العكس من ذلك: أن نكون مجتهدين للغاية لدرجة أننا "نصلح" الأشياء التي لم يتم كسرها، والتفكير بخطوات قليلة للأمام، ومنع وقوع الحوادث بشكل استباقي، *هذا* ما *يجعلنا* آمنين؛ إنها علامة على أننا في الواقع "نسير على الطريق".
 
-The group finally agreed that the ticket belongs on the far right side. The realization, however, was helpful both for the engineers who have a better mental model of "what security means," and for the marketers who have more stories to tell about how excellent our security is.
+اتفقت المجموعة أخيرًا على أن التذكرة تنتمي إلى أقصى الجانب الأيمن. ومع ذلك، كان هذا الإدراك مفيدًا للمهندسين الذين لديهم نموذج ذهني أفضل حول "ما يعنيه الأمان"، وللمسوقين الذين لديهم المزيد من القصص يروونها حول مدى جودة الأمن لدينا.
 
-#### Disagreement on target persona
-Sometimes you realize that a subset of your customers would agree that you're "walking the walk," but others would disagree.
+#### الخلاف على الشخصية المستهدفة
+في بعض الأحيان تدرك أن مجموعة فرعية من عملائك قد توافق على أنك "تسير في الطريق الصحيح"، لكن الآخرين قد يختلفون معك.
 
-For example, perhaps the performance of your product is excellent for most customers, so when you say "fast user interface that never gets in your way," most people would agree. But maybe 2% of your customers have huge amount of data that slows your UI to a crawl. Furthermore, that 2% are important to you--they might be your reference customers, or the ones paying you the most money.
+على سبيل المثال، ربما يكون أداء منتجك ممتازًا بالنسبة لمعظم العملاء، لذلك عندما تقول "واجهة مستخدم سريعة لا تعترض طريقك أبدًا"، فإن معظم الناس يوافقون على ذلك. ولكن ربما يكون لدى 2% من عملائك كمية هائلة من البيانات التي تؤدي إلى إبطاء واجهة المستخدم الخاصة بك إلى حد الزحف. علاوة على ذلك، فإن نسبة 2% مهمة بالنسبة لك - فقد يكونون عملائك المرجعيين، أو أولئك الذين يدفعون لك أكبر قدر من المال.
 
-What do you do in these fractured circumstances? A simple technique is to place the item in a sort of "weighted" location. So e.g. if 80% of your customers (by revenue) would consider this completely "walking the walk," but 20% would say it's pretty low, perhaps you place the item at 80%. However, add a comment to the sticky-note explaining this detail; it will be useful later when you decide what actions you want to take.
+ماذا تفعل في هذه الظروف الممزقة؟ الأسلوب البسيط هو وضع العنصر في مكان "مرجح". لذلك على سبيل المثال. إذا كان 80% من عملائك (من حيث الإيرادات) يعتبرون هذا الأمر "سيرًا على الأقدام" تمامًا، لكن 20% سيقولون إنه منخفض جدًا، فربما تضع العنصر عند 80%. ومع ذلك، أضف تعليقًا إلى الملاحظة اللاصقة يشرح هذه التفاصيل؛ سيكون مفيدًا لاحقًا عندما تقرر الإجراءات التي تريد اتخاذها.
 
-Another technique is to split the item. So e.g. "Fast UI (for customers <100 properties)" and also "Fast UI (for customers with ≥100 properties)." Then place them independently.
+أسلوب آخر هو تقسيم العنصر. لذلك على سبيل المثال. "واجهة المستخدم السريعة (للعملاء الذين لديهم أقل من 100 فندق)" وأيضًا "واجهة المستخدم السريعة (للعملاء الذين لديهم أكثر من 100 فندق)." ثم ضعهم بشكل مستقل.
 
-If you have different, distinct target personas, you might find a lot of the cards are being split. In this case, consider making two different charts altogether, i.e. one for "Talk vs Walk for Persona A" and the other "Talk vs Walk for Persona B." This is easier to read and to act on.
+إذا كان لديك شخصيات مستهدفة مختلفة ومتميزة، فقد تجد أن الكثير من البطاقات يتم تقسيمها. في هذه الحالة، فكر في إنشاء مخططين مختلفين تمامًا، أي واحد لـ "Talk vs Walk for Persona A" والآخر "Talk vs Walk for Persona B". هذا أسهل في القراءة والعمل به.
 
-## Taking action
+## اتخاذ الإجراءات
 
-Just having these discussions is valuable, but most of the value is in doing something with the resulting chart.
+يعد مجرد إجراء هذه المناقشات أمرًا ذا قيمة، ولكن القيمة الأكبر تكمن في القيام بشيء ما بالمخطط الناتج.
 
-In general the question is: Is it useful to take action to shift cards in various directions? It's useful to consider this by quadrant (Figure 2), because those items have different *status quo* interpretations.
+بشكل عام السؤال هو: هل من المفيد اتخاذ إجراءات لتحويل البطاقات في اتجاهات مختلفة؟ من المفيد النظر في ذلك حسب الربع (الشكل 2)، لأن هذه العناصر لها تفسيرات مختلفة *للوضع الراهن*.
 
 ![The four quadrants of the Talk/Walk Framework](https://public.asmartbear.com/books/anthology/chapters/talk-vs-walk/talk-walk-2-simple.png)
 
-### Quadrant A: Exaggerations
+### الربع أ: المبالغات
 
-These are the original source of the line "you talk the talk but you don't walk the walk." When you're "faking it 'till you make it," but still just faking it. What to do?
+هذه هي المصدر الأصلي للسطر "أنت تتحدث بالحديث ولكنك لا تمشي". عندما تقوم "بتزييف الأمر حتى تتمكن من تحقيقه،" ولكنك لا تزال تتظاهر بذلك. ما يجب القيام به؟
 
-#### Do nothing (ethically)
-We understand our claims are tenuous. We should ensure that our exaggeration is not unethical, e.g. claiming a medical benefit that does not exist, or charging for a feature that does not work.
+#### لا تفعل شيئًا (أخلاقيًا)
+نحن نفهم أن مطالباتنا واهية. يجب أن نتأكد من أن مبالغتنا ليست غير أخلاقية، على سبيل المثال. المطالبة بميزة طبية غير موجودة، أو فرض رسوم مقابل ميزة لا تعمل.
 
-#### Live up to your own expectations (shift →)
-This message is resonating, and is a critical to our positioning. But if it's so critical, we have to back it up with reality! We'll build and ship specific things in the next six months that will allow us to shift these sticky-notes rightward to meet our customers' expectations.
+#### ترقى إلى مستوى توقعاتك الخاصة (التحول →)
+هذه الرسالة لها صدى وهي حاسمة في تحديد موقعنا. ولكن إذا كان الأمر بالغ الأهمية، فعلينا أن ندعمه بالواقع! سنقوم ببناء وشحن أشياء محددة في الأشهر الستة المقبلة والتي ستسمح لنا بتحويل هذه الملاحظات اللاصقة إلى اليمين لتلبية توقعات عملائنا.
 
-#### Don't write checks you can't cash (shift ↓)
-We're attracting the wrong sort of customers--people who expect something we don't deliver. As a result they waste time in customer service and then cancel anyway--a net loss for us, and a terrible experience for them. We're not even getting useful product feedback, because we're interviewing people who aren't our target persona. Let's stop saying these things.
+#### لا تكتب شيكات لا يمكنك صرفها (التحويل ↓)
+نحن نجذب النوع الخاطئ من العملاء - الأشخاص الذين يتوقعون شيئًا لا نقدمه. ونتيجة لذلك، فإنهم يضيعون الوقت في خدمة العملاء ثم يلغون الخدمة على أية حال - وهي خسارة صافية بالنسبة لنا، وتجربة رهيبة بالنسبة لهم. نحن لا نحصل حتى على تعليقات مفيدة حول المنتج، لأننا نجري مقابلات مع أشخاص ليسوا شخصيتنا المستهدفة. دعونا نتوقف عن قول هذه الأشياء.
 
-### Quadrant B: The trusted brand
+### الربع ب: العلامة التجارية الموثوقة
 
-Trust is earned by repeatedly keeping your promises; that's what's happening in this quadrant. This is your brand, because it's what you say and also what customers actually experience. This is a strength, because everything is constructively aligned. What to do?
+يتم اكتساب الثقة من خلال الوفاء بوعودك بشكل متكرر؛ هذا ما يحدث في هذا الربع. هذه هي علامتك التجارية، لأنها ما تقوله وأيضًا ما يختبره العملاء فعليًا. هذه قوة، لأن كل شيء متسق بشكل بناء. ما يجب القيام به؟
 
-#### Do nothing
-We're doing well here, but doing incrementally better will not win us more customers (i.e. [Kano](https://foldingburritos.com/blog/kano-model) "must-be" or "indifferent"). Therefore, we should track our performance on this item as a KPI, but rather than continue investing to maximize it, we should only promise that it won't fall below some minimum threshold of acceptability. This ensures we won't unintentionally lose this advantage. Instead, focus our attention on accumulating more strengths, or mitigating some issue.
+#### لا تفعل شيئا
+نحن نقوم بعمل جيد هنا، ولكن العمل بشكل أفضل بشكل متزايد لن يكسبنا المزيد من العملاء (على سبيل المثال، [Kano](https://foldingburritos.com/blog/kano-model) "يجب أن يكون" أو "غير مبال"). ولذلك، يجب علينا تتبع أدائنا بشأن هذا العنصر كمؤشر أداء رئيسي، ولكن بدلاً من الاستمرار في الاستثمار لتعظيمه، يجب علينا فقط أن نعد بأنه لن يقل عن الحد الأدنى من المقبولية. وهذا يضمن أننا لن نفقد هذه الميزة عن غير قصد. وبدلاً من ذلك، نركز اهتمامنا على تجميع المزيد من نقاط القوة، أو تخفيف بعض المشكلات.
 
-#### Leverage strength for sales (shift ↑)
-Can we make even more fuss about how awesome we are? More confident competitive positioning, leveraged in advertising, more content marketing on the subject, emphasized more in sales processes, highlighted more in the product UI. We might even be able to make sales by [emphasizing one strength above all others](https://longform.asmartbear.com/one-benefit/).
+#### قوة الرفع للمبيعات (التحول ↑)
+هل يمكننا إثارة المزيد من الضجة حول مدى روعتنا؟ تموضع تنافسي أكثر ثقة، يتم الاستفادة منه في الإعلانات، والمزيد من تسويق المحتوى حول هذا الموضوع، ويتم التركيز عليه بشكل أكبر في عمليات المبيعات، ويتم تسليط الضوء عليه بشكل أكبر في واجهة مستخدم المنتج. قد نتمكن أيضًا من تحقيق المبيعات من خلال [التأكيد على قوة واحدة فوق كل القوى الأخرى](https://longform.asmartbear.com/one-benefit/).
 
-#### Double-down on strength (shift →)
-It's often wise to invest more in what's already working, especially early in a product's life when it's hard to have even one thing that is special, or a [reason to buy despite its many deficiencies](https://longform.asmartbear.com/the-important-thing/). This only works when customers value the additional investment (i.e. [Kano](https://foldingburritos.com/blog/kano-model) "attractive" or "performance"), but if that's the case, it might be the most strategic thing you can do.
+#### مضاعفة القوة (التحول →)
+غالبًا ما يكون من الحكمة الاستثمار أكثر في ما ينجح بالفعل، خاصة في وقت مبكر من عمر المنتج عندما يكون من الصعب الحصول حتى على شيء واحد مميز، أو [سبب للشراء على الرغم من أوجه القصور العديدة](https://longform.asmartbear.com/the-important-thing/). ينجح هذا فقط عندما يقدر العملاء الاستثمار الإضافي (أي [Kano](https://foldingburritos.com/blog/kano-model) "جذاب" أو "أداء")، ولكن إذا كان الأمر كذلك، فقد يكون هذا هو الشيء الأكثر إستراتيجية الذي يمكنك القيام به.
 
-#### Pivot (shift ↓)
-While it's unusual to jettison a strength, it makes sense if the company is pivoting: Changing its target, or how its brand and product is positioned against the competition.
+#### المحور (التحول ↓)
+في حين أنه من غير المعتاد التخلص من نقطة قوة، فمن المنطقي أن تقوم الشركة بالتمحور: تغيير هدفها، أو كيفية وضع علامتها التجارية ومنتجها في مواجهة المنافسة.
 
-### Quadrant C: Speak no evil
+### الربع ج: لا تتكلم بالشر
 
-Often there's not much in this quadrant, because it's easier to think of things you're saying and doing, and these are neither. However, it's valuable to list "things we know are weaknesses" or "things we're saying 'no' to," especially if it's a common topic of conversation at the office, or if a competitor is successfully talking and walking that item.
+في كثير من الأحيان لا يوجد الكثير في هذا الربع، لأنه من الأسهل التفكير في الأشياء التي تقولها وتفعلها، ولكن هذا ليس كذلك. ومع ذلك، فمن المفيد إدراج "الأشياء التي نعرف أنها نقاط ضعف" أو "الأشياء التي نقول "لا" لها"، خاصة إذا كان موضوعًا شائعًا للمحادثة في المكتب، أو إذا كان أحد المنافسين يتحدث ويتعامل مع هذا العنصر بنجاح.
 
-#### Do nothing
-This is the correct answer for nearly everything here. It's expensive and high-risk to turn a weakness into a strength; your energy is probably better spend executing on your current promises and doubling-down on strengths.
+#### لا تفعل شيئا
+هذه هي الإجابة الصحيحة لكل شيء تقريبًا هنا. إن تحويل نقطة الضعف إلى قوة أمر مكلف وشديد الخطورة؛ من الأفضل أن تنفق طاقتك في تنفيذ وعودك الحالية ومضاعفة نقاط قوتك.
 
-#### Turn it around (shift →)
-If this is truly a key area that is critical to succeed in the market--which is another way of saying "strategic"--then this is a weakness to highlight, and to invest in. Should you shift it up (start talking publicly) before you've shifted it right (pay off the claims)? Probably not: You tip your hand to competitors, allowing them to react before you can defend. You also set incorrect expectations for customers; later when you really *can* pay off your words, you've already trained them to disbelieve you. Conversely, talking first can freeze the market,[^4] but only if your market leadership position is so strong that a press release actually does change market behavior. Unlikely.
+#### اقلبها (التحول →)
+إذا كان هذا حقًا مجالًا رئيسيًا بالغ الأهمية للنجاح في السوق - وهي طريقة أخرى لقول "استراتيجي" - فهذه نقطة ضعف يجب تسليط الضوء عليها والاستثمار فيها. هل يجب عليك تغييرها (البدء في التحدث علنًا) قبل تحويلها بشكل صحيح (تسديد المطالبات)؟ ربما لا: فأنت ترفع يدك للمنافسين، مما يسمح لهم بالرد قبل أن تتمكن من الدفاع. كما أنك تضع توقعات غير صحيحة للعملاء؛ لاحقًا، عندما تتمكن حقًا من سداد كلماتك، تكون قد دربتهم بالفعل على عدم تصديقك. على العكس من ذلك، فإن التحدث أولاً يمكن أن يؤدي إلى تجميد السوق،[^4] ولكن فقط إذا كان مركزك القيادي في السوق قويًا جدًا بحيث يؤدي البيان الصحفي إلى تغيير سلوك السوق بالفعل. من غير المحتمل.
 
-[^4]: "The U.S. District Court ... suggested barring Microsoft from making vaporware announcements because doing so can allegedly freeze the market and discourage buyers from purchasing competing products. ... 'I feel very sure there have been many times when Microsoft has announced products to freeze the market, [but] lots of companies have done that,' Kertzman said."--[Computer World, 1995](https://books.google.com/books?id=jNkvgvGj198C&pg=PA2&lpg=PA2&dq=meaning+of+%22freeze+the+market%22+press+release&source=bl&ots=SZXMvh35zf&sig=ACfU3U1H306Av97xzkykJFEKXgOzi9Gogg&hl=en&sa=X&ved=2ahUKEwjX_JGf4fv3AhVsBDQIHYWoAN8Q6AF6BAgfEAM)
+[^4]: "اقترحت المحكمة الجزئية الأمريكية ... منع Microsoft من إصدار إعلانات عن البرامج البخارية لأن القيام بذلك يمكن أن يؤدي إلى تجميد السوق وتثبيط المشترين عن شراء المنتجات المنافسة. ... 'أشعر على يقين تام أنه كانت هناك مرات عديدة أعلنت فيها Microsoft عن منتجات لتجميد السوق، [لكن] الكثير من الشركات فعلت ذلك،" قال كيرتزمان." --[عالم الكمبيوتر،" 1995](https://books.google.com/books?id=jNkvgvGj198C&pg=PA2&lpg=PA2&dq=meaning+of+%22freeze+the+market%22+press+release&so urce=bl&ots=SZXMvh35zf&sig=ACfU3U1H306Av97xzkykJFEKXgOzi9Gogg&hl=en&sa=X&ved=2ahUKEwjX_JGf4fv3AhVsBDQIHYWoAN8Q6AF6BAgfEAM)
 
-### Quadrant D: The strong, silent type
+### الربع د: النوع القوي الصامت
 
-If you are excellent, why not get credit for it?
+إذا كنت ممتازا، لماذا لا تحصل على الفضل في ذلك؟
 
-#### Do nothing
-There might be a good reason for not making a fuss. It could be a trade secret that you don't want competitors knowing about (but you could brag that a trade secret is part of the magic that makes you different). It could be "boring" internal operational stuff (but customers might be comforted knowing that you're operationally advanced, and a tech blog is a recruiting tool).
+#### لا تفعل شيئا
+قد يكون هناك سبب وجيه لعدم إثارة ضجة. يمكن أن يكون سرًا تجاريًا لا تريد أن يعرفه المنافسون (لكن يمكنك التفاخر بأن السر التجاري هو جزء من السحر الذي يجعلك مختلفًا). يمكن أن تكون أمور تشغيلية داخلية "مملة" (ولكن قد يشعر العملاء بالارتياح عندما يعلمون أنك متقدم من الناحية التشغيلية، وأن مدونة التكنولوجيا هي أداة توظيف).
 
-#### Talk about it (shift ↑)
-Even if this is a secondary or tertiary message, it's nice to arm sales with more material, or test it in advertising, or make a landing page for the subset of customers who would be impressed.
+#### تحدث عن ذلك (التحول ↑)
+حتى لو كانت هذه رسالة ثانوية أو ثالثة، فمن الجيد تسليح المبيعات بمزيد من المواد، أو اختبارها في الإعلانات، أو إنشاء صفحة مقصودة لمجموعة فرعية من العملاء الذين قد ينالون إعجابهم.
 
-## Application to competitive strategy
+## التطبيق على الاستراتيجية التنافسية
 
-Turn the tables on your competition to reveal more insights.
+اقلب الطاولة على منافسيك لتكشف عن المزيد من الأفكار.
 
 ![vendors one sells balloons the other sharp little pins](https://public.asmartbear.com/books/anthology/chapters/talk-vs-walk/d7904print-simple.png)
 
-### Adding the competition to both charts
+### إضافة المنافسة إلى كلا المخططين
 
-Build the Talk/Walk chart for a competitor.
+أنشئ مخطط الحديث/المشي للمنافس.
 
-Place a copy of your cards onto their board. There might be a lot in quadrant C ("Speak no Evil").
+ضع نسخة من بطاقاتك على اللوحة الخاصة بهم. قد يكون هناك الكثير في الربع C ("لا تتحدث بالشر").
 
-Then create the new cards that makes sense for them. These prompts help generate ideas:
+ثم قم بإنشاء البطاقات الجديدة التي تناسبهم. تساعد هذه المطالبات في توليد الأفكار:
 
-* What do they emphasize (big or bold font) on their home page, "pricing" page, and "about us" page?
-* What main features do they highlight on their "features" page?
-* On what points do you lose to them in sales? Which are they legitimately great at, versus which are they just really good at selling?
-* On what points do you beat them in sales? For which do they deserve it, versus which are you just good at claiming?
-* What do their customers say about them (e.g. on Twitter or testimonials)?
-* What do your customers say about them (e.g. when complaining or asking for features, do they reference the competition?)
-* If you were making an investor pitch on their behalf, what would you say? How much of that would be true, versus aspirational?
-* What cultural or moral principles do they or their founder or their CEO publicly espouse?
+* ما الذي يؤكدون عليه (الخط الكبير أو الغامق) في صفحتهم الرئيسية، وصفحة "التسعير"، وصفحة "نبذة عنا"؟
+* ما هي الميزات الرئيسية التي يسلطون الضوء عليها في صفحة "الميزات" الخاصة بهم؟
+* ما هي النقاط التي تخسرها لهم في المبيعات؟ ما هي الأشياء التي يجيدونها بشكل شرعي، مقابل ما هي الأشياء التي يجيدونها حقًا في البيع؟
+* ما هي النقاط التي تغلبت عليهم في المبيعات؟ ما الذي يستحقونه، مقابل ما الذي تجيد المطالبة به؟
+* 
+* ماذا يقول عملاؤك عنهم (على سبيل المثال، عند تقديم شكوى أو طلب ميزات، هل يشيرون إلى المنافسة؟)
+* إذا كنت ستقدم عرضًا مستثمرًا نيابةً عنهم، فماذا ستقول؟ إلى أي مدى سيكون ذلك صحيحًا، مقابل الطموح؟
+* ما هي المبادئ الثقافية أو الأخلاقية التي يتبناها هم أو مؤسسهم أو مديرهم التنفيذي علنًا؟
 
-Whatever new cards you add to their chart, also add to your own chart, even if it mostly creates a pile in quadrant C. This is where it gets interesting.
+مهما كانت البطاقات الجديدة التي تضيفها إلى مخططها، أضفها أيضًا إلى مخططك الخاص، حتى لو كان ذلك يؤدي في الغالب إلى إنشاء كومة في الربع C. وهذا هو المكان الذي يصبح فيه الأمر مثيرًا للاهتمام.
 
-### Analyzing the competitor's strengths
+### تحليل نقاط القوة لدى المنافس
 
-It's especially instructive to compare your competitor's strengths to everything on your board. Place their strengths onto your board in a unique color, i.e. evaluating whether you also talk about those things or not, or you also do those things or not. Every quadrant is actionable:
+من المفيد بشكل خاص مقارنة نقاط قوة منافسك بكل شيء على لوحتك. ضع نقاط قوتها على لوحتك بلون فريد، أي قم بتقييم ما إذا كنت تتحدث أيضًا عن تلك الأشياء أم لا، أو أنك تفعل هذه الأشياء أيضًا أم لا. كل ربع قابل للتنفيذ:
 
-#### Quadrant A: Exaggerating against their strength
-You're both making a claim, but only your competitor is fulfilling that promise. Over time this erodes your brand; potential customers start dismissing you, saying "Yeah, everyone claims to have X, but only P really does X." You were already claiming something ahead of having it, and now the competitor is exposing your little fibs.
+#### الربع أ: المبالغة في تقدير قوتهم
+كلاكما يقدم مطالبة، لكن منافسك فقط هو الذي يفي بهذا الوعد. مع مرور الوقت يؤدي هذا إلى تآكل علامتك التجارية؛ يبدأ العملاء المحتملون في رفضك قائلين "نعم، الجميع يدعي أنه يمتلك X، ولكن P فقط هو الذي يمتلك X حقًا." لقد كنت تطالب بشيء ما قبل الحصول عليه، والآن يكشف المنافس عن أكاذيبك الصغيرة.
 
-Before you decide to knuckle down and match the competitor strength-for-strength, critically consider whether you want to run a race where you're starting out behind. Do you have what it takes in long-term will-power, and investment in time and skill, not only to catch up to where they are today, but to where they will be in another year? Will the result of that expensive and risky activity pay off enough to be worth it? Occasionally the answer is "yes," but usually the answer should be "no, let's move this card downward--stop making this claim--and instead focus on increasing our differentiating advantages in Quadrant B, where *we* are the ones in the lead."
+قبل أن تقرر الاستسلام ومضاهاة قوة المنافس بالقوة، فكر بشكل نقدي فيما إذا كنت تريد إجراء سباق حيث تبدأ في الخلف. هل لديك ما يلزم من قوة الإرادة على المدى الطويل، والاستثمار في الوقت والمهارة، ليس فقط للحاق بما هم عليه اليوم، ولكن أيضًا إلى ما سيكونون عليه في عام آخر؟ هل ستؤتي نتيجة هذا النشاط المكلف والمحفوف بالمخاطر ثمارًا كافية لتستحق العناء؟ في بعض الأحيان تكون الإجابة "نعم"، ولكن عادةً ما يجب أن تكون الإجابة "لا، فلنحرك هذه البطاقة إلى الأسفل - توقف عن تقديم هذا الادعاء - وبدلاً من ذلك نركز على زيادة مزايانا التفاضلية في المربع ب، حيث *نحن* نحن من في المقدمة."
 
-#### Quadrant B: Table-stakes; find the differentiation
-You're both doing well here. Perhaps these topics are considered "table-stakes" for any competitor in the market. That's not a problem, but neither is it an advantage for you. Table-stakes are important to maintain, but it's a mistake to over-invest in them at the expense of things that differentiate you, or at the expense of the few key weaknesses that you're converting into strengths.
+#### الربع ب: حصص الطاولة؛ العثور على التمايز
+كلاكما بخير هنا. ولعل هذه المواضيع تعتبر "رهانات" لأي منافس في السوق. هذه ليست مشكلة، ولكنها ليست ميزة بالنسبة لك. من المهم الحفاظ على الرهانات على الطاولة، ولكن من الخطأ الإفراط في الاستثمار فيها على حساب الأشياء التي تميزك، أو على حساب نقاط الضعف الرئيسية القليلة التي تحولها إلى نقاط قوة.
 
-Your comparative advantages are the cards in this quadrant that *aren't* shared with the competitor. Do you have a significant set of those cards? If not, inventing some might be the single most strategic thing you could do.
+المزايا النسبية الخاصة بك هي البطاقات الموجودة في هذا الربع والتي *لا* تتم مشاركتها مع المنافس. هل لديك مجموعة كبيرة من تلك البطاقات؟ إذا لم يكن الأمر كذلك، فإن اختراع بعضها قد يكون الشيء الأكثر استراتيجية الذي يمكنك القيام به.
 
-#### Quadrant C: It's not your thing, and that's OK
-This is where your competitor is differentiated against you. It's easy to get discouraged or think this is a problem; it's not. The only problem is if you don't have your own [unique strengths](https://longform.asmartbear.com/worse-but-unique/). If you both have your own strengths, that's just defines your respective niches, which is useful to recognize.
+#### الربع ج: هذا ليس من اختصاصك، ولا بأس بذلك
+هذا هو المكان الذي يتم فيه تمييز منافسك ضدك. من السهل أن تشعر بالإحباط أو تعتقد أن هذه مشكلة؛ ليست كذلك. المشكلة الوحيدة هي إذا لم تكن لديك [نقاط قوة فريدة] (https://longform.asmartbear.com/worse-but-unique/). إذا كان لدى كل منكما نقاط قوة خاصة به، فهذا يحدد فقط مجالاته الخاصة، وهو أمر مفيد للتعرف عليه.
 
-As with Quadrant A, it's highly unlikely that you should attempt to "turn it around" and become strong where your competitor is already strong. But, if there's one item that's truly important to win, you could set that intention. Just know that you can't have more than one or two of those at a time, and often you'll only get to mediocre, not a strength. It surely must be [treated as a Rock](https://longform.asmartbear.com/rocks-pebbles-sand/).
+كما هو الحال مع الربع أ، فمن المستبعد جدًا أن تحاول "تغيير الوضع" وتصبح قويًا حيث يكون منافسك قويًا بالفعل. ولكن، إذا كان هناك عنصر واحد مهم حقًا للفوز به، فيمكنك تحديد هذه النية. فقط اعلم أنه لا يمكنك الحصول على أكثر من واحد أو اثنين من هؤلاء في وقت واحد، وغالبًا ما ستحصل على مستوى متوسط ​​فقط، وليس قوة. من المؤكد أنه يجب [معاملتها كصخرة](https://longform.asmartbear.com/rocks-pebbles-sand/).
 
-#### Quadrant D: Don't give them a free pass
-You're letting your competitor take all the credit, even though you're just as good. Change that! Sure, you'll probably just match them, not create a new differentiated advantage, but since you've already done the work to be excellent in this area, don't give them an uncontested win in sales calls.
+#### الربع د: لا تمنحهم تصريح مرور مجاني
+أنت تسمح لمنافسك بالحصول على كل الفضل، على الرغم من أنك جيد بنفس القدر. تغيير ذلك! بالتأكيد، من المحتمل أن تقوم فقط بمطابقتهم، وليس إنشاء ميزة مميزة جديدة، ولكن نظرًا لأنك قمت بالفعل بالعمل لتكون ممتازًا في هذا المجال، فلا تمنحهم فوزًا بلا منازع في مكالمات المبيعات.
 
 ---
 
-I hope this exercise is as useful to you as it has been for us!
+آمل أن يكون هذا التمرين مفيدًا لك كما كان بالنسبة لنا!

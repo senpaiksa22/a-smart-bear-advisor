@@ -20,67 +20,54 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** إيصال القيم الحقيقية لشركتك: أثبتها بالأفعال بدلاً من الثرثرة التسويقية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Communicating Values: Show, don't Tell
-
-> **Executive Summary:** Authentic values shine through actions, not marketing buzzwords.
-> **Original URL:** [https://longform.asmartbear.com/show-dont-tell/](https://longform.asmartbear.com/show-dont-tell/)
-
-A common marketing exercise tells us to [list all the adjectives](http://www.smallbusinessadvocate.com/small-business-articles/modify-your-business-with-adjectives-195) we want customers to associate with our company or product. The result often looks like this (real slide, source withheld to protect the guilty):
+يخبرنا تمرين تسويقي شائع [بإدراج جميع الصفات](http://www.smallbusinessadvocate.com/small-business-articles/modify-your-business-with-adjectives-195) الذي نريد أن يرتبط العملاء بشركتنا أو منتجنا. غالبًا ما تبدو النتيجة كما يلي (شريحة حقيقية، تم حجب المصدر لحماية المذنب):
 
 ![required brand adjectives](https://longform.asmartbear.com/show-dont-tell/79fef504.png)
 
-Already I'm cringing at the size and scope of the list, but the real problem comes when the marketing department plays [Mad Libs:](http://www.madlibs.com/)
+أنا بالفعل منزعج من حجم القائمة ونطاقها، ولكن المشكلة الحقيقية تأتي عندما يلعب قسم التسويق دور [Mad Libs:](http://www.madlibs.com/)
 
-> Sun GlassFish™ Enterprise Server is easy to use, fast, and scalable ... easy to download, develop, and deploy ... facilitating robust, highly-available, and cost-effective services. [*(source)*](http://tinyurl.com/ctveb9)
+> يعد Sun GlassFish™ Enterprise Server سهل الاستخدام وسريعًا وقابلًا للتطوير... وسهل التنزيل والتطوير والنشر... مما يسهل خدمات قوية ومتاحة للغاية وفعالة من حيث التكلفة. [*(المصدر)*](http://tinyurl.com/ctveb9)
 
-The product description above is *prima facie* false. In all your experience with computers and software, have you ever experienced a system that truly embodied every one of those attributes? No trade-offs, no compromise? A-plus-plus on every count?
+وصف المنتج أعلاه هو *ظاهر للوهلة الأولى* زائف. في كل تجربتك مع أجهزة الكمبيوتر والبرامج، هل سبق لك أن واجهت نظامًا يجسد حقًا كل واحدة من هذه السمات؟ لا مقايضة ولا تسوية؟ A-plus-plus في كل حساب؟
 
-Of course not. Since I don't know which of these claims are true, now I distrust them all. And you haven't communicated anything tangible. Fail.
+بالطبع لا. وبما أنني لا أعرف أيًا من هذه الادعاءات صحيح، فأنا الآن لا أثق بها جميعًا. وأنت لم تنقل أي شيء ملموس. يفشل.
 
-**The cardinal rule of authenticity and believability is that [actions speak louder than words](https://longform.asmartbear.com/hello-support/).** A corollary is that if you have to tell me something's true, I automatically don't believe you. If you're honest, you don't walk around saying "[Hey, did you know I'm honest?](https://longform.asmartbear.com/outside-in/)"
+**القاعدة الأساسية للأصالة والمصداقية هي أن [الأفعال تتحدث بصوت أعلى من الكلمات](https://longform.asmartbear.com/hello-support/).** والنتيجة الطبيعية هي أنه إذا كان عليك أن تخبرني أن شيئًا ما صحيح، فأنا تلقائيًا لا أصدقك. إذا كنت صادقًا، فلا تتجول قائلة "[مرحبًا، هل تعلم أنني صادق؟](https://longform.asmartbear.com/outside-in/)"
 
-Your "values" aren't words to be shoe-horned into tag-lines or stapled onto [disingenuous mission statements](http://www.37signals.com/svn/posts/1676-the-difference-between-truly-standing-for-something-and-a-mission-statement). Values are the reason for your actions, the theme behind your words, and the underlying consistency in how you do business.
+"قيمك" ليست كلمات يمكن لصقها في سطور علامات أو تدبيسها في [بيانات المهمة المخادعة](http://www.37signals.com/svn/posts/1676-the-difference-between-truly-standing-for-something-and-a-mission-statement). القيم هي سبب تصرفاتك، والموضوع الكامن وراء كلماتك، والاتساق الأساسي في كيفية قيامك بأعمالك.
 
-Hollywood actors call this "motivation." A character's motivation is the secret reason why she is angry or depressed or indifferent. A common technique is to invent a back-story--construct a detailed account of how the character has gotten to this point in life.
+يطلق ممثلو هوليود على هذا "الدافع". دافع الشخصية هو السبب السري الذي يجعلها غاضبة أو مكتئبة أو غير مبالية. أحد الأساليب الشائعة هو اختراع قصة خلفية، أي إنشاء وصف تفصيلي لكيفية وصول الشخصية إلى هذه النقطة في الحياة.
 
-You don't publish the back-story. You don't come out and say "Darth Vader is disillusioned with the notion of a Republic." Explanation ruins everything!
+أنت لا تنشر القصة الخلفية. لا تخرج وتقول "دارث فيدر يشعر بخيبة أمل من فكرة الجمهورية". التفسير يفسد كل شيء!
 
-Apple has mastered the art of demonstrating values without words. Apple has values like "design is paramount," "form over function," and even "Apple is cool." But an iPod wouldn't be cool if some corporation claimed it was. Listing features/benefits wouldn't communicate that either.
+لقد أتقنت شركة Apple فن إظهار القيم بدون كلمات. لدى Apple قيم مثل "التصميم له أهمية قصوى"، و"الشكل فوق الوظيفة"، وحتى "Apple رائعة". لكن جهاز iPod لن يكون رائعًا إذا ادعت بعض الشركات أنه كذلك. ميزات/فوائد القائمة لن تنقل ذلك أيضًا.
 
-This does: (Yeah this clip is dated, but remember how amazing it was?)
+يؤدي هذا إلى: (نعم، هذا المقطع قديم، لكن هل تتذكر كم كان رائعًا؟)
 
 {{<youtube id="MTs5pOn7XFU" >}}
 
-How would "standard" marketing machinery portray these "features and benefits?"
+كيف يمكن لآلية التسويق "المعيارية" أن تصور هذه "الميزات والفوائد"؟
 
 {{<youtube id="EUXnJraKM3k" >}}
 
-This rule of values--**show, don't tell**--doesn't just apply to commercials. It's in customer service, your website, how you sell, and even how you hire.
+قاعدة القيم هذه -**اعرض، لا تخبر**-- لا تنطبق فقط على الإعلانات التجارية. إنها خدمة العملاء، وموقع الويب الخاص بك، وكيفية البيع، وحتى كيفية التوظيف.
 
-**Actions count; words don't.**
+** عدد الإجراءات؛ الكلمات لا.**
 
- Explaining your values comes off as disingenuous:
+إن شرح قيمك يبدو أمرًا مخادعًا:
 
-* If you have a high-quality product, you don't say "Your satisfaction is important to us," you have a 90-day no-questions-asked return policy.
-* If you care about talking to customers, you don't play a recorded message saying their call is important to you, you simply answer the phone.
-* If customers love you, you don't say "100 companies use our software," you have a web page with 100 stellar testimonials.
-* If you treat your employees as human beings, you [don't call them "resources,"](https://longform.asmartbear.com/labels-matter/) you [mock companies that do that](http://www.bazaarvoice.com/culture.html) and display testimonials from your own employees.
+* إذا كان لديك منتج عالي الجودة، فأنت لا تقول "رضاك مهم بالنسبة لنا"، فلديك سياسة إرجاع لمدة 90 يومًا دون طرح أسئلة.
+* إذا كنت تهتم بالتحدث مع العملاء، فأنت لا تقوم بتشغيل رسالة مسجلة تفيد بأن مكالمتهم مهمة بالنسبة لك، بل تقوم ببساطة بالرد على الهاتف.
+* إذا أحبك العملاء، فلا تقل "100 شركة تستخدم برامجنا"، بل لديك صفحة ويب تحتوي على 100 شهادة ممتازة.
+* إذا كنت تعامل موظفيك كبشر، فإنك [لا تسميهم "موارد"](https://longform.asmartbear.com/labels-matter/) أنت [تسخر من الشركات التي تفعل ذلك](http://www.bazaarvoice.com/culture.html) وتعرض شهادات موظفيك.
 
-Once you're walking the walk, *then* you've earned the right to call it out:
+بمجرد أن تسير في هذه المسيرة، *عندها* اكتسبت الحق في أن تنادي بها:
 
-* "We're so confident in the quality of our hammer, if ever breaks we'll swap it out with a brand-new replacement. For free!"
-* "At MyCo, a human being always answers the phone. Why? Because business is personal."
-* "Don't take our word for it, read for yourself what our customers say. Did we pick the best ones? Well yeah, but we have 100 'best ones!'"
-* "What if programmers were treated like rock stars? ... management, not coding, is the support function. ... people love working here." ([from Fog Creek](http://fogcreek.com/About.html))
+* "نحن واثقون جدًا من جودة مطرقتنا، وإذا انكسرت، فسنستبدلها بمطرقة بديلة جديدة تمامًا. مجانًا!"
+* "في MyCo، يقوم الإنسان دائمًا بالرد على الهاتف. لماذا؟ لأن العمل أمر شخصي."
+* "لا تأخذ كلامنا على محمل الجد، اقرأ بنفسك ما يقوله عملاؤنا. هل اخترنا الأفضل؟ حسنًا، نعم، ولكن لدينا 100 "أفضل"!'"
+* "ماذا لو تم التعامل مع المبرمجين مثل نجوم الروك؟ ... الإدارة، وليس البرمجة، هي وظيفة الدعم. ... الناس يحبون العمل هنا." ([من فوغ كريك](http://fogcreek.com/About.html))
 
-The "values" here are still words like "quality," "service," "happy customers," and "great place to work," but they're tangible demonstrations, not trite phrases plastered in all the expected places.
+"القيم" هنا لا تزال عبارة عن كلمات مثل "الجودة"، و"الخدمة"، و"العملاء السعداء"، و"مكان رائع للعمل"، ولكنها عبارة عن عروض ملموسة، وليست عبارات مبتذلة يتم لصقها في جميع الأماكن المتوقعة.
 
-Let values motivate action. Values are the means to the end. **Get to the end.**
+دع القيم تحفز العمل. القيم هي الوسيلة لتحقيق الغاية. **الوصول إلى النهاية.**

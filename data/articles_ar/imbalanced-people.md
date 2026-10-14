@@ -20,41 +20,28 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الأشخاص غير المتوازنين: لماذا يصنع الشغف غير المتوازن نتائج استثنائية؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Imbalanced People
-
-> **Executive Summary:** A top contributor isn't just better than ten average ones--they're infinitely superior, driving creativity and innovation that countless others can't match.
-> **Original URL:** [https://longform.asmartbear.com/imbalanced-people/](https://longform.asmartbear.com/imbalanced-people/)
-
 ![Cartoon 318ac40c](https://longform.asmartbear.com/imbalanced-people/c3409256.png)
 
-There's a saying that a great developer is 10x more productive than a mediocre one.
+هناك مقولة مفادها أن المطور الجيد أكثر إنتاجية بعشر مرات من المطور المتوسط.
 
-That's not true.
+هذا ليس صحيحا.
 
-You can't put 100 average designers on a [committee](https://longform.asmartbear.com/wisdom-of-crowds/) and get a [fabulous design](https://longform.asmartbear.com/design/), right?
+لا يمكنك وضع 100 مصمم متوسط ​​في [لجنة](https://longform.asmartbear.com/wisdom-of-crowds/) والحصول على [تصميم رائع](https://longform.asmartbear.com/design/)، أليس كذلك؟
 
-A great developer, or a great designer, is more than 10x an average one--they're better than an infinite number.  Because they'll come up with ideas and implementations that 100 others wouldn't.
+المطور العظيم، أو المصمم العظيم، هو أكثر من 10 أضعاف المتوسط ​​- إنهم أفضل من عدد لا حصر له.  لأنهم سيأتون بأفكار وتطبيقات لم يتوصل بها 100 شخص آخر.
 
-This is approximately true everywhere. A great writer (content marketing, social media) versus 100 average bloggers. A [great manager](https://longform.asmartbear.com/delegation/) who develops the careers of their folks versus several average ones who are glorified project managers. A great customer support rep thrilling customers and causing love on Twitter versus 100 others "answering tickets" but never evoking an emotional reaction. A [product manager](https://longform.asmartbear.com/great-product-manager/) driving consistent, brilliant output driven by salability instead of under-the-hood technical gymnastics.
+وهذا صحيح تقريبًا في كل مكان. كاتب عظيم (تسويق المحتوى، وسائل التواصل الاجتماعي) مقابل 100 مدون متوسط. [مدير عظيم](https://longform.asmartbear.com/delegation/) الذي يطور الحياة المهنية لموظفيه مقابل العديد من الأشخاص العاديين الذين يعتبرون مديري مشاريع مجيدين. مندوب دعم عملاء رائع يثير إعجاب العملاء ويثير الحب على تويتر مقابل 100 آخرين "يجيبون على التذاكر" ولكنهم لا يثيرون أي رد فعل عاطفي أبدًا. [مدير منتج](https://longform.asmartbear.com/great-product-manager/) يقود إنتاجًا متسقًا ورائعًا مدفوعًا بقابلية البيع بدلاً من الجمباز الفني تحت الغطاء.
 
-Even sales people, who we're told to model as revenue-acquisition-robots with zombie-like drive to make phone calls, in which a slew of barely productive "closers" may not be financially efficient but will still get the job done. If you see it that way, please don't make yourself responsible for building out the sales group. A great salesperson is a factory producing [cheerleader customers](https://longform.asmartbear.com/customer-love/) who are [actually thrilled](https://longform.asmartbear.com/willingness-to-pay/) and referenceable after the sale, and who excites the entire company around what's possible around growth, the engine that makes everything else possible, locking arms and bringing along every person at every position, and sharing and promulgating the corporate culture rather than developing a separatist roost of vultures feeding on the entrails of leads bagged by the comparatively friendly and accessible marketing department.
+حتى مندوبي المبيعات، الذين يُطلب منا أن نمثلهم على أنهم روبوتات للحصول على الإيرادات، مع محرك يشبه الزومبي لإجراء مكالمات هاتفية، حيث قد لا يكون عدد كبير من "المقربين" المنتجين بالكاد فعالين من الناحية المالية ولكنهم سيستمرون في إنجاز المهمة. إذا كنت ترى الأمر بهذه الطريقة، من فضلك لا تجعل نفسك مسؤولاً عن بناء مجموعة المبيعات. مندوب المبيعات الرائع هو مصنع ينتج [عملاء مشجعين](https://longform.asmartbear.com/customer-love/) الذين [يشعرون بسعادة غامرة](https://longform.asmartbear.com/willingness-to-pay/) ويمكن الرجوع إليهم بعد البيع، والذين يثيرون اهتمام الشركة بأكملها حول ما هو ممكن حول النمو، والمحرك الذي يجعل كل شيء آخر ممكنًا، ويجمع كل شخص في كل منصب، ويشارك و نشر ثقافة الشركة بدلاً من تطوير مجثم انفصالي من النسور التي تتغذى على أحشاء العملاء المتوقعين الذين حصلوا على قسم التسويق الودود نسبيًا والذي يسهل الوصول إليه.
 
-If you think "sales" can't be that way, that's because *you* are the one with incorrect expectations. (At WP Engine, we're living proof of this.)
+إذا كنت تعتقد أن "المبيعات" لا يمكن أن تكون بهذه الطريقة، فذلك لأنك *أنت* من لديه توقعات غير صحيحة. (في WP Engine، نحن دليل حي على ذلك.)
 
-In fact, if you think there's any position at your company where this rule of "better than 10x" doesn't hold, you've never worked with greatness at that position.
+في الواقع، إذا كنت تعتقد أن هناك أي منصب في شركتك لا تنطبق عليه قاعدة "أفضل من 10x"، فأنت لم تعمل أبدًا بشكل رائع في هذا المنصب.
 
-Now, if you understand this universal, timeless, human rule, you then realize you cannot afford to hire anyone less.
+الآن، إذا فهمت هذه القاعدة الإنسانية العالمية والخالدة، فسوف تدرك بعد ذلك أنك لا تستطيع تحمل تكلفة توظيف أي شخص أقل منه.
 
-If you're competing against a company with the intent, the pocketbook, and the storyline needed to hire those people, but you don't, you'll need to sit down and figure out how your business will thrive anyway. Which might be possible, of course, but it's a special sort of optimization.
+إذا كنت تنافس شركة لديها النية، والميزانية، والقصة اللازمة لتوظيف هؤلاء الأشخاص، ولكنك لا تفعل ذلك، فسوف تحتاج إلى الجلوس ومعرفة كيف سيزدهر عملك على أي حال. قد يكون ذلك ممكنًا بالطبع، لكنه نوع خاص من التحسين.
 
-And not one I'd be excited about executing. I'd rather work with the best, do amazing things together, and have a chance to learn new things every day from those amazing people.
+وليس واحدًا سأكون متحمسًا للتنفيذ. أفضل العمل مع الأفضل، والقيام بأشياء مذهلة معًا، والحصول على فرصة لتعلم أشياء جديدة كل يوم من هؤلاء الأشخاص الرائعين.
 
-Life's too short, and high tech moves too fast, to mess about with mediocrity.
+الحياة قصيرة جدًا، والتكنولوجيا المتقدمة تتحرك بسرعة كبيرة جدًا بحيث لا يمكن العبث بها مع المستوى المتوسط.

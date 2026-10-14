@@ -20,139 +20,126 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كيف تبسط القرارات المعقدة بفصل الحقائق عن الافتراضات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# How to simplify complex decisions by cleaving the facts
-
-> **Executive Summary:** Simplify complex decisions by separating upsides from downsides, investing in upsides, vetoing with downsides, and using an appropriate decision framework.
-> **Original URL:** [https://longform.asmartbear.com/complex-decisions/](https://longform.asmartbear.com/complex-decisions/)
-
 ![its not that i dont like you ted you just dont fit my target demographic](https://public.asmartbear.com/books/anthology/chapters/complex-decisions/d0106print-simple.png)
 
-We face complex business decisions for which there is no single correct answer, yet we must make a strong and occasionally permanent decision.
+نحن نواجه قرارات عمل معقدة لا توجد لها إجابة واحدة صحيحة، ومع ذلك يجب علينا اتخاذ قرار قوي ودائم في بعض الأحيان.
 
-Sometimes the puzzle is created by inherent uncertainty: how a market will evolve, what competitors will do, whether new marketing campaigns will be successful, or how an important new hire will perform. There are [specific strategies for dealing with inherent uncertainty](https://longform.asmartbear.com/predict-the-future/).
+في بعض الأحيان يتم إنشاء اللغز بسبب عدم اليقين المتأصل: كيف سيتطور السوق، أو ما سيفعله المنافسون، أو ما إذا كانت الحملات التسويقية الجديدة ستنجح، أو كيف سيكون أداء الموظف الجديد المهم. هناك [استراتيجيات محددة للتعامل مع عدم اليقين المتأصل](https://longform.asmartbear.com/predict-the-future/).
 
-But I've seen little startups, mid-sized companies like WP Engine, and large companies struggle with complex decisions even in conditions of relative certainty. If this sounds painfully familiar, the following technique might help.
+لكنني رأيت شركات ناشئة صغيرة، وشركات متوسطة الحجم مثل WP Engine، وشركات كبيرة تعاني من اتخاذ قرارات معقدة حتى في ظروف اليقين النسبي. إذا كان هذا يبدو مألوفًا بشكل مؤلم، فقد يساعدك الأسلوب التالي.
 
-## Separate upside from downside, and clarify the outcome
+## فصل الاتجاه الصعودي عن الجانب السلبي وتوضيح النتيجة
 
-The first thing is to separate the question of "how could things go right" (the upside) from the question of "how could things go wrong" (the downside). The symptom of not following this advice is arguing in logical circles. For example, take the decision "should we build feature X:"
+أول شيء هو أن نفصل سؤال "كيف يمكن أن تسير الأمور على ما يرام" (الاتجاه الصعودي) عن سؤال "كيف يمكن أن تسوء الأمور" (الجانب السلبي). ومن أعراض عدم اتباع هذه النصيحة الجدال في الدوائر المنطقية. على سبيل المثال، اتخذ القرار "هل ينبغي أن نبني الميزة X:"
 
-1. If we add feature X, we will be unique in the market.
-2. But we're behind in feature Y, which three competitors already have.
-3. But if we build feature Y, those same competitors will then have built feature Z, and we'll still be behind.
-4. But we're losing business today because we don't have feature Y.
-5. But if we were unique in a different dimension, that would turn the conversation into feature X versus Y.
-6. But if a competitor who already has Y ends up copying us on X, then we're back to being behind.
+1. إذا أضفنا الميزة X، فسنكون فريدين في السوق.
+2. لكننا متأخرون في الميزة Y، التي يمتلكها ثلاثة منافسين بالفعل.
+3. ولكن إذا قمنا ببناء الميزة Y، فسيقوم هؤلاء المنافسون أنفسهم ببناء الميزة Z، وسنظل متخلفين.
+4. لكننا نخسر أعمالنا اليوم لأنه ليس لدينا الميزة Y.
+5. ولكن إذا كنا فريدين في بُعد مختلف، فإن ذلك من شأنه أن يحول المحادثة إلى ميزة X مقابل Y.
+6. ولكن إذا انتهى الأمر بمنافس لديه Y بالفعل إلى نسخنا على X، فسنعود إلى الخلف.
 7. ...
 
-All of those statements are true! That's why you're not converging on a decision.
+كل تلك التصريحات صحيحة! لهذا السبب لا تتفقون على القرار.
 
-Instead, separate the upside and downside of "building feature X," and clarify the outcome of those two aspects:
+بدلاً من ذلك، افصل بين الجانب الإيجابي والسلبي لـ "ميزة البناء X"، وقم بتوضيح نتيجة هذين الجانبين:
 
-#### Upside
-Unique position in the market → deals won through differentiation.
+#### رأسًا على عقب
+مكانة فريدة في السوق → الصفقات التي تم الفوز بها من خلال التمايز.
 
-#### Downside
-Won't build feature Y → deals lost to a specific competitor.
+#### الجانب السلبي
+لن يتم إنشاء الميزة Y → الصفقات المفقودة أمام منافس معين.
 
-When you look at it this way, the decision is clearer. If we do feature X, we earn more deals (through differentiation). Also we gain some (less measurable) brand benefit from that differentiation. If we do feature Y, we also earn more deals, but only in a subset of the sales calls, and there's no additional brand benefits. So we should probably do feature X.
+عندما تنظر إلى الأمر بهذه الطريقة، فإن القرار أكثر وضوحا. إذا قمنا بالميزة X، فإننا نكسب المزيد من الصفقات (من خلال التمايز). كما أننا نكتسب بعض فوائد العلامة التجارية (الأقل قابلية للقياس) من هذا التمييز. إذا قمنا بالميزة Y، فسنربح أيضًا المزيد من الصفقات، ولكن فقط في مجموعة فرعية من مكالمات المبيعات، ولا توجد فوائد إضافية للعلامة التجارية. لذلك ربما ينبغي لنا أن نفعل الميزة X.
 
 ![so which whole do we want to go with](https://public.asmartbear.com/books/anthology/chapters/complex-decisions/d7414print-simple.png)
 
-A counter-argument could be: We're losing $10m/yr not having feature Y; we anticipate gaining $1m/yr if we have feature X. In this case, *quantification* of the upside/downside would also lead us to a clear winner of doing feature Y. Nevertheless, this example demonstrates that, even in the absence of data (which is frequently the case, especially with early-stage startups), this technique helps us arrive at a clear and sensible decision.
+يمكن أن تكون الحجة المضادة: نحن نخسر 10 ملايين دولار سنويًا لعدم وجود الميزة Y؛ نتوقع ربح مليون دولار سنويًا إذا كانت لدينا الميزة X. في هذه الحالة، *القياس الكمي* للجانب الإيجابي/السلبي سيقودنا أيضًا إلى فائز واضح في تنفيذ الميزة Y. ومع ذلك، يوضح هذا المثال أنه حتى في غياب البيانات (وهو ما يحدث غالبًا، خاصة مع الشركات الناشئة في المراحل المبكرة)، فإن هذه التقنية تساعدنا في الوصول إلى قرار واضح ومعقول.
 
-## Decide with upside, veto with weakness
+## قرر بالاتجاه الصعودي، واعترض بالضعف
 
-Let's overlay a deeper insight onto our upside/downside process. We'll also switch to a new working example, to demonstrate the universal applicability of this framework.
+دعونا نلقي نظرة أعمق على عمليتنا الصعودية/السلبية. سنقوم أيضًا بالتبديل إلى مثال عملي جديد لإثبات قابلية التطبيق العالمي لهذا الإطار.
 
-Suppose we're hiring a high-level, experienced position, like "VP Marketing". The "perfect candidate" is mythical--a person who is world-class at vision, strategy, operations, people, org-structure, communication within the company, communication outside the company, gets things done quickly, mentorship, etc.. So, again it's easy to go in circles when deciding on a given candidate, encouraged by her merits but worried about her weaknesses, similar to the "feature" discussion.
+لنفترض أننا نقوم بتعيين منصب رفيع المستوى وذو خبرة، مثل "VP Marketing". "المرشح المثالي" هو شخص أسطوري - شخص من الطراز العالمي في الرؤية، والاستراتيجية، والعمليات، والأشخاص، والهيكل التنظيمي، والتواصل داخل الشركة، والتواصل خارج الشركة، وإنجاز الأمور بسرعة، والإرشاد، وما إلى ذلك. لذا، مرة أخرى، من السهل الدخول في دائرة عند اتخاذ قرار بشأن مرشح معين، بتشجيع من مزاياه ولكن قلقًا بشأن نقاط ضعفه، على غرار مناقشة "الميزات".
 
-With leaders, however, it's you should hire based on their exceptional strengths, and then fill in weaknesses using the composition of the rest of the team. Only through exceptional strength will the person make an impact on the business; likely there's one or two critical impacts you need over the next year, which you expect this person to make. You must derisk that. Here's a specific example of how to do that with [Product Management](https://longform.asmartbear.com/great-product-manager/). Remember, it's your job to [fill the company with people much better than you](https://longform.asmartbear.com/delegation/) at every position.
+ومع ذلك، بالنسبة للقادة، يجب عليك التوظيف بناءً على نقاط قوتهم الاستثنائية، ثم ملء نقاط الضعف باستخدام تكوين بقية الفريق. فقط من خلال القوة الاستثنائية يمكن للشخص أن يكون له تأثير على العمل؛ من المحتمل أن يكون هناك تأثير أو تأثيران حاسمان تحتاجهما خلال العام المقبل، وهو ما تتوقع أن يقوم به هذا الشخص. يجب أن تخاطر بذلك. فيما يلي مثال محدد لكيفية القيام بذلك باستخدام [إدارة المنتجات](https://longform.asmartbear.com/great-product-manager/). تذكر أن مهمتك هي [ملء الشركة بأشخاص أفضل منك بكثير](https://longform.asmartbear.com/delegation/) في كل منصب.
 
-So first you separate the upside ("in what aspects is she truly exceptional") from the downside ("in what aspects is she lacking?"). But now we apply a more sophisticated idea: That we must **primarily decide based on the upside** and then ask ourselves if we can **mitigate the downside**.
+لذا عليك أولاً أن تفصل الجانب العلوي ("ما هي الجوانب التي تعتبرها استثنائية حقًا") عن الجانب السلبي ("ما هي الجوانب التي تفتقر إليها؟"). ولكننا الآن نطبق فكرة أكثر تعقيدًا: وهي أنه يجب علينا **في المقام الأول أن نقرر بناءً على الجانب الإيجابي** ثم نسأل أنفسنا ما إذا كان بإمكاننا **تخفيف الجانب السلبي**.
 
-Specifically:
+خاصة:
 
-1. For the most critical business problems we have today, that this leader will be expected to solve, is she world-class in solving those particular problems? <br/> *(Because, if not, you'll still have your critical business problems, so that's a no-hire regardless of how much you like the upsides or don't care about the downsides.)*
-2. For the weaknesses of this leader, do I know what those are (because if not, you can't plan for them), and are they either un-impactful, or do I understand exactly how I or they will mitigate them? <br/> *(Since no one is perfect, there will always be items in this category. If any are impossible for you to ameliorate, it's a no-hire. Otherwise, it's the plan.)*
+1. بالنسبة لمشاكل العمل الأكثر أهمية التي نواجهها اليوم، والتي من المتوقع أن تحلها هذه القائدة، هل هي من الطراز العالمي في حل تلك المشاكل المحددة؟ <br/> *(لأنه، إذا لم يكن الأمر كذلك، فستظل تواجه مشاكل عملك الحرجة، لذلك يعد هذا أمرًا محظورًا بغض النظر عن مدى إعجابك بالجوانب الإيجابية أو عدم اهتمامك بالجوانب السلبية.)*
+2. بالنسبة لنقاط الضعف لدى هذا القائد، هل أعرف ما هي (لأنه إذا لم يكن الأمر كذلك، فلن تتمكن من التخطيط لها)، وهل هي إما غير مؤثرة، أم أنني أفهم بالضبط كيف سأقوم بتخفيفها أو تخفيفها؟ <br/> *(نظرًا لعدم وجود أحد مثالي، ستكون هناك دائمًا عناصر في هذه الفئة. إذا كان من المستحيل عليك تحسين أي منها، فهذا أمر غير قابل للتوظيف. وإلا، فهذه هي الخطة.)*
 
-By basing the primary decision on the upside, and using the downside only as a "veto" when it is unworkable, you have further clarified how to make the decision.
+من خلال تأسيس القرار الأساسي على الاتجاه الصعودي، واستخدام الجانب السلبي فقط باعتباره "حق النقض" عندما يكون غير قابل للتنفيذ، تكون قد أوضحت بشكل أكبر كيفية اتخاذ القرار.
 
-## Invest in upside, ignore or dampen downside
+## استثمر في الاتجاه الصعودي، وتجاهل الجانب السلبي أو خففه
 
-Even further, we don't want to merely "base the primary decision" on the upside--we want to intentionally over-invest in it.
+علاوة على ذلك، نحن لا نريد مجرد "بناء القرار الأساسي" على الاتجاه الصعودي - بل نريد الإفراط في الاستثمار فيه عمدًا.
 
-To explain this, and to further emphasize the broad generality in which these rules apply, let's switch examples yet again. Now the decision is: "What aspects of our product should we [invest in](https://longform.asmartbear.com/investment/), over the next 12 months?" (As an exercise, afterwards try re-running this example against [your own personal strengths/weaknesses](https://longform.asmartbear.com/pivot-points/) and see if you get some insights!)
+لشرح ذلك، وللتأكيد بشكل أكبر على العمومية الواسعة التي تنطبق عليها هذه القواعد، دعونا نبدل الأمثلة مرة أخرى. القرار الآن هو: "ما هي جوانب منتجنا التي يجب علينا [الاستثمار فيها](https://longform.asmartbear.com/investment/)، خلال الأشهر الـ 12 المقبلة؟" (كتمرين، حاول بعد ذلك إعادة تشغيل هذا المثال على [نقاط القوة/نقاط الضعف الشخصية لديك](https://longform.asmartbear.com/pivot-points/) ومعرفة ما إذا كنت قد حصلت على بعض الأفكار!)
 
-Suppose we plot our strengths in six key areas, using some relative measure:
+لنفترض أننا قمنا بتخطيط نقاط قوتنا في ستة مجالات رئيسية، باستخدام بعض المقاييس النسبية:
 
 ![varying strengths](https://public.asmartbear.com/books/anthology/chapters/complex-decisions/strengths-500x268-simple.png)
 
-People naturally focus on weaknesses. This looks like: "We're getting killed in the market for not having F" or "I'm sick of customers complaining--rightly!--that we're bad at E" or "20% of customers leave us because we're so bad at D."
+يركز الناس بشكل طبيعي على نقاط الضعف. يبدو هذا كالتالي: "نحن نتعرض للقتل في السوق لعدم وجود F" أو "لقد سئمت من شكوى العملاء - عن حق! - من أننا سيئون في E" أو "20٪ من العملاء يتركوننا لأننا سيئون جدًا في D."
 
-As a result, we invest time and money into mitigating weakness. Sure, you can't turn a catastrophic weakness into a super-strength, but you could at least bring it to a passable neutral:
+ونتيجة لذلك، فإننا نستثمر الوقت والمال في تخفيف الضعف. بالتأكيد، لا يمكنك تحويل نقطة ضعف كارثية إلى قوة فائقة، لكن يمكنك على الأقل تحويلها إلى مستوى محايد مقبول:
 
 ![attacking weaknesses](https://public.asmartbear.com/books/anthology/chapters/complex-decisions/typical-500x265-simple.png)
 
-The trouble with this line of thinking is that it ignores a deeper truth, which is that developing a 10x strength is far more valuable than shifting a weakness to neutral. This is true personally, professionally, and in Product.
+المشكلة في هذا الخط من التفكير هي أنه يتجاهل حقيقة أعمق، وهي أن تطوير قوة بمقدار 10 أضعاف هو أكثر قيمة بكثير من تحويل نقطة الضعف إلى محايدة. وهذا صحيح على المستوى الشخصي والمهني وفي المنتج.
 
-For example, in the v1 launch of the iPhone, it was far more important for it to be 10x on its strengths (e.g. form-factor and browser/email experience) than for it to shore up weaknesses (e.g. lack of copy/paste, poor call experience).
+على سبيل المثال، عند إطلاق الإصدار الأول من جهاز iPhone، كان من الأهم بكثير أن يكون لديه نقاط قوة 10x (مثل عامل الشكل وتجربة المتصفح/البريد الإلكتروني) بدلاً من دعم نقاط الضعف (على سبيل المثال، نقص النسخ/اللصق، وتجربة الاتصال السيئة).
 
-Or for example, as an engineer you will be far more effective in producing quality code quickly if you're extremely deep in one language/framework/problem-domain, than if you spread out your time becoming passable at ten different languages.
+أو على سبيل المثال، كمهندس، ستكون أكثر فاعلية في إنتاج أكواد الجودة بسرعة إذا كنت متعمقًا للغاية في لغة/إطار عمل/مجال مشكلة واحد، مما لو وزعت وقتك لتصبح مقبولاً في عشر لغات مختلفة.
 
-Or for example, Heroku won the hearts and minds of Rails developers because it was 10x better at the deploy/stage/production system, and therefore developers (begrudgingly!) put up with (what were *then* considered weaknesses) a read-only file system, having to use Bundler, having to use PostgreSQL, over-paying for CPU, and [tying your fate to a platform](https://longform.asmartbear.com/marketing-platform-independence/).
+أو على سبيل المثال، فاز Heroku بقلوب وعقول مطوري Rails لأنه كان أفضل بـ 10 مرات في نظام النشر/المرحلة/الإنتاج، وبالتالي يتحمل المطورون (على مضض!) نظام ملفات للقراءة فقط (ما كان *يُعتبر آنذاك* نقاط ضعف) ويضطرون إلى استخدام Bundler، ويضطرون إلى استخدام PostgreSQL، ويدفعون مبالغ زائدة مقابل وحدة المعالجة المركزية، و[ربط مصيرك بـ النظام الأساسي](https://longform.asmartbear.com/marketing-platform-independence/).
 
-Or as a counter-example, when we had poor web design at WP Engine (weakness), we [invested and got zero return](https://longform.asmartbear.com/design/), because it turned out that our words and product/market fit were 100x more important than design.
+أو كمثال مضاد، عندما كان لدينا تصميم ويب سيئ في WP Engine (ضعف)، قمنا [بالاستثمار ولم نحصل على عائد صفر](https://longform.asmartbear.com/design/)، لأنه اتضح أن كلماتنا وملاءمة منتجنا/السوق كانت أكثر أهمية بمقدار 100 مرة من التصميم.
 
-Therefore, this is how you should be investing:
+لذلك، هذه هي الطريقة التي يجب أن تستثمر بها:
 
 ![invest in strength more than weakness](https://public.asmartbear.com/books/anthology/chapters/complex-decisions/better-500x275-simple.png)
 
-This drives home the idea of separating upsides from downsides, strengths from weaknesses, then further investing in your greatest upsides and strengths, while using downside as constraint to design around, or possibly a veto in extreme cases.
+هذا يقودنا إلى فكرة فصل الإيجابيات عن السلبيات، ونقاط القوة عن نقاط الضعف، ثم الاستثمار بشكل أكبر في أعظم الإيجابيات ونقاط القوة لديك، مع استخدام الجانب السلبي كقيد للتصميم، أو ربما حق النقض في الحالات القصوى.
 
-## Decide using ≤ 3 key dimensions
+## قرر استخدام ≥ 3 أبعاد رئيسية
 
-I pulled a trick earlier. It was necessary to arrive at a clear decision. You might not have noticed at the time, but you'll want to do it intentionally.
+لقد سحبت خدعة في وقت سابق. وكان من الضروري التوصل إلى قرار واضح. ربما لم تلاحظ ذلك في ذلك الوقت، لكنك سترغب في القيام بذلك عن عمد.
 
-In the first example of whether to implement feature X or Y, I boiled it down to "both increase sales, but only one also increases differentiation." Of course [when things are simple, the choice is clear](https://longform.asmartbear.com/one-priority/). But the choice wasn't so clear from the text that preceded the summary. And surely there are other considerations such as: how long will it take to implement, do we have the right team assembled, and what is the likelihood of abject failure. Why was it valid to boil it down to such a simple statement, and thus an obvious decision?
+في المثال الأول حول ما إذا كان سيتم تنفيذ الميزة X أو Y، قمت بتلخيصها إلى "كلاهما يزيد من المبيعات، ولكن واحدة فقط تزيد من التمايز". بالطبع [عندما تكون الأمور بسيطة، يكون الاختيار واضحًا](https://longform.asmartbear.com/one-priority/). لكن الاختيار لم يكن واضحا من النص الذي سبق الملخص. وبالتأكيد هناك اعتبارات أخرى مثل: كم من الوقت سيستغرق التنفيذ، وهل لدينا الفريق المناسب، وما هو احتمال الفشل الذريع. لماذا كان من الصحيح تلخيص الأمر في مثل هذا البيان البسيط، وبالتالي القرار الواضح؟
 
-On its face, this *can't be* valid. Any simplification that ignores a dozen important dimensions can't be an [accurate model](https://longform.asmartbear.com/models/) of the problem! However, if you don't intentionally over-simplify, you will never reach a firm and clear decision.
+في ظاهره، هذا *لا يمكن* أن يكون صالحًا. أي تبسيط يتجاهل عشرات الأبعاد المهمة لا يمكن أن يكون [نموذجًا دقيقًا](https://longform.asmartbear.com/models/) للمشكلة! ومع ذلك، إذا لم تبالغ في التبسيط عمدًا، فلن تصل أبدًا إلى قرار حازم وواضح.
 
 ![do it dont do it we dont care anymore](https://public.asmartbear.com/books/anthology/chapters/complex-decisions/d6618print-simple.png)
 
-To see why, consider the decision faced by American voters in this 2016 presidential election. Here you have two candidates which empirically are the least-liked in history. If you attempt to vote on the issues, you eventually realize there are too many to consider: climate, energy, health, taxes, economy, trade, war, education, technology, corporations, Wall Street, abortion, drug-legalization, civil rights, and many more. It's almost impossible to agree with any one candidate on *all* the issues. And it's impossible to predict which handful of issues will actually get attention and change over the next four years; governments mostly produce gridlock, not change. This is not unlike the feature X / Y dilemma--too many considerations, and unknown which of those considerations might actually matter in the end.
+لمعرفة السبب، لنتأمل القرار الذي واجهه الناخبون الأمريكيون في الانتخابات الرئاسية لعام 2016. هنا لديك مرشحان هما الأقل شعبية في التاريخ من الناحية التجريبية. إذا حاولت التصويت على القضايا، فسوف تدرك في النهاية أن هناك الكثير مما يجب أخذه في الاعتبار: المناخ، والطاقة، والصحة، والضرائب، والاقتصاد، والتجارة، والحرب، والتعليم، والتكنولوجيا، والشركات، وول ستريت، والإجهاض، وتشريع المخدرات، والحقوق المدنية، وغيرها الكثير. يكاد يكون من المستحيل الاتفاق مع أي مرشح على جميع القضايا. ومن المستحيل التنبؤ بمجموعة القضايا التي ستحظى بالاهتمام والتغيير خلال السنوات الأربع المقبلة؛ فالحكومات تنتج في الأغلب حالة من الجمود، وليس التغيير. وهذا لا يختلف عن معضلة الميزة X / Y - فهناك الكثير من الاعتبارات، وغير معروف أي من هذه الاعتبارات قد يكون مهمًا بالفعل في النهاية.
 
-What a lot of voters do, perhaps unconsciously, is select a few issues for which they posses a special affinity, and vote on only those. So for example, someone might select "elections are corrupted by money" as a key issue, and therefore support Bernie Sanders even if they agree quietly that his economic plan doesn't add up. Or someone might select "social justice" as a key issue, and therefore support Hillary Clinton (and the justices she will appoint), even if they agree it can't be appropriate to delete emails that are under subpoena. Or someone might want to "throw a bomb into the institution of government" and elect Donald Trump, even if they agree he has and will continue to say and do atrocious things.
+إن ما يفعله الكثير من الناخبين، ربما دون وعي، هو اختيار عدد قليل من القضايا التي لديهم ارتباط خاص بها، والتصويت عليها فقط. على سبيل المثال، قد يختار شخص ما "الانتخابات يفسدها المال" كقضية رئيسية، وبالتالي يدعم بيرني ساندرز حتى لو وافق بهدوء على أن خطته الاقتصادية غير مجدية. أو قد يختار شخص ما "العدالة الاجتماعية" كقضية رئيسية، وبالتالي يدعم هيلاري كلينتون (والقضاة الذين ستعينهم)، حتى لو اتفقوا على أنه من غير المناسب حذف رسائل البريد الإلكتروني الخاضعة لأوامر الاستدعاء. أو قد يرغب شخص ما في "إلقاء قنبلة على مؤسسة الحكومة" وانتخاب دونالد ترامب، حتى لو اتفقوا على أنه فعل وسيستمر في قول وفعل أشياء فظيعة.
 
-This sort of simplification is logical, and necessary. We've talked about this before [in the context of SaaS metrics](https://longform.asmartbear.com/saas-metric/) and as a component of [great strategy](https://longform.asmartbear.com/great-strategy/). We sometimes have to be so simple as to be reductive, so we can make a clear decision.
+وهذا النوع من التبسيط منطقي وضروري. لقد تحدثنا عن هذا من قبل [في سياق مقاييس SaaS](https://longform.asmartbear.com/saas-metric/) وكأحد مكونات [الاستراتيجية الرائعة](https://longform.asmartbear.com/great-strategy/). علينا في بعض الأحيان أن نكون بسيطين إلى حد الاختزال، حتى نتمكن من اتخاذ قرار واضح.
 
-Here are two tools that use this insight to arrive at good decisions:
+فيما يلي أداتان تستخدمان هذه الرؤية للوصول إلى قرارات جيدة:
 
-* [Binstack](https://longform.asmartbear.com/maximized-decision/): How to make multi-dimensional choices.
-* [Fermi ROI](https://longform.asmartbear.com/roi-rubric/): The better way to run rubrics or "ROI" calculations.
+* [Binstack](https://longform.asmartbear.com/maximized-decision/): كيفية اتخاذ خيارات متعددة الأبعاد.
+* [Fermi ROI](https://longform.asmartbear.com/roi-rubric/): الطريقة الأفضل لتشغيل نماذج التقييم أو حسابات "ROI".
 
-If after the examples in those articles you're still uncomfortable with ignoring a dozen important things, consider this: If you treat all those things as "important," you'll end up with a set of "good" choices. *Any* one of them is, objectively, good. Therefore, if you further refine your process to narrow down to just one of those, *almost any process whatsoever* is acceptable, because you're picking from a set of already-good choices!
+إذا كنت لا تزال غير مرتاح لتجاهل العشرات من الأشياء المهمة، بعد الأمثلة الواردة في تلك المقالات، ففكر في هذا: إذا تعاملت مع كل هذه الأشياء على أنها "مهمة"، فسوف ينتهي بك الأمر بمجموعة من الاختيارات "الجيدة". *أي* واحد منهم، موضوعيا، جيد. لذلك، إذا قمت بتحسين عمليتك لتضييق نطاقها إلى واحدة فقط من هذه العمليات، *تقريبًا أي عملية على الإطلاق* تكون مقبولة، لأنك تختار من بين مجموعة من الاختيارات الجيدة بالفعل!
 
-Inevitably, however, with whatever options you excluded, you're likely to field complaints, disappointment, and argument from others who have some vested interest in the losing options, even if their interest is simply that it was their idea, or they had gotten attached to it. For them, it will be easy to whine "but how is your choice *really* better?" And they are right, because you had multiple, equally-good choices. Whatever you do, someone is going to say that. So, you should not include this "social pressure" in your decision.
+ومع ذلك، مهما كانت الخيارات التي استبعدتها، فمن المحتمل أن تتلقى شكاوى وخيبة أمل وحججًا من الآخرين الذين لديهم بعض المصلحة الشخصية في الخيارات الخاسرة، حتى لو كان اهتمامهم هو ببساطة أنها كانت فكرتهم، أو أنهم تعلقوا بها. بالنسبة لهم، سيكون من السهل التذمر "ولكن كيف يكون اختيارك *حقًا* أفضل؟" وهم على حق، لأنه كان لديك خيارات متعددة ومتساوية في الجودة. مهما فعلت، شخص ما سوف يقول ذلك. لذا، لا يجب أن تدرج هذا "الضغط الاجتماعي" في قرارك.
 
 ![reaction to news was mixed largely because we asked more than one person](https://public.asmartbear.com/books/anthology/chapters/complex-decisions/d4033print-simple.png)
 
-## Decide how to decide, then get on with it
+## قرر كيف تقرر، ثم تابع الأمر
 
-Making decisions quickly is valuable. You can usually make a different one if the first one proved wrong. (If you can't, that's [a reason to take more time evaluating the decision](https://longform.asmartbear.com/decisions-fast-slow/).)
+إن اتخاذ القرارات بسرعة أمر ذو قيمة. يمكنك عادةً عمل واحدة مختلفة إذا ثبت أن الأولى خاطئة. (إذا لم تتمكن من ذلك، فهذا [سبب لأخذ مزيد من الوقت لتقييم القرار](https://longform.asmartbear.com/decisions-fast-slow/).)
 
-So pick a process, use it, and move on.
+لذا اختر عملية، واستخدمها، ثم امضِ قدمًا.
 
-Separate the upside from the downside. Clarify the choice using one, two, or at most three dimensions. Base the primary decision on the magnitude and likelihood of the upside, and use the downside to veto untenable options. Use Binstack or Fermi ROI as frameworks that guide a group to a joint, explainable decision. Remember that defining the conditions of the decision is 80% of the decision, so invest your time in that.
+افصل الجانب العلوي عن الجانب السلبي. قم بتوضيح الاختيار باستخدام بعد واحد أو اثنين أو ثلاثة أبعاد على الأكثر. اعتمد القرار الأساسي على حجم واحتمال الاتجاه الصعودي، واستخدم الجانب السلبي للاعتراض على الخيارات التي لا يمكن الدفاع عنها. استخدم Binstack أو Fermi ROI كأطر عمل لتوجيه المجموعة إلى قرار مشترك وقابل للتفسير. وتذكر أن تحديد شروط القرار يشكل 80% من القرار، فاستثمر وقتك في ذلك.
 
-And don't be too hard on yourself after the fact, even if it goes badly. Life is an experiment with [little predictive power](https://longform.asmartbear.com/chaos-at-start/), no control group, with N=1, and which cannot be re-run.
+ولا تكن قاسيًا على نفسك بعد وقوع الأمر، حتى لو سارت الأمور بشكل سيء. الحياة عبارة عن تجربة ذات [قدرة تنبؤية قليلة](https://longform.asmartbear.com/chaos-at-start/)، ولا توجد مجموعة تحكم، وعددها = 1، ولا يمكن إعادة تشغيلها.
 
-They can't all be zingers.
+لا يمكن أن يكونوا جميعهم زنجريين.

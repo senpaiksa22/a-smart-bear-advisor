@@ -20,179 +20,166 @@ summary_ar: "Half of your \"
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** التلاعب بالبيانات وتزييف نتائج اختبارات A/B (p-Hacking) تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# p-Hacking your A/B tests
-
-> **Executive Summary:** Half of your "successful" A/B tests are false-positives. This is why, and how to fix it.
-> **Original URL:** [https://longform.asmartbear.com/p-hacking/](https://longform.asmartbear.com/p-hacking/)
-
 ![Fine, just stand there being ominously silent. It doesn't change the fact that I have the lab until 9:00.](https://public.asmartbear.com/books/anthology/chapters/p-hacking/d8676print-simple.png)
 
-## Faking results using real experiments
+## تزوير النتائج باستخدام تجارب حقيقية
 
-You are a pharmaceutical company who has blown through a billion dollars of research and development, only to produce a drug that doesn't work. But you want to get it approved by the FDA[^1] anyway so you can recoup that cost, hapless consumers be damned.[^2]
+أنتم شركة أدوية أنفقت مليار دولار من الأبحاث والتطوير، فقط لإنتاج دواء لا يعمل. لكنك تريد الحصول على موافقة إدارة الغذاء والدواء الأمريكية[^1] على أي حال حتى تتمكن من استرداد تلك التكلفة، ولعنة المستهلكين التعساء.[^2]
 
-[^1]: The United States government agency that approves drugs for sale.
+[^1]: الوكالة الحكومية الأمريكية التي توافق على بيع الأدوية.
 
-[^2]: There are many such examples in the US, such as the decongestant Phenylephrine, with nearly $2B in annual sales, which an FDA advisory panel [unanimously concluded](https://www.nbcnews.com/health/health-news/fda-panel-says-common-counter-decongestant-phneylephrine-doesnt-work-rcna104424) is [ineffective](https://www.theatlantic.com/health/archive/2023/09/cold-medicine-decongestant-phenylephrine-ineffective/675303/).
+[^2]: هناك العديد من الأمثلة في الولايات المتحدة، مثل مزيل الاحتقان فينيليفرين، الذي تبلغ مبيعاته السنوية ما يقرب من 2 مليار دولار أمريكي، والذي [خلصت إليه اللجنة الاستشارية لإدارة الغذاء والدواء بالإجماع](https://www.nbcnews.com/health/health-news/fda-panel-says-common-counter-decongestant-phneylephrine-doesnt-work-rcna104424) هو [غير فعال](https://www.theatlantic.com/health/archive/2023/09/cold-medicine-decongestant-phenylephrine-inefficiency/675303/).
 
-The FDA requires experimental evidence of the drug's efficacy--a controlled study showing positive results at the 90% statistical confidence level. You need to publish a believable report, even though there isn't a statistically-significant effect. How can you achieve your nefarious goal?
+تتطلب إدارة الغذاء والدواء الأمريكية أدلة تجريبية على فعالية الدواء، وهي دراسة مضبوطة تظهر نتائج إيجابية عند مستوى ثقة إحصائية يبلغ 90%. أنت بحاجة إلى نشر تقرير معقول، حتى لو لم يكن هناك تأثير ذو دلالة إحصائية. كيف يمكنك تحقيق هدفك الشائنة؟
 
 ![bear race cheater](https://public.asmartbear.com/books/anthology/chapters/p-hacking/image-2-simple.png)
 
-Easy: Run studies repeatedly, until you get a false-positive result. Then publish only that result.
+سهل: قم بإجراء الدراسات بشكل متكرر، حتى تحصل على نتيجة إيجابية كاذبة. ثم قم بنشر تلك النتيجة فقط.
 
-All experiments sometimes give false-positives. An experiment that gives the correct result 95% of the time, still gives the wrong answer 5% of the time. If you run it 15-25 times, you will almost surely hit one of those false results.
+جميع التجارب تعطي في بعض الأحيان نتائج إيجابية كاذبة. التجربة التي تعطي النتيجة الصحيحة بنسبة 95% من الحالات، لا تزال تعطي إجابة خاطئة بنسبة 5% من الحالات. إذا قمت بتشغيله 15-25 مرة، فمن المؤكد أنك ستصل إلى إحدى تلك النتائج الخاطئة.
 
-This is in fact what pharmaceutical companies used to do to get drugs approved by the FDA. To prevent this behavior, the FDA now requires companies to pre-register their studies and publish all results.[^3]
+وهذا في الواقع ما اعتادت شركات الأدوية على فعله للحصول على موافقة إدارة الغذاء والدواء على الأدوية. ولمنع هذا السلوك، تطلب إدارة الغذاء والدواء الآن من الشركات تسجيل دراساتها مسبقًا ونشر جميع النتائج.[^3]
 
-[^3]: Although [there are plenty of recent cases](https://www.biospace.com/6-drugs-approved-despite-failed-trials-or-minimal-data) where companies were allowed to submit only a subset of trials, were approved, and--big surprise!--were later found to be ineffective.
+[^3]: على الرغم من [وجود الكثير من الحالات الحديثة](https://www.biospace.com/6-drugs-approved-despite-failed-trials-or-minimal-data) حيث سُمح للشركات بتقديم مجموعة فرعية فقط من التجارب، تمت الموافقة عليها، و-- المفاجأة الكبرى!-- تبين لاحقًا أنها غير فعالة.
 
-This is also what happens in the social sciences, resulting in [The Replication Crisis](https://en.wikipedia.org/wiki/Replication_crisis). An experiment is run once, often with a small number of college students. Occasionally something "interesting" happened, and a journal publishes it. Journals don't wait for other teams to reproduce the result. [Nobel Laureates have admitted](https://www.nature.com/articles/nature.2012.11535) that this fallacy has debunked their own work, and call for "replication rings" to solve the problem. But scientists are people too, and often prefer the fame generated by an astonishing result to the pain of discovering that they are infamous for perpetuating a false-positive.
+وهذا ما يحدث أيضًا في العلوم الاجتماعية، مما يؤدي إلى [أزمة النسخ](https://en.wikipedia.org/wiki/Replication_crisis). يتم إجراء التجربة مرة واحدة، وغالبًا مع عدد صغير من طلاب الجامعات. في بعض الأحيان يحدث شيء "مثير للاهتمام"، وتنشره إحدى المجلات. لا تنتظر المجلات أن تقوم الفرق الأخرى بإعادة إنتاج النتيجة. [اعترف الحائزون على جائزة نوبل](https://www.nature.com/articles/nature.2012.11535) بأن هذه المغالطة قد فضحت زيف أعمالهم، ودعوا إلى "حلقات النسخ" لحل المشكلة. لكن العلماء هم بشر أيضًا، وغالبًا ما يفضلون الشهرة الناتجة عن نتيجة مذهلة على الألم الناتج عن اكتشاف أنهم سيئو السمعة لإدامة نتائج إيجابية كاذبة.
 
-Before you shake your finger at them, shake that finger at yourself.
+قبل أن تصافحهم بإصبعك، هز هذا الإصبع على نفسك.
 
-Because you're doing this too.
+لأنك تفعل هذا أيضًا.
 
-## Faking your A/<wbr/>B tests (unintentionally)
+## تزييف اختبارات A/<wbr/>B (عن غير قصد)
 
-To see how this unfolds, consider this simple example: You're testing whether a coin is fair, i.e. that it comes up heads equally often as tails. Your experiment is to flip it 270 times, measuring how often it comes up heads. Of course we don't expect _exactly_ 50% heads, because there's randomness. What is a reasonable range to expect from 270 flips, assuming the coin really is fair? According to the binomial distribution, 90% of the time the result will be between 45% and 55% heads, if the coin is fair.
+لمعرفة كيفية حدوث ذلك، فكر في هذا المثال البسيط: أنت تختبر ما إذا كانت العملة المعدنية عادلة، أي أنها تظهر على الصورة في كثير من الأحيان بنفس القدر الذي تظهر فيه الكتابة. تتمثل تجربتك في قلبها 270 مرة، وقياس عدد المرات التي تظهر فيها الصورة. بالطبع لا نتوقع 50% من الرؤوس بالضبط، لأن هناك عشوائية. ما هو النطاق المعقول الذي يمكن توقعه من 270 رمية، على افتراض أن العملة عادلة حقًا؟ وفقًا للتوزيع ذي الحدين، ستكون النتيجة في 90% من الحالات ما بين 45% و55% من الوجه، إذا كانت العملة عادلة.
 
-So, you run the experiment, and you get 57% heads. You conclude the coin is biased, and you say "I'm 90% sure of that." Is this the right conclusion? Probably? Maybe?
+لذلك، قمت بإجراء التجربة، وحصلت على 57% من النقاط. تستنتج أن العملة متحيزة، وتقول "أنا متأكد من ذلك بنسبة 90%". هل هذا هو الاستنتاج الصحيح؟ من المحتمل؟ ربما؟
 
 ![bear flipping a coin](https://public.asmartbear.com/books/anthology/chapters/p-hacking/bear-coin-flip-2-simple.png)
 
-Now imagine you have 10 coins, and you want to test all of them for fairness. So you run the above experiment, once per coin. 9 of the tests result in "fair coin", but one test shows "biased coin".
+الآن تخيل أن لديك 10 عملات معدنية، وتريد اختبارها جميعًا للتأكد من نزاهتها. لذلك قمت بإجراء التجربة المذكورة أعلاه، مرة واحدة لكل عملة. 9 من الاختبارات تؤدي إلى "عملة عادلة"، لكن اختبار واحد يظهر "عملة متحيزة".
 
-Should we conclude that the one coin is biased? Almost surely not. Because even if all coins were fair, we know that 10% of the time the test will incorrectly conclude "biased". So this result of `9 / 1` is exactly the result we'd expect if all coins were fair.
+هل ينبغي أن نستنتج أن العملة الواحدة متحيزة؟ من المؤكد تقريبا لا. لأنه حتى لو كانت جميع العملات المعدنية عادلة، فإننا نعلم أنه في 10% من الحالات سيستنتج الاختبار بشكل غير صحيح أنها "منحازة". لذا فإن نتيجة `9 / 1` هي بالضبط النتيجة التي كنا نتوقعها إذا كانت جميع العملات المعدنية عادلة.
 
-But wait a second... what if in fact 9 coins were fair but 1 were biased? Then this is *also* the most likely result! It could have also come up `8 / 2`, but the `9 / 1` result is the most likely.
+لكن انتظر لحظة... ماذا لو كانت 9 عملات معدنية عادلة في الواقع ولكن عملة واحدة كانت متحيزة؟ إذن فهذه *أيضًا* النتيجة الأكثر ترجيحًا! كان من الممكن أيضًا أن تأتي النتيجة `8/2`، لكن النتيجة `9/1` هي الأكثر ترجيحًا.
 
-So: `9 / 1` is the most likely result _both_ if all 10 coins are fair _and_ if only 9 coins are fair.
+إذن: `9 / 1` هي النتيجة الأكثر احتمالية _إذا كانت جميع العملات العشر عادلة _و_ إذا كانت 9 عملات معدنية فقط عادلة.
 
-So... what exactly can you conclude from the `9 / 1` result? Nothing, yet, not with confidence. What you conclude is that this procedure is insufficient, and that we need to augment the procedure to correct the issue.
+إذًا... ما الذي يمكنك استنتاجه بالضبط من نتيجة "9/1"؟ لا شيء، حتى الآن، ليس بثقة. ما تستنتجه هو أن هذا الإجراء غير كافٍ، وأننا بحاجة إلى زيادة الإجراء لتصحيح المشكلة.
 
-The insight is: **You are making exactly this mistake with your A/B tests.**
+الفكرة هي: **أنت ترتكب هذا الخطأ تمامًا في اختبارات A/B.**
 
-You are running a bunch of A/B tests. You're looking for (something like) "90% confidence". Mostly the tests have a negative result. Occasionally one works; maybe one out of ten. And you conclude that was a successful test. But this is exactly what we just did with coin-flipping.
+أنت تجري مجموعة من اختبارات A/B. أنت تبحث عن (شيء مثل) "الثقة بنسبة 90%". في الغالب تكون الاختبارات نتيجة سلبية. في بعض الأحيان يعمل المرء. ربما واحد من أصل عشرة. وتوصلت إلى أن هذا كان اختبارًا ناجحًا. ولكن هذا هو بالضبط ما فعلناه للتو مع تقليب العملات المعدنية.
 
-In the real world it's often even worse, like using confidence of 85% or 80% and therefore false-positives are much more common.
+في العالم الحقيقي، غالبًا ما يكون الأمر أسوأ، مثل استخدام الثقة بنسبة 85% أو 80%، وبالتالي تكون النتائج الإيجابية الكاذبة أكثر شيوعًا.
 
-Or you don't even pick a confidence level. You don't decide how much N you need to make a conclusion. Instead you "run the test until we get a result that looks conclusive."
+أو أنك لا تختار حتى مستوى الثقة. أنت لا تقرر مقدار N الذي تحتاجه للتوصل إلى نتيجة. وبدلاً من ذلك، عليك "إجراء الاختبار حتى نحصل على نتيجة تبدو قاطعة".
 
-This particular error of "stopping whenever it looks conclusive" is called "p-hacking" by statisticians, and it's been a well-documented fallacy since the 1950s. The reason it's a fallacy, is that when N is small, random fluctuations will often cause a result that looks like "90% confidence of a positive result," whereas if you continue the experiment, the data shifts back into the territory of "negative result."
+يُطلق على هذا الخطأ الخاص المتمثل في "التوقف عندما يبدو الأمر حاسمًا" اسم "P-hacking" من قبل الإحصائيين، وقد كان مغالطة موثقة جيدًا منذ الخمسينيات من القرن الماضي. والسبب في كونها مغالطة، هو أنه عندما تكون N صغيرة، غالبًا ما تؤدي التقلبات العشوائية إلى نتيجة تبدو مثل "90% ثقة بنتيجة إيجابية"، بينما إذا واصلت التجربة، فإن البيانات تعود مرة أخرى إلى منطقة "النتيجة السلبية".
 
-I show some fun real-world examples of p-hacking, and counter-examples when the experiment is done properly, in this video:
+أعرض بعض الأمثلة الواقعية الممتعة لاختراق p، والأمثلة المضادة عندما تتم التجربة بشكل صحيح، في هذا الفيديو:
 
 ![Video by Jason Cohen - Mystery of the broken A/B test](https://public.asmartbear.com/books/anthology/chapters/p-hacking/youtube-fauo2-aqmr0-simple.png)
 
-## Marketers: The accidental p-hackers
+## المسوقون: المتسللون العرضيون
 
-Marketers have been making these p-hacking errors in A/B testing for many years. You are too.
+لقد ارتكب المسوقون أخطاء الاختراق هذه في اختبار A/B لسنوات عديدة. أنت أيضا.
 
-We have data. A study[^4] of more than 2100 real-world A/B tests across Optimizely's customer base found a 40% false positive rate. Marketers never knew it; indeed, the Optimizely software declared the tests "significant"! The Marketers never had a chance.
+لدينا بيانات. وجدت دراسة[^4] لأكثر من 2100 اختبار أ/ب حقيقي عبر قاعدة عملاء Optimizely أن معدل النتائج الإيجابية الخاطئة يصل إلى 40%. لم يعرف المسوقون ذلك قط؛ في الواقع، أعلن برنامج Optimizely أن الاختبارات "مهمة"! لم يكن لدى المسوقين فرصة أبدًا.
 
-[^4]: [Here is the study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3204791), and [here is a blog post](https://www.ron-berman.com/2018/12/17/when-a-paper-becomes-a-sensation/) from the author, addressing concerns and caveats.
+[^4]: [هذه هي الدراسة](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3204791)، و[هنا مشاركة مدونة](https://www.ron-berman.com/2018/12/17/when-a-paper-becomes-a-sensation/) من المؤلف، تتناول المخاوف والمحاذير.
 
-So, roughly half the time you think "this A/B test was successful," it wasn't.
+لذلك، في نصف الوقت تقريبًا الذي تعتقد فيه أن "اختبار أ/ب كان ناجحًا"، لم يكن كذلك.
 
-This explains another phenomenon that you're probably familiar with if you've done a lot of A/B testing:
+وهذا ما يفسر ظاهرة أخرى ربما تكون على دراية بها إذا كنت قد أجريت الكثير من اختبارات A/B:
 
-1. You run tests. Sometimes one is significant. You keep that result and continue testing new variants.
-2. You keep repeating this process, keeping the designs that are "better."
-3. Over time... one is 10% better. Another is 20% better. Another is 10% better.
-4. So, that should be 45% better overall.
-5. You look back between now and months ago when you first started all this... and you don't see a 45% improvement! Often, there's no improvement at all.
+1. تقوم بإجراء الاختبارات. في بعض الأحيان يكون أحدهما مهمًا. يمكنك الاحتفاظ بهذه النتيجة ومتابعة اختبار المتغيرات الجديدة.
+2. تستمر في تكرار هذه العملية، مع الاحتفاظ بالتصميمات "الأفضل".
+3. مع مرور الوقت...واحد أفضل بنسبة 10٪. والآخر أفضل بنسبة 20٪. والآخر أفضل بنسبة 10٪.
+4. لذا، ينبغي أن يكون ذلك أفضل بنسبة 45٪ بشكل عام.
+5. تنظر إلى الوراء من الآن وحتى أشهر مضت عندما بدأت كل هذا لأول مرة... ولا ترى تحسنًا بنسبة 45%! في كثير من الأحيان، لا يوجد أي تحسن على الإطلاق.
 
-Why didn't all those improvements add up? Because they were false-positives.
+لماذا لم تتم إضافة كل هذه التحسينات؟ لأنها كانت إيجابية كاذبة.
 
-Shopify confirms this theory with years of data.[^5] Their 600-person Growth Team constantly runs funnel-optimizing A/B tests, but because they understand the p-hacking phenomenon, they not only look at short term results (2-8 weeks) but whether the results hold over the long run (12 months). Their results: Of the tests which show statistically-significant improvement in the short-term, 35% of the time the effect disappears over the long run.
+تؤكد Shopify هذه النظرية من خلال سنوات من البيانات.[^5] يقوم فريق النمو التابع لهم والمكون من 600 شخص بإجراء اختبارات A/B لتحسين مسار التحويل، ولكن نظرًا لأنهم يفهمون ظاهرة الاختراق، فإنهم لا ينظرون فقط إلى النتائج قصيرة المدى (2-8 أسابيع) ولكن ما إذا كانت النتائج ستصمد على المدى الطويل (12 شهرًا). نتائجهم: من بين الاختبارات التي تظهر تحسنًا ملحوظًا إحصائيًا على المدى القصير، يختفي التأثير على المدى الطويل بنسبة 35% من الحالات.
 
-[^5]: From [this 2025 interview](https://www.lennysnewsletter.com/p/shopifys-growth-archie-abrams) of Archie Abrams, Shopify's VP of Product and Head of Growth, starting around the 18-minute mark.
+[^5]: من [هذه المقابلة لعام 2025](https://www.lennysnewsletter.com/p/shopifys-growth-archie-abrams) لآرتشي أبرامز، نائب رئيس المنتج ورئيس قسم النمو في Shopify، بدءًا من علامة 18 دقيقة تقريبًا.
 
-And other people experience this anecdotally:
+وأشخاص آخرون يختبرون هذا من خلال القصص المتناقلة:
 
 ![Figure 2](https://public.asmartbear.com/books/anthology/chapters/p-hacking/tweet9-simple.png)
 
-## How to stop fooling yourself
+## كيف تتوقف عن خداع نفسك
 
-The easiest thing is to run the test again.
+أسهل شيء هو إجراء الاختبار مرة أخرى.
 
-If false positives are 1 in 10 at 90% confidence, then you should be able to run a second test, and get the same result.
+إذا كانت النتائج الإيجابية الكاذبة هي 1 من 10 بنسبة ثقة 90%، فمن المفترض أن تكون قادرًا على إجراء اختبار ثانٍ والحصول على نفس النتيجة.
 
-And don't stop tests early. I know you're excited. Just wait. No p-hacking.
+ولا توقف الاختبارات مبكرا. أعلم أنك متحمس. فقط انتظر. لا يوجد قرصنة.
 
-And seek large effects, like double-digit changes in conversion rates. Large effects are unlikely to be caused by randomness; small fluctuations are far more likely to be false-positives. And anyway, large effects actually have an impact on the business, whereas small effects don't. This might mean testing drastic changes instead of incremental ones.
+وابحث عن تأثيرات كبيرة، مثل التغييرات المكونة من رقمين في معدلات التحويل. ومن غير المرجح أن تكون العشوائية ناجمة عن تأثيرات كبيرة؛ من المرجح أن تكون التقلبات الصغيرة نتائج إيجابية كاذبة. وعلى أية حال، فإن التأثيرات الكبيرة لها في الواقع تأثير على العمل، في حين أن التأثيرات الصغيرة لا تؤثر. قد يعني هذا اختبار تغييرات جذرية بدلاً من التغييرات التدريجية.
 
-That's it? Almost--**there's a much smarter way to go about this**. And if you want to keep your job even with the rise of AI, you need to be smarter than just running a bunch of variants.
+هذا كل شيء؟ تقريبًا--**هناك طريقة أكثر ذكاءً للقيام بذلك**. وإذا كنت تريد الاحتفاظ بوظيفتك حتى مع ظهور الذكاء الاصطناعي، فيجب أن تكون أكثر ذكاءً من مجرد تشغيل مجموعة من المتغيرات.
 
 ![You won't believe it! Anderson's experiment... the results... they're conclusive! Conclusive I tell you!](https://public.asmartbear.com/books/anthology/chapters/p-hacking/d6798print-simple.png)
 
-## Form a theory, test the theory, extend the theory
+## قم بتكوين نظرية، واختبر النظرية، وقم بتوسيع النظرية
 
-Too often A/B tests are just "throwing shit at the wall." We excuse this behavior by saying "No one knows which headline will work; it's impossible to predict, so we just try things."
+في كثير من الأحيان، تكون اختبارات A/B مجرد "رمي الهراء على الحائط". نحن نعذر هذا السلوك بالقول: "لا أحد يعرف أي عنوان سينجح؛ من المستحيل التنبؤ به، لذلك نحن فقط نجرب الأشياء".
 
-Not only is this thoughtless and lazy, it also means **you haven't learned anything, regardless of the result of the test.**
+لا يعد هذا أمرًا طائشًا وكسولًا فحسب، بل يعني أيضًا ** أنك لم تتعلم أي شيء، بغض النظر عن نتيجة الاختبار.**
 
-You don't want to be a mindless slinger of random phrases. AI can do that too, and AI isn't a good marketer. Instead, you want to **create validated learning.**
+أنت لا تريد أن تكون قاذفًا طائشًا للعبارات العشوائية. يمكن للذكاء الاصطناعي أن يفعل ذلك أيضًا، والذكاء الاصطناعي ليس مسوقًا جيدًا. وبدلاً من ذلك، تريد **إنشاء عملية تعليمية تم التحقق من صحتها**.
 
 ![bear lab coat](https://public.asmartbear.com/books/anthology/chapters/p-hacking/image-3-simple.png)
 
-To do this, form a theory, then design experiments to test the theory. Example theories:
+للقيام بذلك، قم بتكوين نظرية، ثم قم بتصميم تجارب لاختبار النظرية. نظريات الأمثلة:
 
-1. At this point on the website, visitors are ready to buy, so send them down a purchase funnel with a restricted UX.
-2. Here people want to learn more, so talk about options and let them explore features rather than being crammed down a funnel.
-3. People are on the fence, so we should be more forceful and confident in our language.
-4. People can't see well, especially on mobile devices, so we should have higher contrast colors and less text.
-5. Pictures work better than paragraphs, especially since people hate reading and half of them don't speak English natively.
-6. People are more likely to click buttons than to click links.
-7. People from marketing channel X are more likely to be in a Y state of mind, and to be excited by Z.
+1. في هذه المرحلة على موقع الويب، يكون الزائرون جاهزين للشراء، لذا أرسلهم إلى مسار تحويل الشراء باستخدام تجربة مستخدم مقيدة.
+2. هنا يرغب الأشخاص في معرفة المزيد، لذا تحدث عن الخيارات واسمح لهم باستكشاف الميزات بدلاً من حشرهم في مسار التحويل.
+3. الناس على الحياد، لذا يجب أن نكون أكثر قوة وثقة في لغتنا.
+4. لا يستطيع الأشخاص الرؤية جيدًا، خاصة على الأجهزة المحمولة، لذلك يجب أن يكون لدينا ألوان ذات تباين أعلى ونص أقل.
+5. الصور تعمل بشكل أفضل من الفقرات، خاصة وأن الناس يكرهون القراءة ونصفهم لا يتحدثون الإنجليزية كلغة أصلية.
+6. من المرجح أن ينقر الأشخاص على الأزرار أكثر من النقر على الروابط.
+7. من المرجح أن يكون الأشخاص من قناة التسويق X في الحالة الذهنية Y، وأن يكونوا متحمسين لـ Z.
 
-Perhaps some theories already popped into your mind. Good! Write those down. Then make designs that would perform better if that theory were true.
+ربما ظهرت بعض النظريات في ذهنك بالفعل. جيد! اكتب تلك. ثم قم بتصميم تصميمات من شأنها أن تؤدي أداءً أفضل إذا كانت هذه النظرية صحيحة.
 
-It's not "shit on the wall" because this time you have a specific Theory of Customer that your wall-shit is designed to test. And that makes all the difference:
+إنه ليس "تافهًا على الحائط" لأنه هذه المرة لديك نظرية محددة للعميل والتي تم تصميم جدارك لاختبارها. وهذا يجعل كل الفرق:
 
-#### The negative result
+#### النتيجة السلبية
 
-Let's say you pick a theory, run a test, and it fails. Is your theory disproved?
+لنفترض أنك اخترت نظرية، وأجريت اختبارًا، وفشلت. هل تم دحض نظريتك؟
 
-Not quite yet. Perhaps your implementation wasn't the best manifestation of the theory. Not extreme enough, or had other issues that covered up the good effects. If you feel this might be the case, run a new experiment.
+ليس تماما بعد. ربما لم يكن تطبيقك هو أفضل مظهر للنظرية. لم يكن متطرفًا بدرجة كافية، أو كان به مشكلات أخرى تحجب التأثيرات الجيدة. إذا كنت تشعر أن هذا هو الحال، قم بإجراء تجربة جديدة.
 
-But if you're still not getting positive results after a few iterations, you have accumulated evidence that the theory is incorrect. That is called "learning." Which wasn't happening when you "threw shit at the wall." Now you know that you need to invent a new, different theory and test *that*.
+ولكن إذا كنت لا تزال لا تحصل على نتائج إيجابية بعد عدة تكرارات، فقد تراكمت لديك أدلة على أن النظرية غير صحيحة. وهذا ما يسمى "التعلم". وهو ما لم يحدث عندما "ألقيت القرف على الحائط". الآن أنت تعلم أنك بحاجة إلى اختراع نظرية جديدة ومختلفة واختبارها.
 
-How useful, and directed.
+كم هو مفيد، وموجه.
 
-#### The positive result
+#### النتيجة الإيجابية
 
-Suppose you had a positive result. Hooray!
+لنفترض أنك حصلت على نتيجة إيجابية. مرحا!
 
-Is the theory proven? No, because you read the first half of the article, so you know that positive A/B tests are often false. So, what do you do?
+هل تم إثبات النظرية؟ لا، لأنك قرأت النصف الأول من المقالة، فتعرف أن اختبارات A/B الإيجابية غالبًا ما تكون خاطئة. إذن، ماذا تفعل؟
 
-You lean even further into the theory. Run another test that's even more extreme, or a different form of the same concept.
+أنت تميل أكثر إلى النظرية. قم بإجراء اختبار آخر أكثر تطرفًا، أو شكلًا مختلفًا لنفس المفهوم.
 
-If the theory is truly correct, that will work again, perhaps even better! If it reverts to nothing, you know it wasn't a real result.
+إذا كانت النظرية صحيحة حقًا، فسيعمل ذلك مرة أخرى، وربما أفضل! إذا عادت إلى لا شيء، فأنت تعلم أنها لم تكن نتيجة حقيقية.
 
-Now you're not fooling yourself. You're finding theories that actually correct. That's what "validated learning" looks like.
+الآن أنت لا تخدع نفسك. أنت تجد نظريات صحيحة بالفعل. هذا ما يبدو عليه "التعلم المعتمد".
 
-Since you've actually learned something, you can extend the theory. What else is probably true? What new designs and text and pictures would leverage those insights even more? Now you might make multiple leaps of improvement, rather than spraying random things on your website.
+وبما أنك تعلمت شيئًا ما بالفعل، فيمكنك توسيع النظرية. ما الذي ربما يكون صحيحًا أيضًا؟ ما هي التصميمات والنصوص والصور الجديدة التي من شأنها تعزيز هذه الأفكار بشكل أكبر؟ يمكنك الآن إجراء العديد من خطوات التحسين، بدلاً من نشر أشياء عشوائية على موقع الويب الخاص بك.
 
-And you're a smart marketer that AI cannot replace.
-
----
-
-Most theories won't be right (or at least not impactful enough to matter). Most tests will come up negative. That's frustrating but it's the truth. Even for world-class testers like Shopify's Growth Team.
-
-You *do* [want the truth](https://longform.asmartbear.com/failure-to-face-the-truth/)...
-
-Don't you?
+وأنت مسوق ذكي لا يمكن للذكاء الاصطناعي أن يحل محله.
 
 ---
 
-*Many thanks to [Einar Vollset](https://x.com/einarvollset) for reviewing early drafts.*
+معظم النظريات لن تكون صحيحة (أو على الأقل لن تكون مؤثرة بما يكفي لتكون مهمة). معظم الاختبارات سوف تأتي سلبية. هذا محبط لكنها الحقيقة. حتى بالنسبة للمختبرين ذوي المستوى العالمي مثل فريق النمو في Shopify.
+
+أنت *تفعل* [تريد الحقيقة](https://longform.asmartbear.com/failure-to-face-the-truth/)...
+
+أنت , لا؟
+
+---
+
+*شكرًا جزيلا لـ [Einar Vollset](https://x.com/einarvollset) لمراجعة المسودات الأولية.*

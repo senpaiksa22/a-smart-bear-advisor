@@ -20,58 +20,45 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** تقليص الخيارات المتاحة: كيف يؤدي تقييد البدائل لقرارات أسرع وأفضل تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Limiting Options
-
-> **Executive Summary:** The winning strategy in Othello is to minimize your opponent's options, rather than maximizing your own. The same principle applies to competitive strategy.
-> **Original URL:** [https://longform.asmartbear.com/limiting-options/](https://longform.asmartbear.com/limiting-options/)
-
-The 1990s was the golden age of computer AI's for the board game [Othello](https://en.wikipedia.org/wiki/Reversi). (If there ever was a golden age...)
+كانت فترة التسعينيات هي العصر الذهبي للذكاء الاصطناعي للكمبيوتر في لعبة اللوحة [عطيل](https://en.wikipedia.org/wiki/Reversi). (إذا كان هناك عصر ذهبي ...)
 
 ![othello game board](https://public.asmartbear.com/books/anthology/chapters/limiting-options/image-simple.png)
 
-Programmers love the idea of computers beating humans at "intellectual games." For me, it's the "mad inventor" idea of creating something more intelligent than myself (whatever that means).
+يحب المبرمجون فكرة تفوق أجهزة الكمبيوتر على البشر في "الألعاب الفكرية". بالنسبة لي، إنها فكرة "المخترع المجنون" المتمثلة في إنشاء شيء أكثر ذكاءً مني (مهما كان معنى ذلك).
 
-At the time, Checkers had been solved and Chess was close. It was Othello's turn to fall.
+في ذلك الوقت، تم حل لعبة الداما وكانت لعبة الشطرنج قريبة. لقد كان دور عطيل ليسقط.
 
-**What's interesting is how the winning strategy worked.**
+**الأمر المثير للاهتمام هو كيفية عمل الإستراتيجية الفائزة.**
 
-The typical computer board game strategy is: Look many moves ahead and rate each resulting board position. Then pick the move that maximizes the ultimate board position you can achieve, even if the other player makes the best-possible move every time. The trick is in rating the "goodness" of a particular board position.
+الإستراتيجية النموذجية للعبة لوحة الكمبيوتر هي: انظر إلى العديد من التحركات للأمام وقم بتقييم كل موضع لوحة ناتج. ثم اختر الحركة التي تزيد من الوضع النهائي الذي يمكنك تحقيقه على اللوحة، حتى لو قام اللاعب الآخر بأفضل حركة ممكنة في كل مرة. تكمن الحيلة في تقييم "جودة" منصب معين في مجلس الإدارة.
 
-In Othello you win once there are no more legal moves, and if you have more tiles of your color than your opponent does. Therefore, typical metrics for "goodness" of Othello boards included things like "How many tiles of my own color do I have" (more is better), and "Tiles of my color at the edge of the board are more valuable than in the middle" (the edge is a better strategic position).
+في عطيل، ستفوز بمجرد عدم وجود المزيد من الحركات القانونية، وإذا كان لديك عدد أكبر من المربعات من لونك أكثر من خصمك. ولذلك، فإن المقاييس النموذجية لـ "جودة" لوحات عطيل تتضمن أشياء مثل "كم عدد البلاطات التي أملكها من اللون الخاص بي" (الأكثر هو الأفضل)، و"البلاطات ذات اللون الخاص بي الموجودة على حافة اللوحة أكثر قيمة من الموجودة في المنتصف" (الحافة هي موقع استراتيجي أفضل).
 
-What's neat is that the winning strategy used a completely different "goodness" metric. Specifically the metric was: How many valid moves does my opponent have? Fewer is better.
+الأمر الرائع هو أن الإستراتيجية الفائزة استخدمت مقياس "الخير" مختلفًا تمامًا. كان المقياس على وجه التحديد هو: ما عدد النقلات الصحيحة التي يمتلكها خصمي؟ الأقل هو الأفضل.
 
-The flip was that it's not primarily about how many tiles you have or even the positions of your pieces. Instead it's about limiting how many choices your opponent has. **Limiting choice is more important than what the choices are.**
+كان الوجه هو أن الأمر لا يتعلق في المقام الأول بعدد البلاط الذي لديك أو حتى مواضع القطع الخاصة بك. بدلاً من ذلك، يتعلق الأمر بتحديد عدد الخيارات المتاحة لخصمك. **الحد من الاختيارات أكثر أهمية من ماهية الاختيارات.**
 
-This principle is common in defensive theories of sports. The defense can never cover all contingencies so instead it forces the offense into higher-risk, lower-percentage moves. In basketball you can't simultaneously cover the long shot and the charge, so you elect to give up the low-percentage three-point shot. In football you can't cover both in-routes and out-routes, so you force a throw into as much traffic as possible.
+هذا المبدأ شائع في النظريات الدفاعية للرياضة. لا يمكن للدفاع أبدًا تغطية جميع الحالات الطارئة، لذا فهو بدلاً من ذلك يجبر الهجوم على تحركات ذات خطورة أعلى وبنسبة أقل. في كرة السلة، لا يمكنك تغطية التسديدة الطويلة والهجوم في نفس الوقت، لذا تختار التخلي عن التسديدة ذات النسبة المنخفضة ذات الثلاث نقاط. في كرة القدم، لا يمكنك تغطية كل من الطرق الداخلية والخارجية، لذا عليك فرض رمية في أكبر قدر ممكن من حركة المرور.
 
-In business your competitors always have options. **How can you limit their choices to things that are low-percentage or expensive?** Make them have to spend more money, get more lucky, or be more creative.
+في مجال الأعمال، يكون لدى منافسيك دائمًا خيارات. **كيف يمكنك قصر خياراتهم على الأشياء ذات النسبة المنخفضة أو باهظة الثمن؟ ** اجعلهم يضطرون إلى إنفاق المزيد من المال، أو الحصول على المزيد من الحظ، أو أن يكونوا أكثر إبداعًا.
 
-Here's some:
+وهنا بعض:
 
-#### Honor the competitor's coupons
-This eliminates the coupon as a way for your competitor to "beat" you; coupons are no longer a "choice" to develop a competitive edge.
+#### تكريم كوبونات المنافس
+يؤدي هذا إلى إلغاء القسيمة كوسيلة لمنافسك "للتغلب عليك"؛ لم تعد القسائم "خيارًا" لتطوير الميزة التنافسية.
 
-#### Overpay for the best advertising slots
-You are paying too much if you measure the direct ROI only, but there's also the value of forcing competitors into a low-converting ad position, leading to many fewer customers at any price.
+#### دفع مبالغ زائدة للحصول على أفضل فتحات إعلانية
+أنت تدفع الكثير إذا قمت بقياس عائد الاستثمار المباشر فقط، ولكن هناك أيضًا قيمة إجبار المنافسين على وضع إعلان منخفض التحويل، مما يؤدي إلى انخفاض عدد العملاء بأي ثمن.
 
-#### Pay for exclusive deals with the largest affiliates
-You are (again) paying too much if you measure the direct ROI only, but you force competitors to work with affiliates who can generate only 1/10th the leads.
+#### ادفع مقابل الصفقات الحصرية مع أكبر الشركات التابعة
+أنت (مرة أخرى) تدفع الكثير جدًا إذا قمت بقياس عائد الاستثمار المباشر فقط، لكنك تجبر المنافسين على العمل مع الشركات التابعة التي يمكنها توليد 1/10 فقط من العملاء المحتملين.
 
-#### Exclusive deals with brand-name suppliers
-Often your suppliers are invisible to your customers, but sometimes their identity is known, either because it cannot be helped or it's part of your value-proposition that you're integrated with a well-known brand. If that integration is something customers value, and you can make it exclusive, then your competitors have to find other, less-desirable ways to achieve the same thing, or else completely cede that capability to you.
+#### عروض حصرية مع موردي العلامات التجارية
+غالبًا ما يكون موردوك غير مرئيين لعملائك، ولكن في بعض الأحيان تكون هويتهم معروفة، إما لأنه لا يمكن مساعدتهم أو لأنه جزء من عرض القيمة الخاص بك الذي يتم دمجه مع علامة تجارية معروفة. إذا كان هذا التكامل شيئًا يقدره العملاء، ويمكنك جعله حصريًا، فيجب على منافسيك إيجاد طرق أخرى أقل رغبة لتحقيق نفس الشيء، وإلا سيتنازلون تمامًا عن هذه القدرة لك.
 
-#### Patents (but...)
-Patents limit how a competitor can compete. If no one else can use your method, they'll have to think of another way. But note: This is useless in software, where it's always easy to do it another way. Software companies don't protect themselves from competitors with patents; fortunately dozens of [moats](https://longform.asmartbear.com/moats/) are potentially available.
+#### براءات الاختراع (ولكن...)
+براءات الاختراع تحد من قدرة المنافس على المنافسة. إذا لم يتمكن أي شخص آخر من استخدام طريقتك، فسيتعين عليه التفكير في طريقة أخرى. لكن لاحظ: هذا غير مفيد في البرامج، حيث يكون من السهل دائمًا القيام بذلك بطريقة أخرى. شركات البرمجيات لا تحمي نفسها من المنافسين ببراءات الاختراع؛ لحسن الحظ، من المحتمل أن تكون العشرات من [الخنادق] (https://longform.asmartbear.com/moats/) متاحة.
 
-We've done a few things at Smart Bear to limit options. For example, we're so strongly established as "the experts in code review," it would take an expensive, time-consuming effort for someone else to claim par, much less surpass what we've done. We literally wrote the book, we did the largest-ever study on code review, we have years of history, we have the most popular tool. It's possible, but very hard, for someone else to compete on that particular basis.
+لقد قمنا ببعض الأشياء في Smart Bear للحد من الخيارات. على سبيل المثال، لقد تم تأسيسنا بقوة كـ "خبراء في مراجعة التعليمات البرمجية"، حيث سيستغرق الأمر جهدًا مكلفًا ويستغرق وقتًا طويلاً حتى يتمكن شخص آخر من المطالبة بالمساواة، ناهيك عن تجاوز ما فعلناه. لقد كتبنا الكتاب حرفيًا، وقمنا بأكبر دراسة على الإطلاق حول مراجعة التعليمات البرمجية، ولدينا سنوات من التاريخ، ولدينا الأداة الأكثر شيوعًا. من الممكن، ولكن من الصعب جدًا، أن يتنافس شخص آخر على هذا الأساس بالذات.
 
-This matters because in my opinion, being "the expert" is the best qualifier for our particular market, which is the Enterprise; our customers are people like Microsoft, Qualcomm, Intuit, IBM, and Adobe. Our customers are less interested in "lowest cost" or "simplest installation" (even though our installation *is* simple). If my opinion is true, I've removed the single best product-positioning choice from competition, and they'll have to find a less desirable, lower-percentage path.
+وهذا مهم لأنه في رأيي، كونك "الخبير" هو أفضل مؤهل لسوقنا المحدد، وهو المؤسسة؛ عملاؤنا هم أشخاص مثل Microsoft وQualcomm وIntuit وIBM وAdobe. يهتم عملاؤنا بشكل أقل بـ "أقل تكلفة" أو "أبسط عملية تركيب" (على الرغم من أن عملية التثبيت الخاصة بنا * بسيطة *). إذا كان رأيي صحيحًا، فقد قمت بإزالة الخيار الأفضل لتحديد موضع المنتج من المنافسة، وسيتعين عليهم العثور على مسار أقل رغبة وأقل نسبة مئوية.

@@ -20,179 +20,166 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** المزايا التنافسية غير العادلة الحقيقية التي لا يمكن للمنافسين نسخها تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Real Unfair Advantages
-
-> **Executive Summary:** It's not a question of if someone copies your business idea, it's when.
-> **Original URL:** [https://longform.asmartbear.com/unfair-advantages/](https://longform.asmartbear.com/unfair-advantages/)
-
 ![i do have solution but it means moving to santas naughty list](https://public.asmartbear.com/books/anthology/chapters/unfair-advantages/d4319print-simple.png)
 
-### What if someone copies your awesome business idea?
+### ماذا لو قام شخص ما بنسخ فكرة عملك الرائعة؟
 
-The question you know you're going to get:
+السؤال الذي تعرف أنك ستحصل عليه:
 
-> When I meet an angel investor, he may ask: "What if a big company copies your idea and develops the same website as yours after your website goes public?"  
->   
-> How can I answer this question?
+> عندما أقابل مستثمرًا ملائكيًا، قد يسأل: "ماذا لو قامت شركة كبيرة بنسخ فكرتك وتطوير نفس موقع الويب الخاص بك بعد أن يتم نشر موقع الويب الخاص بك؟"
+> 
+> كيف يمكنني الإجابة على هذا السؤال؟
 
-No, the question is: What are you doing *now* knowing that a big company *will* copy your idea?
+لا، السؤال هو: ماذا تفعل *الآن* وأنت تعلم أن شركة كبيرة *ستقوم* بتقليد فكرتك؟
 
-No, wait, the real question is: What are you going to do when another smart, scrappy startup copies it, and gets $10m in funding, and is thrice featured on TechCrunch?
+لا، انتظر، السؤال الحقيقي هو: ماذا ستفعل عندما تقوم شركة ناشئة ذكية أخرى بنسخها، وتحصل على تمويل بقيمة 10 ملايين دولار، ويتم عرضها ثلاث مرات على TechCrunch؟
 
-No, wait, I'm sorry, the *real* question is: What are you going to do when there are four totally free, open-source competitors?
+لا، انتظر، أنا آسف، السؤال *الحقيقي* هو: ماذا ستفعل عندما يكون هناك أربعة منافسين مجانيين تمامًا ومفتوحي المصدر؟
 
-No wait, I forgot, actually the question is: What happens when employee #2 makes off with your code and roadmap and marketing data and customer list, moves to Bolivia, and starts selling your stuff world-wide at one-tenth the price?
+لا انتظر، لقد نسيت، السؤال في الواقع هو: ماذا يحدث عندما يسرق الموظف رقم 2 الكود الخاص بك وخريطة الطريق وبيانات التسويق وقائمة العملاء، وينتقل إلى بوليفيا، ويبدأ في بيع أغراضك في جميع أنحاء العالم بعشر السعر؟
 
-The good news: **There *are* good answers to these questions!**
+الخبر السار: **توجد *إجابات جيدة لهذه الأسئلة!**
 
-The bad news: Almost no one I talk to has good answers, *but they think they do*. And that's fatal, because it means they're not working towards remedying that situation. Which means when one of the above scenarios happens, it will be too late.
+الأخبار السيئة: لا أحد تقريبًا ممن أتحدث إليهم لديه إجابات جيدة، *لكنهم يعتقدون أنهم يمتلكونها*. وهذا أمر قاتل، لأنه يعني أنهم لا يعملون على معالجة هذا الوضع. مما يعني أنه عندما يحدث أحد السيناريوهات المذكورة أعلاه، فسيكون الأوان قد فات.
 
-### The first step is admitting you have a problem.
+### الخطوة الأولى هي الاعتراف بأن لديك مشكلة.
 
-Anything that *can* be copied *will* be copied, including features, marketing copy, and pricing. Anything you read on popular blogs is also read by everyone else. You don't have an "edge" just because you're passionate, hard-working, or "lean."
+أي شيء *يمكن* نسخه *سيتم* نسخه، بما في ذلك الميزات والنسخة التسويقية والتسعير. أي شيء تقرأه على المدونات الشهيرة يقرأه أيضًا أي شخص آخر. ليس لديك "ميزة" لمجرد أنك شغوف، أو مجتهد، أو "هزيل".
 
-**The only real competitive advantage is that which cannot be copied and cannot be bought.**
+**الميزة التنافسية الحقيقية الوحيدة هي تلك التي لا يمكن تقليدها ولا يمكن شراؤها.**
 
-Like what?
+مثل ماذا؟
 
-### Insider information
+### معلومات داخلية
 
-They say the only way to consistently make money on Wall Street is to have insider information. Unfortunately it's not a joke, and although it's illegal (and people occasionally go to jail for it), those in the know will tell you it's the norm.
+يقولون إن الطريقة الوحيدة لكسب المال باستمرار في وول ستريت هي الحصول على معلومات داخلية. لسوء الحظ، هذه ليست مزحة، وعلى الرغم من أنها غير قانونية (وأحيانًا ما يدخل الناس السجن بسببها)، إلا أن الأشخاص الذين يعرفون ذلك سيخبرونك أنها القاعدة.
 
 ![what happens to stock when i do this](https://public.asmartbear.com/books/anthology/chapters/unfair-advantages/d4122print-simple.png)
 
-Fortunately, using intimate knowledge of an industry and the specific pain points within an industry is a perfectly legal unfair advantage for a startup.
+ولحسن الحظ، فإن استخدام المعرفة الوثيقة بصناعة ما ونقاط الضعف المحددة داخل الصناعة يعد ميزة قانونية غير عادلة تمامًا للشركات الناشئة.
 
-Here's a real-world example of how this advantage manifests. Adriana has been a psychiatrist for 10 years; she understands the ins and outs of that business. During a lull in her practice she got a serendipitous opportunity to shift gears completely and ended up leading software product development teams. (Turns out that for big-business project management it's more valuable to be a sensible thinker and counselor than to be an expert in debugging legacy C++ code.)
+فيما يلي مثال واقعي لكيفية ظهور هذه الميزة. أدريانا تعمل طبيبة نفسية منذ 10 سنوات؛ إنها تفهم خصوصيات وعموميات هذا العمل. خلال فترة هدوء في ممارستها، حصلت على فرصة مصادفة لتغيير المسار تمامًا وانتهى بها الأمر بقيادة فرق تطوير منتجات البرمجيات. (تبين أنه بالنسبة لإدارة مشاريع الأعمال الكبيرة، من الأفضل أن تكون مفكرًا ومستشارًا عاقلًا بدلاً من أن تكون خبيرًا في تصحيح أخطاء كود C++ القديم.)
 
-Now Adriana has an epiphany: Traditional practice-management software for psychiatrists totally sucks; she knows both the pain points and the existing software first-hand. But now she has the vision and ability to design her own software, capitalizing on modern trends (e.g. a web application instead of cumbersome installed applications) and new interpretations of HIPPA regulation (which allows web-based applications to store medical records like patient histories).
+الآن لدى أدريانا فكرة واضحة: برامج إدارة الممارسات التقليدية للأطباء النفسيين سيئة تمامًا؛ إنها تعرف نقاط الألم والبرامج الموجودة بشكل مباشر. لكنها الآن تتمتع بالرؤية والقدرة على تصميم برامجها الخاصة، مع الاستفادة من الاتجاهات الحديثة (مثل تطبيق الويب بدلاً من التطبيقات المثبتة المرهقة) والتفسيرات الجديدة لتنظيم HIPPA (الذي يسمح للتطبيقات المستندة إلى الويب بتخزين السجلات الطبية مثل تاريخ المريض).
 
-Adriana holds a unique position: Expert in the industry, able to "geek out" with her target customer, yet capable of leading a product team. Even if someone else saw Adriana's product after the fact, it's almost impossible to find a person--or even assemble a team--who has more integrated knowledge. At best, they could copy. Of course by then Adriana has moved on to version two.
+تشغل أدريانا منصبًا فريدًا: خبيرة في الصناعة، قادرة على "التعامل" مع عملائها المستهدفين، لكنها قادرة في نفس الوقت على قيادة فريق المنتج. حتى لو رأى شخص آخر منتج Adriana بعد وقوعه، فمن المستحيل تقريبًا العثور على شخص - أو حتى تجميع فريق - يتمتع بمعرفة أكثر تكاملاً. وفي أحسن الأحوال، يمكنهم التقليد. بالطبع بحلول ذلك الوقت انتقلت Adriana إلى الإصدار الثاني.
 
-### Single-minded, uncompromising obsession with One Thing
+### تفكير واحد، هوس لا هوادة فيه بشيء واحد
 
-A popular comment on the [previous post](https://blog.asmartbear.com/not-competitive-advantage.html) was that a "Unique Feature" *could* be a competitive advantage in some circumstances. Some examples of a feature being a company's primary advantage are:
+كان أحد التعليقات الشائعة على [المنشور السابق](https://blog.asmartbear.com/not-competitive-advantage.html) هو أن "الميزة الفريدة" *يمكن* أن تكون ميزة تنافسية في بعض الظروف. بعض الأمثلة على الميزة التي تعتبر الميزة الأساسية للشركة هي:
 
-* Apple compromises everything in the name of design. Their products are over-priced (magically being profitable at half the price 12 months after release), buggy (how many iOS debacles have there been?), and every experience I've had with their tech support has been atrocious, but man their stuff looks and feels nice! (I'm typing this on an Air and there's an iPhone in my pocket, so no Apple fan-boy mail please.)
-* Google's search algorithm was just better, therefore they won the eyeballs, therefore they were able to monetize. Sure Bing and Yahoo are good *now*, but the advantage lasted long enough.
-* Photodex is a little company you've never heard of I worked for in Austin in the 90s. We made an image browser with thumbnail previews so you didn't have to open each file individually to see what it was. (In the 90s, y'all, before that was built into all the operating systems!) Our advantage was speed. Not the best, not the most stable, didn't read the most formats, didn't have the most features, just "fastest." For many users of that product, speed wins; Photodex now makes tens of millions of dollars a year, and "speed" is still the only point on which they will not compromise.
+* أبل تتنازل عن كل شيء باسم التصميم. منتجاتهم باهظة الثمن (تصبح مربحة بشكل سحري بنصف السعر بعد 12 شهرًا من الإصدار)، وعربات التي تجرها الدواب (كم عدد الكوارث التي حدثت لنظام التشغيل iOS؟)، وكانت كل تجربة مررت بها مع الدعم الفني فظيعة، ولكن يبدو أن منتجاتهم تبدو رائعة! (أنا أكتب هذا على الهواء وهناك جهاز iPhone في جيبي، لذا لا يوجد بريد إلكتروني من محبي Apple من فضلك.)
+* لقد كانت خوارزمية بحث Google أفضل، ولذلك فقد حازت على الاهتمام، وبالتالي تمكنت من تحقيق الدخل. من المؤكد أن Bing وYahoo جيدان *الآن*، لكن الميزة استمرت لفترة كافية.
+* Photodex هي شركة صغيرة لم تسمع عنها من قبل، وقد عملت بها في أوستن في التسعينيات. لقد أنشأنا متصفحًا للصور مزودًا بمعاينات الصور المصغرة حتى لا تضطر إلى فتح كل ملف على حدة لترى ما هو عليه. (في التسعينيات، قبل أن يتم دمج ذلك في جميع أنظمة التشغيل!) كانت ميزتنا هي السرعة. ليس الأفضل، وليس الأكثر استقرارًا، ولم يقرأ معظم التنسيقات، ولم يكن لديه معظم الميزات، فقط "الأسرع". بالنسبة للعديد من مستخدمي هذا المنتج، السرعة هي المنتصرة؛ تجني شركة Photodex الآن عشرات الملايين من الدولارات سنويًا، ولا تزال "السرعة" هي النقطة الوحيدة التي لن تتنازل عنها.
 
-However it's not enough for a feature to merely be unique ([like my mini-browser](https://longform.asmartbear.com/creativity-over-optimization/)) because it's still easily duplicated. Indeed, most of the innovations we've made at [Smart Bear](https://smartbear.com/) in the art of code review have already been duplicated by both commercial and open-source competitors.
+ومع ذلك، لا يكفي أن تكون الميزة فريدة فقط ([مثل متصفحي المصغر](https://longform.asmartbear.com/creativity-over-optimization/)) لأنه لا يزال من السهل تكرارها. في الواقع، تم بالفعل تكرار معظم الابتكارات التي قمنا بها في [Smart Bear](https://smartbear.com/) في فن مراجعة التعليمات البرمجية من قبل المنافسين التجاريين ومفتوحي المصدر.
 
-Rather, this requires **_unwavering_ devotion to the One Thing that is (a) hard, and (b) you refuse to lose, no matter what.**
+بل يتطلب هذا **_إخلاصًا لا يتزعزع للشيء الوحيد الذي (أ) الصعب، و(ب) أنك ترفض الخسارة مهما حدث.**
 
-Google has spent hundreds of millions of dollars on their search algorithm, the single biggest focus of the company even today, a decade after they decided that was their One Thing. They refuse to be beaten by competitors or black-hat hackers, whatever it takes.
+أنفقت شركة جوجل مئات الملايين من الدولارات على خوارزمية البحث الخاصة بها، والتي تعد أكبر محور تركيز للشركة حتى اليوم، بعد عقد من قرارها بأن هذا هو الشيء الوحيد الذي تطمح إليه. إنهم يرفضون التعرض للضرب من قبل المنافسين أو قراصنة القبعة السوداء، مهما كلف الأمر.
 
-37signals can build simple--almost trivial--software and earn three million customers because they absolutely will not compromise on their philosophy of simplicity, transparency, and owning their own company, and that's something millions of people respect and support. Competitors could build trivial web applications too (as [Joel Spolsky](https://joelonsoftware.com/) is fond of saying, "Their software is just a bunch of text fields!"), but without the single-minded obsession it's just software with no features.
+تستطيع 37signals إنشاء برامج بسيطة - تافهة تقريبًا - وكسب ثلاثة ملايين عميل لأنها لن تتنازل مطلقًا عن فلسفتها المتمثلة في البساطة والشفافية وامتلاك شركتها الخاصة، وهذا شيء يحترمه ويدعمه ملايين الأشخاص. يمكن للمنافسين إنشاء تطبيقات ويب تافهة أيضًا (كما يقول [جويل سبولسكي] (https://joelonsoftware.com/) "إن برامجهم هي مجرد مجموعة من الحقول النصية!")، ولكن بدون الهوس المتعمد، فهي مجرد برامج بدون ميزات.
 
-**To remain un-copyable, your One Thing needs to be not just central to your existence, but also difficult to achieve.** Google's algorithm, combined with the hardware and software to implement a search of trillions of websites in 0.2 seconds, is hard to replicate; it took hundreds (thousands?) of really smart people at Microsoft and Yahoo years to catch up. 37signals' ranting platform--[a blog](https://37signals.com/svn/) with 131k followers and a [best-selling book](https://www.amazon.com/gp/product/0307463745?ie=UTF8&amp%3Btag=asmbe-20&amp%3BlinkCode=as2&amp%3Bcamp=1789&amp%3Bcreative=390957&amp%3BcreativeASIN=0307463745)--is nearly impossible to build even with a full-time army of insightful writers.
+**لكي تظل غير قابل للنسخ، يجب ألا يكون الشيء الوحيد الخاص بك محوريًا لوجودك فحسب، بل يجب أيضًا أن يكون صعب التحقيق.** من الصعب تكرار خوارزمية Google، جنبًا إلى جنب مع الأجهزة والبرامج اللازمة لتنفيذ بحث في تريليونات مواقع الويب في 0.2 ثانية؛ لقد استغرق الأمر مئات (الآلاف؟) من الأشخاص الأذكياء حقًا في Microsoft وYahoo سنوات للحاق بهم. منصة 37signals الصاخبة -- [مدونة](https://37signals.com/svn/) مع 131 ألف متابع و[الأكثر مبيعًا كتاب](https://www.amazon.com/gp/product/0307463745?ie=UTF8&amp%3Btag=asmbe-20&amp%3BlinkCode=as2&amp%3Bcamp=1789&amp%3Bcreative=390957&amp%3BcreativeASIN=0307463745)--يكاد يكون من المستحيل إنشاءه حتى مع وجود دوام كامل جيش من الكتاب الثاقبة.
 
-"Being hard to do" is still a true advantage, particularly when you devote your primary energy to it.
+لا يزال "أن يكون من الصعب القيام به" ميزة حقيقية، خاصة عندما تكرس طاقتك الأساسية لذلك.
 
-P.S. For more, [here are detailed examples](https://longform.asmartbear.com/one-benefit/) of how this mindset also sets up your sales pitch.
+ملاحظة: لمزيد من المعلومات، [إليك أمثلة تفصيلية](https://longform.asmartbear.com/one-benefit/) حول كيفية إعداد هذه العقلية أيضًا لعرض مبيعاتك.
 
-### Personal authority
+### السلطة الشخصية
 
 ![Book cover: Best Kept Secrets of Peer Code Review](https://public.asmartbear.com/books/anthology/chapters/unfair-advantages/d37fff44db97bc24597151657241444341587343-v5-simple.png)
 
-Chris Brogan commands $22,000 for a single day of consulting in an industry (social media marketing) where all the information you need is already online and free. Joel Spolsky makes millions of dollars off bug tracking--an industry with hundreds of competitors and little innovation. My company Smart Bear sells the most expensive tool of its kind. How did we earn this powerful authority, and how can you earn this overwhelming advantage?
+يطلب كريس بروغان مبلغ 22000 دولار أمريكي مقابل يوم واحد من الاستشارات في مجال ما (التسويق عبر وسائل التواصل الاجتماعي) حيث تكون جميع المعلومات التي تحتاجها متاحة بالفعل عبر الإنترنت ومجانية. يجني جويل سبولسكي ملايين الدولارات من تتبع الأخطاء - وهي صناعة تضم مئات المنافسين وقليلًا من الابتكار. تبيع شركتي Smart Bear أغلى أداة من نوعها. كيف اكتسبنا هذه السلطة القوية، وكيف يمكنك أن تكتسب هذه الميزة الساحقة؟
 
-**I'm a great example of someone who wasn't an authority on anything**, but built that authority over time to the point where now my company (Smart Bear) is untouchable as the leader in both revenue and ideas in the area of peer code review.
+**أنا مثال رائع لشخص لم يكن يتمتع بسلطة في أي شيء**، ولكنه بنى هذه السلطة بمرور الوقت إلى النقطة التي أصبحت فيها شركتي (Smart Bear) الآن لا يمكن المساس بها كشركة رائدة في كل من الإيرادات والأفكار في مجال مراجعة الأكواد النظيرة.
 
-Not only was I not an expert on code review prior to building a code review tool, I wasn't even an expert on software development processes generally! I didn't give lectures, I didn't have a blog, I didn't have a column in Dr. Dobbs magazine, and most interesting of all, I didn't even know "code review" was going to be [what made the company successful](https://longform.asmartbear.com/your-idea-sucks-do-it-anyway/)!
+لم أكن فقط خبيرًا في مراجعة التعليمات البرمجية قبل إنشاء أداة مراجعة التعليمات البرمجية، بل لم أكن حتى خبيرًا في عمليات تطوير البرامج بشكل عام! لم ألقي محاضرات، ولم يكن لدي مدونة، ولم يكن لدي عمود في مجلة دكتور دوبس، والأكثر إثارة للاهتمام من ذلك كله، لم أكن أعلم حتى أن "مراجعة الكود" ستكون [ما يجعل الشركة ناجحة](https://longform.asmartbear.com/your-idea-sucks-do-it-anyway/)!
 
-Unfortunately all this "authority" crap takes [years of expensive effort](https://blog.asmartbear.com/please-stop-saying-social-media-marketing-is-free.html), and even then [success is probably due as much to luck](https://blog.asmartbear.com/how-i-got-6000-rss-subscribers-in-12-months.html) as anything else, so is it worthwhile? Yes, exactly *because* it takes years of effort and a little luck.
+لسوء الحظ، يستغرق كل هذا الهراء "السلطة" [سنوات من الجهد الباهظ](https://blog.asmartbear.com/please-stop-saying-social-media-marketing-is-free.html)، وحتى ذلك الحين [يرجع النجاح على الأرجح إلى الحظ](https://blog.asmartbear.com/how-i-got-6000-rss-subscribers-in-12-months.html) مثل أي شيء آخر وإلا فهل هو جدير بالاهتمام؟ نعم، بالضبط *لأنه* يتطلب سنوات من الجهد وقليلًا من الحظ.
 
-**Authority cannot be purchased.** You can't raise VC money and then "have authority" in a year. A big company cannot just decide they want to be the thought-leaders in their field. Even a pack of hyper-intelligent geeks cannot automatically become authorities because it's not about how well you can code.
+**لا يمكن شراء السلطة.** لا يمكنك جمع أموال رأس المال الاستثماري ومن ثم "الحصول على السلطة" خلال عام. لا يمكن لشركة كبيرة أن تقرر فقط أنها تريد أن تكون قادة الفكر في مجالها. حتى مجموعة من المهووسين ذوي الذكاء المفرط لا يمكن أن يصبحوا سلطات تلقائيًا لأن الأمر لا يتعلق بمدى قدرتك على البرمجة.
 
-**But how does authority convert to revenue?** Here's one tiny example:
+**ولكن كيف تتحول السلطة إلى إيرادات؟** إليك مثال صغير:
 
-> I give talks on peer code review at [conferences](https://longform.asmartbear.com/tradeshow-tips-checklist/). My competition pays thousands of dollars for a booth, then spends thousands advertising to attendees begging them to come to that booth, then gives sales pitches at the booth to uninterested passersby who are also being bombarded by other pitches and distracted by the general hubbub.
+> ألقي محادثات حول مراجعة كود النظراء في [المؤتمرات](https://longform.asmartbear.com/tradeshow-tips-checklist/). تدفع منافستي آلاف الدولارات مقابل كشك، ثم تنفق آلاف الإعلانات للحاضرين متوسلةً إياهم أن يأتوا إلى تلك الكشك، ثم تقدم عروض مبيعات في الكشك للمارة غير المهتمين الذين يتعرضون أيضًا للقصف من قبل الملاعب الأخرى ويشتت انتباههم بسبب الضجة العامة.
 
-> Whereas, because I'm a known authority on code review and software development, I get to talk for an *entire hour* to a captive group of 100 people, self-selected as interested in code review. After the talk typically 5-20 people want to chat one-on-one. Some head straight to the booth to get a demo; for many I give a private demo of the product on sofas in the hallway. **It's not unusual to get $10,000-$50,000 in sales** over the next three months from people who saw me at that talk.
+> وحيث أنني خبير معروف في مراجعة الأكواد وتطوير البرمجيات، فقد تمكنت من التحدث لمدة *ساعة كاملة* مع مجموعة مكونة من 100 شخص، تم اختيارهم ذاتيًا كمهتمين بمراجعة الأكواد. بعد الحديث، عادةً ما يرغب 5-20 شخصًا في الدردشة وجهًا لوجه. يتوجه البعض مباشرة إلى الكشك للحصول على عرض توضيحي؛ بالنسبة للكثيرين، أقدم عرضًا توضيحيًا خاصًا للمنتج على الأرائك الموجودة في الردهة. **ليس من غير المعتاد أن أحصل على مبيعات تتراوح بين 10000 و50000 دولار** خلال الأشهر الثلاثة التالية من الأشخاص الذين رأوني في تلك المحادثة.
 
-That's just one example! Now add to that: What's the effect of a blog that tens of thousands of people read? What's the effect on sales of my writing the book that's the [modern authority of code review](https://codereviewbook.com/)?
+هذا مجرد مثال واحد! أضف الآن إلى ذلك: ما هو تأثير المدونة التي يقرأها عشرات الآلاف من الأشخاص؟ ما هو تأثير كتابتي للكتاب الذي يمثل [السلطة الحديثة لمراجعة التعليمات البرمجية] (https://codereviewbook.com/) على مبيعاتي؟
 
-Authority is expensive and time-consuming to earn, no doubt. But it's also an overwhelming, untouchable competitive advantage.
+لا شك أن الحصول على السلطة أمر مكلف ويستغرق وقتًا طويلاً. لكنها أيضًا ميزة تنافسية ساحقة لا يمكن المساس بها.
 
-(P.S. I'm hoping that the authority I'm slowly earning from this blog will help when I launch my next venture. That's not *why* I blog, but I certainly will leverage it when the time comes!)
+(ملاحظة: آمل أن تساعدني السلطة التي أكتسبها ببطء من هذه المدونة عندما أطلق مشروعي التالي. وهذا ليس * سبب * قيامي بالتدوين، لكنني بالتأكيد سأستفيد منه عندما يحين الوقت!)
 
-(P.P.S. I apologize for blatantly abusing the word "authority," considering I just [lambasted everyone who does](https://longform.asmartbear.com/authentic-is-dead/) things like that.)
+(ملحوظة: أعتذر عن إساءة استخدام كلمة "سلطة" بشكل صارخ، مع الأخذ في الاعتبار أنني [أنتقدت كل من يفعل] (https://longform.asmartbear.com/authentic-is-dead/) أشياء من هذا القبيل.)
 
-### The Dream Team
+### فريق الأحلام
 
-The tech startup world is littered with famous killer teams: Gates & Allen, Steve & Steve, Page & Brin, Fried & DHH.
+عالم الشركات الناشئة في مجال التكنولوجيا مليء بالفرق القاتلة الشهيرة: Gates & Allen، Steve & Steve، Page & Brin، Fried & DHH.
 
-In each case, the founders were super-smart, had complimentary skill sets, worked together well (or well enough to get to important success milestones), and as a team represented a unique, powerful, and (in retrospect) unstoppable force.
+في كل حالة، كان المؤسسون فائقي الذكاء، وكان لديهم مجموعة من المهارات التكميلية، وعملوا معًا بشكل جيد (أو جيدًا بما يكفي للوصول إلى معالم النجاح المهمة)، وكفريق يمثل قوة فريدة وقوية ولا يمكن إيقافها (في الماضي).
 
-**Of course that's easy to see in retrospect**, and [retrospect is a terrible teacher](https://longform.asmartbear.com/survivor-bias/), but the principle can work for any startup, especially when your goals are more modest than being the next Google.
+**بالطبع من السهل رؤية ذلك عند الرجوع إلى الماضي**، و[الرجوع إلى الماضي هو معلم رهيب](https://longform.asmartbear.com/survivor-bias/)، ولكن هذا المبدأ يمكن أن ينطبق على أي شركة ناشئة، لا سيما عندما تكون أهدافك أكثر تواضعًا من أن تكون Google التالي.
 
-Take the success of ITWatchDogs, the company I helped bootstrap and eventually sell (before Smart Bear). The elements of our Dream Team were obvious from the start:
+لنأخذ على سبيل المثال نجاح ITWatchDogs، الشركة التي ساعدت في تأسيسها وبيعها في النهاية (قبل Smart Bear). كانت عناصر فريق الأحلام لدينا واضحة منذ البداية:
 
-* **Varied skill sets.** One experienced startup/business/salesman (Gerry), one proven software developer (me), one proven hardware developer (Michael).
-* **Common vision.** We agreed what the product ought to be and that the ultimate goal of the company was to sell it.
-* **Insider knowledge.** Gerry had done another successful startup in the same space, I had deep experience with the language and tools for embedded software, and Michael had decades of experience building inexpensive circuits and processors.
+* ** مجموعات مهارات متنوعة. ** رجل ناشئ / أعمال / بائع ذو خبرة (جيري) ومطور برامج مثبت (أنا) ومطور أجهزة مثبت (مايكل).
+* **رؤية مشتركة.** اتفقنا على الشكل الذي يجب أن يكون عليه المنتج وأن الهدف النهائي للشركة هو بيعه.
+* **المعرفة الداخلية.** قام جيري بإنشاء شركة ناشئة ناجحة أخرى في نفس المجال، وكانت لدي خبرة عميقة في اللغة والأدوات الخاصة بالبرامج المضمنة، وكان لدى مايكل عقود من الخبرة في بناء دوائر ومعالجات غير مكلفة.
 
-Of course a Dream Team doesn't guarantee success but it **significantly reduces the risk** of the startup, and furthermore is difficult for the competition to duplicate.
+بالطبع لا يضمن فريق الأحلام النجاح ولكنه **يقلل بشكل كبير من مخاطر** الشركة الناشئة، علاوة على ذلك يصعب على المنافسة تكرارها.
 
-This is especially true when someone on the team is already successful in their field, e.g. with a massively successful blog or a big startup success under their belt or a ridiculous Rolodex. Since those are the kinds of competitive advantages that can't be bought or consistently created, having that person on the team is by proxy a killer advantage.
+وينطبق هذا بشكل خاص عندما يكون أحد أعضاء الفريق ناجحًا بالفعل في مجاله، على سبيل المثال. من خلال مدونة ناجحة بشكل كبير أو نجاح كبير في بدء التشغيل تحت حزامهم أو Rolodex السخيف. وبما أن هذه هي أنواع المزايا التنافسية التي لا يمكن شراؤها أو خلقها باستمرار، فإن وجود هذا الشخص في الفريق يعد بمثابة ميزة قاتلة.
 
-P.S. This is the primary competitive advantage in a new startup I'm working on right now (to be announced soon), so shortly you'll see another example of this theory and--better yet!--you and I both will witness over the subsequent months whether or not this really resulted in a killer advantage! (Yes of *course* I'll share details!)
+ملاحظة: هذه هي الميزة التنافسية الأساسية في شركة ناشئة جديدة أعمل عليها الآن (سيتم الإعلان عنها قريبًا)، لذا سترى قريبًا مثالًا آخر لهذه النظرية - والأفضل من ذلك! - سنشهد أنا وأنت خلال الأشهر اللاحقة ما إذا كان هذا قد أدى حقًا إلى ميزة قاتلة أم لا. (نعم بالطبع * سأشارك التفاصيل!)
 
-### (The right) Celebrity endorsement
+### (الحق) تأييد المشاهير
 
-[Hiten Shah'](https://hitenism.com/)s third company is [KISSMetrics](https://kissmetrics.com/). On the surface, it's yet another "marketing metrics" company. This is a crowded, mature market with *hundreds* of competitors in every combination of large/small, expensive/mid/cheap/free, and product/service/hybrid.
+الشركة الثالثة لـ [هيتن شاه](https://hitenism.com/) هي [KISSMetrics](https://kissmetrics.com/). على السطح، إنها شركة "مقاييس تسويقية" أخرى. هذا سوق مزدحم وناضج يضم *المئات* من المنافسين في كل مجموعة من الشركات الكبيرة/الصغيرة، والمكلفة/المتوسطة/الرخيصة/المجانية، والمنتج/الخدمة/الهجينة.
 
-But Hiten has something none of those competitors has: Investors and mentors who are celebrities in exactly the market he's targeting. Folks like [Dave McClure](https://500hats.com/), [Sean Ellis](https://startup-marketing.com/about/), and [Eric Ries](https://www.startuplessonslearned.com/2008/10/about-author.html), all of whom not only help via conference call but actively promote KISSMetrics on their blogs, Twitter, and personal appearances.
+لكن لدى Hiten ما لا يمتلكه أي من هؤلاء المنافسين: المستثمرون والموجهون المشهورون في السوق الذي يستهدفه بالضبط. أشخاص مثل [Dave McClure](https://500hats.com/)، و[Sean Ellis](https://startup-marketing.com/about/)، و[Eric Ries](https://www.startuplessonslearned.com/2008/10/about-author.html)، وجميعهم لا يساعدون عبر مكالمة جماعية فحسب، بل يروجون بنشاط لـ KISSMetrics على مدوناتهم وTwitter ومظاهرهم الشخصية.
 
-How much advertising will it take for competitors to overcome Hiten's endorsements and exposure? Even if a competitor also wanted celebrity endorsement, *these guys are taken*, and in any field there's a limited number of widely-known and respected authorities.
+ما مقدار الإعلانات التي سيتطلبها المنافسون للتغلب على تأييد هيتن وتعرضه؟ حتى لو كان أحد المنافسين يريد أيضًا تأييد أحد المشاهير، *فهؤلاء الأشخاص يتم اختطافهم*، وفي أي مجال يوجد عدد محدود من السلطات المعروفة والمحترمة على نطاق واسع.
 
-Many competitors have more features than KISSMetrics has. I can see the sales pitch now...
+يتمتع العديد من المنافسين بميزات أكثر من KISSMetrics. أستطيع أن أرى عرض المبيعات الآن ...
 
-> The customer objects: "Gee it would be nice to have all those features," and Hiten responds "Well not really, because Dave, Sean, and Eric all say that those features are actually distractions and don't add to your bottom line. Our features are the right ones, as evidenced by these 20 companies that have shown increases in revenue."
+> يعترض العميل: "سيكون من الجيد أن يكون لديك كل هذه الميزات،" ويجيب هايتن "حسنًا، ليس حقًا، لأن ديف وشون وإريك جميعًا يقولون إن هذه الميزات هي في الواقع عوامل تشتيت ولا تضيف إلى النتيجة النهائية. ميزاتنا هي الميزات الصحيحة، كما يتضح من هذه الشركات العشرين التي أظهرت زيادات في الإيرادات."
 
-Just on the basis of these advisors, Hiten will get hundreds if not thousands of customers. You can't buy that kind of jump-start, not even for millions of dollars, because it's not about faceless leads who saw KISSMetrics in an ad, it's people who *trust* Hiten because of his association with other people they already trust.
+فقط على أساس هؤلاء المستشارين، سوف تحصل Hiten على مئات إن لم يكن الآلاف من العملاء. لا يمكنك شراء هذا النوع من البداية، ولا حتى بملايين الدولارات، لأن الأمر لا يتعلق بالعملاء المحتملين مجهولي الهوية الذين شاهدوا KISSMetrics في أحد الإعلانات، بل بالأشخاص الذين *يثقون* بـ Hiten بسبب ارتباطه بأشخاص آخرين يثقون بهم بالفعل.
 
-P.S. If you're raising money, investors love to see a co-founder or even just an advisor who has been successful before. The VC game is more lemming-like than most care to admit.
+ملاحظة: إذا كنت تقوم بجمع الأموال، فإن المستثمرين يحبون رؤية مؤسس مشارك أو حتى مجرد مستشار حقق نجاحًا من قبل. تعتبر لعبة VC أكثر شبهاً بالليمون مما يعترف به معظم الناس.
 
-### Existing customers
+### العملاء الحاليين
 
-...or as [Frank Rizzo says](https://en.wikiquote.org/wiki/Jerky_Boys): Open your ears, jackass!
+...أو كما يقول [فرانك ريزو](https://en.wikiquote.org/wiki/Jerky_Boys): افتح أذنيك أيها الحمار!
 
-Everyone you've ever sold to (and [those who trialed but abandoned](https://longform.asmartbear.com/more-sales-customer-feedback/)) possess the most valuable market research imaginable, and it's the one thing a new competitor absolutely will not have.
+كل شخص قمت ببيعه له (و[أولئك الذين جربوا ولكنهم تخلوا عنه](https://longform.asmartbear.com/more-sales-customer-feedback/)) يمتلكون أبحاث السوق الأكثر قيمة التي يمكن تخيلها، وهو الشيء الوحيد الذي لن يمتلكه منافس جديد على الإطلاق.
 
-This is kind of a cheat, because everyone says "I listen to my customers," which (nowadays) is just as bullshit as "We're passionate," but it's true that if you're actively learning from your customers *and* you never stop moving, creating, innovating, and learning, that puts you ahead of most companies in the world.
+هذا نوع من الغش، لأن الجميع يقولون "أنا أستمع إلى عملائي"، وهو ما لا يقل (في الوقت الحاضر) عن هراء مثل "نحن متحمسون"، ولكن صحيح أنك إذا كنت تتعلم بنشاط من عملائك *و* فلن تتوقف أبدًا عن الحركة والإبداع والابتكار والتعلم، وهذا يضعك في مقدمة معظم الشركات في العالم.
 
-As a company becomes successful it gains momentum, which means that it's going in one direction with one philosophy. Like physical momentum, change becomes harder to affect. It's logical; for example at Smart Bear we have 35,000 users, so making a drastic change to the user interface or typical workflow would mean too much retraining, even if the end result is better.
+عندما تصبح الشركة ناجحة، فإنها تكتسب زخمًا، مما يعني أنها تسير في اتجاه واحد بفلسفة واحدة. وكما هو الحال مع الزخم الجسدي، يصبح التأثير على التغيير أكثر صعوبة. هذا منطقي. على سبيل المثال، في Smart Bear لدينا 35000 مستخدم، لذا فإن إجراء تغيير جذري على واجهة المستخدم أو سير العمل النموذجي قد يعني الكثير من إعادة التدريب، حتى لو كانت النتيجة النهائية أفضل.
 
-**Even "cool, agile" companies like 37signals are trapped.** They've been so clear and confident in their philosophy of "do less," they cannot go after markets where "less" is not more but, actually, just less. For example, with more than a few sales people in a traditional sales organization it's impossible to use Highrise--the folks-of-many-signal believe pipeline reports and geographic domains and integrated campaign management are unnecessary complications, but actually it's Highrise that is unnecessary.
+**حتى الشركات "الرائعة والمرنة" مثل 37signals أصبحت محاصرة.** لقد كانوا واضحين جدًا وواثقين في فلسفتهم المتمثلة في "افعل أقل"، ولا يمكنهم ملاحقة الأسواق حيث "الأقل" ليس أكثر، بل في الواقع، أقل فقط. على سبيل المثال، مع وجود أكثر من عدد قليل من مندوبي المبيعات في مؤسسة مبيعات تقليدية، من المستحيل استخدام Highrise - يعتقد الأشخاص من بين العديد من الإشارات أن تقارير التدفق والمجالات الجغرافية وإدارة الحملات المتكاملة هي تعقيدات غير ضرورية، ولكن في الواقع فإن Highrise غير ضروري.
 
-Of course the world *is* changing, and in particular your customers are changing. Normally this leaves room for the next competitor, but if you're already entrenched you can leverage your existing status, insider knowledge, and revenue stream as long as you're willing to change too.
+بالطبع العالم يتغير، وعملاؤك يتغيرون على وجه الخصوص. عادةً ما يترك هذا المجال للمنافس التالي، ولكن إذا كنت راسخًا بالفعل، فيمكنك الاستفادة من حالتك الحالية ومعرفتك الداخلية وتدفق الإيرادات طالما أنك على استعداد للتغيير أيضًا.
 
-You have more money, you're better known, you have existing happy customers to help spread the word, you have employees to build new things, and you have more experience with what customers actually do and actually need, which means you should have the best insight.
+لديك المزيد من المال، وأصبحت معروفًا بشكل أفضل، ولديك عملاء حاليون سعداء للمساعدة في نشر الكلمة، ولديك موظفون لبناء أشياء جديدة، ولديك المزيد من الخبرة فيما يفعله العملاء بالفعل ويحتاجون إليه بالفعل، مما يعني أنه يجب أن يكون لديك أفضل رؤية.
 
-**Any new competitor would kill for just one of these advantages. If _you're_ not using them, how silly is that?**
+**أي منافس جديد سيقتل من أجل واحدة فقط من هذه المزايا. إذا _أنت_ لا تستخدمها، فما مدى سخافة ذلك؟**
 
-[Zoho made exactly this argument](https://blogs.zoho.com/general/companies-don-t-get-killed-by-competition-they-commit-suicide) to explain why they're not terribly worried that Microsoft is now a direct competitor:
+[قدمت Zoho هذه الحجة بالضبط](https://blogs.zoho.com/general/companies-don-t-get-killed-by-competition-they-commit-suicide) لتوضيح سبب عدم قلقهم الشديد من أن Microsoft أصبحت الآن منافسًا مباشرًا:
 
-> **Companies don't get killed by competition, they usually find creative ways to commit suicide.** Office 2010 will be the end of Zoho, if we stop innovating, stop being nimble and flexible in our business model. Then again,**if we stop all that, Zoho will die*****anyway***, no Office 2010 needed to do the job.
+> **الشركات لا تتعرض للقتل بسبب المنافسة، بل تجد عادةً طرقًا مبتكرة للانتحار.** سيكون Office 2010 نهاية Zoho، إذا توقفنا عن الابتكار، توقفنا عن التحلي بالذكاء والمرونة في نموذج أعمالنا. ثم مرة أخرى، **إذا أوقفنا كل ذلك، سيموت Zoho *****على أية حال***، ولا حاجة إلى Office 2010 للقيام بهذه المهمة.
 
-37signals is trapped inside their self-imposed philosophy, but you don't have to be.
+37signals محاصرة داخل فلسفتها التي فرضتها على نفسها، ولكن ليس عليك أن تكون كذلك.
 
-### Go git 'em
+### اذهب واحصل عليها
 
-Imitation might be the sincerest form of flattery, but it's still sucks when someone does it to you.
+قد يكون التقليد هو أصدق أشكال الإطراء، لكنه لا يزال أمرًا سيئًا عندما يقوم شخص ما بذلك معك.
 
-Of course you can still battle it out in the marketplace, but you need *something* that can't be duplicated, something they could never beat you on, then [hang your hat on that](https://longform.asmartbear.com/one-benefit/) and don't look back.
+بالطبع لا يزال بإمكانك التنافس في السوق، ولكنك تحتاج إلى *شيء* لا يمكن تكراره، شيء لا يمكنهم التغلب عليه أبدًا، ثم [علق قبعتك عليه](https://longform.asmartbear.com/one-benefit/) ولا تنظر إلى الوراء.
 
-**Don't despair if you don't have an unfair advantage *yet*.** I didn't either when I started Smart Bear! [Almost no one does, at the beginning](https://longform.asmartbear.com/chaos-at-start/). But I built toward having some, and eventually earned it.
+**لا تيأس إذا لم تكن لديك ميزة غير عادلة *حتى الآن*.** وأنا أيضًا لم أمتلكها عندما بدأت Smart Bear! [لا أحد تقريبًا يفعل ذلك في البداية](https://longform.asmartbear.com/chaos-at-start/). لكنني بنيت نحو الحصول على بعض، وحصلت عليه في نهاية المطاف.
 
-You will too, if you're intentional about it.
+ستفعل ذلك أيضًا، إذا كنت متعمدًا بشأن ذلك.

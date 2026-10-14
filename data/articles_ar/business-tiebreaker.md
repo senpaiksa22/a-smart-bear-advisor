@@ -20,55 +20,42 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كيف تتوقف عن 'التحليل المفرط' وتختار بحسم بين أمرين جيدين؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+كتب إمباراس دي شويكس:
 
----
-
-### النص المرجعي للمقال (Original Reference):
-# How do I stop "analyzing" and pick between two good choices?
-
-> **Executive Summary:** What if there's no wrong answer? What's the tiebreaker in major business decisions.
-> **Original URL:** [https://longform.asmartbear.com/business-tiebreaker/](https://longform.asmartbear.com/business-tiebreaker/)
-
-Embarras de Choix writes:
-
-> I have a startup with thirty paying customers. We've been bootstrapping up to this point.
+> لدي شركة ناشئة تضم ثلاثين عميلاً يدفعون. لقد تم التمهيد حتى هذه النقطة.
 > 
-> I think there's a big opportunity to raise money, but also I could continue as I have been. I don't know way to go.
->
-> I already know the pros and cons of the decision, so don't lecture me about that. I just don't know how to pick!
+> أعتقد أن هناك فرصة كبيرة لجمع الأموال، ولكن يمكنني أيضًا الاستمرار كما كنت. أنا لا أعرف الطريق للذهاب.
+> 
+> أنا أعرف بالفعل إيجابيات وسلبيات القرار، لذا لا تحاضرني عن ذلك. أنا فقط لا أعرف كيفية الاختيار!
 
 ![Sure, you could go the glass slipper route. Or you could lay comatose in the forest for who knows how long. Or you could kiss me just one time, get yourself a prince and get on with it.](https://longform.asmartbear.com/business-tiebreaker/bef3ebd0.png)
 
-This is one of those few dilemmas where there's no wrong answer. So, whichever you choose, never let anyone else make you feel guilty about not choosing the other.
+هذه إحدى المعضلات القليلة التي لا توجد فيها إجابة خاطئة. لذا، أيًا كان اختيارك، فلا تدع أي شخص آخر يجعلك تشعر بالذنب لعدم اختيار الآخر.
 
-But "there's no wrong answer" doesn't answer the question.
+لكن عبارة "ليس هناك إجابة خاطئة" لا تجيب على السؤال.
 
-Asking for more advice from other people probably won't resolve it. While I was bootstrapping [WP Engine](http://wpengine.com/?a_aid=asmartbear) I constantly heard that we're hamstrung by not taking an investment; after raising a Series A, a different set of people expressed their disappointment that I had "[sold out](https://longform.asmartbear.com/rich-vs-king-sold-company/)."
+ربما لن يؤدي طلب المزيد من النصائح من الأشخاص الآخرين إلى حل المشكلة. أثناء قيامي بتمهيد [WP Engine](http://wpengine.com/?a_aid=asmartbear) سمعت باستمرار أننا نتعثر بسبب عدم القيام بأي استثمار؛ بعد رفع السلسلة A، أعربت مجموعة مختلفة من الأشخاص عن خيبة أملهم لأنني "[بيعت كل الكمية](https://longform.asmartbear.com/rich-vs-king-sold-company/)."
 
-Who's right? Both. Neither. This is why you cannot look externally for the answer.
+من هو على حق؟ كلاهما. لا. ولهذا السبب لا يمكنك البحث خارجيًا عن الإجابة.
 
-Every day you delay, the decision is costing you. Dithering doesn't move you closer to either goal--it's draining time and energy, and it's blocking other decisions about spending money, hiring, your lifestyle, stories for the press, features, everything.
+كل يوم تتأخر فيه، القرار يكلفك. التردد لا يجعلك أقرب إلى أي من الهدفين - فهو يستنزف الوقت والطاقة، ويمنع اتخاذ قرارات أخرى بشأن إنفاق المال، والتوظيف، وأسلوب حياتك، والقصص للصحافة، والميزات، وكل شيء.
 
-So you need a fast decision, and other people cannot give you the answer. That leaves you, alone.
+لذلك أنت بحاجة إلى قرار سريع، ولا يستطيع الآخرون إعطائك الإجابة. هذا يتركك وحدك.
 
-**What kind of company sounds like the most fun to build?**
+**ما هو نوع الشركة الذي يبدو أنه الأكثر متعة في البناء؟**
 
-Do you like working alone or with a very small team? Does hiring ten people in the next 12 months sound exhilarating or depressing? Do you like having a hand in everything or would you rather be evangelizing and leading? Do you enjoy carefully, slowly growing a backyard garden or would you have more fun strapping on an afterburner and seeing just how much of an impact you can have on the Earth? Do you like being good at what you're good at now or do you want to learn how to run a completely different kind of business?
+هل تحب العمل بمفردك أم مع فريق صغير جدًا؟ هل يبدو توظيف عشرة أشخاص خلال الـ 12 شهرًا القادمة أمرًا مبهجًا أم محبطًا؟ هل تحب أن يكون لك يد في كل شيء أم تفضل التبشير والقيادة؟ هل تستمتع بزراعة حديقة في الفناء الخلفي بعناية أو ببطء أم أنك ستستمتع أكثر بالربط على جهاز احتراق ورؤية مقدار التأثير الذي يمكن أن تحدثه على الأرض؟ هل تحب أن تكون جيدًا فيما تجيده الآن أم تريد أن تتعلم كيفية إدارة نوع مختلف تمامًا من الأعمال؟
 
-Are you proud of bootstrapping? Do you enjoy the balance in the conversation when you tell that to someone funded, tacitly saying "I'm in control, I don't need help, I have a product so good people actually pay for it?" Or does it make you feel small, knowing you're not growing as fast as you could, not making as much reach as you could, not making as much money as you could?
+هل أنت فخور بالتمهيد؟ هل تستمتع بالتوازن في المحادثة عندما تخبر ذلك لشخص ممول، وتقول ضمنيًا "أنا المسيطر، ولست بحاجة إلى مساعدة، لدي منتج لذا يدفع الأشخاص الطيبون ثمنه بالفعل؟" أم هل يجعلك تشعر بأنك صغير، مع العلم أنك لا تنمو بأسرع ما يمكن، ولا تحقق أكبر قدر ممكن من الوصول، ولا تجني أكبر قدر ممكن من المال؟
 
-What sounds like fun? Yes, *fun*. Enjoyable. [Fulfilling](https://longform.asmartbear.com/fulfillment/). This is your yardstick.
+ما يبدو وكأنه متعة؟ نعم *متعة*. ممتعة. [الوفاء](https://longform.asmartbear.com/fulfillment/). هذا هو المقياس الخاص بك.
 
-I think fulfillment and joy barely enter into the calculus for most founders, and that's a mistake. Why build a company--or anything else for that matter--if it's not fulfilling?
+أعتقد أن الإنجاز والفرح نادراً ما يدخلان في حسابات معظم المؤسسين، وهذا خطأ. لماذا نبني شركة - أو أي شيء آخر في هذا الشأن - إذا لم تكن مُرضية؟
 
-You're in an enviable and rare condition in that both of your options are valid and rational in every way, and that means you get to pick based something we all really ought to be valuing, but lack either the means or courage to do so.
+أنت في حالة تحسد عليها ونادرة حيث أن كلا الخيارين المتاحين لك صالحان وعقلانيان في كل شيء، وهذا يعني أنه يتعين عليك اختيار شيء يجب علينا جميعًا تقديره، ولكننا نفتقر إلى الوسائل أو الشجاعة للقيام بذلك.
 
-But you can.
+ولكن يمكنك.
 
-And remember, five years from now when you look back on this with [hindsight](https://longform.asmartbear.com/unmeasurable-metrics/), you still won't know which one would have been "right." Even if the path you picked "failed" in some objective sense, you still won't know that the other necessarily would have been "better"--more money, more fulfilling, happier, whatever.
+وتذكر، بعد خمس سنوات من الآن، عندما تنظر إلى هذا الأمر من خلال [بعد فوات الأوان](https://longform.asmartbear.com/unmeasurable-metrics/)، فإنك لا تزال لا تعرف أيهما كان "على حق". حتى لو كان المسار الذي اخترته "فشل" بالمعنى الموضوعي، فأنت لا تزال لا تعرف أن الآخر كان بالضرورة "الأفضل" - المزيد من المال، أكثر إشباعًا، أكثر سعادة، أيًا كان.
 
-P.S. Other people *can* help, in that they can [help ask you more and better questions](https://longform.asmartbear.com/bad-advice/). But only you can decide the answer.
+ملاحظة: *يمكن* للأشخاص الآخرين المساعدة، حيث يمكنهم [المساعدة في طرح أسئلة أكثر وأفضل](https://longform.asmartbear.com/bad-advice/). لكن أنت وحدك من يستطيع أن يقرر الإجابة.

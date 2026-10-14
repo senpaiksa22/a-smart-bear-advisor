@@ -20,126 +20,110 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الكفاءة الفردية مقابل الكفاءة الإدارية: إدارة التناقض الصعب تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Individual efficiency vs administrative efficiency
-
-> **Executive Summary:** When to prioritize individual autonomy, and when to standardize for global optimization.
-> **Original URL:** [https://longform.asmartbear.com/tension-autonomy-admin/](https://longform.asmartbear.com/tension-autonomy-admin/)
-
 ![Don't get me wrong, I'm no fan of the heat or the backbreaking toil. It's the corresponding paperwork that gets me.](https://public.asmartbear.com/books/anthology/chapters/tension-autonomy-admin/d8967print-simple.png)
 
-Everyone has their own favorite note-taking app: Notion versus Google Docs versus Apple Notes versus OneNote versus Obsidian. Dropbox Paper shrieking "what about me?" into the void. I wrote this article in [Bear](https://bear.app/). (No relation.)
+كل شخص لديه تطبيقه المفضل لتدوين الملاحظات: Notion مقابل Google Docs مقابل Apple Notes مقابل OneNote مقابل Obsidian. ورقة Dropbox تصرخ "ماذا عني؟" في الفراغ. لقد كتبت هذه المقالة في [Bear](https://bear.app/). (لا علاقة.)
 
 ![Smart Bear](https://public.asmartbear.com/books/anthology/chapters/tension-autonomy-admin/bear-smart-simple.png)
 
-From the individual's point of view, the optimal company policy is to allow everyone to use whatever app they like. It's both [autonomy and mastery](https://longform.asmartbear.com/fulfillment/). Everyone's comfortable and efficient.
+من وجهة نظر الفرد، فإن السياسة المثلى للشركة هي السماح للجميع باستخدام أي تطبيق يحلو لهم. إنه [الاستقلالية والإتقان](https://longform.asmartbear.com/fulfillment/). الجميع مريح وفعال.
 
-From the team's point of view, however, this is a bad policy. I don't want to learn how pseudo-database-table-thingies work in Notion, but Bear doesn't support sharing notes between people. Efficiency for the individual reduces efficiency for the team.
+لكن من وجهة نظر الفريق، فهذه سياسة سيئة. لا أريد أن أتعلم كيفية عمل أشياء جدول قواعد البيانات الزائفة في Notion، لكن Bear لا يدعم مشاركة الملاحظات بين الأشخاص. كفاءة الفرد تقلل من كفاءة الفريق.
 
-Beyond the team, there are company-wide administrative concerns. Once we're sharing notes, who has access to those notes? And who decides who has access to which notes? What if company secrets are in those notes? What if customer [PII](https://en.wikipedia.org/wiki/Personal_data) are in those notes? Is note-authentication linked to the corporate identity system, so that when someone leaves the company they automatically no longer have access to the notes? Can the central IT team back up the notes? Can the central security team audit the notes? Since the notes are shared, they probably bounce through a server somewhere; is that secure? Administrative requirements have a negative effect on the efficiency of the team, and certainly on the individual.
+وبعيدًا عن الفريق، هناك مخاوف إدارية على مستوى الشركة. بمجرد قيامنا بمشاركة الملاحظات، من لديه حق الوصول إلى تلك الملاحظات؟ ومن الذي يقرر من يمكنه الوصول إلى أي ملاحظات؟ ماذا لو كانت أسرار الشركة موجودة في تلك الملاحظات؟ ماذا لو كان العميل [PII](https://en.wikipedia.org/wiki/Personal_data) موجودًا في تلك الملاحظات؟ هل ترتبط مصادقة الملاحظات بنظام هوية الشركة، بحيث عندما يغادر شخص ما الشركة، لا يتمكن تلقائيًا من الوصول إلى الملاحظات؟ هل يستطيع فريق تكنولوجيا المعلومات المركزي عمل نسخة احتياطية من الملاحظات؟ هل يستطيع فريق الأمن المركزي تدقيق الملاحظات؟ وبما أن الملاحظات تتم مشاركتها، فمن المحتمل أنها ترتد عبر خادم في مكان ما؛ هل هذا آمن؟ المتطلبات الإدارية لها تأثير سلبي على كفاءة الفريق وبالتأكيد على الفرد.
 
-While you might be laughing because "this is why big companies are dumb and slow," and indeed [startups often win exactly because](https://longform.asmartbear.com/startup-beats-incumbent/) they don't have to be "dumb" and "slow" like this, it's also why the big company will add more ARR today than the small company will add in the next few months. (A result that is neither dumb nor slow; both the [benefits and drawbacks are due to scale](https://longform.asmartbear.com/scale/).)
+بينما قد تضحك لأن "هذا هو السبب وراء كون الشركات الكبيرة غبية وبطيئة"، وفي الواقع [غالبًا ما تفوز الشركات الناشئة بالضبط لأنه] (https://longform.asmartbear.com/startup-beats-incumbent/) ليس من الضروري أن تكون "غبية" و"بطيئة" مثل هذا، وهذا أيضًا هو السبب وراء إضافة الشركة الكبيرة لمعدل العائد على الأرباح (ARR) اليوم أكثر مما ستضيفه الشركة الصغيرة في الأشهر القليلة المقبلة. (نتيجة ليست غبية ولا بطيئة؛ فكل من [الفوائد والعيوب ترجع إلى الحجم](https://longform.asmartbear.com/scale/).)
 
-So, when should a policy optimize for the efficiency and happiness of the individual, and when should it optimize for the team, or the company?
+لذا، متى ينبغي للسياسة أن تعمل على تحسين كفاءة وسعادة الفرد، ومتى ينبغي أن تعمل على تحسين كفاءة الفريق أو الشركة؟
 
-## In search of efficiency
+## بحثا عن الكفاءة
 
-Imagine a scenario in which 10 people each receive a meal. Each meal is unique, and each person has unique food preferences.
+تخيل سيناريو يحصل فيه كل 10 أشخاص على وجبة. كل وجبة فريدة من نوعها، ولكل شخص تفضيلاته الغذائية الفريدة.
 
 ![bear eating a sandwich](https://public.asmartbear.com/books/anthology/chapters/tension-autonomy-admin/bear-cooking-sandwich-2-simple.png)
 
-A maximally efficient way to *administer* the meals is to dole them out randomly. Nothing to manage or track. This is also *fair*--a desirable quality in policies--in that everyone is (mis)treated identically. Even so, this is obviously suboptimal for the recipients.
+الطريقة الأكثر فعالية *لإدارة* الوجبات هي توزيعها بشكل عشوائي. لا شيء لإدارة أو تتبع. وهذا أيضًا *عادل* - وهي صفة مرغوبة في السياسات - حيث يتم (إساءة) معاملة الجميع على قدم المساواة. ومع ذلك، فمن الواضح أن هذا دون المستوى الأمثل بالنسبة للمتلقين.
 
-Next, everyone looks around the room. Some person `P` sees another person `Q` holding a plate that `P` would prefer to have. Perhaps `Q` is thinking the same thing about `P`! In that case, it's wise for them to trade plates; both are happier. Or the scenario where person `P` would be happier if they traded with `Q`, and `Q` doesn't care either way; they also should trade. Trades won't happen if one person would be less happy; that person would simply refuse the transaction.
+بعد ذلك، ينظر الجميع حول الغرفة. يرى شخص ما "P" شخصًا آخر "Q" يحمل طبقًا يفضل "P" الحصول عليه. ربما يفكر "Q" في نفس الشيء بشأن "P"! في هذه الحالة، من الحكمة أن يتبادلوا اللوحات؛ كلاهما أكثر سعادة. أو السيناريو الذي يكون فيه الشخص "P" أكثر سعادة إذا قام بالتداول مع "Q"، ولا يهتم "Q" بأي من الاتجاهين؛ وعليهم أيضًا أن يتاجروا. لن تتم الصفقات إذا كان شخص واحد أقل سعادة؛ سيرفض هذا الشخص الصفقة ببساطة.
 
-If we allow these sorts of trades to proceed until no further trades are possible, the system reaches a state called "[Pareto-Optimal](https://en.wikipedia.org/wiki/Pareto_efficiency)." Formally, this is a state where any transaction would result in at least one party being worse off than they currently are.
+إذا سمحنا لهذه الأنواع من الصفقات بالمضي قدمًا حتى لا يكون هناك أي صفقات أخرى ممكنة، فسيصل النظام إلى حالة تسمى "[Pareto-Optimal](https://en.wikipedia.org/wiki/Pareto_efficiency)." من الناحية الرسمية، هذه هي الحالة التي تؤدي فيها أي معاملة إلى أن يصبح طرف واحد على الأقل أسوأ حالًا مما هو عليه حاليًا.
 
-"Pareto-Efficiency" is not the only kind of efficiency, nor does it necessarily reach a "maximally efficient" state by some measures. Consider the goal of "maximizing total happiness," a kind of utilitarianism, and apply it to the following scenario, where persons `P` and `Q` rate their plates on a 1-10 scale, where 10 is the best:
+"كفاءة باريتو" ليست النوع الوحيد من الكفاءة، كما أنها لا تصل بالضرورة إلى حالة "الكفاءة القصوى" من خلال بعض المقاييس. خذ بعين الاعتبار هدف "تعظيم السعادة الكاملة"، وهو نوع من النفعية، وقم بتطبيقه على السيناريو التالي، حيث يقوم الأشخاص "P" و"Q" بتقييم لوحاتهم على مقياس من 1 إلى 10، حيث 10 هو الأفضل:
 
-| Person | `P`'s Plate | `Q`'s Plate |
-|:----|:----|:----|
-| `P` | `1` | `10` |
-| `Q` | `5` | `9` |
+| شخص | لوحة `P` | لوحة `س` | |:----|:----|:----| | `ص` | `1` | `10` | | `س` | `5` | `9` |
 
-`P` would very much like to trade, but `Q` would not; this is Pareto-Optimal. But if they did trade, total happiness would increase, because currently total happiness is `1 + 9 = 10` whereas trading would result in `10 + 5 = 15`.
+`P` يرغب بشدة في التداول، لكن `Q` لا يرغب في ذلك؛ هذا هو باريتو الأمثل. ولكن إذا قاموا بالتداول، فإن إجمالي السعادة سيزداد، لأن إجمالي السعادة حاليًا هو "1 + 9 = 10"، بينما سيؤدي التداول إلى "10 + 5 = 15".
 
-So, should we *force* them to trade, pissing off `Q` for the greater good?
+لذا، هل يجب علينا *إجبارهم* على التجارة، مما يثير غضب "كيو" من أجل الصالح العام؟
 
-Clearly there won't be a single answer to defining "efficiency" or "fair policy." Nevertheless, with this backdrop as our guide, and taking up practical considerations arising in real companies, there are many actionable things we can do to make policies more fair, and people more efficient, and even more happy.
+من الواضح أنه لن تكون هناك إجابة واحدة لتعريف "الكفاءة" أو "السياسة العادلة". ومع ذلك، وفي ظل هذه الخلفية كدليل لنا، ومع الأخذ في الاعتبار الاعتبارات العملية الناشئة في الشركات الحقيقية، هناك العديد من الأشياء القابلة للتنفيذ التي يمكننا القيام بها لجعل السياسات أكثر عدالة، وجعل الناس أكثر كفاءة، وحتى أكثر سعادة.
 
-## When to standardize
+## متى توحيد
 
-Under what conditions do the benefits of standardization outweigh the penalties on individual efficiency?
+تحت أي ظروف تفوق فوائد التقييس العقوبات المفروضة على الكفاءة الفردية؟
 
 ![a business is a living organism that can have needs that contradict the needs of any individuals within it](https://public.asmartbear.com/books/anthology/chapters/tension-autonomy-admin/image-simple.png)
 
-### Maximize the individual; satisfy administration
+### تعظيم الفرد؛ إرضاء الإدارة
 
-Individual autonomy leads to everything good: The proverbial ["win-win"](https://longform.asmartbear.com/authentic-is-dead/) of both happiness and efficiency. Therefore, we should maximize individual autonomy. Administrative requirements should take precedence only with reason, such as a current problem with harms we can easily identify, or because the law requires it, or because our values dictate it, or because important jobs (like those of the executive team or the security and IT teams) cannot be done without it. Use the [Satisficing vs Maximizing Framework](https://longform.asmartbear.com/maximizing/) to navigate this dynamic.
+الاستقلالية الفردية تؤدي إلى كل شيء جيد: المثل ["الفوز"] (https://longform.asmartbear.com/authentic-is-dead/) لكل من السعادة والكفاءة. ولذلك، ينبغي لنا أن نعمل على تحقيق أقصى قدر من الاستقلالية الفردية. ولا ينبغي للمتطلبات الإدارية أن تكون لها الأسبقية إلا بالعقل، مثل مشكلة حالية ذات أضرار يمكننا تحديدها بسهولة، أو لأن القانون يتطلب ذلك، أو لأن قيمنا تملي ذلك، أو لأن الوظائف المهمة (مثل وظائف الفريق التنفيذي أو فرق الأمن وتكنولوجيا المعلومات) لا يمكن إنجازها بدونها. استخدم [إطار العمل المُرضي مقابل التعظيم](https://longform.asmartbear.com/maximizing/) للتنقل في هذه الديناميكية.
 
 ![I'm sorry, Jim, I'm afraid this is only a win win situation.](https://public.asmartbear.com/books/anthology/chapters/tension-autonomy-admin/d4018print-simple.png)
 
-### Minimize the scope of standardization
+### تقليل نطاق التقييس
 
-Most developers agree that code-formatting should be standardized, at least within a single team. One implementation is to require everyone to use the same IDE, which in turn enforces the formatting rules. But that's over-scoping the solution, because many IDEs are capable of enforcing the same formatting rules. The solution is to mandate the *rules*, and allow developers to use any system that enforces those rules. Sure, some IDEs might make that easier than others, but if a developer really wants to use a different editor, and will abide by the rules (perhaps with an external tool and custom automation that the developer maintains), then individual efficiency has been preserved, while the team enjoys the benefits of standardization.
+يتفق معظم المطورين على ضرورة توحيد تنسيق التعليمات البرمجية، على الأقل ضمن فريق واحد. أحد التطبيقات هو مطالبة الجميع باستخدام نفس IDE، والذي بدوره يفرض قواعد التنسيق. ولكن هذا يعتبر مبالغة في تحديد نطاق الحل، لأن العديد من بيئات التطوير المتكاملة قادرة على فرض نفس قواعد التنسيق. الحل هو فرض *القواعد*، والسماح للمطورين باستخدام أي نظام يفرض هذه القواعد. من المؤكد أن بعض بيئات التطوير المتكاملة (IDE) قد تجعل ذلك أسهل من غيرها، ولكن إذا كان المطور يريد حقًا استخدام محرر مختلف، وسيلتزم بالقواعد (ربما باستخدام أداة خارجية وأتمتة مخصصة يحتفظ بها المطور)، فسيتم الحفاظ على الكفاءة الفردية، بينما يتمتع الفريق بفوائد التوحيد القياسي.
 
-### Use standardization in one area to create individual autonomy in other areas
+### استخدم التوحيد في منطقة واحدة لإنشاء استقلالية فردية في مناطق أخرى
 
-It would easier for the IT department if everyone used the same laptop, with the same operation system, and also used the same smart phone and same tablet. But people have their own smart phones, and would prefer not to carry two. So, as we create the "note-taking policy" mentioned earlier, we could constraint ourselves to consider only those note-taking apps that work well across *all* of Windows, Mac, iOS, and Android. Perhaps we also add the requirement that the note-taking app must have a fantastic web-UI (so that any laptop with any operating system has a good experience), and that it have an at-least-4-star app for both iOS and Android devices. That will narrow the field of possible note-taking systems, but in doing so, we preserve the individual's choice of device. While we're at it, perhaps we have requirements for supporting the visually-impaired and for a wide variety of languages; this additional constraint again increases happiness and effectiveness for individuals.
+سيكون من الأسهل على قسم تكنولوجيا المعلومات أن يستخدم الجميع نفس الكمبيوتر المحمول، مع نفس نظام التشغيل، ويستخدمون أيضًا نفس الهاتف الذكي ونفس الجهاز اللوحي. لكن الناس لديهم هواتفهم الذكية الخاصة، ويفضلون عدم حمل اثنين منها. لذلك، أثناء قيامنا بإنشاء "سياسة تدوين الملاحظات" المذكورة سابقًا، يمكننا تقييد أنفسنا للنظر فقط في تطبيقات تدوين الملاحظات التي تعمل بشكل جيد عبر *جميع* أنظمة التشغيل Windows وMac وiOS وAndroid. ربما نضيف أيضًا شرطًا مفاده أن تطبيق تدوين الملاحظات يجب أن يحتوي على واجهة مستخدم ويب رائعة (بحيث يتمتع أي كمبيوتر محمول مزود بأي نظام تشغيل بتجربة جيدة)، وأن يحتوي على تطبيق 4 نجوم على الأقل لكل من أجهزة iOS وAndroid. سيؤدي ذلك إلى تضييق مجال أنظمة تدوين الملاحظات الممكنة، ولكن من خلال القيام بذلك، فإننا نحافظ على اختيار الفرد للجهاز. أثناء قيامنا بذلك، ربما تكون لدينا متطلبات لدعم ضعاف البصر ولمجموعة واسعة من اللغات؛ وهذا القيد الإضافي يزيد مرة أخرى من سعادة الأفراد وفعاليتهم.
 
-### Standardize on outcomes, not on implementations
+### توحيد النتائج وليس التنفيذ
 
-Goal-setting and metrics-reporting are common examples of tension between the needs of administration and the needs of operators. The only way for the CEO to keep track of the business is to have a consistent summary of activities, metrics, and how departments and major initiatives are pacing to expectation. But Sales operates very differently from Product; Marketing operates differently from Support. Not just in the obvious ways like which metrics are tracked, but in how work is scheduled, how impact is quantified, and planning cycles. Product might plan tactics every two weeks and strategies annually, yet metrics and goals are reported monthly. Sales typically runs on a monthly cadence and therefore has no problem reporting and reacting monthly. Product doesn't want to ship new things in December; Sales doesn't want any meetings in the final few days of the month. Everyone uses different systems-of-record--Jira vs Zendesk vs HubSpot vs Segment vs Salesforce; there is no natural place for goals and metrics to live. It would definitely be incorrect to force everyone to use a single tool to manage all their work. Therefore, the right solution is to standardize on how goals and metrics are *reported upward*, but explicitly *not* standardize on how each department *operates*. (And to implement a [KPI philosophy](https://longform.asmartbear.com/product-metrics/) accordingly.)
+يعد تحديد الأهداف وإعداد تقارير المقاييس من الأمثلة الشائعة على التوتر بين احتياجات الإدارة واحتياجات المشغلين. الطريقة الوحيدة للرئيس التنفيذي لتتبع الأعمال هي الحصول على ملخص ثابت للأنشطة والمقاييس وكيفية مواكبة الإدارات والمبادرات الرئيسية للتوقعات. لكن المبيعات تعمل بشكل مختلف تمامًا عن المنتج؛ يعمل التسويق بشكل مختلف عن الدعم. ليس فقط في الطرق الواضحة مثل المقاييس التي يتم تتبعها، ولكن في كيفية جدولة العمل، وكيفية قياس التأثير، ودورات التخطيط. قد يخطط المنتج للتكتيكات كل أسبوعين والاستراتيجيات سنويًا، ومع ذلك يتم الإبلاغ عن المقاييس والأهداف شهريًا. تعمل المبيعات عادةً بإيقاع شهري، وبالتالي لا توجد مشكلة في الإبلاغ والرد شهريًا. لا يريد المنتج شحن أشياء جديدة في ديسمبر؛ لا تريد المبيعات أي اجتماعات في الأيام القليلة الأخيرة من الشهر. يستخدم الجميع أنظمة تسجيل مختلفة - Jira vs Zendesk vs HubSpot vs Segment vs Salesforce؛ لا يوجد مكان طبيعي للأهداف والمقاييس للعيش فيه. سيكون من غير الصحيح بالتأكيد إجبار الجميع على استخدام أداة واحدة لإدارة جميع أعمالهم. ولذلك، فإن الحل الصحيح هو توحيد كيفية *الإبلاغ عن الأهداف والمقاييس*، ولكن بشكل صريح *عدم* توحيد كيفية *عمل* كل قسم. (ولتنفيذ [فلسفة مؤشرات الأداء الرئيسية](https://longform.asmartbear.com/product-metrics/) وفقًا لذلك.)
 
 ![I am multi-tasking! I've done this report three or four times already!](https://public.asmartbear.com/books/anthology/chapters/tension-autonomy-admin/d3501print-simple.png)
 
-### Policies should describe explicit benefits for individuals, not just for administrators
+### ويجب أن تصف السياسات فوائد واضحة للأفراد، وليس فقط للمسؤولين
 
-No one creates a policy with an explicit intent of causing pain; it happens by accident. If the policy dictates only "what must be done," and not "how it benefits everyone, in different ways," it is likely that the latter wasn't sufficiently considered while the policy was being made. Require policies to have sections that detail how this is beneficial for various parties; if any piece of that section is found wanting, that means our policy isn't good enough yet.
+لا أحد يبتكر سياسة ذات نية واضحة للتسبب في الألم؛ يحدث ذلك بالصدفة. إذا كانت السياسة تملي فقط "ما يجب القيام به"، وليس "كيف يستفيد الجميع، بطرق مختلفة"، فمن المحتمل أن هذا الأخير لم يتم أخذه في الاعتبار بشكل كافٍ أثناء وضع السياسة. تتطلب السياسات أن تحتوي على أقسام توضح بالتفصيل مدى فائدة ذلك لمختلف الأطراف؛ إذا تبين أن أي جزء من هذا القسم ناقص، فهذا يعني أن سياستنا ليست جيدة بما فيه الكفاية بعد.
 
-### Look for cases where local optimization creates problems that global optimization can solve
+### ابحث عن الحالات التي يؤدي فيها التحسين المحلي إلى مشكلات يمكن للتحسين الشامل حلها
 
-Sometimes, optimizing of one component of a system harms overall system performance. This often happens in marketing funnels. One team is responsible for bringing more traffic to the site, so they optimize and succeed. But this new traffic turns out to be low-quality--perhaps that's why it was so easy to generate--so the "home page → purchase page" conversion rate plummets, harming another team's numbers, and making it harder for them to improve, because now they're wading through garbage traffic rather than improving engagement with quality traffic. This is a moment when global optimization should take precedence over local "efficiency." Another example is in assigning tasks, where [people tasked at 90% utilization leads to catastrophic failures](https://longform.asmartbear.com/utilization/), to say nothing of unhappiness and burn-out.
+في بعض الأحيان، يؤدي تحسين أحد مكونات النظام إلى الإضرار بأداء النظام بشكل عام. يحدث هذا غالبًا في مسارات التسويق. يتولى فريق واحد مسؤولية جلب المزيد من الزيارات إلى الموقع، وبالتالي تحسينه وتحقيق النجاح. ولكن تبين أن حركة المرور الجديدة هذه منخفضة الجودة - ربما لهذا السبب كان من السهل جدًا إنشاؤها - لذلك ينخفض ​​معدل التحويل "الصفحة الرئيسية → صفحة الشراء"، مما يضر بأرقام فريق آخر، ويجعل من الصعب عليهم التحسين، لأنهم الآن يخوضون في حركة المرور غير المرغوب فيها بدلاً من تحسين التفاعل مع حركة المرور عالية الجودة. وهذه هي اللحظة حيث ينبغي للتحسين العالمي أن يكون له الأسبقية على "الكفاءة" المحلية. مثال آخر هو إسناد المهام، حيث [يؤدي الأشخاص المكلفون باستغلال 90% إلى إخفاقات كارثية](https://longform.asmartbear.com/utilization/)، ناهيك عن التعاسة والإرهاق.
 
-### Accept sub-optimization in areas that are not the primary bottleneck
+### قبول التحسين الفرعي في المناطق التي ليست عنق الزجاجة الأساسي
 
-In the [Theory of Constraints](https://fortelabs.com/blog/theory-of-constraints-101-table-of-contents/), a system's throughput is limited by a single component (the "bottleneck", Figure 1), and therefore optimizing other components does not increase total throughput (and in fact [can ironically decrease total throughput](https://fortelabs.com/theory-of-constraints-107-identifying-the-constraint-29c7922a69d4)). Among the [many techniques](https://fortelabs.com/theory-of-constraints-106-the-five-focusing-steps-741f1b770bf1) for solving the bottleneck is that we should use people who are not part of the bottleneck to [unblock or delegate tasks](https://fortelabs.com/blog/theory-of-constraints-109-the-psychology-of-subordination/) from within the bottleneck, even if these new recruits are far less efficient at executing those tasks, or if the tasks are menial. This is definitionally sub-optimal from the point of view of all teams who aren't the bottleneck, but the result is higher throughput for the entire organization, and therefore it is the right choice. Encourage everyone to participate in diagnosing the problem as well as inventing the solution, so they realize they're working for the greater good, not working for an ignorant organization.
+في [نظرية القيود](https://fortelabs.com/blog/theory-of-constraints-101-table-of-contents/)، يقتصر إنتاجية النظام على مكون واحد ("عنق الزجاجة"، الشكل 1)، وبالتالي فإن تحسين المكونات الأخرى لا يؤدي إلى زيادة إجمالي الإنتاجية (وفي الواقع [يمكن أن يقلل الإجمالي بشكل مثير للسخرية الإنتاجية](https://fortelabs.com/theory-of-constraints-107-identifying-the-constraint-29c7922a69d4)). من بين [العديد من الأساليب](https://fortelabs.com/theory-of-constraints-106-the-five-focusing-steps-741f1b770bf1) لحل عنق الزجاجة هو أنه يجب علينا استخدام الأشخاص الذين ليسوا جزءًا من عنق الزجاجة [لإلغاء الحظر أو التفويض] المهام](https://fortelabs.com/blog/theory-of-constraints-109-the-psychology-of-subordination/) من داخل عنق الزجاجة، حتى لو كان هؤلاء المجندون الجدد أقل كفاءة بكثير في تنفيذ تلك المهام، أو إذا كانت المهام وضيعة. يعد هذا دون المستوى الأمثل من وجهة نظر جميع الفرق التي لا تمثل عنق الزجاجة، ولكن النتيجة هي إنتاجية أعلى للمؤسسة بأكملها، وبالتالي فهو الاختيار الصحيح. شجع الجميع على المشاركة في تشخيص المشكلة وابتكار الحل، حتى يدركوا أنهم يعملون من أجل الصالح العام، وليسوا يعملون لصالح منظمة جاهلة.
 
 ![In the Theory of Constraints, yellow activities should be subordinated to help with flow in the red activity.](https://public.asmartbear.com/books/anthology/chapters/tension-autonomy-admin/flow-simple.png)
 
-### Consider whether local inefficiency is temporary or permanent
+### فكر فيما إذا كان عدم الكفاءة المحلية مؤقتًا أم دائمًا
 
-All change creates temporary inefficiency, as people and systems acclimate to the change. [People often dislike change](https://longform.asmartbear.com/change/). It's a [well-documented rule of design](https://uxdesign.cc/help-your-customer-navigate-change-1bb674f6ce23) that any time you change the UX of software, many existing customers will complain simply because it's different. When imposing standardization, we nearly always create temporary inefficiency; assuming the standardization is valuable, we should just accept this cost. But when the inefficiency is permanent, we need correspondingly higher conviction that the standardization is worthwhile.
+كل تغيير يؤدي إلى عدم كفاءة مؤقتة، حيث يتأقلم الأشخاص والأنظمة مع التغيير. [غالبًا ما يكره الناس التغيير](https://longform.asmartbear.com/change/). إنها [قاعدة تصميم موثقة جيدًا](https://uxdesign.cc/help-your-customer-navigate-change-1bb674f6ce23) أنه في أي وقت تقوم فيه بتغيير تجربة المستخدم للبرنامج، سيشكو العديد من العملاء الحاليين ببساطة لأنه مختلف. عند فرض التقييس، فإننا نتسبب دائمًا في خلق عدم كفاءة مؤقتة؛ بافتراض أن التوحيد القياسي له قيمة، يجب علينا فقط قبول هذه التكلفة. ولكن عندما يكون عدم الكفاءة دائمًا، فإننا نحتاج إلى قناعة أعلى بأن توحيد المعايير جدير بالاهتمام.
 
-### Document the cases where it's clearly better to (not) standardize
+### قم بتوثيق الحالات التي يكون من الأفضل فيها (عدم) التوحيد القياسي
 
-Product-line strategy is shared across teams, so it should be centralized. Communication across the entire company is better as a single report than as five disjointed reports. Conversely, a team's inside jokes only work when they stay inside the team, and no one is harmed when someone wants to use a family photo as their laptop's desktop background. Writing these categories down keeps us honest--not allowing standardization to encroach where it has negative value, and also agreeing that administrative needs should be paramount in certain areas.
+تتم مشاركة إستراتيجية خط الإنتاج عبر الفرق، لذا يجب أن تكون مركزية. يعد التواصل عبر الشركة بأكملها أفضل من خلال تقرير واحد بدلاً من خمسة تقارير مفككة. وعلى العكس من ذلك، فإن النكات الداخلية للفريق لا تعمل إلا عندما يظلون داخل الفريق، ولا يتأذى أحد عندما يريد شخص ما استخدام صورة عائلية كخلفية لسطح مكتب الكمبيوتر المحمول الخاص به. إن كتابة هذه الفئات يبقينا صادقين - فلا نسمح للتوحيد القياسي بالتعدي على ما له قيمة سلبية، وكذلك الاتفاق على أن الاحتياجات الإدارية يجب أن تكون ذات أهمية قصوى في مجالات معينة.
 
-### Proactively encourage Pareto-Efficiency
+### تشجيع كفاءة باريتو بشكل استباقي
 
 ![bears trading plates](https://public.asmartbear.com/books/anthology/chapters/tension-autonomy-admin/bears-plates-simple.png)
 
-In the "meals" example, we claimed that "random assignment" was efficient for management, but also that we could arrive at a better result if people are allowed to trade. Furthermore, trading does not create any problems for management. Therefore, not only should trading be *allowed*, it should be *encouraged*; everyone is better off, even management. Get creative about how people can self-organize within the constraints of the policy. For example: Trade time; some people help another team accomplish one of their goals faster now, and later the reverse happens, all without "management" getting involved. (Also "trading" isn't the only technique.)
+في مثال "الوجبات"، ادعينا أن "التخصيص العشوائي" كان فعالا للإدارة، ولكننا أيضا نستطيع أن نصل إلى نتيجة أفضل إذا سمح للناس بالتداول. علاوة على ذلك، فإن التداول لا يخلق أي مشاكل للإدارة. لذلك، لا ينبغي فقط *السماح* بالتداول، بل يجب *تشجيعه* أيضًا؛ الجميع في وضع أفضل، حتى الإدارة. كن مبدعًا بشأن كيفية قيام الأشخاص بتنظيم أنفسهم ضمن قيود السياسة. على سبيل المثال: وقت التجارة؛ يساعد بعض الأشخاص فريقًا آخر على تحقيق أحد أهدافهم بشكل أسرع الآن، ثم يحدث العكس لاحقًا، وكل ذلك دون تدخل "الإدارة". (كما أن "التداول" ليس هو الأسلوب الوحيد.)
 
-A fun real-world example was a motorcycle courier service. Bikers start at Central Dispatch, where they are given packets for delivery and addresses for pickup. They would do a round and return, a few times per day. It's a difficult optimization problem to minimize "total time on the road," e.g. not only to minimize the length of one person's route, but to distribute the packets and addresses intelligently. Frequently the bikers would discover that, for example, one was doing a drop-off just blocks away from where another was doing a pickup.
+ومن الأمثلة الواقعية الممتعة خدمة البريد السريع بالدراجات النارية. يبدأ سائقو الدراجات النارية في Central Dispatch، حيث يتم إعطاؤهم حزمًا للتسليم وعناوين للاستلام. كانوا يقومون بجولة ويعودون عدة مرات في اليوم. إنها مشكلة تحسين صعبة لتقليل "الوقت الإجمالي على الطريق"، على سبيل المثال. ليس فقط لتقليل طول مسار شخص واحد، ولكن أيضًا لتوزيع الحزم والعناوين بذكاء. في كثير من الأحيان، يكتشف سائقو الدراجات النارية، على سبيل المثال، أن أحدهم كان يقوم بالتوصيل على بعد بنايات قليلة من المكان الذي كان يقوم فيه الآخر بالتوصيل.
 
-So they instituted a new system: Every packet for delivery or address for pickup also came with two physical tokens. The way you get paid is by the number of tokens you returned at the end of the day. Every token is worth the same amount. A biker could just perform the assigned route, and make the same amount of money they usually make. But, they could also trade. In particular, a biker could say to another: "If you deliver this package for me, I'll give you one of the two tokens." The giver is happy because they still earn one token for doing nothing, and the taker is happy because--assuming it's only a small detour--they make more money per hour.
+لذلك أنشأوا نظامًا جديدًا: كل حزمة للتسليم أو عنوان للاستلام تأتي أيضًا مع رمزين ماديين. الطريقة التي تحصل بها على أموالك هي من خلال عدد الرموز المميزة التي قمت بإعادتها في نهاية اليوم. كل رمز يستحق نفس المبلغ. يمكن لراكب الدراجة النارية أن يقطع المسار المخصص له ويجني نفس المبلغ من المال الذي يجنيه عادةً. ولكن يمكنهم أيضًا التجارة. على وجه الخصوص، يمكن لراكب الدراجة النارية أن يقول لشخص آخر: "إذا قمت بتسليم هذه الحزمة بالنسبة لي، فسوف أعطيك واحدة من الرمزين." يكون المانح سعيدًا لأنه لا يزال يكسب رمزًا واحدًا مقابل عدم القيام بأي شيء، ويكون الآخذ سعيدًا لأنه - على افتراض أنها مجرد تحويلة صغيرة - يكسب المزيد من المال في الساعة.
 
-The bikers self-organized far more efficient routes, all made more money per day than they were previously, and the company could handle more clients without hiring more bikers. Everyone wins through self-organized Pareto-Efficiency.
+قام سائقو الدراجات النارية بتنظيم مسارات أكثر كفاءة بكثير، وحققوا جميعًا أموالًا أكثر يوميًا مما كانوا عليه في السابق، ويمكن للشركة التعامل مع المزيد من العملاء دون توظيف المزيد من السائقين. الجميع يفوز من خلال كفاءة باريتو المنظمة ذاتيًا.
 
-### Use global-optimization explicitly, and sparingly
+### استخدم التحسين الشامل بشكل واضح ومقتصد
 
-In the "meals" example, we saw that global-optimization can be worse for individuals. It's unclear whether that's "more fair" or "better." And yet, global-optimization *sounds* like the smartest thing to do, and indeed it often is. When it really is smartest, we should be explicit about why that is, what global effect we are maximizing, and why it's so worthwhile for the collective good. If you're going to give me a meal I don't want, at least tell me why the [higher purpose](https://longform.asmartbear.com/darwinian-company-growth/) makes it a worthy sacrifice.
+في مثال "الوجبات"، رأينا أن التحسين العالمي يمكن أن يكون أسوأ بالنسبة للأفراد. من غير الواضح ما إذا كان هذا "أكثر عدلاً" أم "أفضل". ومع ذلك، فإن التحسين العالمي يبدو وكأنه أذكى شيء يمكن القيام به، وهو كذلك في كثير من الأحيان. عندما يكون الأمر أذكى حقًا، يجب أن نكون واضحين بشأن سبب ذلك، وما هو التأثير العالمي الذي نعمل على تعظيمه، ولماذا يستحق كل هذا العناء من أجل الصالح العام. إذا كنت ستقدم لي وجبة لا أريدها، على الأقل أخبرني لماذا يجعل [الغرض الأعلى] (https://longform.asmartbear.com/darwinian-company-growth/) منها تضحية تستحقها.
 
 ---
 
-All these are variations on the key idea: Individual autonomy should be our paramount goal, and thus our default. But often local optimization does not lead to global optimization, and the latter is what we should all want for our organization.
+كل هذه مجرد اختلافات في الفكرة الرئيسية: الاستقلال الفردي يجب أن يكون هدفنا الأسمى، وبالتالي هدفنا الافتراضي. ولكن في كثير من الأحيان لا يؤدي التحسين المحلي إلى التحسين العالمي، والأخير هو ما يجب أن نريده جميعًا لمؤسستنا.
 
-Since there are many legitimate times when administrative needs *should* supersede the individual, we should always be open to them, but be explicit, be thoughtful, justify the decision, and keep the individual in mind.
+نظرًا لوجود العديد من الأوقات المشروعة التي *ينبغي* فيها أن تحل الاحتياجات الإدارية محل الفرد، فيجب أن نكون دائمًا منفتحين عليها، ولكن نكون صريحين، ومدروسين، ونبرر القرار، ونضع الفرد في الاعتبار.

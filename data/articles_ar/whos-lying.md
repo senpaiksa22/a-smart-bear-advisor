@@ -20,40 +20,27 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** من الذي يكذب في عالم الشركات الناشئة؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Who's lying?
-
-> **Executive Summary:** A lesson all pilots know: How you must use multiple dials, employing different sources of energy, to report identical data, because some of it is always lying.
-> **Original URL:** [https://longform.asmartbear.com/whos-lying/](https://longform.asmartbear.com/whos-lying/)
-
 ![i know its wrong im just waiting for the autocorrect](https://public.asmartbear.com/books/anthology/chapters/whos-lying/d6782print-simple.png)
 
-We had been flying for four hours, but both gas gauges still read "full." I didn't need a pilot's license to know that couldn't be right, nor to feel the rush of adrenaline in my gums at the thought of the engine sputtering to an eerie quiet death, propeller blades windmilling as we scream "mayday mayday" and "set it down over there" like in the movies, hopefully including the part where the heroes confidently stride away while the wreckage ignites in a fireball, such a banal event in their exhilarating life that they can't even be bothered to glance back at the carnage.
+لقد كنا بالطائرة لمدة أربع ساعات، لكن كلا مقياسي البنزين ما زالا يقرأان "امتلأ". لم أكن بحاجة إلى رخصة طيار لأعرف أن هذا لا يمكن أن يكون صحيحًا، ولا لأشعر باندفاع الأدرينالين في لثتي عندما أفكر في المحرك ينطلق إلى موت هادئ غريب، وشفرات المروحة تدور بينما نصرخ "Mayday Mayday" و"ضعها هناك" كما في الأفلام، ونأمل أن يشمل ذلك الجزء الذي يخطو فيه الأبطال بثقة بعيدًا بينما يشتعل الحطام في كرة نارية، مثل هذا الحدث المبتذل في حياتهم المبهجة. أنهم لا يمكن أن يكلفوا أنفسهم عناء إلقاء نظرة على المذبحة.
 
-"Umm, this can't be right" I said to Gerry, the real pilot. "Yeah," he said, "the needles get stuck to the glass." He flicked the glass. The needle didn't move. "So... do we have enough gas?" "Yeah, we have another hour left, I stuck the tanks before we left."
+"أم، هذا لا يمكن أن يكون صحيحا" قلت لجيري، الطيار الحقيقي. قال: "نعم، الإبر تلتصق بالزجاج." نفض الزجاج. الإبرة لم تتحرك. "إذن... هل لدينا ما يكفي من الغاز؟" "نعم، لدينا ساعة أخرى متبقية، لقد أوقفت الدبابات قبل مغادرتنا".
 
-"Sticking" means plumbing a wooden dowl through top of the wing, into the gas tank, judging the gas level by the height of the resulting wetness. Sometimes the simplest technology is best. Wooden sticks don't run out of batteries or make you wait forty-seven minutes for a security update.
+"الالتصاق" يعني إدخال وتد خشبي عبر الجزء العلوي من الجناح إلى خزان الغاز، مع تحديد مستوى الغاز من خلال ارتفاع البلل الناتج. في بعض الأحيان تكون أبسط التقنيات هي الأفضل. العصي الخشبية لا تنفد بطارياتها أو تجعلك تنتظر سبعة وأربعين دقيقة للحصول على تحديث أمني.
 
-> "Trust, but verify."  
-> --Ronald Regan, repeating a Russian rhyming proverb: Доверяй, но проверяй
+> "ثق ولكن تحقق."
+> --رونالد ريغان، مكررًا مثلًا روسيًا مقفىً: Довеяй، но провеяй
 
-It's not even good enough to just have "two of everything." If two things both rely on electricity, and the electricity goes out, you lose both. There were two gas gauges; both failed for the same reason. It needs to be differently-implemented as well, like a stick versus a gauge. For example, there's a normal magnetic ball compass floating in liquid that will work even if other power sources fail, but it's hard to read as it bounces around from the vibration so it's good to have another one that runs off suction--air pressure differential between the outside and inside of the cabin--which is stable even when you're turning the plane in turbulence.
+ليس من الجيد حتى أن يكون لديك "اثنان من كل شيء". إذا كان شيئين يعتمدان على الكهرباء، وانقطعت الكهرباء، فقد خسرت كليهما. كان هناك مقياسان للغاز. كلاهما فشل لنفس السبب. يجب أن يتم تنفيذه بشكل مختلف أيضًا، مثل العصا مقابل المقياس. على سبيل المثال، هناك بوصلة كروية مغناطيسية عادية تطفو في سائل وستعمل حتى لو تعطلت مصادر الطاقة الأخرى، ولكن من الصعب قراءتها لأنها ترتد من الاهتزاز، لذا من الجيد أن يكون لديك بوصلة أخرى تعمل بالشفط - فرق ضغط الهواء بين الجزء الخارجي والداخلي للمقصورة - والذي يكون مستقرًا حتى عند قلب الطائرة في حالة اضطراب.
 
-Gerry would say: **"Who's lying?"** Usually your instruments are correct, but sometimes one is lying. Maybe the suction system isn't working, so you double-checking suction-based dials with the electric-based dials. You stick the tank, in case the gas gauge is lying.
+قد يقول جيري: **"من يكذب؟"** عادة ما تكون أدواتك صحيحة، ولكن في بعض الأحيان يكذب أحدهم. ربما لا يعمل نظام الشفط، لذا عليك التحقق جيدًا من الأقراص المعتمدة على الشفط باستخدام الأقراص الكهربائية. قم بإلصاق الخزان في حالة كذب مقياس الغاز.
 
-The same lesson applies to our daily life of data and metrics. You think you understand what each number means, and usually you're correct. But sometimes you're running out of gas and don't realize it. I've seen this happen for all sorts of reasons: The spreadsheet had a subtle bug in a formula, the analytics JavaScript code was accidentally left off one page, the survey email didn't get sent to all the customers in the cohort, the database query did/didn't filter something important, a nightly update script hasn't been running for three months.
+وينطبق نفس الدرس على حياتنا اليومية للبيانات والمقاييس. تعتقد أنك تفهم ما يعنيه كل رقم، وعادةً ما تكون على صواب. لكن في بعض الأحيان ينفد منك الغاز ولا تدرك ذلك. لقد رأيت هذا يحدث لجميع أنواع الأسباب: كان جدول البيانات به خطأ دقيق في الصيغة، وتم ترك كود JavaScript التحليلي عن طريق الخطأ من صفحة واحدة، ولم يتم إرسال البريد الإلكتروني للاستبيان إلى جميع العملاء في المجموعة النموذجية، وقام استعلام قاعدة البيانات بتصفية/عدم تصفية شيء مهم، ولم يتم تشغيل البرنامج النصي للتحديث الليلي لمدة ثلاثة أشهر.
 
-A good way to check for bad data is to replicate the airplane dashboard method of deriving the same information in two different ways. Revenue from your billing system compared to cash flows from your bank statements. (Once I discovered our credit card processor was delaying our cash receipts.) Number of active customers from Stripe, and from your User Portal. (Because sometimes a cancellation in one system fails to cancel in another system.) Web traffic from Google Analytics but also another analytics system, or your raw web logs. (If you use five web analytics tools, they'll all give you different numbers; this *could* be due to differences in definitions of things like "visit" and "session," but is that truly all it is?)
+إحدى الطرق الجيدة للتحقق من البيانات السيئة هي تكرار طريقة لوحة معلومات الطائرة لاستخلاص نفس المعلومات بطريقتين مختلفتين. الإيرادات من نظام الفواتير الخاص بك مقارنة بالتدفقات النقدية من كشوف حسابك البنكي. (بمجرد أن اكتشفت أن معالج بطاقتنا الائتمانية كان يؤخر إيصالاتنا النقدية.) عدد العملاء النشطين من Stripe ومن بوابة المستخدم الخاصة بك. (لأنه في بعض الأحيان يفشل الإلغاء في نظام ما في الإلغاء في نظام آخر.) حركة مرور الويب من Google Analytics ولكن أيضًا من نظام تحليلات آخر، أو سجلات الويب الأولية الخاصة بك. (إذا كنت تستخدم خمس أدوات لتحليل الويب، فستعطيك جميعها أرقامًا مختلفة؛ *قد* يكون ذلك بسبب الاختلافات في تعريفات أشياء مثل "الزيارة" و"الجلسة"، ولكن هل هذا كل ما في الأمر حقًا؟)
 
-Besides paranoia, I've found another advantage in computing the same data twice: a better understanding of the forces behind that data, and therefore better analysis of how the company operates and how the market is changing. Consider web traffic. There are analytics that tell you where traffic originates (imperfectly, especially with the latest browsers and extensions intentionally obscuring or blocking data), data about your advertising click-throughs, your own raw web server logs, and broad industry data (e.g. Google Trends on how search-traffic for your keywords is changing). They all tell a different story. None has the full picture; all are biased. But taken together, your picture of the world is more complete, and biases might be cancelled through averaging or by paying heed only to the clearest, most consistent trends. If four different sources agree that a trend is happening, then it's definitely happening.
+إلى جانب جنون العظمة، وجدت ميزة أخرى في حساب نفس البيانات مرتين: فهم أفضل للقوى الكامنة وراء تلك البيانات، وبالتالي تحليل أفضل لكيفية عمل الشركة وكيف يتغير السوق. النظر في حركة المرور على شبكة الإنترنت. هناك تحليلات تخبرك بمكان ظهور حركة المرور (بشكل غير كامل، خاصة مع أحدث المتصفحات والإضافات التي تحجب البيانات أو تحجبها عن عمد)، وبيانات حول النقرات الإعلانية، وسجلات خادم الويب الأولية الخاصة بك، وبيانات الصناعة الواسعة (مثل مؤشرات Google حول كيفية تغير حركة البحث لكلماتك الرئيسية). كلهم يروون قصة مختلفة. لا أحد لديه الصورة الكاملة؛ كلها متحيزة. لكن عند أخذها معًا، تصبح صورتك للعالم أكثر اكتمالًا، وقد يتم إلغاء التحيزات من خلال المتوسط ​​أو من خلال الالتفات فقط إلى الاتجاهات الأكثر وضوحًا وثباتًا. إذا اتفقت أربعة مصادر مختلفة على أن الاتجاه يحدث، فهو يحدث بالتأكيد.
 
-If a metric is important enough to watch it every day, and to act if its behavior deviates from expectation, then it's important enough to be double-checked. Both for accuracy, and for completeness of comprehension.
+إذا كان المقياس مهمًا بما يكفي لمراقبته كل يوم، والتصرف إذا انحرف سلوكه عن التوقعات، فمن المهم التحقق منه مرة أخرى. سواء من أجل الدقة أو من أجل اكتمال الفهم.
 
-If your dashboard isn't redundant, you'll never know... who's lying?
+إذا لم تكن لوحة التحكم الخاصة بك زائدة عن الحاجة، فلن تعرف أبدًا... من يكذب؟

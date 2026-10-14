@@ -20,175 +20,162 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** اكتشف ما يعطل مبيعاتك في أقل من يوم عمل واحد عبر ملاحظات العملاء تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
+لقد تغلبت عليك في الأسبوع الماضي بشأن السبب في أن [الطريقة الأولى لزيادة الإيرادات هي الحصول على تعليقات من المبيعات المفقودة](https://longform.asmartbear.com/put-down-the-compiler/). ردود الفعل من الميدان - *عدم* إضافة ميزات جديدة، *عدم* تحسين موقع الويب، *عدم* حتى التحدث إلى العملاء الحاليين.
 
----
+هذا صحيح، **التحدث مع العملاء الحاليين ليس جيدًا بما فيه الكفاية!** لقد اشتروا على الرغم من أخطائك؛ أنت بحاجة إلى التحدث إلى 99.9% من عملائك *المحتملين* الآخرين الذين لا يتسامحون ويتفهمون الأمر.
 
-### النص المرجعي للمقال (Original Reference):
-# Discover what's blocking sales with less than a day of work
-
-> **Executive Summary:** Uncover sales blockers in 24 hours with these 11 strategies.
-> **Original URL:** [https://longform.asmartbear.com/more-sales-customer-feedback/](https://longform.asmartbear.com/more-sales-customer-feedback/)
-
-Last week I beat you up about why the [number one way to increase revenue is by getting feedback from lost sales](https://longform.asmartbear.com/put-down-the-compiler/). Feedback from the field--*not* adding new features, *not* polishing the website, *not* even talking to existing customers.
-
-That's right, **talking to existing customers isn't good enough!** They bought in spite of your faults; you need to talk to the other 99.9% of your *potential* customers who aren't so forgiving and understanding.
-
-But how?
+لكن كيف؟
 
 ![Cartoon 2d99e3d3](https://longform.asmartbear.com/more-sales-customer-feedback/e3fd26de.png)
 
-It's unfair of me to say "find out what's stopping sales" and then not tell you how to go about it.
+ليس من العدل أن أقول "اكتشف ما الذي يوقف المبيعات" ثم لا أخبرك بكيفية القيام بذلك.
 
-So here are eleven ways to collect empirical data about why people are checking out your product but not buying it, most of which can be implemented in less than a day.
+لذا، إليك إحدى عشرة طريقة لجمع البيانات التجريبية حول سبب قيام الأشخاص بمراجعة منتجك وعدم شرائه، ويمكن تنفيذ معظمها في أقل من يوم واحد.
 
-## 1. Add a short, optional form before your download/eBook/whitepaper so you can follow up.
+## 1. أضف نموذجًا اختياريًا قصيرًا قبل التنزيل/الكتاب الإلكتروني/الورقة البيضاء حتى تتمكن من المتابعة.
 ![free trial download form](https://longform.asmartbear.com/more-sales-customer-feedback/59ba92ee.png)
 
-**"But forms are a barrier to downloads,"** I hear you cry.
+**"لكن النماذج عائق أمام التنزيلات،"** أسمعك تبكي.
 
-I know this argument, but if you don't have feedback you can't fix your product, and if a hundred people download in silence and don't buy, *it doesn't matter that they downloaded.*
+أعرف هذه الحجة، ولكن إذا لم يكن لديك تعليقات، فلن تتمكن من إصلاح منتجك، وإذا قام مائة شخص بالتنزيل في صمت ولم يشتروا، *فلا يهم أنهم قاموا بالتنزيل).*
 
-Besides, if you do it right, adding the form doesn't necessarily mean fewer downloads. I didn't used to believe that sentence I just wrote until we did it at Smart Bear. Sure enough, **no impact in the number of downloads.** None.
+بالإضافة إلى ذلك، إذا قمت بذلك بشكل صحيح، فإن إضافة النموذج لا يعني بالضرورة تنزيلات أقل. لم أكن معتادًا على تصديق تلك الجملة التي كتبتها للتو حتى فعلناها في Smart Bear. بالتأكيد، **لا يوجد أي تأثير في عدد التنزيلات.** لا شيء.
 
-So how do you "do it right?" I wrote a nice, long article with specific tips, learned by *experimenting in the field*, that you can put to use in less than a day. [Read it here on the Avangate blog](http://blog.avangate.com/software-user-data-collection/).
+فكيف "تفعل ذلك بشكل صحيح؟" لقد كتبت مقالة طويلة وجميلة تحتوي على نصائح محددة، تعلمتها من خلال *التجربة الميدانية*، والتي يمكنك استخدامها في أقل من يوم واحد. [اقرأها هنا على مدونة Avangate](http://blog.avangate.com/software-user-data-collection/).
 
-Getting email addresses means you can follow up about the trial. Half of them will have forgotten to start the trial. Half will have gotten stuck and silently stopped. Half don't realize you're a [friendly, happy, small company](https://longform.asmartbear.com/little-company/) that wants to spend time making them successful. (That's a lot of halves...)
+الحصول على عناوين البريد الإلكتروني يعني أنه يمكنك متابعة التجربة. نصفهم سوف ينسون بدء المحاكمة. النصف سيكون عالقًا وتوقف بصمت. نصفهم لا يدركون أنك [شركة ودودة وسعيدة وصغيرة](https://longform.asmartbear.com/little-company/) وتريد قضاء الوقت في تحقيق النجاح. (هذا كثير من النصف ...)
 
-For those who end up not buying, if you ask them "why" you'll be surprised how many will tell you. How can you afford *not* to know this information?
+بالنسبة لأولئك الذين لم يشتروا في نهاية المطاف، إذا سألتهم "لماذا" فسوف تتفاجأ بعدد الأشخاص الذين سيخبرونك. كيف يمكنك أن لا تعرف هذه المعلومات؟
 
-## 2. Have an opt-in newsletter.
+## 2. احصل على رسالة إخبارية للاشتراك.
 ![opt-in message](https://longform.asmartbear.com/more-sales-customer-feedback/bca16602.png)
 
-You don't have a newsletter and you don't have time to write one. You don't even know what to put in one.
+ليس لديك رسالة إخبارية وليس لديك الوقت لكتابة واحدة. أنت لا تعرف حتى ماذا تضع في واحدة.
 
-I know, and I don't care! Prompt them anyway, because someday you'll want one, and then you'll have a bunch of email addresses.
+أعلم ولا يهمني! قم بمطالبتهم على أي حال، لأنك يومًا ما ستحتاج إلى واحد، وبعد ذلك سيكون لديك مجموعة من عناوين البريد الإلكتروني.
 
-**There's no reason not to build an honest, opt-in, no-spam list of people who are interested in your product.** My experience is that *most people on such lists aren't paying customers*! So this means you get all sorts of excuses to gently ping interested people who haven't given you money. Such as:
+**ليس هناك سبب يمنعك من إنشاء قائمة صادقة وخالية من البريد العشوائي للأشخاص المهتمين بمنتجك. ** تجربتي هي أن *معظم الأشخاص الموجودين في مثل هذه القوائم لا يدفعون للعملاء*! وهذا يعني أنك تحصل على كل أنواع الأعذار لتتواصل بلطف مع الأشخاص المهتمين الذين لم يعطوك المال. مثل:
 
-* Praise the features in a new software release.
-* Give a tip about a feature they might not know about.
-* Tell a customer success story.
-* Highlight a nice article someone wrote about you or which argues that a service like yours is valuable.
-* Announce a partnership with another vendor they might use.
-* Give them a time-limited coupon.
-* Tell them you'll be in their city and ask if they'd like you swing by and do a demo.
+* امتدح الميزات الموجودة في إصدار البرنامج الجديد.
+* قدم نصيحة حول ميزة قد لا يعرفون عنها شيئًا.
+* أخبر قصة نجاح العميل.
+* قم بتسليط الضوء على مقال لطيف كتبه شخص ما عنك أو يجادل بأن خدمة مثل خدمتك ذات قيمة.
+* أعلن عن شراكة مع بائع آخر قد يستخدمونه.
+* منحهم قسيمة لفترة محدودة.
+* أخبرهم أنك ستكون في مدينتهم واسألهم عما إذا كانوا يرغبون في زيارتك وتقديم العرض التوضيحي.
 
-If you don't accumulate these emails, it's a tremendous waste, for nothing. Add the checkbox.
+إذا لم تقم بتجميع رسائل البريد الإلكتروني هذه، فسيكون ذلك هدرًا هائلاً، بلا مقابل. أضف خانة الاختيار.
 
-## 3. Offer free stuff for feedback from lost sales.
-Hunt down the contact info for people who trialed but didn't buy and give them something for free if they'll talk to you for 15 minutes about why they didn't buy.
+## 3. تقديم أشياء مجانية للحصول على تعليقات من المبيعات المفقودة.
+ابحث عن معلومات الاتصال للأشخاص الذين قاموا بالتجربة ولكنهم لم يشتروها وامنحهم شيئًا مجانًا إذا تحدثوا معك لمدة 15 دقيقة حول سبب عدم الشراء.
 
-(Guess this means you'll have to get their email address, huh?)
+(أعتقد أن هذا يعني أنه سيتعين عليك الحصول على عنوان بريدهم الإلكتروني، أليس كذلك؟)
 
-At Smart Bear [we gave $2010 to Wikipedia](http://blog.smartbear.com/the_smartbear_blog/2009/06/economic-stimulus-bear-style.html), $5 at a time.  It was amazingly successful.
+في Smart Bear [قدمنا ​​2010 دولارًا إلى Wikipedia](http://blog.smartbear.com/the_smartbear_blog/2009/06/ Economy-stimulus-bear-style.html)، 5 دولارات في المرة الواحدة.  لقد كان ناجحا بشكل مذهل.
 
 ![credit](https://longform.asmartbear.com/more-sales-customer-feedback/5fb3b8c9.png)
 
-**What can you give away?**
+**ما الذي يمكنك التخلي عنه؟**
 
-* Cool stuff that promotes something good for the world (e.g. something from [Etsy](http://www.etsy.com/))
-* Give money to charity so you can write it off and the other person feels good (e.g. $25 donation to [Kiva](http://kiva.org/) or [Wikimedia Foundation](http://wikimediafoundation.org/wiki/Home) or [Free Software Foundation](http://www.fsf.org/))
-* $25 coupon to Amazon (it's easy and "Amazon" means "anything you want")
-* Swag with funny/cool content promoting your company (T-shirt, mug, mousepad)
-* Cool stuff having nothing to do with your company but which is desirable to your audience (e.g. calendar of [XKCD cartoons](http://xkcd.com/) or [Despair posters](http://despair.com/))
+* أشياء رائعة تروج لشيء مفيد للعالم (على سبيل المثال، شيء من [Etsy](http://www.etsy.com/))
+* تبرع بالمال إلى مؤسسة خيرية حتى تتمكن من شطبها ويشعر الشخص الآخر بالارتياح (على سبيل المثال، تبرع بمبلغ 25 دولارًا إلى [Kiva](http://kiva.org/) أو [Wikimedia Foundation](http://wikimediafoundation.org/wiki/Home) أو [مؤسسة البرمجيات الحرة](http://www.fsf.org/))
+* قسيمة بقيمة 25 دولارًا لأمازون (الأمر سهل و"أمازون" تعني "أي شيء تريده")
+* غنيمة بمحتوى مضحك/رائع للترويج لشركتك (تي شيرت، كوب، لوحة ماوس)
+* أشياء رائعة لا علاقة لها بشركتك ولكنها مرغوبة لجمهورك (مثل تقويم [رسوم XKCD الكارتونية](http://xkcd.com/) أو [ملصقات اليأس](http://despair.com/))
 
-It's worth $25 at least; probably $50. You don't have to offer it forever, just until you start hearing the same things over and over again. Or budget $1000 and run the offer until the budget is gone.
+تبلغ قيمتها 25 دولارًا على الأقل؛ ربما 50 دولارًا. ليس عليك أن تقدمه إلى الأبد، فقط حتى تبدأ في سماع نفس الأشياء مرارًا وتكرارًا. أو حدد ميزانية قدرها 1000 دولار وقم بتشغيل العرض حتى انتهاء الميزانية.
 
-## 4. Hunt down the contact info for one customer and get them on the phone.
-I know, it's an "existing customer," and I just told you they can't tell you why other people aren't buying. But I want you to ask about their buying experience.
+## 4. ابحث عن معلومات الاتصال لعميل واحد واحصل عليها على الهاتف.
+أعلم أنه "عميل حالي"، وقد أخبرتك للتو أنهم لا يستطيعون إخبارك لماذا لا يشتري الآخرون. لكن أريدك أن تسأل عن تجربة الشراء الخاصة بهم.
 
-Well, of course you should also do a full [customer discovery session](https://longform.asmartbear.com/customer-development/), and in fact that's the excuse you can use for the call. But carve out at least 15 minutes to interview them about the trial and buying process.
+حسنًا، بالطبع يجب عليك أيضًا إجراء [جلسة اكتشاف العملاء] كاملة (https://longform.asmartbear.com/customer-development/)، وفي الواقع هذا هو العذر الذي يمكنك استخدامه للمكالمة. لكن خصص 15 دقيقة على الأقل لإجراء مقابلات معهم حول عملية التجربة والشراء.
 
-Ask them things like:
+اسألهم أشياء مثل:
 
-* How did they hear about you?  <br/>  *(Tells you which marketing sources are worth spending more time/money with)*
-* What information on your website convinced them to download?  <br/>  *(Tells you which messages are important; if they're buried, make it more obvious; incorporate into ads)*
-* What was the main reason they bought the software?  <br/>  *(Tells you their primary pain point, the one you should address on your home page and ads)*
-* What part of the trial process was confusing or difficult?  <br/>  *(Tells you where other people are probably dropping out of the sales process)*
+* كيف سمعوا عنك؟  <br/> *(يخبرك بالمصادر التسويقية التي تستحق إنفاق المزيد من الوقت/المال معها)*
+* ما هي المعلومات الموجودة على موقع الويب الخاص بك التي أقنعتهم بالتنزيل؟  <br/> *(يخبرك بالرسائل المهمة؛ وإذا كانت مدفونة، فاجعلها أكثر وضوحًا؛ ودمجها في الإعلانات)*
+* ما هو السبب الرئيسي وراء شرائهم للبرنامج؟  <br/> *(يخبرك بنقطة الألم الأساسية، والتي يجب عليك معالجتها على صفحتك الرئيسية وإعلاناتك)*
+* أي جزء من عملية المحاكمة كان مربكًا أو صعبًا؟  <br/> *(يخبرك بالمكان الذي من المحتمل أن ينقطع فيه الأشخاص الآخرون عن عملية البيع)*
 
-## 5. In your product uninstaller, ask why they didn't buy.
-This sounds dubious I know. Why would anyone *bother*? They're already uninstalling, why would they give you the time of day?
+## 5. في برنامج إلغاء تثبيت منتجك، اسأل عن سبب عدم الشراء.
+هذا يبدو مشكوكا فيه وأنا أعلم. لماذا قد يزعج أي شخص *؟ لقد قاموا بالفعل بإلغاء التثبيت، لماذا يعطونك الوقت من اليوم؟
 
-But the fact is, this works. People like to give opinions. Don't take my word for it--check out [this comment](https://longform.asmartbear.com/put-down-the-compiler/) on last week's post where Mo Flanagan from [WindowTabs](http://www.windowtabs.com/) volunteered that this technique was "eye-opening" for his company.
+ولكن الحقيقة هي أن هذا يعمل. الناس يحبون إبداء الرأي. لا تصدق كلامي -- راجع [هذا التعليق](https://longform.asmartbear.com/put-down-the-compiler/) في منشور الأسبوع الماضي حيث تطوع Mo Flanagan من [WindowTabs](http://www.windowtabs.com/) بأن هذه التقنية كانت "ملفتة للنظر" لشركته.
 
-The FireFox browser not only asks when you uninstall, it even asks if you merely *cancel* an *install*!
+لا يسألك متصفح FireFox فقط عن وقت إلغاء التثبيت، بل يسألك أيضًا عما إذا كنت قد قمت فقط بإلغاء التثبيت!
 
 ![cancellation dialog box](https://longform.asmartbear.com/more-sales-customer-feedback/817d8a01.png)
 
-Sure, most of the time you'll get nothing and sometimes you'll get useless crap like "You suck," but sometimes you'll get gold.
+بالتأكيد، في معظم الأوقات لن تحصل على شيء، وأحيانًا ستحصل على هراء عديم الفائدة مثل "أنت سيء"، ولكن في بعض الأحيان ستحصل على الذهب.
 
-As with the Help Menu link (below), don't bother making a custom form to get the feedback, just pop up an email client or web browser with a form asking why they didn't buy.
+كما هو الحال مع رابط قائمة المساعدة (أدناه)، لا تهتم بإنشاء نموذج مخصص للحصول على التعليقات، ما عليك سوى فتح عميل البريد الإلكتروني أو متصفح الويب بنموذج يسألك عن سبب عدم الشراء.
 
-While you're at it, why not add a field that says: "If you'd like to be notified when we address the problems you've raised, put your email address here."
+أثناء قيامك بذلك، لماذا لا تضيف حقلاً يقول: "إذا كنت ترغب في أن يتم إعلامك عندما نعالج المشكلات التي أثرتها، ضع عنوان بريدك الإلكتروني هنا."
 
-## 6. Solicit testimonials from existing customers.
-Besides being great marketing fodder, testimonials are where you discover the *real* reasons your customers love you. The real pain you solve, the true impact of your software on their daily life, whether you really do have "legendary" service, etc..
+## 6. التماس الشهادات من العملاء الحاليين.
+إلى جانب كونها مادة تسويقية رائعة، فإن الشهادات هي المكان الذي تكتشف فيه الأسباب *الحقيقية* التي تجعل عملائك يحبونك. الألم الحقيقي الذي تحله، والتأثير الحقيقي لبرنامجك على حياتهم اليومية، وما إذا كان لديك بالفعل خدمة "أسطورية"، وما إلى ذلك.
 
-For the things they highlight, consider: Are those things obvious from the get-go to new visitors to your website? Are these things obvious while someone is trialing your product?
+بالنسبة للأشياء التي يسلطون الضوء عليها، ضع في اعتبارك ما يلي: هل هذه الأشياء واضحة منذ بداية وصول الزوار الجدد إلى موقع الويب الخاص بك؟ هل هذه الأشياء واضحة أثناء قيام شخص ما بتجربة منتجك؟
 
-For the things you *thought* were great about your product or company that they *don't* talk about, maybe you should reconsider whether those things are actually important. Listen to your customers' point of view, not yours. Listen to their stories, not your vision.
+بالنسبة للأشياء التي *اعتقدت* أنها رائعة في منتجك أو شركتك والتي *لا* يتحدثون عنها، ربما يجب عليك إعادة النظر فيما إذا كانت هذه الأشياء مهمة بالفعل. استمع إلى وجهة نظر عملائك، وليس وجهة نظرك. استمع إلى قصصهم، وليس رؤيتك.
 
-Here's an example. This is an actual customer quote for Smart Bear's (my) software development tool:
+هنا مثال. هذا هو عرض أسعار العميل الفعلي لأداة تطوير البرمجيات الخاصة بشركة Smart Bear:
 
-> "When we introduced Code Collaborator, it was like someone broke the ice in our group. With some common ground to start conversations and help us get to know each other, we came out of our cubes and actually talked to each other. As a result, now we collaborate more often to design and test features as well as review them."
-> *--Anand Kalyanavarathan, Program Manager, Siemens*
+> "عندما قدمنا ​​Code Collaborator، كان الأمر كما لو أن شخصًا ما كسر الجليد في مجموعتنا. مع وجود أرضية مشتركة لبدء المحادثات ومساعدتنا في التعرف على بعضنا البعض، خرجنا من مكعباتنا وتحدثنا بالفعل مع بعضنا البعض. ونتيجة لذلك، نتعاون الآن بشكل أكبر لتصميم الميزات واختبارها بالإضافة إلى مراجعتها."
+> *--أناند كاليانافاراثان، مدير البرامج، شركة Siemens*
 
-Notice how there's no mention of features or why we're better than the competition or whether we're SaaS or not. It's a story about how this tool changed the *social dynamic* in the company from isolation to collaboration.
+لاحظ أنه لا يوجد ذكر للميزات أو لماذا نحن أفضل من المنافسة أو ما إذا كنا SaaS أم لا. إنها قصة حول كيفية تغيير هذه الأداة *الديناميكية الاجتماعية* في الشركة من العزلة إلى التعاون.
 
-You can see this sentiment reflected in the bi-line on Code Collaborator's product page (circa 2009 when this article was written): "When code review is easy and fun, it actually gets done."
+يمكنك رؤية هذا الشعور ينعكس في السطر الثنائي على صفحة منتج Code Collaborator (حوالي عام 2009 عندما تمت كتابة هذه المقالة): "عندما تكون مراجعة التعليمات البرمجية سهلة وممتعة، يتم إنجازها بالفعل."
 
-## 7. Add links (for web apps) and Help Menu items (for desktop apps) soliciting feedback.  Or ask on "quit."
-It should say something inviting and human like "Complain" or "Yell at us." Just "Feedback" is too corporate and unfeeling. Prove that you want them to click that link!
+## 7. أضف روابط (لتطبيقات الويب) وعناصر قائمة المساعدة (لتطبيقات سطح المكتب) لطلب التعليقات.  أو اسأل "إنهاء".
+ينبغي أن يقول شيئًا جذابًا وإنسانيًا مثل "شكوى" أو "الصراخ علينا". مجرد "التعليقات" هو أمر مؤسسي للغاية وعديم الشعور. أثبت أنك تريد منهم أن ينقروا على هذا الرابط!
 
-You don't have to create complex forms or mess with proxy servers, just open a "Contact Us" form on your website or launch their email client.
+لا يتعين عليك إنشاء نماذج معقدة أو العبث بالخوادم الوكيلة، ما عليك سوى فتح نموذج "اتصل بنا" على موقع الويب الخاص بك أو تشغيل برنامج البريد الإلكتروني الخاص بهم.
 
-We did this at Smart Bear and a sizable percentage of all feedback email comes from that link in the product. You can probably add this to your software in an hour. Why not do it?
+لقد فعلنا ذلك في Smart Bear وتأتي نسبة كبيرة من جميع التعليقات عبر البريد الإلكتروني من هذا الرابط الموجود في المنتج. ربما يمكنك إضافة هذا إلى برنامجك خلال ساعة. لماذا لا تفعل ذلك؟
 
-Keith from [Redcort software](http://redcort.com/) suggests also prompting users when they exit the product.  Would that bother a user?  During a trial, this is no different from any other "annoyance" buy-me-now box, but has much greater opportunity for reward.
+يقترح Keith من [برنامج Redcort](http://redcort.com/) أيضًا مطالبة المستخدمين عند الخروج من المنتج.  هل سيزعج ذلك المستخدم؟  أثناء التجربة، لا يختلف هذا عن أي صندوق "اشتريني الآن" آخر، ولكنه يتمتع بفرصة أكبر بكثير للحصول على مكافأة.
 
-## 8. Give away free copies of your software in exchange for product reviews.
-Reviews not only give you feedback about your software, they also double as publicity.
+## 8. قم بإعطاء نسخ مجانية من برنامجك مقابل مراجعات المنتج.
+لا تمنحك المراجعات تعليقات حول برنامجك فحسب، بل إنها تؤدي أيضًا دور الدعاية.
 
-Don't worry about getting bad publicity. If your product is DOA they won't bother writing a review, because writing "I couldn't get it installed" doesn't make for an interesting article. If they like some parts and dislike others, that's OK. In fact, there's data that shows people are more likely to try a product that has mixed reviews that one with rave reviews, provided the reviewer gives details!
+لا تقلق بشأن الحصول على دعاية سيئة. إذا كان منتجك DOA فلن يكلفوا أنفسهم عناء كتابة مراجعة، لأن كتابة "لم أتمكن من تثبيته" لا تجعله مقالًا مثيرًا للاهتمام. إذا كانوا يحبون بعض الأجزاء ويكرهون أجزاء أخرى، فلا بأس بذلك. في الواقع، هناك بيانات تظهر أن الأشخاص أكثر عرضة لتجربة منتج يحتوي على تقييمات مختلطة عن المنتج الذي يحتوي على تقييمات رائعة، بشرط أن يقدم المراجع التفاصيل!
 
-The smaller the blogger the more likely they are to help you. Remember, even a blogger with 17 RSS subscribers can provide valuable feedback.
+كلما كان المدون صغيرًا، زادت احتمالية مساعدتك. تذكر أنه حتى المدون الذي لديه 17 مشتركًا في خدمة RSS يمكنه تقديم تعليقات قيمة.
 
-## 9. Give away copies of your software in exchange for a 30-minute feedback session.
-After the trial period elapses, almost no one buys, right? So you send some emails to beg them etc., but almost no one responds, right?
+## 9. وزع نسخًا من برنامجك مقابل جلسة تعليقات مدتها 30 دقيقة.
+بعد انقضاء الفترة التجريبية، لا أحد يشتري تقريبًا، أليس كذلك؟ لذلك ترسل بعض رسائل البريد الإلكتروني للتوسل إليهم وما إلى ذلك، لكن لا أحد يستجيب تقريبًا، أليس كذلك؟
 
-So you have these people who were interested enough to download but absolutely *are not going to buy*. I propose you give them the software for free.
+إذًا هناك هؤلاء الأشخاص الذين كانوا مهتمين بدرجة كافية بتنزيله ولكنهم بالتأكيد *لن يشتروا*. أقترح عليك منحهم البرنامج مجانا.
 
-You're not losing money on the sale because they weren't going to buy anyway. You exchange the free license *only if* they get on the phone with you and really talk about why they couldn't shake the money loose from the boss.
+أنت لا تخسر المال من البيع لأنهم لن يشتروا على أي حال. يمكنك تبادل الترخيص المجاني *فقط إذا* اتصلوا بك عبر الهاتف وتحدثوا حقًا عن سبب عدم قدرتهم على التخلص من الأموال من رئيسهم.
 
-The only way you "lose money" here is that you have to provide tech support without revenue. But the feedback about lost sales is more than worth it.
+الطريقة الوحيدة التي "تخسر بها المال" هنا هي أنه يتعين عليك تقديم الدعم الفني بدون إيرادات. لكن التعليقات حول المبيعات المفقودة تستحق العناء أكثر من ذلك.
 
-Besides, those people will tell their friends (free publicity), and you can set limits like "only one free seat per company" so that they can't pull this trick on you twice.
+علاوة على ذلك، سيخبر هؤلاء الأشخاص أصدقائهم (الدعاية المجانية)، ويمكنك وضع حدود مثل "مقعد مجاني واحد فقط لكل شركة" حتى لا يتمكنوا من تنفيذ هذه الخدعة عليك مرتين.
 
-Also you don't have to offer this forever. By the time they tell their friends and suggest that if they wait they could get a free seat, you'll have ended this program because you'll have gotten 10 meetings and you'll know how to get those friends to actually purchase.
+كما أنه ليس عليك تقديم هذا إلى الأبد. بحلول الوقت الذي يخبرون فيه أصدقائهم ويقترحون عليهم أن يحصلوا على مقعد مجاني إذا انتظروا، ستكون قد أنهيت هذا البرنامج لأنك ستكون قد حصلت على 10 اجتماعات وستعرف كيفية إقناع هؤلاء الأصدقاء بالشراء فعليًا.
 
-## 10. Find a local startup/entrepreneur/user group in town and pitch your product.
-Most cities have an informal support group for startups. Ask whether you can pitch your product to the group for practice and feedback.
+## 10. ابحث عن مجموعة محلية ناشئة/رائد أعمال/مستخدمين في المدينة وقم بعرض منتجك.
+يوجد في معظم المدن مجموعة دعم غير رسمية للشركات الناشئة. اسأل ما إذا كان بإمكانك عرض منتجك على المجموعة للتدرب عليه وإبداء الرأي فيه.
 
-It doesn't matter if you're pitching in front of entrepreneurs, investors, or a local user group. In fact, the latter is great if they're also your potential customers--you get to do a sales pitch in a friendly environment.
+لا يهم إذا كنت تعرض أفكارك أمام رواد الأعمال أو المستثمرين أو مجموعة مستخدمين محلية. في الواقع، يعد الخيار الأخير أمرًا رائعًا إذا كانوا أيضًا من عملائك المحتملين - حيث يتعين عليك تقديم عرض تقديمي للمبيعات في بيئة ودية.
 
-Even if you don't get great feedback, having to do a presentation forces you to rethink what's important and interesting about your software and how to communicate that to others. Frequently this exercise reshuffles some ideas that end up on your home page and advertisements.
+حتى لو لم تحصل على تعليقات رائعة، فإن الاضطرار إلى تقديم عرض تقديمي يجبرك على إعادة التفكير في ما هو مهم ومثير للاهتمام في برنامجك وكيفية توصيل ذلك للآخرين. في كثير من الأحيان، يقوم هذا التمرين بتعديل بعض الأفكار التي تنتهي في صفحتك الرئيسية وإعلاناتك.
 
-## 11. Use UserVoice or GetSatisfacion
+## 11. استخدم UserVoice أو GetSatisfacion
 ![uservoice and get satisfaction logos](https://longform.asmartbear.com/more-sales-customer-feedback/e0366093.png)
 
-These web-based services solicit feedback and then allow people to vote on each other's ideas. The cost is free or cheap depending on service options. Both of these services are ubiquitous on the web so people generally know how to use them.
+تطلب هذه الخدمات المستندة إلى الويب التعليقات ثم تسمح للأشخاص بالتصويت على أفكار بعضهم البعض. التكلفة مجانية أو رخيصة حسب خيارات الخدمة. تتوفر هاتان الخدمتان في كل مكان على الويب، لذا يعرف الأشخاص بشكل عام كيفية استخدامها.
 
-I recommend allowing anonymous responses, otherwise many people will be discouraged by having to create a new account or forgetting the account information they created.
+أوصي بالسماح بالردود المجهولة، وإلا فسيشعر العديد من الأشخاص بالإحباط بسبب الاضطرار إلى إنشاء حساب جديد أو نسيان معلومات الحساب التي قاموا بإنشائها.
 
-Don't worry about people crapping up your forums. You won't have much feedback at first so moderation is easy, and in my experience at Smart Bear we've had hundreds of entries and comments and thousands of votes, and we haven't once needed to delete something.
+لا تقلق بشأن قيام الأشخاص بإفساد منتدياتك. لن يكون لديك الكثير من التعليقات في البداية، لذا فإن الإشراف أمر سهل، ومن خلال تجربتي في Smart Bear كان لدينا مئات الإدخالات والتعليقات وآلاف الأصوات، ولم نكن بحاجة إلى حذف شيء ما.
 
-## Please, just do something
-If you're not actively getting data about lost sales every day, you're in the dark. These techniques are easy to implement so there's no excuse not to try some.
+## من فضلك، فقط افعل شيئا
+إذا كنت لا تحصل بشكل نشط على بيانات حول المبيعات المفقودة كل يوم، فأنت في الظلام. هذه التقنيات سهلة التنفيذ، لذا ليس هناك عذر لعدم تجربة بعضها.
 
-If you still think you "already know what they're going to say," try it anyway. If you're right, hooray for you.
+إذا كنت لا تزال تعتقد أنك "تعرف بالفعل ما سيقولونه"، فجرب ذلك على أية حال. إذا كنت على حق، الصيحة بالنسبة لك.
 
-But if you're wrong, these techniques could be the difference between molding a product people will actually pay money for and going out of business with an idea you thought was perfect.
+ولكن إذا كنت مخطئًا، فقد تكون هذه التقنيات هي الفارق بين صياغة منتج سيدفع الناس المال مقابله والخروج من العمل بفكرة كنت تعتقد أنها مثالية.

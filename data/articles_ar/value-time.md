@@ -20,64 +20,51 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** القيمة الحقيقية لساعة واحدة من وقت مؤسس الشركة الناشئة تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# What is the value of one hour of a startup founder's time?
-
-> **Executive Summary:** Startup founders undervalue their time. Here's why you should act like it's $1000/hr, and how it changes the decisions you make.
-> **Original URL:** [https://longform.asmartbear.com/value-time/](https://longform.asmartbear.com/value-time/)
-
 ![due to recent economic conditions picture worth has dropped to an all time low of 842 words](https://public.asmartbear.com/books/anthology/chapters/value-time/d3502print-simple.png)
 
-Almost no startup founder values her time properly.
+لا يوجد تقريبًا أي مؤسس لشركة ناشئة يقدر وقته بشكل صحيح.
 
-Consultants know exactly what their time is worth: their hourly rate. As they say, it's how much "the market will bear." (Or "how much the consultant dares to charge.") When a consultant intentionally doesn't work for an hour--whether to be with family or to work on a new startup or to take a nap--they're giving up an hour of earnings.
+يعرف المستشارون بالضبط قيمة وقتهم: سعر الساعة. وكما يقولون، فالمسألة هي مقدار "السوق الذي سيتحمله". (أو "ما هو المبلغ الذي يجرؤ المستشار على تحصيله.") عندما لا يعمل المستشار عمدًا لمدة ساعة - سواء كان ذلك مع العائلة أو للعمل في شركة ناشئة جديدة أو لأخذ قيلولة - فإنه يتخلى عن ساعة من الأرباح.
 
-If being a consultant is your goal, this is indeed how you should value your time (although [beware the traps of that business model](https://longform.asmartbear.com/consulting-company-accounting/)). But when you're in a startup, the math is completely different.
+إذا كان هدفك هو أن تكون مستشارًا، فهذه هي الطريقة التي يجب أن تقدر بها وقتك (على الرغم من [احذر من فخاخ نموذج العمل هذا](https://longform.asmartbear.com/consulting-company-accounting/)). لكن عندما تكون في شركة ناشئة، فإن الحسابات مختلفة تمامًا.
 
-**Your time is worth $1000/hour, and you need to act accordingly.**
+**وقتك يساوي 1000 دولار في الساعة، وعليك التصرف وفقًا لذلك.**
 
-Here's why it's that much.
+هذا هو السبب وراء هذا القدر.
 
-Let's suppose you are a consultant who normally charges $150/hour, and you stumble upon a weird client who asks for the following special terms:
+لنفترض أنك مستشار يتقاضى عادةً 150 دولارًا في الساعة، وعثرت على عميل غريب يطلب منك الشروط الخاصة التالية:
 
-> "I agree your time is worth $150/hour. However I can't pay you now. I promise to pay you four years from now, at which time I will pay everything I owe in one lump sum."
+> "أوافق على أن وقتك يساوي 150 دولارًا في الساعة. ومع ذلك، لا أستطيع أن أدفع لك الآن. أعدك أن أدفع لك بعد أربع سنوات من الآن، وفي ذلك الوقت سأدفع كل ما أدين به دفعة واحدة."
 
-How much should you *increase* your hourly rate to make these terms worthwhile?
+إلى أي مدى يجب عليك *زيادة* أجر الساعة لجعل هذه الشروط جديرة بالاهتمام؟
 
-It definitely must be increased, not just because of the 4% interest you could be making, but because you can't live off money you don't have, which means you'll need to simultaneously work for other clients. You must demand a hefty premium to make this inconvenience worthwhile.
+من المؤكد أنه يجب زيادتها، ليس فقط بسبب الفائدة التي يمكن أن تجنيها والتي تبلغ 4٪، ولكن لأنك لا تستطيع العيش على أموال لا تملكها، مما يعني أنك ستحتاج إلى العمل في نفس الوقت مع عملاء آخرين. يجب عليك المطالبة بعلاوة كبيرة لجعل هذا الإزعاج جديرًا بالاهتمام.
 
-But real consultants are screaming that none of this is the biggest problem with this proposal. The _real_ problem is: What if this client goes out of business in the next four years and *doesn't pay you at all?*
+لكن المستشارين الحقيقيين يصرخون قائلين إن أياً من هذا لا يمثل المشكلة الأكبر في هذا الاقتراح. المشكلة_الحقيقية هي: ماذا لو توقف هذا العميل عن العمل خلال السنوات الأربع القادمة و *لم يدفع لك على الإطلاق؟*
 
-Supposing this client is an early-stage startup--even if funded--the *most likely* result is that they stiff you! Because they're dead. Let's suppose there's a 25% chance the company will exist in four years *and* pay their bill.
+لنفترض أن هذا العميل هو شركة ناشئة في مرحلة مبكرة - حتى لو تم تمويلها - فإن النتيجة *على الأرجح* هي أنه يضايقك! لأنهم ماتوا. لنفترض أن هناك فرصة بنسبة 25% لوجود الشركة خلال أربع سنوات *و* دفع فاتورتها.
 
-Like gambling in Vegas or investing in the stock market (if there's a significant difference), the steeper the odds, the bigger the upside needs to be. You might think you need to charge $150 ÷ 0.25 = $600 per hour to account for the risk.
+مثل المقامرة في فيغاس أو الاستثمار في سوق الأوراق المالية (إذا كان هناك فرق كبير)، كلما كانت الاحتمالات أكبر، كلما كان الاتجاه الصعودي أكبر. قد تعتقد أنك بحاجة إلى تحصيل 150 دولارًا ÷ 0.25 = 600 دولار في الساعة لحساب المخاطرة.
 
-**But in fact, you need to charge far more!** This formula merely brings you back to break-even! To see why, suppose you divided your time between four companies, all operating on these terms. Chances are all but one would fold, and that one would pay you 4x your hourly rate. But that just brings you back to the same place you'd be if you just charged $150/hour on your standard terms--without the risk, and without waiting four years to get the cash.
+**ولكن في الواقع، أنت بحاجة إلى تحصيل رسوم أعلى بكثير!** هذه الصيغة تعيدك إلى نقطة التعادل فحسب! لمعرفة السبب، لنفترض أنك قسمت وقتك بين أربع شركات، تعمل جميعها وفقًا لهذه الشروط. من المحتمل أن يتم طي كل الاحتمالات باستثناء واحد، وهذا سيدفع لك 4 أضعاف أجر الساعة. ولكن هذا يعيدك إلى نفس المكان الذي كنت ستصل إليه إذا كنت تدفع 150 دولارًا في الساعة وفقًا لشروطك القياسية - دون المخاطرة، ودون الانتظار لمدة أربع سنوات للحصول على الأموال النقدية.
 
-So you really need to charge more like $1000/hr in this scenario.
+لذلك تحتاج حقًا إلى تحصيل مبلغ يزيد عن 1000 دولار في الساعة في هذا السيناريو.
 
-Of course **this isn't hypothetical**, this is *exactly* the terms you're accepting for yourself when you create a startup. The risk is high, so the potential financial rewards must outweigh the risk, which means **you have to value your time at least $1000 per hour**, *not* at your $150/hour consultant rate because of platitudes like "my time is worth what the market will bear."
+بالطبع **هذا ليس افتراضيًا**، هذه هي *بالضبط* الشروط التي تقبلها لنفسك عند إنشاء شركة ناشئة. المخاطرة عالية، لذا يجب أن تفوق المكافآت المالية المحتملة المخاطرة، مما يعني **عليك أن تقدر وقتك بما لا يقل عن 1000 دولار في الساعة**، *وليس* بسعر المستشار الذي يبلغ 150 دولارًا في الساعة بسبب عبارات مبتذلة مثل "وقتي يساوي ما سيتحمله السوق".
 
-## What does this mean for your daily life?
+## ماذا يعني هذا لحياتك اليومية؟
 
-* It means you [don't have time for projects](https://longform.asmartbear.com/one-priority/) that have the potential only for small, incremental results.
-* It means a personal assistant is worth the money.
-* It means you [have to focus on just a few things](https://longform.asmartbear.com/focus/) that really matter (and therefore are worth that hourly rate).
-* It means you [should delegate far more than you think](https://longform.asmartbear.com/delegation/).
-* It means you have to stick to the [rules of finding PMF](https://longform.asmartbear.com/product-market-fit-formula/), like [talking to customers](https://longform.asmartbear.com/customer-development/) rather than assuming you know what to build, or working on marketing and sales at least as much as the product.
-* It means you spend the money on a bookkeeper and CPA instead of messing with receipts, Quickbooks, and taxes. And on help at home with cleaning and chores.
-* It means you should focus on building [things that are even more valuable than money](https://longform.asmartbear.com/startup-money/), that generate [customer Love](https://longform.asmartbear.com/willingness-to-pay/).
-* It means you [have to work harder](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/) than is healthy.
-* It means you should obsess about [your productivity](https://longform.asmartbear.com/double-your-productivity/).
-* It means you have to be [smart at prioritization](https://longform.asmartbear.com/rocks-pebbles-sand/), and ensure [you're doing it](https://longform.asmartbear.com/strategic-planning/).
+* هذا يعني أنه [ليس لديك الوقت للمشاريع](https://longform.asmartbear.com/one-priority/) التي لديها القدرة فقط على تحقيق نتائج صغيرة ومتزايدة.
+* وهذا يعني أن المساعد الشخصي يستحق المال.
+* هذا يعني أنه [يجب عليك التركيز على بعض الأشياء فقط](https://longform.asmartbear.com/focus/) التي تهم حقًا (وبالتالي تستحق هذا الأجر بالساعة).
+* هذا يعني أنه [يجب عليك تفويض أكثر بكثير مما تعتقد](https://longform.asmartbear.com/delegation/).
+* ويعني ذلك أنه يتعين عليك الالتزام بـ [قواعد العثور على PMF](https://longform.asmartbear.com/product-market-fit-formula/)، مثل [التحدث إلى العملاء](https://longform.asmartbear.com/customer-development/) بدلاً من افتراض أنك تعرف ما يجب بناؤه، أو العمل على التسويق والمبيعات على الأقل بقدر ما يتعلق الأمر بالمنتج.
+* هذا يعني أنك تنفق المال على محاسب واتفاقية السلام الشامل بدلاً من العبث بالإيصالات والكتب السريعة والضرائب. وعلى المساعدة في المنزل في التنظيف والأعمال المنزلية.
+* هذا يعني أنه يجب عليك التركيز على بناء [الأشياء التي هي أكثر قيمة من المال](https://longform.asmartbear.com/startup-money/)، والتي تولد [حب العملاء](https://longform.asmartbear.com/willingness-to-pay/).
+* هذا يعني أنه [عليك أن تعمل بجدية أكبر](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/) أكثر مما هو صحي.
+* هذا يعني أنه يجب عليك أن تستحوذ على [إنتاجيتك](https://longform.asmartbear.com/double-your-productivity/).
+* هذا يعني أنه يجب عليك أن تكون [ذكيًا في تحديد الأولويات](https://longform.asmartbear.com/rocks-pebbles-sand/)، والتأكد من [أنك تفعل ذلك](https://longform.asmartbear.com/strategic-planning/).
 
-In short, it means you need to stay in the intersection of [your zone of maximum excellence] and [the zone of importance].
+باختصار، هذا يعني أنك بحاجة إلى البقاء في تقاطع [المنطقة ذات أقصى قدر من التميز] و[المنطقة ذات الأهمية].
 
-Because at $1000/hr, you can't afford to do anything else.
+لأنه بسعر 1000 دولار في الساعة، لا يمكنك تحمل تكلفة القيام بأي شيء آخر.

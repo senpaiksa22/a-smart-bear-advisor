@@ -20,74 +20,61 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** توقف عن استخدام كلمة 'أصيل' أو 'حقيقي' كشعار تسويقي تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Human + Fallible = Love; Corporate + Sterile = Refund
-
-> **Executive Summary:** People love and forgive humans, not corporations. Expose your humanity to earn loyal, happy customers, even when you mess up.
-> **Original URL:** [https://longform.asmartbear.com/authentic/](https://longform.asmartbear.com/authentic/)
-
 ![hit her with lower expectations first](https://public.asmartbear.com/books/anthology/chapters/authentic/d9174print-simple.png)
 
-A lovely new company/customer etiquette has emerged, and small startups are especially suited for exploiting it, whereas [incumbents cannot](https://longform.asmartbear.com/startup-beats-incumbent/). I hope you're not ignoring it.
+لقد ظهرت آداب جديدة رائعة للشركة/العملاء، وأصبحت الشركات الناشئة الصغيرة مناسبة بشكل خاص لاستغلالها، في حين أن [الشركات القائمة لا تستطيع ذلك](https://longform.asmartbear.com/startup-beats-incumbent/). آمل أنك لا تتجاهل ذلك.
 
-Just yesterday someone explained to me what they expect from their website hosting company:
+بالأمس فقط أوضح لي أحد الأشخاص ما يتوقعه من شركة استضافة مواقع الويب الخاصة بهم:
 
-> I want someone else making sure the server doesn't go down. Or, if it does go down, **I want someone to apologize to me.**
+> أريد شخصًا آخر يتأكد من عدم تعطل الخادم. أو، إذا حدث خطأ، **أريد أن يعتذر لي شخص ما.**
 
-Ten years ago, that bold text would have read: "Or, if it does go down, I want **someone to scream at**." Or: "I want someone to **give me a refund**." The new attitude is not "Those assholes better not *ever* screw up," but rather "I expect them to try hard, to care, and to treat me well *when* they inevitably screw up."
+قبل عشر سنوات، كان هذا النص الغامق يقرأ: "أو، إذا سقطت، أريد ** أن يصرخ شخص ما **." أو: "أريد من شخص ما ** أن يعيد لي أموالي **." الموقف الجديد ليس "من الأفضل ألا يفشل هؤلاء المتسكعون على الإطلاق"، بل "أتوقع منهم أن يبذلوا قصارى جهدهم، وأن يهتموا بي، وأن يعاملوني بشكل جيد *عندما* يفشلون حتماً".
 
-This doesn't mean you get a free pass to abuse your customers, then earn forgiveness from a faux-heartfelt "open letter from the CEO." Rather, it means:
+هذا لا يعني أنك تحصل على تصريح مجاني للإساءة إلى عملائك، ثم تحصل على التسامح من خلال "رسالة مفتوحة من الرئيس التنفيذي" صادقة. بل يعني:
 
-* **You're doing your best to do right by your customers**, evidenced continuously through all your communication--[blog](https://blog.asmartbear.com/why-business-blogs-should-focus-on-cheerleaders-not-lead-generation.html), [tech support](https://longform.asmartbear.com/tech-support-is-sales/), [website](https://longform.asmartbear.com/little-company/)--not just after a crisis.
-* **You're learning from your mistakes**, evidenced by problems tending towards the esoteric, and by explaining in your apology what steps you've taken to avoid this and similar classes of error.
-* **You're doing everything in your power to be the best**, evidenced by a culture of awesome employees and inventing new ways to make your customers successful, so mistakes are ordinary human error, not negligence or indifference.
+* **أنت تبذل قصارى جهدك لتحقيق الصواب من جانب عملائك**، وهو ما يتضح بشكل مستمر من خلال جميع اتصالاتك--[مدونة](https://blog.asmartbear.com/why-business-blogs-should-focus-on-cheerleaders-not-lead-generation.html)، [الدعم الفني](https://longform.asmartbear.com/tech-support-is-sales/)، [موقع الويب](https://longform.asmartbear.com/little-company/)--ليس بعد الأزمة فقط.
+* **أنت تتعلم من أخطائك**، والدليل على ذلك هو المشاكل الباطنية، ومن خلال توضيح الخطوات التي اتخذتها في اعتذارك لتجنب هذا الخطأ وفئات الأخطاء المشابهة.
+* **أنت تبذل كل ما في وسعك لتكون الأفضل**، ويتجلى ذلك من خلال ثقافة الموظفين الرائعين وابتكار طرق جديدة لإنجاح عملائك، لذا فإن الأخطاء هي خطأ بشري عادي، وليست إهمالًا أو لامبالاة.
 
-It's not even the apology itself; no one's convinced when a large company issues an insincere, legally-vetted "official apology" that doesn't fix anything. What that initial quote really means is: "I want to work with people who behave like real people, who are obviously trying their best, and who respond to problems as earnestly and quickly as can be expected."
+إنه ليس حتى الاعتذار نفسه. لا أحد يقتنع عندما تصدر شركة كبيرة "اعتذارًا رسميًا" غير صادق ومدقق قانونيًا ولا يؤدي إلى إصلاح أي شيء. ما يعنيه هذا الاقتباس الأولي حقًا هو: "أريد العمل مع الأشخاص الذين يتصرفون مثل الأشخاص الحقيقيين، والذين من الواضح أنهم يبذلون قصارى جهدهم، والذين يستجيبون للمشاكل بجدية وبسرعة قدر الإمكان."
 
-In short: **People readily forgive sincere human error, but become adversarial and distrustful with the typical, sterile customer/provider relationship.**
+باختصار: **يغفر الناس بسهولة الأخطاء البشرية الصادقة، لكنهم يصبحون عدائيين وانعدام ثقة في العلاقة النموذجية العقيمة بين العميل ومقدم الخدمة.**
 
-There are many ways to [earn this love; here's a bunch](https://longform.asmartbear.com/willingness-to-pay/).
+هناك طرق عديدة [لكسب هذا الحب؛ إليك مجموعة من الأشياء](https://longform.asmartbear.com/willingness-to-pay/).
 
-The biggest in this context is to do what every blog-about-blogging and tweet-about-tweeting sternly instructs you to do: "Be human." Umm, what? Compared to what, being feline?
+والأمر الأكبر في هذا السياق هو أن تفعل ما ترشدك إليه بشدة كل مدونة عن التدوين أو تغريدة عن التغريد: "كن إنسانًا". أم ماذا؟ مقارنة بماذا، كونك قططًا؟
 
-(Isn't it weird that we have to be *told* how to "be human?" WTF?)
+(أليس من الغريب أن يُقال لنا كيف "نصبح بشرًا؟" وتف؟)
 
-"No no," they say, "it means let your humanity show--[be authentic](https://longform.asmartbear.com/authentic-is-dead/)." Oh brother, ok, how do I do *that*?
+يقولون "لا لا، هذا يعني أن تظهر إنسانيتك - [كن أصليًا](https://longform.asmartbear.com/authentic-is-dead/)." يا اخي طيب كيف افعل *ذلك*؟
 
-The typical advice for "being authentic" is to "just [be yourself](https://longform.asmartbear.com/be-yourself/)," but I don't know what that means either. [Thales](https://en.wikipedia.org/wiki/Thales) said the most difficult thing is to "Know Thyself,"[^1] so it must be *really* hard to do that over Twitter and AdWords. (By the way, Thales also said the easiest thing is "To Give Advice." I'll let you bask in the irony for a minute...)
+النصيحة النموذجية "لكي تكون أصيلاً" هي "أن تكون على طبيعتك فقط"(https://longform.asmartbear.com/be-yourself/)،" لكنني لا أعرف ماذا يعني ذلك أيضًا. قال [طاليس](https://en.wikipedia.org/wiki/Thales) إن أصعب شيء هو "معرفة نفسك"،[^1] لذلك لا بد أنه من الصعب *حقًا* القيام بذلك عبر Twitter وAdWords. (بالمناسبة، قال طاليس أيضًا إن أسهل شيء هو "تقديم النصيحة". سأتركك تنعم بالسخرية لمدة دقيقة...)
 
-[^1]: If you're on this journey, [the bottom of this article](https://longform.asmartbear.com/fulfillment/) has a list of questions you can use to try to figure it out.
+[^1]: إذا كنت في هذه الرحلة، فإن [أسفل هذه المقالة](https://longform.asmartbear.com/fulfillment/) يحتوي على قائمة من الأسئلة التي يمكنك استخدامها لمحاولة اكتشاف ذلك.
 
-So I suppose one route to "finding your voice" is to take stock of your total life experience together with your [ten-year goals](https://blog.asmartbear.com/business-plan.html), then synthesize a compelling, internally-consistent philosophy, apply that to all your actions and communications, and summarize it in four punchy words on your home page.
+لذا أفترض أن أحد الطرق "للعثور على صوتك" هو تقييم إجمالي تجربة حياتك جنبًا إلى جنب مع [أهدافك العشرية](https://blog.asmartbear.com/business-plan.html)، ثم تجميع فلسفة مقنعة ومتسقة داخليًا، وتطبيق ذلك على جميع أفعالك واتصالاتك، وتلخيصها في أربع كلمات مؤثرة على صفحتك الرئيسية.
 
-Yeah right, who can do that? Not me, I can't even decide what to have for lunch.
+نعم صحيح، من يستطيع فعل ذلك؟ ليس أنا، لا أستطيع حتى أن أقرر ما سأتناوله على الغداء.
 
-So instead, here's a few practical ways to discover what's essential to your personality and point of view:
+لذا، بدلًا من ذلك، إليك بعض الطرق العملية لاكتشاف ما هو ضروري لشخصيتك ووجهة نظرك:
 
-#### Criticize others.
-If you especially enjoy someone's slogan, why? Is it because it's funny, clever, specific, unwavering, simple, conservative, confident, or ballsy? Conversely if you loathe someone's "About Us" page, why? Is it because it's too personal, not personal enough, too detailed, not detailed enough, silly, formal, useless, childish, lengthy, or arrogant? When you see something that strikes a nerve, complete the sentence: "I absolutely [love|hate] that because ...."
+#### انتقاد الآخرين.
+إذا كنت تستمتع بشكل خاص بشعار شخص ما، لماذا؟ هل لأنه مضحك، ذكي، محدد، ثابت، بسيط، محافظ، واثق، أو شجاع؟ وعلى العكس من ذلك، إذا كنت تكره صفحة "نبذة عنا" الخاصة بشخص ما، فلماذا؟ هل لأنه شخصي جدًا، وليس شخصيًا بدرجة كافية، أو مفصل جدًا، أو غير مفصل بما فيه الكفاية، أو سخيف، أو رسمي، أو عديم الفائدة، أو طفولي، أو طويل، أو متعجرف؟ عندما ترى شيئًا يثير توترك، أكمل الجملة: "أنا بالتأكيد [أحب|أكره] ذلك لأن ...."
 
-#### Decide what you are _not_
-For example, you might say "I hate companies who use formal language; I'm never going to allow formality to dictate how I communicate." Or the opposite: "I hate companies who think it's funny and clever to use informal language; I'm going to instill confidence by showing that we behave like grown-ups." It's easy to identify corporate stuff that pisses you off; use that to decide both what not to do and what to do instead.
+#### قرر ما أنت _ليس_
+على سبيل المثال، يمكنك أن تقول: "أنا أكره الشركات التي تستخدم اللغة الرسمية، ولن أسمح أبدًا للشكليات بأن تملي علي كيفية التواصل". أو العكس: "أنا أكره الشركات التي تعتقد أنه من المضحك والذكي استخدام لغة غير رسمية؛ سأعمل على غرس الثقة من خلال إظهار أننا نتصرف مثل البالغين". من السهل تحديد الأشياء التي تثير غضبك في الشركة؛ استخدم ذلك لتقرر ما لا يجب فعله وما يجب فعله بدلاً من ذلك.
 
-#### Copy something you love.
-Sounds weird I know--how can *copying* lead to a unique, personal style? But if you think about *why* you love something--a company, an attitude, a writing style, a philosophy--it's because you identify with it so completely. It *is* you! Of course over time you'll morph that copy into something unique, but there's nothing wrong with getting a head start by imitating something you wish you had thought of yourself. Careful though--I'm not advocating plagiarism! The goal is mimicry, not theft; influence, not carbon-copy. Your mindset should be: "The thing I'm copying is a rough draft that needs extensive editing but whose heart is in the right place." [Here's more on learning by copying](https://longform.asmartbear.com/learn-by-copy/).
+#### انسخ شيئًا تحبه.
+أعلم أن هذا يبدو غريبًا - كيف يمكن أن يؤدي *النسخ* إلى أسلوب شخصي فريد؟ ولكن إذا فكرت في *لماذا* تحب شيئًا ما — شركة، أو موقف، أو أسلوب كتابة، أو فلسفة — فذلك لأنك تتماثل معه تمامًا. إنه * أنت *! بالطبع مع مرور الوقت، ستحول تلك النسخة إلى شيء فريد من نوعه، ولكن لا حرج في البدء بتقليد شيء تتمنى لو فكرت فيه بنفسك. لكن كن حذرًا - فأنا لا أدافع عن الانتحال! الهدف هو التقليد وليس السرقة. تأثير، وليس نسخة كربونية. يجب أن تكون عقليتك كما يلي: "الشيء الذي أقوم بنسخه هو مسودة تقريبية تحتاج إلى تحرير مكثف ولكن قلبها في المكان الصحيح." [إليك المزيد عن التعلم عن طريق النسخ](https://longform.asmartbear.com/learn-by-copy/).
 
-Even assuming you successful identify what "being human" means to you, it's still surprisingly difficult to implement because **every strong decision you make will necessarily alienate many people even while it's thrilling others.**
+حتى لو افترضنا أنك نجحت في تحديد ما يعنيه "أن تكون إنسانًا" بالنسبة لك، فإنه لا يزال من الصعب تنفيذه بشكل مدهش لأن **كل قرار قوي تتخذه سوف يؤدي بالضرورة إلى تنفير العديد من الأشخاص حتى عندما يكون ذلك مثيرًا للآخرين.**
 
-If you adopt an informal style, some people will find it refreshing while others find you untrustworthy. If you're proactive in announcing bugs, some people will reciprocate by gracefully putting up with the problems, while others will be shocked--*shocked!*--and will complain on Twitter that you sell shoddy software. If you admit that the entire company consists of two people, some folks will smile knowing they'll get primo customer service while others will flee because of the low probability you'll still be around next year. If you curse on your blog, many people will wince and click "Back" but others will laugh and click "Subscribe."
+إذا اعتمدت أسلوبًا غير رسمي، فسيجده بعض الأشخاص منعشًا بينما يجدك الآخرون غير جدير بالثقة. إذا كنت استباقيًا في الإعلان عن الأخطاء، فإن بعض الأشخاص سوف يبادلونك بالمثل من خلال تحمل المشكلات برشاقة، بينما سيصاب آخرون بالصدمة -*بالصدمة!*--وسيشتكون على تويتر من أنك تبيع برامج غير مطابقة للمواصفات. إذا اعترفت بأن الشركة بأكملها تتكون من شخصين، فإن بعض الأشخاص سوف يبتسمون وهم يعلمون أنهم سيحصلون على خدمة عملاء أولية بينما سيهرب الآخرون بسبب الاحتمال المنخفض لبقائك موجودًا في العام المقبل. إذا لعنت مدونتك، سيشعر العديد من الأشخاص بالغضب وينقرون على "رجوع"، لكن الآخرين سوف يضحكون وينقرون على "اشتراك".
 
-And yet: strong, specific, and honest you must be. Yes it means turning off some people, but the remainder will love you all the more (and make sure their Facebook "friends" know it).
+ومع ذلك: يجب أن تكون قويًا ومحددًا وصادقًا. نعم، هذا يعني إبعاد بعض الأشخاص، لكن الباقي سيحبونك أكثر (وتأكد من أن "أصدقائهم" على فيسبوك يعرفون ذلك).
 
-It turns out, this actually [wins far more customers than you think, and here's why](https://longform.asmartbear.com/icp-ideal-customer-persona/).
+لقد اتضح أن هذا في الواقع [يكسب عملاء أكثر مما تعتقد، وهذا هو السبب](https://longform.asmartbear.com/icp-ideal-customer-persona/).
 
-**What's the alternative--having no persona at all?** Then why would anyone get excited about you? Why would they put up with your faults? Why would they tell their friends about you?
+**ما هو البديل--عدم وجود شخصية على الإطلاق؟** إذن لماذا يتحمس أي شخص لك؟ لماذا يتحملون أخطائك؟ لماذا يخبرون أصدقائهم عنك؟
 
-Is your goal is to become a soulless corporation? No? Well then, do whatever it takes to be soul*ful.*
+هل هدفك هو أن تصبح شركة بلا روح؟ لا؟ حسنًا، افعل كل ما يلزم لتكون روحيًا.*

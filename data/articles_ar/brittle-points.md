@@ -20,97 +20,84 @@ summary_ar: "تحدث الهشاشة عندما تفشل الشركة بسبب �
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** نقاط الهشاشة: كيف تجعل شركتك الناشئة صلبة ومقاومة للصدمات تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Brittle Points: How to make companies robust
-
-> **Executive Summary:** Brittleness is when the company fails because just one component breaks. Learn some strategies for fixing Brittle Points.
-> **Original URL:** [https://longform.asmartbear.com/brittle-points/](https://longform.asmartbear.com/brittle-points/)
-
 ![not interested putting together concerned about giant chicken](https://public.asmartbear.com/books/anthology/chapters/brittle-points/d6898print-simple.png)
 
-[Companies fail for all sorts of reasons](https://longform.asmartbear.com/avoid-blundering/). Sometimes we're not surprised, like if the product never worked or not enough people wanted to pay to solve the problem in question.
+[تفشل الشركات لأسباب عديدة](https://longform.asmartbear.com/avoid-blundering/). في بعض الأحيان لا نتفاجأ، كما لو أن المنتج لم يعمل مطلقًا أو لم يرغب عدد كافٍ من الأشخاص في الدفع لحل المشكلة المعنية.
 
-But sometimes the product did work, people were paying to solve the problem, sales were starting to pick up, and then something broke, and it was all over. How does that happen?
+لكن في بعض الأحيان نجح المنتج، وكان الناس يدفعون لحل المشكلة، وبدأت المبيعات في الارتفاع، ثم تعطل شيء ما، وانتهى الأمر. كيف يحدث ذلك؟
 
-* The product was [built on a platform](https://longform.asmartbear.com/marketing-platform-independence/), and the platform changed. A popular app drops to zero downloads after Apple builds it into iOS; a Google Workspace add-on drops to zero sales after Google builds that feature into Docs; a Twitter management tool breaks when Twitter removes functionality from their public API.
-* The initial marketing channel [quickly saturated](https://longform.asmartbear.com/low-budget-marketing/), so [growth stalled](https://longform.asmartbear.com/growth-asymptote/) at a non-zero but unsustainably-low rate.
-* The initial marketing channel [was sustainable for a while](https://longform.asmartbear.com/one-channel/), but got wiped by external forces: large bidders tripled the [cost per click](https://longform.asmartbear.com/bootstrapped-cpc/), Google's SEO algorithm changed, the big industry event stopped happening, the link-sharing site became irrelevant, the hot blog lost its traffic, the magazine running the ads finally closed.
-* [One big customer](https://blog.asmartbear.com/find-first-big-customer.html), representing 80% of total revenue, left. It wasn't a mistake to sign that customer--it funded the company.
-* A key employee left the company. Early on, [a 10x person](https://longform.asmartbear.com/imbalanced-people/) can mint the company but also could be irreplaceable. A suitable replacement is too rare; it takes too long to find someone, [convince them to join](https://longform.asmartbear.com/startup-hiring-advice/) for almost no salary, and get them up-to-speed and productive.
+* تم إنشاء المنتج [على منصة](https://longform.asmartbear.com/marketing-platform-independence/)، وتم تغيير النظام الأساسي. ينخفض ​​أحد التطبيقات الشائعة إلى الصفر بعد أن قامت Apple بدمجه في نظام التشغيل iOS؛ تنخفض مبيعات وظيفة Google Workspace الإضافية إلى الصفر بعد أن تقوم Google بإنشاء هذه الميزة في المستندات؛ تتعطل أداة إدارة Twitter عندما يزيل Twitter الوظيفة من واجهة برمجة التطبيقات العامة الخاصة بها.
+* قناة التسويق الأولية [تشبعت بسرعة](https://longform.asmartbear.com/low-budget-marketing/)، لذلك [توقف النمو](https://longform.asmartbear.com/growth-asymptote/) بمعدل غير صفري ولكن منخفض بشكل غير مستدام.
+* كانت قناة التسويق الأولية [مستدامة لفترة من الوقت](https://longform.asmartbear.com/one-channel/)، ولكن تم محوها من قبل قوى خارجية: فقد ضاعف كبار مقدمي العروض ثلاثة أضعاف [تكلفة النقرة](https://longform.asmartbear.com/bootstrapped-cpc/)، وتغيرت خوارزمية تحسين محركات البحث الخاصة بشركة Google، وتوقف الحدث الكبير في الصناعة، وأصبح موقع مشاركة الروابط غير ذي صلة، وفقدت المدونة الساخنة عدد زياراتها، وأغلقت المجلة التي تدير الإعلانات أخيرًا.
+* [عميل واحد كبير](https://blog.asmartbear.com/find-first-big-customer.html)، يمثل 80% من إجمالي الإيرادات، على اليسار. لم يكن من الخطأ التوقيع مع ذلك العميل، فقد قام بتمويل الشركة.
+* غادر أحد الموظفين الرئيسيين الشركة. في وقت مبكر، كان بإمكان [شخص 10x](https://longform.asmartbear.com/imbalanced-people/) إنشاء الشركة ولكن قد لا يكون من الممكن استبداله أيضًا. البديل المناسب نادر جدًا؛ يستغرق العثور على شخص ما وقتًا طويلاً جدًا، [وإقناعه بالانضمام](https://longform.asmartbear.com/startup-hiring-advice/) بدون راتب تقريبًا، ومساعدته على تحقيق السرعة والإنتاجية.
 
-**I call these "brittle points"**--places where sudden changes mean the company catastrophically fails, regardless how wonderful everything else is.
+**أسمي هذه "النقاط الهشة"** - الأماكن التي تعني فيها التغييرات المفاجئة فشل الشركة بشكل كارثي، بغض النظر عن مدى روعة كل شيء آخر.
 
-All young companies--and some mature ones--have dependencies like these. You can't help it; you have to rely on other technology to build the product, services from vendors to deliver the product, and human beings to do work.
+جميع الشركات الناشئة - وبعض الشركات الناضجة - لديها تبعيات كهذه. لا يمكنك مساعدته. عليك أن تعتمد على تقنيات أخرى لبناء المنتج، وعلى الخدمات المقدمة من البائعين لتوصيل المنتج، وعلى البشر للقيام بالعمل.
 
-Engineers have Brittle Points in their infrastructure, so they've developed common patterns to address it. Let's briefly look in how they do that, because it will give us clues about how to solve the problems in that list above.
+لدى المهندسين نقاط هشة في البنية التحتية الخاصة بهم، لذا فقد طوروا أنماطًا مشتركة لمعالجتها. دعونا ننظر بإيجاز في كيفية القيام بذلك، لأنه سيعطينا أدلة حول كيفية حل المشاكل في تلك القائمة أعلاه.
 
-## A brittle server
+## خادم هش
 
-Suppose we have a single server that runs our website. Any number of things can cause this server to break--a power failure, a network failure, a bad configuration change, too much traffic arriving at once, bugs in the code, all sorts of things.
+لنفترض أن لدينا خادمًا واحدًا يدير موقعنا الإلكتروني. يمكن لأي عدد من الأشياء أن يتسبب في تعطل هذا الخادم - انقطاع التيار الكهربائي، وفشل الشبكة، وتغيير التكوين السيئ، ووصول الكثير من حركة المرور مرة واحدة، وأخطاء في التعليمات البرمجية، وكل أنواع الأشياء.
 
-How do we make this system less brittle?
+كيف نجعل هذا النظام أقل هشاشة؟
 
-Consider power failure. Power can fail if the power supply[^1] inside the server burns up, or the power strip fails, or the power cord fails (maybe through a [wetware](https://en.wikipedia.org/wiki/Wetware_(brain)) failure like accidentally unplugging it).
+النظر في انقطاع التيار الكهربائي. يمكن أن تنقطع الطاقة في حالة احتراق مصدر الطاقة[^1] داخل الخادم، أو فشل شريط الطاقة، أو فشل سلك الطاقة (ربما من خلال فشل [wetware](https://en.wikipedia.org/wiki/Wetware_(brain)) مثل فصله عن طريق الخطأ).
 
-[^1]: This is the component inside the computer that receives the power cord; it converts city-power into the type of power needed by the other components.
+[^1]: هذا هو المكون الموجود داخل الكمبيوتر الذي يستقبل سلك الطاقة؛ فهو يحول قوة المدينة إلى نوع الطاقة التي تحتاجها المكونات الأخرى.
 
-We can address this Brittle Point with a second copy of the power components--a second power strip with a second cord plugged into a second power supply. This is, in fact, exactly what data centers do!
+يمكننا معالجة هذه النقطة الهشة بنسخة ثانية من مكونات الطاقة - شريط طاقة ثانٍ مع سلك ثانٍ متصل بمصدر طاقة ثانٍ. وهذا في الواقع ما تفعله مراكز البيانات بالضبط!
 
-**In short: redundancy**--having two things that do the same job. **It's twice as expensive, but it buys robustness.** This is also what [airplanes do](https://longform.asmartbear.com/whos-lying/).
+**باختصار: التكرار**--وجود شيئين يؤديان نفس الوظيفة. **إنها باهظة الثمن بمرتين، لكنها تشتري المتانة.** وهذا أيضًا ما تفعله [الطائرات](https://longform.asmartbear.com/whos-lying/).
 
-But what happens if the city power fails? Data centers have their own gas-powered generators. Which means they stockpile gasoline. Rarely-used gas-powered engines tend to fail, so they also test and maintain those units weekly. Data centers often have multiple generators. More robustness, purchased at significant, on-going expense.
+ولكن ماذا يحدث إذا فشلت قوة المدينة؟ مراكز البيانات لديها مولدات خاصة بها تعمل بالغاز. مما يعني أنهم يخزنون البنزين. تميل المحركات التي تعمل بالغاز والتي نادرًا ما تستخدم إلى الفشل، لذلك يتم أيضًا اختبار هذه الوحدات وصيانتها أسبوعيًا. غالبًا ما تحتوي مراكز البيانات على مولدات متعددة. مزيد من المتانة، يتم شراؤها بتكلفة كبيرة ومستمرة.
 
-In modern clouds we go yet another step further, because the entire data center is itself another Brittle Point. So we have additional, identical servers in a physically-separate data center, that draws power and network connectivity from different outside vendors. But now we also need a smart networking system that knows how to direct internet traffic to only the servers that are currently available. Yet another system, which itself becomes--you guessed it--a Brittle Point.
+في السحابة الحديثة، نذهب خطوة أخرى إلى الأمام، لأن مركز البيانات بأكمله هو في حد ذاته نقطة هشة أخرى. لذلك لدينا خوادم إضافية متطابقة في مركز بيانات منفصل فعليًا، والذي يستمد الطاقة والاتصال بالشبكة من بائعين خارجيين مختلفين. لكننا نحتاج الآن أيضًا إلى نظام شبكات ذكي يعرف كيفية توجيه حركة مرور الإنترنت إلى الخوادم المتوفرة حاليًا فقط. نظام آخر، والذي يصبح في حد ذاته - كما خمنت - نقطة هشة.
 
-The pattern continues--fix more Brittle Points, at more cost and complexity, sometimes creating new Brittle Points. Reliability is expensive.
+ويستمر هذا النمط، وهو إصلاح المزيد من النقاط الهشة، بتكلفة وتعقيد أكبر، وفي بعض الأحيان يتم إنشاء نقاط هشة جديدة. الموثوقية مكلفة.
 
-This pattern is applicable to all of the causes of failure above.
+ينطبق هذا النمط على جميع أسباب الفشل المذكورة أعلاه.
 
 ![what happens to the supply chain if you and debbie break up](https://public.asmartbear.com/books/anthology/chapters/brittle-points/d6341print-simple.png)
 
-## Neutralizing Brittle Points
+## تحييد النقاط الهشة
 
-"One platform" is brittle, because if the platform-owner forward-integrates (i.e. copies you), or removes APIs that you depend on, or themselves fail, that's the end of your company. One solution is to be multi-platform.[^2] Another solution is to only build on platforms where you have a high degree of confidence that the platform owners are committed to supporting their ecosystem by never directly competing with them. Ideally, the platform even promotes their ecosystem, so that it becomes a growth vector instead of a Brittle Point. (Salesforce is currently the best in the world at this.)
+تعتبر "منصة واحدة" هشة، لأنه إذا قام مالك النظام الأساسي بالتكامل (أي نسخك)، أو إزالة واجهات برمجة التطبيقات التي تعتمد عليها، أو فشل هو نفسه، فهذه نهاية شركتك. أحد الحلول هو أن تكون منصة متعددة.[^2] الحل الآخر هو البناء فقط على الأنظمة الأساسية التي تتمتع بدرجة عالية من الثقة بأن مالكي الأنظمة الأساسية ملتزمون بدعم نظامهم البيئي من خلال عدم التنافس معهم بشكل مباشر. ومن الناحية المثالية، تعمل المنصة أيضًا على تعزيز النظام البيئي الخاص بها، بحيث تصبح ناقلًا للنمو بدلاً من نقطة هشة. (يعد Salesforce حاليًا الأفضل في العالم في هذا المجال.)
 
-[^2]: Example: At WP Engine, we run on all three major clouds--AWS, Google, Azure. Example: A marketing tool for listening and responding on Twitter could add support for LinkedIn, Threads, and Bluesky. In this way, additional features can also be risk-mitigation.
+[^2]: مثال: في WP Engine، نعمل على جميع السحابات الرئيسية الثلاث - AWS، وGoogle، وAzure. مثال: يمكن لأداة تسويقية للاستماع والرد على تويتر إضافة دعم لـ LinkedIn وThreads وBluesky. وبهذه الطريقة، يمكن أيضًا أن تكون الميزات الإضافية بمثابة تخفيف المخاطر.
 
-"One marketing channel" is brittle, because if anything happens to the channel, that could be the end of an otherwise-healthy company. The solution is to [find additional marketing channels](https://longform.asmartbear.com/exponential-growth/), so that variation in any one of them is not fatal. Of course this also creates growth; again this "double-win" of "growth + risk-mitigation" shows why it's especially valuable to invest in.
+تعتبر "قناة تسويق واحدة" هشة، لأنه إذا حدث أي شيء للقناة، فقد يكون ذلك نهاية شركة سليمة. الحل هو [البحث عن قنوات تسويق إضافية](https://longform.asmartbear.com/exponential-growth/)، بحيث لا يكون الاختلاف في أي منها أمرًا قاتلاً. وبطبيعة الحال، يؤدي هذا أيضًا إلى النمو؛ ومرة أخرى، يوضح هذا "المكسب المزدوج" المتمثل في "النمو + تخفيف المخاطر" سبب أهمية الاستثمار فيه بشكل خاص.
 
-"One big customer" is brittle. One solution is a long-term contract with a serious breakup clause--insurance to bridge the time it will take to win replacement customers. Another solution is to prioritize sales until that customer represents a smaller percentage of revenue. Another is [up-front payments](https://longform.asmartbear.com/annual-prepay/), so you have the cash-flow to invest in that growth. Another is to charge even more than you originally calculated, again for mitigation cash-flow. The typical attitude is, "We now have a large customer, so pour extra money into development to make sure we don't lose it," but the right attitude is to use that money to win other customers.
+"عميل واحد كبير" هش. أحد الحلول هو عقد طويل الأجل مع شرط تفكك خطير - التأمين لسد الوقت الذي سيستغرقه الفوز بعملاء بديلين. الحل الآخر هو تحديد أولويات المبيعات حتى يمثل هذا العميل نسبة مئوية أقل من الإيرادات. والطريقة الأخرى هي [الدفعات المقدمة](https://longform.asmartbear.com/annual-prepay/)، بحيث يكون لديك التدفق النقدي للاستثمار في هذا النمو. والطريقة الأخرى هي فرض رسوم أكثر مما حسبته في الأصل، مرة أخرى لتخفيف التدفق النقدي. الموقف النموذجي هو: "لدينا الآن عدد كبير من العملاء، لذا استثمر أموالًا إضافية في التطوير للتأكد من أننا لا نخسرها"، لكن الموقف الصحيح هو استخدام هذه الأموال لكسب عملاء آخرين.
 
-"One key employee" is brittle. Not only might they leave, but they will inevitably get sick or take vacation. The usual refrain in the startup world is that none of these are options--everyone has to [work 70+ hours/week](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/) to [the exclusion of other things](https://longform.asmartbear.com/two-big-things/). Talk about brittle!
+"أحد الموظفين الرئيسيين" هش. لن يغادروا فحسب، بل سيمرضون حتماً أو يأخذون إجازة. الامتناع المعتاد في عالم الشركات الناشئة هو أن أياً من هذه الأمور لا يعد خيارات - يجب على الجميع [العمل لأكثر من 70 ساعة في الأسبوع](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/) إلى [استبعاد الأشياء الأخرى](https://longform.asmartbear.com/two-big-things/). نتحدث عن هشة!
 
-**Solving these things takes time and money.** Like the server example, they're not free, and not quick-fixes. You can't just hire three more fantastic developers to create a robust engineering team, and you can't just snap your fingers and find three new efficient, productive marketing channels.
+**يستغرق حل هذه الأمور وقتًا ومالًا.** كما هو الحال في مثال الخادم، فهي ليست مجانية وليست إصلاحات سريعة. لا يمكنك فقط توظيف ثلاثة مطورين رائعين آخرين لإنشاء فريق هندسي قوي، ولا يمكنك مجرد التقاط أصابعك والعثور على ثلاث قنوات تسويقية جديدة فعالة ومنتجة.
 
-Therefore, the right attitude is to **maintain a list of these risks** and then [periodically ask](https://longform.asmartbear.com/strategic-planning/): **Which single one is best to attack right now?**
+لذلك، فإن الموقف الصحيح هو **الاحتفاظ بقائمة بهذه المخاطر** ثم [طرح الأسئلة بشكل دوري](https://longform.asmartbear.com/strategic-planning/): **ما هو الخيار الأفضل للهجوم عليه الآن؟**
 
-For example, it's cheaper and easier to experiment with new marketing channels than it is to find, interview, convince, and manage a second software developer, and plus if you can get a second marketing channel online, that will generate revenue, which in turn means you can *afford* a second software developer. In this mini-scenario, the best thing is to focus all your energy on getting a second marketing channel working.
+على سبيل المثال، يعد تجربة قنوات تسويق جديدة أرخص وأسهل من العثور على مطور برامج ثانٍ وإجراء مقابلات معه وإقناعه وإدارته، بالإضافة إلى أنه إذا كان بإمكانك الحصول على قناة تسويق ثانية عبر الإنترنت، فسيؤدي ذلك إلى تحقيق إيرادات، وهو ما يعني بدوره أنه يمكنك *تحمل* تكلفة مطور برامج ثانٍ. في هذا السيناريو المصغر، أفضل شيء هو تركيز كل طاقتك على تشغيل قناة تسويقية ثانية.
 
-[As you scale up](https://longform.asmartbear.com/scale/) **the size of the "chunks" that create brittleness also scale up**, which creates new brittle things, and thus new risks and new investments. For example, with $260M in revenue in 2016, still growing at a blistering 60%/year, with a thousand employees, HubSpot was not brittle in any of the ways outlined above. But they recognized that they were a single-product company. At that scale, that's a Brittle Point: if there were a sea-change in the market for inbound marketing software, that could be fatal to HubSpot. It also [limits long-term growth](https://longform.asmartbear.com/growth-asymptote/) as the market matures and saturates. The way out--the redundancy--was to become a multi-product company. Furthermore, the second product had to scale at least as well as the first one; it's still a Brittle Point if one product is 95% of revenue. They attacked that problem, and in 2024 it's clear that they succeeded.[^3]
+[مع التوسع](https://longform.asmartbear.com/scale/) **يتزايد أيضًا حجم "القطع" التي تسبب الهشاشة**، مما يخلق أشياء هشة جديدة، وبالتالي مخاطر جديدة واستثمارات جديدة. على سبيل المثال، مع إيرادات بلغت 260 مليون دولار في عام 2016، ولا تزال تنمو بنسبة كبيرة تبلغ 60% سنويًا، مع وجود ألف موظف، لم تكن HubSpot هشة بأي من الطرق الموضحة أعلاه. لكنهم أدركوا أنهم كانوا شركة ذات منتج واحد. على هذا النطاق، تعتبر هذه نقطة ضعف: إذا كان هناك تغيير جذري في سوق برامج التسويق الداخلي، فقد يكون ذلك قاتلاً لشركة HubSpot. كما أنه [يحد من النمو على المدى الطويل](https://longform.asmartbear.com/growth-asymptote/) مع نضوج السوق وتشبعه. كان المخرج -التكرار- هو أن نصبح شركة متعددة المنتجات. علاوة على ذلك، كان على المنتج الثاني أن يتوسع على الأقل مثل المنتج الأول؛ لا تزال هذه نقطة هشة إذا كان منتج واحد يمثل 95٪ من الإيرادات. لقد هاجموا هذه المشكلة، ومن الواضح أنهم نجحوا في عام 2024.[^3]
 
-[^3]: See [this article](https://longform.asmartbear.com/product-market-fit/) for data and discussion.
+[^3]: راجع [هذه المقالة](https://longform.asmartbear.com/product-market-fit/) للحصول على البيانات والمناقشة.
 
-## The biggest brittle point
+## أكبر نقطة هشة
 
-Finally, on a personal note, there's another "chunk-level" that's even larger than all of the preceding, and **it's a brittleness that almost all founders suffer from, including myself**. The chunk of "the entire company."
+أخيرًا، على الصعيد الشخصي، هناك "مستوى قطعة" آخر أكبر من كل ما سبق، و**إنها هشاشة يعاني منها جميع المؤسسين تقريبًا، بما فيهم أنا**. قطعة من "الشركة بأكملها".
 
-This is a one reason why founders are almost always sad and sometimes permanently depressed after [a successful sale of a company](https://longform.asmartbear.com/identity-selling-sadness/). This was your identity, your life, for years. You don't remember what it was like to "be you" without it, and anyway "you" aren't the same "you" anymore. You don't have hobbies or even good friends anymore. You might have [sacrificed family or health](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/). Talk about a Brittle Point. Your entire life is a Brittle Point.
+وهذا هو أحد الأسباب التي تجعل المؤسسين دائمًا حزينين وأحيانًا مكتئبين بشكل دائم بعد [عملية بيع ناجحة للشركة](https://longform.asmartbear.com/identity-sale-sadness/). كانت هذه هويتك وحياتك لسنوات. أنت لا تتذكر كيف كان الأمر عندما تكون "أنت" بدون ذلك، وعلى أي حال، "أنت" لم تعد نفس "أنت" بعد الآن. لم تعد لديك هوايات أو حتى أصدقاء جيدين. قد يكون لديك [ضحية بعائلتك أو صحتك](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/). الحديث عن نقطة هشة. حياتك كلها عبارة عن نقطة هشة.
 
-The solution here is not to have two companies or two jobs. That's burnout; [a lack of singular focus creates worse outcomes](https://longform.asmartbear.com/two-big-things/).
+الحل هنا ليس أن يكون لدينا شركتان أو وظيفتان. هذا الإرهاق. [الافتقار إلى التركيز المفرد يؤدي إلى نتائج أسوأ](https://longform.asmartbear.com/two-big-things/).
 
-Rather, the solution is to realize that there were things you did and loved before and there will be things you will do and love after. They might not all be the same things. Sometimes it's best if they're not; you're a different person now. You are inside a chapter in the book of your life. Even if one chapter is sad or has an unexpected twist, there's the next chapter which you can look forward to, even if you don't yet know how that story will unfold.
+بل الحل هو أن تدرك أن هناك أشياء فعلتها وأحببتها من قبل وسيكون هناك أشياء ستفعلها وتحبها بعد ذلك. قد لا تكون جميعها نفس الأشياء. في بعض الأحيان يكون من الأفضل ألا يكونوا كذلك؛ أنت شخص مختلف الآن. أنت داخل فصل في كتاب حياتك. حتى لو كان أحد الفصول حزينًا أو به تطور غير متوقع، فهناك الفصل التالي الذي يمكنك التطلع إليه، حتى لو كنت لا تعرف بعد كيف ستتكشف هذه القصة.
 
-You can [rediscover who you are with this process](https://longform.asmartbear.com/pivot-points/). But it's rarely easy, or simple, or fast. Hopefully the successful sale has literally bought you time.
+يمكنك [إعادة اكتشاف هويتك من خلال هذه العملية](https://longform.asmartbear.com/pivot-points/). ولكن نادرًا ما يكون الأمر سهلاً، أو بسيطًا، أو سريعًا. نأمل أن يكون البيع الناجح قد اشترى لك الوقت فعليًا.
 
-Robustness, not in many things simultaneously, but in things serially. That's what you do with limited time, and how you navigate the arc of your life's story.
+المتانة، ليس في أشياء كثيرة في وقت واحد، ولكن في الأشياء بشكل متسلسل. هذا ما تفعله بوقت محدود، وكيف تتنقل في قصة حياتك.
 
-Back to today and the here-and-now. Go list all the Brittle Things you have today. Then tackle one or two of those things at a time--you have to [manage risk](https://longform.asmartbear.com/startup-drake-equation/), not try to eliminate all of it at once.
+العودة إلى اليوم وهنا والآن. اذهب إلى قائمة جميع الأشياء الهشة التي لديك اليوم. ثم قم بمعالجة واحد أو اثنين من هذه الأشياء في وقت واحد - عليك [إدارة المخاطر](https://longform.asmartbear.com/startup-drake-equation/)، وليس محاولة التخلص منها كلها مرة واحدة.
 
-Be thoughtful, and build steadily away from brittleness.
+كن مدروسًا وابني بثبات بعيدًا عن الهشاشة.

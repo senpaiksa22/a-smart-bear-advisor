@@ -20,67 +20,54 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** حجارة، ورقة، مقص: لعبة التوقعات والمنافسة في ريادة الأعمال تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# But I know that he knows that I know
-
-> **Executive Summary:** Even better than trying to outwit the competition, is to not react to them at all, and just do your best, directly for your customers.
-> **Original URL:** [https://longform.asmartbear.com/rock-paper-scissors/](https://longform.asmartbear.com/rock-paper-scissors/)
-
 ![rock paper scissors diagram](https://longform.asmartbear.com/rock-paper-scissors/e969daed.svg)
 
- When two people in America need to make a boolean decision and a coin isn't available, the go-to method of problem resolution is [Rock, Paper, Scissors](http://en.wikipedia.org/wiki/Rock,_Paper,_Scissors).
+عندما يحتاج شخصان في أمريكا إلى اتخاذ قرار منطقي ولا تتوفر عملة معدنية، فإن الطريقة المتبعة لحل المشكلة هي [Rock, Paper, Scissors](http://en.wikipedia.org/wiki/Rock,_Paper,_Scissors).
 
-Generally people feel this game is fair, meaning there's an equal likelihood of each participant winning, losing, or tying. And of course if you're an academic who believes Big-Oh embodies everything you need to know about algorithms, you might leave it at that.
+بشكل عام، يشعر الناس أن هذه اللعبة عادلة، مما يعني أن هناك احتمالية متساوية لفوز كل مشارك أو خسارته أو التعادل. وبالطبع إذا كنت أكاديميًا تعتقد أن Big-Oh يجسد كل ما تحتاج لمعرفته حول الخوارزميات، فقد تترك الأمر عند هذا الحد.
 
-But we real geeks can never leave things at that. And I don't (just) mean playing Bear, Ninja, Cowboy:
+لكننا نحن المهوسون الحقيقيون لا يمكننا أبدًا ترك الأمور على هذا النحو. وأنا لا أقصد (فقط) لعب لعبة Bear وNinja وCowboy:
 
-> Cowboy beats bear, bear beats ninja, ninja beats cowboy. The theory behind this is that cowboys can shoot bears but are not fast enough to prevent a ninja from assassinating them, but a bear's acute sense of smell prevents the ninja from gaining the element of surprise, thus allowing the bear to maul him.--[Wikipedia](http://en.wikipedia.org/wiki/Rock,_Paper,_Scissors)
+> رعاة البقر يتفوقون على الدب، الدب يتفوق على النينجا، النينجا يتفوق على رعاة البقر. النظرية وراء ذلك هي أن رعاة البقر يمكنهم إطلاق النار على الدببة ولكنهم ليسوا بالسرعة الكافية لمنع النينجا من اغتيالهم، لكن حاسة الشم القوية لدى الدب تمنع النينجا من اكتساب عنصر المفاجأة، مما يسمح للدب بضربه.
 
-So....
+لذا....
 
-The UK-based Telegraph tells us there's a strategy that wins more often than 1/3 of the time:
+تخبرنا صحيفة التلغراف البريطانية أن هناك استراتيجية تفوز في أكثر من ثلث الحالات:
 
-> Research [from the New Scientist] shows that stone, also called rock, is the most popular of the three possible moves in the game.
+> يُظهر البحث [من New Scientist] أن الحجر، الذي يُسمى أيضًا الصخرة، هو الأكثر شيوعًا من بين الحركات الثلاثة المحتملة في اللعبة.
 > 
-> That means that your opponent is likely to choose paper, because they will expect to you to start the game with stone.
->
-> By going with scissors, you achieve an early victory.
+> وهذا يعني أنه من المرجح أن يختار خصمك الورق، لأنه يتوقع منك أن تبدأ اللعبة بالحجر.
+> 
+> باستخدام المقص، يمكنك تحقيق النصر المبكر.
 
-But hold on. If rock is the most popular move, going with scissors means you would be defeated. But here it says you'll win. Which is it?
+لكن انتظر. إذا كانت موسيقى الروك هي الحركة الأكثر شعبية، فإن استخدام المقص يعني أنك ستهزم. ولكن هنا يقول أنك سوف تفوز. ما هو؟
 
-It depends on what your opponent knows. Let's first assume that neither player knows anything about the statistics or analysis of RPS. (Yeah, RPS is not only an accepted acronym, there are even RPS tournaments. Wowzies. Also, [does it mean anything to win](https://longform.asmartbear.com/copy-number-one/)?) A and B are innocent players, but we want to give A an advantage.
+ذلك يعتمد على ما يعرفه خصمك. لنفترض أولاً أن أياً من اللاعبين لا يعرف أي شيء عن إحصائيات أو تحليل RPS. (نعم، RPS ليس مجرد اختصار مقبول فحسب، بل هناك أيضًا دورات RPS. Wowzies. أيضًا، [هل يعني الفوز أي شيء](https://longform.asmartbear.com/copy-number-one/)؟) A وB لاعبان بريئان، لكننا نريد منح A ميزة.
 
-The new study says that, unbeknownst to the players, rock is the most popular move. That means ignorant B will throw more rock than average, so A can win by throwing more paper against it. So we should whisper into A's ear to throw more paper.
+تقول الدراسة الجديدة أن موسيقى الروك هي الحركة الأكثر شعبية، دون علم اللاعبين. وهذا يعني أن الجاهل "ب" سوف يرمي حجرًا أكثر من المتوسط، لذلك يمكن أن يفوز "أ" عن طريق رمي المزيد من الورق ضده. لذا علينا أن نهمس في أذن "أ" ليرمي المزيد من الورق.
 
-But what if B has read about this study? His "beknownst" state has flipped to true. Then we expect B to favor paper, so in this case we instruct A to favor scissors.
+ولكن ماذا لو قرأ "ب" عن هذه الدراسة؟ لقد انقلبت حالته "المعروفة" إلى الحقيقة. ثم نتوقع أن يفضل B الورق، لذلك في هذه الحالة نطلب من A أن يفضل المقص.
 
-Ah but it gets worse, as it often does with these things. What if B knows that A knows that B read the study? Then B will figure out that A will favor scissors, and will start favoring rock again. **Double-fake!**
+آه، لكن الأمر يزداد سوءًا، كما يحدث غالبًا مع هذه الأشياء. ماذا لو عرف "ب" أن "أ" يعرف أن "ب" قرأ الدراسة؟ بعد ذلك، سيكتشف "ب" أن "أ" سيفضل المقص، وسيبدأ في تفضيل الصخور مرة أخرى. ** وهمية مزدوجة! **
 
-But you see what's coming next. If A knows all of this, A can double-fake too. And so on.
+ولكن ترى ما سيأتي بعد ذلك. إذا كان "أ" يعرف كل هذا، فيمكن لـ "أ" التزييف المزدوج أيضًا. وهكذا.
 
-So where does all this leave us? That, at least in regard to this study, people with more information win more often. There's probably a life lesson in there somewhere.
+فأين يتركنا كل هذا؟ أنه، على الأقل فيما يتعلق بهذه الدراسة، فإن الأشخاص الذين لديهم المزيد من المعلومات يفوزون في كثير من الأحيان. من المحتمل أن يكون هناك درس في الحياة هناك في مكان ما.
 
-Another life lesson is to always keep digging. Like, this isn't close to over. One strategy is to call out what you're going to throw, and then actually throw it. The theory is that the other person generally won't believe you. Why is this an advantage? Let's take a concrete example.
+درس آخر في الحياة هو الاستمرار في الحفر دائمًا. مثل، هذا ليس قريبًا من الانتهاء. تتمثل إحدى الإستراتيجيات في استدعاء ما سترميه، ثم رميه بالفعل. النظرية هي أن الشخص الآخر لن يصدقك بشكل عام. لماذا هذه ميزة؟ دعونا نأخذ مثالا ملموسا.
 
-A says, "I'm going to throw rock." Let's go with the theory that B doesn't believe it. So B thinks A will throw paper or scissors. If B throws rock, he figures 50% chance to win, 50% chance to lose. If B throws paper, it's 50% to tie, 50% to lose, so that's no good. If B throws scissors, it's 50% to win, 50% to tie. Add it up: B's best move (under his assumption) is scissors, and second-best is rock.
+يقول "أ"، "سأرمي حجرًا". دعنا نذهب مع النظرية القائلة بأن B لا يصدقها. لذلك يعتقد B أن A سوف يرمي الورق أو المقص. إذا رمى B حجرًا، فإنه يتوقع أن تكون فرصة الفوز 50%، وفرصة الخسارة 50%. إذا قام (ب) برمي الورق، يكون التعادل بنسبة 50%، والخسارة بنسبة 50%، لذا فهذا ليس جيدًا. إذا رمى B مقصًا، يكون الفوز بنسبة 50%، والتعادل بنسبة 50%. أضف ذلك: أفضل حركة لـ B (وفقًا لافتراضه) هي المقص، وثاني أفضل حركة هي الصخور.
 
-Since A will actually throw rock according to this strategy, and we figure B will throw rock or scissors, A will either tie or win. Awesome!
+نظرًا لأن A سوف يرمي الحجر فعليًا وفقًا لهذه الإستراتيجية، ونعتقد أن B سوف يرمي حجرًا أو مقصًا، فإن A سوف يتعادل أو يفوز. مذهل!
 
-Until B knows that strategy, of course...
+حتى يعرف "ب" تلك الإستراتيجية، بالطبع...
 
-Fortunately a new infographic from the World RPS Society (oh sweet lord, really? The whole world?) helps us with even more stratagems (click for full-size):
+لحسن الحظ، يساعدنا رسم بياني جديد من جمعية RPS العالمية (يا إلهي، حقًا؟ العالم كله؟) في المزيد من الحيل (انقر للحصول على الحجم الكامل):
 
 ![rock paper scissors strategy](https://longform.asmartbear.com/rock-paper-scissors/735234d2.png)
 
-Are you still waiting for some advice about startups?  Sheesh... OK:
+هل ما زلت تنتظر بعض النصائح حول الشركات الناشئة؟  شيش...حسنا:
 
-This is like trying to second-guess what your competitors think, what they know, what they think they know, whether they'll react to your knowledge of that guess, etc..
+وهذا يشبه محاولة تخمين ما يعتقده منافسوك، وما يعرفونه، وما يعتقدون أنهم يعرفونه، وما إذا كانوا سيتفاعلون مع معرفتك بهذا التخمين، وما إلى ذلك.
 
-In the end, screw it, just build the best company you can, for you. You're wrong about most of what you think about those competitors anyway--both the good and bad--so focus inward, and build something you're proud of.
+في النهاية، تبا، فقط قم ببناء أفضل شركة ممكنة، من أجلك. أنت مخطئ بشأن معظم ما تعتقده عن هؤلاء المنافسين على أي حال - سواء كان جيدًا أو سيئًا - لذا ركز على نفسك وابني شيئًا تفتخر به.

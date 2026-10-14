@@ -20,182 +20,141 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** كيف تقيس الدقة الحقيقية لتوقعاتك المالية ومخططات النمو؟ تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# How to measure the accuracy of forecasts
-
-> **Executive Summary:** How do you assess forecasts, when the forecast is only a probability? It's not just about accuracy. Let's dive into the math.
-> **Original URL:** [https://longform.asmartbear.com/forecast/](https://longform.asmartbear.com/forecast/)
-
 ![and now the 7 day forecast](https://public.asmartbear.com/books/anthology/chapters/forecast/d6825print-simple.png)
 
-**"There's a 30% chance of rain today."**
+**"هناك فرصة بنسبة 30% لهطول أمطار اليوم."**
 
-And then it didn't rain. So, was the forecast accurate?
+وبعد ذلك لم تمطر. إذن هل كانت التوقعات دقيقة؟
 
-Or it did rain. Is the forecast inaccurate?
+أو أنها أمطرت. هل التوقعات غير دقيقة؟
 
-How do you hold forecasters accountable, when the forecast is itself a probability? The answer appears tricky, but ends up being simple enough to answer with Google Spreadsheets.
+كيف يمكنك تحميل المتنبئين المسؤولية، عندما يكون التنبؤ في حد ذاته احتمالا؟ تبدو الإجابة صعبة، ولكنها في النهاية بسيطة بما يكفي للإجابة عليها باستخدام جداول بيانات Google.
 
-It's a journey worth taking because of the value of building better forecasts:
+إنها رحلة تستحق القيام بها بسبب قيمة بناء تنبؤات أفضل:
 
-* **Lead scoring**: Putting a value on a new sales lead, predicting the chance of converting to sale, and its dollar value.
-* **Predicting churn**: If you could predict the chance that a given customer will churn in the next thirty days, you could be proactive and perhaps avert the loss; do this enough and you're on the [road to Product/Market Fit](https://longform.asmartbear.com/product-market-fit-formula/).
-* **Predicting upgrades**: If you could predict the chance that a given customer is amenable to an upgrade, you could focus your internal messaging efforts accordingly.
-* **Risk assessments**: Establishing better [probabilities on risks](https://longform.asmartbear.com/probability-words/) results in more [intelligent investments](https://longform.asmartbear.com/investment/).
+* **نقاط العملاء المحتملين**: تحديد قيمة عميل محتمل جديد في المبيعات، والتنبؤ بفرصة التحول إلى بيع، وقيمته بالدولار.
+* **التنبؤ بتوقف العمل**: إذا كان بإمكانك التنبؤ باحتمالية رحيل عميل معين خلال الثلاثين يومًا القادمة، فيمكنك أن تكون استباقيًا وربما تتجنب الخسارة؛ افعل هذا بما فيه الكفاية وستكون على [الطريق إلى المنتج/السوق المناسب](https://longform.asmartbear.com/product-market-fit-formula/).
+* **توقع الترقيات**: إذا كان بإمكانك التنبؤ بفرصة قبول عميل معين للترقية، فيمكنك تركيز جهود المراسلة الداخلية وفقًا لذلك.
+* **تقييمات المخاطر**: يؤدي إنشاء [احتمالات أفضل للمخاطر](https://longform.asmartbear.com/probability-words/) إلى المزيد من [الاستثمارات الذكية](https://longform.asmartbear.com/investment/).
 
-So how do you measure the accuracy of a prediction that is expressed as a probability? Let's return to the meteorologist.
+فكيف يمكنك قياس دقة التنبؤ الذي يتم التعبير عنه كاحتمال؟ دعنا نعود إلى عالم الأرصاد الجوية.
 
-## Accuracy Error
+## خطأ في الدقة
 
-Clearly, a single data point tells you nothing.
+من الواضح أن نقطة بيانات واحدة لا تخبرك بأي شيء.
 
-Rather, the correct interpretation of "30% chance of rain" is the following: Gather all the days in which the meteorologist predicted 30%. If the meteorologist is accurate, it will have rained 30% of those times. Similarly, the forecaster will sometimes predict 0% or 10% or 50%. So we should "bucket" the data for each of these predictions, and see what actually happened in each bucket.
+بل التفسير الصحيح لـ "احتمال سقوط أمطار 30%" هو ما يلي: اجمع كل الأيام التي تنبأ فيها خبير الأرصاد الجوية بنسبة 30%. وإذا كان خبير الأرصاد الجوية دقيقا، فسوف تكون قد أمطرت 30% من تلك الأوقات. وبالمثل، فإن المتنبئ سيتنبأ أحيانًا بنسبة 0% أو 10% أو 50%. لذلك يجب علينا تجميع البيانات لكل من هذه التنبؤات، ومعرفة ما حدث بالفعل في كل مجموعة.
 
-What is the right math to determine "how correct" the forecaster is? As is often the answer in statistics, we can take the squared difference[^1] between the forecast and the actual result.
+ما هي الرياضيات الصحيحة لتحديد مدى صحة المتنبئ؟ كما هو الحال غالبًا في الإحصائيات، يمكننا حساب الفرق المربع[^1] بين التوقعات والنتيجة الفعلية.
 
-[^1]: Why do we square the errors instead of using something simpler like the absolute value of the difference? There are two answers. One is that squaring the differences intentionally exaggerates items which are *very* different from each other. The other is that the mathematics of squared differences is much more tractable than using absolute value. Specifically, you can expand and factor squared differences, and you can use differential calculus. Computing a linear regression line with least-squares, for example, is derived by using calculus to minimize the squared differences, but that same method cannot be applied to linear differences. Nassim Taleb is famously against this practice, but let's not argue the point now.
+[^1]: لماذا نقوم بتربيع الأخطاء بدلاً من استخدام شيء أبسط مثل القيمة المطلقة للفرق؟ هناك إجابتان. الأول هو أن تربيع الاختلافات يؤدي عمدًا إلى تضخيم العناصر التي تختلف *جدًا* عن بعضها البعض. والآخر هو أن رياضيات الفروق التربيعية أسهل بكثير من استخدام القيمة المطلقة. على وجه التحديد، يمكنك توسيع الفروق التربيعية وتحليلها، ويمكنك استخدام حساب التفاضل والتكامل. على سبيل المثال، يتم اشتقاق حساب خط الانحدار الخطي باستخدام المربعات الصغرى باستخدام حساب التفاضل والتكامل لتقليل الاختلافات المربعة، ولكن لا يمكن تطبيق نفس الطريقة على الاختلافات الخطية. من المعروف أن نسيم طالب يعارض هذه الممارسة، لكن دعونا لا نتجادل حول هذه النقطة الآن.
 
-Suppose we have two forecasters, and we ask: Who is most accurate? "Accuracy Error" is measured by the sum of the squared differences between the forecast and reality. Whoever has the least total error is the better forecaster.
+لنفترض أن لدينا اثنين من المتنبئين، ونسأل: من هو الأكثر دقة؟ يتم قياس "خطأ الدقة" بمجموع مربعات الفروق بين التوقعات والواقع. من لديه أقل خطأ إجمالي هو المتنبئ الأفضل.
 
-For example, suppose on some given set of days, forecaster A always predicted a 32% chance of rain, and B always predicted 25%, and suppose in reality it rained on 30% of those days. Then the errors are:
+على سبيل المثال، لنفترض أنه في مجموعة معينة من الأيام، توقع المتنبئ "أ" دائمًا احتمال هطول أمطار بنسبة 32%، وتوقع "ب" دائمًا بنسبة 25%، ولنفترض في الواقع أن المطر قد هطل بنسبة 30% من تلك الأيام. ثم الأخطاء هي:
 
-|  | Predict | Actual | Squared Diff = Error |
-|:---:|----:|----:|----:|
-| A | $32\%$ | $30\%$ | $(0.32-0.30)^2 = 0.0004$ |
-| B | $25\%$ | $30\%$ | $(0.25-0.30)^2 = 0.0025$ |
+|  | توقع | الفعلي | تربيع الفرق = خطأ | |:---:|----:|----:|----:| | أ | $32\%$ | $30\%$ | $(0.32-0.30)^2 = 0.0004$ | | ب | $25\%$ | $30\%$ | $(0.25-0.30)^2 = 0.0025$ |
 
-It feels like we're finished, but alas no. If all we compute is Accuracy Error, we fall for a trap in which we easily forecast with perfect accuracy, while also being utterly useless.
+يبدو الأمر وكأننا انتهينا، ولكن للأسف لا. إذا كان كل ما نحسبه هو خطأ في الدقة، فإننا نقع في فخ يمكننا فيه التنبؤ بسهولة وبدقة تامة، في حين نكون أيضًا عديمي الفائدة تمامًا.
 
-## Discernment
+## التمييز
 
-Suppose these meteorologists are in a region that rains 110 days out of every 365. That is, the overall climactic average probability of rain is 30%. A meteorologist would know that. So, a meteorologist could simply predict "30% chance of rain" every single day, no matter what. Easy job!
+لنفترض أن خبراء الأرصاد الجوية هؤلاء موجودون في منطقة تمطر 110 يومًا من كل 365 يومًا. أي أن متوسط ​​احتمالية هطول الأمطار المناخية الإجمالية هو 30%. خبير الأرصاد الجوية سيعرف ذلك. لذا، يمكن لعالم الأرصاد الجوية أن يتوقع ببساطة "احتمال سقوط أمطار بنسبة 30%" كل يوم، مهما حدث. عمل سهل!
 
-Our Accuracy Error metric will report that this forecaster is perfect--exactly zero over a whole year of predictions. Because, the prediction is always 30%, and indeed on those days it rained 30% of the time: $(0.30-0.30)^2 = 0$ . Except the forecaster isn't perfect; she's not forecasting at all! She's just regurgitating the climactic average.
+سيشير مقياس خطأ الدقة الخاص بنا إلى أن هذا المتنبئ مثالي - وهو صفر تمامًا على مدار عام كامل من التنبؤات. لأن التنبؤ دائمًا يكون 30%، وفي تلك الأيام هطل المطر 30% من الوقت: $(0.30-0.30)^2 = 0$ . باستثناء أن المتنبئ ليس مثاليًا؛ إنها لا تتنبأ على الإطلاق! إنها فقط تتقيأ المتوسط ​​المناخي.
 
 ![but to be fair theres fifty percent chance of just about anything](https://public.asmartbear.com/books/anthology/chapters/forecast/d5221print-simple.png)
 
-And so we see that, although "accuracy error" does measure something important, there's another concept we need to measure: The idea that the forecaster is being *discerning*. That is, that the forecaster is proactively *segmenting* the days, taking a strong stance about which days will rain and which will not. Staking a claim that isn't just copying the overall average.
+وهكذا نرى أنه على الرغم من أن "خطأ الدقة" يقيس شيئًا مهمًا، إلا أن هناك مفهومًا آخر نحتاج إلى قياسه: فكرة أن المتنبئ يكون *مميزًا*. وهذا يعني أن المتنبئ يقوم *بتقسيم* الأيام بشكل استباقي، ويتخذ موقفًا قويًا بشأن الأيام التي ستمطر وأيها لن تمطر. التوقيع على مطالبة لا يقتصر فقط على نسخ المتوسط ​​الإجمالي.
 
-There is a natural tension between accuracy and discernment which becomes apparent when you consider the following scenario:
+هناك توتر طبيعي بين الدقة والفطنة والذي يصبح واضحًا عندما تفكر في السيناريو التالي:
 
-Suppose forecaster A always predicts the climactic average; thus A has 0 accuracy error but also 0 discernment, and is therefore useless. Now consider forecaster B, who often predicts the climactic average, but now and then will predict 0% or 100% of rain, when he's very sure. And suppose that when he predicts 0% the actual average is 10%, and when he predicts 100% the actual average is 90%. i.e. when "B is very sure," B is usually correct.
+لنفترض أن المتنبئ A يتنبأ دائمًا بالمتوسط ​​المناخي؛ وبالتالي فإن A لديه 0 خطأ في الدقة ولكن أيضًا 0 تمييز، وبالتالي فهو عديم الفائدة. الآن خذ بعين الاعتبار المتنبئ B، الذي غالبًا ما يتنبأ بالمتوسط ​​المناخي، لكنه بين الحين والآخر سيتنبأ بنسبة 0% أو 100% من الأمطار، عندما يكون متأكدًا تمامًا. ولنفترض أنه عندما توقع 0% فإن المتوسط ​​الفعلي هو 10%، وعندما توقع 100% فإن المتوسط ​​الفعلي هو 90%. أي عندما يكون "ب متأكدًا جدًا"، يكون "ب" عادةً صحيحًا.
 
-B will have a worse accuracy error score, but should have a better discernment score. Furthermore, you would prefer to listen to forecaster B, *even though he has more error than A.* So the idea of "discernment" isn't just a curiosity, it's a fundamental component of how "good" a forecaster is.
+سيكون لدى B درجة خطأ أسوأ في الدقة، ولكن يجب أن تحصل على درجة تمييز أفضل. علاوة على ذلك، تفضل الاستماع إلى المتنبئ "ب"، *على الرغم من أن لديه أخطاء أكثر من "أ". لذا فإن فكرة "التمييز" ليست مجرد فضول، إنها عنصر أساسي في مدى "جودة" المتنبئ.
 
-How do you compute this "discernment?" We once again use squared differences, but this time we are comparing the difference between *observed results* and the *climactic average*, i.e. how much our prediction buckets differ from the climactic average, and thus how much we're "saying something specific."
+كيف تحسبون هذا "التمييز"؟ نستخدم مرة أخرى فروقًا مربعة، ولكن هذه المرة نقوم بمقارنة الفرق بين *النتائج المرصودة* و *المتوسط ​​المناخي*، أي مدى اختلاف دلاء التنبؤ لدينا عن المتوسط ​​المناخي، وبالتالي مقدار ما "نقول شيئًا محددًا".
 
-For both accuracy error and discernment we use the weighted average for each prediction bucket. Let's start by computing accuracy error for forecaster B, assuming that out of 100 guesses, 8 times he predicted 0%, 12 times he predicted 100%, and the remaining 80 times he predicted the climactic average of 30%:
+بالنسبة لكل من خطأ الدقة والتمييز، نستخدم المتوسط ​​المرجح لكل مجموعة تنبؤ. لنبدأ بحساب خطأ الدقة للمتنبئ B، بافتراض أنه من بين 100 تخمين، تنبأ 8 مرات بنسبة 0%، وتوقع 12 مرة بنسبة 100%، وتوقع 80 مرة المتبقية متوسط ​​الذروة بنسبة 30%:
 
-| Prediction <br/> Bucket | Actual <br/> in this <br/> bucket | Accuracy <br/> Error |
-|:---:|----:|----:|
-| $0\%$ | $10\%$ | $(0.00-0.10)^2 = 0.01$ |
-| $30\%$ | $30\%$ | $(0.30-0.30)^2 = 0.00$ |
-| $100\%$ | $90\%$ | $(1.00-0.90)^2 = 0.01$ |
+| التنبؤ <br/> دلو | <br/> الفعلي في مجموعة <br/> | الدقة <br/> خطأ | |:---:|----:|----:| | $0\%$ | $10\%$ | $(0.00-0.10)^2 = 0.01$ | | $30\%$ | $30\%$ | $(0.30-0.30)^2 = 0.00$ | | $100\%$ | $90\%$ | $(1.00-0.90)^2 = 0.01$ |
 
-Now we weight the errors by the number of predictions in each bucket, yielding the final Error as the weighted average:
+نقوم الآن بوزن الأخطاء حسب عدد التنبؤات في كل مجموعة، مما يؤدي إلى الخطأ النهائي كمتوسط ​​مرجح:
 
-| Prediction <br/> Bucket | Accuracy Error | # in Bucket | Weighted <br/> Error |
-|:---:|----:|----:|----:|
-| $0\%$ | $0.01$ | $8$ | $0.01 \times 8 = 0.08$ |
-| $30\%$ | $0.00$ | $80$ | $0.00 \times 80= 0.00$ |
-| $100\%$ | $0.01$ | $12$ | $0.01 \times 12 = 0.12$ |
-| *Total* |  | $100$ | $0.20$ |
-| *Average* |  |  | $0.20 / 100$ <br/> $= 0.002$ |
+| التنبؤ <br/> دلو | خطأ في الدقة | # في دلو | خطأ <br/> مرجح | |:---:|----:|----:|----:| | $0\%$ | $0.01$ | 8 دولارات | 0.01 دولار × 8 = 0.08 دولار | | $30\%$ | $0.00$ | 80 دولارًا | 0.00 دولار × 80 = 0.00 دولار | | $100\%$ | $0.01$ | 12 دولار | 0.01 دولار × 12 = 0.12 دولار | | *الإجمالي* |  | 100 دولار | 0.20 دولار | | *متوسط* |  |  | 0.20 دولار / 100 دولار <br/> $= 0.002 دولار |
 
-Forecaster B's accuracy error of 0.002 is still low of course. Now we'll compute this new discernment score, which is exactly like accuracy error, except instead of the squared difference between "predicted" and "actual," it's the squared difference between "climactic average" and "actual":
+لا يزال خطأ دقة المتنبئ B البالغ 0.002 منخفضًا بالطبع. الآن سنقوم بحساب درجة التمييز الجديدة هذه، والتي تشبه تمامًا خطأ الدقة، باستثناء أنه بدلاً من الفرق المربع بين "المتوقع" و"الفعلي"، فهو الفرق المربع بين "المتوسط ​​المناخي" و"الفعلي":
 
-| Prediction <br/> Bucket | Actual <br/> in this <br/> bucket | Discernment |
-|:---:|----:|----:|
-| $0\%$ | $10\%$ | $(0.30-0.10)^2 = 0.04$ |
-| $30\%$ | $30\%$ | $(0.30-0.30)^2 = 0.00$ |
-| $100\%$ | $90\%$ | $(0.30-0.90)^2 = 0.36$ |
+| التنبؤ <br/> دلو | <br/> الفعلي في مجموعة <br/> | التمييز | |:---:|----:|----:| | $0\%$ | $10\%$ | $(0.30-0.10)^2 = 0.04$ | | $30\%$ | $30\%$ | $(0.30-0.30)^2 = 0.00$ | | $100\%$ | $90\%$ | $(0.30-0.90)^2 = 0.36$ |
 
-You can see that the forecaster gets no discernment "points" for predicting the climatic average, some points for predicting 0%, and a lot of points for predicting 100%. The latter is more of a departure from average, so that's really "sticking your neck out," so you get a high score for that.
+يمكنك أن ترى أن المتنبئ لا يحصل على "نقاط" تمييز للتنبؤ بالمتوسط ​​المناخي، وبعض النقاط للتنبؤ بنسبة 0%، والكثير من النقاط للتنبؤ بنسبة 100%. يعتبر الأخير بمثابة خروج عن المتوسط، لذا فهذا حقًا "يبرز رقبتك"، لذا تحصل على درجة عالية لذلك.
 
-Then we create the weighted average for discernment, just as we did with accuracy error:
+ثم ننشئ المتوسط ​​المرجح للتمييز، كما فعلنا مع خطأ الدقة:
 
-| Prediction <br/> Bucket | Discern. | # in Bucket | Weighted <br/> Discernment |
-|:---:|----:|----:|----:|
-| $0\%$ | $0.04$ | $8$ | $0.04 \times 8 = 0.32$ |
-| $30\%$ | $0.00$ | $80$ | $0.00 \times 80= 0.00$ |
-| $100\%$ | $0.36$ | $12$ | $0.36 \times 12 = 4.32$ |
-| *Total* |  | $100$ | $4.64$ |
-| *Average* |  |  | $4.64 / 100$ <br/> $0.0464$ |
+| التنبؤ <br/> دلو | تمييز. | # في دلو | الموزون <br/> التمييز | |:---:|----:|----:|----:| | $0\%$ | $0.04$ | 8 دولارات | 0.04 دولار × 8 = 0.32 دولار | | $30\%$ | $0.00$ | 80 دولارًا | 0.00 دولار × 80 = 0.00 دولار | | $100\%$ | $0.36$ | 12 دولار | 0.36 دولار × 12 = 4.32 دولار | | *الإجمالي* |  | 100 دولار | 4.64 دولار | | *متوسط* |  |  | 4.64 دولار / 100 دولار <br/> 0.0464 دولار |
 
-We might be tempted to conclude "there's more discernment (0.0464) than accuracy error (0.002), therefore this forecaster is better." Is that a valid way to think? What is the right way to combine these two numbers for a total "goodness" score?
+قد نميل إلى استنتاج أن "هناك تمييزًا (0.0464) أكثر من خطأ الدقة (0.002)، وبالتالي فإن هذا المتنبئ أفضل". هل هذه طريقة صالحة للتفكير؟ ما هي الطريقة الصحيحة للجمع بين هذين الرقمين للحصول على مجموع نقاط "الخير"؟
 
-To answer that, it turns out there's one more concept we need.
+للإجابة على ذلك، اتضح أن هناك مفهومًا آخر نحتاجه.
 
 ![seriously no one saw this coming](https://public.asmartbear.com/books/anthology/chapters/forecast/d6106print-simple.png)
 
-## Discernment Error
+## خطأ في التمييز
 
-Consider the life of a forecaster in Antofagasta, Chile, where on average [it rains only five days a year](https://www.antofagasta.climatemps.com/precipitation.php) (for a grand total of 1.7 *millimeters* of annual rainfall!). At first glance it seems easy to be a forecaster--just predict "no rain" every day.
+خذ بعين الاعتبار حياة أحد المتنبئين في أنتوفاجاستا، تشيلي، حيث في المتوسط ​​[تهطل الأمطار خمسة أيام فقط في السنة](https://www.antofagasta.climatemps.com/precipitation.php) (بإجمالي إجمالي قدره 1.7 *مليمتر* من الأمطار السنوية!). للوهلة الأولى، يبدو من السهل أن تكون متنبئًا - فقط توقع "عدم هطول الأمطار" كل يوم.
 
-Although that forecaster would have low error, she would also be undiscerning. But wait... how could a forecaster *ever* be discerning in Antofagasta? To be discerning you need to make varied predictions. But *reality isn't varied*, so any predictions that *were* varied, would necessarily be *wrong*! In a sense, there's no "space" for discernment, because there's no variation to discern between. It's not fair to ask the forecaster to be more discerning than the variation that is actually available to discern.
+وعلى الرغم من أن تلك المتنبئة سيكون خطأها منخفضًا، إلا أنها ستكون أيضًا غير قادرة على التمييز. لكن مهلا... كيف يمكن لأحد المتنبئين *على الإطلاق* أن يكون مميزًا في أنتوفاجاستا؟ لكي تكون مميزًا، عليك أن تقوم بتنبؤات متنوعة. لكن *الواقع ليس متنوعًا*، لذا فإن أي تنبؤات *كانت* متنوعة، ستكون بالضرورة *خاطئة*! بمعنى ما، ليس هناك "مساحة" للتمييز، لأنه لا يوجد اختلاف للتمييز بينهما. ليس من العدل أن نطلب من المتنبئ أن يكون أكثر تمييزًا من الاختلاف المتاح فعليًا للتمييز.
 
-Compare that with forecaster in Portland, Oregon, USA where it rains 164 days out of the year--about 45%. And there's no "rainy season"--it's just chaotic. Here even just predicting 55% or 35% here and there could still be highly accurate but increase discernment. And a world-class forecaster has the space to create a significant amount of discernment.
+قارن ذلك مع المتنبئين في بورتلاند، أوريغون، الولايات المتحدة الأمريكية حيث تهطل الأمطار 164 يومًا في العام - حوالي 45٪. وليس هناك "موسم ممطر" - إنه مجرد فوضى. هنا حتى مجرد التنبؤ بنسبة 55% أو 35% هنا وهناك يمكن أن يكون دقيقًا للغاية ولكنه يزيد من الفطنة. ويتمتع المتنبئ ذو المستوى العالمي بالمساحة اللازمة لخلق قدر كبير من التمييز.
 
-So it's not quite fair to ask "How discerning is the forecaster?" Instead we should ask "How discerning is the forecaster, *compared with* how much discernment is even *possible*?"
+لذلك ليس من العدل أن نسأل "ما مدى تمييز المتنبئ؟" وبدلاً من ذلك يجب أن نسأل: "ما مدى تمييز المتنبئ، *مقارنةً* بمدى التمييز *الممكن*؟"
 
-The maximum amount of discernment possible, given the climactic average $c$, is:[^2]
+أقصى قدر ممكن من التمييز، بالنظر إلى المتوسط ​​المناخي $c$، هو:[^2]
 
-$$c(1-c)$$
+$$ج(1-ج)$$
 
-In general, the closer the climactic average is to 0% or 100%, the less discernment there can be. The maximum possible discernment of 0.25 is available when the climactic average is 50%, i.e. it's a coin flip.
+وبشكل عام، كلما اقترب المتوسط ​​المناخي من 0% أو 100%، قل التمييز. الحد الأقصى للتمييز الممكن وهو 0.25 متاح عندما يكون المتوسط ​​المناخي 50%، أي عند قلب العملة المعدنية.
 
-[^2]: For the mathematically curious: Maximum discernment happens when the forecast is only 100% or 0%, and when it is completely accurate. If there were $N$ predictions, the positive case will happen $Nc$ times, and the negative case $N(1-c)$ times. Discernment in the positive bucket is $(1-c)^2$ and in the negative bucket $(0-c)^2 = c^2$. The weighted average is $\frac{1}{N}[Nc(1-c)^2 + N(1-c)c^2]$. Factoring out the common $Nc(1-c)$ and canceling with $\frac{1}{N}$, we're left with $c(1-c)[ (1-c) + c ] = c(1-c)$.
+[^2]: للمهتمين بالرياضيات: الحد الأقصى من التمييز يحدث عندما تكون التوقعات 100% أو 0% فقط، وعندما تكون دقيقة تمامًا. إذا كانت هناك تنبؤات بـ $N$، فستحدث الحالة الإيجابية مرات $Nc$، والحالة السلبية $N(1-c)$ مرات. التمييز في المجموعة الإيجابية هو $(1-c)^2$ وفي المجموعة السالبة $(0-c)^2 = c^2$. المتوسط ​​المرجح هو $\frac{1}{N}[Nc(1-c)^2 + N(1-c)c^2]$. بإخراج $Nc(1-c)$ المشترك وإلغائه بـ $\frac{1}{N}$، يتبقى لدينا $c(1-c)[ (1-c) + c ] = c(1-c)$.
 
-In the 30% example, the maximum possible discernment is $0.30(1-0.30)=0.21$. Forecaster B's discernment of 0.04 is therefore not too impressive--plenty of room for improvement. Although still of course B is better than A, who had no discernment whatsoever.
+في مثال 30%، الحد الأقصى للتمييز الممكن هو $0.30(1-0.30)=0.21$. وبالتالي فإن تمييز المتنبئ B البالغ 0.04 ليس مثيرًا للإعجاب - فهناك مجال كبير للتحسين. على الرغم من أنه لا يزال بالطبع B أفضل من A، الذي لم يكن لديه أي تمييز على الإطلاق.
 
-In the case of the desert, with a climactic average of $5/365 = 0.013\%$, there's only 0.0128 potential discernment available.
+في حالة الصحراء، بمتوسط ​​مناخي يبلغ 5/365 دولارًا = 0.013\%$، لا يتوفر سوى 0.0128 من القدرة على التمييز.
 
-In any case, this allows us to compute a metric that is comparable to error, but for discernment:
+على أية حال، هذا يسمح لنا بحساب مقياس يمكن مقارنته بالخطأ، ولكن للتمييز:
 
-[ Discernment Error ] = [ Maximum Discernment ] − [Discernment]
+[ خطأ في التمييز ] = [ الحد الأقصى للتمييز ] − [التمييز]
 
-That is, if you have no discernment, that's another type of "error"--your forecast is lacking the descriptive power that would come from being maximally discerning. The more discernment you demonstrate, the less of this "discernment error" you exhibit, and the better your forecast is. Just like the less accuracy error you have, the better your forecast is.
+وهذا يعني أنه إذا لم يكن لديك تمييز، فهذا نوع آخر من "الخطأ" - فتوقعاتك تفتقر إلى القوة الوصفية التي قد تأتي من التمييز إلى أقصى حد. كلما أظهرت قدرًا أكبر من التمييز، قل "خطأ التمييز" الذي تظهره، وأصبحت توقعاتك أفضل. تمامًا مثلما قل خطأ الدقة، كانت توقعاتك أفضل.
 
-## Putting it all together: The Forecasting Error Score
+## تجميع كل ذلك معًا: درجة الخطأ في التنبؤ
 
-It turns out[^3] you can simply add accuracy error to discernment error, and arrive at a rigorous metric:
+اتضح[^3] أنه يمكنك ببساطة إضافة خطأ الدقة إلى خطأ التمييز، والتوصل إلى مقياس صارم:
 
-[^3]: See "Further Reading" below for the mathematical justification.
+[^3]: راجع "مزيد من القراءة" أدناه للحصول على التبرير الرياضي.
 
-[ Forecast Error ] = [Error] + [ Discernment Error ]
+[ خطأ في التنبؤ ] = [ خطأ ] + [ خطأ في التمييز ]
 
-Or, writing out each component:
+أو كتابة كل مكون:
 
-[ Forecast Error ] = [Error] + [ Maximum Discernment ] − [Discernment]
+[ خطأ في التنبؤ ] = [خطأ] + [ الحد الأقصى للتمييز ] − [التمييز]
 
-Here's a way to see why this math works: Every forecaster's baseline is to guess the climactic average. That will get you a total score of $c(1-c)$, because you have no accuracy error, but maximum discernment error.
+وإليك طريقة لمعرفة سبب نجاح هذه الرياضيات: خط الأساس لكل متنبئ هو تخمين المتوسط ​​المناخي. سيؤدي ذلك إلى حصولك على مجموع نقاط $c(1-c)$، لأنه ليس لديك أي خطأ في الدقة، ولكن الحد الأقصى لخطأ التمييز.
 
-From there, forecasters will try to deviate from the climactic average. The more they put themselves on the line, the less discernment error they rack up, however they also have to be right! The best forecasters outperform the climactic-average (discernment) by more than the accuracy error they introduce. The overall score tells you who is better. Lower is better, since the score is a "total error."
+ومن هنا، سيحاول المتنبئون الانحراف عن المتوسط ​​المناخي. كلما وضعوا أنفسهم على المحك، قل خطأ التمييز الذي يرتكبونه، ومع ذلك يجب أن يكونوا على حق أيضًا! إن أفضل المتنبئين يتفوقون في الأداء على المتوسط ​​المناخي (الفطنة) بأكثر من خطأ الدقة الذي يقدمونه. النتيجة الإجمالية تخبرك من هو الأفضل. الأقل هو الأفضل، لأن النتيجة هي "خطأ كلي".
 
-It is possible to do worse than the climactic average--to make guesses, but be wrong. You know that's happening when the total error is larger than the baseline $c(1-c)$.
+من الممكن أن نفعل ما هو أسوأ من المتوسط ​​المناخي، أي أن نقوم بالتخمينات، ولكننا نكون مخطئين. أنت تعلم أن هذا يحدث عندما يكون إجمالي الخطأ أكبر من خط الأساس $c(1-c)$.
 
-Indeed, an alternate and equivalent scoring method divides Forecast Error by $c(1-c)$, to create a metric where 1 means "equal to the baseline," 0 means "perfect forecast," and the amount greater or less than 1 indicates proportionally how much better or worse the forecast is from baseline. This has the virtue of the reader not needing to know the value of $c(1-c)$ in order to understand whether a forecaster is better or worse than the baseline, and by how much.
+في الواقع، هناك طريقة بديلة ومكافئة لتسجيل النقاط تقسم خطأ التنبؤ على $c(1-c)$، لإنشاء مقياس حيث يعني 1 "يساوي خط الأساس"، ويعني 0 "التنبؤ المثالي"، ويشير المبلغ الأكبر أو الأقل من 1 بشكل متناسب إلى مدى تحسن أو سوء التوقعات من خط الأساس. وهذا له ميزة أن القارئ لا يحتاج إلى معرفة قيمة $c(1-c)$ من أجل فهم ما إذا كان المتنبئ أفضل أو أسوأ من خط الأساس، وبأي مقدار.
 
-While the total score is useful, the individual components of accuracy error and discernment are also useful because they help you analyze what's going on:
+في حين أن النتيجة الإجمالية مفيدة، فإن المكونات الفردية لخطأ الدقة والتمييز مفيدة أيضًا لأنها تساعدك على تحليل ما يحدث:
 
-| Accuracy <br/> Error | Discern | Meaning | Explanation |
-|:---:|:---:|:---:|:----|
-| ↑ | ↓ | **Failure** | You're not segmenting the population, and yet you're still worse than guessing the climactic average. |
-| ↓ | ↓ | **Useless** | You're only accurate because you're just guessing the average. |
-| ↑ | ↑ | **Try Again** | You're making strong predictions, so at least you're trying, but you're not guessing correctly. |
-| ↓ | ↑ | **Ideal** | You're making strong predictions, and you're correct. |
+| الدقة <br/> خطأ | تمييز | معنى | شرح | |:---:|:---:|:---:|:----| | ↑ | ↓ | **الفشل** | أنت لا تقوم بتقسيم السكان إلى شرائح، ومع ذلك فإنك لا تزال أسوأ من تخمين المتوسط ​​المناخي. | | ↓ | ↓ | **عديمة الفائدة** | أنت دقيق فقط لأنك تخمن المتوسط ​​فقط. | | ↑ | ↑ | **حاول مرة أخرى** | أنت تقوم بتنبؤات قوية، لذا فأنت تحاول على الأقل، لكنك لا تخمن بشكل صحيح. | | ↓ | ↑ | **مثالي** | أنت تقوم بتنبؤات قوية، وأنت على حق. |
 
-Now that you know how to measure forecasts, it's time for you to build some forecasting models. So go try to better understand your customers and prospects, and use this math to know whether iterations of your model are improving.
+الآن بعد أن عرفت كيفية قياس التوقعات، فقد حان الوقت لبناء بعض نماذج التنبؤ. لذا حاول أن تفهم عملائك ومحتمليك بشكل أفضل، واستخدم هذه الرياضيات لمعرفة ما إذا كانت تكرارات نموذجك تتحسن أم لا.
 
-## Further Reading
+## مزيد من القراءة
 
-* [Glenn Brier's original paper](https://longform.asmartbear.com/ref/Brier-1950.pdf) proposing this method in 1950, but without this three-component breakdown that was discovered by Allen Murphy in 1973.
-* [Brier score](https://en.wikipedia.org/wiki/Brier_score) on Wikipedia: A more formal explanation including the three-component breakdown (which are labelled and explained differently from my exposition, but which are mathematically identical).
-* [Stein's Paradox](https://longform.asmartbear.com/ref/Steins-Paradox-by-Efron-and-Morris.pdf): An estimator that's always better than the historical average, but in a way that apparently can't be true.
+* [ورقة جلين بريير الأصلية](https://longform.asmartbear.com/ref/Brier-1950.pdf) تقترح هذه الطريقة في عام 1950، ولكن بدون هذا الانهيار المكون من ثلاثة مكونات الذي اكتشفه ألين ميرفي في عام 1973.
+* [درجة بريير](https://en.wikipedia.org/wiki/Brier_score) على ويكيبيديا: شرح أكثر رسمية يتضمن تقسيم المكونات الثلاثة (التي تم تصنيفها وشرحها بشكل مختلف عن العرض الخاص بي، ولكنها متطابقة رياضيًا).
+* [مفارقة شتاين](https://longform.asmartbear.com/ref/Steins-Paradox-by-Efron-and-Morris.pdf): مُقدِّر يكون دائمًا أفضل من المتوسط ​​التاريخي، ولكن بطريقة يبدو أنها لا يمكن أن تكون صحيحة.

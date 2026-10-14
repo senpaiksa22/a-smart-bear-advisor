@@ -20,107 +20,94 @@ summary_ar: "يا أيها الشيطان الخفي! آخر شيء تحتاجه
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** العمل في الخفاء (Stealth Mode) وغيرها من الاستراتيجيات الكارثية تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# "Stealth mode" and other f'ing brilliant strategies
-
-> **Executive Summary:** Oh you secretive devil! The last thing you need is anyone finding out about your startup. Like competitors. Or customers.
-> **Original URL:** [https://longform.asmartbear.com/stealth-mode/](https://longform.asmartbear.com/stealth-mode/)
-
 ![bad news something that happened in vegas has been spotted in des moines](https://public.asmartbear.com/books/anthology/chapters/stealth-mode/d6040print-simple.png)
 
-Here are some of my super-secret winning strategies from 26 years of building startups.
+فيما يلي بعض استراتيجياتي الفائزة فائقة السرية خلال 26 عامًا من بناء الشركات الناشئة.
 
-## Stay in stealth mode until the last minute
+## البقاء في وضع التخفي حتى اللحظة الأخيرة
 
-The last thing any startup needs is people finding out about it.
+آخر شيء تحتاجه أي شركة ناشئة هو أن يعرف الناس عنها.
 
-You can get attention later--that's easy. You don't need the distraction of all those customers clamoring outside your office, begging to give you money, interrupting you from refactoring your NoSQL database schema.
+يمكنك جذب الانتباه لاحقًا، فهذا أمر سهل. لا تحتاج إلى إلهاء كل هؤلاء العملاء الذين يصرخون خارج مكتبك، ويتوسلون إلى إعطائك المال، ويقاطعونك عن إعادة هيكلة مخطط قاعدة بيانات NoSQL الخاصة بك.
 
-It's instant death if a competitor were to launch at the same time as you, so you're right to keep all your ideas completely secret. Once you launch, *then* millions of people will know about you, including competitors, but by then you'll be a full 4 months ahead of the whole world, making competition impossible, even if they are two Stanford kids with $9,000,000 in funding and the wind of YC at their backs.
+إنه الموت الفوري إذا أطلق أحد المنافسين في نفس الوقت الذي تنطلق فيه، لذا فمن حقك أن تبقي جميع أفكارك سرية تمامًا. بمجرد إطلاقك، *حينها* سيعرف ملايين الأشخاص عنك، بما في ذلك المنافسون، ولكن بحلول ذلك الوقت ستكون متقدمًا على العالم كله بأربعة أشهر كاملة، مما يجعل المنافسة مستحيلة، حتى لو كانا طفلين من جامعة ستانفورد بتمويل قدره 9,000,000 دولار أمريكي ورياح YC تدعمهما.
 
-That means you can't [talk to potential customers](https://longform.asmartbear.com/customer-development/) either, because the word might get out! Worse: some of those potential customers--the ones willing barely willing to part with $20/mo--might rather save that money by quitting their day jobs and start a brand new company to rip you off. Their feedback isn't worth the risk!
+وهذا يعني أنه لا يمكنك [التحدث إلى العملاء المحتملين](https://longform.asmartbear.com/customer-development/) أيضًا، لأن الكلمة قد تنتشر! والأسوأ من ذلك: أن بعض هؤلاء العملاء المحتملين - أولئك الذين هم على استعداد بالكاد للتخلي عن 20 دولارًا شهريًا - قد يفضلون توفير هذا المال عن طريق ترك وظائفهم اليومية وبدء شركة جديدة تمامًا لسرقة أموالك. ملاحظاتهم لا تستحق المخاطرة!
 
-Oh and *absolutely* don't talk to other entrepreneurs or advisors who can and surely will copy your idea. Just read the history of any startup or [interviews of famous founders](https://www.amazon.com/gp/product/1430210788?ie=UTF8&amp%3Btag=asmbe-20&amp%3BlinkCode=as2&amp%3Bcamp=1789&amp%3Bcreative=390957&amp%3BcreativeASIN=1430210788) and you'll find one thing in common--no one had mentors or found value vetting ideas and brainstorming with people who have trod this path before.
+أوه و*بالتأكيد* لا تتحدث مع رواد الأعمال أو المستشارين الآخرين الذين يمكنهم بالتأكيد تقليد فكرتك. ما عليك سوى قراءة تاريخ أي شركة ناشئة أو [مقابلات مع المشاهير المؤسسون](https://www.amazon.com/gp/product/1430210788?ie=UTF8&amp%3Btag=asmbe-20&amp%3BlinkCode=as2&amp%3Bcamp=1789&amp%3Bcreative=390957&amp%3BcreativeASIN=1430210788) وستجد شيئًا واحدًا مشتركًا -- لا كان لدى أحدهم مرشدين أو وجد أفكارًا قيمة في التدقيق والعصف الذهني مع الأشخاص الذين سلكوا هذا الطريق من قبل.
 
-## Get it right the first time
+## احصل عليه بشكل صحيح في المرة الأولى
 
-With those millions of customers anxiously awaiting your launch like the next book in Games of Thrones, you absolutely *must not* disappoint them with [a shaky v1.0](https://longform.asmartbear.com/slc/).
+نظرًا لأن الملايين من العملاء ينتظرون إصدار كتابك بفارغ الصبر مثل الكتاب التالي في Games of Thrones، *يجب ألا* تخيب آمالهم مطلقًا بـ [الإصدار 1.0 المهتز](https://longform.asmartbear.com/slc/).
 
-Look around--other software companies wait until there's no bugs before they release. That's why they have no usability problems nor lack important features. With all those fully-completed products, it's a mystery why "feedback gathering" tools or bug trackers even exist. I guess some people just enjoy project management. There's no accounting for taste!
+انظر حولك - تنتظر شركات البرمجيات الأخرى حتى لا يكون هناك أي أخطاء قبل إصدارها. لهذا السبب ليس لديهم مشاكل في قابلية الاستخدام ولا يفتقرون إلى الميزات المهمة. مع كل هذه المنتجات المكتملة بالكامل، من الغامض سبب وجود أدوات "جمع التعليقات" أو أدوات تتبع الأخطاء. أعتقد أن بعض الناس يستمتعون فقط بإدارة المشاريع. ليس هناك حساب للذوق!
 
-An ounce of prevention is worth a pound of cure. That makes prevention, like, 16x more valuable than cure. So take your time before you release, even if that means years. Perfection is worth the wait.
+درهم وقاية خير من قنطار علاج. وهذا يجعل الوقاية أكثر قيمة من العلاج بـ 16 مرة. لذا، خذ وقتك قبل إطلاق سراحك، حتى لو كان ذلك يعني سنوات. الكمال يستحق الانتظار.
 
-## Don't ask anyone if they'd pay for your product
+## لا تسأل أحداً إذا كان سيدفع ثمن منتجك
 
-Of course they'll pay; the math is simple:
+بالطبع سوف يدفعون؛ الرياضيات بسيطة:
 
-> They'll save 45 minutes a day by using your product. Even if they value their time at only $20/hr, and work only 20 days per month, that's a savings of $300/mo. Your tool is $20/mo, so this *is a money-printing machine for customers!*
+> سيوفرون 45 دقيقة يوميًا باستخدام منتجك. حتى لو كانوا يقدرون وقتهم بـ 20 دولارًا في الساعة فقط، ويعملون 20 يومًا فقط في الشهر، فهذا يوفر 300 دولارًا في الشهر. تبلغ تكلفة أداتك 20 دولارًا شهريًا، لذا فهذه *آلة طباعة أموال للعملاء!*
 
-Customers can't afford not to buy it. Maybe they should buy it twice.
+لا يستطيع العملاء تحمل عدم شرائه. ربما ينبغي عليهم شرائه مرتين.
 
-That's how buying decisions are made--cold, rational, and based on micro-economics 101--so why waste your time and theirs, just to verify the obvious?
+هذه هي الطريقة التي يتم بها اتخاذ قرارات الشراء - بطريقة باردة وعقلانية ومبنية على الاقتصاد الجزئي 101 - فلماذا تضيع وقتك ووقتهم فقط للتحقق من ما هو واضح؟
 
-## Don't work too hard
+## لا تعمل بجد
 
 ![bear relaxing on a yacht](https://public.asmartbear.com/books/anthology/chapters/stealth-mode/image-simple.png)
 
-Building a startup is hard enough--don't make it worse by [working too much](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/).
+إن إنشاء شركة ناشئة أمر صعب بما فيه الكفاية - فلا تجعل الأمر أسوأ من خلال [العمل كثيرًا](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/).
 
-All the great startup founders are known for 30-hour work-weeks. It's one thing to be passionate--that's great of course--but that doesn't mean you should be waking up at 2am in a cold sweat. You need your sleep!
+جميع مؤسسي الشركات الناشئة العظماء معروفون بأسبوع عمل مدته 30 ساعة. أن تكون شغوفًا هو شيء واحد - وهذا أمر رائع بالطبع - ولكن هذا لا يعني أنك يجب أن تستيقظ في الساعة الثانية صباحًا وأنت تتصبب عرقًا باردًا. أنت بحاجة إلى نومك!
 
-Steve Jobs didn't work constantly, Bill Gates had lots of hobbies, Mark Zuckerberg wasn't tethered to his laptop, and Tim Ferris really did become a best-seller by writing and then promoting his book while working just 4 hours each week.
+لم يكن ستيف جوبز يعمل باستمرار، وكان لدى بيل جيتس الكثير من الهوايات، ولم يكن مارك زوكربيرج مقيدًا بجهاز الكمبيوتر المحمول الخاص به، وأصبح تيم فيريس بالفعل من أكثر الكتب مبيعًا من خلال كتابة كتابه ثم الترويج له أثناء العمل لمدة 4 ساعات فقط كل أسبوع.
 
-Startups don't require obsession--that's an unhealthy rumor perpetrated by all 2,000 startup founders ever [interviewed on Mixergy](https://mixergy.com/interviews/). They're all lying--they actually lead healthy, balanced lives. They don't want you to know their secret, because this keeps potential competition at bay.
+لا تتطلب الشركات الناشئة هوسًا - فهذه شائعة غير صحية أطلقها جميع مؤسسي الشركات الناشئة البالغ عددهم 2000 مؤسس على الإطلاق [تمت مقابلتهم على Mixergy](https://mixergy.com/interviews/). إنهم جميعًا يكذبون، إنهم في الواقع يعيشون حياة صحية ومتوازنة. إنهم لا يريدونك أن تعرف سرهم، لأن هذا يبقي المنافسة المحتملة بعيدة.
 
-Don't fall for it. A startup is a job just like any other--you can leave work at work and make sure to use up all your vacation days!
+لا تقع في غرامها. إن الشركة الناشئة هي وظيفة مثل أي وظيفة أخرى - يمكنك ترك العمل في العمل والتأكد من استخدام جميع أيام إجازتك!
 
-## Write the code first
+## اكتب الكود أولا
 
-Writing software is tricky. You've been doing it for 8 years, so this is the part of the business you know best--and you know the difficulties that await you!
+كتابة البرامج أمر صعب. لقد كنت تقوم بذلك لمدة 8 سنوات، لذا فإن هذا هو الجزء من العمل الذي تعرفه جيدًا - وأنت تعرف الصعوبات التي تنتظرك!
 
-The easy part of this startup will be getting attention and making sales. Getting people to a website is easy--it's not like there's 1,317,681,984 other websites clamoring for attention. Getting them to buy once they hit the website is even easier--why did they come to the website if they didn't want to buy? Getting consistent attention from the media is easy too--why *wouldn't* popular influencers want to talk about you all the time? [Getting reseller deals is simple](https://longform.asmartbear.com/startup-biz-dev/)--why wouldn't they want to make more money, in the grand tradition of the [win-win](https://longform.asmartbear.com/authentic-is-dead/)?
+الجزء السهل من هذه الشركة الناشئة هو جذب الاهتمام وتحقيق المبيعات. يعد جذب الأشخاص إلى موقع ويب أمرًا سهلاً - ليس الأمر كما لو أن هناك 1,317,681,984 موقع ويب آخر يطالب بجذب الانتباه. يعد إقناعهم بالشراء بمجرد وصولهم إلى موقع الويب أمرًا أسهل - لماذا يأتون إلى موقع الويب إذا لم يرغبوا في الشراء؟ يعد الحصول على اهتمام مستمر من وسائل الإعلام أمرًا سهلاً أيضًا - لماذا *لا* يرغب المؤثرون المشهورون في التحدث عنك طوال الوقت؟ [الحصول على صفقات الموزعين أمر بسيط](https://longform.asmartbear.com/startup-biz-dev/)--لماذا لا يريدون كسب المزيد من المال، في التقليد الكبير لـ [الفوز للجميع](https://longform.asmartbear.com/authentic-is-dead/)؟
 
-No need to work on that end of the business, because a great product sells itself. The world isn't [littered with failed startups](https://longform.asmartbear.com/avoid-blundering/) with decent products but only four customers.
+لا حاجة للعمل على هذه الغاية من العمل، لأن المنتج الرائع يبيع نفسه. العالم ليس [مليئًا بالشركات الناشئة الفاشلة](https://longform.asmartbear.com/avoid-blundering/) بمنتجات لائقة ولكن بأربعة عملاء فقط.
 
-Rather, you need to [focus on coding](https://longform.asmartbear.com/code-is-your-enemy/)--the one part of the business you understand and have the most confidence in. Double-down on what you know!
+بدلاً من ذلك، تحتاج إلى [التركيز على البرمجة](https://longform.asmartbear.com/code-is-your-enemy/) - وهو الجزء الوحيد من العمل الذي تفهمه وتثق فيه بأكبر قدر. ضاعف ما تعرفه!
 
-Don't face your fears now. If you shut your eyes and learn a few extra keyboard shortcuts in Visual Studio, everything else will work itself out by the time you get there.
+لا تواجه مخاوفك الآن. إذا أغمضت عينيك وتعلمت بعض الاختصارات الإضافية للوحة المفاتيح في Visual Studio، فكل شيء آخر سيعمل من تلقاء نفسه بحلول الوقت الذي تصل فيه إلى هناك.
 
-## Raise money before you have customers
+## اجمع الأموال قبل أن يكون لديك عملاء
 
 ![bear venture capitalist](https://public.asmartbear.com/books/anthology/chapters/stealth-mode/bear-venture-capitalist-detailed-simple.png)
 
-Every successful startup raised a big pre-pre-pre-pre-seed round before they had customers or revenue. They had to--how else can anything get done?
+جمعت كل شركة ناشئة ناجحة جولة تمهيدية كبيرة قبل أن يكون لديها عملاء أو إيرادات. كان عليهم أن – كيف يمكن فعل أي شيء آخر؟
 
-Who cares if you already gave away control? You need ten engineers right now to build dark mode.
+من يهتم إذا تخليت عن السيطرة بالفعل؟ أنت بحاجة إلى عشرة مهندسين الآن لإنشاء الوضع المظلم.
 
-It's easy to raise money anyway--just take your a Figma mockup and $48B TAM justification to a few pitch competitions and three cocktail events on Sandhill Road. They won't ask questions about those meddlesome customers or revenue.
+من السهل جمع الأموال على أي حال - فقط اصطحب نموذج Figma الخاص بك ومبرر TAM بقيمة 48 مليار دولار إلى عدد قليل من المسابقات الترويجية وثلاثة أحداث كوكتيل على طريق Sandhill. لن يطرحوا أسئلة حول هؤلاء العملاء أو الإيرادات المتطفلين.
 
-## Copy the competition
+## انسخ المنافسة
 
-Why reinvent the wheel when successful competitors have already figured everything out? The smart move is to just copy their feature list. Or just 70% of it--whichever 70% seems easier. Customers probably don't care about the rest of those silly things, especially if you're 20% cheaper.
+لماذا نعيد اختراع العجلة عندما يكون المنافسون الناجحون قد اكتشفوا كل شيء بالفعل؟ الخطوة الذكية هي مجرد نسخ قائمة الميزات الخاصة بهم. أو 70% منها فقط، أيهما يبدو أسهل. ربما لا يهتم العملاء ببقية تلك الأشياء السخيفة، خاصة إذا كنت أرخص بنسبة 20٪.
 
-Speaking of pricing, copy their pricing. Because the competition is always smart and researched with optimal pricing, and is targeting the same segments in the same way with the same brand, so you can copy their pricing instead of talking to customers and figuring it out for yourself.
+عند الحديث عن الأسعار، قم بنسخ أسعارها. لأن المنافسة دائمًا ما تكون ذكية ومدروسة بالتسعير الأمثل، وتستهدف نفس الشرائح بنفس الطريقة مع نفس العلامة التجارية، لذا يمكنك نسخ أسعارها بدلاً من التحدث إلى العملاء واكتشافها بنفسك.
 
-Speaking of talking to customers, don't waste time talking to customers! The competitors obviously did all that research already. Their product decisions must be right--that's why they have market share!
+بالحديث عن التحدث مع العملاء، لا تضيع وقتك في التحدث إلى العملاء! من الواضح أن المنافسين قاموا بكل هذا البحث بالفعل. يجب أن تكون قراراتهم المتعلقة بالمنتجات صحيحة، ولهذا السبب لديهم حصة في السوق!
 
-And forget about differentiation. Just match their features but 20% better and 20% cheaper. Customers will flock to you immediately since you're basically the same but slightly improved. Whatever "better" means.
+وننسى التمايز. ما عليك سوى مطابقة ميزاتها ولكنها أفضل بنسبة 20% وأرخص بنسبة 20%. سوف يتدفق العملاء إليك على الفور نظرًا لأنك نفس الشيء ولكنك تحسنت قليلاً. مهما كانت كلمة "أفضل" تعني.
 
-## Sell to everyone
+## بيع للجميع
 
-There's no reason why everyone on Earth wouldn't like your product--it's so great! Of course it is--otherwise you wouldn't have bothered to build it.
+لا يوجد سبب يجعل كل شخص على وجه الأرض لا يحب منتجك - فهو رائع جدًا! بالطبع هو كذلك، وإلا لما تكلفت نفسك عناء بنائه.
 
-Besides, if you [target one segment of the market](https://longform.asmartbear.com/icp-ideal-customer-persona/), all you're doing is alienating other people who would have bought it. If you don't say "everyone" on the home page, you'll lose sales.
+بالإضافة إلى ذلك، إذا كنت [تستهدف شريحة واحدة من السوق](https://longform.asmartbear.com/icp-ideal-customer-persona/)، فكل ما تفعله هو تنفير الأشخاص الآخرين الذين كانوا سيشترون هذا المنتج. إذا لم تقل "الجميع" في الصفحة الرئيسية، فسوف تفقد المبيعات.
 
-Sure, other products make different trade-offs in features, usability, integrations, design, and price, but nothing is as right-headed as yours! That's why you made it all by yourself, without a team, without talking to anybody, so you wouldn't be distracted. No reason to wonder why people buy from all those competitors. You know the answer: they bought from competitors because they had no choice. Now that they can choose you, they definitely will.
+بالتأكيد، تقوم المنتجات الأخرى بمقايضات مختلفة في الميزات، وسهولة الاستخدام، والتكامل، والتصميم، والسعر، ولكن ليس هناك ما هو أفضل من منتجك! لهذا السبب قمت بكل شيء بمفردك، بدون فريق، دون التحدث إلى أي شخص، حتى لا تشتت انتباهك. لا يوجد سبب للتساؤل لماذا يشتري الناس من كل هؤلاء المنافسين. أنت تعرف الجواب: لقد اشتروا من المنافسين لأنه لم يكن لديهم خيار آخر. الآن بعد أن أصبح بإمكانهم اختيارك، فسيفعلون ذلك بالتأكيد.
 
 ---
 
-Now that you have all my secrets, go out there and kill it!
+الآن بعد أن حصلت على كل أسراري، اخرج إلى هناك واقتله!

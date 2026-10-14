@@ -20,123 +20,110 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** عندما ترغب في الانسحاب لأن الأمر لم يعد يستحق العناء تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# When you want to quit because it's just not worth it
-
-> **Executive Summary:** Are you crying in the shower because you can't handle it anymore? Beyond Impostor Syndrome: Complete melt-down? Well, at least you're in good company.
-> **Original URL:** [https://longform.asmartbear.com/startups-emotionally-draining/](https://longform.asmartbear.com/startups-emotionally-draining/)
-
 ![T-Shirt that says "I never finish anyth"](https://public.asmartbear.com/books/anthology/chapters/startups-emotionally-draining/never-finish-anything-simple.png)
 
-I've been there too. It sucks.
+لقد كنت هناك أيضا. إنه مقرف.
 
-[Most startups fail "only" because](https://longform.asmartbear.com/avoid-blundering/) the founders stop working on them, and often it's because it's emotionally draining. I don't care who you are or how strong your ego is, you *will* have these moments--perhaps a continuous stream of moments--when you can't take it anymore.
+[تفشل معظم الشركات الناشئة "فقط" بسبب](https://longform.asmartbear.com/avoid-blundering/) توقف المؤسسون عن العمل عليها، وغالبًا ما يكون ذلك بسبب استنزافها عاطفيًا. لا يهمني من أنت أو مدى قوة غرورك، *ستواجه هذه اللحظات - ربما تدفقًا مستمرًا من اللحظات - عندما لا يمكنك تحملها بعد الآن.
 
-I cannot remember the number of times I was so overwhelmed at Smart Bear that I almost threw in the towel. Close the bank accounts, close the doors, turn off the website, bounce the email, and just...
+لا أستطيع أن أتذكر عدد المرات التي شعرت فيها بالإرهاق الشديد في Smart Bear لدرجة أنني كدت أستسلم. أغلق الحسابات البنكية، أغلق الأبواب، أغلق الموقع، رد البريد الإلكتروني، وفقط...
 
-*stop*.
+*قف*.
 
-**Sounds dramatic, but it's no exaggeration.** You'll hit these walls too. I know you will because this is what people admit in little rooms with other people who truly understand and won't name them publicly, and also there's a steady stream of people saying it out loud on Twitter, many times per day.
+**يبدو الأمر مثيرًا، ولكن ليس من قبيل المبالغة.** سوف تصطدم بهذه الجدران أيضًا. أعلم أنك ستفعل ذلك لأن هذا هو ما يعترف به الناس في غرف صغيرة مع أشخاص آخرين يفهمونهم حقًا ولن يذكروهم علنًا، كما أن هناك دفقًا مستمرًا من الأشخاص يقولون ذلك بصوت عالٍ على تويتر، عدة مرات يوميًا.
 
-Maybe a little commiseration will help you get through it.
+ربما القليل من التعاطف سيساعدك على تجاوز الأمر.
 
-You expect these moments to happen at the *beginning* of startup life--when you're least confident, have the worst product, and the least knowledge about your customers and the market. Paul Graham and Trevor Blackwell captured it pretty well:
+تتوقع أن تحدث هذه اللحظات في *بداية* حياة الشركة الناشئة - عندما تكون أقل ثقة، وتمتلك أسوأ منتج، وأقل معرفة بعملائك والسوق. لقد صورها بول جراهام وتريفور بلاكويل بشكل جيد:
 
 ![Emotional rollercoaster, from elation at launch to despair in the middle to the relative calm of maturity](https://public.asmartbear.com/books/anthology/chapters/startups-emotionally-draining/the-process-simple.png)
 
-**The pain is not limited to the beginning of the venture.** It's still there years later, despite real revenue, profitability, customers arriving every day, and a great team.
+**لا يقتصر الألم على بداية المشروع.** فلا يزال الأمر موجودًا بعد مرور سنوات، على الرغم من الإيرادات الحقيقية والربحية ووصول العملاء كل يوم والفريق الرائع.
 
-Since *that* is *not* obvious, I'd like to share a personal story.
+وبما أن *هذا* ليس* واضحًا، أود أن أشارككم قصة شخصية.
 
-Four years into Smart Bear I had several employees getting paid decently (which at a bootstrapped startup is hard to do!), a product that people were buying, and we were doing around a-million-a-year. Life was good!
+بعد مرور أربع سنوات على Smart Bear، كان لدي العديد من الموظفين يتقاضون رواتبهم بشكل لائق (وهو أمر يصعب القيام به في شركة ناشئة!)، وهو منتج كان الناس يشترونه، وكنا ننتج حوالي مليون سنويًا. كانت الحياة جيدة!
 
-I was negotiating my first true "Enterprise sale." This was going to be our biggest order to date--something like $200,000. (Yes, one-time revenue. It was a simpler time.) Actually "negotiating" is the wrong word because [I don't believe in price negotiation](https://longform.asmartbear.com/discount-gambit/), even with enterprise sales (an area that most people claim *must* include automatic discounting.)
+كنت أتفاوض على أول "بيع مؤسسي" حقيقي لي. سيكون هذا أكبر طلب لدينا حتى الآن - حوالي 200000 دولار. (نعم، إيرادات لمرة واحدة. لقد كان وقتًا أبسط.) في الواقع، كلمة "التفاوض" هي كلمة خاطئة لأنني [لا أؤمن بالتفاوض على الأسعار](https://longform.asmartbear.com/discount-gambit/)، حتى مع مبيعات المؤسسات (وهي المنطقة التي يدعي معظم الناس *أنها* ​​يجب* أن تتضمن خصمًا تلقائيًا).
 
-The person with whom I was negotiating wasn't the end user, nor the boss, nor the boss's boss, nor anyone in that chain of command. See, big companies have entire departments devoted to dealing with vendors like you and me, and when it comes to negotiating, these departments **harbor terrorists** with titles like "Procurement Manager" or "Strategic Sourcing Manager."
+لم يكن الشخص الذي كنت أتفاوض معه هو المستخدم النهائي، ولا الرئيس، ولا رئيسه، ولا أي شخص في تلك السلسلة القيادية. انظر، الشركات الكبرى لديها أقسام كاملة مخصصة للتعامل مع البائعين مثلي ومثلك، وعندما يتعلق الأمر بالتفاوض، فإن هذه الأقسام **تؤوي الإرهابيين** بأسماء مثل "مدير المشتريات" أو "مدير المصادر الإستراتيجية".
 
-I say "terrorists" because they use fear tactics to get their way, yet they have no power other than fear. Imagine the worst stereotype of a salesman, except instead of selling you something, their job is beat a discount out of you.
+أقول "إرهابيين" لأنهم يستخدمون أساليب الخوف لتحقيق مرادهم، ومع ذلك ليس لديهم أي قوة سوى الخوف. تخيل أسوأ صورة نمطية لبائع المبيعات، باستثناء أنه بدلاً من أن يبيع لك شيئًا ما، فإن وظيفته تتفوق عليك بخصم.
 
-Now to be fair, many vendors do take advantage of large companies--overcharging (because "They can afford it!"), or promising one thing to the users and sneaking something else into the invoice.
+الآن لكي نكون منصفين، يستغل العديد من البائعين الشركات الكبيرة - من خلال فرض رسوم زائدة (لأنهم "قادرون على تحملها!")، أو يعدون المستخدمين بشيء واحد ويتسللون بشيء آخر إلى الفاتورة.
 
-But mostly it's because of the traditional enterprise sales dance, reminiscent of the lumbering mating dance of the great blue whale. The vendor asks for too much money; the client is astonished at the price. Both calmly explain that this is a deal-breaker. Then the vendor capitulates 30% but only if the client signs a three year maintenance contract (which they wanted anyway). The deal is struck.
+ولكن يرجع السبب في الغالب إلى رقصة مبيعات الشركات التقليدية، التي تذكرنا برقصة التزاوج المتثاقلة للحوت الأزرق الكبير. البائع يطلب الكثير من المال؛ اندهش العميل من السعر. يشرح كلاهما بهدوء أن هذا يعد بمثابة كسر للصفقة. ثم يستسلم البائع بنسبة 30% ولكن فقط إذا وقع العميل عقد صيانة لمدة ثلاث سنوات (وهو ما أراده على أي حال). تم التوصل إلى الصفقة.
 
-This tradition continues because of perverse, wasteful incentives. The vendor's salesman likes this because sometimes she gets away with a high price which pads her commission check. The Procurement Manager likes this because he can show his superiors how much money he's "saved" the company.
+يستمر هذا التقليد بسبب الحوافز الضارة والمهدرة. يعجب مندوب مبيعات البائع بهذا لأنه في بعض الأحيان يفلت من دفع سعر مرتفع مما يؤدي إلى التحقق من عمولته. يحب مدير المشتريات هذا لأنه يستطيع أن يوضح لرؤسائه مقدار الأموال التي "أنقذها" الشركة.
 
-So big companies need a Defender of Evil Vendors, I get that. But that's not enough for these guys; it feels to me like an attack, not a parry.
+تحتاج الشركات الكبرى إلى مدافع عن البائعين الأشرار، أفهم ذلك. لكن هذا لا يكفي بالنسبة لهؤلاء الأشخاص؛ يبدو لي وكأنه هجوم وليس تفاديًا.
 
-This is how the conversation went:
+هكذا جرت المحادثة:
 
-> <u>PM</u>: What kind of discount are you offering?  
-> <u>Me</u>: We don't discount; instead we put our pricing on our website so there's no misunderstanding.  
-> <u>PM</u>: Well I'm going to need some kind of discount. How about 30%?  
-> <u>Me</u>: As it says on our website, we don't discount.  
-> <u>PM</u>: But I'm buying 400 seats!  
-> <u>Me</u>: Yes, and we already provide a nice discount for bulk orders, which is already included on the invoice and documented on the website.  
-> <u>PM</u>: You don't understand, I *always* get a discount. I've done business with 47 other vendors and *all* of them give me at least 20% off.  
-> <u>Me</u>: There's always a first!
+> <u>مساء</u>: ما نوع الخصم الذي تقدمه؟
+> <u>أنا</u>: نحن لا نخصم؛ وبدلاً من ذلك، نضع أسعارنا على موقعنا الإلكتروني حتى لا يكون هناك أي سوء فهم.
+> <u>مساء</u>: حسنًا، سأحتاج إلى نوع من الخصم. ماذا عن 30%؟
+> <u>أنا</u>: كما هو مذكور على موقعنا، نحن لا نخصم.
+> <u>رئيس الوزراء</u>: لكنني سأشتري 400 مقعدًا!
+> <u>أنا</u>: نعم، ونحن نقدم بالفعل خصمًا جيدًا للطلبات بالجملة، وهو مضمن بالفعل في الفاتورة وموثق على موقع الويب.
+> <u>مساء</u>: أنت لا تفهم، أنا *دائما* أحصل على خصم. لقد تعاملت مع 47 بائعًا آخر و*جميعهم* يقدمون لي خصمًا بنسبة 20% على الأقل.
+> <u>أنا</u>: هناك دائمًا الأول!
 
-So far it's actually OK--*I'm* the one refusing to plod through the mating ceremony, wanting to skip right to the wedding night. I expect push-back.
+لا بأس حتى الآن في الواقع --*أنا* الشخص الذي يرفض التثاقل خلال حفل التزاوج، ويريد الانتقال مباشرة إلى ليلة الزفاف. أتوقع التراجع.
 
-Here's where it gets nasty. I remember sitting there on the phone getting lambasted for my intolerable ignorance about the Way It Works. I was told, and I quote, "**You have no business selling anything to anyone.**" My obstinate ignorance is a deal-breaker for the entire sale because of what it implies about my company in general--after all if I don't even understand the purchasing process there's no chance in hell my software's going to work! Furthermore, despite my ignorance, I'm unwilling to listen to the rules, unwilling to learn, which means there's no hope for me.
+هنا حيث يصبح الأمر سيئًا. أتذكر جلوسي هناك على الهاتف وأنا أتعرض للانتقاد بسبب جهلي الذي لا يطاق بشأن طريقة العمل. لقد قيل لي، وأنا أقتبس، "**ليس من حقك بيع أي شيء لأي شخص.**" إن جهلي العنيد يفسد عملية البيع بأكملها بسبب ما ينطوي عليه ذلك من دلالة على شركتي بشكل عام - فبعد كل شيء، إذا لم أفهم حتى عملية الشراء، فلن تكون هناك فرصة في الجحيم لأن برنامجي سيعمل! علاوة على ذلك، على الرغم من جهلي، فأنا غير راغب في الاستماع إلى القواعد، وغير راغب في التعلم، مما يعني أنه لا يوجد أمل بالنسبة لي.
 
-I'll never forget how this ended:
+لن أنسى أبدًا كيف انتهى هذا:
 
-> <u>PM</u>: OK that's it, you give me no choice. I absolutely cannot approve this deal, and furthermore I'm recommending that **we never work with your company in any capacity**. At this point, even if you gave me a discount I would still reject it.
+> <u>مساء</u>: حسنًا، هذا كل شيء، لا تعطيني أي خيار. لا يمكنني مطلقًا الموافقة على هذه الصفقة، علاوة على ذلك أوصي بأن **لا نعمل أبدًا مع شركتك بأي صفة**. في هذه المرحلة، حتى لو أعطيتني خصمًا، سأظل أرفضه.
 
-Here's where I'm supposed to unleash my intellectual fortitude. I won't capitulate, will I? I won't let this guy insult and bully me, will I? C'mon, I'm the strong-willed confident entrepreneur with the stoic well-argued voice of reason, whereas he's the sleazeball with the tedious day-job--surely I'll laugh as his words roll off me like water off an oiled duck's back.
+هنا حيث من المفترض أن أطلق العنان لثباتي الفكري. لن أستسلم، أليس كذلك؟ لن أسمح لهذا الرجل أن يهينني ويتنمر علي، أليس كذلك؟ هيا، أنا رجل الأعمال الواثق من نفسه وقوي الإرادة والذي يتمتع بصوت العقل الرزين والمُجادل جيدًا، في حين أنه الشخص الفاسد الذي يعمل في وظيفة يومية مملة - بالتأكيد سأضحك عندما تتدحرج كلماته عني مثل الماء على ظهر بطة مزيتة.
 
-**Just the opposite.** I felt like throwing up. He's right, who do I think I am? I'm a baby geek playing in the adult's house and I don't know what the hell I'm doing. I have these naïve ideas about how the world *should* work and how people *should* treat one another, and it's all just incredibly silly and ignorant. And it *shows*. And now this guy is going back to those other folks at the company whom I actually like, and worked hard to earn their trust, as they laugh together over can-you-believe-how-dumb-he-is and we-can't-possibly-do-business-with-them.
+**على العكس تمامًا.** شعرت بالرغبة في التقيؤ. إنه على حق، من أعتقد أنني؟ أنا طفل مهووس ألعب في منزل الكبار ولا أعرف ماذا أفعل بحق الجحيم. لدي هذه الأفكار الساذجة حول الكيفية التي يجب أن يعمل بها العالم وكيف يجب أن يتعامل الناس مع بعضهم البعض، وكل هذا سخيف وجاهل بشكل لا يصدق. و *يظهر*. والآن يعود هذا الرجل إلى هؤلاء الأشخاص الآخرين في الشركة الذين أحبهم بالفعل، وعملوا بجد لكسب ثقتهم، حيث يضحكون معًا حول هل تصدق كم هو غبي، ولا يمكننا، ربما، القيام بأعمال تجارية معهم.
 
-It's over. [They've seen through me](https://longform.asmartbear.com/impostor-syndrome/). It's just a matter of time before others do too. That's the end of deals like this.
+انتهى. [لقد رأوا من خلالي](https://longform.asmartbear.com/impostor-syndrome/). إنها مجرد مسألة وقت قبل أن يفعل الآخرون ذلك أيضًا. هذه هي نهاية مثل هذه الصفقات.
 
-Why am I doing this anyway? This is supposed to be fun and fulfilling but at this moment as we say in Texas I feel like ten tons of shit in a two-ton bag. What I like is writing code--why am I even trying to play this sales game? Why not just go get a job where I only worry about whether or not I can write code--because I sure as hell can do that--and let the natural salesmen do all this crap?
+لماذا أفعل هذا على أي حال؟ من المفترض أن يكون هذا ممتعًا ومرضيًا، لكن في هذه اللحظة، كما نقول في تكساس، أشعر وكأنني عشرة أطنان من القذارة في حقيبة تزن طنين. ما أحبه هو كتابة التعليمات البرمجية - لماذا أحاول حتى أن ألعب لعبة المبيعات هذه؟ لماذا لا أذهب للحصول على وظيفة لا أقلق فيها إلا بشأن ما إذا كان بإمكاني كتابة التعليمات البرمجية أم لا - لأنني متأكد من أنني أستطيع فعل ذلك - وأترك ​​للبائعين الطبيعيين القيام بكل هذا الهراء؟
 
-Is the money worth it? What money, we're still bootstrapping and I still don't get a regular salary. Is the *promise* of money worth it? Worth these feelings of inadequacy?
+هل المال يستحق كل هذا العناء؟ يا له من مال، ما زلنا في مرحلة التمهيد وما زلت لا أحصل على راتب منتظم. هل *الوعد* بالمال يستحق العناء؟ هل يستحق هذا الشعور بالنقص؟
 
-After days (yep, *days*) of fretting like this, it converted from despair to anger. Who the hell is this guy? Some asshole who isn't good enough with money to be an accountant, not even slimy enough to sell cars, this guy whose only skill is to be a jerk, some guy who has never had to make payroll or take a risk or put himself out there, this schmuck is going to tell me *I'm* the one who isn't good enough, *I'm* the one who has no business selling software?
+بعد أيام (نعم، *أيام*) من القلق على هذا النحو، تحولت من اليأس إلى الغضب. من هو هذا الرجل بحق الجحيم؟ بعض الأحمق الذي ليس جيدًا بما فيه الكفاية بالمال ليكون محاسبًا، ولا حتى ضعيفًا بما يكفي لبيع السيارات، هذا الرجل الذي مهارته الوحيدة هي أن يكون أحمقًا، بعض الرجل الذي لم يضطر أبدًا إلى دفع رواتب أو المخاطرة أو وضع نفسه هناك، هذا الأحمق سيخبرني *أنا* الشخص الذي ليس جيدًا بما فيه الكفاية، *أنا* الشخص الذي ليس لديه عمل في بيع البرامج؟
 
-Worst of all, I'm *letting* him make me feel like a pile of shit!
+والأسوأ من ذلك كله، أنني *أسمح له* بأن يجعلني أشعر وكأنني كومة من القذارة!
 
-Well if you're waiting for the big moment where intellectual reasoning finally defeats weak, irrational emotions, I'm sorry to disappoint you, because **that moment never came**. I know it's dumb and illogical, but there it is. It's trivial and baseless but I still carry that experience in a corner of my thoughts. That's how emotions work.
+حسنًا، إذا كنت تنتظر اللحظة الكبيرة حيث يهزم المنطق الفكري أخيرًا المشاعر الضعيفة وغير العقلانية، فأنا آسف لإحباطك، لأن **تلك اللحظة لم تأت أبدًا**. أعلم أن هذا غبي وغير منطقي، لكنه موجود. إنه أمر تافه ولا أساس له من الصحة ولكني لا أزال أحمل تلك التجربة في زاوية من أفكاري. هذه هي الطريقة التي تعمل بها العواطف.
 
-By the way, this guy turned out to be totally full of shit. He had, in fact, no power to stop the deal. When I finally got my main buying contact from that company on a conference call with the PM, the conversation was this short, and as close to word-for-word as I can recall:
+بالمناسبة، تبين أن هذا الرجل كان مليئًا بالقذارة تمامًا. في الواقع، لم يكن لديه القدرة على إيقاف الصفقة. عندما حصلت أخيرًا على جهة اتصال الشراء الرئيسية من تلك الشركة في مكالمة جماعية مع رئيس الوزراء، كانت المحادثة قصيرة جدًا، وقريبة من كلمة بكلمة كما أتذكر:
 
-> <u>My Guy</u>: So, what's holding up procurement's approval?  
-> <u>PM</u>: Nothing, just some paperwork, we'll have it done by Friday.
+> <u>صديقي</u>: إذًا، ما الذي يعيق الموافقة على المشتريات؟
+> <u>مساء</u>: لا شيء، فقط بعض الأعمال الورقية، وسنقوم بإنجازها بحلول يوم الجمعة.
 
-All of that angst for nothing. Son of a bitch!
+كل هذا القلق من أجل لا شيء. ابن العاهرة!
 
-Years later I was on-site at this company and I finally met this guy face to face.
+بعد سنوات كنت في الموقع في هذه الشركة والتقيت أخيرًا بهذا الرجل وجهًا لوجه.
 
-I *still* felt small.
+*ما زلت* ​​أشعر بأنني صغير.
 
-Want to say I'm weak? Or he's strong?
+هل تريد أن تقول أنني ضعيف؟ أم أنه قوي؟
 
-Who cares, the point is: Getting through this slog of a thing that's a startup--or anything difficult and worthwhile--doesn't require that you're always confident or stoic or smart or right or wise. You don't need to match the emotional stability you see from the big bloggers. (Which is [mostly a façade](https://blog.asmartbear.com/underbelly-what-haughty-startup-bloggers-dont-tell-you.html) anyway.)
+من يهتم، النقطة المهمة هي: إن اجتياز هذا العناء لشيء يمثل بدايةً - أو أي شيء صعب وجدير بالاهتمام - لا يتطلب أن تكون دائمًا واثقًا أو رواقيًا أو ذكيًا أو على حق أو حكيمًا. لا تحتاج إلى مجاراة الاستقرار العاطفي الذي تراه من المدونين الكبار. (وهي [في الغالب واجهة](https://blog.asmartbear.com/underbelly-what-haughty-startup-bloggers-dont-tell-you.html) على أي حال.)
 
-It's not even about "overcoming." Maybe you don't overcome, you just get through.
+الأمر لا يتعلق حتى بـ "التغلب". ربما لا تتغلب، بل تجتاز الأمر فحسب.
 
-It's about sticking through the tough parts, whatever your foibles and weaknesses.
+يتعلق الأمر بالتمسك بالأجزاء الصعبة، مهما كانت نقاط ضعفك ونقاط ضعفك.
 
-**_Living through_ it, not _beating_ it.** I never have, to this day, "beaten" that PM, not emotionally, not if I'm being truly honest.
+**_العيش من خلالها، وليس التغلب عليها.** لم يسبق لي، حتى يومنا هذا، أن "أضرب" رئيس الوزراء ذلك، ليس عاطفيًا، ليس إذا كنت صادقًا حقًا.
 
-Welcome to [your crucible](https://longform.asmartbear.com/startup-life/).
+مرحبًا بك في [بوتقتك](https://longform.asmartbear.com/startup-life/).
 
-I'm not saying tenacity is *all* it takes. Just that without it, you'll stop.
+أنا لا أقول أن المثابرة هي *كل* ما يتطلبه الأمر. فقط أنه بدونها، سوف تتوقف.
 
-It's so easy to stop.
+من السهل جدًا التوقف.
 
-There's so many reasons to stop.
+هناك أسباب كثيرة للتوقف.
 
-And that--stopping--is how most little startups *actually* fail.
+وهذا -التوقف- هو السبب الذي يجعل معظم الشركات الناشئة الصغيرة تفشل *في الواقع*.
 
 ---
 
-P.S. Since writing this article in 2011, I was able to avoid burn-out and tame these thoughts with a framework that I detail in [this article from 2022](https://longform.asmartbear.com/fulfillment/).
+ملاحظة: منذ كتابة هذا المقال في عام 2011، تمكنت من تجنب الإرهاق وترويض هذه الأفكار من خلال إطار العمل الذي سأشرحه بالتفصيل في [هذه المقالة من عام 2022](https://longform.asmartbear.com/fulfillment/).

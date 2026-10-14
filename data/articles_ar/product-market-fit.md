@@ -20,199 +20,186 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** ملاءمة المنتج للسوق (PMF): بين التجربة الميدانية ولغة الأرقام تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Product/Market Fit (PMF): Experience & Data
-
-> **Executive Summary:** Companies that achieve Product/Market Fit -- both self-funded and VC-funded -- exhibit the same prototypical metrics curves and subjective experiences.
-> **Original URL:** [https://longform.asmartbear.com/product-market-fit/](https://longform.asmartbear.com/product-market-fit/)
-
 ![had winner winner dream again](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/d8796print-simple.png)
 
-Every day people debate how to define "Product/Market Fit."
+يناقش الناس كل يوم كيفية تحديد "ملاءمة المنتج/السوق".
 
-It's best to start with the subjective experience, because **there is no doubt when you have it**. (If you're not sure whether you have Product/Market Fit, you don't.)
+من الأفضل أن تبدأ بالتجربة الشخصية، لأنه **ليس هناك شك في أنك ستتمتع بها**. (إذا لم تكن متأكدًا من توافق المنتج/السوق، فلن تفعل ذلك.)
 
-_If every day it's a struggle to get customers, it's not working yet. <br/> If every day it's a struggle to keep up with demand, it's working._
+_إذا كان هناك صراع يومي للحصول على العملاء، فهو لم ينجح بعد. <br/> إذا كان هناك صراع كل يوم لمواكبة الطلب، فهو ناجح._
 
-It is a momentum change from "push" to "pull"--a change from fighting for each customer, one at a time, to a flood of signups that you can't even explain. It's a change from "how do we get more customers" to "how do we handle the influx of demand?"
+إنه تغيير في الزخم من "الدفع" إلى "السحب" - وهو تغيير من القتال من أجل كل عميل، واحدًا تلو الآخر، إلى طوفان من الاشتراكات التي لا يمكنك حتى تفسيرها. إنه تغيير من "كيف نحصل على المزيد من العملاء" إلى "كيف نتعامل مع تدفق الطلب؟"
 
-It's _working_. Something clicked, like a final puzzle piece snapping into place, a "fit," and suddenly the floodgates are open.
+إنها _تعمل_. تم النقر على شيء ما، مثل قطعة أحجية أخيرة تستقر في مكانها، "ملائمة"، وفجأة تُفتح البوابات على مصراعيها.
 
-It's not all good. The avalanche of customer complaints outstrip your ability to deliver bug fixes and simple enhancements. You feel behind in every department simultaneously; you can't keep up with the work no matter how "productive" you are. You obviously should hire someone--and this new revenue means you can afford it--but who? Someone just like you, because you can manage them, or someone who complements you, so you can deal with the burgeoning scale? Does it even matter--you don't have time to interview.
+ليس كل شيء جيد. إن الكم الهائل من شكاوى العملاء يفوق قدرتك على تقديم إصلاحات الأخطاء والتحسينات البسيطة. تشعر بالتخلف في كل قسم في وقت واحد؛ لا يمكنك مواكبة العمل بغض النظر عن مدى "إنتاجيتك". من الواضح أنه يجب عليك تعيين شخص ما - وهذا الدخل الجديد يعني أنك تستطيع تحمله - ولكن من؟ هل أنت شخص مثلك تمامًا، لأنك تستطيع إدارته، أم شخص يكملك، حتى تتمكن من التعامل مع النطاق المزدهر؟ هل يهم حتى - ليس لديك الوقت لإجراء المقابلة.
 
-It's the proverbial "good problem to have," but it doesn't feel good in the moment, with a crushing workload and unhappy new customers, and your brand slipping away ("I heard they were good but it took them a day to answer my support question" says the public review). Although of course it _is_ the _best_ problem to have.
+إنها "المشكلة الجيدة التي يجب أن تواجهها"، لكنها لا تشعر بالارتياح في الوقت الحالي، مع عبء العمل الساحق والعملاء الجدد غير الراضين، واختفاء علامتك التجارية ("سمعت أنهم كانوا جيدين ولكن الأمر استغرق يومًا للإجابة على سؤال الدعم الخاص بي" كما تقول المراجعة العامة). على الرغم من أنها بالطبع أفضل مشكلة تواجهها.
 
-You might think all this doesn't matter--you're just running your company; who cares how some article defines a term like "Product/Market Fit?" But it _does_ matter, because it determines whether the company is sustainable, and fundamentally changes how you operate each day, how you plan for the future, whether and who you need to hire, and what you need to build, and whether you're going to start [tackling scale](https://longform.asmartbear.com/scale/).
+قد تظن أن كل هذا لا يهم، فأنت فقط تدير شركتك؛ من يهتم بكيفية تعريف بعض المقالات لمصطلح مثل "ملاءمة المنتج/السوق؟" ولكنه مهم، لأنه يحدد ما إذا كانت الشركة مستدامة، ويغير بشكل أساسي طريقة عملك كل يوم، وكيف تخطط للمستقبل، وما إذا كنت بحاجة إلى توظيف ومن تحتاج، وما الذي تحتاج إلى بناءه، وما إذا كنت ستبدأ [بمعالجة النطاق](https://longform.asmartbear.com/scale/).
 
-*(P.S. How do you go from idea to this state? [This is my PMF system](https://longform.asmartbear.com/product-market-fit-formula/) that I used to build a unicorn.)*
+*(ملاحظة: كيف تنتقل من الفكرة إلى هذه الحالة؟ [هذا هو نظام PMF الخاص بي](https://longform.asmartbear.com/product-market-fit-formula/) الذي استخدمته لبناء وحيد القرن.)*
 
 ---
 
-What does Product/Market Fit look like numerically?
+كيف يبدو المنتج/السوق مناسبًا عدديًا؟
 
-In my experience building several companies myself and angel-investing in dozens of others (with a wide range of outcomes), **I define Product/Market Fit as _all_ of the following:**
+من خلال خبرتي في بناء العديد من الشركات بنفسي والاستثمار الملائكي في عشرات الشركات الأخرى (مع مجموعة واسعة من النتائج)، **أعرّف المنتج/السوق بأنه _جميع_ ما يلي:**
 
-1. **Easy growth (pull, not push):** Growth rate suddenly spikes up, and sustains at the new rate. You often don't know why.
-2. **High retention:** Cancellation under 3%/mo (for B2B) or 5%/mo (for B2C), because if customers are leaving in droves, you are not a "fit."
-3. **Critical mass:** At least $20,000/mo in revenue or increasing WAU's by at least 200/mo. Everyone can grow 1000% month-of-month when the baseline is 7 customers; the fact that you have only 7 customers means there's not yet evidence of "fit."[^1]
+1. **النمو السهل (السحب وليس الدفع):** يرتفع معدل النمو فجأة ويستمر عند المعدل الجديد. في كثير من الأحيان لا تعرف السبب.
+2. **نسبة احتفاظ عالية:** الإلغاء بمعدل أقل من 3% شهريًا (لـ B2B) أو 5% شهريًا (لـ B2C)، لأنه إذا غادر العملاء بأعداد كبيرة، فأنت لست "مناسبًا".
+3. **الكتلة الحرجة:** ما لا يقل عن 20000 دولار أمريكي/الشهر من الإيرادات أو زيادة WAU بمقدار 200/الشهر على الأقل. يمكن للجميع تحقيق النمو بنسبة 1000% على أساس شهري عندما يكون خط الأساس 7 عملاء؛ حقيقة أن لديك 7 عملاء فقط تعني عدم وجود دليل على "الملاءمة" حتى الآن.[^1]
 
-[^1]: What if you have a single huge customer? Congratulations, lots of people would love to have a huge customer; great start. That demonstrates you have fit for a single customer, but not for a market; that's consulting, not product.
+[^1]: ماذا لو كان لديك عميل واحد ضخم؟ تهانينا، الكثير من الناس يرغبون في الحصول على عميل كبير؛ بداية عظيمة. وهذا يدل على أنك مناسب لعميل واحد، ولكن ليس للسوق؛ هذه استشارة وليست منتجًا.
 
-What follows are the data to back up this definition, that also matches the lived experience that is the essence of hitting Product/Market Fit: in which life will never be the same again.
+ما يلي هو البيانات التي تدعم هذا التعريف، والتي تتطابق أيضًا مع التجربة الحية التي تمثل جوهر الوصول إلى المنتج/السوق: حيث لن تعود الحياة كما كانت مرة أخرى أبدًا.
 
-## The characteristic growth curve of "Product/<wbr/>Market Fit"
+## منحنى النمو المميز لـ "المنتج/<wbr/>ملاءمة السوق"
 
-### Bootstrapped products
+### المنتجات التمهيدية
 
-When you see growth charts like [Pallyy](https://pallyy.com/)'s, you can see the exact moment when Product/Market Fit was reached:
+عندما ترى مخططات النمو مثل مخططات [Pallyy](https://pallyy.com/)، يمكنك رؤية اللحظة المحددة التي تم فيها الوصول إلى المنتج/السوق:
 
 ![Pallyy's four-year MRR](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/image-simple.png)
 
-Successful startups often have a growth curve like Pallyy's: Revenue growing linearly, slowly, often for about two years, then in a moment--Product/Market Fit--when it suddenly turns upward, and continues growing at that new trajectory.
+غالبًا ما يكون لدى الشركات الناشئة الناجحة منحنى نمو مثل منحنى Pallyy: تنمو الإيرادات بشكل خطي، ببطء، غالبًا لمدة عامين تقريبًا، ثم في لحظة - المنتج/السوق - عندما يتحول فجأة إلى الأعلى، ويستمر في النمو في هذا المسار الجديد.
 
-The new growth is still linear, but dramatically faster. In particular, it is _not_ exponential, though that's the word people frequently use ([this universal fallacy is explained here](https://longform.asmartbear.com/exponential-growth/)).
+ولا يزال النمو الجديد خطيا، ولكنه أسرع بشكل كبير. على وجه الخصوص، إنها _ليست_ أسية، على الرغم من أن هذه هي الكلمة التي يستخدمها الناس كثيرًا ([تم شرح هذه المغالطة العالمية هنا](https://longform.asmartbear.com/exponential-growth/)).
 
-[ConvertKit](https://convertkit.com/) was similar, bumping along for two years before growing quickly but linearly, just like Pallyy:
+كان [ConvertKit](https://convertkit.com/) مشابهًا، حيث كان يتأرجح لمدة عامين قبل أن ينمو بسرعة ولكن بشكل خطي، تمامًا مثل Pallyy:
 
 ![ConvertKit's early MRR growth](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/image-5-simple.png)
 
-And then that growth continued linearly, not "exponentially" as many pundits like to say:
+وبعد ذلك استمر هذا النمو بشكل خطي، وليس "بشكل متسارع" كما يحب العديد من النقاد أن يقولوا:
 
 ![ConvertKit's scale-up MRR growth](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/convertkit-simple.png)
 
-You can see the sudden change between "every sale is a struggle" and "the orders just won't stop coming in."
+يمكنك أن ترى التغيير المفاجئ بين "كل عملية بيع هي صراع" و"الطلبات لن تتوقف عن الوصول".
 
-ConvertKit founder Nathan Barry famously [tells the story](https://www.groovehq.com/blog/nathan-barry-interview) of how he personally reached out one by one to his ideal target customers, manually onboarding them to not only get the sale but to get the testimonial.[^2] It's a brilliant playbook that others would be wise to copy. It's also what it means to hard-scrabble for customers, and it's really obvious when the forces flipping from having to scratch and claw for every dollar of revenue, to the company running away from him.
+ناثان باري، مؤسس ConvertKit، [يروي القصة] (https://www.groovehq.com/blog/nathan-barry-interview) عن كيفية تواصله شخصيًا واحدًا تلو الآخر مع عملائه المستهدفين المثاليين، وإعدادهم يدويًا ليس فقط للحصول على البيع ولكن أيضًا للحصول على الشهادة.[^2] إنه دليل رائع سيكون من الحكمة أن يقلده الآخرون. وهذا أيضًا ما يعنيه "الخربشة الصعبة" للعملاء، وهو أمر واضح حقًا عندما تتحول القوى من الاضطرار إلى الخدش والمخالب مقابل كل دولار من الإيرادات، إلى هروب الشركة منه.
 
-[^2]: I was one of them; perhaps you're reading this article because of an email from [my newsletter](https://longform.asmartbear.com/subscribe/), which is still on ConvertKit.
+[^2]: لقد كنت واحدًا منهم؛ ربما كنت تقرأ هذه المقالة بسبب رسالة بريد إلكتروني من [رسالتي الإخبارية](https://longform.asmartbear.com/subscribe/)، والتي لا تزال موجودة على ConvertKit.
 
-Examples from the bootstrapped world are endless. Here's another [from Tally](https://blog.tally.so/6-years-in-6-million-far/) (rhymes with Pallyy?) celebrating hitting $6M in ARR:
+الأمثلة من عالم التمهيد لا حصر لها. إليك صورة أخرى [من Tally](https://blog.tally.so/6-years-in-6-million-far/) (قوافي مع Pallyy؟) تحتفل ببلوغ 6 ملايين دولار في ARR:
 
 ![Tally's MRR](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/image-4-simple.png)
 
-### VC-funded products
+### المنتجات الممولة من VC
 
-The preceding companies were bootstrapped, but the pattern is the same in the world of venture, because Product/Market Fit is about products and markets and customers and fits, not about funding models.
+كانت الشركات السابقة قابلة للتمهيد، لكن النمط هو نفسه في عالم المشاريع، لأن ملاءمة المنتج/السوق تدور حول المنتجات والأسواق والعملاء والتناسب، وليس حول نماذج التمويل.
 
-Beehiiv is a competitor to ConvertKit, which raised a small round from angels and VCs. With [a strategy of](https://x.com/denk_tweets/status/2013618810016690461?s=20) simplicity, agile reactions, and viral components, the curve nevertheless looks almost identical, because the forces that shape PMF transcend those activities:
+Beehiiv هو منافس لبرنامج ConvertKit، الذي جمع جولة صغيرة من الملائكة ورأس المال الاستثماري. مع [استراتيجية] (https://x.com/denk_tweets/status/2013618810016690461?s=20) البساطة، وردود الفعل السريعة، والمكونات الفيروسية، يبدو المنحنى متطابقًا تقريبًا، لأن القوى التي تشكل PMF تتجاوز تلك الأنشطة:
 
 ![Beehiiv's MRR](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/beehiiv-simple.png)
 
-My company [WP Engine](https://wpengine.com/) started 16 years ago self-funded but two years later became VC-funded, eventually raising more than $300M, experiencing hyper-growth[^3] for a decade, yet it exhibits the same two-year slow-growth preamble to high-growth, and both linear:
+بدأت شركتي [WP Engine](https://wpengine.com/) منذ 16 عامًا بتمويل ذاتي، ولكن بعد عامين أصبحت ممولة من رأس المال الاستثماري، وجمعت في النهاية أكثر من 300 مليون دولار، وشهدت نموًا مفرطًا[^3] لمدة عقد من الزمن، ومع ذلك فإنها تعرض نفس مقدمة النمو البطيء لمدة عامين إلى النمو المرتفع، وكلاهما خطي:
 
-[^3]: Often defined as 2T3D, i.e. in successive years after attaining $1M in annual revenue, the company's revenue triples, triples, doubles, doubles, and doubles, thereby getting close to $100M five years later; WP Engine did that and more, starting with 5x.
+[^3]: غالبًا ما يتم تعريفه على أنه 2T3D، أي أنه في السنوات المتعاقبة بعد تحقيق إيرادات سنوية قدرها مليون دولار، تتضاعف إيرادات الشركة ثلاث مرات، ثم تتضاعف ثلاث مرات، ثم تتضاعف، ثم تتضاعف، وبالتالي تقترب من 100 مليون دولار بعد خمس سنوات؛ قام WP Engine بذلك وأكثر، بدءًا من 5x.
 
 ![WP Engine's early growth curve](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/image-2-simple.png)
 
-You can't tell from the chart when we first raised money (it wasn't January of 2012), nor subsequent rounds, nor the size of the rounds. The shape of growth transcends all of it.
+لا يمكنك معرفة من الرسم البياني متى قمنا بجمع الأموال لأول مرة (لم يكن ذلك في يناير 2012)، ولا الجولات اللاحقة، ولا حجم الجولات. إن شكل النمو يتجاوز كل ذلك.
 
-I distinctly remember when we flipped to "Product/Market Fit." Only five of us, completely sustainable, and suddenly everything changed. We fell behind on our stellar tech support; one of the dangers of bragging about how "the founder does Zendesk tickets" is that process doesn't scale. We couldn't keep up with our free white-glove site-migration service for new customers. And then, completely behind on all work, trying to stand up new servers and answer phone calls, knowing we needed to hire, we got even _more_ behind because hiring takes time--finding candidates, interviewing, not wanting to hire the wrong person just because we're moving fast, and even after we hired, there's no documentation or training, so we're just working side by side, hoping folks learn by osmosis, while the team gets even further behind. And customers were complaining on Twitter that our service is going downhill--and worst of all, they were right. They blamed it on us raising money; what they didn't know is we hadn't spent a dollar of it yet; in fact our error was _not_ spending the money on hiring ahead of need, to blunt the impact of a growth increase.
+أتذكر بوضوح عندما انتقلنا إلى "تناسب المنتج/السوق". خمسة منا فقط، مستدامون تمامًا، وفجأة تغير كل شيء. لقد تخلفنا عن دعمنا الفني الممتاز؛ أحد مخاطر التباهي بكيفية "حصول المؤسس على تذاكر Zendesk" هو أن هذه العملية لا تتوسع. لم نتمكن من مواكبة خدمة ترحيل المواقع المجانية للعملاء الجدد. وبعد ذلك، متأخرين تمامًا في جميع الأعمال، محاولين إنشاء خوادم جديدة والرد على المكالمات الهاتفية، مع العلم أننا بحاجة إلى التوظيف، فقد تأخرنا أكثر لأن التوظيف يستغرق وقتًا - العثور على المرشحين، وإجراء المقابلات، وعدم الرغبة في توظيف الشخص الخطأ لمجرد أننا نتحرك بسرعة، وحتى بعد تعييننا، لا يوجد أي وثائق أو تدريب، لذلك نحن نعمل جنبًا إلى جنب، ونأمل أن يتعلم الأشخاص من خلال التناضح، بينما يتخلف الفريق أكثر. وكان العملاء يشكون على تويتر من أن خدمتنا تتدهور، والأسوأ من ذلك كله أنهم كانوا على حق. ألقوا باللوم علينا في جمع الأموال؛ وما لم يعرفوه هو أننا لم ننفق منه دولارًا بعد؛ في الواقع، كان خطأنا هو عدم إنفاق الأموال على التوظيف قبل الحاجة، لتخفيف تأثير زيادة النمو.
 
-We did get back on top of it later in the year, and we've won all sorts of awards for our service, maintaining 98% CSAT to this day, because that's who we are. But that's not what it felt like in 2012.
+لقد عدنا إلى هذا الأمر في وقت لاحق من العام، وفزنا بجميع أنواع الجوائز لخدمتنا، وحافظنا على نسبة 98% من اختبار CSAT حتى يومنا هذا، لأن هذا هو ما نحن عليه. ولكن هذا ليس ما شعرت به في عام 2012.
 
-The same thing happens to the "cool kids" companies in Y-Combinator:
+يحدث نفس الشيء لشركات "الأطفال الرائعين" في Y-Combinator:
 
 ![Anonymous YC company growth chart from YC co-founder Paul Graham](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/fsya-rwaaykldb-simple.png)
 
-This isn't a new phenomenon, nor a "SaaS" phenomenon. [Peldi Guilizzoni](https://twitter.com/peldi) famously shared his (one-time!) revenue for Balsamiq Mockups back in 2008:
+هذه ليست ظاهرة جديدة، ولا ظاهرة "SaaS". [Peldi Guilizzoni] (https://twitter.com/peldi) شارك إيراداته (لمرة واحدة!) لصالح Balsamiq Mockups في عام 2008:
 
 ![Balsamiq Markups one-time (not SaaS!) revenue, 2008](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/balsamiq-cashflow-simple.png)
 
-### Second products
+### المنتجات الثانية
 
-HubSpot is a hyper-growth VC-funded company, now public. Early on, you can see the linear behavior, fairly consistent even through the 2008 recession, as co-founder [Dharmesh Shah](https://twitter.com/dharmesh) indicates on a chart from his [personal blog](https://www.onstartups.com/tabid/3339/bid/10799/holy-crap-hubspot-has-now-raised-a-total-of-33-million.aspx):
+HubSpot هي شركة ممولة من رأس المال الاستثماري سريعة النمو، وهي الآن شركة عامة. في وقت مبكر، يمكنك رؤية السلوك الخطي، الذي كان ثابتًا إلى حد ما حتى خلال ركود عام 2008، كما يشير المؤسس المشارك [دارميش شاه] (https://twitter.com/dharmesh) على مخطط من [شخصيته] مدونة](https://www.onstartups.com/tabid/3339/bid/10799/holy-crap-hubspot-has-now-raised-a-total-of-33-million.aspx):
 
 ![HubSpot's early growth curve](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/hubspot-growth-simple.png)
 
-And for five years after that point:
+ولمدة خمس سنوات بعد تلك النقطة:
 
 ![HubSpot's founder Dharmesh Shah showing their slow linear growth rate for three years, then fast for five.](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/image-8-simple.png)
 
-Sometimes there's another shift in the slope of the line, when the company adds a second successful product, expands to a lucrative new market, or changes its business model. HubSpot, after twelve years of linear growth, changes to a new (but still linear) growth rate around 2021, around the time their second product-line reached its own fit:
+في بعض الأحيان يكون هناك تحول آخر في ميل الخط، عندما تضيف الشركة منتجًا ثانيًا ناجحًا، أو تتوسع إلى سوق جديدة مربحة، أو تغير نموذج أعمالها. HubSpot، بعد اثني عشر عامًا من النمو الخطي، تتغير إلى معدل نمو جديد (ولكن لا يزال خطيًا) في عام 2021 تقريبًا، في الوقت الذي وصل فيه خط الإنتاج الثاني إلى ملاءمته الخاصة:
 
 ![HubSpot's at-scale growth curve, exhibiting a bend, and linear on both sides of the change](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/image-3-simple.png)
 
-### Viral products
+### المنتجات الفيروسية
 
-All of the previous examples were of B2B companies without "viral" or "network" effects, which are often associated with so-called "exponential growth." However, even classic "viral growth" examples like Slack (at the time the fastest-ever-growing B2B company in history) and Facebook (at the time the fastest-ever-growing B2C company in history) did not grow exponentially. Instead, they grew in the same way again: linear, then a sudden change, then still linear but faster. Here's Slack, which looks exactly like HubSpot:
+جميع الأمثلة السابقة كانت لشركات B2B دون تأثيرات "فيروسية" أو "شبكية"، والتي غالبًا ما ترتبط بما يسمى "النمو الأسي". ومع ذلك، حتى أمثلة "النمو الفيروسي" الكلاسيكية مثل Slack (في ذلك الوقت كانت شركة B2B الأسرع نموًا على الإطلاق في التاريخ) وFacebook (في ذلك الوقت كانت شركة B2C الأسرع نموًا على الإطلاق في التاريخ) لم تنمو بشكل كبير. وبدلاً من ذلك، نمت بنفس الطريقة مرة أخرى: خطية، ثم تغير مفاجئ، ثم لا تزال خطية ولكن بشكل أسرع. إليك Slack، الذي يبدو تمامًا مثل HubSpot:
 
 ![Slack's early user growth curve](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/slack-dau-novet-062415-png-simple.png)
 
-And Facebook with a material bend in early 2009 (coinciding with the introduction of the "like" button that you could embed on your own website):
+وفيسبوك مع منحنى مادي في أوائل عام 2009 (بالتزامن مع تقديم زر "أعجبني" الذي يمكنك تضمينه في موقع الويب الخاص بك):
 
 ![Facebook's early user growth curve](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/icrossing-facebook-user-growth-january-2012-simple.png)
 
-Elsewhere I've gone into great detail about why even viral products like Slack and Facebook specifically [don't grow exponentially](https://longform.asmartbear.com/exponential-growth/).
+لقد تناولت في مكان آخر تفاصيل كثيرة حول سبب عدم نمو المنتجات واسعة الانتشار مثل Slack وFacebook على وجه التحديد (https://longform.asmartbear.com/exponential-growth/).
 
-You can also see it in AirBnB with a bend in late 2010, coinciding with the [realization that professional photography was the key](https://medium.com/@etch.ai/how-airbnb-got-their-early-traction-cb059e902ea4) to "fitting" with customer expectations:
+يمكنك أيضًا رؤيته في AirBnB مع انحناء في أواخر عام 2010، بالتزامن مع [إدراك أن التصوير الفوتوغرافي الاحترافي هو المفتاح](https://medium.com/@etch.ai/how-airbnb-got-their-early-traction-cb059e902ea4) إلى "الملاءمة" مع توقعات العملاء:
 
 ![Airbnb's final piece of the puzzle](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/d1-2jgwufz59xbt8g8eqaifww-simple.png)
 
-### Media products
+### منتجات الوسائط
 
-In many ways, media and content is unlike building and selling products. But in growth curves, and this characteristic PMF curve in particular, they are similar. Here's one for a successful YouTube channel:
+في نواحٍ عديدة، تختلف الوسائط والمحتوى عن بناء المنتجات وبيعها. لكن في منحنيات النمو، ومنحنى PMF المميز هذا على وجه الخصوص، فهي متشابهة. إليك واحدة لقناة ناجحة على اليوتيوب:
 
 ![YouTube channel viewer growth](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/image-6-simple.png)
 
-Or email newsletters like [Lenny Rachitsky](https://www.lennyrachitsky.com/newsletter)'s:
+أو رسائل إخبارية عبر البريد الإلكتروني مثل [Lenny Rachitsky](https://www.lennyrachitsky.com/newsletter):
 
 ![Lenny's Newsletter traffic](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/f-bjov-a8aa5apl-simple.png)
 
-Oh, and what did Lenny do to cause that sudden growth? You guessed it:
+أوه، وماذا فعل ليني ليسبب هذا النمو المفاجئ؟ لقد خمنت ذلك:
 
 ![Q: What did you change in Jul 2022? / A: Not sure TBH](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/image-11-simple.png)
 
-_Update: Sept 2024:_ A year later, Lenny published his subscriber chart, and sure enough the pattern continues:
+_التحديث: سبتمبر 2024:_ بعد مرور عام، نشر ليني مخطط المشتركين الخاص به، وبالتأكيد يستمر النمط:
 
 ![The first small bend in 2020 resulting in a line with a new slope, then the dramatic bend in May 2022 with nearly perfect linear growth for the next two years.](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/image-7-simple.png)
 
-The bottom line is, these growth curves matching "fit" are common with all business models--B2B and B2C, recurring-revenue or one-time revenue, products or media, self-funded or VC-funded.
+خلاصة القول هي أن منحنيات النمو هذه التي تطابق "الملاءمة" شائعة في جميع نماذج الأعمال - B2B وB2C، أو الإيرادات المتكررة أو الإيرادات لمرة واحدة، أو المنتجات أو الوسائط، أو التمويل الذاتي أو تمويل رأس المال الاستثماري.
 
-## High cancellation means there's no fit
+## الإلغاء العالي يعني عدم وجود ملاءمة
 
-There is one killer metric that will stop growth in its tracks, even with the curves above: Cancellation.
+هناك مقياس قاتل واحد من شأنه أن يوقف النمو في مساراته، حتى مع المنحنيات المذكورة أعلاه: الإلغاء.
 
-Founders often think cancellation of 5-7% per month is OK so long as they're getting lots of new customers. But they are mistaken.
+غالبًا ما يعتقد المؤسسون أن إلغاء 5-7% شهريًا أمر مقبول طالما أنهم يحصلون على الكثير من العملاء الجدد. لكنهم مخطئون.
 
-High cancellation puts a ceiling on growth. This is on public display with [Buffer](https://buffer.com/), who started with the same sort of linear-change-linear growth curve (2012-2014, then 2014-2020), but then growth leveled off (2020) and never returned (and even shrunk):
+الإلغاء العالي يضع سقفًا للنمو. يتم عرض هذا للعامة مع [Buffer](https://buffer.com/)، الذي بدأ بنفس النوع من منحنى النمو الخطي المتغير (2012-2014، ثم 2014-2020)، ولكن بعد ذلك استقر النمو (2020) ولم يعود أبدًا (وحتى تقلص):
 
 ![Buffer's ARR](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/buffer-arr-simple.png)
 
-The reason is churn. Note how churn was higher during the slow-growth period of 2012-2014, then reduced to 5%/month, permitting faster growth:
+السبب هو التقلب. لاحظ كيف كان معدل التقلب أعلى خلال فترة النمو البطيء 2012-2014، ثم انخفض إلى 5٪ شهريًا، مما سمح بنمو أسرع:
 
 ![Buffer's monthly cancellation rate](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/buffer-cancel-simple.png)
 
-But 5% is still too high; there's no way to keep increasing new-customer acquisition to outpace churn, for the simple reason that "5%/mo" definitionally grows in lock-step with your total size, but marketing and sales does not continue to automatically grow just because your company is bigger. So, cancellations always win that race, and at 5%/mo, you top out pretty quickly:
+ولكن نسبة 5% لا تزال مرتفعة للغاية؛ لا توجد طريقة للاستمرار في زيادة اكتساب العملاء الجدد لتجاوز معدل التراجع، لسبب بسيط هو أن "5%/شهرًا" تنمو بشكل متزامن مع حجمك الإجمالي، لكن التسويق والمبيعات لا يستمران في النمو تلقائيًا لمجرد أن شركتك أكبر. لذا، فإن عمليات الإلغاء دائمًا ما تفوز بهذا السباق، وبنسبة 5% شهريًا، فإنك تتصدر القائمة بسرعة كبيرة:
 
 ![Buffer's unit economics; new-MRR naturally tops out, whereas cancellation never stops growing in absolute dollars.](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/buffer-combined-simple.png)
 
-You can see a similar effect at [SparkToro](https://sparktoro.com/), an impressive company that is a testament to founder Rand Fishkin's vision to build a great company instead of a company that attempts to accelerate growth forever; [he explains](https://sparktoro.com/blog/sparktoro-year-3-retrospective-investor-payback-systemic-challenges-and-v2-on-the-way/) how SparkToro generates enviable profit, with happy employees, happy customers, and happy investors. So this isn't an indictment of the company, but it is a demonstration of the growth-destroying power of high cancellation rates:
+يمكنك رؤية تأثير مماثل في [SparkToro](https://sparktoro.com/)، وهي شركة رائعة تمثل شهادة على رؤية المؤسس راند فيشكين لبناء شركة عظيمة بدلاً من شركة تحاول تسريع النمو إلى الأبد؛ [يشرح](https://sparktoro.com/blog/sparktoro-year-3-retrospective-investor-payback-systemic-challenges-and-v2-on-the-way/) كيف تحقق SparkToro أرباحًا تُحسد عليها، مع موظفين سعداء وعملاء سعداء ومستثمرين سعداء. لذا فإن هذا ليس إدانة للشركة، ولكنه دليل على القوة المدمرة للنمو لمعدلات الإلغاء المرتفعة:
 
 ![SparkToro is consistent in adding the same dollars-per-month of new-MRR, but their consistent cancellation rate continues to grow in dollars per month, which means at their current size, cancellation "wins" that race, and growth becomes flat.](https://public.asmartbear.com/books/anthology/chapters/product-market-fit/sparktoro-2023-growth-graph2-gif-simple.png)
 
-**It's not actually about finances; it's the fact that customers are choosing to leave.** The numbers are the objective measure that this is happening, but they're not the point. The point is that customers don't want to stay. That means it's not a fit.
+**الأمر لا يتعلق في الواقع بالأمور المالية؛ إنها حقيقة أن العملاء يختارون المغادرة.** الأرقام هي المقياس الموضوعي لحدوث ذلك، ولكنها ليست النقطة. النقطة المهمة هي أن العملاء لا يريدون البقاء. وهذا يعني أنها ليست مناسبة.
 
-Therefore, both because "lots of customers leaving means it's not a fit" and because high cancellations means the growth curve will quickly flatten, **cancellation higher than 3% for B2B or 5% for B2C indicates a lack of Product/Market Fit**.
+لذلك، نظرًا لأن "مغادرة الكثير من العملاء تعني أن الأمر غير مناسب" ولأن عمليات الإلغاء العالية تعني أن منحنى النمو سوف يتسطح بسرعة، **يشير الإلغاء الأعلى من 3% بالنسبة إلى B2B أو 5% بالنسبة إلى B2C إلى عدم ملاءمة المنتج/السوق**.
 
-Easy inbound growth is indeed a sign of fit, but if customers leave in droves, it means the promise was right, the price was right, but the product didn't deliver, or the customer's need was too brief to sustain a recurring-revenue business.
+إن النمو الداخلي السهل هو في الواقع علامة على التوافق، ولكن إذا غادر العملاء بأعداد كبيرة، فهذا يعني أن الوعد كان صحيحًا، أو أن السعر كان مناسبًا، ولكن المنتج لم يتم تسليمه، أو أن حاجة العميل كانت قصيرة جدًا بحيث لا يمكنها الحفاظ على أعمال ذات إيرادات متكررة.
 
-Some people call this "a fit, but not sustainable" or "a fit, just with limited upside." I call it a lack of fit, because if customers are leaving, it's not a fit.[^4] Don't get distracted by dollars. Pay attention to customer behavior.
+يسمي بعض الناس هذا "مناسبًا، لكنه غير مستدام" أو "مناسبًا، مع جانب إيجابي محدود فقط". أسميها عدم الملائمة، لأنه إذا غادر العملاء، فهذا ليس مناسبًا.[^4] لا تشتت انتباهك بالدولار. انتبه إلى سلوك العملاء.
 
-[^4]: See [this amazing five-minute segment](https://twitter.com/MacBudkowski/status/1723724725392707706) from Twitch founder Michael Seibel, describing how his Socialcam app got 60M downloads in 4 months and ranked among the top 5 on the App Store, yet retention was so horrible (almost zero retained users after 10 days) that despite that inconceivable growth, it was not Product/Market Fit.
+[^4]: شاهد [هذا المقطع المذهل الذي مدته خمس دقائق](https://twitter.com/MacBudkowski/status/1723724725392707706) من مؤسس Twitch، مايكل سيبل، الذي يصف كيف حصل تطبيق Socialcam الخاص به على 60 مليون عملية تنزيل في 4 أشهر وتصنيفه بين أفضل 5 تطبيقات على متجر التطبيقات، ومع ذلك كان معدل الاحتفاظ به فظيعًا للغاية (ما يقرب من صفر من المستخدمين المحتفظين بعد 10 أيام) بالرغم من ذلك نموًا لا يمكن تصوره، ولم يكن مناسبًا للمنتج/السوق.
 
-If your company is growing slowly, that [doesn't mean you failed](https://longform.asmartbear.com/fail/). It just means you haven't hit that success curve yet, and haven't found Product/Market Fit.
+إذا كانت شركتك تنمو ببطء، فهذا [لا يعني أنك فشلت](https://longform.asmartbear.com/fail/). هذا يعني فقط أنك لم تصل إلى منحنى النجاح بعد، ولم تجد المنتج/السوق المناسب.
 
-Maybe you never will, but you'll grind out a profitable company anyway. Maybe you never will, and growth is so slow, it's best to [face facts](https://longform.asmartbear.com/failure-to-face-the-truth/), stop, [figure out why it was too hard](https://longform.asmartbear.com/problem/), and try something else. Or maybe your growth spurt will start today. [It's impossible to know](https://longform.asmartbear.com/chaos-at-start/).
+ربما لن تفعل ذلك أبدًا، لكنك ستنشئ شركة مربحة على أي حال. ربما لن تفعل ذلك أبدًا، والنمو بطيء جدًا، فمن الأفضل [مواجهة الحقائق](https://longform.asmartbear.com/failure-to-face-the-truth/)، والتوقف، [اكتشاف سبب صعوبة الأمر](https://longform.asmartbear.com/problem/)، وتجربة شيء آخر. أو ربما ستبدأ طفرة نموك اليوم. [من المستحيل أن نعرف](https://longform.asmartbear.com/chaos-at-start/).
 
-**Maybe if you [follow my roadmap to Product/Market Fit](https://longform.asmartbear.com/product-market-fit-formula/), which I used to build a unicorn, you will succeed.** Then again, in that same article I explain that my previous startup used only half of those techniques.
+**ربما إذا [اتبعت خريطة الطريق الخاصة بي إلى Product/Market Fit](https://longform.asmartbear.com/product-market-fit-formula/)، والتي استخدمتها لبناء شركة يونيكورن، فسوف تنجح. ** ثم مرة أخرى، في نفس المقالة، أوضحت أن شركتي الناشئة السابقة استخدمت نصف هذه التقنيات فقط.
 
-No one knows; that's life. But now you know what it looks like when it is truly a fit.
+لا أحد يعرف؛ هذه هي الحياة. لكن الآن أنت تعرف كيف يبدو الأمر عندما يكون مناسبًا حقًا.
 
-Or that you still have work to do, if you're not there yet.
+أو أنه لا يزال لديك عمل للقيام به، إذا لم تكن قد وصلت بعد.

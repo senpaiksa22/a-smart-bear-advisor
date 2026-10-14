@@ -20,85 +20,72 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** ما تفعله بك الشركة الناشئة: رحلة التحول الإنساني والريادي تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# What a startup does to you. Or: A celebration of new life
-
-> **Executive Summary:** A startup is a crucible -- a fiery place that tests your limits, not by probing them but by violently exceeding them, all of the time. It's worth it.
-> **Original URL:** [https://longform.asmartbear.com/startup-life/](https://longform.asmartbear.com/startup-life/)
-
-What was *supposed* to happen is that a curious pair of scissors would be offered me, designed for a singular purpose: to sever the life-line of an infant.
+ما كان *من المفترض* أن يحدث هو أنه سيتم تقديم مقص غريب لي، مصمم لغرض واحد: قطع شريان الحياة لطفل رضيع.
 
 ![Umbilical cord scissor](https://longform.asmartbear.com/startup-life/d1e194bc.png)
 
-I would then have to make a choice--a choice already pondered--on whether I had the stomach to take that critical action myself, in a modern existence where even the most precious and basic of life's occurrences might be cause for ill-at-ease at the smell of blood or the realities of birth.
+سيتعين علي بعد ذلك أن أتخذ قرارًا - وهو خيار تم التفكير فيه بالفعل - بشأن ما إذا كانت لدي الجرأة لاتخاذ هذا الإجراء الحاسم بنفسي، في وجود حديث حيث يمكن حتى لأثمن وأبسط أحداث الحياة أن تكون سببًا لعدم الارتياح لرائحة الدم أو حقائق الولادة.
 
-Of course I would do it; I had practiced that desire.
+بالطبع سأفعل ذلك؛ لقد مارست تلك الرغبة.
 
-But I didn't get the chance.
+لكن لم تتح لي الفرصة.
 
-My introduction to my daughter began and ended with a sterile view of a sterile hallway. Mom had been put under and, in the self-styled "1st-world" country of the USA, the male component of the mated pair isn't allowed to accompany the female component in anything termed an "operating room," lest said male faints at said smell of said blood or at sight of said scissors and the hideous yet necessary things done to said female, and who would therefore require medical attention in his own right.
+بدأت معرفتي بابنتي وانتهت بمنظر عقيم لممر معقم. تم وضع الأم تحت الأرض، وفي دولة "العالم الأول" في الولايات المتحدة الأمريكية، لا يُسمح للعنصر الذكري في الزوج المتزاوج بمرافقة العنصر الأنثوي في أي شيء يسمى "غرفة العمليات"، خشية أن يغمى على الذكر المذكور عند رائحة الدم المذكور أو عند رؤية المقص المذكور والأشياء البشعة والضرورية التي يتم القيام بها للأنثى المذكورة، والتي تتطلب بالتالي رعاية طبية في حد ذاتها.
 
-So I sat there, seeing nothing but a beige wall, more helpless than I've ever felt.
+لذلك جلست هناك، ولم أر شيئًا سوى جدار بيج، وكنت عاجزًا أكثر مما شعرت به من قبل.
 
-Mom was interred in the first place because that cord had wrapped around Abby's neck causing an erratic heartbeat. Off she had been rushed in a cloud of enscrubbed personnel. Off I had rushed after them, but been planted in a chair, all events invisible and out of reach.
+تم دفن أمي في المقام الأول لأن هذا الحبل كان يلتف حول رقبة آبي مما تسبب في عدم انتظام ضربات القلب. تم نقلها بسرعة وسط سحابة من الأفراد المختبئين. لقد اندفعت خلفهم، ولكنني كنت جالسًا على كرسي، وكل الأحداث غير مرئية وبعيدة المنال.
 
-Then I heard the cry. Abby's first breath. A new life. And I wept.
+ثم سمعت البكاء. آبي النفس الأول. حياة جديدة. وبكيت.
 
-Minutes later I was bathing our new girl.
+وبعد دقائق كنت أحمم فتاتنا الجديدة.
 
-Later came something even more miraculous than birth--they let two obvious amateurs take this infant home. Without so much as a pop quiz.
+وفي وقت لاحق جاء شيء أكثر إعجازًا من الولادة، فقد سمحوا لاثنين من الهواة بأخذ هذا الرضيع إلى المنزل. دون الكثير مثل مسابقة البوب.
 
-We didn't know what to do next, but it turns out not to matter as much as you'd think.
+لم نكن نعرف ما يجب فعله بعد ذلك، ولكن اتضح أن الأمر لا يهم بقدر ما تظن.
 
-"Abigail" is Hebrew for "Father's Joy."  (אביגיל)
+"أبيجيل" هي كلمة عبرية تعني "فرحة الأب".  (أبيجيل)
 
-People compare building startups with having children. Could that be right?
+يقارن الناس بناء الشركات الناشئة مع إنجاب الأطفال. هل يمكن أن يكون هذا صحيحا؟
 
-Both spend the first two years of life trying to kill themselves, while you frantically run around doing everything possible to prevent it.
+يقضي كلاهما أول عامين من الحياة في محاولة لقتل نفسيهما، بينما تتجول أنت بشكل محموم وتفعل كل ما هو ممكن لمنع ذلك.
 
-Both are a combination of your own creation and their own direction. They're malleable in certain ways and stubborn in others.  Every one is different, even when created by the same parents. Each needs the freedom to find their own way, even if aided and shaped by loving guides. They go through macro-level stages which are predictable and obvious to those who have trod the path before, but also micro-level stages unique to each creation.
+كلاهما مزيج من إبداعك واتجاهك الخاص. إنهم مرنون في بعض النواحي وعنيدون في طرق أخرى.  كل شخص مختلف عن الآخر، حتى عندما يتم إنشاؤه بواسطة نفس الوالدين. يحتاج كل منهم إلى الحرية في العثور على طريقه الخاص، حتى لو ساعده وشكله مرشدون محبون. إنهم يمرون بمراحل على المستوى الكلي يمكن التنبؤ بها وواضحة لأولئك الذين سلكوا المسار من قبل، ولكن أيضًا مراحل على المستوى الجزئي فريدة لكل إبداع.
 
-How much time do they take? All of it.
+كم من الوقت يستغرقون؟ كل ذلك.
 
-How much patience do they take? All of it.
+ما مدى صبرهم؟ كل ذلك.
 
-Of course they're not actually that similar, humans just like to draw comparisons. After all, a kid will grow up pretty much no matter what; a startup usually dies regardless of and often due to the actions of the founders, for [myriad reasons](https://longform.asmartbear.com/problem/).
+بالطبع ليسوا متشابهين في الواقع، البشر يحبون فقط إجراء المقارنات. بعد كل شيء، سوف يكبر الطفل كثيرًا مهما حدث؛ عادةً ما تموت الشركة الناشئة بغض النظر عن تصرفات المؤسسين وفي كثير من الأحيان بسببها، [لأسباب لا تعد ولا تحصى](https://longform.asmartbear.com/problem/).
 
-I think drawing comparisons is not only unnecessary but useless. Even supposing these two endeavors were similar.... so what?  What would you do differently tomorrow?
+أعتقد أن إجراء المقارنات ليس فقط غير ضروري ولكنه عديم الفائدة. حتى لو افترضنا أن هذين المسعىين كانا متشابهين.... فماذا في ذلك؟  ماذا ستفعل بشكل مختلف غدا؟
 
-But one thing both share is not only important, it's one of those things in life which alters your being in a way that can never be undone, forever changing who you are and how you interact with the world.
+لكن هناك شيء واحد مشترك ليس مهمًا فحسب، بل إنه أحد الأشياء في الحياة التي تغير كيانك بطريقة لا يمكن التراجع عنها أبدًا، وتغير هويتك إلى الأبد وكيفية تفاعلك مع العالم.
 
-**Both are a crucible.**
+**كلاهما بوتقة.**
 
-Meaning, a fiery place that will test your limits, not by probing them but by violently exceeding them, all of the time. A newborn feeds every three hours and one like ours takes an hour to fall asleep between those hours. Ours had colic, in which means she screamed for 12 hours a day, every day, for three months. Try doing that while retaining your sanity.
+بمعنى، مكان ناري سيختبر حدودك، ليس عن طريق اختبارها ولكن عن طريق تجاوزها بعنف، طوال الوقت. يرضع الطفل حديث الولادة كل ثلاث ساعات، ويحتاج طفل مثلنا إلى ساعة لينام بين تلك الساعات. كانت طفلتنا تعاني من المغص، مما يعني أنها كانت تصرخ لمدة 12 ساعة يوميًا، كل يوم، لمدة ثلاثة أشهر. حاول القيام بذلك مع الحفاظ على عقلك.
 
-I distinctly remember holding Abby out at arms length, thinking, "This is why they say 'Don't shake a baby.'" Until that moment I thought that Public Service Announcement was hilarious--who would throttle an innocent 7-pound newborn? Oh, it's me. I would have.
+أتذكر بوضوح أنني كنت أحمل آبي على مسافة ذراعي، وأفكر، "هذا هو السبب في أنهم يقولون "لا تهز طفلاً". حتى تلك اللحظة اعتقدت أن إعلان الخدمة العامة كان مضحكًا - من سيخنق طفلًا بريئًا يبلغ وزنه 7 أرطال؟ أوه، هذا أنا. كنت أود أن.
 
-There's only a few times in my life where I've been taken to the brink, physically and mentally. Aside from Abby's colic, all of them have been in startups. You've already read pithy Tweets about the "roller coaster o' emotions," you've wondered whether you have the fortitude to quit your job, and you've read books like The Dip[^1].
+لم يكن هناك سوى مرات قليلة في حياتي حيث تم نقلي إلى حافة الهاوية، جسديًا وعقليًا. باستثناء مغص آبي، جميعهم كانوا في شركات ناشئة. لقد قرأت بالفعل تغريدات بليغة حول "العواطف المتقلبة"، وتساءلت عما إذا كان لديك الشجاعة لترك وظيفتك، وقرأت كتبًا مثل The Dip[^1].
 
-[^1]:  Know when to quit so you don't waste your time, but don't quit when it's hard because winners push through the pain.
+[^1]: اعرف متى تنسحب حتى لا تضيع وقتك، لكن لا تنسحب عندما يكون الأمر صعبًا لأن الفائزين يتغلبون على الألم.
 
-You've read the words, now you see that they're only words. Words that don't help much, not really. *You* have to *live* it.
+لقد قرأت الكلمات، والآن ترى أنها مجرد كلمات. الكلمات التي لا تساعد كثيرا، ليس حقا. *عليك* أن تعيشها.
 
-Just like having kids, you won't understand until you do it.  But if you do it, even if you "[fail](https://longform.asmartbear.com/fail/)," you will come out stronger than you could have ever been without it. Stronger, wiser, ready for the next thing, never able to go back to being a cog, eyes opened.
+تمامًا مثل إنجاب الأطفال، لن تفهم الأمر حتى تفعله.  ولكن إذا قمت بذلك، حتى لو "[فشلت](https://longform.asmartbear.com/fail/)،" فسوف تخرج أقوى مما كان يمكن أن تكون عليه بدونه. أقوى، وأكثر حكمة، ومستعدًا للشيء التالي، وغير قادر أبدًا على العودة إلى كونه ترسًا، وعيناه مفتوحتان.
 
-I've never met a person who tried a startup, failed, and said they wouldn't have done it all over again. Never. What does that mean?
+لم أقابل أبدًا شخصًا حاول إنشاء شركة ناشئة، ثم فشل، وقال إنه لن يفعل ذلك مرة أخرى. أبداً. ماذا يعني ذلك؟
 
-We didn't kill her, by the way. And so (like a startup) although each day can feel like an interminable mixture of necessary drudgery and constant invention. Like sitting up, and walking, and on and on, all boring and inevitable and yet precious and impossible.
+بالمناسبة، نحن لم نقتلها. وهكذا (مثل شركة ناشئة) على الرغم من أن كل يوم يمكن أن يبدو وكأنه مزيج لا نهاية له من الكدح الضروري والاختراع المستمر. مثل الجلوس والمشي وما إلى ذلك، كل هذا ممل ولا مفر منه ولكنه ثمين ومستحيل.
 
-And eventually they don't need you anymore, or so they claim. Maybe they're even right.
+وفي النهاية لم يعودوا بحاجة إليك، أو هكذا يزعمون. ربما هم على حق.
 
-What's your crucible?  Where's your child-like combination of wonder and determination, and the thing that is so difficult, you're sure you can't do it, and yet, you do it?
+ما هي بوتقة الخاص بك؟  أين مزيجك الطفولي من العجب والإصرار، والشيء الصعب جدًا، الذي تكون متأكدًا من أنك لن تستطيع فعله، ومع ذلك، تفعله؟
 
-Because that's how you really live a life, instead of watching life elapse.
+لأن هذه هي الطريقة التي تعيش بها حياتك حقًا، بدلاً من مشاهدة الحياة وهي تنقضي.
 
-> "Awake my little ones, and fill the cup,
-before life's liquor in its cup be dry."
-> Omar Khayyám
+> "استيقظوا يا صغاري واملأوا الكأس،
+قبل أن يجف شراب الحياة في كأسها."
+> عمر الخيام

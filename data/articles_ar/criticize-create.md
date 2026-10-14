@@ -20,63 +20,50 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** النقد سهل ورخيص، بينما البناء والخلق هو التحدي الحقيقي تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Easy to criticize, hard to create
-
-> **Executive Summary:** It's easy to explain why any given business will fail. So what? But neither is it wise to totally ignore the critics.
-> **Original URL:** [https://longform.asmartbear.com/criticize-create/](https://longform.asmartbear.com/criticize-create/)
-
 ![Cartoon 379eb7c6](https://longform.asmartbear.com/criticize-create/fb8dfbda.png)
 
- 
-I can rip any business idea to shreds.
 
-Take Netflix[^1]: The costs of inventory logistics, millions of non-technical customers, the Postal Service, and loss from wear and delivery will make profit impossible if you keep retail prices reasonable. Movie-watchers are accustomed to the immediate gratification of browsing and selecting. People will duplicate movies, pissing off the publishers. Blockbuster will duplicate the model and undercut the price, combining the convenience of home delivery with the equally convenient option of store browsing and returns.
+يمكنني تمزيق أي فكرة عمل إلى أشلاء.
 
-[^1]:  _Editor's Note:_ This was written in 2011, before Netflix pivoted to streaming.
+لنأخذ على سبيل المثال Netflix[^1]: إن تكاليف الخدمات اللوجستية للمخزون، وملايين العملاء غير التقنيين، وخدمة البريد، والخسارة الناجمة عن التآكل والتسليم، ستجعل الربح مستحيلاً إذا حافظت على أسعار التجزئة معقولة. لقد اعتاد مراقبو الأفلام على الإشباع الفوري بالتصفح والاختيار. سوف يقوم الناس بنسخ الأفلام، مما يثير غضب الناشرين. ستقوم Blockbuster بتكرار النموذج وتخفيض السعر، والجمع بين راحة التوصيل إلى المنزل مع خيار تصفح المتجر والإرجاع المناسب بنفس القدر.
 
-Terrible idea that could never work. Except that now Blockbuster (who did copy it) is bankrupt and Netflix turned a profit of $60m last *quarter*, which is more than Blockbuster was doing at its peak.
+[^1]: _ملاحظة المحرر:_ تمت كتابة هذا في عام 2011، قبل أن تتحول Netflix إلى البث المباشر.
 
-I suppose if your goal in life is to be *right*, you should bet against every startup, certainly against any novel ideas. You'll be right much more often than wrong.
+فكرة رهيبة لا يمكن أن تنجح أبدًا. باستثناء أن شركة Blockbuster (التي قامت بنسخها) أصبحت الآن مفلسة وحققت Netflix أرباحًا قدرها 60 مليون دولار في الربع الأخير*، وهو أكثر مما حققته شركة Blockbuster في ذروتها.
 
-Right, but useless. Right, but ensuring that nothing new or great will be created. We can even [show mathematically why this is flawed](https://longform.asmartbear.com/forecast/), but you don't need math to know that this isn't a useful way to live.
+أفترض أنه إذا كان هدفك في الحياة هو أن تكون *صحيحًا*، فيجب أن تراهن ضد كل شركة ناشئة، وبالتأكيد ضد أي أفكار جديدة. سوف تكون على حق في كثير من الأحيان أكثر بكثير من الخطأ.
 
-**The goal of the entrepreneur is not to be "right."** At least, not right about everything, all the time, from the very start.
+صحيح، ولكن عديمة الفائدة. صحيح، ولكن مع ضمان عدم خلق أي شيء جديد أو عظيم. يمكننا أيضًا [إظهار سبب الخلل رياضيًا](https://longform.asmartbear.com/forecast/)، لكنك لا تحتاج إلى الرياضيات لتعرف أن هذه ليست طريقة مفيدة للعيش.
 
-It's to construct with humility. To have strong opinions but seek better ones. To infect customers and employees with your peculiar disease. To live to fight another day. To acknowledge being wrong before the fault turns fatal.
+**هدف رائد الأعمال ليس أن يكون "على حق".** على الأقل، ليس على حق في كل شيء، طوال الوقت، منذ البداية.
 
-**To realize that even if a particular venture is a "[failure](https://longform.asmartbear.com/fail/)," it never really is.** I've never met a "failed" entrepreneur who doesn't proudly declare they're better off now: developed skills they never thought possible, learned what makes them excited to get up in the morning, came face-to-face with their fundamental limitations, and now more confident than ever in what they *are* capable of, regardless of the future shape of their career.
+إنه البناء بالتواضع. أن يكون لديك آراء قوية ولكن تسعى إلى آراء أفضل. لإصابة العملاء والموظفين بمرضك الغريب. للعيش للقتال في يوم آخر. الاعتراف بالخطأ قبل أن يصبح الخطأ قاتلاً.
 
-The Lean Startup movement[^2] also **values learning and experience over "being right,"** specifically casting this concept as "running experiments." And the great Francis Crick (Nobel-winner for discovery of DNA) posthumously agrees with that analogy:
+**لإدراك أنه حتى لو كان مشروع معين "[فاشلًا](https://longform.asmartbear.com/fail/)،" فهو ليس كذلك حقًا.** لم أقابل أبدًا رائد أعمال "فاشل" لا يعلن بفخر أنه أفضل حالًا الآن: لقد طور مهارات لم يعتقدوا أنها ممكنة أبدًا، وتعلموا ما يجعلهم متحمسين للاستيقاظ في الصباح، وواجهوا قيودهم الأساسية وجهًا لوجه، وأصبحوا الآن أكثر ثقة من أي وقت مضى فيما *قادرون* على القيام به، بغض النظر عن الشكل المستقبلي لمسيرتهم المهنية.
 
-[^2]:  _Editor's Note:_ The _Lean Startup_ book was published in the same year as this article.
+كما أن حركة Lean Startup[^2] **تقدّر التعلم والخبرة أكثر من "أن تكون على حق"،** وتصور هذا المفهوم على وجه التحديد على أنه "إجراء التجارب". وقد وافق فرانسيس كريك العظيم (الحائز على جائزة نوبل لاكتشافه الحمض النووي) بعد وفاته على هذا التشبيه:
 
-> "The dangerous man is the one who has only one idea, because then he'll fight and die for it. The way real science goes is that you come up with lots of ideas, and most of them will be wrong."
-> Francis Crick
+[^2]: _ملاحظة المحرر: _ تم نشر كتاب _Lean Startup_ في نفس عام نشر هذا المقال.
 
-Real science is mostly being wrong, but staying vigilant and honest enough to continue being wrong until you're not wrong. So it is with dating. Or startups.
+> "الرجل الخطير هو الذي لديه فكرة واحدة فقط، لأنه حينها سوف يقاتل ويموت من أجلها. الطريقة التي يسير بها العلم الحقيقي هي أن تتوصل إلى الكثير من الأفكار، ومعظمها سيكون خاطئا."
+> فرانسيس كريك
 
-The problem with armchair criticism is it's so easy. Of course it's easy.
+العلم الحقيقي هو في الغالب أن تكون مخطئًا، ولكن كن يقظًا وصادقًا بما يكفي للاستمرار في الخطأ حتى لا تصبح مخطئًا. هذا هو الحال مع المواعدة. أو الشركات الناشئة.
 
-Designers want to be "right," but have to [temper that with analytics](https://longform.asmartbear.com/design/). The true masters are those who embrace metrics as an incontrovertible goal while also being creative enough to retain the aesthetics, creativity, and philosophy which makes their craft an art.
+مشكلة انتقادات الكراسي هي أنها سهلة للغاية. بالطبع الأمر سهل.
 
-Programmers want to be "right," but have to temper that with getting things built and shipped, even before it's ready, even with bugs, willing to build [what customers actually want](https://longform.asmartbear.com/customer-development/), and indeed [features customers truly love](https://longform.asmartbear.com/willingness-to-pay/) instead of rationally calculated.
+يريد المصممون أن يكونوا "على حق"، ولكن عليهم [تعديل ذلك باستخدام التحليلات](https://longform.asmartbear.com/design/). الأساتذة الحقيقيون هم أولئك الذين يتبنون المقاييس كهدف لا يقبل الجدل بينما يكونون أيضًا مبدعين بما يكفي للاحتفاظ بالجماليات والإبداع والفلسفة التي تجعل من حرفتهم فنًا.
 
-Backseat advisors and pundits (like me) want to be "right," but have to temper that with the more important goal of inspiring people to be a [better version of themselves](https://longform.asmartbear.com/bad-advice/) instead of indoctrinating them with our own biases and experiences that contain [unknown quantities of luck](https://longform.asmartbear.com/survivor-bias/).
+يريد المبرمجون أن يكونوا "على حق"، ولكن عليهم أن يخففوا من ذلك من خلال بناء الأشياء وشحنها، حتى قبل أن تصبح جاهزة، حتى مع وجود أخطاء، وعلى استعداد لبناء [ما يريده العملاء بالفعل](https://longform.asmartbear.com/customer-development/)، وفي الواقع [الميزات التي يحبها العملاء حقًا](https://longform.asmartbear.com/willingness-to-pay/) بدلاً من حسابها بشكل عقلاني.
 
-As a founder, **you still need to listen to critics with half an ear.** Sometimes you _have_ been blind, and they're showing you the truth. I resist opposition to my ideas, more than I know I should. **I still hate being wrong.**
+يريد المستشارون والنقاد في المقعد الخلفي (مثلي) أن يكونوا "على حق"، ولكن عليهم التخفيف من ذلك من خلال الهدف الأكثر أهمية المتمثل في إلهام الأشخاص ليكونوا [نسخة أفضل من أنفسهم](https://longform.asmartbear.com/bad-advice/) بدلاً من تلقينهم بتحيزاتنا وتجاربنا التي تحتوي على [كميات غير معروفة من الحظ](https://longform.asmartbear.com/survivor-bias/).
 
-But it has to be possible to be able negate you, otherwise you are certainly [pig-headed](https://longform.asmartbear.com/perseverance/). As the founder of [WP Engine](http://wpengine.com/?a_aid=asmartbear) I feel that most days are filled with more [contradictions](https://longform.asmartbear.com/conflicting-choices/) than construction--balancing customer needs with internal costs, following our nose against what [competitors are doing or saying](https://longform.asmartbear.com/talk-vs-walk/) versus staying true to our "vision" while also flexing as we learn what the market wants and even what we want for ourselves.
+كمؤسس، **لا تزال بحاجة إلى الاستماع إلى النقاد بنصف أذن.** في بعض الأحيان كنت أعمى، وهم يظهرون لك الحقيقة. أنا أقاوم المعارضة لأفكاري، أكثر مما أعلم أنه ينبغي عليّ ذلك. **ما زلت أكره أن أكون مخطئًا.**
 
-It's easy to criticize but it's **just as easy for you to dismiss criticism without consideration.** That's equally hazardous.
+ولكن يجب أن تكون قادرًا على إبطالك، وإلا فأنت بالتأكيد [رأس خنزير](https://longform.asmartbear.com/perseverance/). بصفتي مؤسس [WP Engine](http://wpengine.com/?a_aid=asmartbear) أشعر أن معظم الأيام مليئة [بالتناقضات](https://longform.asmartbear.com/conflicting-choices/) أكثر من البناء - موازنة احتياجات العملاء مع التكاليف الداخلية، ومراقبة ما يفعله [المنافسون أو ما يفعله] القول](https://longform.asmartbear.com/talk-vs-walk/) مقابل البقاء صادقين مع "رؤيتنا" مع الاستعراض أيضًا عندما نتعلم ما يريده السوق وحتى ما نريده لأنفسنا.
 
-Whenever you get the criticism ask: Does it sting exactly because there's an [element of truth that I don't want to face](https://longform.asmartbear.com/failure-to-face-the-truth/)?
+من السهل الانتقاد ولكن من السهل عليك أيضًا رفض الانتقاد دون اعتبار.** وهذا أمر خطير أيضًا.
 
-Ignore the messenger, ignore the emotion, and see whether it's a gift of truth, poorly wrapped.
+كلما تلقيت النقد اسأل: هل هذا مؤلم بالضبط لأن هناك [عنصر الحقيقة الذي لا أريد مواجهته](https://longform.asmartbear.com/failure-to-face-the-truth/)؟
+
+تجاهل الرسول، وتجاهل العاطفة، وانظر ما إذا كانت هدية الحقيقة، مغلفة بشكل سيء.

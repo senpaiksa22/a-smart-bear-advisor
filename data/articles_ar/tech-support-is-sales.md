@@ -20,102 +20,89 @@ summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية ن
 
 ---
 
-### المحاور والأفكار الجوهرية للمقال:
-1. **الفكرة الأساسية:** الدعم الفني هو جوهر عملية المبيعات وبناء الولاء تمثل إحدى الركائز الفكرية التي يركز عليها جيسون كوهين في بناء الشركات التقنية المستدامة.
-2. **الواقع العملي:** تجنب الأخطاء الشائعة والقرارات العاطفية المتسرعة، والاعتماد على مقاييس دقيقة تفصل بين الضجيج والحقيقة الميدانية.
-3. **التوصية الاستشارية:** إذا كنت تواجه هذا التحدي في شركتك، يمكنك استشارة جيسون كوهين عبر نافذة الشات الذكي لتطبيق هذه المبادئ على نموذج عملك الخاص.
-
----
-
-### النص المرجعي للمقال (Original Reference):
-# Tech Support is sales
-
-> **Executive Summary:** Tech support isn't just troubleshooting; it's the face of your company.  Which means it's your brand, your positioning, and when it's excellent, it is sales.
-> **Original URL:** [https://longform.asmartbear.com/tech-support-is-sales/](https://longform.asmartbear.com/tech-support-is-sales/)
-
 ![David Beckham](https://public.asmartbear.com/books/anthology/chapters/tech-support-is-sales/david-beckham-shirtless-simple.png)
 
-You probably think of "tech support" as the bottom of the food chain. "Shit flows downhill" and all that. After all:
+ربما تفكر في "الدعم الفني" باعتباره الجزء السفلي من السلسلة الغذائية. "القرف يتدفق إلى أسفل" وكل ذلك. بعد كل شيء:
 
-* Tech support deals with insane customers.
-* Tech support answers the phone; a job even sales people don't want.
-* Tech support keeps angry customers at bay while having no power to effect change.
+* يتعامل الدعم الفني مع العملاء المجانين.
+* الدعم الفني يجيب على الهاتف؛ وظيفة حتى مندوبي المبيعات لا يريدونها.
+* يعمل الدعم الفني على إبعاد العملاء الغاضبين بينما لا يملك القدرة على إحداث التغيير.
 
-Yep, that sounds lowly. Dismal too--how would you like to deal with an irate voice screaming at you when you *know* how to fix the problem but lack the authority to do it? This is a masochistic job for a poor slob with no other job prospects, right?
+نعم، هذا يبدو متواضعا. كئيب أيضًا - كيف ترغب في التعامل مع صوت غاضب يصرخ عليك عندما *تعرف* كيفية حل المشكلة ولكنك تفتقر إلى السلطة للقيام بذلك؟ هذه وظيفة ماسوشية لشخص فقير ليس لديه أي فرص عمل أخرى، أليس كذلك؟
 
-**If this is your attitude, your conception of tech support is completely backwards** and you're missing out on important channels for marketing, product development, and sales.
+**إذا كان هذا هو موقفك، فإن مفهومك للدعم الفني هو مفهوم عكسي تمامًا** وستفقد قنوات مهمة للتسويق وتطوير المنتجات والمبيعات.
 
-## The face of your company
+## وجه شركتك
 
-We've all been jarred by someone's voice not matching their picture. Take English footballer David Beckham, the quintessential picture of manly sportif--washboard abs, ex-captain of the English national team, and married to Posh Spice.
+لقد انزعجنا جميعًا من صوت شخص ما لا يتطابق مع صورته. لنأخذ على سبيل المثال لاعب كرة القدم الإنجليزي ديفيد بيكهام، الصورة المثالية لعضلات البطن الرجولية، والقائد السابق للمنتخب الإنجليزي، والمتزوج من بوش سبايس.
 
-But then he opens his mouth. It's like Kermit the Frog got kicked in the balls. (Oh, sorry UK folks, I meant kicked in the *bollocks*.) It's so unexpected it's the only thing you remember. Of the 3,204,523 pub conversations where someone said "Have you heard him *speak*?" maybe only 17 could tell you what he actually *said*.
+ولكن بعد ذلك يفتح فمه. يبدو الأمر كما لو أن الضفدع كيرميت قد تعرض للركل في الكرات. (أوه، آسف يا رفاق المملكة المتحدة، كنت أقصد الركل في *الخصيتين*.) إنه أمر غير متوقع للغاية، وهو الشيء الوحيد الذي تتذكره. من بين 3,204,523 محادثة في الحانة حيث قال أحدهم "هل سمعته *يتكلم*؟" ربما 17 فقط يمكنهم إخبارك بما قاله بالفعل.
 
-You assume your home page is the public face of your company, but what happens when you open your mouth? What happens when your [bullet points collide with your behavior](https://longform.asmartbear.com/show-dont-tell/)?
+أنت تفترض أن صفحتك الرئيسية هي الوجه العام لشركتك، ولكن ماذا يحدث عندما تفتح فمك؟ ماذا يحدث عندما تتعارض [النقاط النقطية مع سلوكك](https://longform.asmartbear.com/show-dont-tell/)؟
 
-For most of your customers, **tech support is the only human interaction they'll have with you.** Are you really going to leave that up to your worst-treated, least-paid, least-qualified employees?
+بالنسبة لمعظم عملائك، **الدعم الفني هو التفاعل البشري الوحيد الذي سيقدمونه معك.** هل ستترك ذلك حقًا لموظفيك الذين يتلقون أسوأ معاملة، والأقل أجرًا، والأقل تأهيلًا؟
 
-## Tech support *is* sales
+## الدعم الفني *هو* المبيعات
 
-At Smart Bear we made millions of dollars in both individual and enterprise sales without "sales."
+لقد حققنا في Smart Bear ملايين الدولارات من مبيعات الأفراد والشركات بدون "مبيعات".
 
-Well, at least without the usual definition of "sales"--a collection of processes, personalities, and management single-mindedly focused on hauling in revenue on a quarterly schedule.
+حسنًا، على الأقل بدون التعريف المعتاد لـ "المبيعات" - مجموعة من العمليات والشخصيات والإدارة التي تركز بشكل فردي على تحصيل الإيرادات وفقًا لجدول ربع سنوي.
 
-How did we get six-figure deals without playing golf or using Salesforce? Simple: Our tech support *was* sales.
+كيف حصلنا على صفقات مكونة من ستة أرقام دون لعب الجولف أو استخدام Salesforce؟ بسيط: دعمنا الفني كان عبارة عن مبيعات.
 
-You could say the purpose of tech support is to answer questions or to unstick people who are confused, but I say **the purpose of tech support is to make your customers fantastic at their jobs**, which happen to involve your product. (Yes, I'm flagrantly paraphrasing the legendary Kathy Sierra, but the idea applies as much to tech support as to product development.)
+يمكنك القول إن الغرض من الدعم الفني هو الإجابة على الأسئلة أو إبعاد الأشخاص المرتبكين، لكنني أقول **الغرض من الدعم الفني هو جعل عملائك رائعين في وظائفهم**، وهو ما يحدث فيما يتعلق بمنتجك. (نعم، أنا أعيد صياغة كلام كاثي سييرا الأسطوري بشكل صارخ، لكن الفكرة تنطبق على الدعم الفني بقدر ما تنطبق على تطوير المنتجات.)
 
-So this means you don't just help them locate a command in the menubar, you find out what they're trying to accomplish and help them do *that*. You don't just explain a feature but help them use the result to impress their boss. You don't just apologize because you don't have the feature they want, you help them work around it and be successful anyway. You know your product and problem-space better than your customers, so it's not that hard to make them far more successful than they would be stumbling around without calling tech support.
+وهذا يعني أنك لا تساعدهم فقط في تحديد موقع أمر ما في شريط القائمة، بل تكتشف ما يحاولون تحقيقه وتساعدهم على القيام بذلك. أنت لا تشرح ميزة ما فحسب، بل تساعدهم على استخدام النتيجة لإبهار رئيسهم. أنت لا تعتذر فقط لأنك لا تملك الميزة التي يريدونها، بل تساعدهم على التغلب على هذه المشكلة وتحقيق النجاح على أي حال. أنت تعرف منتجك ومساحة المشكلة بشكل أفضل من عملائك، لذلك ليس من الصعب أن تجعلهم أكثر نجاحًا بكثير مما قد يتعثرون فيه دون الاتصال بالدعم الفني.
 
-**Enabling your customers** isn't just about your *product*, but rather your *entire company*. Make your customer awesome and she'll give you money so she can keep being awesome.
+**لا يقتصر تمكين عملائك** على *منتجك* فحسب، بل على *شركتك بأكملها*. اجعل عميلك رائعًا وسيعطيك المال حتى يظل رائعًا.
 
-That's sales.
+هذه مبيعات.
 
-## A pleasant surprise
+## مفاجأة سارة
 
-Everyone's stereotype of tech support is negative. Oh the tales:
+الصورة النمطية للدعم الفني لدى الجميع سلبية. يا الحكايات:
 
-* Ask tech support how to change the font and they'll tell you to reboot your laptop.
-* Ask tech support to change your billing address and they up-sell you on three things you don't want.
-* Calling tech support requires a GPS to navigate the labyrinth of menu options (which may have changed), wait-queues, and typing in your account number 3 times "for security purposes," as if someone who stole your account number is incapable of typing it more than once.
+* اسأل الدعم الفني عن كيفية تغيير الخط وسيطلبون منك إعادة تشغيل الكمبيوتر المحمول الخاص بك.
+* اطلب من الدعم الفني تغيير عنوان إرسال الفواتير الخاص بك وسيقومون ببيعك لثلاثة أشياء لا تريدها.
+* يتطلب الاتصال بالدعم الفني نظام تحديد المواقع العالمي (GPS) للتنقل في متاهة خيارات القائمة (التي ربما تكون قد تغيرت)، وطوابير الانتظار، وكتابة رقم حسابك 3 مرات "لأغراض أمنية"، كما لو كان الشخص الذي سرق رقم حسابك غير قادر على كتابته أكثر من مرة.
 
 ![so as you can see customer satisfaction up considerably since phasing out complaint forms](https://public.asmartbear.com/books/anthology/chapters/tech-support-is-sales/d0512print-simple.png)
 
-When your customers expect a turd sandwich and you deliver a turkey club with chipotle aioli, you earn major bonus points, like users twittering about your service, people [switching to your service](https://twitter.com/einmaleins/statuses/11901946023) because of tech support, or customers not only following your Tweets but instructing *their* followers to [do the same](https://twitter.com/DishNetwork/statuses/11906944368).
+عندما يتوقع عملاؤك شطيرة غائط وتقوم بتوصيل ديك رومي مع شيبوتل أيولي، فإنك تكسب نقاطًا إضافية كبيرة، مثل قيام المستخدمين بالتغريد عن خدمتك، أو الأشخاص [التحول إلى خدمتك](https://twitter.com/einmaleins/statuses/11901946023) بسبب الدعم الفني، أو العملاء الذين لا يتابعون تغريداتك فحسب، بل يوجهون *متابعيهم* إلى [القيام بما يلي] نفس](https://twitter.com/DishNetwork/statuses/11906944368).
 
-Oh look! Apparently tech support is a better "social media outreach" program than hiring interns to spray comments on random blogs. Are you surprised?
+اوه انظر! من الواضح أن الدعم الفني هو برنامج "للتواصل عبر وسائل التواصل الاجتماعي" أفضل من توظيف المتدربين لرش التعليقات على المدونات العشوائية. هل أنت متفاجئ؟
 
-They say "under-promise, over-deliver," and tech support has "under-promise" built in! Sure super-fantastic tech support is best, but even if you merely act like a human being you're already ahead. If you just answer email with a non-automated response you're killing it.
+يقولون "نقص الوعود، الإفراط في التسليم"، والدعم الفني يحتوي على "نقص الوعود"! من المؤكد أن الدعم الفني الرائع هو الأفضل، ولكن حتى لو كنت تتصرف كإنسان فقط، فأنت في المقدمة بالفعل. إذا قمت فقط بالرد على البريد الإلكتروني برد غير تلقائي، فإنك تقتله.
 
-**Why pass up such an easy opportunity to thrill a customer?** Isn't "a pleasant surprise" too rare in business, and don't you want to be known as the company where it happens every day?
+**لماذا تفوت مثل هذه الفرصة السهلة لإثارة إعجاب العميل؟** أليست "المفاجأة السارة" نادرة جدًا في العمل، ألا تريد أن تُعرف باسم الشركة التي تحدث فيها هذه المفاجأة كل يوم؟
 
-## The closest thing to getting "outside the building" while staying inside the building
+## أقرب شيء للخروج "خارج المبنى" أثناء الإقامة داخل المبنى
 
-The internet is abuzz with Steve Blank's phrase that everything you need to know about your customers is "[outside the building](https://steveblank.com/2010/03/11/teaching-entrepreneurship-%E2%80%93-by-getting-out-of-the-building/)," meaning that real customer development means talking to folks face to face, seeing their problems in the wild, and watching their faces react to your pitch, not brainstorming around a whiteboard and twiddling the font size in your PowerPoints. And I agree!
+يعج الإنترنت بعبارة ستيف بلانك بأن كل ما تحتاج إلى معرفته عن عملائك هو "[خارج المبنى](https://steveblank.com/2010/03/11/teaching-entrepreneurship-%E2%80%93-by-getting-out-of-the-building/)،" مما يعني أن تطوير العملاء الحقيقي يعني التحدث إلى الأشخاص وجهًا لوجه، ورؤية مشاكلهم في البرية، ومشاهدة وجوههم تتفاعل مع عملك. العرض التقديمي، وليس تبادل الأفكار حول السبورة البيضاء والتلاعب بحجم الخط في برنامج PowerPoint الخاص بك. وأنا أوافق!
 
-Still, for the [Work-a-preneur﻿](https://longform.asmartbear.com/working-startup/) or the bootstrapper with no travel budget it's hard to get outside the building. Yes you should try as much as you can--it's worth it--but what about the other 94% of the time that you're at your desk, by which I mean the coffee shop table closest to the power outlet that isn't loose?
+ومع ذلك، بالنسبة إلى [Work-a-preneur﻿](https://longform.asmartbear.com/working-startup/) أو المبتدئين الذين ليس لديهم ميزانية سفر، فمن الصعب الخروج من المبنى. نعم، يجب أن تحاول قدر المستطاع - الأمر يستحق ذلك - ولكن ماذا عن الـ 94% الأخرى من الوقت الذي تقضيه في مكتبك، وأعني بذلك طاولة المقهى الأقرب إلى مقبس الطاقة والتي ليست فضفاضة؟
 
-Tech support is the next-best thing. Tech support is where people complain about what's not working, what's missing, and what's confusing. But it's not enough to just catalog problems!
+الدعم الفني هو ثاني أفضل شيء. الدعم الفني هو المكان الذي يشتكي فيه الأشخاص مما لا يعمل، وما هو مفقود، وما هو مربك. ولكن لا يكفي مجرد تصنيف المشاكل!
 
-The insights lurk in the meta-questions. If someone's confused, for example, the immediate task is to set them straight, but there's valuable product development to be had:
+الأفكار كامنة في الأسئلة الفوقية. إذا كان شخص ما مرتبكًا، على سبيل المثال، فإن المهمة المباشرة هي تصحيحه، ولكن هناك تطويرًا قيمًا للمنتج يجب القيام به:
 
-* What caused the confusion in the first place?
-* Is [my customer's world-view](https://longform.asmartbear.com/customer-development/) different from mine?
-* Is our terminology wrong?
-* Are we using the wrong metaphors?
-* Do I need to optimize the new-user experience instead of the expert-user experience?
+* ما سبب الارتباك في المقام الأول؟
+* هل تختلف [رؤية عميلي للعالم](https://longform.asmartbear.com/customer-development/) عن رؤيتي؟
+* هل مصطلحاتنا خاطئة؟
+* هل نستخدم الاستعارات الخاطئة؟
+* هل أحتاج إلى تحسين تجربة المستخدم الجديد بدلاً من تجربة المستخدم الخبير؟
 
-Those are tactical questions stemming from the immediate problem, but then there's even more interesting strategic questions:
+هذه أسئلة تكتيكية تنبع من المشكلة المباشرة، ولكن هناك أيضًا أسئلة استراتيجية أكثر إثارة للاهتمام:
 
-* Does this hiccup belie a customer pain-point I didn't know existed but I can solve?
-* Is there enough evidence of a conceptual mismatch that I should pivot?
-* Is there a [new product idea](https://longform.asmartbear.com/adjacency/) here?
-* If they're [abusing my product to get what they really want](https://longform.asmartbear.com/predict-the-future/), can I provide what they really want from the start?
+* هل هذا الفواق يكذب مشكلة العميل التي لم أكن أعلم بوجودها ولكن يمكنني حلها؟
+* هل هناك ما يكفي من الأدلة على عدم التطابق المفاهيمي الذي يجب أن أركز عليه؟
+* هل هناك [فكرة منتج جديد](https://longform.asmartbear.com/adjacency/) هنا؟
+* إذا كانوا [يسيئون استخدام منتجي للحصول على ما يريدونه حقًا](https://longform.asmartbear.com/predict-the-future/)، فهل يمكنني تقديم ما يريدونه حقًا من البداية؟
 
-This last line of questioning is exactly [how Smart Bear came to be](https://longform.asmartbear.com/product-market-fit-formula/) a company about peer code review and not "version control data mining." If I hadn't paid attention to these meta-questions, you wouldn't be reading this right now. Yes, it's that critical.
+هذا السطر الأخير من الأسئلة هو بالضبط [كيف أصبحت Smart Bear](https://longform.asmartbear.com/product-market-fit-formula/) شركة تتعلق بمراجعة كود الأقران وليس "استخراج بيانات التحكم في الإصدار". إذا لم أهتم بهذه الأسئلة الفوقية، فلن تقرأ هذا الآن. نعم، إنه أمر بالغ الأهمية.
 
-To answer these you have to go back and forth with customers to hack into the root cause. You have to see hundreds of emails so you get a gut-feel for what customers are experiencing--something you can't get from a Incident Summary Report or some-such automation.
+للإجابة على هذه الأسئلة، عليك أن تتنقل ذهابًا وإيابًا مع العملاء لاختراق السبب الجذري. يتعين عليك رؤية المئات من رسائل البريد الإلكتروني حتى تتمكن من الحصول على فكرة عما يواجهه العملاء - وهو أمر لا يمكنك الحصول عليه من تقرير ملخص الحادث أو بعض عمليات التشغيل الآلي المشابهة.
 
-**Tech support is the closest, most honest chance for product development**--certainly more straightforward than squeezing it through traditional "sales." Here's where real users discover and report on your product.
+**الدعم الفني هو الفرصة الأقرب والأكثر صدقًا لتطوير المنتج**--وبالتأكيد أكثر وضوحًا من الضغط عليه من خلال "المبيعات" التقليدية. هذا هو المكان الذي يكتشف فيه المستخدمون الحقيقيون منتجك ويبلغون عنه.
 
-Are you listening, or just throwing it away?
+هل تستمع أم ترميها بعيدًا؟
