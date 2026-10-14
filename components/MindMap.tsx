@@ -164,10 +164,8 @@ export default function MindMap({
 
   const scrollThemes = (direction: 'left' | 'right') => {
     if (!scrollContainerRef.current) return;
-    // Invert delta in RTL to ensure clicking left arrow always scrolls left and right always scrolls right
-    const baseDelta = direction === 'left' ? -350 : 350;
-    const signedDelta = isAr ? -baseDelta : baseDelta;
-    scrollContainerRef.current.scrollBy({ left: signedDelta, behavior: 'smooth' });
+    const delta = direction === 'left' ? -350 : 350;
+    scrollContainerRef.current.scrollBy({ left: delta, behavior: 'smooth' });
   };
 
   return (
@@ -176,20 +174,20 @@ export default function MindMap({
       {/* TOP THEMES NAVIGATION BAR (المحاور في بار كامل ممتد بدون انقطاع) */}
       {/* ==================================================================== */}
       <div className="sticky top-16 z-30 w-full bg-white/95 dark:bg-[#12141e]/95 backdrop-blur-md border-b border-stone-200/80 dark:border-stone-800/80 shadow-sm">
-        <div className="w-full max-w-[1600px] mx-auto px-3 sm:px-6 py-2.5 flex items-center justify-between gap-3">
-          {/* Scroll Left Button (Moves toward previous themes) */}
+        <div className="w-full max-w-[1750px] mx-auto px-2 sm:px-4 py-2 flex items-center justify-between gap-2 sm:gap-3">
+          {/* Scroll Right Button on the right side in RTL (points right to return to start) */}
           <button
-            onClick={() => scrollThemes('left')}
+            onClick={() => scrollThemes('right')}
             className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-500 hover:text-stone-900 dark:hover:text-white shrink-0 hidden sm:flex items-center justify-center transition-colors"
-            title={isAr ? 'المحاور السابقة' : 'Previous Themes'}
+            title={isAr ? 'المحاور السابقة (لليمين)' : 'Previous Themes'}
           >
-            <ChevronLeft className="w-4 h-4" />
+            <ChevronRight className="w-4 h-4" />
           </button>
 
           {/* Full-Width Scrollable Clusters Bar */}
           <div
             ref={scrollContainerRef}
-            className="flex-1 flex items-center gap-2 overflow-x-auto py-1 scrollbar-none scroll-smooth"
+            className="flex-1 min-w-0 flex items-center gap-2 overflow-x-auto py-1 scrollbar-none scroll-smooth"
             style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
           >
             {/* "All Themes" Tab */}
@@ -247,17 +245,17 @@ export default function MindMap({
             })}
           </div>
 
-          {/* Scroll Right Button (Moves toward next themes) */}
+          {/* Scroll Left Button on the left side in RTL (points left to advance forward) */}
           <button
-            onClick={() => scrollThemes('right')}
+            onClick={() => scrollThemes('left')}
             className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-500 hover:text-stone-900 dark:hover:text-white shrink-0 hidden sm:flex items-center justify-center transition-colors"
-            title={isAr ? 'المحاور التالية' : 'Next Themes'}
+            title={isAr ? 'المحاور التالية (لليسار)' : 'Next Themes'}
           >
-            <ChevronRight className="w-4 h-4" />
+            <ChevronLeft className="w-4 h-4" />
           </button>
 
-          {/* View Mode & Zoom Controls */}
-          <div className="flex items-center gap-1 shrink-0 border-inline-start border-stone-200 dark:border-stone-800 ps-2 ms-1">
+          {/* View Mode & Zoom Controls (Aligned to the far end with generous space for themes) */}
+          <div className="flex items-center gap-1.5 shrink-0 border-inline-start border-stone-200 dark:border-stone-800 ps-2.5 ms-0.5">
             {/* Real Compact vs Cards View Toggle */}
             <button
               onClick={() => setDisplayMode(displayMode === 'cards' ? 'compact' : 'cards')}

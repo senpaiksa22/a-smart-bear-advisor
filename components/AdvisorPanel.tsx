@@ -79,6 +79,17 @@ export default function AdvisorPanel({
   const currentModelObj =
     AVAILABLE_MODELS.find((m) => m.id === selectedModel) || AVAILABLE_MODELS[1];
 
+  // Prevent background scrolling when advisor modal is open
+  useEffect(() => {
+    if (isOpen) {
+      const originalOverflow = document.body.style.overflow;
+      document.body.style.overflow = 'hidden';
+      return () => {
+        document.body.style.overflow = originalOverflow;
+      };
+    }
+  }, [isOpen]);
+
   // Load conversations when user logs in or panel opens
   useEffect(() => {
     if (isOpen && user) {

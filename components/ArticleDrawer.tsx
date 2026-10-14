@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useMemo } from 'react';
+import { marked } from 'marked';
 import {
   ArrowRight,
   ArrowLeft,
@@ -92,12 +93,17 @@ export default function ArticleDrawer({
   const cleanBody = useMemo(() => {
     if (!fullContent) return '';
     let body = fullContent.replace(/^---[\s\S]*?---\s*/, '');
-    // Remove repeated # Title and ### Subtitle at the start of body
-    body = body.replace(/^#\s+[^\n]+\n+/, '');
-    body = body.replace(/^###\s+[^\n]+\n+/, '');
-    // Remove repeated Executive summary blockquote if present in body
-    body = body.replace(/^>\s+\*\*الملخص التنفيذي:\*\*[\s\S]*?>\s+\*\*الرابط الأصلي للمقال:\*\*[\s\S]*?\n---?\n?/, '');
-    body = body.replace(/^>\s+\*\*Executive Summary:\*\*[\s\S]*?>\s+\*\*Original URL:\*\*[\s\S]*?\n---?\n?/, '');
+    
+    // Find the metadata divider (---) separating the top executive summary from article body
+    const dividerIdx = body.indexOf('\n---');
+    if (dividerIdx !== -1) {
+      body = body.slice(dividerIdx + 4).replace(/^-+\r?\n+/, '');
+    } else {
+      // Fallback: strip H1 and H3 titles
+      body = body.replace(/^#\s+[^\n]+\r?\n+/, '');
+      body = body.replace(/^###\s+[^\n]+\r?\n+/, '');
+      body = body.replace(/^>[\s\S]*?\r?\n\s*---\s*\r?\n*/, '');
+    }
     return body.trim();
   }, [fullContent]);
 
@@ -322,163 +328,28 @@ export default function ArticleDrawer({
   );
 }
 
-// Helper to render inline formatting: bold, italic, code, links
-function renderInline(text: string): React.ReactNode {
-  if (!text) return null;
-  // Match links [text](url), bold **text**, italic *text*, code `text`
-  const regex = /(\[.*?\]\(https?:\/\/[^\s\)]+\)|\*\*.*?\*\*|\*.*?\*|`.*?`)/g;
-  const parts = text.split(regex);
-
-  return parts.map((part, i) => {
-    if (!part) return null;
-    if (part.startsWith('[') && part.includes('](') && part.endsWith(')')) {
-      const match = part.match(/^\[(.*?)\]\((.*?)\)$/);
-      if (match) {
-        return (
-          <a
-            key={i}
-            href={match[2]}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-bear-600 dark:text-bear-400 font-semibold underline underline-offset-2 hover:text-bear-700 dark:hover:text-bear-300"
-          >
-            {match[1]}
-          </a>
-        );
-      }
-    }
-    if (part.startsWith('**') && part.endsWith('**') && part.length > 4) {
-      return (
-        <strong key={i} className="font-bold text-stone-900 dark:text-white">
-          {part.slice(2, -2)}
-        </strong>
-      );
-    }
-    if (part.startsWith('*') && part.endsWith('*') && part.length > 2) {
-      return (
-        <em key={i} className="italic text-stone-700 dark:text-stone-300">
-          {part.slice(1, -1)}
-        </em>
-      );
-    }
-    if (part.startsWith('`') && part.endsWith('`') && part.length > 2) {
-      return (
-        <code
-          key={i}
-          className="px-1.5 py-0.5 rounded bg-stone-100 dark:bg-stone-800 text-bear-700 dark:text-bear-300 font-mono text-xs border border-stone-200 dark:border-stone-700"
-        >
-          {part.slice(1, -1)}
-        </code>
-      );
-    }
-    return part;
-  });
-}
-
 // ==============================================================================
-// Custom Lightweight Markdown Renderer with Image Preservation & Clean Layout
+// High-Fidelity Markdown Renderer via marked with Full Typography & Table Support
 // ==============================================================================
 function MarkdownRenderer({ content, isAr }: { content: string; isAr: boolean }) {
-  const blocks = useMemo(() => {
-    const rawParagraphs = content.split(/\n\n+/);
-    return rawParagraphs.map((block, idx) => {
-      const trimmed = block.trim();
-
-      // 1. Image: ![caption](url)
-      const imgMatch = trimmed.match(/^!\[(.*?)\]\((.*?)\)$/);
-      if (imgMatch) {
-        const alt = imgMatch[1];
-        const src = imgMatch[2];
-        return (
-          <figure key={idx} className="my-8 flex flex-col items-center">
-            <img
-              src={src}
-              alt={alt}
-              loading="lazy"
-              className="rounded-2xl border border-stone-200 dark:border-stone-800 shadow-md max-w-full max-h-[550px] object-contain bg-white dark:bg-stone-900 p-2"
-            />
-            {alt && (
-              <figcaption className="text-xs text-stone-500 dark:text-stone-400 mt-2 text-center max-w-lg italic">
-                {alt}
-              </figcaption>
-            )}
-          </figure>
-        );
-      }
-
-      // 2. Heading: ## or ###
-      if (trimmed.startsWith('#')) {
-        const level = (trimmed.match(/^#+/) || ['#'])[0].length;
-        const text = trimmed.replace(/^#+\s*/, '');
-        if (level === 2) {
-          return (
-            <h2
-              key={idx}
-              className="text-xl sm:text-2xl font-black text-stone-900 dark:text-white mt-10 mb-4 pb-2 border-b border-stone-200/80 dark:border-stone-800/80"
-            >
-              {renderInline(text)}
-            </h2>
-          );
-        }
-        return (
-          <h3
-            key={idx}
-            className="text-lg sm:text-xl font-bold text-stone-900 dark:text-white mt-8 mb-3"
-          >
-            {renderInline(text)}
-          </h3>
-        );
-      }
-
-      // 3. Blockquote: > ...
-      if (trimmed.startsWith('>')) {
-        const text = trimmed.replace(/^>\s*/gm, '');
-        return (
-          <blockquote
-            key={idx}
-            className="my-5 p-4 rounded-2xl bg-bear-50/60 dark:bg-bear-950/40 border-inline-start-4 border-bear-600 text-stone-800 dark:text-stone-200 italic text-sm sm:text-base leading-relaxed"
-          >
-            {renderInline(text)}
-          </blockquote>
-        );
-      }
-
-      // 4. Bulleted List: * or -
-      if (trimmed.startsWith('* ') || trimmed.startsWith('- ')) {
-        const items = trimmed.split('\n').filter((l) => l.trim());
-        return (
-          <ul key={idx} className="my-4 space-y-2 list-disc list-inside ps-2">
-            {items.map((it, i) => (
-              <li key={i} className="leading-relaxed">
-                {renderInline(it.replace(/^[\*\-]\s*/, ''))}
-              </li>
-            ))}
-          </ul>
-        );
-      }
-
-      // 5. Numbered List: 1. ...
-      if (/^\d+\.\s/.test(trimmed)) {
-        const items = trimmed.split('\n').filter((l) => l.trim());
-        return (
-          <ol key={idx} className="my-4 space-y-2 list-decimal list-inside ps-2">
-            {items.map((it, i) => (
-              <li key={i} className="leading-relaxed">
-                {renderInline(it.replace(/^\d+\.\s*/, ''))}
-              </li>
-            ))}
-          </ol>
-        );
-      }
-
-      // 6. Regular Paragraph
-      return (
-        <p key={idx} className="leading-relaxed text-stone-800 dark:text-stone-200 my-4">
-          {renderInline(trimmed)}
-        </p>
-      );
-    });
+  const html = useMemo(() => {
+    if (!content) return '';
+    try {
+      marked.setOptions({
+        gfm: true,
+        breaks: false,
+      });
+      return marked.parse(content) as string;
+    } catch (err) {
+      console.error('Markdown rendering error:', err);
+      return `<p>${content}</p>`;
+    }
   }, [content]);
 
-  return <div className="space-y-4">{blocks}</div>;
+  return (
+    <div
+      className="prose-bear"
+      dangerouslySetInnerHTML={{ __html: html }}
+    />
+  );
 }

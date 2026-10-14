@@ -129,9 +129,29 @@ def translate_markdown_document(body_md):
             i += 1
             continue
             
-        # 7. Standard paragraph: collect consecutive lines
+        # 7. Markdown Table row: starts and ends with '|'
+        if stripped.startswith('|') and stripped.endswith('|'):
+            # Table separator row: |:---|:---| or |---|---|
+            if re.match(r'^\|[\s\-:]+(\|[\s\-:]+)+\|$', stripped):
+                translated_lines.append(stripped)
+            else:
+                cells = stripped.split('|')
+                tr_cells = []
+                for cell in cells:
+                    c = cell.strip()
+                    if not c:
+                        tr_cells.append('')
+                    elif re.match(r'^[\s\-:]+$', c):
+                        tr_cells.append(c)
+                    else:
+                        tr_cells.append(f" {translate_snippet(c)} ")
+                translated_lines.append('|'.join(tr_cells))
+            i += 1
+            continue
+            
+        # 8. Standard paragraph: collect consecutive lines
         para_lines = [stripped]
-        while i + 1 < len(lines) and lines[i + 1].strip() and not lines[i + 1].strip().startswith(('#', '*', '-', '>', '1.', '2.', '3.', '4.', '5.', '![', '```')):
+        while i + 1 < len(lines) and lines[i + 1].strip() and not lines[i + 1].strip().startswith(('#', '*', '-', '>', '|', '1.', '2.', '3.', '4.', '5.', '![', '```')):
             i += 1
             para_lines.append(lines[i].strip())
             
