@@ -1,0 +1,240 @@
+[
+  {
+    "id": "cluster_1",
+    "cluster_num": 1,
+    "name_en": "Customer Discovery, Interviews & ICP",
+    "name_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
+    "description_en": "Finding early customers to interview, uncovering latent pain points, and targeting the ICP.",
+    "description_ar": "طرق الوصول للعملاء وإجراء المقابلات، كشف نقاط الألم الحقيقية، واستهداف العميل المثالي.",
+    "top_terms": [
+      "startup",
+      "product",
+      "br",
+      "customers",
+      "people",
+      "customer"
+    ],
+    "article_count": 23
+  },
+  {
+    "id": "cluster_2",
+    "cluster_num": 2,
+    "name_en": "Pricing Strategy & Monetization",
+    "name_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
+    "description_en": "Frameworks for setting prices, willingness-to-pay, freemium mechanics, and value capture.",
+    "description_ar": "أطر تحديد الأسعار، الاستعداد للدفع، ميكانيكا النماذج المجانية واقتناص القيمة الاقتصادية.",
+    "top_terms": [
+      "decisions",
+      "decision",
+      "strategy",
+      "rocks",
+      "great",
+      "sand"
+    ],
+    "article_count": 14
+  },
+  {
+    "id": "cluster_3",
+    "cluster_num": 3,
+    "name_en": "Customer Discovery, Interviews & ICP",
+    "name_ar": "استكشاف العملاء والمقابلات وشخصية المشتري المثالي",
+    "description_en": "Finding early customers to interview, uncovering latent pain points, and targeting the ICP.",
+    "description_ar": "طرق الوصول للعملاء وإجراء المقابلات، كشف نقاط الألم الحقيقية، واستهداف العميل المثالي.",
+    "top_terms": [
+      "http",
+      "http www",
+      "words",
+      "www",
+      "mission",
+      "service"
+    ],
+    "article_count": 17
+  },
+  {
+    "id": "cluster_4",
+    "cluster_num": 4,
+    "name_en": "Competitive Advantage, Moats & Defense",
+    "name_ar": "الميزة التنافسية وبناء الخنادق الدفاعية",
+    "description_en": "Creating durable competitive moats, unfair advantages, and defending against rivals.",
+    "description_ar": "بناء خنادق تنافسية مستدامة، المزايا الفريدة غير العادلة، والدفاع أمام المنافسين.",
+    "top_terms": [
+      "advantage",
+      "support",
+      "best",
+      "competitive",
+      "tech support",
+      "competitive advantage"
+    ],
+    "article_count": 23
+  },
+  {
+    "id": "cluster_5",
+    "cluster_num": 5,
+    "name_en": "Pricing Strategy & Monetization",
+    "name_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
+    "description_en": "Frameworks for setting prices, willingness-to-pay, freemium mechanics, and value capture.",
+    "description_ar": "أطر تحديد الأسعار، الاستعداد للدفع، ميكانيكا النماذج المجانية واقتناص القيمة الاقتصادية.",
+    "top_terms": [
+      "viral",
+      "exponential",
+      "freemium",
+      "growth",
+      "color",
+      "fittest"
+    ],
+    "article_count": 5
+  },
+  {
+    "id": "cluster_6",
+    "cluster_num": 6,
+    "name_en": "Product/Market Fit & Product Strategy",
+    "name_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
+    "description_en": "Achieving PMF, balancing features, building SLC products, and product evolution.",
+    "description_ar": "الوصول لملاءمة المنتج للسوق (PMF)، موازنة الميزات، وبناء منتجات بسيطة ومكتملة ومحبوبة.",
+    "top_terms": [
+      "luck",
+      "market",
+      "fit",
+      "market fit",
+      "product market",
+      "product"
+    ],
+    "article_count": 28
+  },
+  {
+    "id": "cluster_7",
+    "cluster_num": 7,
+    "name_en": "Product/Market Fit & Product Strategy",
+    "name_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
+    "description_en": "Achieving PMF, balancing features, building SLC products, and product evolution.",
+    "description_ar": "الوصول لملاءمة المنتج للسوق (PMF)، موازنة الميزات، وبناء منتجات بسيطة ومكتملة ومحبوبة.",
+    "top_terms": [
+      "10x",
+      "average",
+      "10",
+      "servers",
+      "things",
+      "90"
+    ],
+    "article_count": 12
+  },
+  {
+    "id": "cluster_8",
+    "cluster_num": 8,
+    "name_en": "Pricing Strategy & Monetization",
+    "name_ar": "استراتيجيات التسعير ونماذج تحقيق الدخل",
+    "description_en": "Frameworks for setting prices, willingness-to-pay, freemium mechanics, and value capture.",
+    "description_ar": "أطر تحديد الأسعار، الاستعداد للدفع، ميكانيكا النماذج المجانية واقتناص القيمة الاقتصادية.",
+    "top_terms": [
+      "br",
+      "price",
+      "money",
+      "value",
+      "000",
+      "cost"
+    ],
+    "article_count": 20
+  },
+  {
+    "id": "cluster_9",
+    "cluster_num": 9,
+    "name_en": "SaaS Metrics, Unit Economics & Financial Health",
+    "name_ar": "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية",
+    "description_en": "Key SaaS metrics, CAC, LTV, churn reduction, financial modeling, and growth ceilings.",
+    "description_ar": "المقاييس الجوهرية للبرمجيات السحابية، تكلفة الاكتساب، القيمة الدائمة، وتقليل التسرب.",
+    "top_terms": [
+      "metric",
+      "mrr",
+      "ltv",
+      "saas",
+      "cancellation",
+      "revenue"
+    ],
+    "article_count": 13
+  },
+  {
+    "id": "cluster_10",
+    "cluster_num": 10,
+    "name_en": "AI Era Dynamics, Disruption & Big Tech",
+    "name_ar": "ديناميكيات عصر الذكاء الاصطناعي والثورات التقنية",
+    "description_en": "How AI changes startup playbooks, competing against incumbents, and platform disruption.",
+    "description_ar": "كيف يغير الذكاء الاصطناعي قواعد اللعبة، منافسة العمالقة الراسخين، والتحولات الجذرية.",
+    "top_terms": [
+      "truth",
+      "joel",
+      "framework",
+      "models",
+      "fallacy",
+      "face truth"
+    ],
+    "article_count": 7
+  },
+  {
+    "id": "cluster_11",
+    "cluster_num": 11,
+    "name_en": "Product/Market Fit & Product Strategy",
+    "name_ar": "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات",
+    "description_en": "Achieving PMF, balancing features, building SLC products, and product evolution.",
+    "description_ar": "الوصول لملاءمة المنتج للسوق (PMF)، موازنة الميزات، وبناء منتجات بسيطة ومكتملة ومحبوبة.",
+    "top_terms": [
+      "profitable",
+      "change",
+      "big",
+      "company",
+      "startup",
+      "king"
+    ],
+    "article_count": 15
+  },
+  {
+    "id": "cluster_12",
+    "cluster_num": 12,
+    "name_en": "Foundational Philosophy & Startup Wisdom",
+    "name_ar": "فلسفة ريادة الأعمال والحكمة التأسيسية",
+    "description_en": "Philosophical insights on luck, truth, paradoxes, scale, and long-term thinking.",
+    "description_ar": "رؤى فلسفية حول الحظ، الحقيقة، مفارقات التفكير، وقوانين التوسع والتفكير بعيد المدى.",
+    "top_terms": [
+      "expert",
+      "sadness",
+      "success",
+      "amp",
+      "selling",
+      "experts"
+    ],
+    "article_count": 8
+  },
+  {
+    "id": "cluster_13",
+    "cluster_num": 13,
+    "name_en": "Marketing Channels, Positioning & Distribution",
+    "name_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
+    "description_en": "Selecting primary acquisition channels, positioning narratives, and distribution loops.",
+    "description_ar": "اختيار قنوات الاستحواذ الأولى، صياغة التموضع الذهني، ومحركات الانتشار والتوزيع.",
+    "top_terms": [
+      "marketing",
+      "channel",
+      "channels",
+      "social",
+      "money",
+      "media"
+    ],
+    "article_count": 8
+  },
+  {
+    "id": "cluster_14",
+    "cluster_num": 14,
+    "name_en": "Marketing Channels, Positioning & Distribution",
+    "name_ar": "قنوات التسويق، التموضع الاستراتيجي والتوزيع",
+    "description_en": "Selecting primary acquisition channels, positioning narratives, and distribution loops.",
+    "description_ar": "اختيار قنوات الاستحواذ الأولى، صياغة التموضع الذهني، ومحركات الانتشار والتوزيع.",
+    "top_terms": [
+      "bear",
+      "sucks",
+      "company",
+      "software",
+      "leading provider",
+      "provider"
+    ],
+    "article_count": 20
+  }
+]

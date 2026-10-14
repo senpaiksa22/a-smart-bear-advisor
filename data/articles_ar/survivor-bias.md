@@ -1,0 +1,126 @@
+---
+id: 181
+title_en: "Business Advice Plagued by Survivor Bias"
+title_ar: "Business Advice Plagued by Survivor Bias"
+slug: "survivor-bias"
+url: "https://longform.asmartbear.com/survivor-bias/"
+pubDate: "Mon, 17 Aug 2009 00:00:00 +0000"
+category_en: "Pricing Strategy & Monetization"
+category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
+summary_en: "Advice from \"successful entrepreneurs\" might be unreliable due to Survivor Bias. What's real, and what's random?"
+summary_ar: "Advice from \"successful entrepreneurs\" might be unreliable due to Survivor Bias. What's real, and what's random?"
+---
+
+# Business Advice Plagued by Survivor Bias
+### Business Advice Plagued by Survivor Bias
+
+> **الملخص التنفيذي:** Advice from "successful entrepreneurs" might be unreliable due to Survivor Bias. What's real, and what's random?
+> **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
+> **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/survivor-bias/](https://longform.asmartbear.com/survivor-bias/)
+
+![zener cards of business google](https://public.asmartbear.com/books/anthology/chapters/survivor-bias/d6354d6d1-aa4f-4865-8a16-bb5c09903a58-simple.png)
+
+Do you read articles written by a founder who failed three times, never finding success?
+
+No, because you want to learn from success, not hear about "lessons learned" from someone who hasn't yet learned those lessons themself.
+
+However, **the fact that you are learning only from success is a deeper problem than you imagine.**
+
+Some stories will expose the enormity of this fallacy.
+
+## Bullet holes: A brain teaser
+
+During World War II the English sent daily bombing raids into Germany. Many planes never returned; those that did were often riddled with bullet holes from anti-air machine guns and German fighters.
+
+Wanting to improve the odds of getting a crew home alive, English engineers studied the locations of the bullet holes. Where the planes were hit most, they reasoned, is where they should attach heavy armor plating. Sure enough, a pattern emerged: Bullets clustered on the wings, tail, and rear gunner's station. Few bullets were found in the main cockpit or fuel tanks.
+
+![locations of bullet holes in the place, hypothetical example](https://public.asmartbear.com/books/anthology/chapters/survivor-bias/d7475b770-f4b2-4e5f-a29f-d69b275e9da6-simple.png)
+
+The logical conclusion is that they should add armor plating to the spots that get hit most often by bullets. But that's wrong.
+
+![zener cards of business Zappos](https://public.asmartbear.com/books/anthology/chapters/survivor-bias/d6e257c45-0174-40dc-88d6-032e0884da30-simple.png)
+
+Planes with bullets in the cockpit or fuel tanks *didn't make it home*; the bullet holes in returning planes were "found" in places that were by definition relatively benign. The real data is in the planes that were shot down, not the ones that survived.
+
+**This is a literal example of "survivor bias"**--drawing conclusions only from data that is available or convenient and thus systematically biasing your results.
+
+*Doesn't most business advice suffer from this fallacy?* You read about successes but what about the businesses that "never made it home?" Like the downed planes, **could failure contain more lessons than success?**
+
+## Burying the other evidence
+
+Scientific journals publish extraordinary results, so studies whose results are statistically insignificance aren't published. Rather, they are abandoned or silently stowed away in academic filing cabinets.
+
+![zener cards of business Starbucks](https://public.asmartbear.com/books/anthology/chapters/survivor-bias/c1db9691-6cc2-4f5c-bd2e-e851c12b0e16-simple.png)
+
+For this reason, this practice is called the "file-drawer effect," and it's a particularly insidious form of survivor bias because it is invisible. Peter Norvig [sums it up nicely](https://norvig.com/experiment-design.html):
+
+> When a published paper proclaims "statistically, this could only happen by chance one in twenty times," it is quite possible that similar experiments have been performed twenty times, but have not been published.
+
+Pharmaceutical companies have exploited this effect to skew results intentionally. It's gotten so bad that journals are calling for a public database to prevent fraud:
+
+> More than two-thirds of studies of anti-depressants given to depressed children, for instance, found the medications were no better than sugar pills, but companies published only the positive trials.  
+>   
+> If all the studies had been registered from the start, doctors would have learned that the positive data were only a fraction of the total.  
+> [--Washington Post](https://www.smh.com.au/articles/2004/09/09/1094530773888.html)
+
+*Doesn't most business advice suffer from this fallacy?* Harvard Business School's famous case studies include only success stories. To paraphrase Norvig, **what if twenty other coffee shops had the same ideas, same product, and same dedication as Starbucks, but failed?** How does that affect what we can learn from Starbucks's success?
+
+## Experimental proof of ESP
+
+![zener cards of business 37signals](https://public.asmartbear.com/books/anthology/chapters/survivor-bias/cdf8b090-34c4-4533-8e51-d77895de6115-simple.png)
+
+[Dr. Joseph Rhine](https://en.wikipedia.org/wiki/Joseph_Banks_Rhine) brought the rigor of experimental psychology to the study of the paranormal, and ESP (Extra Sensory Perception) in particular. He made waves in the 1930s with controlled experiments testing whether a person was able to predict the order of the cards in a shuffled [Zener](https://en.wikipedia.org/wiki/Zener_cards) deck (with symbols like circle, square, star, and wavy lines).
+
+In a typical experiment, 500 people are screened for "strong telepathic ability," measured by significantly above-average performance in a 25-card deck. Those selected are tested again; most drop away. Tested a third time, perhaps one person passes again and we conclude that such a repeat performance is statistical evidence of genuine ESP.
+
+To see why this is just a different face of survivor bias, consider the following experiment. I believe some people are "heady" when it comes to coin-flipping--getting heads more often than chance alone would suggest. So I put 1000 people in a room and tell them to flip a coin ten times. Sure enough, a woman named Margaret makes "heads" ten times in a row! The chance of her getting heads ten times in a row is only 1-in-1024, so I conclude Margret has special abilities.
+
+Actually that last statement is true but misleading. The chance that *Margaret* would flip ten heads in a row is 1-in-1024, but that wasn't the experiment I ran, was it? I let 1000 people flip and "found" Margaret in the crowd.
+
+The chance that *somebody* in a crowd of a thousand would flip heads ten times is a whopping 62%! Because so many people are attempting the feat, some normally-unlikely events will happen. This isn't a test of Margaret's abilities at all!
+
+*Doesn't most business advice suffer from this fallacy?* Take me for instance. I've started three[^1] consecutive successful companies, so that's proof that I know what I'm doing and that you should do everything I say, right? Except maybe I'm just the one in the crowd who guessed right on the Zener cards three times, and there's no reason to believe I would be successful a fourth time.[^2]
+
+[^1]: Author's note in 2023: Now four with [WP Engine](https://wpengine.com/); with 200,000 customers and hundreds of millions in ARR, and profitable, it's an uber-Margaret!
+
+[^2]: Author's Note in 2023: Looking back fourteen years, having done it again, I still wouldn't change a word. Maybe I'm still Margaret. Perhaps I've earned additional benefit of the doubt, but the survivor bias warning remains.
+
+## Specific examples of survivor bias in business advice
+
+![zener cards of business smart bear](https://public.asmartbear.com/books/anthology/chapters/survivor-bias/d396ebfbe-86d5-48be-9251-1a57d9084590-simple.png)
+
+So far I've been asking rhetorically whether survivor bias *might* be severely skewing business advice. [Steven Levitt](https://en.wikipedia.org/wiki/Steven_Levitt) (of [Freakonomics](https://www.amazon.com/gp/product/0061234001?ie=UTF8&tag=teamcohen-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0061234001) fame) investigated this question directly.
+
+He was reading [Good to Great](https://www.amazon.com/gp/product/0066620996?ie=UTF8&tag=teamcohen-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0066620996) by Jim Collins, a book that analyzed eleven companies that were mediocre--just pooping along--but then transformed themselves into stock market sensations. A conclusion was that the common trait was a "culture of discipline." This book has sold many millions of copies, so it's a good example of popular writing on business advice.
+
+One of the eleven "great" companies was Fannie Mae, and Steven Levitt was reading this book just as Fannie was collapsing in financial disaster. Hmm, he thought, I wonder how those other "great" companies are doing.
+
+Turns out, had you invested in those eleven companies in 2001 (when the book came out), your portfolio would have underperformed the S&P 500! (Fannie Mae wasn't even the only case of total disaster--also extolled was the now-bankrupt Circuit City.)
+
+Why didn't these companies continue to succeed? It turns out Jim started by combing through 1435 companies looking for good candidates for the book, and picked eleven. **It's the ESP experiment all over again!**
+
+On top of that, Jim doesn't bother asking whether any of the 1424 other companies also displayed a "culture of discipline." Maybe that's something that many public companies have regardless of performance.
+
+Is this book an aberration? Nope, Steven investigated another business book from the 1980s--[In Search of Excellence](https://www.amazon.com/gp/product/0060548789?ie=UTF8&tag=asmbe-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0060548789)--and found the same effect.
+
+Steven then comes to the same conclusion that I'm coming to:
+
+> These business books are mostly backward-looking: what have companies done that has made them successful? The future is always hard to predict, and understanding the past is valuable; on the other hand, the implicit message of these business books is that the principles that these companies use not only have made them good in the past, but position them for continued success.
+
+**To the extent that this doesn't actually turn out to be true, it calls into question the basic premise of these books,[^3] doesn't it?**
+
+[^3]: I personally love _Good to Great_ anyway, because I think the ideas in there are timeless and excellent.
+
+## Oops, did I just invalidate this entire website?
+
+Lately I've been wondering if a lot of business advice--both mine and others--is really a case of survivor bias. I mean, I didn't start out at Smart Bear with a load of philosophy and a fixed idea of who the customer was or even what the products would be.
+
+How do I know this post-hoc philosophy and advice isn't just a case of survivor bias? Am I not like the ESP-savant, successful not by force of nature but by simple chance of surviving?
+
+Or perhaps I'm like Dr. Rhine the ESP experimenter--convinced I've discovered something important with "objective measures of success"--and yet I'm actually living in an egotistical, possibly even narcissistic dream world.
+
+More to the point, **how can _you_, dear reader, ascertain whether my articles or any advice from anywhere suffers from this fallacy?**
+
+In the end of course you *don't* know. But here's something: Just the fact that you're aware of survivor bias means you're less likely to be taken in by it. So, reading this article has helped a little.
+
+Beyond that, prefer advice that makes you think rather than giving you answers, forces you to answer tough questions, and causes you to [extend your existing strengths](https://longform.asmartbear.com/leverage/), and [become a better version of the person you already are](https://longform.asmartbear.com/bad-advice/).
