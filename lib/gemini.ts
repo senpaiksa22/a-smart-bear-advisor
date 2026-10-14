@@ -102,8 +102,6 @@ ${knowledgeContext}
 
   // Call official Gemini REST API (Zero Client Exposure)
   try {
-    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${selectedModel.apiModel}:generateContent?key=${apiKey}`;
-
     const contents = [
       {
         role: 'user',
@@ -119,11 +117,25 @@ ${knowledgeContext}
       },
     ];
 
-    const response = await fetch(endpoint, {
+    let activeModel = selectedModel.apiModel;
+    let endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${activeModel}:generateContent?key=${apiKey}`;
+
+    let response = await fetch(endpoint, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ contents }),
     });
+
+    // If primary model has high demand or error, fallback to gemini-3.5-flash-lite
+    if (!response.ok && activeModel !== 'gemini-3.5-flash-lite') {
+      console.warn(`Model ${activeModel} returned ${response.status}, failing over to gemini-3.5-flash-lite...`);
+      endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent?key=${apiKey}`;
+      response = await fetch(endpoint, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ contents }),
+      });
+    }
 
     if (!response.ok) {
       const errText = await response.text();
