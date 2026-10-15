@@ -2,7 +2,7 @@
 
 import React, { useState, useRef, useEffect } from 'react';
 import { AppTheme, APP_THEMES } from '@/lib/theme';
-import { Sun, Moon, BookOpen, Compass, Trees, Palette, Check, Sparkles, Coffee } from 'lucide-react';
+import { Sun, Moon, BookOpen, Compass, Trees, Palette, Check, Sparkles, Coffee, Leaf, Crown } from 'lucide-react';
 
 interface ThemeSelectorProps {
   currentTheme: AppTheme;
@@ -54,6 +54,12 @@ export default function ThemeSelector({
         return <Trees className={className} />;
       case 'sunset':
         return <Palette className={className} />;
+      case 'leaf':
+        return <Leaf className={className} />;
+      case 'coffee':
+        return <Coffee className={className} />;
+      case 'crown':
+        return <Crown className={className} />;
       default:
         return <Palette className={className} />;
     }
@@ -100,15 +106,15 @@ export default function ThemeSelector({
           <div className="px-3 py-2 border-b border-stone-100 dark:border-stone-800/80 mb-1.5 flex items-center justify-between">
             <div className="flex items-center gap-1.5 text-xs font-black text-stone-800 dark:text-stone-200">
               <Palette className="w-3.5 h-3.5 text-bear-600" />
-              <span>{isAr ? 'المظاهر اللونية (7 ثيمات)' : 'Color Themes (7 Themes)'}</span>
+              <span>{isAr ? 'المظاهر اللونية (10 ثيمات)' : 'Color Themes (10 Themes)'}</span>
             </div>
             <span className="text-[10px] font-mono px-2 py-0.5 rounded-full bg-bear-100 dark:bg-bear-950 text-bear-700 dark:text-bear-300 font-bold">
-              7
+              10
             </span>
           </div>
 
           {/* Theme List */}
-          <div className="space-y-1">
+          <div className="space-y-1 max-h-[380px] overflow-y-auto pr-0.5">
             {APP_THEMES.map((theme) => {
               const isActive = theme.id === currentTheme;
 

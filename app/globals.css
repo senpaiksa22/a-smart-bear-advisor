@@ -79,6 +79,39 @@
   --scrollbar-thumb: rgba(192, 132, 252, 0.35);
 }
 
+/* 7. Matcha (ماتشا ياباني / شاي حليبي هادئ للسكينة) */
+[data-theme='matcha'] {
+  --background: #edf4ee;
+  --foreground: #1c2b21;
+  --surface-primary: #f7fbf7;
+  --surface-secondary: #e2ede4;
+  --border-subtle: #c5d9c9;
+  --accent-theme: #2d6a4f;
+  --scrollbar-thumb: rgba(45, 106, 79, 0.35);
+}
+
+/* 8. Espresso (موكا إسبريسو / قهوة داكنة دافئة مع كراميل) */
+[data-theme='espresso'] {
+  --background: #18120e;
+  --foreground: #f6eee7;
+  --surface-primary: #241b15;
+  --surface-secondary: #30241d;
+  --border-subtle: #453429;
+  --accent-theme: #f59e0b;
+  --scrollbar-thumb: rgba(245, 158, 11, 0.35);
+}
+
+/* 9. Gold (ذهب ملكي / أسود أوبسيديان نفاث مع تطريز ذهبي عيار 24) */
+[data-theme='gold'] {
+  --background: #090a0d;
+  --foreground: #fafaf9;
+  --surface-primary: #131418;
+  --surface-secondary: #1d1e24;
+  --border-subtle: #342a12;
+  --accent-theme: #eab308;
+  --scrollbar-thumb: rgba(234, 179, 8, 0.35);
+}
+
 body {
   background-color: var(--background) !important;
   color: var(--foreground) !important;
@@ -313,6 +346,54 @@ body {
   line-height: 1.95;
   font-size: 1.075rem;
   color: #292524;
+}
+
+/* Matcha Theme Component Overrides */
+[data-theme='matcha'] .bg-white,
+[data-theme='matcha'] [class*='bg-white'] {
+  background-color: var(--surface-primary) !important;
+}
+[data-theme='matcha'] .bg-stone-50,
+[data-theme='matcha'] [class*='bg-stone-50'] {
+  background-color: var(--background) !important;
+}
+[data-theme='matcha'] .bg-stone-100,
+[data-theme='matcha'] [class*='bg-stone-100'],
+[data-theme='matcha'] .bg-stone-200,
+[data-theme='matcha'] [class*='bg-stone-200'] {
+  background-color: var(--surface-secondary) !important;
+}
+[data-theme='matcha'] .border-stone-200,
+[data-theme='matcha'] [class*='border-stone-200'] {
+  border-color: var(--border-subtle) !important;
+}
+
+/* Espresso Theme Component Overrides */
+[data-theme='espresso'] .dark\:bg-stone-900,
+[data-theme='espresso'] [class*='dark:bg-stone-900'] {
+  background-color: var(--surface-primary) !important;
+}
+[data-theme='espresso'] .dark\:bg-stone-950,
+[data-theme='espresso'] [class*='dark:bg-stone-950'] {
+  background-color: var(--background) !important;
+}
+[data-theme='espresso'] .dark\:border-stone-800,
+[data-theme='espresso'] [class*='dark:border-stone-800'] {
+  border-color: var(--border-subtle) !important;
+}
+
+/* Gold Theme Component Overrides */
+[data-theme='gold'] .dark\:bg-stone-900,
+[data-theme='gold'] [class*='dark:bg-stone-900'] {
+  background-color: var(--surface-primary) !important;
+}
+[data-theme='gold'] .dark\:bg-stone-950,
+[data-theme='gold'] [class*='dark:bg-stone-950'] {
+  background-color: var(--background) !important;
+}
+[data-theme='gold'] .dark\:border-stone-800,
+[data-theme='gold'] [class*='dark:border-stone-800'] {
+  border-color: var(--border-subtle) !important;
 }
 
 .dark .prose-bear {

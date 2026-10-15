@@ -1,4 +1,14 @@
-export type AppTheme = 'light' | 'sand' | 'sepia' | 'dark' | 'ocean' | 'forest' | 'sunset';
+export type AppTheme =
+  | 'light'
+  | 'sand'
+  | 'sepia'
+  | 'dark'
+  | 'ocean'
+  | 'forest'
+  | 'sunset'
+  | 'matcha'
+  | 'espresso'
+  | 'gold';
 
 export interface ThemeConfig {
   id: AppTheme;
@@ -6,7 +16,7 @@ export interface ThemeConfig {
   name_en: string;
   description_ar: string;
   description_en: string;
-  icon: 'sun' | 'moon' | 'book' | 'ocean' | 'forest' | 'sunset' | 'sand';
+  icon: 'sun' | 'moon' | 'book' | 'ocean' | 'forest' | 'sunset' | 'sand' | 'leaf' | 'coffee' | 'crown';
   isDarkFamily: boolean;
   colorSwatch: {
     bg: string;
@@ -56,6 +66,20 @@ export const APP_THEMES: ThemeConfig[] = [
       bg: '#f6efe1',
       border: '#dfceb4',
       accent: '#b45309',
+    },
+  },
+  {
+    id: 'matcha',
+    name_ar: 'ماتشا ياباني',
+    name_en: 'Zen Matcha',
+    description_ar: 'أخضر شاي حليبي هادئ يمنح السكينة والتركيز الذهني بدون أي وهج',
+    description_en: 'Soothing milky matcha green for deep zen focus',
+    icon: 'leaf',
+    isDarkFamily: false,
+    colorSwatch: {
+      bg: '#edf4ee',
+      border: '#c5d9c9',
+      accent: '#2d6a4f',
     },
   },
   {
@@ -112,6 +136,34 @@ export const APP_THEMES: ThemeConfig[] = [
       bg: '#140c1e',
       border: '#331d4e',
       accent: '#c084fc',
+    },
+  },
+  {
+    id: 'espresso',
+    name_ar: 'موكا إسبريسو',
+    name_en: 'Espresso Roast',
+    description_ar: 'بني قهوة داكن دافئ مع لمسات الكراميل الفاخر',
+    description_en: 'Rich roasted coffee & warm caramel notes',
+    icon: 'coffee',
+    isDarkFamily: true,
+    colorSwatch: {
+      bg: '#18120e',
+      border: '#3c2b20',
+      accent: '#f59e0b',
+    },
+  },
+  {
+    id: 'gold',
+    name_ar: 'ذهب ملكي',
+    name_en: 'Obsidian Gold',
+    description_ar: 'أسود أوبسيديان نفاث فاحم مع تطريز ذهب عيار 24 الفاخر',
+    description_en: 'Jet obsidian black elevated with 24K radiant gold trim',
+    icon: 'crown',
+    isDarkFamily: true,
+    colorSwatch: {
+      bg: '#090a0d',
+      border: '#2e2511',
+      accent: '#eab308',
     },
   },
 ];
