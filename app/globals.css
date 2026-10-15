@@ -35,15 +35,15 @@
   --scrollbar-thumb: rgba(140, 83, 43, 0.4);
 }
 
-/* 3. Sepia (ورقي / كهرمان دافئ) */
-[data-theme='sepia'] {
-  --background: #f6efe1;
-  --foreground: #2d241e;
-  --surface-primary: #fffdf9;
-  --surface-secondary: #eee4d1;
-  --border-subtle: #dfceb4;
-  --accent-theme: #b45309;
-  --scrollbar-thumb: rgba(180, 83, 9, 0.35);
+/* 3. Frost (ثلجي قطبي بارد ومنعش) */
+[data-theme='frost'] {
+  --background: #eaf2f8;
+  --foreground: #0f2331;
+  --surface-primary: #f5f9fd;
+  --surface-secondary: #dbe8f2;
+  --border-subtle: #bfd9ec;
+  --accent-theme: #0284c7;
+  --scrollbar-thumb: rgba(2, 132, 199, 0.35);
 }
 
 /* 4. Ocean (كحلي بحري / نورديك) */
@@ -90,26 +90,26 @@
   --scrollbar-thumb: rgba(45, 106, 79, 0.35);
 }
 
-/* 8. Espresso (موكا إسبريسو / قهوة داكنة دافئة مع كراميل) */
-[data-theme='espresso'] {
-  --background: #18120e;
-  --foreground: #f6eee7;
-  --surface-primary: #241b15;
-  --surface-secondary: #30241d;
-  --border-subtle: #453429;
-  --accent-theme: #f59e0b;
-  --scrollbar-thumb: rgba(245, 158, 11, 0.35);
+/* 8. Lavender (خزامى ناعمة / لافندر باودري هادئ) */
+[data-theme='lavender'] {
+  --background: #f3effa;
+  --foreground: #231238;
+  --surface-primary: #faf8fd;
+  --surface-secondary: #e6def3;
+  --border-subtle: #d3c4e9;
+  --accent-theme: #7c3aed;
+  --scrollbar-thumb: rgba(124, 58, 237, 0.35);
 }
 
-/* 9. Gold (ذهب ملكي / أسود أوبسيديان نفاث مع تطريز ذهبي عيار 24) */
-[data-theme='gold'] {
-  --background: #090a0d;
-  --foreground: #fafaf9;
-  --surface-primary: #131418;
-  --surface-secondary: #1d1e24;
-  --border-subtle: #342a12;
-  --accent-theme: #eab308;
-  --scrollbar-thumb: rgba(234, 179, 8, 0.35);
+/* 9. Bordeaux (عنابي فاخر / ياقوتي نبيذي عميق) */
+[data-theme='bordeaux'] {
+  --background: #1b0811;
+  --foreground: #fde8f1;
+  --surface-primary: #260c18;
+  --surface-secondary: #351222;
+  --border-subtle: #4c1a30;
+  --accent-theme: #f43f5e;
+  --scrollbar-thumb: rgba(244, 63, 94, 0.35);
 }
 
 body {
@@ -226,24 +226,68 @@ body {
   border-color: #cbbeaa !important;
 }
 
-[data-theme='sepia'] .bg-stone-50,
-[data-theme='sepia'] .bg-\[\#fbfbfb\] {
-  background-color: var(--background) !important;
-}
-[data-theme='sepia'] .bg-white {
+/* Frost Theme Component Overrides */
+[data-theme='frost'] .bg-white,
+[data-theme='frost'] [class*='bg-white'] {
   background-color: var(--surface-primary) !important;
 }
-[data-theme='sepia'] .bg-stone-100 {
+[data-theme='frost'] .bg-stone-50,
+[data-theme='frost'] [class*='bg-stone-50'],
+[data-theme='frost'] .bg-\[\#fbfbfb\],
+[data-theme='frost'] [class*='bg-\[\#fbfbfb\]'] {
+  background-color: var(--background) !important;
+}
+[data-theme='frost'] .bg-stone-100,
+[data-theme='frost'] [class*='bg-stone-100'],
+[data-theme='frost'] .bg-stone-200,
+[data-theme='frost'] [class*='bg-stone-200'] {
   background-color: var(--surface-secondary) !important;
 }
-[data-theme='sepia'] .border-stone-200 {
+[data-theme='frost'] .border-stone-200,
+[data-theme='frost'] [class*='border-stone-200'],
+[data-theme='frost'] [class*='border-stone-300'],
+[data-theme='frost'] [class*='border-stone-100'] {
   border-color: var(--border-subtle) !important;
 }
-[data-theme='sepia'] .text-stone-900 {
-  color: #2d241e !important;
+[data-theme='frost'] .text-stone-900,
+[data-theme='frost'] [class*='text-stone-900'] {
+  color: #0f2331 !important;
 }
-[data-theme='sepia'] .text-stone-600 {
-  color: #5c4a3b !important;
+[data-theme='frost'] .text-stone-600,
+[data-theme='frost'] [class*='text-stone-600'] {
+  color: #2b4961 !important;
+}
+
+/* Lavender Theme Component Overrides */
+[data-theme='lavender'] .bg-white,
+[data-theme='lavender'] [class*='bg-white'] {
+  background-color: var(--surface-primary) !important;
+}
+[data-theme='lavender'] .bg-stone-50,
+[data-theme='lavender'] [class*='bg-stone-50'],
+[data-theme='lavender'] .bg-\[\#fbfbfb\],
+[data-theme='lavender'] [class*='bg-\[\#fbfbfb\]'] {
+  background-color: var(--background) !important;
+}
+[data-theme='lavender'] .bg-stone-100,
+[data-theme='lavender'] [class*='bg-stone-100'],
+[data-theme='lavender'] .bg-stone-200,
+[data-theme='lavender'] [class*='bg-stone-200'] {
+  background-color: var(--surface-secondary) !important;
+}
+[data-theme='lavender'] .border-stone-200,
+[data-theme='lavender'] [class*='border-stone-200'],
+[data-theme='lavender'] [class*='border-stone-300'],
+[data-theme='lavender'] [class*='border-stone-100'] {
+  border-color: var(--border-subtle) !important;
+}
+[data-theme='lavender'] .text-stone-900,
+[data-theme='lavender'] [class*='text-stone-900'] {
+  color: #231238 !important;
+}
+[data-theme='lavender'] .text-stone-600,
+[data-theme='lavender'] [class*='text-stone-600'] {
+  color: #553a77 !important;
 }
 
 /* Theme overrides for dark-family colored themes (ocean, forest, sunset) */
@@ -373,31 +417,27 @@ body {
   border-color: var(--border-subtle) !important;
 }
 
-/* Espresso Theme Component Overrides */
-[data-theme='espresso'] .dark\:bg-stone-900,
-[data-theme='espresso'] [class*='dark:bg-stone-900'] {
-  background-color: var(--surface-primary) !important;
-}
-[data-theme='espresso'] .dark\:bg-stone-950,
-[data-theme='espresso'] [class*='dark:bg-stone-950'] {
+/* Bordeaux Theme Component Overrides */
+[data-theme='bordeaux'] .dark\:bg-\[\#0c0d14\],
+[data-theme='bordeaux'] .dark\:bg-\[\#12141e\],
+[data-theme='bordeaux'] .dark\:bg-stone-950,
+[data-theme='bordeaux'] [class*='dark:bg-stone-950'] {
   background-color: var(--background) !important;
 }
-[data-theme='espresso'] .dark\:border-stone-800,
-[data-theme='espresso'] [class*='dark:border-stone-800'] {
-  border-color: var(--border-subtle) !important;
-}
-
-/* Gold Theme Component Overrides */
-[data-theme='gold'] .dark\:bg-stone-900,
-[data-theme='gold'] [class*='dark:bg-stone-900'] {
+[data-theme='bordeaux'] .dark\:bg-\[\#151722\],
+[data-theme='bordeaux'] .dark\:bg-\[\#131520\],
+[data-theme='bordeaux'] .dark\:bg-stone-900,
+[data-theme='bordeaux'] [class*='dark:bg-stone-900'] {
   background-color: var(--surface-primary) !important;
 }
-[data-theme='gold'] .dark\:bg-stone-950,
-[data-theme='gold'] [class*='dark:bg-stone-950'] {
-  background-color: var(--background) !important;
+[data-theme='bordeaux'] .dark\:bg-\[\#1a1d2c\],
+[data-theme='bordeaux'] .dark\:bg-stone-800,
+[data-theme='bordeaux'] [class*='dark:bg-stone-800'] {
+  background-color: var(--surface-secondary) !important;
 }
-[data-theme='gold'] .dark\:border-stone-800,
-[data-theme='gold'] [class*='dark:border-stone-800'] {
+[data-theme='bordeaux'] .dark\:border-stone-800,
+[data-theme='bordeaux'] [class*='dark:border-stone-800'],
+[data-theme='bordeaux'] .dark\:border-stone-700 {
   border-color: var(--border-subtle) !important;
 }
 

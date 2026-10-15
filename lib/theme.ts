@@ -1,14 +1,14 @@
 export type AppTheme =
   | 'light'
   | 'sand'
-  | 'sepia'
+  | 'frost'
+  | 'matcha'
+  | 'lavender'
   | 'dark'
   | 'ocean'
   | 'forest'
   | 'sunset'
-  | 'matcha'
-  | 'espresso'
-  | 'gold';
+  | 'bordeaux';
 
 export interface ThemeConfig {
   id: AppTheme;
@@ -16,7 +16,7 @@ export interface ThemeConfig {
   name_en: string;
   description_ar: string;
   description_en: string;
-  icon: 'sun' | 'moon' | 'book' | 'ocean' | 'forest' | 'sunset' | 'sand' | 'leaf' | 'coffee' | 'crown';
+  icon: 'sun' | 'moon' | 'book' | 'ocean' | 'forest' | 'sunset' | 'sand' | 'leaf' | 'coffee' | 'crown' | 'frost' | 'lavender' | 'bordeaux';
   isDarkFamily: boolean;
   colorSwatch: {
     bg: string;
@@ -55,17 +55,17 @@ export const APP_THEMES: ThemeConfig[] = [
     },
   },
   {
-    id: 'sepia',
-    name_ar: 'سيبيا ورقي',
-    name_en: 'Sepia Paper',
-    description_ar: 'ورقي كهرماني كلاسيكي بأسلوب الكتب القديمة',
-    description_en: 'Warm amber parchment for vintage book reading',
-    icon: 'book',
+    id: 'frost',
+    name_ar: 'ثلجي قطبي',
+    name_en: 'Glacier Frost',
+    description_ar: 'أزرق ثلجي ناصع وبارد يمنح العين برودة وانتعاشاً ذهنياً أثناء القراءة',
+    description_en: 'Crisp arctic ice & glacier blue for ultra-cool reading',
+    icon: 'frost',
     isDarkFamily: false,
     colorSwatch: {
-      bg: '#f6efe1',
-      border: '#dfceb4',
-      accent: '#b45309',
+      bg: '#eaf2f8',
+      border: '#b9d5ea',
+      accent: '#0284c7',
     },
   },
   {
@@ -80,6 +80,20 @@ export const APP_THEMES: ThemeConfig[] = [
       bg: '#edf4ee',
       border: '#c5d9c9',
       accent: '#2d6a4f',
+    },
+  },
+  {
+    id: 'lavender',
+    name_ar: 'خزامى ناعمة',
+    name_en: 'Lilac Lavender',
+    description_ar: 'موف لافندر باودري هادئ مستوحى من راحة القراءة المسائية في كتب آبل',
+    description_en: 'Gentle powdery lilac & mauve for calm, dreamy reading',
+    icon: 'lavender',
+    isDarkFamily: false,
+    colorSwatch: {
+      bg: '#f3effa',
+      border: '#d7cbe8',
+      accent: '#7c3aed',
     },
   },
   {
@@ -139,31 +153,17 @@ export const APP_THEMES: ThemeConfig[] = [
     },
   },
   {
-    id: 'espresso',
-    name_ar: 'موكا إسبريسو',
-    name_en: 'Espresso Roast',
-    description_ar: 'بني قهوة داكن دافئ مع لمسات الكراميل الفاخر',
-    description_en: 'Rich roasted coffee & warm caramel notes',
-    icon: 'coffee',
+    id: 'bordeaux',
+    name_ar: 'عنابي فاخر',
+    name_en: 'Royal Bordeaux',
+    description_ar: 'نبيذي ياقوتي عميق ودافئ بأسلوب المكتبات التاريخية الراقية',
+    description_en: 'Deep vintage ruby wine & velvety crimson for cozy nights',
+    icon: 'bordeaux',
     isDarkFamily: true,
     colorSwatch: {
-      bg: '#18120e',
-      border: '#3c2b20',
-      accent: '#f59e0b',
-    },
-  },
-  {
-    id: 'gold',
-    name_ar: 'ذهب ملكي',
-    name_en: 'Obsidian Gold',
-    description_ar: 'أسود أوبسيديان نفاث فاحم مع تطريز ذهب عيار 24 الفاخر',
-    description_en: 'Jet obsidian black elevated with 24K radiant gold trim',
-    icon: 'crown',
-    isDarkFamily: true,
-    colorSwatch: {
-      bg: '#090a0d',
-      border: '#2e2511',
-      accent: '#eab308',
+      bg: '#1b0811',
+      border: '#4c1a30',
+      accent: '#f43f5e',
     },
   },
 ];

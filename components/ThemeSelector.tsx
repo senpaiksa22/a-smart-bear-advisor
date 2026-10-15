@@ -2,7 +2,7 @@
 
 import React, { useState, useRef, useEffect } from 'react';
 import { AppTheme, APP_THEMES } from '@/lib/theme';
-import { Sun, Moon, BookOpen, Compass, Trees, Palette, Check, Sparkles, Coffee, Leaf, Crown } from 'lucide-react';
+import { Sun, Moon, Compass, Trees, Palette, Check, Sparkles, Coffee, Leaf, Crown, Wind, Wine } from 'lucide-react';
 
 interface ThemeSelectorProps {
   currentTheme: AppTheme;
@@ -46,8 +46,6 @@ export default function ThemeSelector({
         return <Coffee className={className} />;
       case 'moon':
         return <Moon className={className} />;
-      case 'book':
-        return <BookOpen className={className} />;
       case 'ocean':
         return <Compass className={className} />;
       case 'forest':
@@ -56,8 +54,12 @@ export default function ThemeSelector({
         return <Palette className={className} />;
       case 'leaf':
         return <Leaf className={className} />;
-      case 'coffee':
-        return <Coffee className={className} />;
+      case 'frost':
+        return <Wind className={className} />;
+      case 'lavender':
+        return <Sparkles className={className} />;
+      case 'bordeaux':
+        return <Wine className={className} />;
       case 'crown':
         return <Crown className={className} />;
       default:
@@ -125,8 +127,10 @@ export default function ThemeSelector({
                   ? 'مريح للعين'
                   : theme.id === 'matcha'
                   ? 'سكينة وهدوء'
-                  : theme.id === 'sepia'
-                  ? 'ورق كلاسيكي'
+                  : theme.id === 'frost'
+                  ? 'بارد ومنعش'
+                  : theme.id === 'lavender'
+                  ? 'موف باودري'
                   : theme.id === 'light'
                   ? 'أبيض ناصع'
                   : theme.id === 'dark'
@@ -137,17 +141,17 @@ export default function ThemeSelector({
                   ? 'صنوبر مهدئ'
                   : theme.id === 'sunset'
                   ? 'مخملي ملكي'
-                  : theme.id === 'espresso'
-                  ? 'قهوة دافئة'
-                  : 'أوبسيديان ذهبي';
+                  : 'ياقوتي نبيذي';
 
               const subtitleEn =
                 theme.id === 'sand'
                   ? 'Eye-Ease'
                   : theme.id === 'matcha'
                   ? 'Zen Focus'
-                  : theme.id === 'sepia'
-                  ? 'Warm Paper'
+                  : theme.id === 'frost'
+                  ? 'Glacier Ice'
+                  : theme.id === 'lavender'
+                  ? 'Powder Lilac'
                   : theme.id === 'light'
                   ? 'Clean White'
                   : theme.id === 'dark'
@@ -158,9 +162,7 @@ export default function ThemeSelector({
                   ? 'Calming Pine'
                   : theme.id === 'sunset'
                   ? 'Royal Velvet'
-                  : theme.id === 'espresso'
-                  ? 'Warm Roast'
-                  : 'Obsidian Gold';
+                  : 'Ruby Wine';
 
               return (
                 <button
