@@ -678,8 +678,9 @@ export default function AdvisorPanel({
                             })}
                           </span>
                           {!isUser && (
-                            <span className="text-[9px] px-1.5 py-0.5 rounded-full bg-bear-50 dark:bg-bear-950 text-bear-700 dark:text-bear-300 border border-bear-500/20">
-                              {currentModelObj.name}
+                            <span className="text-[10px] px-2 py-0.5 rounded-md bg-emerald-50 dark:bg-emerald-950/80 text-emerald-700 dark:text-emerald-300 border border-emerald-500/30 font-mono font-bold flex items-center gap-1.5 shadow-2xs">
+                              <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse shrink-0" />
+                              <span>{msg.model_used || currentModelObj.name}</span>
                             </span>
                           )}
                         </div>

@@ -201,7 +201,8 @@ export async function saveMessage(
   conversationId: string,
   userId: string,
   role: 'user' | 'assistant' | 'system',
-  content: string
+  content: string,
+  modelUsed?: string
 ) {
   if (supabaseClient) {
     const { data, error } = await supabaseClient
@@ -211,6 +212,7 @@ export async function saveMessage(
         user_id: userId,
         role,
         content,
+        model_used: modelUsed,
       })
       .select('*')
       .single();
@@ -234,6 +236,7 @@ export async function saveMessage(
     user_id: userId,
     role,
     content,
+    model_used: modelUsed,
     created_at: new Date().toISOString(),
   };
 

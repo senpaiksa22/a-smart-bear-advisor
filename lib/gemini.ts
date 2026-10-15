@@ -52,12 +52,18 @@ export function findRelevantArticles(query: string, maxResults: number = 3): any
   }
 }
 
+export interface GeminiResponsePayload {
+  text: string;
+  modelUsed: string;
+  isLive: boolean;
+}
+
 export async function callGeminiAdvisor(params: {
   modelId: string;
   messages: Array<{ role: 'user' | 'assistant' | 'system'; content: string }>;
   contextArticle?: any;
   userQuery: string;
-}): Promise<string> {
+}): Promise<GeminiResponsePayload> {
   const apiKey = process.env.GEMINI_API_KEY;
   const persona = getJasonCohenPersona();
   const selectedModel = AVAILABLE_MODELS.find((m) => m.id === params.modelId) || AVAILABLE_MODELS[1];
@@ -97,7 +103,11 @@ ${knowledgeContext}
 
   // If GEMINI_API_KEY is not configured yet, generate an authentic offline response
   if (!apiKey || apiKey === 'YOUR_GEMINI_API_KEY_HERE') {
-    return generateOfflineAdvisorResponse(params.userQuery, relevantArticles, selectedModel);
+    return {
+      text: generateOfflineAdvisorResponse(params.userQuery, relevantArticles, selectedModel),
+      modelUsed: `${selectedModel.name} (محلي)`,
+      isLive: false,
+    };
   }
 
   // Call official Gemini REST API (Zero Client Exposure)
@@ -126,6 +136,8 @@ ${knowledgeContext}
       body: JSON.stringify({ contents }),
     });
 
+    let modelUsedName = selectedModel.name;
+
     // If primary model has high demand or error, fallback to gemini-3.5-flash-lite
     if (!response.ok && activeModel !== 'gemini-3.5-flash-lite') {
       console.warn(`Model ${activeModel} returned ${response.status}, failing over to gemini-3.5-flash-lite...`);
@@ -135,24 +147,43 @@ ${knowledgeContext}
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ contents }),
       });
+      if (response.ok) {
+        modelUsedName = 'Gemini 3.5 Flash-Lite (تلقائي)';
+      }
     }
 
     if (!response.ok) {
       const errText = await response.text();
       console.warn(`Gemini API returned ${response.status}: ${errText}. Falling back to internal advisor engine.`);
-      return generateOfflineAdvisorResponse(params.userQuery, relevantArticles, selectedModel);
+      return {
+        text: generateOfflineAdvisorResponse(params.userQuery, relevantArticles, selectedModel),
+        modelUsed: `${selectedModel.name} (محلي)`,
+        isLive: false,
+      };
     }
 
     const data = await response.json();
     const candidate = data.candidates?.[0]?.content?.parts?.[0]?.text;
     if (candidate) {
-      return candidate;
+      return {
+        text: candidate,
+        modelUsed: modelUsedName,
+        isLive: true,
+      };
     }
 
-    return generateOfflineAdvisorResponse(params.userQuery, relevantArticles, selectedModel);
+    return {
+      text: generateOfflineAdvisorResponse(params.userQuery, relevantArticles, selectedModel),
+      modelUsed: `${selectedModel.name} (محلي)`,
+      isLive: false,
+    };
   } catch (err) {
     console.warn('Gemini API call failed, falling back to local advisor:', err);
-    return generateOfflineAdvisorResponse(params.userQuery, relevantArticles, selectedModel);
+    return {
+      text: generateOfflineAdvisorResponse(params.userQuery, relevantArticles, selectedModel),
+      modelUsed: `${selectedModel.name} (محلي)`,
+      isLive: false,
+    };
   }
 }
 

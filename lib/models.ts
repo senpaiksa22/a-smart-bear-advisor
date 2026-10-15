@@ -28,7 +28,7 @@ export const AVAILABLE_MODELS: ModelOption[] = [
     name_ar: 'جيميناي 3.8 فلاش',
     description_en: 'All-around help & balanced tactical advice',
     description_ar: 'المساعد الشامل للمهام اليومية المتوازنة',
-    apiModel: 'gemini-flash-latest',
+    apiModel: 'gemini-3.8-flash',
     badge_en: 'Balanced / All-around',
     badge_ar: 'شامل ومتوازن',
     badgeColor: 'bg-blue-500/10 text-blue-700 dark:text-blue-300 border-blue-500/20',

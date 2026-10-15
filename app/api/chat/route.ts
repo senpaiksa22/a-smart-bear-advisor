@@ -71,21 +71,28 @@ export async function POST(request: NextRequest) {
     await saveMessage(activeConvId, user.id, 'user', cleanQuery);
 
     // 6. Invoke Gemini Advisor Server-Side
-    const assistantReply = await callGeminiAdvisor({
+    const { text: assistantReply, modelUsed, isLive } = await callGeminiAdvisor({
       modelId,
       messages: historyMessages,
       contextArticle,
       userQuery: cleanQuery,
     });
 
-    // 7. Save Assistant Reply to Database
-    const savedAssistantMsg = await saveMessage(activeConvId, user.id, 'assistant', assistantReply);
+    // 7. Save Assistant Reply to Database (with exact model name)
+    const savedAssistantMsg = await saveMessage(
+      activeConvId,
+      user.id,
+      'assistant',
+      assistantReply,
+      modelUsed
+    );
 
     return NextResponse.json({
       success: true,
       conversationId: activeConvId,
       message: savedAssistantMsg,
-      modelUsed: modelId,
+      modelUsed,
+      isLive,
     });
   } catch (error: any) {
     console.error('Chat endpoint error:', error);
