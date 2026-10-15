@@ -59,37 +59,45 @@ export async function POST(request: NextRequest) {
           content: '📝 ملاحظة في مقال أو ترجمة',
         };
 
+        const escapeHtml = (text: string) =>
+          text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
         const categoryText = categoryLabels[cleanCategory] || cleanCategory;
         const reporterName = user ? `👤 ${user.username} (مسجل)` : '👤 زائر (غير مسجل)';
         const dateStr = new Date().toLocaleString('ar-SA', { timeZone: 'Asia/Riyadh' });
 
-        let telegramText = `🚨 *بلاغ جديد من منصة مستشار الدب الذكي!*\n`;
-        telegramText += `━━━━━━━━━━━━━━━━━━━━\n`;
-        telegramText += `📌 *التصنيف:* ${categoryText}\n`;
-        telegramText += `👤 *المرسل:* ${reporterName}\n`;
-        telegramText += `💬 *نص البلاغ:*\n${cleanMessage}\n\n`;
+        let telegramHtml = `🚨 <b>بلاغ جديد من منصة مستشار الدب الذكي!</b>\n`;
+        telegramHtml += `━━━━━━━━━━━━━━━━━━━━\n`;
+        telegramHtml += `📌 <b>التصنيف:</b> ${escapeHtml(categoryText)}\n`;
+        telegramHtml += `👤 <b>المرسل:</b> ${escapeHtml(reporterName)}\n`;
+        telegramHtml += `💬 <b>نص البلاغ:</b>\n${escapeHtml(cleanMessage)}\n\n`;
 
         if (contactInfo) {
-          telegramText += `📱 *وسيلة التواصل:* \`${contactInfo}\`\n`;
+          telegramHtml += `📱 <b>وسيلة التواصل:</b> <code>${escapeHtml(contactInfo)}</code>\n`;
         }
         if (pageUrl) {
-          telegramText += `🔗 *الصفحة:* \`${pageUrl}\`\n`;
+          telegramHtml += `🔗 <b>الصفحة:</b> ${escapeHtml(pageUrl)}\n`;
         }
         if (errorDetails) {
-          telegramText += `⚠️ *تفاصيل الخطأ:*\n\`\`\`\n${String(errorDetails).slice(0, 400)}\n\`\`\`\n`;
+          telegramHtml += `⚠️ <b>تفاصيل الخطأ:</b>\n<pre>${escapeHtml(String(errorDetails).slice(0, 400))}</pre>\n`;
         }
-        telegramText += `⏰ *الوقت:* ${dateStr}`;
+        telegramHtml += `⏰ <b>الوقت:</b> ${escapeHtml(dateStr)}`;
 
-        // Fire and forget telegram dispatch with short timeout
-        fetch(`https://api.telegram.org/bot${telegramToken}/sendMessage`, {
+        // Must await in serverless runtime so Vercel does not terminate the process early
+        const tgRes = await fetch(`https://api.telegram.org/bot${telegramToken}/sendMessage`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
             chat_id: telegramChatId,
-            text: telegramText,
-            parse_mode: 'Markdown',
+            text: telegramHtml,
+            parse_mode: 'HTML',
           }),
-        }).catch((tgErr) => console.warn('Telegram dispatch warning:', tgErr));
+        });
+
+        if (!tgRes.ok) {
+          const errText = await tgRes.text();
+          console.warn('Telegram API response error:', tgRes.status, errText);
+        }
       } catch (tgError) {
         console.warn('Telegram notification error:', tgError);
       }
