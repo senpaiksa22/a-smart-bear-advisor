@@ -14,35 +14,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ar" dir="rtl" className="scroll-smooth" suppressHydrationWarning>
-      <head>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              // Clean up Bitdefender TrafficLight extension attributes before hydration
-              (function() {
-                try {
-                  const clean = function() {
-                    const els = document.querySelectorAll('[bis_skin_checked]');
-                    for (let i = 0; i < els.length; i++) {
-                      els[i].removeAttribute('bis_skin_checked');
-                    }
-                  };
-                  clean();
-                  const obs = new MutationObserver(function(muts) {
-                    for (let i = 0; i < muts.length; i++) {
-                      const m = muts[i];
-                      if (m.type === 'attributes' && m.attributeName === 'bis_skin_checked') {
-                        m.target.removeAttribute('bis_skin_checked');
-                      }
-                    }
-                  });
-                  obs.observe(document.documentElement, { attributes: true, subtree: true, attributeFilter: ['bis_skin_checked'] });
-                } catch(e) {}
-              })();
-            `,
-          }}
-        />
-      </head>
       <body
         className="min-h-screen bg-stone-50 dark:bg-stone-950 text-stone-900 dark:text-stone-100 antialiased selection:bg-bear-500/20 selection:text-bear-800 dark:selection:text-bear-200"
         suppressHydrationWarning
