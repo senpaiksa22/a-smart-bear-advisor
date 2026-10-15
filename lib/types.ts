@@ -28,6 +28,7 @@ export interface Article {
   subtopics_ar: Subtopic[];
   content_en_path: string;
   content_ar_path: string;
+  word_count?: number;
   // Legacy / fallback fields
   category?: string;
   summary?: string;
