@@ -8,13 +8,13 @@ published_date: "Sun, 22 Oct 2023 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Some of the most enticing, important metrics are impossible to measure, even after the fact. Here's how to identify and avoid this trap."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Metrics that cannot even be measured in retrospect'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "بعض من أكثر المقاييس جاذبية وأهمية يستحيل قياسها، حتى بعد فوات الأوان. إليك كيفية تحديد هذا الفخ وتجنب الوقوع فيه."
 ---
 
 # المقاييس التي لا يمكن قياسها حتى بعد فوات الأوان
 ### Metrics that cannot even be measured in retrospect
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Metrics that cannot even be measured in retrospect'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** بعض من أكثر المقاييس جاذبية وأهمية يستحيل قياسها، حتى بعد فوات الأوان. إليك كيفية تحديد هذا الفخ وتجنب الوقوع فيه.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/unmeasurable-metrics/](https://longform.asmartbear.com/unmeasurable-metrics/)
 

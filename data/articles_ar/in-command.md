@@ -8,13 +8,13 @@ published_date: "Sun, 30 Jul 2023 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Being \"in control\" is impossible, perhaps not even desirable. Being \"in command\" is ideal: honest, introspective, agile, aware, and proactive."
-summary_ar: "Being \"
+summary_ar: "أن تكون \"مسيطرًا تماماً\" هو أمر مستحيل وربما غير مرغوب فيه أصلاً. أما أن تكون \"متحكماً في الدفة وقائداً واعياً\" فهذا هو الوضع المثالي: متسم بالنزاهة، والمراجعة الذاتية، والمرونة، والوعي، والاستباقية."
 ---
 
 # كيف تكون متحكماً في دفة شركتك دون أن تكون دكتاتوراً متسلطاً
 ### In command
 
-> **الملخص التنفيذي:** Being \
+> **الملخص التنفيذي:** أن تكون "مسيطرًا تماماً" هو أمر مستحيل وربما غير مرغوب فيه أصلاً. أما أن تكون "متحكماً في الدفة وقائداً واعياً" فهذا هو الوضع المثالي: متسم بالنزاهة، والمراجعة الذاتية، والمرونة، والوعي، والاستباقية.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/in-command/](https://longform.asmartbear.com/in-command/)
 

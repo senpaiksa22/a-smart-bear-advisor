@@ -8,13 +8,13 @@ published_date: "Sat, 05 Mar 2022 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Even Facebook and Slack did not grow \"exponentially,\" as frequently described. Here is the correct model that you can use to understand and affect growth."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The Elephant in the room: The myth of exponential hypergrowth'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "حتى الشركات سريعة الانتشار مثل فيسبوك وسلاك لم تنمو أبدًا بمعدل "أُسي" كما يُشاع، بل بنمو تربيعي واقعي. يقدم جيسون كوهين في هذا المقال النموذج الرياضي الدقيق لفهم محركات النمو الحقيقية في شركتك والتأثير فيها بفاعلية."
 ---
 
 # الفيل في الغرفة: خرافة النمو الأسي فائق السرعة
 ### The Elephant in the room: The myth of exponential hypergrowth
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The Elephant in the room: The myth of exponential hypergrowth'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** حتى الشركات سريعة الانتشار مثل فيسبوك وسلاك لم تنمو أبدًا بمعدل "أُسي" كما يُشاع، بل بنمو تربيعي واقعي. يقدم جيسون كوهين في هذا المقال النموذج الرياضي الدقيق لفهم محركات النمو الحقيقية في شركتك والتأثير فيها بفاعلية.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/exponential-growth/](https://longform.asmartbear.com/exponential-growth/)
 

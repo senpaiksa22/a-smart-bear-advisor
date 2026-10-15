@@ -8,13 +8,13 @@ published_date: "Sun, 27 Aug 2023 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "An objectively \"worse\" strategy can win, if it leverages something unique or unexpected. Startups can use this concept to beat incumbents."
-summary_ar: "An objectively \"
+summary_ar: "يمكن للاستراتيجية التي تعتبر \"أسوأ\" بموضوعية أن تحقق الفوز، شريطة أن تستند إلى استغلال جانب فريد أو غير متوقع. تستطيع الشركات الناشئة توظيف هذا المفهوم للتفوق على الشركات المهيمنة في السوق."
 ---
 
 # أن تكون أسوأ ولكن فريداً ومميزاً خير من أن تكون نسخة مكررة
 ### Worse, but unique
 
-> **الملخص التنفيذي:** An objectively \
+> **الملخص التنفيذي:** يمكن للاستراتيجية التي تعتبر "أسوأ" بموضوعية أن تحقق الفوز، شريطة أن تستند إلى استغلال جانب فريد أو غير متوقع. تستطيع الشركات الناشئة توظيف هذا المفهوم للتفوق على الشركات المهيمنة في السوق.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/worse-but-unique/](https://longform.asmartbear.com/worse-but-unique/)
 

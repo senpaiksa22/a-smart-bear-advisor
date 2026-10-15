@@ -8,13 +8,13 @@ published_date: "Sun, 21 Jan 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Some things appear to be mistakes, but in fact should be celebrated as the expected outcomes of great decisions."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The \"errors\" that mean you're doing it right'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "بعض المواقف تبدو للوهلة الأولى كأخطاء، لكنها في الواقع علامات نجاح تستحق الاحتفال باعتبارها النتائج الطبيعية للقرارات السليمة."errors\" that mean you're doing it right'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
 # الأخطاء والمشكلات التي تعني أنك تسير على الطريق الصحيح
 ### The "errors" that mean you're doing it right
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The "errors" that mean you're doing it right'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** بعض المواقف تبدو للوهلة الأولى كأخطاء، لكنها في الواقع علامات نجاح تستحق الاحتفال باعتبارها النتائج الطبيعية للقرارات السليمة.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/good-problems-to-have/](https://longform.asmartbear.com/good-problems-to-have/)
 

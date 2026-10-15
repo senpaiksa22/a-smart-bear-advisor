@@ -8,13 +8,13 @@ published_date: "Mon, 21 Jun 2010 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Don't get caught in a cycle of incremental A/B testing. Sometimes you need to try something radically different."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Out of the cesspool and into the sewer: A/B testing trap'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "لا تنحصر في دائرة اختبارات A/B التراكمية والبسيطة. فأحياناً تتطلب النقلة الكبرى تجربة مقاربات جذرية ومختلفة كلياً."
 ---
 
 # فخ القاع المحلي: كيف توقعك اختبارات A/B في تحسينات تافهة وتبعدك عن الثورات الكبرى؟
 ### Out of the cesspool and into the sewer: A/B testing trap
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Out of the cesspool and into the sewer: A/B testing trap'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** لا تنحصر في دائرة اختبارات A/B التراكمية والبسيطة. فأحياناً تتطلب النقلة الكبرى تجربة مقاربات جذرية ومختلفة كلياً.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/local-minimum/](https://longform.asmartbear.com/local-minimum/)
 

@@ -8,13 +8,13 @@ published_date: "Mon, 28 Apr 2014 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Startups fail at biz dev because their proposals don't make sense to bigger companies. Here's how to adjust your approach."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Why startup biz dev deals almost never get done'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "تفشل الشركات الناشئة في مجال التطوير التجاري لأن عروضها لا منطق فيها للشركات الكبرى. إليك كيفية تعديل نهجك."
 ---
 
 # لماذا تفشل صفقات الشراكة الاستراتيجية والتطوير التجاري للشركات الناشئة؟
 ### Why startup biz dev deals almost never get done
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Why startup biz dev deals almost never get done'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** تفشل الشركات الناشئة في مجال التطوير التجاري لأن عروضها لا منطق فيها للشركات الكبرى. إليك كيفية تعديل نهجك.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/startup-biz-dev/](https://longform.asmartbear.com/startup-biz-dev/)
 

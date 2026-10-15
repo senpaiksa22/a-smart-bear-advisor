@@ -8,13 +8,13 @@ published_date: "Tue, 28 Jun 2016 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "How do you assess forecasts, when the forecast is only a probability? It's not just about accuracy. Let's dive into the math."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How to measure the accuracy of forecasts'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "استعراض عملي لمنهجية تقييم دقة التوقعات المالية ومخططات النمو للشركات الناشئة، وكيفية تجنب الأوهام الرقمية وبناء نماذج تنبؤية واقعية."
 ---
 
 # كيف تقيس الدقة الحقيقية لتوقعاتك المالية ومخططات النمو؟
 ### How to measure the accuracy of forecasts
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How to measure the accuracy of forecasts'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** استعراض عملي لمنهجية تقييم دقة التوقعات المالية ومخططات النمو للشركات الناشئة، وكيفية تجنب الأوهام الرقمية وبناء نماذج تنبؤية واقعية.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/forecast/](https://longform.asmartbear.com/forecast/)
 

@@ -8,13 +8,13 @@ published_date: "Sat, 27 Dec 2014 08:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Do New Year's resolutions work? Studies say \"no.\" Instead, Ask good questions of yourself, and follow your own advice."
-summary_ar: "Do New Year's resolutions work? Studies say \"
+summary_ar: "هل تجدي قرارات العام الجديد نفعاً؟ تؤكد الدراسات أن الإجابة هي 'لا'. بدلاً من ذلك، اطرح على نفسك أسئلة عميقة واعمل وفق إجاباتك."
 ---
 
 # أسئلة العام الجديد للرواد (بدلاً من القرارات التقليدية)
 ### New Year's Questions (neé Resolutions)
 
-> **الملخص التنفيذي:** Do New Year's resolutions work? Studies say \
+> **الملخص التنفيذي:** هل تجدي قرارات العام الجديد نفعاً؟ تؤكد الدراسات أن الإجابة هي 'لا'. بدلاً من ذلك، اطرح على نفسك أسئلة عميقة واعمل وفق إجاباتك.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/new-years-resolutions/](https://longform.asmartbear.com/new-years-resolutions/)
 

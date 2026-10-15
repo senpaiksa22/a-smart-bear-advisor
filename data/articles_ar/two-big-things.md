@@ -8,13 +8,13 @@ published_date: "Tue, 07 Jan 2014 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "No you can't \"have it all.\"  You can have two things, but not three."
-summary_ar: "No you can't \"
+summary_ar: "كلا، لا يمكنك \"الحصول على كل شيء\". يمكنك إدارة أمرين كبيرين فقط، ولكن ليس ثلاثة."
 ---
 
 # يمكنك التركيز على أمرين كبيرين فقط، ولكن ليس ثلاثة
 ### You can have two Big Things, but not three
 
-> **الملخص التنفيذي:** No you can't \
+> **الملخص التنفيذي:** كلا، لا يمكنك "الحصول على كل شيء". يمكنك إدارة أمرين كبيرين فقط، ولكن ليس ثلاثة.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/two-big-things/](https://longform.asmartbear.com/two-big-things/)
 

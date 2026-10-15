@@ -8,13 +8,13 @@ published_date: "Tue, 08 Dec 2015 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Is everyone working very hard, all the time, and yet accomplishing 1/10th of what it seems they should? Maybe this is why."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Your non-linear problem of 90% utilization'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "تحليل عميق لطبيعة استغلال الموارد بنسبة 90% وكيف تتحول العمليات إلى أنظمة غير خطية تتسبب في الاختناقات وتأخير المشاريع وتراجع الكفاءة."
 ---
 
 # المشكلة غير الخطية لنسبة استغلال الموارد بنسبة 90%
 ### Your non-linear problem of 90% utilization
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Your non-linear problem of 90% utilization'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** تحليل عميق لطبيعة استغلال الموارد بنسبة 90% وكيف تتحول العمليات إلى أنظمة غير خطية تتسبب في الاختناقات وتأخير المشاريع وتراجع الكفاءة.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/utilization/](https://longform.asmartbear.com/utilization/)
 

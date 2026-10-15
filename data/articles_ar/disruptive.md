@@ -8,13 +8,13 @@ published_date: "Mon, 12 Apr 2010 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "I remember \"disruptive\" when it was called a \"paradigm shift.\" You should be worrying more about making something people want to buy, and less about disrupting everything."
-summary_ar: "I remember \"
+summary_ar: "أتذكر مصطلح \"ثوري/مهيمن\" حين كان يسمى \"تحولاً نموذجياً\". ينبغي أن تقلق أكثر بشأن ابتكار شيء يرغب الناس في شرائه، وبشكل أقل بشأن قلب كل موازين السوق رأساً على عقب."
 ---
 
 # لسنا شركة ثورية تقلب الموازين، وفخورون بذلك تماماً
 ### Not disruptive, and proud of it
 
-> **الملخص التنفيذي:** I remember \
+> **الملخص التنفيذي:** أتذكر مصطلح "ثوري/مهيمن" حين كان يسمى "تحولاً نموذجياً". ينبغي أن تقلق أكثر بشأن ابتكار شيء يرغب الناس في شرائه، وبشكل أقل بشأن قلب كل موازين السوق رأساً على عقب.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/disruptive/](https://longform.asmartbear.com/disruptive/)
 

@@ -8,13 +8,13 @@ published_date: "Mon, 07 Oct 2013 00:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "The LTV metric overcomplicates and misleads. Learn why you should use other SaaS metrics instead."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Why I don't like the LTV metric (LifeTime Value)'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "مقياس القيمة الدائمة للعميل (LTV) يبالغ في تعقيد الأمور ويؤدي إلى نتائج مضللة. اكتشف لماذا يجب عليك الاعتماد على مقاييس أخرى لشركات البرمجيات كخدمة (SaaS) بدلاً منه."
 ---
 
 # لماذا لا أثق في مقياس القيمة الدائمة للعميل (LTV) التقليدي؟
 ### Why I don't like the LTV metric (LifeTime Value)
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Why I don't like the LTV metric (LifeTime Value)'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** مقياس القيمة الدائمة للعميل (LTV) يبالغ في تعقيد الأمور ويؤدي إلى نتائج مضللة. اكتشف لماذا يجب عليك الاعتماد على مقاييس أخرى لشركات البرمجيات كخدمة (SaaS) بدلاً منه.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/ltv/](https://longform.asmartbear.com/ltv/)
 

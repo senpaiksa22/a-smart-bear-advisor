@@ -8,13 +8,13 @@ published_date: "Tue, 18 Aug 2015 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Competing against big firms? Their revenue streams are their Achilles heel. Learn how smaller startups have a shot."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Why it's nice to compete against a large, profitable company'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "دعوة للتفكير المختلف في كيفية منافسة الشركات الكبرى عبر التركيز على الربحية والتدفقات النقدية بدلاً من الدخول في حروب استنزاف حصص السوق."
 ---
 
 # لماذا يعتبر التنافس ضد شركة كبرى ومربحة فرصة ذهبية وممتعة؟
 ### Why it's nice to compete against a large, profitable company
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Why it's nice to compete against a large, profitable company'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** دعوة للتفكير المختلف في كيفية منافسة الشركات الكبرى عبر التركيز على الربحية والتدفقات النقدية بدلاً من الدخول في حروب استنزاف حصص السوق.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/compete-on-profit/](https://longform.asmartbear.com/compete-on-profit/)
 

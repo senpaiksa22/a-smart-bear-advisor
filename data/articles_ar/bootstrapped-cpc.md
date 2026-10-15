@@ -8,13 +8,13 @@ published_date: "Mon, 29 Apr 2013 00:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "Bootstrapped and unsure about CPC? Use the rule of ARPU/25."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Bootstrapped CPC rule of thumb: ARPU/25'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "إذا كنت تدير شركتك ذاتياً وتساورك الشكوك حول تكلفة النقرة (CPC)، فعليك بقاعدة: متوسط إيرادات المستخدم (ARPU) مقسوماً على 25."
 ---
 
 # قاعدة تكلفة النقرة للشركات الممولة ذاتياً: ARPU مقسوماً على 25
 ### Bootstrapped CPC rule of thumb: ARPU/25
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Bootstrapped CPC rule of thumb: ARPU/25'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** إذا كنت تدير شركتك ذاتياً وتساورك الشكوك حول تكلفة النقرة (CPC)، فعليك بقاعدة: متوسط إيرادات المستخدم (ARPU) مقسوماً على 25.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/bootstrapped-cpc/](https://longform.asmartbear.com/bootstrapped-cpc/)
 

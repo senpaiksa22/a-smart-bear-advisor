@@ -8,13 +8,13 @@ published_date: "Mon, 17 Aug 2009 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Advice from \"successful entrepreneurs\" might be unreliable due to Survivor Bias. What's real, and what's random?"
-summary_ar: "Advice from \"
+summary_ar: "قد تكون النصائح الصادرة عن \"رواد الأعمال الناجحين\" غير موثوقة بسبب انحياز البقاء (Survivor Bias). فما هو الحقيقي وما هو مجرد صدفة عشوائية؟"
 ---
 
 # نصائح رواد الأعمال الملوثة بانحياز البقاء (Survivor Bias)
 ### Business Advice Plagued by Survivor Bias
 
-> **الملخص التنفيذي:** Advice from \
+> **الملخص التنفيذي:** قد تكون النصائح الصادرة عن "رواد الأعمال الناجحين" غير موثوقة بسبب انحياز البقاء (Survivor Bias). فما هو الحقيقي وما هو مجرد صدفة عشوائية؟
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/survivor-bias/](https://longform.asmartbear.com/survivor-bias/)
 

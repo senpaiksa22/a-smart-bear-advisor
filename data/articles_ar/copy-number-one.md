@@ -8,13 +8,13 @@ published_date: "Mon, 04 Apr 2011 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Being \"undefeated\" or \"number 1\" might be more luck than you know."
-summary_ar: "Being \"
+summary_ar: "قد تكون صفة 'غير المهزوم' أو 'الرقم واحد' ناتجة عن الحظ أكثر بكثير مما تظن."
 ---
 
 # التضحية بصحتك من أجل شركتك الناشئة: الوهم القاتل الذي يجب تجنبه
 ### Our unhealthy fixation with emulating #1
 
-> **الملخص التنفيذي:** Being \
+> **الملخص التنفيذي:** قد تكون صفة 'غير المهزوم' أو 'الرقم واحد' ناتجة عن الحظ أكثر بكثير مما تظن.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/copy-number-one/](https://longform.asmartbear.com/copy-number-one/)
 

@@ -8,13 +8,13 @@ published_date: "Tue, 22 Oct 2013 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "A top contributor isn't just better than ten average ones--they're infinitely superior, driving creativity and innovation that countless others can't match."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Imbalanced People'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "الأشخاص غير المتوازنين: لماذا يخلق الشغف غير المتوازن نتائج استثنائية؟"
 ---
 
 # الأشخاص غير المتوازنين: لماذا يصنع الشغف غير المتوازن نتائج استثنائية؟
 ### Imbalanced People
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Imbalanced People'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** الأشخاص غير المتوازنين: لماذا يخلق الشغف غير المتوازن نتائج استثنائية؟
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/imbalanced-people/](https://longform.asmartbear.com/imbalanced-people/)
 

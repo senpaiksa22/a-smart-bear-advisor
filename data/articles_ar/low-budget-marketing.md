@@ -8,13 +8,13 @@ published_date: "Tue, 14 May 2013 08:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Low on cash but need marketing results? Here are four specific things you can do to grow on a budget."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Solving the Low-Budget Online Marketing Dilemma'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "هل تعاني من شح السيولة وتحتاج إلى نتائج تسويقية؟ إليك أربع خطوات عملية محددة يمكنك تطبيقها لتحقيق النمو بميزانية محدودة."
 ---
 
 # حل معضلة التسويق الإلكتروني بميزانيات محدودة وصفرية
 ### Solving the Low-Budget Online Marketing Dilemma
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Solving the Low-Budget Online Marketing Dilemma'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** هل تعاني من شح السيولة وتحتاج إلى نتائج تسويقية؟ إليك أربع خطوات عملية محددة يمكنك تطبيقها لتحقيق النمو بميزانية محدودة.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/low-budget-marketing/](https://longform.asmartbear.com/low-budget-marketing/)
 

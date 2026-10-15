@@ -8,13 +8,13 @@ published_date: "Wed, 10 Oct 2012 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Customers ask for ROI calculations to justify purchasing your software, but it still doesn't convince them. Here's what to do instead."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: ROI\" is the wrong way to sell your product'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "يطلب العملاء حسابات العائد على الاستثمار (ROI) لتبرير شراء برمجياتك، لكن ذلك لا يكفي لإقناعهم حقاً. إليك ما يجب عليك فعله بدلاً من ذلك." is the wrong way to sell your product'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
 # بيع العائد على الاستثمار (ROI) هو الطريقة الخاطئة لتسويق منتجك
 ### "ROI" is the wrong way to sell your product
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: ROI" is the wrong way to sell your product'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** يطلب العملاء حسابات العائد على الاستثمار (ROI) لتبرير شراء برمجياتك، لكن ذلك لا يكفي لإقناعهم حقاً. إليك ما يجب عليك فعله بدلاً من ذلك.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/roi-selling/](https://longform.asmartbear.com/roi-selling/)
 

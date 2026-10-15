@@ -8,13 +8,13 @@ published_date: "Sun, 19 Mar 2023 00:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "We dramatically, repeatedly fail to predict the future. Does that mean \"strategy\" is senseless? No, it means you need these techniques to navigate a volatile world."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Navigating the unpredictability of everything'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "نحن نفشل بشكل دراماتيكي ومتكرر في التنبؤ بالمستقبل. فهل يعني هذا أن \"الاستراتيجية\" أصبحت بلا معنى؟ كلا، بل يعني أنك بحاجة إلى هذه التقنيات للإبحار في عالم شديد التقلب."
 ---
 
 # التعامل مع عدم القدرة على التنبؤ بالمستقبل في ريادة الأعمال
 ### Navigating the unpredictability of everything
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Navigating the unpredictability of everything'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** نحن نفشل بشكل دراماتيكي ومتكرر في التنبؤ بالمستقبل. فهل يعني هذا أن "الاستراتيجية" أصبحت بلا معنى؟ كلا، بل يعني أنك بحاجة إلى هذه التقنيات للإبحار في عالم شديد التقلب.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/predict-the-future/](https://longform.asmartbear.com/predict-the-future/)
 

@@ -8,13 +8,13 @@ published_date: "Sun, 05 Nov 2023 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Companies that achieve Product/Market Fit -- both self-funded and VC-funded -- exhibit the same prototypical metrics curves and subjective experiences."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Product/Market Fit (PMF): Experience & Data'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "تظهر الشركات التي تحقق ملاءمة المنتج للسوق -سواء كانت ممولة ذاتياً أو عبر رأس المال الجريء- نفس منحنيات المقاييس النموذجية والخبرات الموضوعية المشتركة."
 ---
 
 # ملاءمة المنتج للسوق (PMF): بين التجربة الميدانية ولغة الأرقام
 ### Product/Market Fit (PMF): Experience & Data
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Product/Market Fit (PMF): Experience & Data'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** تظهر الشركات التي تحقق ملاءمة المنتج للسوق -سواء كانت ممولة ذاتياً أو عبر رأس المال الجريء- نفس منحنيات المقاييس النموذجية والخبرات الموضوعية المشتركة.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/product-market-fit/](https://longform.asmartbear.com/product-market-fit/)
 

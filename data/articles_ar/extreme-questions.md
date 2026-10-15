@@ -8,13 +8,13 @@ published_date: "Sat, 26 Mar 2022 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "We know, \"no idea is a bad idea,\" but brainstorming is often unsuccessful. These prompts actually work. They could even lead to a unique business model."
-summary_ar: "We know, \"
+summary_ar: "نحن نؤمن بأن \"لا توجد فكرة سيئة في العصف الذهني\"، ولكن غالباً ما تنتهي جلسات العصف الذهني دون نتائج عملية. هذه التوجيهات والأسئلة فعالة حقاً، وربما تقودك إلى نموذج عمل فريد ومبتكر."
 ---
 
 # أسئلة العصف الذهني الجريئة لتوليد أفكار ريادية متفوقة
 ### Extreme brainstorming questions to trigger new, better ideas
 
-> **الملخص التنفيذي:** We know, \
+> **الملخص التنفيذي:** نحن نؤمن بأن "لا توجد فكرة سيئة في العصف الذهني"، ولكن غالباً ما تنتهي جلسات العصف الذهني دون نتائج عملية. هذه التوجيهات والأسئلة فعالة حقاً، وربما تقودك إلى نموذج عمل فريد ومبتكر.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/extreme-questions/](https://longform.asmartbear.com/extreme-questions/)
 

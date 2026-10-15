@@ -8,13 +8,13 @@ published_date: "Mon, 21 Mar 2011 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "What can't be solved with money, are the most valuable things."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Startup Exercise: What can't be solved with money?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "الأمور التي لا يمكن شراؤها بالمال هي الأشياء الأكثر قيمة على الإطلاق في شركتك."
 ---
 
 # تمرين ريادي: ما هي المشكلات التي لا يستطيع المال حلها في شركتك؟
 ### Startup Exercise: What can't be solved with money?
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Startup Exercise: What can't be solved with money?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** الأمور التي لا يمكن شراؤها بالمال هي الأشياء الأكثر قيمة على الإطلاق في شركتك.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/startup-money/](https://longform.asmartbear.com/startup-money/)
 

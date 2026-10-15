@@ -8,13 +8,13 @@ published_date: "Sun, 16 Jul 2023 00:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "A novel system for selecting and presenting product KPIs, satisfying not only the product team, but also stakeholders, executives, and customers."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Selecting the right product metrics (KPIs)'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "نظام مبتكر لاختيار وعرض مؤشرات الأداء الرئيسية (KPIs) للمنتج، بحيث يرضي ليس فقط فريق المنتج، بل وأيضاً أصحاب المصلحة، والمديرين التنفيذيين، والعملاء."
 ---
 
 # كيف تختار مقاييس الأداء الصحيحة لمنتجك (KPIs)
 ### Selecting the right product metrics (KPIs)
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Selecting the right product metrics (KPIs)'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** نظام مبتكر لاختيار وعرض مؤشرات الأداء الرئيسية (KPIs) للمنتج، بحيث يرضي ليس فقط فريق المنتج، بل وأيضاً أصحاب المصلحة، والمديرين التنفيذيين، والعملاء.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/product-metrics/](https://longform.asmartbear.com/product-metrics/)
 

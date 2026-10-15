@@ -8,13 +8,13 @@ published_date: "Tue, 07 Jan 2014 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "A business always takes more money than you expect, even when you take this fact into account. Here's why."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: More money if you do, more money if you don't'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "تتطلب أي شركة أموالاً دائماً أكثر مما تتوقع، حتى عندما تأخذ هذه الحقيقة بعين الاعتبار. إليك السبب."
 ---
 
 # المزيد من المال إذا نجحت، والمزيد من المال حتى لو لم تفعل
 ### More money if you do, more money if you don't
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: More money if you do, more money if you don't'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** تتطلب أي شركة أموالاً دائماً أكثر مما تتوقع، حتى عندما تأخذ هذه الحقيقة بعين الاعتبار. إليك السبب.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/more-money/](https://longform.asmartbear.com/more-money/)
 

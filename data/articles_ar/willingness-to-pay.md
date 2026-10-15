@@ -8,13 +8,13 @@ published_date: "Sun, 21 May 2023 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "This fresh take on \"Willingness-to-Pay\" analyzes three types of customer motivation, leading to superior strategies for growth that also better the world."
-summary_ar: "This fresh take on \"
+summary_ar: "رؤية منعشة لمفهوم \"الاستعداد للدفع\" (WTP) تحلل ثلاثة أنواع من دوافع العملاء، مما يقود إلى استراتيجيات نمو متفوقة تساهم أيضاً في تحسين العالم."
 ---
 
 # التسعير المرتكز على استعداد العميل للدفع (WTP) واقتناص القيمة
 ### Willingness-to-pay: Creating permanent competitive advantage for the right reasons
 
-> **الملخص التنفيذي:** This fresh take on \
+> **الملخص التنفيذي:** رؤية منعشة لمفهوم "الاستعداد للدفع" (WTP) تحلل ثلاثة أنواع من دوافع العملاء، مما يقود إلى استراتيجيات نمو متفوقة تساهم أيضاً في تحسين العالم.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/willingness-to-pay/](https://longform.asmartbear.com/willingness-to-pay/)
 

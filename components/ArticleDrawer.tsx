@@ -202,9 +202,24 @@ export default function ArticleDrawer({
               {category}
             </span>
             {article.published_date && (
-              <span className="text-xs font-mono text-stone-400 flex items-center gap-1.5">
+              <span className="text-xs font-medium text-stone-500 dark:text-stone-400 flex items-center gap-1.5">
                 <Clock className="w-3.5 h-3.5" />
-                {article.published_date.split(' ').slice(1, 4).join(' ')}
+                {(() => {
+                  try {
+                    const d = new Date(article.published_date);
+                    if (isNaN(d.getTime())) return article.published_date;
+                    if (isContentAr) {
+                      const arMonths = [
+                        'يناير', 'فبراير', 'مارس', 'أبريل', 'مايو', 'يونيو',
+                        'يوليو', 'أغسطس', 'سبتمبر', 'أكتوبر', 'نوفمبر', 'ديسمبر'
+                      ];
+                      return `${d.getDate()} ${arMonths[d.getMonth()]} ${d.getFullYear()}`;
+                    }
+                    return d.toLocaleDateString('en-US', { day: 'numeric', month: 'short', year: 'numeric' });
+                  } catch {
+                    return article.published_date;
+                  }
+                })()}
               </span>
             )}
             <button

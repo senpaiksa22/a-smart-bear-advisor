@@ -8,13 +8,13 @@ published_date: "Mon, 30 Dec 2013 08:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Achieve more by doing less: one task at a time, ample rest, and deliberate focus lead to greater fulfillment."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Stop chopping yourself to pieces'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "أنجز المزيد من خلال القيام بأقل: مهمة واحدة في كل مرة، قسط وافر من الراحة، وتركيز متعمد يؤود إلى إنجاز أعظم."
 ---
 
 # توقف عن تمزيق نفسك وفريقك إلى أشلاء بالمهام التافهة
 ### Stop chopping yourself to pieces
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Stop chopping yourself to pieces'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** أنجز المزيد من خلال القيام بأقل: مهمة واحدة في كل مرة، قسط وافر من الراحة، وتركيز متعمد يؤود إلى إنجاز أعظم.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/stop-chopping-to-pieces/](https://longform.asmartbear.com/stop-chopping-to-pieces/)
 

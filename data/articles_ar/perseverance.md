@@ -8,13 +8,13 @@ published_date: "Sun, 17 Mar 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "How do you know when to stop, versus when to push through? You don't, not even in hindsight. But these guiding questions can help."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Stubborn Visionaries & Pigheaded Fools'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "كيف تدرك متى يجب عليك التوقف، ومتى يجب عليك المضي قدماً؟ الإجابة غير واضحة، ولا حتى بأثر رجعي، لكن هذه الأسئلة التوجيهية يمكنها مساعدتك."
 ---
 
 # بين أصحاب الرؤى الثاقبة والحمقى المتعنتين: كيف تميز بين الإصرار والغباء؟
 ### Stubborn Visionaries & Pigheaded Fools
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Stubborn Visionaries & Pigheaded Fools'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** كيف تدرك متى يجب عليك التوقف، ومتى يجب عليك المضي قدماً؟ الإجابة غير واضحة، ولا حتى بأثر رجعي، لكن هذه الأسئلة التوجيهية يمكنها مساعدتك.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/perseverance/](https://longform.asmartbear.com/perseverance/)
 

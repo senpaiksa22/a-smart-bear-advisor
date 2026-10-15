@@ -8,13 +8,13 @@ published_date: "Tue, 08 May 2012 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "What if there's no wrong answer? What's the tiebreaker in major business decisions."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How do I stop \"analyzing\" and pick between two good choices?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "ماذا لو لم تكن هناك إجابة خاطئة؟ ما هو المعيار الحاسّم في القرارات التجارية الكبرى؟"analyzing\" and pick between two good choices?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
 # كيف تتوقف عن 'التحليل المفرط' وتختار بحسم بين أمرين جيدين؟
 ### How do I stop "analyzing" and pick between two good choices?
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How do I stop "analyzing" and pick between two good choices?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** ماذا لو لم تكن هناك إجابة خاطئة؟ ما هو المعيار الحاسّم في القرارات التجارية الكبرى؟
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/business-tiebreaker/](https://longform.asmartbear.com/business-tiebreaker/)
 

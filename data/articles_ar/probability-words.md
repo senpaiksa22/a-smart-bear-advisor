@@ -8,13 +8,13 @@ published_date: "Sun, 02 Jul 2023 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Don't use phrases like \"unlikely\" or \"almost certainly.\" Here's real-world data showing why not, and what to do instead."
-summary_ar: "Don't use phrases like \"
+summary_ar: "تجنب استخدام عبارات مبهمة مثل \"غير مرجح\" أو \"شبه مؤكد\". إليك بيانات واقعية توضح السبب وراء ذلك، والبديل الأمثل الذي يجب اتباعه."
 ---
 
 # لتقدير الاحتمالات بدقة: استخدم أرقام فيرمي بدلاً من الكلمات المبهمة
 ### For probabilities, use Fermi numbers, not words
 
-> **الملخص التنفيذي:** Don't use phrases like \
+> **الملخص التنفيذي:** تجنب استخدام عبارات مبهمة مثل "غير مرجح" أو "شبه مؤكد". إليك بيانات واقعية توضح السبب وراء ذلك، والبديل الأمثل الذي يجب اتباعه.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/probability-words/](https://longform.asmartbear.com/probability-words/)
 

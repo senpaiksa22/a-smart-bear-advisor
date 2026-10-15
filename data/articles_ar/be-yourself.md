@@ -8,13 +8,13 @@ published_date: "Mon, 22 Aug 2011 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "We're told \"be yourself\" to seek happiness and success. But what if \"being yourself\" also means striving to become better? What is \"yourself?\""
-summary_ar: "We're told \"
+summary_ar: "يُقال لنا دائماً 'كن نفسك' لكي نبلغ السعادة والنجاح. ولكن ماذا لو كانت 'كونك نفسك' تعني أيضاً السعي الدؤوب لتصبح نسخة أفضل؟ وما هي حقيقة 'نفسك' أصلاً؟"
 ---
 
 # كن نفسك في قيادتك، مع الاستمرار في تطوير نقاط ضعفك
 ### Being who you are, while becoming better
 
-> **الملخص التنفيذي:** We're told \
+> **الملخص التنفيذي:** يُقال لنا دائماً 'كن نفسك' لكي نبلغ السعادة والنجاح. ولكن ماذا لو كانت 'كونك نفسك' تعني أيضاً السعي الدؤوب لتصبح نسخة أفضل؟ وما هي حقيقة 'نفسك' أصلاً؟
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/be-yourself/](https://longform.asmartbear.com/be-yourself/)
 

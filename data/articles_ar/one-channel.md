@@ -8,13 +8,13 @@ published_date: "Tue, 09 Dec 2014 08:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "Go deep on one marketing strategy that you already know well; spreading thin won't be successful."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Marketing at early startups: Deep, not wide'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "ركز بعمق على قناة تسويقية واحدة تفهمها جيداً؛ فالتشتت بين عدة قنوات لا يؤدي إلا للفشل."
 ---
 
 # التسويق في الشركات الناشئة الأولى: تعمق في قناة واحدة بدلاً من التشتت
 ### Marketing at early startups: Deep, not wide
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Marketing at early startups: Deep, not wide'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** ركز بعمق على قناة تسويقية واحدة تفهمها جيداً؛ فالتشتت بين عدة قنوات لا يؤدي إلا للفشل.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/one-channel/](https://longform.asmartbear.com/one-channel/)
 

@@ -8,13 +8,13 @@ published_date: "Sun, 16 Apr 2023 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Many startups fail despite identifying a real problem and building a product that solves that problem. This explains why, so you can avoid their fate."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Excuse me, is there a problem?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "تفشل العديد من الشركات الناشئة على الرغم من تحديدها لمشكلة حقيقية وبنائها لمنتج يحلها. يوضح هذا المقال السبب وراء ذلك لتجنب مصيرهم."
 ---
 
 # عفواً، هل توجد مشكلة حقيقية أم أنك تخترع حلولاً لوهم؟
 ### Excuse me, is there a problem?
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Excuse me, is there a problem?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** تفشل العديد من الشركات الناشئة على الرغم من تحديدها لمشكلة حقيقية وبنائها لمنتج يحلها. يوضح هذا المقال السبب وراء ذلك لتجنب مصيرهم.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/problem/](https://longform.asmartbear.com/problem/)
 

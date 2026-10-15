@@ -8,13 +8,13 @@ published_date: "Tue, 24 Feb 2015 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Delegation doesn't scale your business.  What does: Creating a team that is better than the current team.  Including you."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Scaling by \"delegation\" isn't good enough'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "التفويض وحده لا يكفي لتوسيع نطاق عملك. السر يكمن في بناء فريق يتفوق على الفريق الحالي.. بما في ذلك أنت."delegation\" isn't good enough'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
 # التوسع عبر 'التفويض' وحده ليس كافياً لبناء منظومة ناجحة
 ### Scaling by "delegation" isn't good enough
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Scaling by "delegation" isn't good enough'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** التفويض وحده لا يكفي لتوسيع نطاق عملك. السر يكمن في بناء فريق يتفوق على الفريق الحالي.. بما في ذلك أنت.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/delegation/](https://longform.asmartbear.com/delegation/)
 

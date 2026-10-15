@@ -8,13 +8,13 @@ published_date: "Sun, 07 Jan 2024 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Targeting your \"Ideal Customer Profile\" (ICP) is the best way to differentiate and win sales, but does it limit your target market?"
-summary_ar: "Targeting your \"
+summary_ar: "يعد استهداف \"ملف العميل المثالي\" (ICP) الطريقة الأفضل للتميز وتحقيق المبيعات، ولكن هل يساهم ذلك حقاً في تقييد حجم السوق المستهدف؟"
 ---
 
 # البيع لكارول: لماذا يجلب استهداف العميل المثالي (ICP) عملاء أكثر بـ 10 أضعاف
 ### Selling to Carol: Why targeting an ICP brings 10x more customers than you expected
 
-> **الملخص التنفيذي:** Targeting your \
+> **الملخص التنفيذي:** يعد استهداف "ملف العميل المثالي" (ICP) الطريقة الأفضل للتميز وتحقيق المبيعات، ولكن هل يساهم ذلك حقاً في تقييد حجم السوق المستهدف؟
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/icp-ideal-customer-persona/](https://longform.asmartbear.com/icp-ideal-customer-persona/)
 

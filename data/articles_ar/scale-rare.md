@@ -8,13 +8,13 @@ published_date: "Tue, 28 Jan 2014 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Software doesn't scale through architecture and automation alone. New, more difficult problems appear that didn't exist before, causing new downstream consequences."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Rare things become common at scale'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "لا تتم عملية التوسع في البرمجيات عبر المعمارية البرمجية والتمتة وحدها؛ بل تظهر تحديات جديدة وأكثر تعقيداً لم تكن موجودة من قبل، مما يترتب عليها تبعات لاحقة."
 ---
 
 # الأشياء النادرة تصبح مألوفة وشائعة مع التوسع الكبير
 ### Rare things become common at scale
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Rare things become common at scale'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** لا تتم عملية التوسع في البرمجيات عبر المعمارية البرمجية والتمتة وحدها؛ بل تظهر تحديات جديدة وأكثر تعقيداً لم تكن موجودة من قبل، مما يترتب عليها تبعات لاحقة.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/scale-rare/](https://longform.asmartbear.com/scale-rare/)
 

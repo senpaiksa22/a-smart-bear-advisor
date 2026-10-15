@@ -8,13 +8,13 @@ published_date: "Sat, 29 Nov 2014 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "On average, you're halfway to your final destination. How, then, do we not only double from here, but 10x?"
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The Lindy Effect on startup potential'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "في المتوسط، أنت في منتصف رحلتك نحو وجهتك النهائية. فكيف لا تكتفي بمضاعفة النتائج من هنا فحسب، بل وتضخيمها عشرة أضعاف؟"
 ---
 
 # تأثير ليندي (Lindy Effect) على مستقبل وبقاء الشركات الناشئة
 ### The Lindy Effect on startup potential
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The Lindy Effect on startup potential'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** في المتوسط، أنت في منتصف رحلتك نحو وجهتك النهائية. فكيف لا تكتفي بمضاعفة النتائج من هنا فحسب، بل وتضخيمها عشرة أضعاف؟
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/lindy-effect/](https://longform.asmartbear.com/lindy-effect/)
 

@@ -8,13 +8,13 @@ published_date: "Tue, 29 Jul 2014 00:00:00 +0000"
 category_en: "Foundational Philosophy & Startup Wisdom"
 category_ar: "فلسفة ريادة الأعمال والحكمة التأسيسية"
 summary_en: "What is it like to reach the pinnacle of success? Is that where you attain happiness and fulfillment? Or are those found right here, right now."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The only way to guarantee startup success'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "كيف يبدو الوصول إلى قمة النجاح؟ وهل هناك تجد السعادة والرضا؟ أم أن السعادة تكمن هنا والآن؟"
 ---
 
 # الطريقة الوحيدة المضمونة لتحقيق النجاح الريادي
 ### The only way to guarantee startup success
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The only way to guarantee startup success'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** كيف يبدو الوصول إلى قمة النجاح؟ وهل هناك تجد السعادة والرضا؟ أم أن السعادة تكمن هنا والآن؟
 > **المحور التصنيفي:** فلسفة ريادة الأعمال والحكمة التأسيسية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/success-guaranteed/](https://longform.asmartbear.com/success-guaranteed/)
 

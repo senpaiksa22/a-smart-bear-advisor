@@ -8,13 +8,13 @@ published_date: "Sun, 24 Dec 2023 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "This eight-step process brought WP Engine from an idea to a Unicorn. While there are other roads to Product/Market Fit, consider copying some of these ideas."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The roadmap to Product/Market Fit (PMF)… maybe'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "هذه العملية المكونة من ثماني خطوات نقلت شركة WP Engine من مجرد فكرة إلى مصاف الشركات المليارية (يونيكورن). وبينما توجد طرق أخرى لتحقيق ملاءمة المنتج للسوق، يجدر بك الاستفادة من بعض هذه الأفكار وتطبيقها."
 ---
 
 # خارطة الطريق نحو ملاءمة المنتج للسوق (PMF)... ربما
 ### The roadmap to Product/Market Fit (PMF)… maybe
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The roadmap to Product/Market Fit (PMF)… maybe'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** هذه العملية المكونة من ثماني خطوات نقلت شركة WP Engine من مجرد فكرة إلى مصاف الشركات المليارية (يونيكورن). وبينما توجد طرق أخرى لتحقيق ملاءمة المنتج للسوق، يجدر بك الاستفادة من بعض هذه الأفكار وتطبيقها.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/product-market-fit-formula/](https://longform.asmartbear.com/product-market-fit-formula/)
 

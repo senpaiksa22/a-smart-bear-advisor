@@ -8,13 +8,13 @@ published_date: "Tue, 04 Aug 2015 08:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "Paying a premium for zero-sum marketing channels? Invest in scalable, non-zero-sum channels instead."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Zero-sum marketing channels: Good or bad for a startup to pursue?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "تحليل لطبيعة قنوات التسويق ذات المحصلة الصفرية، ومدى جدوى اعتماد الشركات الناشئة عليها في مراحل نموها الأولى مقارنة بالاستراتيجيات البديلة."
 ---
 
 # قنوات التسويق ذات المحصلة الصفرية: هل تناسب الشركات الناشئة؟
 ### Zero-sum marketing channels: Good or bad for a startup to pursue?
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Zero-sum marketing channels: Good or bad for a startup to pursue?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** تحليل لطبيعة قنوات التسويق ذات المحصلة الصفرية، ومدى جدوى اعتماد الشركات الناشئة عليها في مراحل نموها الأولى مقارنة بالاستراتيجيات البديلة.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/zero-sum-marketing/](https://longform.asmartbear.com/zero-sum-marketing/)
 

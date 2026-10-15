@@ -8,13 +8,13 @@ published_date: "Sun, 04 Jun 2023 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "This simple method positions your product to be more valuable, especially against competitors who aim to disrupt you, or you them."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Using the Needs Stack for competitive strategy'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "هذه الطريقة البسيطة تتموقع بمنتجك ليكون أكثر قيمة، لا سيما في مواجهة المنافسين الذين يسعون لتعطيل نموذج عملك، أو الذين تسعى أنت لزعزعة استقرارهم."
 ---
 
 # استخدام هرم الاحتياجات (Needs Stack) في بناء الاستراتيجية التنافسية
 ### Using the Needs Stack for competitive strategy
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Using the Needs Stack for competitive strategy'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** هذه الطريقة البسيطة تتموقع بمنتجك ليكون أكثر قيمة، لا سيما في مواجهة المنافسين الذين يسعون لتعطيل نموذج عملك، أو الذين تسعى أنت لزعزعة استقرارهم.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/needs-stack/](https://longform.asmartbear.com/needs-stack/)
 

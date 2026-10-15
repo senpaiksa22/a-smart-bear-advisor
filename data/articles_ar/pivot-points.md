@@ -8,13 +8,13 @@ published_date: "Sun, 29 Sep 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Not \"enabling constraints\", not \"weaknesses\", not even \"strengths\". The concept of a \"Pivot Point\" grapples with the same reality, but more constructive and useful."
-summary_ar: "Not \"
+summary_ar: "لا يتعلق الأمر بـ \"القيود التمكينية\"، ولا بـ \"نقاط الضعف\"، ولا حتى بـ \"نقاط القوة\". إن مفهوم \"نقطة التحول المحورية\" يتعامل مع نفس الواقع ولكن بطريقة أكثر بنائية وفائدة لرواد الأعمال."
 ---
 
 # نقاط التحول المحورية (Pivot Points): متى وكيف تغير مسار شركتك؟
 ### Pivot Points
 
-> **الملخص التنفيذي:** Not \
+> **الملخص التنفيذي:** لا يتعلق الأمر بـ "القيود التمكينية"، ولا بـ "نقاط الضعف"، ولا حتى بـ "نقاط القوة". إن مفهوم "نقطة التحول المحورية" يتعامل مع نفس الواقع ولكن بطريقة أكثر بنائية وفائدة لرواد الأعمال.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/pivot-points/](https://longform.asmartbear.com/pivot-points/)
 

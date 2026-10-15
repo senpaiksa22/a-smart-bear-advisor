@@ -8,13 +8,13 @@ published_date: "Sun, 04 Feb 2024 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Why \"expected value\" doesn't work; here's a better framework for making long-term investments in your career, startup, and life."
-summary_ar: "Why \"
+summary_ar: "لماذا لا جدوى من الاعتماد على مفهوم \"القيمة المتوقعة\" وحدها؛ إليك إطار عمل أفضل لاتخاذ استراتيجيات طويلة الأجل في مسيرتك المهنية، وشركتك الناشئة، وحياتك."
 ---
 
 # كيف تقرر ما إذا كان الاستثمار في فكرة أو ميزة يستحق العناء
 ### Deciding whether an investment is worthwhile
 
-> **الملخص التنفيذي:** Why \
+> **الملخص التنفيذي:** لماذا لا جدوى من الاعتماد على مفهوم "القيمة المتوقعة" وحدها؛ إليك إطار عمل أفضل لاتخاذ استراتيجيات طويلة الأجل في مسيرتك المهنية، وشركتك الناشئة، وحياتك.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/investment/](https://longform.asmartbear.com/investment/)
 

@@ -8,13 +8,13 @@ published_date: "Tue, 26 Jun 2012 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "How to tell the difference between a truly great startup idea, and people saying \"Sure, sounds good\" when they really mean \"No, I'm not buying.\""
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The \"Convergent\" theory of finding truth in darkness'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "كيف تفرق بين فكرة شركة ناشئة ناجحة حقاً، وبين الأشخاص الذين يقولون 'بالتأكيد، تبدو فكرة جيدة' بينما يعنون في أعماقهم 'لا، لن أشتريها'."Convergent\" theory of finding truth in darkness'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
 # نظرية التقارب: كيف تجد الحقيقة وتلتقط الأفكار الريادية العظيمة وسط الظلام؟
 ### The "Convergent" theory of finding truth in darkness
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The "Convergent" theory of finding truth in darkness'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** كيف تفرق بين فكرة شركة ناشئة ناجحة حقاً، وبين الأشخاص الذين يقولون 'بالتأكيد، تبدو فكرة جيدة' بينما يعنون في أعماقهم 'لا، لن أشتريها'.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/good-startup-ideas/](https://longform.asmartbear.com/good-startup-ideas/)
 

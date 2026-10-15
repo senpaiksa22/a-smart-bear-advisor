@@ -8,13 +8,13 @@ published_date: "Sun, 17 Nov 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Half of your \"successful\" A/B tests are false-positives. This is why, and how to fix it."
-summary_ar: "Half of your \"
+summary_ar: "نصف اختبارات A/B التي تعتبرها \"ناجحة\" ما هي إلا نتائج إيجابية كاذبة. إليك الأسباب الكامنة وراء ذلك وكيفية معالجتها بدقة."
 ---
 
 # التلاعب بالبيانات وتزييف نتائج اختبارات A/B (p-Hacking)
 ### p-Hacking your A/B tests
 
-> **الملخص التنفيذي:** Half of your \
+> **الملخص التنفيذي:** نصف اختبارات A/B التي تعتبرها "ناجحة" ما هي إلا نتائج إيجابية كاذبة. إليك الأسباب الكامنة وراء ذلك وكيفية معالجتها بدقة.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/p-hacking/](https://longform.asmartbear.com/p-hacking/)
 

@@ -8,13 +8,13 @@ published_date: "Mon, 04 Nov 2019 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "This is the reason that startups succeed despite their many weaknesses. And it's a reason to build a startup in the first place."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The Important Thing⁠--powerful enough to override all your deficiencies'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "هذا هو السبب الكامن وراء نجاح الشركات الناشئة رغم إخفاقاتها الكثيرة، وهو ذاته المبرر الأساسي للإقدام على تأسيس شركة ناشئة في المقام الأول."
 ---
 
 # الشيء الأهم: القوة القادرة على تعويض جميع نقاط ضعفك الأخرى
 ### The Important Thing⁠--powerful enough to override all your deficiencies
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The Important Thing⁠--powerful enough to override all your deficiencies'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** هذا هو السبب الكامن وراء نجاح الشركات الناشئة رغم إخفاقاتها الكثيرة، وهو ذاته المبرر الأساسي للإقدام على تأسيس شركة ناشئة في المقام الأول.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/the-important-thing/](https://longform.asmartbear.com/the-important-thing/)
 

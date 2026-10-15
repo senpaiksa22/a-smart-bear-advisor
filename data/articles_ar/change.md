@@ -8,13 +8,13 @@ published_date: "Sat, 19 Aug 2017 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Everyone wants change, but doesn't want to change. Though inevitable, change is uncomfortable and exhausting. Manage it with kindness."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Change: Damned if you do, damned more if you don't'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "الجميع يريد التغيير، لكن لا أحد يريد أن يتغير هو نفسه. على الرغم من حتميته، فإن التغيير مزعج ومُرهق؛ لذا تعامل معه بلطف وحكمة."
 ---
 
 # التغيير في الشركات: ملعون إذا قمت به، وملعون أكثر إذا لم تفعل
 ### Change: Damned if you do, damned more if you don't
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Change: Damned if you do, damned more if you don't'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** الجميع يريد التغيير، لكن لا أحد يريد أن يتغير هو نفسه. على الرغم من حتميته، فإن التغيير مزعج ومُرهق؛ لذا تعامل معه بلطف وحكمة.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/change/](https://longform.asmartbear.com/change/)
 

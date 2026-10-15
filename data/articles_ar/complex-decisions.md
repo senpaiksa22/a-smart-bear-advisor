@@ -8,13 +8,13 @@ published_date: "Fri, 25 Nov 2016 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Simplify complex decisions by separating upsides from downsides, investing in upsides, vetoing with downsides, and using an appropriate decision framework."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How to simplify complex decisions by cleaving the facts'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "بسّط القرارات المعقدة عبر فصل المكاسب المحتملة عن الخسائر، واستثمار المكاسب، واستخدام حق النقض (الفيتو) مع الخسائر، والاعتماد على إطار عمل مناسب لصنع القرار."
 ---
 
 # كيف تبسط القرارات المعقدة بفصل الحقائق عن الافتراضات
 ### How to simplify complex decisions by cleaving the facts
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How to simplify complex decisions by cleaving the facts'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** بسّط القرارات المعقدة عبر فصل المكاسب المحتملة عن الخسائر، واستثمار المكاسب، واستخدام حق النقض (الفيتو) مع الخسائر، والاعتماد على إطار عمل مناسب لصنع القرار.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/complex-decisions/](https://longform.asmartbear.com/complex-decisions/)
 

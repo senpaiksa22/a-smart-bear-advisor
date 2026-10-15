@@ -8,13 +8,13 @@ published_date: "Tue, 20 Mar 2012 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Erica Douglass sold her company for $1M, yet still struggles with self-worth; why driven people can't escape Impostor Syndrome."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Intense Asymmetry and Self-Flagellation'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "باعت إيريكا دوجلاس شركتتها بمليون دولار، ومع ذلك لا تزال تصارع مشاعر نقص القيمة الذاتية؛ لماذا لا يستطيع الطموحون الإفلات من متلازمة المحتال؟"
 ---
 
 # عدم التماثل القاسي وجلد الذات المستمر لدى رواد الأعمال
 ### Intense Asymmetry and Self-Flagellation
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Intense Asymmetry and Self-Flagellation'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** باعت إيريكا دوجلاس شركتتها بمليون دولار، ومع ذلك لا تزال تصارع مشاعر نقص القيمة الذاتية؛ لماذا لا يستطيع الطموحون الإفلات من متلازمة المحتال؟
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/feelings-of-inadequacy/](https://longform.asmartbear.com/feelings-of-inadequacy/)
 

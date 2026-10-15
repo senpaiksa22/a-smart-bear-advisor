@@ -8,13 +8,13 @@ published_date: "Sun, 26 Nov 2023 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Traditional fairytale structure fits naturally in our brains, and thus can guide strategic problem-analysis, and a plan that everyone understands."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Quarterly strategic planning using the fairytale structure'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "تتطابق بنية القصص الخيالية التقليدية بشكل طبيعي مع طريقة عمل أدمغتنا، ولذا يمكنها توجيه عملية تحليل المشكلات الاستراتيجية وصياغة خطة يفهمها الجميع بوضوح."
 ---
 
 # التخطيط الاستراتيجي الفصلي: استخدام بنية القصة الخيالية في صياغة الأهداف
 ### Quarterly strategic planning using the fairytale structure
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Quarterly strategic planning using the fairytale structure'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** تتطابق بنية القصص الخيالية التقليدية بشكل طبيعي مع طريقة عمل أدمغتنا، ولذا يمكنها توجيه عملية تحليل المشكلات الاستراتيجية وصياغة خطة يفهمها الجميع بوضوح.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/strategic-planning/](https://longform.asmartbear.com/strategic-planning/)
 

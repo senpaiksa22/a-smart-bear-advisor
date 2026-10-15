@@ -8,13 +8,13 @@ published_date: "Sun, 11 Aug 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "When to prioritize individual autonomy, and when to standardize for global optimization."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Individual efficiency vs administrative efficiency'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "متى يجب إعطاء الأولوية للاستقلالية الفردية، ومتى ينبغي توحيد المعايير الإدارية للوصول إلى الأمثلية الشاملة للشركة؟"
 ---
 
 # الكفاءة الفردية مقابل الكفاءة الإدارية: إدارة التناقض الصعب
 ### Individual efficiency vs administrative efficiency
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Individual efficiency vs administrative efficiency'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** متى يجب إعطاء الأولوية للاستقلالية الفردية، ومتى ينبغي توحيد المعايير الإدارية للوصول إلى الأمثلية الشاملة للشركة؟
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/tension-autonomy-admin/](https://longform.asmartbear.com/tension-autonomy-admin/)
 

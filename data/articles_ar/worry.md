@@ -8,13 +8,13 @@ published_date: "Tue, 06 Dec 2016 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Worrying makes things worse. Replace worry with preparation and strategic planning."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Worrying is self-fulfilling; what to do instead'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "القلق يجعل الأمور أسوأ. استبدل القلق بالاستعداد الجيد والتخطيط الاستراتيجي."
 ---
 
 # القلق نبوءة تحقق ذاتها: ماذا تفعل بدلاً من التوتر المستمر؟
 ### Worrying is self-fulfilling; what to do instead
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Worrying is self-fulfilling; what to do instead'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** القلق يجعل الأمور أسوأ. استبدل القلق بالاستعداد الجيد والتخطيط الاستراتيجي.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/worry/](https://longform.asmartbear.com/worry/)
 

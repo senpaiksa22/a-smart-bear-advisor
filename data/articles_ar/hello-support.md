@@ -8,13 +8,13 @@ published_date: "Thu, 07 Aug 2008 08:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "Is \"customer service\" a genuine service? Or is it a shield so that most people at your company never have to speak to one of those pesky customers?"
-summary_ar: "Is \"
+summary_ar: "هل تُعد 'خدمة العملاء' خدمة حقيقية فعلاً؟ أم أنها مجرد درع يقي معظم العاملين في شركتك شر التحدث إلى أحد أولئك العملاء المزعجين؟"
 ---
 
 # مرحباً، أنا الموظف رقم 1074018628: خطر تجريد خدمة العملاء من طابعها الإنساني
 ### Hello, I'm 1074018628
 
-> **الملخص التنفيذي:** Is \
+> **الملخص التنفيذي:** هل تُعد 'خدمة العملاء' خدمة حقيقية فعلاً؟ أم أنها مجرد درع يقي معظم العاملين في شركتك شر التحدث إلى أحد أولئك العملاء المزعجين؟
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/hello-support/](https://longform.asmartbear.com/hello-support/)
 

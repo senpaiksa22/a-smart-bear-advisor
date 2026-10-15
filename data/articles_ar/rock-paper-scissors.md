@@ -8,13 +8,13 @@ published_date: "Tue, 27 Nov 2012 08:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "Even better than trying to outwit the competition, is to not react to them at all, and just do your best, directly for your customers."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: But I know that he knows that I know'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "بدلاً من محاولة التغلب على المنافسين بذكاء مفرط، من الأفضل غالباً عدم الاكتراث بهم إطلاقاً، والتركيز كلياً على تقديم أفضل ما لديك مباشرة لخدمة عملائك."
 ---
 
 # حجارة، ورقة، مقص: لعبة التوقعات والمنافسة في ريادة الأعمال
 ### But I know that he knows that I know
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: But I know that he knows that I know'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** بدلاً من محاولة التغلب على المنافسين بذكاء مفرط، من الأفضل غالباً عدم الاكتراث بهم إطلاقاً، والتركيز كلياً على تقديم أفضل ما لديك مباشرة لخدمة عملائك.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/rock-paper-scissors/](https://longform.asmartbear.com/rock-paper-scissors/)
 

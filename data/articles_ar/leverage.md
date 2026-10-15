@@ -8,13 +8,13 @@ published_date: "Sun, 18 Jun 2023 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Leveraging strengths -- not \"fixing weaknesses\" -- is how to win. Better when differentiated. Best when durable. Here's how to create leverage."
-summary_ar: "Leveraging strengths -- not \"
+summary_ar: "الاستفادة من نقاط القوة - لا \"إصلاح نقاط الضعف\" - هي طريق الفوز الحقيقي. وتصبح استراتيجيتك أفضل عندما تكون متفردة، والأفضل على الإطلاق عندما تكون مستدامة. إليك كيفية خلق قوى الرفع."
 ---
 
 # الأنواع الثلاثة لقوى الرفع التي ترتكز عليها الاستراتيجيات الناجحة
 ### The three kinds of leverage that anchor effective strategies
 
-> **الملخص التنفيذي:** Leveraging strengths -- not \
+> **الملخص التنفيذي:** الاستفادة من نقاط القوة - لا "إصلاح نقاط الضعف" - هي طريق الفوز الحقيقي. وتصبح استراتيجيتك أفضل عندما تكون متفردة، والأفضل على الإطلاق عندما تكون مستدامة. إليك كيفية خلق قوى الرفع.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/leverage/](https://longform.asmartbear.com/leverage/)
 

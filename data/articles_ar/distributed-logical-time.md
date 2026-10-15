@@ -8,13 +8,13 @@ published_date: "Sat, 23 Feb 2019 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "A simple, decentralized, scalable, constant-memory mechanism for independent replicas to record events in time, preserving the \"happened-before\" relation in almost all cases."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Distributed Logical Time'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "آلية بسيطة، لامركزية، قابلة للتوسعة، ذات ذاكرة ثابتة تتيح للنسخ المتماثلة المستقلة تسجيل الأحداث زمنياً مع الحفاظ على علاقة \"الحدث-السابق\" في جميع الحالات تقريباً."
 ---
 
 # الوقت المنطقي الموزع: دروس من النظم الموزعة لإدارة فرق العمل
 ### Distributed Logical Time
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Distributed Logical Time'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** آلية بسيطة، لامركزية، قابلة للتوسعة، ذات ذاكرة ثابتة تتيح للنسخ المتماثلة المستقلة تسجيل الأحداث زمنياً مع الحفاظ على علاقة "الحدث-السابق" في جميع الحالات تقريباً.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/distributed-logical-time/](https://longform.asmartbear.com/distributed-logical-time/)
 

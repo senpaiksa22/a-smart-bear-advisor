@@ -8,13 +8,13 @@ published_date: "Tue, 29 Sep 2015 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Independent or acquired, companies always evolve, and not always for the better. Smart exits can create opportunities for everyone involved."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Refutation: An acquisition is always a failure'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "قراءة استراتيجية تدحض الفكرة القائلة بأن بيع الشركة أو الاستحواذ عليها يعني بالضرورة فشل المؤسسين في بناء كيان مستقل ومستدام."
 ---
 
 # تفنيـد: الاستحواذ على الشركة ليس دائماً دليلاً على الفشل
 ### Refutation: An acquisition is always a failure
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Refutation: An acquisition is always a failure'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** قراءة استراتيجية تدحض الفكرة القائلة بأن بيع الشركة أو الاستحواذ عليها يعني بالضرورة فشل المؤسسين في بناء كيان مستقل ومستدام.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/acquisition-failure/](https://longform.asmartbear.com/acquisition-failure/)
 

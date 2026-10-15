@@ -8,13 +8,13 @@ published_date: "Tue, 23 Aug 2022 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "The vaunted \"single-threaded, ordered list\" confuses \"prioritization\" with \"work-planning,\" and forces comparisons of the un-comparable. Here's the solution."
-summary_ar: "The vaunted \"
+summary_ar: "تخلط قائمة المهام الضخمة والمرتبة ذات المسار الواحد بين مفهوم 'تحديد الأولويات' ومفهوم 'تخطيط العمل'، مما يجبرك على مقارنة ما لا يُقارن. إليك الحل الفعال."
 ---
 
 # إدارة المهام في الوقت المناسب (JIT): بديل لقوائم المهام الضخمة المتراكمة
 ### JIT selection from independent streams: An alternative to the "big backlog" of work
 
-> **الملخص التنفيذي:** The vaunted \
+> **الملخص التنفيذي:** تخلط قائمة المهام الضخمة والمرتبة ذات المسار الواحد بين مفهوم 'تحديد الأولويات' ومفهوم 'تخطيط العمل'، مما يجبرك على مقارنة ما لا يُقارن. إليك الحل الفعال.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/jit-backlogs/](https://longform.asmartbear.com/jit-backlogs/)
 

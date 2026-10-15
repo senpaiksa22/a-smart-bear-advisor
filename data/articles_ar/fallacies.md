@@ -8,13 +8,13 @@ published_date: "Sun, 20 Oct 2024 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "A contrarian look at logical \"fallacies\" that maybe aren't so illogical after all."
-summary_ar: "A contrarian look at logical \"
+summary_ar: "نظرة مغايرة للسائد حول \"المغالطات\" المنطقية التي قد تبدو في واقع الأعمال غير منطقية للوهلة الأولى، لكنها أثبتت جدواها."
 ---
 
 # مغالطات ظاهرية ليست مغالطات في واقع الأعمال
 ### The Serengeti Plain: Fallacies that aren't fallacies
 
-> **الملخص التنفيذي:** A contrarian look at logical \
+> **الملخص التنفيذي:** نظرة مغايرة للسائد حول "المغالطات" المنطقية التي قد تبدو في واقع الأعمال غير منطقية للوهلة الأولى، لكنها أثبتت جدواها.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/fallacies/](https://longform.asmartbear.com/fallacies/)
 

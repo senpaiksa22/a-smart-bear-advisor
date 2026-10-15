@@ -8,13 +8,13 @@ published_date: "Tue, 01 May 2012 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Which is better: Two companies have the same revenue, one from a few large customers and the other from many little customers"
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Which is better: Many customers at low price-point or few at high price?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "أيهما أفضل لشركتك: الاعتماد على عدد كبير من العملاء بأسعار منخفضة أم عدد محدود من العملاء بأسعار مرتفعة؟ تحليل استراتيجي لإيرادات الشركات."
 ---
 
 # أيهما أفضل لشركتك: عملاء كُثر بسعر منخفض أم عملاء قليلون بسعر مرتفع؟
 ### Which is better: Many customers at low price-point or few at high price?
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: Which is better: Many customers at low price-point or few at high price?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** أيهما أفضل لشركتك: الاعتماد على عدد كبير من العملاء بأسعار منخفضة أم عدد محدود من العملاء بأسعار مرتفعة؟ تحليل استراتيجي لإيرادات الشركات.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/price-vs-quantity/](https://longform.asmartbear.com/price-vs-quantity/)
 

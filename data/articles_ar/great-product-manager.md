@@ -8,13 +8,13 @@ published_date: "Sat, 23 Apr 2022 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "According to the internet, being a Product Manager is impossible. Can you ever measure up?  No. But don't worry, there's a better answer."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The \"Great\" Product Manager, a.k.a. the Impossible Product Manager'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "تشير الآراء السائدة على الإنترنت إلى أن دور مدير المنتج يكاد يكون مستحيلاً. فهل يمكنك تلبية هذه التوقعات الصعبة حقاً؟ بالطبع لا. ولكن لا تقلق، فهناك إجابة أفضل وأكثر واقعية."Great\" Product Manager, a.k.a. the Impossible Product Manager'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
 # مدير المنتج 'العظيم': أو المستحيل الذي تبحث عنه الشركات
 ### The "Great" Product Manager, a.k.a. the Impossible Product Manager
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: The "Great" Product Manager, a.k.a. the Impossible Product Manager'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** تشير الآراء السائدة على الإنترنت إلى أن دور مدير المنتج يكاد يكون مستحيلاً. فهل يمكنك تلبية هذه التوقعات الصعبة حقاً؟ بالطبع لا. ولكن لا تقلق، فهناك إجابة أفضل وأكثر واقعية.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/great-product-manager/](https://longform.asmartbear.com/great-product-manager/)
 

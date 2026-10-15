@@ -8,13 +8,13 @@ published_date: "Sun, 13 Aug 2023 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Most so-called \"strategies\" are vague, wishful thinking, written once and never seen again. Don't do that. These are the characteristics of great strategy."
-summary_ar: "Most so-called \"
+summary_ar: "معظم ما يسمى \"بالاستراتيجيات\" ليست سوى أمنيات غامضة تُكتب لمرة واحدة ولا يُنظر إليها مجدداً. إياك أن تفعل ذلك، فهذه هي خصائص الاستراتيجية العظيمة حقاً."
 ---
 
 # ما الذي يجعل الاستراتيجية عظيمة وفارقة حقاً
 ### What makes a strategy great
 
-> **الملخص التنفيذي:** Most so-called \
+> **الملخص التنفيذي:** معظم ما يسمى "بالاستراتيجيات" ليست سوى أمنيات غامضة تُكتب لمرة واحدة ولا يُنظر إليها مجدداً. إياك أن تفعل ذلك، فهذه هي خصائص الاستراتيجية العظيمة حقاً.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/great-strategy/](https://longform.asmartbear.com/great-strategy/)
 

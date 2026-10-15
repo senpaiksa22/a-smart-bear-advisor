@@ -8,13 +8,13 @@ published_date: "Sun, 23 Jun 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "Resolve decision-making conflicts by selecting the right approach: Make a bold choice, synthesize a new solution, or find the balance."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: It's a Balance\" isn't always the answer'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "احسم صراعات اتخاذ القرار عبر اختيار المنهجية الصحيحة: إما اتخاذ قرار جريء، أو دمج الحلول لابتكار مخرج جديد، أو إيجاد التوازن الملائم." isn't always the answer'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
 ---
 
 # القول بأن 'الأمر يتطلب توازناً' ليس دائماً الإجابة الصحيحة
 ### "It's a Balance" isn't always the answer
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: It's a Balance" isn't always the answer'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** احسم صراعات اتخاذ القرار عبر اختيار المنهجية الصحيحة: إما اتخاذ قرار جريء، أو دمج الحلول لابتكار مخرج جديد، أو إيجاد التوازن الملائم.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/conflicting-choices/](https://longform.asmartbear.com/conflicting-choices/)
 

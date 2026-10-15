@@ -8,13 +8,13 @@ published_date: "Tue, 05 Jun 2018 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "You can charge much more than you think, if you reposition your value-proposition. Here's how."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How repositioning a product allows you to 8x its price'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "يمكنك فرض أسعار أعلى بكثير مما تتخيل إذا قمت بإعادة صياغة القيمة المقترحة لمنتجك في أذهان عميلك. إليك الطريقة."
 ---
 
 # كيف ترفع سعر منتجك 8 أضعاف بمجرد تغيير تموضعه الذهني
 ### How repositioning a product allows you to 8x its price
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: How repositioning a product allows you to 8x its price'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** يمكنك فرض أسعار أعلى بكثير مما تتخيل إذا قمت بإعادة صياغة القيمة المقترحة لمنتجك في أذهان عميلك. إليك الطريقة.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/more-value-not-save-money/](https://longform.asmartbear.com/more-value-not-save-money/)
 

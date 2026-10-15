@@ -8,13 +8,13 @@ published_date: "Wed, 05 Sep 2018 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "Decisions should usually be made quickly, to accelerate action and learning. But sometimes it really is smarter to take your time. Here's how to decide."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: When should a decision be fast, or slow?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "ينبغي عادة اتخاذ القرارات بسرعة لتسريع وتيرة العمل والتعلم. ولكن في بعض الأحيان، يكون التروي ودراسة الأمور بتمعن أمراً أذكى بكثير. إليك كيفية تحديد المنهج المناسب."
 ---
 
 # متى يجب أن يكون اتخاذ القرار سريعاً وخاطفاً ومتى يكون متأنياً؟
 ### When should a decision be fast, or slow?
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: When should a decision be fast, or slow?'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** ينبغي عادة اتخاذ القرارات بسرعة لتسريع وتيرة العمل والتعلم. ولكن في بعض الأحيان، يكون التروي ودراسة الأمور بتمعن أمراً أذكى بكثير. إليك كيفية تحديد المنهج المناسب.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/decisions-fast-slow/](https://longform.asmartbear.com/decisions-fast-slow/)
 

@@ -8,13 +8,13 @@ published_date: "Tue, 06 Aug 2013 00:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "Introducing COC: The true cost of cancellations in a scaling SaaS business."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: COC: A new metric for measuring cancellations in SaaS business models'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "تقديم مقياس التكلفة الحقيقية لإلغاء الاشتراكات (COC) في شركات البرمجيات كخدمة النامية."
 ---
 
 # مقياس COC: معيار مبتكر لقياس إلغاء الاشتراكات في شركات SaaS
 ### COC: A new metric for measuring cancellations in SaaS business models
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: COC: A new metric for measuring cancellations in SaaS business models'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** تقديم مقياس التكلفة الحقيقية لإلغاء الاشتراكات (COC) في شركات البرمجيات كخدمة النامية.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/coc/](https://longform.asmartbear.com/coc/)
 

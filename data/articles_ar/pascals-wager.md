@@ -8,13 +8,13 @@ published_date: "Tue, 31 Jul 2012 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Applying Pascal's Wager: Humility wins, arrogance loses."
-summary_ar: "يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: A life-changing challenge guided by Pascal's Wager'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق."
+summary_ar: "تطبيق رهان باسكال: التواضع ينتج عنه الربح، بينما الغطرسة تؤدي إلى الخسارة."
 ---
 
 # رهان باسكال وتطبيقه العملي لتغيير مسار حياتك المهنية
 ### A life-changing challenge guided by Pascal's Wager
 
-> **الملخص التنفيذي:** يقدم جيسون كوهين في هذا المقال رؤية نقدية وعملية حول 'تحليل واستراتيجية: A life-changing challenge guided by Pascal's Wager'، مفككاً التحديات الشائعة التي تواجه رواد الأعمال بأسلوب يجمع بين المنطق الرياضي واقتصاديات السوق.
+> **الملخص التنفيذي:** تطبيق رهان باسكال: التواضع ينتج عنه الربح، بينما الغطرسة تؤدي إلى الخسارة.
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/pascals-wager/](https://longform.asmartbear.com/pascals-wager/)
 
