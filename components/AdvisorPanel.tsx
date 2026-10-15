@@ -76,6 +76,8 @@ export default function AdvisorPanel({
   const [historySidebarOpen, setHistorySidebarOpen] = useState<boolean>(false);
   const [copiedId, setCopiedId] = useState<string | null>(null);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
+  const [conversationToDelete, setConversationToDelete] = useState<Conversation | null>(null);
+  const [isDeletingConv, setIsDeletingConv] = useState<boolean>(false);
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
@@ -153,11 +155,15 @@ export default function AdvisorPanel({
     }
   };
 
-  const deleteConv = async (convId: string, e: React.MouseEvent) => {
+  const promptDeleteConv = (conv: Conversation, e: React.MouseEvent) => {
     e.stopPropagation();
-    if (!confirm(isAr ? 'هل أنت متأكد من حذف هذه المحادثة؟' : 'Delete this conversation?')) {
-      return;
-    }
+    setConversationToDelete(conv);
+  };
+
+  const confirmDeleteConv = async () => {
+    if (!conversationToDelete || isDeletingConv) return;
+    const convId = conversationToDelete.id;
+    setIsDeletingConv(true);
     try {
       const res = await fetch(`/api/conversations/${convId}`, { method: 'DELETE' });
       const data = await res.json();
@@ -166,9 +172,12 @@ export default function AdvisorPanel({
         if (activeConversationId === convId) {
           startNewConversation();
         }
+        setConversationToDelete(null);
       }
     } catch (e) {
       console.error('Error deleting conversation:', e);
+    } finally {
+      setIsDeletingConv(false);
     }
   };
 
@@ -539,7 +548,7 @@ export default function AdvisorPanel({
                           </span>
                         </div>
                         <button
-                          onClick={(e) => deleteConv(c.id, e)}
+                          onClick={(e) => promptDeleteConv(c, e)}
                           className="opacity-0 group-hover:opacity-100 text-stone-400 hover:text-red-500 p-1 transition-opacity"
                           title={isAr ? 'حذف المحادثة' : 'Delete'}
                         >
@@ -844,6 +853,57 @@ export default function AdvisorPanel({
           </div>
         </div>
       </div>
+
+      {/* Custom In-App Confirmation Modal for Deleting Conversation */}
+      {conversationToDelete && (
+        <div
+          className="fixed inset-0 z-[120] flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm animate-in fade-in duration-200"
+          onClick={() => {
+            if (!isDeletingConv) setConversationToDelete(null);
+          }}
+        >
+          <div
+            className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-2xl max-w-sm w-full p-6 shadow-2xl relative text-center"
+            onClick={(e) => e.stopPropagation()}
+            dir={isAr ? 'rtl' : 'ltr'}
+          >
+            <div className="w-12 h-12 rounded-full bg-red-100 dark:bg-red-950/60 text-red-600 dark:text-red-400 flex items-center justify-center mx-auto mb-3 shadow-inner">
+              <Trash2 className="w-6 h-6" />
+            </div>
+            <h3 className="text-base font-bold text-stone-900 dark:text-stone-100 mb-1.5">
+              {isAr ? 'حذف المحادثة؟' : 'Delete Conversation?'}
+            </h3>
+            <p className="text-xs text-stone-500 dark:text-stone-400 mb-3 leading-relaxed">
+              {isAr
+                ? 'هل أنت متأكد من رغبتك في حذف هذه المحادثة؟ سيتم حذف جميع الرسائل السابقة نهائياً ولا يمكن التراجع عن هذا الإجراء.'
+                : 'Are you sure you want to delete this conversation? All associated messages will be permanently removed and cannot be recovered.'}
+            </p>
+            <div className="p-2.5 mb-4 rounded-xl bg-stone-100 dark:bg-stone-800 text-xs text-stone-700 dark:text-stone-300 font-medium truncate border border-stone-200/60 dark:border-stone-700/60">
+              &ldquo;{conversationToDelete.title}&rdquo;
+            </div>
+            <div className="flex items-center gap-2">
+              <button
+                type="button"
+                disabled={isDeletingConv}
+                onClick={() => setConversationToDelete(null)}
+                className="flex-1 py-2 px-3 text-xs font-semibold rounded-xl border border-stone-200 dark:border-stone-700 hover:bg-stone-100 dark:hover:bg-stone-800 text-stone-700 dark:text-stone-300 transition-colors disabled:opacity-50"
+              >
+                {isAr ? 'إلغاء' : 'Cancel'}
+              </button>
+              <button
+                type="button"
+                disabled={isDeletingConv}
+                onClick={confirmDeleteConv}
+                className="flex-1 py-2 px-3 text-xs font-semibold rounded-xl bg-red-600 hover:bg-red-700 active:bg-red-800 text-white transition-colors disabled:opacity-50 shadow-sm"
+              >
+                {isDeletingConv
+                  ? (isAr ? 'جاري الحذف...' : 'Deleting...')
+                  : (isAr ? 'نعم، احذف' : 'Yes, Delete')}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
