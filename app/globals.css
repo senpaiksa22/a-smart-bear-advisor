@@ -305,9 +305,14 @@ body {
 }
 
 /* Custom scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar-thumb, rgba(87, 117, 68, 0.25)) transparent;
+}
+
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 5px;
+  height: 5px;
 }
 
 ::-webkit-scrollbar-track {
@@ -315,7 +320,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(87, 117, 68, 0.25);
+  background: var(--scrollbar-thumb, rgba(87, 117, 68, 0.25));
   border-radius: 9999px;
 }
 

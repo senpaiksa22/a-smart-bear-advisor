@@ -92,10 +92,10 @@ export default function ThemeSelector({
         </span>
       </button>
 
-      {/* Dropdown Menu (6 Signature Themes) */}
+      {/* Dropdown Menu (10 Signature Themes - Clean 2-Column Grid) */}
       {isOpen && (
         <div
-          className={`absolute top-full mt-2 z-50 w-72 p-2 rounded-2xl bg-white dark:bg-[#151722] border border-stone-200 dark:border-stone-800 shadow-xl backdrop-blur-xl animate-in fade-in zoom-in-95 duration-150 ${
+          className={`absolute top-full mt-2 z-50 w-[360px] sm:w-[430px] max-w-[calc(100vw-1.5rem)] p-2.5 rounded-2xl bg-white dark:bg-[#151722] border border-stone-200 dark:border-stone-800 shadow-2xl backdrop-blur-xl animate-in fade-in zoom-in-95 duration-150 ${
             isAr ? 'left-0 sm:right-auto' : 'right-0 sm:left-auto'
           }`}
           style={{
@@ -103,20 +103,64 @@ export default function ThemeSelector({
           }}
         >
           {/* Header */}
-          <div className="px-3 py-2 border-b border-stone-100 dark:border-stone-800/80 mb-1.5 flex items-center justify-between">
+          <div className="px-2.5 py-2 border-b border-stone-100 dark:border-stone-800/80 mb-2 flex items-center justify-between">
             <div className="flex items-center gap-1.5 text-xs font-black text-stone-800 dark:text-stone-200">
-              <Palette className="w-3.5 h-3.5 text-bear-600" />
-              <span>{isAr ? 'المظاهر اللونية (10 ثيمات)' : 'Color Themes (10 Themes)'}</span>
+              <Palette className="w-4 h-4 text-bear-600" />
+              <span>{isAr ? 'المظاهر اللونية' : 'Color Themes'}</span>
             </div>
             <span className="text-[10px] font-mono px-2 py-0.5 rounded-full bg-bear-100 dark:bg-bear-950 text-bear-700 dark:text-bear-300 font-bold">
-              10
+              {isAr ? '10 مظاهر مميزة' : '10 Themes'}
             </span>
           </div>
 
-          {/* Theme List */}
-          <div className="space-y-1 max-h-[380px] overflow-y-auto pr-0.5">
+          {/* Theme Grid: 2 Columns - Zero Cramped Scroll on standard screens */}
+          <div className="grid grid-cols-2 gap-1.5 max-h-[80vh] overflow-y-auto p-1 [scrollbar-width:thin]">
             {APP_THEMES.map((theme) => {
               const isActive = theme.id === currentTheme;
+              const cleanNameAr = theme.name_ar.split('(')[0].trim();
+              const cleanNameEn = theme.name_en.split('(')[0].trim();
+
+              const subtitleAr =
+                theme.id === 'sand'
+                  ? 'مريح للعين'
+                  : theme.id === 'matcha'
+                  ? 'سكينة وهدوء'
+                  : theme.id === 'sepia'
+                  ? 'ورق كلاسيكي'
+                  : theme.id === 'light'
+                  ? 'أبيض ناصع'
+                  : theme.id === 'dark'
+                  ? 'عالي التباين'
+                  : theme.id === 'ocean'
+                  ? 'كحلي نورديك'
+                  : theme.id === 'forest'
+                  ? 'صنوبر مهدئ'
+                  : theme.id === 'sunset'
+                  ? 'مخملي ملكي'
+                  : theme.id === 'espresso'
+                  ? 'قهوة دافئة'
+                  : 'أوبسيديان ذهبي';
+
+              const subtitleEn =
+                theme.id === 'sand'
+                  ? 'Eye-Ease'
+                  : theme.id === 'matcha'
+                  ? 'Zen Focus'
+                  : theme.id === 'sepia'
+                  ? 'Warm Paper'
+                  : theme.id === 'light'
+                  ? 'Clean White'
+                  : theme.id === 'dark'
+                  ? 'High Contrast'
+                  : theme.id === 'ocean'
+                  ? 'Nordic Blue'
+                  : theme.id === 'forest'
+                  ? 'Calming Pine'
+                  : theme.id === 'sunset'
+                  ? 'Royal Velvet'
+                  : theme.id === 'espresso'
+                  ? 'Warm Roast'
+                  : 'Obsidian Gold';
 
               return (
                 <button
@@ -125,49 +169,43 @@ export default function ThemeSelector({
                     onThemeChange(theme.id);
                     setIsOpen(false);
                   }}
-                  className={`w-full p-2.5 rounded-xl text-start transition-all flex items-center justify-between gap-3 border ${
+                  className={`p-2 rounded-xl text-start transition-all flex items-center justify-between gap-2 border ${
                     isActive
-                      ? 'bg-bear-50 dark:bg-bear-950/60 border-bear-500 shadow-2xs'
-                      : 'border-transparent hover:bg-stone-50 dark:hover:bg-stone-800/70 hover:border-stone-200/80 dark:hover:border-stone-700/60'
+                      ? 'bg-bear-50 dark:bg-bear-950/70 border-bear-500 shadow-2xs ring-1 ring-bear-500/40'
+                      : 'border-stone-200/80 dark:border-stone-800 hover:bg-stone-50 dark:hover:bg-stone-800/60 hover:border-stone-300 dark:hover:border-stone-700'
                   }`}
+                  title={isAr ? theme.description_ar : theme.description_en}
                 >
-                  <div className="flex items-center gap-3 min-w-0">
+                  <div className="flex items-center gap-2 min-w-0">
                     {/* Visual Swatch Pill */}
                     <div
-                      className="w-7 h-7 rounded-lg border flex items-center justify-center shrink-0 shadow-2xs"
+                      className="w-6 h-6 rounded-lg border flex items-center justify-center shrink-0 shadow-2xs"
                       style={{
                         backgroundColor: theme.colorSwatch.bg,
                         borderColor: theme.colorSwatch.border,
                       }}
                     >
                       <span
-                        className="w-2.5 h-2.5 rounded-full"
+                        className="w-2 h-2 rounded-full"
                         style={{ backgroundColor: theme.colorSwatch.accent }}
                       />
                     </div>
 
-                    {/* Names & Description */}
+                    {/* Names & Subtitle */}
                     <div className="min-w-0">
-                      <div className="flex items-center gap-1.5">
-                        <span className="text-xs font-bold text-stone-900 dark:text-white truncate">
-                          {isAr ? theme.name_ar : theme.name_en}
-                        </span>
-                        {isActive && (
-                          <span className="text-[10px] font-bold text-bear-600 dark:text-bear-400">
-                            •
-                          </span>
-                        )}
+                      <div className="text-xs font-bold text-stone-900 dark:text-white truncate">
+                        {isAr ? cleanNameAr : cleanNameEn}
                       </div>
-                      <p className="text-[10px] text-stone-500 dark:text-stone-400 truncate leading-tight mt-0.5">
-                        {isAr ? theme.description_ar : theme.description_en}
-                      </p>
+                      <div className="text-[10px] text-stone-400 dark:text-stone-500 truncate leading-tight">
+                        {isAr ? subtitleAr : subtitleEn}
+                      </div>
                     </div>
                   </div>
 
                   {/* Active Indicator Checkmark */}
                   {isActive && (
-                    <div className="w-5 h-5 rounded-full bg-bear-600 text-white flex items-center justify-center shrink-0 shadow-2xs">
-                      <Check className="w-3 h-3 stroke-[3]" />
+                    <div className="w-4 h-4 rounded-full bg-bear-600 text-white flex items-center justify-center shrink-0 shadow-2xs">
+                      <Check className="w-2.5 h-2.5 stroke-[3]" />
                     </div>
                   )}
                 </button>
