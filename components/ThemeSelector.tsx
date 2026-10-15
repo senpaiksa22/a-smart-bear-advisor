@@ -72,7 +72,7 @@ export default function ThemeSelector({
       {/* Trigger Button */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="whitespace-nowrap shrink-0 flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl border border-stone-200 dark:border-stone-800 hover:border-bear-500/50 bg-stone-50 dark:bg-stone-900 text-stone-700 dark:text-stone-200 text-xs font-semibold transition-all shadow-xs hover:shadow-sm h-9"
+        className="whitespace-nowrap shrink-0 flex items-center gap-1.5 px-2 sm:px-2.5 py-1 sm:py-1.5 rounded-xl border border-stone-200 dark:border-stone-800 hover:border-bear-500/50 bg-stone-50 dark:bg-stone-900 text-stone-700 dark:text-stone-200 text-xs font-semibold transition-all shadow-xs hover:shadow-sm h-8 sm:h-9"
         title={isAr ? `تغيير المظهر: ${activeConfig.name_ar}` : `Change Theme: ${activeConfig.name_en}`}
         aria-expanded={isOpen}
       >

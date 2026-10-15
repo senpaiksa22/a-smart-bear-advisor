@@ -345,43 +345,43 @@ export default function AdvisorPanel({
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center p-2 sm:p-4 bg-stone-950/70 backdrop-blur-md animate-in fade-in duration-200"
+      className="fixed inset-0 z-50 flex items-center justify-center p-0 sm:p-4 bg-stone-950/70 backdrop-blur-md animate-in fade-in duration-200"
       style={{ direction: isAr ? 'rtl' : 'ltr' }}
     >
-      <div className="relative w-full max-w-5xl h-[92vh] max-h-[850px] bg-white dark:bg-stone-900 rounded-2xl shadow-2xl border border-stone-200 dark:border-stone-800 flex flex-col overflow-hidden">
+      <div className="relative w-full max-w-5xl h-[100dvh] sm:h-[92vh] sm:max-h-[850px] bg-white dark:bg-stone-900 rounded-none sm:rounded-2xl shadow-2xl border-0 sm:border border-stone-200 dark:border-stone-800 flex flex-col overflow-hidden">
         {/* ==================================================================== */}
         {/* HEADER BAR */}
         {/* ==================================================================== */}
-        <div className="px-4 py-3 border-b border-stone-200 dark:border-stone-800 bg-stone-50/80 dark:bg-stone-900/80 flex items-center justify-between gap-2 flex-wrap sm:flex-nowrap">
+        <div className="px-2.5 sm:px-4 py-2 sm:py-3 border-b border-stone-200 dark:border-stone-800 bg-stone-50/80 dark:bg-stone-900/80 flex items-center justify-between gap-1.5 sm:gap-2">
           {/* Brand & Persona Badge */}
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-1.5 sm:gap-3 min-w-0">
             <button
               onClick={() => setHistorySidebarOpen(!historySidebarOpen)}
-              className="p-2 rounded-xl text-stone-600 dark:text-stone-300 hover:bg-stone-200/60 dark:hover:bg-stone-800 transition-colors relative"
+              className="p-1.5 sm:p-2 rounded-xl text-stone-600 dark:text-stone-300 hover:bg-stone-200/60 dark:hover:bg-stone-800 transition-colors relative shrink-0"
               title={isAr ? 'سجل المحادثات' : 'Chat History'}
             >
-              <History className="w-5 h-5" />
+              <History className="w-4 h-4 sm:w-5 sm:h-5" />
               {conversations.length > 0 && (
-                <span className="absolute -top-1 -right-1 w-4 h-4 bg-bear-600 text-white text-[10px] rounded-full flex items-center justify-center font-bold">
+                <span className="absolute -top-1 -right-1 w-3.5 h-3.5 sm:w-4 sm:h-4 bg-bear-600 text-white text-[9px] sm:text-[10px] rounded-full flex items-center justify-center font-bold">
                   {conversations.length}
                 </span>
               )}
             </button>
 
-            <div className="flex items-center gap-2">
-              <div className="w-9 h-9 rounded-xl bg-gradient-to-tr from-bear-700 to-amber-600 text-white flex items-center justify-center shadow-md">
-                <Sparkles className="w-5 h-5 text-amber-200 animate-pulse" />
+            <div className="flex items-center gap-1.5 sm:gap-2 min-w-0">
+              <div className="w-8 h-8 sm:w-9 sm:h-9 rounded-xl bg-gradient-to-tr from-bear-700 to-amber-600 text-white flex items-center justify-center shadow-xs shrink-0">
+                <Sparkles className="w-4 h-4 sm:w-5 sm:h-5 text-amber-200 animate-pulse" />
               </div>
-              <div>
+              <div className="min-w-0">
                 <div className="flex items-center gap-1.5">
-                  <h2 className="text-sm sm:text-base font-bold text-stone-900 dark:text-white leading-none">
-                    {isAr ? 'جيسون كوهين الذكي' : 'Jason Cohen Advisor'}
+                  <h2 className="text-xs sm:text-base font-bold text-stone-900 dark:text-white leading-none truncate">
+                    {isAr ? 'جيسون كوهين' : 'Jason Cohen'}
                   </h2>
-                  <span className="text-[10px] font-semibold px-1.5 py-0.5 rounded-full bg-bear-100 dark:bg-bear-950 text-bear-700 dark:text-bear-300 border border-bear-500/20">
+                  <span className="hidden sm:inline-block text-[10px] font-semibold px-1.5 py-0.5 rounded-full bg-bear-100 dark:bg-bear-950 text-bear-700 dark:text-bear-300 border border-bear-500/20 whitespace-nowrap">
                     A Smart Bear
                   </span>
                 </div>
-                <p className="text-[11px] text-stone-500 dark:text-stone-400 mt-0.5 hidden sm:block">
+                <p className="text-[11px] text-stone-500 dark:text-stone-400 mt-0.5 hidden md:block whitespace-nowrap">
                   {isAr
                     ? 'استشارات ريادية استراتيجية مستخلصة من 213 مقال وخبرة 4 شركات'
                     : 'Tactical founder advice distilled from 213 essays & 4 exits'}
@@ -391,16 +391,16 @@ export default function AdvisorPanel({
           </div>
 
           {/* Model Switcher & Action Controls */}
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-1 sm:gap-2 shrink-0">
             {/* Model Selector Dropdown */}
             <div className="relative">
               <button
                 type="button"
                 onClick={() => setModelDropdownOpen(!modelDropdownOpen)}
-                className="flex items-center gap-2 px-3 py-1.5 rounded-xl text-xs font-semibold bg-white dark:bg-stone-800 border border-stone-200 dark:border-stone-700 hover:border-bear-500 shadow-sm transition-all"
+                className="flex items-center gap-1.5 px-2 sm:px-3 py-1.5 rounded-xl text-xs font-semibold bg-white dark:bg-stone-800 border border-stone-200 dark:border-stone-700 hover:border-bear-500 shadow-xs transition-all"
               >
                 <span
-                  className={`w-2 h-2 rounded-full ${
+                  className={`w-2 h-2 rounded-full shrink-0 ${
                     selectedModel.includes('argon')
                       ? 'bg-amber-500'
                       : selectedModel.includes('pro')
@@ -410,10 +410,10 @@ export default function AdvisorPanel({
                       : 'bg-emerald-500'
                   }`}
                 />
-                <span className="font-bold text-stone-800 dark:text-stone-200">
+                <span className="font-bold text-stone-800 dark:text-stone-200 truncate max-w-[70px] sm:max-w-none">
                   {isAr ? currentModelObj.name_ar : currentModelObj.name}
                 </span>
-                <ChevronDown className="w-3.5 h-3.5 text-stone-400" />
+                <ChevronDown className="w-3 h-3 text-stone-400 shrink-0" />
               </button>
 
               {modelDropdownOpen && (
@@ -467,10 +467,10 @@ export default function AdvisorPanel({
             {messages.length > 0 && (
               <button
                 onClick={exportConversationMarkdown}
-                className="p-1.5 sm:px-2.5 sm:py-1.5 rounded-xl text-xs font-medium bg-stone-100 dark:bg-stone-800 text-stone-700 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors flex items-center gap-1.5"
+                className="p-1.5 sm:px-2.5 sm:py-1.5 rounded-xl text-xs font-medium bg-stone-100 dark:bg-stone-800 text-stone-700 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors flex items-center gap-1.5 shrink-0"
                 title={isAr ? 'تصدير كملف Markdown' : 'Export as Markdown'}
               >
-                <Download className="w-4 h-4 text-stone-500" />
+                <Download className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-stone-500" />
                 <span className="hidden sm:inline">{isAr ? 'تصدير' : 'Export'}</span>
               </button>
             )}
@@ -478,20 +478,20 @@ export default function AdvisorPanel({
             {/* New Chat Button */}
             <button
               onClick={startNewConversation}
-              className="p-1.5 sm:px-2.5 sm:py-1.5 rounded-xl text-xs font-medium bg-bear-50 dark:bg-bear-950/50 text-bear-700 dark:text-bear-300 hover:bg-bear-100 dark:hover:bg-bear-900/60 transition-colors flex items-center gap-1"
+              className="p-1.5 sm:px-2.5 sm:py-1.5 rounded-xl text-xs font-medium bg-bear-50 dark:bg-bear-950/50 text-bear-700 dark:text-bear-300 hover:bg-bear-100 dark:hover:bg-bear-900/60 transition-colors flex items-center gap-1 shrink-0"
               title={isAr ? 'محادثة جديدة' : 'New Chat'}
             >
-              <Plus className="w-4 h-4" />
+              <Plus className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
               <span className="hidden sm:inline">{isAr ? 'جديدة' : 'New'}</span>
             </button>
 
             {/* Close Modal Button */}
             <button
               onClick={onClose}
-              className="p-1.5 rounded-xl text-stone-400 hover:text-stone-700 dark:hover:text-stone-200 hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors"
+              className="p-1.5 rounded-xl text-stone-400 hover:text-stone-700 dark:hover:text-stone-200 hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors shrink-0"
               title={isAr ? 'إغلاق' : 'Close'}
             >
-              <X className="w-5 h-5" />
+              <X className="w-4 h-4 sm:w-5 sm:h-5" />
             </button>
           </div>
         </div>

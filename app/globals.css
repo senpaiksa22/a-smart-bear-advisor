@@ -112,11 +112,19 @@
   --scrollbar-thumb: rgba(244, 63, 94, 0.35);
 }
 
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  position: relative;
+  -webkit-overflow-scrolling: touch;
+}
+
 body {
   background-color: var(--background) !important;
   color: var(--foreground) !important;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans Arabic', sans-serif;
-  overflow-x: hidden;
+  min-height: 100vh;
 }
 
 /* Dynamic theme overrides for panels, headers and drawers */

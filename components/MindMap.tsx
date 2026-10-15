@@ -339,11 +339,11 @@ export default function MindMap({
           </button>
 
           {/* Controls Aligned to the Absolute Far Left */}
-          <div className="flex items-center gap-1 shrink-0 border-s border-stone-200 dark:border-stone-800 ps-2 ms-1">
+          <div className="flex items-center gap-1 shrink-0 border-s border-stone-200 dark:border-stone-800 ps-1.5 sm:ps-2 ms-1">
             {/* Real Compact vs Cards View Toggle */}
             <button
               onClick={() => setDisplayMode(displayMode === 'cards' ? 'compact' : 'cards')}
-              className={`flex items-center gap-1 px-2.5 py-1.5 rounded-lg text-xs font-bold transition-all border ${
+              className={`p-1.5 sm:px-2.5 sm:py-1.5 rounded-lg text-xs font-bold transition-all border flex items-center gap-1 ${
                 displayMode === 'compact'
                   ? 'bg-bear-50 dark:bg-bear-950 text-bear-700 dark:text-bear-300 border-bear-500/40 shadow-2xs'
                   : 'bg-stone-100 dark:bg-stone-800 text-stone-700 dark:text-stone-300 border-transparent hover:bg-stone-200 dark:hover:bg-stone-700'
@@ -371,37 +371,40 @@ export default function MindMap({
               )}
             </button>
 
-            <button
-              onClick={() => setZoomLevel((z) => Math.min(z + 0.1, 1.2))}
-              className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-600 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors"
-              title={isAr ? 'تكبير (+)' : 'Zoom In (+)'}
-            >
-              <ZoomIn className="w-3.5 h-3.5" />
-            </button>
-            <button
-              onClick={() => setZoomLevel((z) => Math.max(z - 0.1, 0.8))}
-              className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-600 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors"
-              title={isAr ? 'تصغير (-)' : 'Zoom Out (-)'}
-            >
-              <ZoomOut className="w-3.5 h-3.5" />
-            </button>
-            <button
-              onClick={() => setZoomLevel(1)}
-              className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-600 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors"
-              title={isAr ? 'إعادة ضبط الحجم' : 'Reset Zoom'}
-            >
-              <RotateCcw className="w-3.5 h-3.5" />
-            </button>
+            {/* Desktop Zoom Controls (Hidden on Mobile) */}
+            <div className="hidden md:flex items-center gap-1">
+              <button
+                onClick={() => setZoomLevel((z) => Math.min(z + 0.1, 1.2))}
+                className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-600 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors"
+                title={isAr ? 'تكبير (+)' : 'Zoom In (+)'}
+              >
+                <ZoomIn className="w-3.5 h-3.5" />
+              </button>
+              <button
+                onClick={() => setZoomLevel((z) => Math.max(z - 0.1, 0.8))}
+                className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-600 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors"
+                title={isAr ? 'تصغير (-)' : 'Zoom Out (-)'}
+              >
+                <ZoomOut className="w-3.5 h-3.5" />
+              </button>
+              <button
+                onClick={() => setZoomLevel(1)}
+                className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-600 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors"
+                title={isAr ? 'إعادة ضبط الحجم' : 'Reset Zoom'}
+              >
+                <RotateCcw className="w-3.5 h-3.5" />
+              </button>
+            </div>
           </div>
         </div>
       </div>
 
       {/* ==================================================================== */}
-      {/* MAIN WORKSPACE (عرض مريح، خطوط واضحة، مطابق تماماً للرسمة الهندسية) */}
+      {/* MAIN WORKSPACE */}
       {/* ==================================================================== */}
       <div
-        className="flex-1 p-4 sm:p-6 lg:p-8 max-w-[1600px] w-full mx-auto transition-transform"
-        style={{ transform: `scale(${zoomLevel})`, transformOrigin: 'top center' }}
+        className="flex-1 p-2.5 sm:p-6 lg:p-8 max-w-[1600px] w-full mx-auto transition-transform overflow-x-hidden"
+        style={zoomLevel !== 1 ? { transform: `scale(${zoomLevel})`, transformOrigin: 'top center' } : undefined}
       >
         {activeCluster ? (
           /* ==================================================================== */
@@ -662,7 +665,7 @@ export default function MindMap({
               /* ==================================================================== */
               /* 1. عرض الكروت (الجانب الأيسر في الرسمة): مربع للمحور الرئيسي وبداخله شبكة مربعات للمحاور الفرعية */
               /* ==================================================================== */
-              <div className="grid grid-cols-1 xl:grid-cols-2 gap-7">
+              <div className="grid grid-cols-1 xl:grid-cols-2 gap-4 sm:gap-7">
                 {renderedClusters.map((cluster, cIdx) => {
                   const clusterArticles = articlesByCluster[cluster.id] || [];
                   const theme = CLUSTER_THEMES[cIdx % CLUSTER_THEMES.length];
@@ -674,35 +677,35 @@ export default function MindMap({
                   return (
                     <div
                       key={cluster.id}
-                      className={`rounded-3xl border-2 ${theme.border} ${theme.bg} p-5 sm:p-6 shadow-sm transition-all hover:shadow-md flex flex-col justify-between`}
+                      className={`rounded-2xl sm:rounded-3xl border-2 ${theme.border} ${theme.bg} p-3.5 sm:p-6 shadow-sm transition-all hover:shadow-md flex flex-col justify-between`}
                     >
                       <div>
                         {/* المحور الرئيسي: شريط علوي مستطيل مميز بالاسم والعدد */}
-                        <div className="p-3.5 rounded-2xl bg-white dark:bg-stone-900/90 border border-stone-200/90 dark:border-stone-800 shadow-2xs flex items-center justify-between gap-3">
-                          <div className="flex items-center gap-2.5 min-w-0">
-                            <span className={`w-3.5 h-3.5 rounded-full shrink-0 ${theme.dot}`} />
+                        <div className="p-2.5 sm:p-3.5 rounded-xl sm:rounded-2xl bg-white dark:bg-stone-900/90 border border-stone-200/90 dark:border-stone-800 shadow-2xs flex items-center justify-between gap-2 sm:gap-3">
+                          <div className="flex items-center gap-2 sm:gap-2.5 min-w-0">
+                            <span className={`w-3 sm:w-3.5 h-3 sm:h-3.5 rounded-full shrink-0 ${theme.dot}`} />
                             <div className="min-w-0">
                               <span className="text-[10px] font-bold uppercase tracking-wider text-stone-400 dark:text-stone-500 block leading-tight">
                                 {isAr ? 'المحور الرئيسي' : 'Main Theme'}
                               </span>
-                              <h2 className={`font-black text-base sm:text-lg leading-snug truncate ${theme.text}`}>
+                              <h2 className={`font-black text-sm sm:text-lg leading-snug truncate ${theme.text}`}>
                                 {cName}
                               </h2>
                             </div>
                           </div>
-                          <span className={`text-xs font-bold px-2.5 py-1 rounded-xl border shrink-0 ${theme.badge}`}>
+                          <span className={`text-[11px] sm:text-xs font-bold px-2 sm:px-2.5 py-0.5 sm:py-1 rounded-xl border shrink-0 ${theme.badge}`}>
                             {clusterArticles.length} {isAr ? 'مقالاً' : 'essays'}
                           </span>
                         </div>
 
                         {cDesc && (
-                          <p className="text-xs text-stone-600 dark:text-stone-400 line-clamp-2 leading-relaxed px-1 my-3">
+                          <p className="text-xs text-stone-600 dark:text-stone-400 line-clamp-2 leading-relaxed px-1 my-2.5 sm:my-3">
                             {cDesc}
                           </p>
                         )}
 
                         {/* شبكة المربعات (المحاور الفرعية المربعة كما في رسمة المستخدم) */}
-                        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mt-2">
+                        <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-3 mt-2">
                           {squareSubArticles.map((art) => {
                             const title = isAr ? art.title_ar || art.title_en : art.title_en;
                             const summary = isAr ? art.summary_ar || art.summary_en : art.summary_en;
@@ -712,7 +715,7 @@ export default function MindMap({
                               <div
                                 key={art.slug}
                                 onClick={() => onSelectArticle(art)}
-                                className={`group p-3.5 rounded-2xl cursor-pointer transition-all border flex flex-col justify-between gap-2.5 ${
+                                className={`group p-3 sm:p-3.5 rounded-xl sm:rounded-2xl cursor-pointer transition-all border flex flex-col justify-between gap-2 sm:gap-2.5 ${
                                   isSelected
                                     ? 'bg-bear-50 dark:bg-bear-950/80 border-bear-500 shadow-sm ring-2 ring-bear-500/20'
                                     : 'bg-white dark:bg-[#151722] hover:bg-stone-50 dark:hover:bg-[#1c1f30] border-stone-200/90 dark:border-stone-800 shadow-2xs hover:border-bear-500/50 hover:shadow-sm'

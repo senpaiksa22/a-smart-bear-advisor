@@ -152,43 +152,30 @@ export default function ArticleDrawer({
       {/* TOP NAVIGATION & CONTROLS BAR */}
       {/* ==================================================================== */}
       <div className="sticky top-0 z-30 w-full bg-white/95 dark:bg-[#12141e]/95 backdrop-blur-md border-b border-stone-200/80 dark:border-stone-800/80 shadow-xs">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between gap-3">
+        <div className="max-w-5xl mx-auto px-2.5 sm:px-6 h-14 sm:h-16 flex items-center justify-between gap-1.5 sm:gap-3">
           {/* Back Button */}
           <button
             onClick={onClose}
-            className="flex items-center gap-2 px-3.5 py-2 rounded-xl text-xs sm:text-sm font-bold bg-stone-100 dark:bg-stone-800/80 text-stone-700 dark:text-stone-200 hover:bg-stone-200 dark:hover:bg-stone-700 transition-all shadow-xs"
+            className="flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-3.5 py-1.5 sm:py-2 rounded-xl text-xs sm:text-sm font-bold bg-stone-100 dark:bg-stone-800/80 text-stone-700 dark:text-stone-200 hover:bg-stone-200 dark:hover:bg-stone-700 transition-all shadow-xs shrink-0"
           >
-            {isContentAr ? <ArrowRight className="w-4 h-4" /> : <ArrowLeft className="w-4 h-4" />}
-            <span>{isContentAr ? 'العودة إلى الخريطة والمحاور' : 'Back to Themes & Map'}</span>
+            {isContentAr ? <ArrowRight className="w-4 h-4 shrink-0" /> : <ArrowLeft className="w-4 h-4 shrink-0" />}
+            <span className="hidden sm:inline">{isContentAr ? 'العودة إلى الخريطة' : 'Back to Map'}</span>
+            <span className="sm:hidden">{isContentAr ? 'الخريطة' : 'Back'}</span>
           </button>
 
-          {/* Action Center: Language Switcher & Consult Jason */}
-          <div className="flex items-center gap-2 sm:gap-3">
+          {/* Action Center: Language Switcher, Theme & Consult Jason */}
+          <div className="flex items-center gap-1.5 sm:gap-2.5 shrink-0">
             {/* Language Switcher Toggle */}
-            <div className="flex items-center p-1 rounded-xl bg-stone-100 dark:bg-stone-800 border border-stone-200 dark:border-stone-700 text-xs font-bold">
-              <button
-                onClick={() => handleLangToggle('ar')}
-                className={`px-3 py-1 rounded-lg transition-all ${
-                  isContentAr
-                    ? 'bg-white dark:bg-stone-900 text-stone-900 dark:text-white shadow-xs'
-                    : 'text-stone-500 hover:text-stone-900 dark:hover:text-stone-300'
-                }`}
-              >
-                عربي
-              </button>
-              <button
-                onClick={() => handleLangToggle('en')}
-                className={`px-3 py-1 rounded-lg transition-all ${
-                  !isContentAr
-                    ? 'bg-white dark:bg-stone-900 text-stone-900 dark:text-white shadow-xs'
-                    : 'text-stone-500 hover:text-stone-900 dark:hover:text-stone-300'
-                }`}
-              >
-                English
-              </button>
-            </div>
+            <button
+              onClick={() => handleLangToggle(isContentAr ? 'en' : 'ar')}
+              className="px-2 sm:px-3 py-1 sm:py-1.5 rounded-xl border border-stone-200 dark:border-stone-700 bg-stone-100 dark:bg-stone-800 hover:bg-stone-200 text-stone-800 dark:text-stone-200 text-xs font-bold transition-all shrink-0"
+              title={isContentAr ? 'Switch to English' : 'التحويل إلى العربية'}
+            >
+              <span className="hidden sm:inline">{isContentAr ? 'English' : 'عربي'}</span>
+              <span className="sm:hidden">{isContentAr ? 'EN' : 'عربي'}</span>
+            </button>
 
-            {/* 6 Color Themes Selector */}
+            {/* Color Themes Selector */}
             {onThemeChange && (
               <ThemeSelector
                 currentTheme={theme}
@@ -200,9 +187,9 @@ export default function ArticleDrawer({
             {/* Consult Jason Button */}
             <button
               onClick={() => onConsultJason(article)}
-              className="flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-gradient-to-r from-bear-600 to-amber-600 hover:from-bear-700 hover:to-amber-700 text-white font-bold text-xs sm:text-sm shadow-md shadow-bear-600/20 active:scale-95 transition-all"
+              className="flex items-center gap-1.5 px-2.5 sm:px-3.5 py-1.5 sm:py-2 rounded-xl bg-gradient-to-r from-bear-600 to-amber-600 hover:from-bear-700 hover:to-amber-700 text-white font-bold text-xs sm:text-sm shadow-md shadow-bear-600/20 active:scale-95 transition-all shrink-0"
             >
-              <Sparkles className="w-4 h-4 text-amber-200" />
+              <Sparkles className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-amber-200 shrink-0" />
               <span className="hidden sm:inline">
                 {isContentAr ? 'استشر جيسون حول هذا المبدأ' : 'Consult Jason'}
               </span>
@@ -213,9 +200,9 @@ export default function ArticleDrawer({
       </div>
 
       {/* ==================================================================== */}
-      {/* ARTICLE READING CANVAS (شاشة كاملة، عرض مريح، خطوط منسقة) */}
+      {/* ARTICLE READING CANVAS */}
       {/* ==================================================================== */}
-      <main className="max-w-4xl mx-auto px-4 sm:px-8 pt-8 pb-32 sm:pt-12 sm:pb-40 space-y-8">
+      <main className="max-w-4xl mx-auto px-3.5 sm:px-8 pt-5 pb-28 sm:pt-12 sm:pb-40 space-y-6 sm:space-y-8 overflow-x-hidden">
         {/* Article Header Meta */}
         <div className="space-y-4 pb-6 border-b border-stone-200/80 dark:border-stone-800/80">
           <div className="flex items-center gap-2.5 flex-wrap">
