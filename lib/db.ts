@@ -212,7 +212,6 @@ export async function saveMessage(
         user_id: userId,
         role,
         content,
-        model_used: modelUsed,
       })
       .select('*')
       .single();
