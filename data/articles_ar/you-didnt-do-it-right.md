@@ -20,7 +20,7 @@ summary_ar: "أربع محاولات صادقة لتحقيق الأهداف وا
 
 ---
 
-![I know it's wrong, I'm just waiting for the autocorrect.](https://public.asmartbear.com/books/anthology/chapters/you-didnt-do-it-right/d6782print-simple.png)
+![I know it's wrong, I'm just waiting for the autocorrect.](https://public.asmartbear.com/books/anthology/chapters/whos-lying/d6782print-simple.png)
 
 لقد حاولنا تنفيذ OKRs أربع مرات منفصلة في WP Engine؛ أحيانًا داخل فريق واحد، وأحيانًا داخل قسم ما، وأحيانًا عبر الشركة بأكملها.
 

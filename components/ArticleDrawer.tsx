@@ -341,9 +341,18 @@ function MarkdownRenderer({ content, isAr }: { content: string; isAr: boolean })
   const html = useMemo(() => {
     if (!content) return '';
     try {
+      const renderer = new marked.Renderer();
+      renderer.image = ({ href, text, title }: { href: string; text: string; title?: string | null }) => {
+        return `<figure class="my-6 text-center">
+          <img src="${href}" alt="${text || ''}" loading="lazy" class="rounded-xl border border-stone-200 dark:border-stone-800 shadow-md max-w-full h-auto mx-auto block" onerror="this.onerror=null; const p = this.closest('figure'); if(p) p.style.display='none'; else this.style.display='none';" />
+          ${text ? `<figcaption class="text-xs text-stone-400 dark:text-stone-500 mt-2 text-center italic">${text}</figcaption>` : ''}
+        </figure>`;
+      };
+
       marked.setOptions({
         gfm: true,
         breaks: false,
+        renderer,
       });
       return marked.parse(content) as string;
     } catch (err) {

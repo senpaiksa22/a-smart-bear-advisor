@@ -12,7 +12,7 @@ summary: "Four sincere attempts at OKRs, four failures, and every time: \"you di
 > **Executive Summary:** Four sincere attempts at OKRs, four failures, and every time: "you didn't do it right." Maybe the framework doesn't fit you -- so how do you find one that does?
 > **Original URL:** [https://longform.asmartbear.com/you-didnt-do-it-right/](https://longform.asmartbear.com/you-didnt-do-it-right/)
 
-![I know it's wrong, I'm just waiting for the autocorrect.](https://public.asmartbear.com/books/anthology/chapters/you-didnt-do-it-right/d6782print-simple.png)
+![I know it's wrong, I'm just waiting for the autocorrect.](https://public.asmartbear.com/books/anthology/chapters/whos-lying/d6782print-simple.png)
 
 We tried to implement OKRs four separate times at WP Engine; sometimes inside a single team, sometimes for a department, sometimes across the entire company.
 
