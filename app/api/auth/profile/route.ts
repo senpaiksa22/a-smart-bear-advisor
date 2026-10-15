@@ -85,30 +85,15 @@ export async function POST(request: NextRequest) {
     }
 
     // --------------------------------------------------------------------------
-    // ACTION 2: CHANGE PASSWORD
+    // ACTION 2: CHANGE PASSWORD (Frictionless for Authenticated User)
     // --------------------------------------------------------------------------
     if (action === 'change_password') {
-      const { currentPassword, newPassword } = body;
+      const { newPassword } = body;
 
-      if (!currentPassword || !newPassword) {
-        return NextResponse.json(
-          { success: false, error: 'يرجى إدخال كلمة المرور الحالية والجديدة' },
-          { status: 400 }
-        );
-      }
-
-      if (typeof newPassword !== 'string' || newPassword.length < 6) {
+      if (!newPassword || typeof newPassword !== 'string' || newPassword.length < 6) {
         return NextResponse.json(
           { success: false, error: 'يجب ألا تقل كلمة المرور الجديدة عن 6 خانات' },
           { status: 400 }
-        );
-      }
-
-      const isCurrentValid = await verifyPassword(currentPassword, currentUser.password_hash);
-      if (!isCurrentValid) {
-        return NextResponse.json(
-          { success: false, error: 'كلمة المرور الحالية غير صحيحة' },
-          { status: 401 }
         );
       }
 
