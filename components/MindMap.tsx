@@ -313,7 +313,7 @@ export default function MindMap({
       </div>
 
       {/* ==================================================================== */}
-      {/* MAIN WORKSPACE (عرض مريح، خطوط واضحة، بدون سحب أفقي عقيم) */}
+      {/* MAIN WORKSPACE (عرض مريح، خطوط واضحة، مطابق تماماً للرسمة الهندسية) */}
       {/* ==================================================================== */}
       <div
         className="flex-1 p-4 sm:p-6 lg:p-8 max-w-[1600px] w-full mx-auto transition-transform"
@@ -343,7 +343,7 @@ export default function MindMap({
                         CLUSTER_THEMES[activeClusterIdx % CLUSTER_THEMES.length].badge
                       }`}
                     >
-                      {isAr ? 'محور استراتيجي رئيسي' : 'Strategic Cluster'}
+                      {isAr ? 'المحور الرئيسي' : 'Main Strategic Theme'}
                     </span>
                   </div>
                   <h1 className="text-xl sm:text-3xl font-black tracking-tight text-stone-900 dark:text-white">
@@ -360,22 +360,33 @@ export default function MindMap({
                       {articlesByCluster[activeCluster.id]?.length || 0}
                     </span>
                     <span className="text-[11px] font-bold text-stone-500 mt-1 block">
-                      {isAr ? 'مقالاً استراتيجياً' : 'Articles'}
+                      {isAr ? 'مقالات المحور' : 'Articles'}
                     </span>
                   </div>
                   <button
                     onClick={() => setActiveClusterId(null)}
-                    className="px-3.5 py-2.5 rounded-2xl bg-white dark:bg-stone-900 hover:bg-stone-100 dark:hover:bg-stone-800 text-xs font-bold text-stone-700 dark:text-stone-300 border border-stone-200 dark:border-stone-800 shadow-sm transition-all"
+                    className="px-3.5 py-2.5 rounded-2xl bg-white dark:bg-stone-900 hover:bg-stone-100 dark:hover:bg-stone-800 text-xs font-bold text-stone-700 dark:text-stone-300 border border-stone-200 dark:border-stone-800 shadow-sm transition-all flex items-center gap-1.5"
                   >
-                    {isAr ? '← عرض جميع المحاور' : '← All Themes'}
+                    {isAr ? (
+                      <>
+                        <ChevronRight className="w-4 h-4 text-stone-500" />
+                        <span>العودة لجميع المحاور</span>
+                      </>
+                    ) : (
+                      <>
+                        <ChevronLeft className="w-4 h-4 text-stone-500" />
+                        <span>All Themes</span>
+                      </>
+                    )}
                   </button>
                 </div>
               </div>
             </div>
 
-            {/* Articles Grid or Compact List for Active Cluster */}
+            {/* Articles Display: Compact (Thin Strips) vs Cards (Square Grid) */}
             {displayMode === 'compact' ? (
-              <div className="space-y-2.5">
+              /* COMPACT VIEW: الشرائح النحيفة المستطيلة الممتدة بالعرض */
+              <div className="space-y-2">
                 {(articlesByCluster[activeCluster.id] || []).map((art) => {
                   const title = isAr ? art.title_ar || art.title_en : art.title_en;
                   const isSelected = selectedArticleSlug === art.slug;
@@ -384,30 +395,31 @@ export default function MindMap({
                     <div
                       key={art.slug}
                       onClick={() => onSelectArticle(art)}
-                      className={`group px-4 py-3 rounded-xl cursor-pointer transition-all border flex items-center justify-between gap-4 ${
+                      className={`group px-4 py-2.5 rounded-xl cursor-pointer transition-all border flex items-center justify-between gap-4 ${
                         isSelected
                           ? 'bg-bear-50 dark:bg-bear-950/60 border-bear-500 shadow-sm ring-2 ring-bear-500/20'
                           : 'bg-white dark:bg-[#151722] hover:bg-stone-50 dark:hover:bg-[#1a1d2c] border-stone-200/90 dark:border-stone-800 shadow-2xs hover:border-bear-500/40'
                       }`}
                     >
                       <div className="flex items-center gap-3 min-w-0 flex-1">
-                        <span className="text-xs font-mono font-bold text-stone-400 dark:text-stone-500 w-10 shrink-0">
+                        <span className="text-xs font-mono font-bold text-stone-400 dark:text-stone-500 w-9 shrink-0">
                           #{art.id}
                         </span>
-                        <h3 className="font-bold text-sm text-stone-900 dark:text-white truncate group-hover:text-bear-600 dark:group-hover:text-bear-400 transition-colors">
+                        <h3 className="font-bold text-xs sm:text-sm text-stone-900 dark:text-white truncate group-hover:text-bear-600 dark:group-hover:text-bear-400 transition-colors">
                           {title}
                         </h3>
                         {isAr && art.title_en !== title && (
-                          <span className="hidden md:inline text-xs text-stone-400 dark:text-stone-500 italic truncate max-w-sm shrink-0">
+                          <span className="hidden lg:inline text-xs text-stone-400 dark:text-stone-500 italic truncate max-w-sm shrink-0">
                             ({art.title_en})
                           </span>
                         )}
                       </div>
 
                       <div className="flex items-center gap-2 shrink-0">
-                        <span className="text-xs font-bold text-bear-700 dark:text-bear-400 bg-bear-50 dark:bg-bear-950/80 px-3 py-1.5 rounded-lg border border-bear-500/20 flex items-center gap-1.5 group-hover:bg-bear-600 group-hover:text-white transition-all">
+                        <span className="text-xs font-bold text-bear-700 dark:text-bear-400 bg-bear-50 dark:bg-bear-950/80 px-2.5 py-1 rounded-lg border border-bear-500/20 flex items-center gap-1.5 group-hover:bg-bear-600 group-hover:text-white transition-all">
                           <BookOpen className="w-3.5 h-3.5" />
-                          <span>{isAr ? 'قراءة واستشارة' : 'Read & Consult'}</span>
+                          <span>{isAr ? 'قراءة واستشارة' : 'Read'}</span>
+                          {isAr ? <ChevronLeft className="w-3.5 h-3.5" /> : <ChevronRight className="w-3.5 h-3.5" />}
                         </span>
                       </div>
                     </div>
@@ -415,7 +427,8 @@ export default function MindMap({
                 })}
               </div>
             ) : (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              /* CARDS VIEW: شبكة كروت مربعة لكل محور فرعي */
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
                 {(articlesByCluster[activeCluster.id] || []).map((art) => {
                   const title = isAr ? art.title_ar || art.title_en : art.title_en;
                   const summary = isAr ? art.summary_ar || art.summary_en : art.summary_en;
@@ -425,44 +438,38 @@ export default function MindMap({
                     <div
                       key={art.slug}
                       onClick={() => onSelectArticle(art)}
-                      className={`group p-5 rounded-2xl cursor-pointer transition-all border flex flex-col justify-between gap-3 ${
+                      className={`group p-4 rounded-2xl cursor-pointer transition-all border flex flex-col justify-between gap-3 ${
                         isSelected
                           ? 'bg-bear-50 dark:bg-bear-950/60 border-bear-500 shadow-md ring-2 ring-bear-500/20'
                           : 'bg-white dark:bg-[#151722] hover:bg-stone-50 dark:hover:bg-[#1a1d2c] border-stone-200/90 dark:border-stone-800 shadow-sm hover:shadow-md hover:border-bear-500/40'
                       }`}
                     >
-                      <div className="space-y-2.5">
+                      <div className="space-y-2">
                         <div className="flex items-center justify-between gap-2">
                           <span className="text-[11px] font-mono font-bold text-stone-400 dark:text-stone-500">
                             #{art.id}
                           </span>
-                          <span className="text-[11px] font-semibold text-bear-700 dark:text-bear-400 bg-bear-50 dark:bg-bear-950/80 px-2 py-0.5 rounded-md border border-bear-500/20">
-                            {isAr ? 'مبدأ تطبيقي' : 'Practical Rule'}
+                          <span className="text-[10px] font-semibold text-bear-700 dark:text-bear-400 bg-bear-50 dark:bg-bear-950/80 px-2 py-0.5 rounded-md border border-bear-500/20">
+                            {isAr ? 'محور فرعي' : 'Topic'}
                           </span>
                         </div>
 
-                        <h3 className="font-bold text-sm sm:text-base text-stone-900 dark:text-white leading-snug group-hover:text-bear-600 dark:group-hover:text-bear-400 transition-colors">
+                        <h3 className="font-bold text-sm text-stone-900 dark:text-white leading-snug line-clamp-2 group-hover:text-bear-600 dark:group-hover:text-bear-400 transition-colors">
                           {title}
                         </h3>
-
-                        {isAr && art.title_en !== title && (
-                          <p className="text-[11px] font-medium text-stone-400 dark:text-stone-500 italic line-clamp-1">
-                            {art.title_en}
-                          </p>
-                        )}
 
                         <p className="text-xs text-stone-600 dark:text-stone-400 leading-relaxed line-clamp-3">
                           {summary}
                         </p>
                       </div>
 
-                      <div className="pt-3 border-t border-stone-100 dark:border-stone-800/80 flex items-center justify-between text-xs font-semibold text-bear-600 dark:text-bear-400">
+                      <div className="pt-2.5 border-t border-stone-100 dark:border-stone-800/80 flex items-center justify-between text-xs font-semibold text-bear-600 dark:text-bear-400">
                         <span className="flex items-center gap-1.5 group-hover:underline">
                           <BookOpen className="w-3.5 h-3.5" />
-                          {isAr ? 'قراءة واستشارة جيسون' : 'Read & Consult Jason'}
+                          {isAr ? 'قراءة واستشارة' : 'Read Article'}
                         </span>
-                        <span className="opacity-0 group-hover:opacity-100 transition-opacity">
-                          {isAr ? '←' : '→'}
+                        <span>
+                          {isAr ? <ChevronLeft className="w-3.5 h-3.5" /> : <ChevronRight className="w-3.5 h-3.5" />}
                         </span>
                       </div>
                     </div>
@@ -473,7 +480,7 @@ export default function MindMap({
           </div>
         ) : (
           /* ==================================================================== */
-          /* ALL THEMES OVERVIEW GRID (عرض شامل ذكي لجميع المحاور الـ 14) */
+          /* ALL THEMES OVERVIEW (عرض جميع المحاور حسب رسمة المستخدم بالضبط) */
           /* ==================================================================== */
           <div className="space-y-8 animate-in fade-in duration-200">
             {/* Header Hero */}
@@ -492,82 +499,220 @@ export default function MindMap({
               </p>
             </div>
 
-            {/* 14 Clusters Grid (3 Columns Responsive, No Awkward Cutoffs!) */}
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {clusters.map((cluster, cIdx) => {
-                const clusterArticles = articlesByCluster[cluster.id] || [];
-                const theme = CLUSTER_THEMES[cIdx % CLUSTER_THEMES.length];
-                const cName = isAr ? cluster.name_ar : cluster.name_en;
-                const cDesc = isAr ? cluster.description_ar : cluster.description_en;
-                const previewArticles = clusterArticles.slice(0, displayMode === 'compact' ? 6 : 4);
+            {/* Switch between: "الكروت" (Grid of Squares) and "المدمج" (Stacked Horizontal Strips) */}
+            {displayMode === 'cards' ? (
+              /* ==================================================================== */
+              /* 1. عرض الكروت (الجانب الأيسر في الرسمة): مربع للمحور الرئيسي وبداخله شبكة مربعات للمحاور الفرعية */
+              /* ==================================================================== */
+              <div className="grid grid-cols-1 xl:grid-cols-2 gap-7">
+                {clusters.map((cluster, cIdx) => {
+                  const clusterArticles = articlesByCluster[cluster.id] || [];
+                  const theme = CLUSTER_THEMES[cIdx % CLUSTER_THEMES.length];
+                  const cName = isAr ? cluster.name_ar : cluster.name_en;
+                  const cDesc = isAr ? cluster.description_ar : cluster.description_en;
+                  // Show 4 or 6 square sub-boxes per theme as in the sketch
+                  const squareSubArticles = clusterArticles.slice(0, 4);
 
-                return (
-                  <div
-                    key={cluster.id}
-                    className={`rounded-2xl border ${theme.border} ${theme.bg} ${
-                      displayMode === 'compact' ? 'p-4 sm:p-5' : 'p-5 sm:p-6'
-                    } shadow-sm transition-all hover:shadow-md flex flex-col justify-between`}
-                  >
-                    {/* Cluster Header */}
-                    <div className="space-y-2.5">
-                      <div className="flex items-start justify-between gap-3">
-                        <div className="flex items-center gap-2">
-                          <span className={`w-3 h-3 rounded-full ${theme.dot}`} />
-                          <h2 className={`font-black text-base sm:text-lg leading-snug ${theme.text}`}>
-                            {cName}
-                          </h2>
-                        </div>
-                        <span className={`text-[11px] font-bold px-2 py-0.5 rounded-full border ${theme.badge}`}>
-                          {clusterArticles.length}
-                        </span>
-                      </div>
-
-                      {displayMode === 'cards' && cDesc && (
-                        <p className="text-xs text-stone-600 dark:text-stone-400 line-clamp-2 leading-relaxed">
-                          {cDesc}
-                        </p>
-                      )}
-
-                      {/* Top Articles Preview */}
-                      <div className="pt-3 border-t border-stone-200/60 dark:border-stone-800/60 space-y-2">
-                        {previewArticles.map((art) => {
-                          const title = isAr ? art.title_ar || art.title_en : art.title_en;
-                          const isSelected = selectedArticleSlug === art.slug;
-
-                          return (
-                            <div
-                              key={art.slug}
-                              onClick={() => onSelectArticle(art)}
-                              className={`p-2.5 rounded-xl cursor-pointer text-xs font-semibold transition-all flex items-center justify-between gap-2 border ${
-                                isSelected
-                                  ? 'bg-bear-600 text-white border-bear-600 shadow-sm'
-                                  : 'bg-white/90 dark:bg-stone-900/90 hover:bg-white dark:hover:bg-stone-900 border-stone-200/80 dark:border-stone-800 text-stone-800 dark:text-stone-200 hover:border-bear-500/50 hover:translate-x-0.5'
-                              }`}
-                            >
-                              <span className="line-clamp-1 leading-snug">{title}</span>
-                              <BookOpen className="w-3.5 h-3.5 shrink-0 opacity-40 group-hover:opacity-100" />
-                            </div>
-                          );
-                        })}
-                      </div>
-                    </div>
-
-                    {/* View All Button for this Cluster */}
-                    <button
-                      onClick={() => setActiveClusterId(cluster.id)}
-                      className="mt-4 pt-3 border-t border-stone-200/50 dark:border-stone-800/50 w-full py-2 rounded-xl bg-white/80 dark:bg-stone-800/80 hover:bg-white dark:hover:bg-stone-800 text-xs font-bold text-bear-700 dark:text-bear-300 border border-stone-200 dark:border-stone-700/60 shadow-sm transition-all flex items-center justify-center gap-1.5"
+                  return (
+                    <div
+                      key={cluster.id}
+                      className={`rounded-3xl border-2 ${theme.border} ${theme.bg} p-5 sm:p-6 shadow-sm transition-all hover:shadow-md flex flex-col justify-between`}
                     >
-                      <span>
-                        {isAr
-                          ? `استعراض كل مقالات هذا المحور (${clusterArticles.length})`
-                          : `Browse all ${clusterArticles.length} articles`}
-                      </span>
-                      <span>{isAr ? '←' : '→'}</span>
-                    </button>
-                  </div>
-                );
-              })}
-            </div>
+                      <div>
+                        {/* المحور الرئيسي: شريط علوي مستطيل مميز بالاسم والعدد */}
+                        <div className="p-3.5 rounded-2xl bg-white dark:bg-stone-900/90 border border-stone-200/90 dark:border-stone-800 shadow-2xs flex items-center justify-between gap-3">
+                          <div className="flex items-center gap-2.5 min-w-0">
+                            <span className={`w-3.5 h-3.5 rounded-full shrink-0 ${theme.dot}`} />
+                            <div className="min-w-0">
+                              <span className="text-[10px] font-bold uppercase tracking-wider text-stone-400 dark:text-stone-500 block leading-tight">
+                                {isAr ? 'المحور الرئيسي' : 'Main Theme'}
+                              </span>
+                              <h2 className={`font-black text-base sm:text-lg leading-snug truncate ${theme.text}`}>
+                                {cName}
+                              </h2>
+                            </div>
+                          </div>
+                          <span className={`text-xs font-bold px-2.5 py-1 rounded-xl border shrink-0 ${theme.badge}`}>
+                            {clusterArticles.length} {isAr ? 'مقالاً' : 'essays'}
+                          </span>
+                        </div>
+
+                        {cDesc && (
+                          <p className="text-xs text-stone-600 dark:text-stone-400 line-clamp-2 leading-relaxed px-1 my-3">
+                            {cDesc}
+                          </p>
+                        )}
+
+                        {/* شبكة المربعات (المحاور الفرعية المربعة كما في رسمة المستخدم) */}
+                        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mt-2">
+                          {squareSubArticles.map((art) => {
+                            const title = isAr ? art.title_ar || art.title_en : art.title_en;
+                            const summary = isAr ? art.summary_ar || art.summary_en : art.summary_en;
+                            const isSelected = selectedArticleSlug === art.slug;
+
+                            return (
+                              <div
+                                key={art.slug}
+                                onClick={() => onSelectArticle(art)}
+                                className={`group p-3.5 rounded-2xl cursor-pointer transition-all border flex flex-col justify-between gap-2.5 ${
+                                  isSelected
+                                    ? 'bg-bear-50 dark:bg-bear-950/80 border-bear-500 shadow-sm ring-2 ring-bear-500/20'
+                                    : 'bg-white dark:bg-[#151722] hover:bg-stone-50 dark:hover:bg-[#1c1f30] border-stone-200/90 dark:border-stone-800 shadow-2xs hover:border-bear-500/50 hover:shadow-sm'
+                                }`}
+                              >
+                                <div className="space-y-1.5">
+                                  <div className="flex items-center justify-between gap-1.5">
+                                    <span className="text-[10px] font-mono font-bold text-stone-400 dark:text-stone-500">
+                                      #{art.id}
+                                    </span>
+                                    <span className="text-[10px] font-semibold text-stone-500 dark:text-stone-400 bg-stone-100 dark:bg-stone-800 px-1.5 py-0.5 rounded">
+                                      {isAr ? 'محور فرعي' : 'Subtopic'}
+                                    </span>
+                                  </div>
+
+                                  <h3 className="font-bold text-xs sm:text-sm text-stone-900 dark:text-white leading-snug line-clamp-2 group-hover:text-bear-600 dark:group-hover:text-bear-400 transition-colors">
+                                    {title}
+                                  </h3>
+
+                                  <p className="text-[11px] text-stone-500 dark:text-stone-400 line-clamp-2 leading-relaxed">
+                                    {summary}
+                                  </p>
+                                </div>
+
+                                <div className="pt-2 border-t border-stone-100 dark:border-stone-800/80 flex items-center justify-between text-[11px] font-semibold text-bear-600 dark:text-bear-400">
+                                  <span className="flex items-center gap-1 group-hover:underline">
+                                    <BookOpen className="w-3 h-3" />
+                                    <span>{isAr ? 'قراءة' : 'Read'}</span>
+                                  </span>
+                                  <span>
+                                    {isAr ? <ChevronLeft className="w-3.5 h-3.5" /> : <ChevronRight className="w-3.5 h-3.5" />}
+                                  </span>
+                                </div>
+                              </div>
+                            );
+                          })}
+                        </div>
+                      </div>
+
+                      {/* زر استعراض كل مقالات هذا المحور */}
+                      <button
+                        onClick={() => setActiveClusterId(cluster.id)}
+                        className="mt-4 w-full py-2.5 rounded-xl bg-white/90 dark:bg-stone-900/90 hover:bg-stone-50 dark:hover:bg-stone-800 text-xs font-bold text-bear-700 dark:text-bear-300 border border-stone-200 dark:border-stone-700/60 shadow-2xs transition-all flex items-center justify-center gap-2 group"
+                      >
+                        <span>
+                          {isAr
+                            ? `استعراض جميع مقالات هذا المحور (${clusterArticles.length})`
+                            : `Browse all ${clusterArticles.length} articles`}
+                        </span>
+                        <span className="group-hover:translate-x-1 rtl:group-hover:-translate-x-1 transition-transform">
+                          {isAr ? <ChevronLeft className="w-4 h-4" /> : <ChevronRight className="w-4 h-4" />}
+                        </span>
+                      </button>
+                    </div>
+                  );
+                })}
+              </div>
+            ) : (
+              /* ==================================================================== */
+              /* 2. العرض المدمج (الجانب الأيمن في الرسمة): المحور الرئيسي وتحته شرائح نحيفة مستطيلة ممتدة */
+              /* ==================================================================== */
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                {clusters.map((cluster, cIdx) => {
+                  const clusterArticles = articlesByCluster[cluster.id] || [];
+                  const theme = CLUSTER_THEMES[cIdx % CLUSTER_THEMES.length];
+                  const cName = isAr ? cluster.name_ar : cluster.name_en;
+                  // Show 6 sleek horizontal strips per theme in compact view
+                  const compactStrips = clusterArticles.slice(0, 6);
+
+                  return (
+                    <div
+                      key={cluster.id}
+                      className={`rounded-2xl border ${theme.border} ${theme.bg} p-4 sm:p-5 shadow-xs transition-all hover:shadow-sm flex flex-col justify-between`}
+                    >
+                      <div>
+                        {/* المحور الرئيسي: شريط علوي مستطيل نحيف وطويل كما في رسمة "المدمج" */}
+                        <div className="p-3 rounded-xl bg-white/95 dark:bg-stone-900/95 border border-stone-200/90 dark:border-stone-800 shadow-2xs flex items-center justify-between gap-3 mb-3">
+                          <div className="flex items-center gap-2.5 min-w-0">
+                            <span className={`w-3 h-3 rounded-full shrink-0 ${theme.dot}`} />
+                            <span className="text-xs font-black text-stone-900 dark:text-white truncate">
+                              {isAr ? `المحور الرئيسي: ${cName}` : `Theme: ${cName}`}
+                            </span>
+                          </div>
+                          <span className={`text-[11px] font-bold px-2 py-0.5 rounded-lg border shrink-0 ${theme.badge}`}>
+                            {clusterArticles.length} {isAr ? 'مقالاً' : 'essays'}
+                          </span>
+                        </div>
+
+                        {/* المحاور الفرعية: شرائح نحيفة مستطيلة مصفوفة أفقياً تحت بعضها */}
+                        <div className="space-y-1.5">
+                          {compactStrips.map((art) => {
+                            const title = isAr ? art.title_ar || art.title_en : art.title_en;
+                            const isSelected = selectedArticleSlug === art.slug;
+
+                            return (
+                              <div
+                                key={art.slug}
+                                onClick={() => onSelectArticle(art)}
+                                className={`group px-3 py-2 rounded-lg cursor-pointer transition-all border flex items-center justify-between gap-3 text-xs ${
+                                  isSelected
+                                    ? 'bg-bear-600 text-white border-bear-600 shadow-2xs'
+                                    : 'bg-white/90 dark:bg-stone-900/90 hover:bg-white dark:hover:bg-stone-900 border-stone-200/80 dark:border-stone-800/80 text-stone-800 dark:text-stone-200 hover:border-bear-500/50 hover:shadow-2xs'
+                                }`}
+                              >
+                                <div className="flex items-center gap-2 min-w-0 flex-1">
+                                  <span
+                                    className={`text-[10px] font-mono font-bold w-7 shrink-0 ${
+                                      isSelected ? 'text-white/80' : 'text-stone-400 dark:text-stone-500'
+                                    }`}
+                                  >
+                                    #{art.id}
+                                  </span>
+                                  <span className="font-semibold truncate leading-tight">
+                                    {title}
+                                  </span>
+                                </div>
+
+                                <div className="flex items-center gap-1 shrink-0">
+                                  <span
+                                    className={`text-[11px] opacity-0 group-hover:opacity-100 transition-opacity ${
+                                      isSelected ? 'text-white' : 'text-bear-600 dark:text-bear-400'
+                                    }`}
+                                  >
+                                    {isAr ? 'قراءة' : 'Read'}
+                                  </span>
+                                  <span
+                                    className={`opacity-50 group-hover:opacity-100 transition-opacity ${
+                                      isSelected ? 'text-white' : 'text-stone-400 dark:text-stone-500'
+                                    }`}
+                                  >
+                                    {isAr ? <ChevronLeft className="w-3.5 h-3.5" /> : <ChevronRight className="w-3.5 h-3.5" />}
+                                  </span>
+                                </div>
+                              </div>
+                            );
+                          })}
+                        </div>
+                      </div>
+
+                      {/* شريط الانتقال للمحور بالكامل */}
+                      <button
+                        onClick={() => setActiveClusterId(cluster.id)}
+                        className="mt-3 w-full py-2 rounded-lg bg-white/80 dark:bg-stone-800/80 hover:bg-white dark:hover:bg-stone-800 text-[11px] font-bold text-bear-700 dark:text-bear-300 border border-stone-200 dark:border-stone-700/60 shadow-2xs transition-all flex items-center justify-center gap-1.5"
+                      >
+                        <span>
+                          {isAr
+                            ? `عرض باقي المقالات (${clusterArticles.length})`
+                            : `View all ${clusterArticles.length} articles`}
+                        </span>
+                        <span>
+                          {isAr ? <ChevronLeft className="w-3.5 h-3.5" /> : <ChevronRight className="w-3.5 h-3.5" />}
+                        </span>
+                      </button>
+                    </div>
+                  );
+                })}
+              </div>
+            )}
           </div>
         )}
       </div>
