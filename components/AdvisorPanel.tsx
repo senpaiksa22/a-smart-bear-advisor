@@ -365,9 +365,9 @@ export default function AdvisorPanel({
         {/* ==================================================================== */}
         {/* HEADER BAR */}
         {/* ==================================================================== */}
-        <div className="px-2.5 sm:px-4 py-2 sm:py-3 border-b border-stone-200 dark:border-stone-800 bg-stone-50/80 dark:bg-stone-900/80 flex items-center justify-between gap-1.5 sm:gap-2">
+        <div className="px-3 sm:px-4 py-2.5 sm:py-3 border-b border-stone-200 dark:border-stone-800 bg-stone-50/80 dark:bg-stone-900/80 flex items-center justify-between gap-2">
           {/* Brand & Persona Badge */}
-          <div className="flex items-center gap-1.5 sm:gap-3 min-w-0">
+          <div className="flex items-center gap-2 sm:gap-3 min-w-0">
             <button
               onClick={() => setHistorySidebarOpen(!historySidebarOpen)}
               className="p-1.5 sm:p-2 rounded-xl text-stone-600 dark:text-stone-300 hover:bg-stone-200/60 dark:hover:bg-stone-800 transition-colors relative shrink-0"
@@ -381,16 +381,16 @@ export default function AdvisorPanel({
               )}
             </button>
 
-            <div className="flex items-center gap-1.5 sm:gap-2 min-w-0">
+            <div className="flex items-center gap-2 min-w-0">
               <div className="w-8 h-8 sm:w-9 sm:h-9 rounded-xl bg-gradient-to-tr from-bear-700 to-amber-600 text-white flex items-center justify-center shadow-xs shrink-0">
                 <Sparkles className="w-4 h-4 sm:w-5 sm:h-5 text-amber-200 animate-pulse" />
               </div>
               <div className="min-w-0">
                 <div className="flex items-center gap-1.5">
-                  <h2 className="text-xs sm:text-base font-bold text-stone-900 dark:text-white leading-normal pb-0.5 truncate">
+                  <h2 className="text-sm sm:text-base font-extrabold text-stone-900 dark:text-white leading-normal pb-0.5 whitespace-nowrap">
                     {isAr ? 'جيسون كوهين' : 'Jason Cohen'}
                   </h2>
-                  <span className="hidden sm:inline-block text-[10px] font-semibold px-1.5 py-0.5 rounded-full bg-bear-100 dark:bg-bear-950 text-bear-700 dark:text-bear-300 border border-bear-500/20 whitespace-nowrap">
+                  <span className="text-[10px] font-semibold px-1.5 py-0.5 rounded-full bg-bear-100 dark:bg-bear-950 text-bear-700 dark:text-bear-300 border border-bear-500/20 whitespace-nowrap">
                     A Smart Bear
                   </span>
                 </div>
@@ -403,79 +403,8 @@ export default function AdvisorPanel({
             </div>
           </div>
 
-          {/* Model Switcher & Action Controls */}
-          <div className="flex items-center gap-1 sm:gap-2 shrink-0">
-            {/* Model Selector Dropdown */}
-            <div className="relative">
-              <button
-                type="button"
-                onClick={() => setModelDropdownOpen(!modelDropdownOpen)}
-                className="flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-xl text-xs font-semibold bg-white dark:bg-stone-800 border border-stone-200 dark:border-stone-700 hover:border-bear-500 shadow-xs transition-all"
-              >
-                <span
-                  className={`w-2 h-2 rounded-full shrink-0 ${
-                    selectedModel.includes('argon')
-                      ? 'bg-amber-500'
-                      : selectedModel.includes('pro')
-                      ? 'bg-purple-500'
-                      : selectedModel.includes('3.8')
-                      ? 'bg-blue-500'
-                      : 'bg-emerald-500'
-                  }`}
-                />
-                <span className="font-bold text-stone-800 dark:text-stone-200 truncate max-w-[115px] sm:max-w-none">
-                  {isAr ? currentModelObj.name_ar : currentModelObj.name}
-                </span>
-                <ChevronDown className="w-3 h-3 text-stone-400 shrink-0" />
-              </button>
-
-              {modelDropdownOpen && (
-                <div className="absolute ltr:right-0 rtl:left-0 mt-1.5 w-64 sm:w-72 bg-white dark:bg-stone-800 rounded-2xl shadow-2xl border border-stone-200 dark:border-stone-700 p-2 z-50 animate-in fade-in duration-150 max-w-[calc(100vw-2rem)]">
-                  <div className="px-2 py-1 text-[10px] font-bold text-stone-400 uppercase tracking-wider border-b border-stone-100 dark:border-stone-700/50 mb-1">
-                    {isAr ? 'اختر نموذج الذكاء الاصطناعي' : 'Select Gemini Model'}
-                  </div>
-                  <div className="space-y-1">
-                    {AVAILABLE_MODELS.map((model) => {
-                      const isSelected = model.id === selectedModel;
-                      return (
-                        <button
-                          key={model.id}
-                          type="button"
-                          onClick={() => {
-                            setSelectedModel(model.id);
-                            setModelDropdownOpen(false);
-                          }}
-                          className={`w-full text-start p-2.5 rounded-xl transition-all flex flex-col gap-0.5 ${
-                            isSelected
-                              ? 'bg-bear-50 dark:bg-bear-950/70 border border-bear-500/30'
-                              : 'hover:bg-stone-100 dark:hover:bg-stone-700/60 border border-transparent'
-                          }`}
-                        >
-                          <div className="flex items-center justify-between">
-                            <span
-                              className={`text-xs font-bold ${
-                                isSelected
-                                  ? 'text-bear-700 dark:text-bear-300'
-                                  : 'text-stone-800 dark:text-stone-200'
-                              }`}
-                            >
-                              {isAr ? model.name_ar : model.name}
-                            </span>
-                            {isSelected && (
-                              <span className="w-2 h-2 rounded-full bg-bear-600 dark:bg-bear-400 shrink-0" />
-                            )}
-                          </div>
-                          <p className="text-[11px] text-stone-500 dark:text-stone-400 leading-normal">
-                            {isAr ? model.description_ar : model.description_en}
-                          </p>
-                        </button>
-                      );
-                    })}
-                  </div>
-                </div>
-              )}
-            </div>
-
+          {/* Action Controls */}
+          <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
             {/* Export Markdown Button */}
             {messages.length > 0 && (
               <button
@@ -662,7 +591,7 @@ export default function AdvisorPanel({
                   </div>
                 </div>
               ) : (
-                /* Message Bubbles */
+                /* Message Cards */
                 messages.map((msg, index) => {
                   const isUser = msg.role === 'user';
                   const isCopied = copiedId === msg.id;
@@ -670,86 +599,91 @@ export default function AdvisorPanel({
                   return (
                     <div
                       key={msg.id || index}
-                      className={`flex gap-3 max-w-3xl ${
-                        isUser
-                          ? isAr
-                            ? 'mr-auto flex-row-reverse'
-                            : 'ml-auto flex-row-reverse'
-                          : ''
-                      }`}
+                      className="w-full flex flex-col gap-1.5 animate-in fade-in duration-150"
                     >
-                      {/* Avatar Icon */}
-                      <div
-                        className={`w-8 h-8 rounded-xl flex items-center justify-center flex-shrink-0 shadow-sm ${
-                          isUser
-                            ? 'bg-stone-800 dark:bg-stone-700 text-stone-200'
-                            : 'bg-bear-600 text-white'
-                        }`}
-                      >
-                        {isUser ? (
-                          <UserIcon className="w-4 h-4" />
-                        ) : (
-                          <Sparkles className="w-4 h-4 text-amber-200" />
-                        )}
-                      </div>
+                      {/* Header: Identity, Avatar & Role Badge */}
+                      <div className="flex items-center justify-between gap-2 px-1">
+                        <div className="flex items-center gap-2 min-w-0">
+                          {/* Avatar */}
+                          <div
+                            className={`w-7 h-7 sm:w-8 sm:h-8 rounded-xl flex items-center justify-center shrink-0 shadow-xs ${
+                              isUser
+                                ? 'bg-stone-800 dark:bg-stone-700 text-stone-100'
+                                : 'bg-gradient-to-tr from-bear-700 to-amber-600 text-white'
+                            }`}
+                          >
+                            {isUser ? (
+                              <UserIcon className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
+                            ) : (
+                              <Sparkles className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-amber-200" />
+                            )}
+                          </div>
 
-                      {/* Bubble Content */}
-                      <div className="flex-1 space-y-1">
-                        <div
-                          className={`flex items-center gap-2 ${
-                            isUser ? (isAr ? 'justify-start' : 'justify-end') : 'justify-start'
-                          }`}
-                        >
-                          <span className="text-xs font-bold text-stone-800 dark:text-stone-200">
+                          {/* Name & Role Badge */}
+                          <span className="text-xs sm:text-sm font-bold text-stone-900 dark:text-stone-100 whitespace-nowrap">
                             {isUser
                               ? user?.username || (isAr ? 'أنت' : 'You')
                               : isAr
                               ? 'جيسون كوهين'
                               : 'Jason Cohen'}
                           </span>
-                          <span className="text-[10px] text-stone-400">
+
+                          {isUser ? (
+                            <span className="text-[10px] font-bold px-2 py-0.5 rounded-full bg-stone-200/80 dark:bg-stone-800 text-stone-700 dark:text-stone-300 border border-stone-300/50 dark:border-stone-700/50">
+                              {isAr ? 'سؤالك' : 'Your Question'}
+                            </span>
+                          ) : (
+                            <div className="flex items-center gap-1.5 flex-wrap">
+                              <span className="text-[10px] font-bold px-2 py-0.5 rounded-full bg-bear-100 dark:bg-bear-950/80 text-bear-700 dark:text-bear-300 border border-bear-500/20">
+                                {isAr ? 'المستشار الذكي' : 'AI Advisor'}
+                              </span>
+                              <span className="text-[10px] px-2 py-0.5 rounded-md bg-emerald-50 dark:bg-emerald-950/80 text-emerald-700 dark:text-emerald-300 border border-emerald-500/30 font-mono font-semibold flex items-center gap-1.5 shadow-2xs">
+                                <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse shrink-0" />
+                                <span>{msg.model_used || currentModelObj.name}</span>
+                              </span>
+                            </div>
+                          )}
+                        </div>
+
+                        {/* Timestamp & Copy Action */}
+                        <div className="flex items-center gap-2 shrink-0 text-stone-400 text-[10px]">
+                          <span>
                             {new Date(msg.created_at).toLocaleTimeString([], {
                               hour: '2-digit',
                               minute: '2-digit',
                             })}
                           </span>
                           {!isUser && (
-                            <span className="text-[10px] px-2 py-0.5 rounded-md bg-emerald-50 dark:bg-emerald-950/80 text-emerald-700 dark:text-emerald-300 border border-emerald-500/30 font-mono font-bold flex items-center gap-1.5 shadow-2xs">
-                              <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse shrink-0" />
-                              <span>{msg.model_used || currentModelObj.name}</span>
-                            </span>
+                            <button
+                              onClick={() => handleCopyMessage(msg.content, msg.id)}
+                              className="p-1 rounded-md hover:bg-stone-200 dark:hover:bg-stone-800 text-stone-500 hover:text-stone-800 dark:hover:text-stone-200 transition-colors"
+                              title={isAr ? 'نسخ الإجابة' : 'Copy response'}
+                            >
+                              {isCopied ? (
+                                <Check className="w-3.5 h-3.5 text-emerald-500" />
+                              ) : (
+                                <Copy className="w-3.5 h-3.5" />
+                              )}
+                            </button>
                           )}
                         </div>
+                      </div>
 
-                        <div
-                          className={`p-4 rounded-2xl text-xs sm:text-sm leading-relaxed relative group ${
-                            isUser
-                              ? 'bg-bear-600 text-white rounded-tr-none'
-                              : 'bg-stone-100 dark:bg-stone-800 text-stone-900 dark:text-stone-100 rounded-tl-none border border-stone-200/50 dark:border-stone-700/50'
-                          }`}
-                        >
-                          {/* Message Text formatted cleanly with rich typography */}
-                          {isUser ? (
-                            <div className="whitespace-pre-wrap font-sans text-xs sm:text-sm leading-relaxed">
-                              {msg.content}
-                            </div>
-                          ) : (
-                            <ChatMessageMarkdown content={msg.content} />
-                          )}
-
-                          {/* Copy Button */}
-                          <button
-                            onClick={() => handleCopyMessage(msg.content, msg.id)}
-                            className="absolute top-2.5 left-2.5 opacity-0 group-hover:opacity-100 p-1.5 rounded-lg bg-white/80 dark:bg-stone-900/80 text-stone-500 hover:text-stone-800 dark:hover:text-stone-200 shadow-sm transition-all"
-                            title={isAr ? 'نسخ النص' : 'Copy text'}
-                          >
-                            {isCopied ? (
-                              <Check className="w-3.5 h-3.5 text-emerald-500" />
-                            ) : (
-                              <Copy className="w-3.5 h-3.5" />
-                            )}
-                          </button>
-                        </div>
+                      {/* Content Box */}
+                      <div
+                        className={`rounded-2xl text-xs sm:text-sm leading-relaxed p-4 transition-all ${
+                          isUser
+                            ? 'bg-bear-500/10 dark:bg-bear-950/30 border border-bear-500/30 text-stone-900 dark:text-stone-100 rtl:mr-8 sm:rtl:mr-10 ltr:ml-8 sm:ltr:ml-10'
+                            : 'bg-white dark:bg-stone-850 border border-stone-200/80 dark:border-stone-700/80 text-stone-900 dark:text-stone-100 shadow-xs rtl:mr-8 sm:rtl:mr-10 ltr:ml-8 sm:ltr:ml-10'
+                        }`}
+                      >
+                        {isUser ? (
+                          <div className="whitespace-pre-wrap font-sans font-medium text-xs sm:text-sm leading-relaxed">
+                            {msg.content}
+                          </div>
+                        ) : (
+                          <ChatMessageMarkdown content={msg.content} />
+                        )}
                       </div>
                     </div>
                   );
@@ -758,26 +692,32 @@ export default function AdvisorPanel({
 
               {/* Loading Indicator */}
               {loading && (
-                <div className="flex gap-3 max-w-xl animate-in fade-in">
-                  <div className="w-8 h-8 rounded-xl bg-bear-600 text-white flex items-center justify-center flex-shrink-0 shadow-sm">
-                    <Sparkles className="w-4 h-4 text-amber-200 animate-spin" />
-                  </div>
-                  <div className="p-3.5 rounded-2xl rounded-tl-none bg-stone-100 dark:bg-stone-800 border border-stone-200/50 dark:border-stone-700/50 flex items-center gap-2">
-                    <div className="flex gap-1.5 items-center">
-                      <span className="w-2 h-2 rounded-full bg-bear-600 animate-bounce" />
-                      <span
-                        className="w-2 h-2 rounded-full bg-bear-600 animate-bounce"
-                        style={{ animationDelay: '0.2s' }}
-                      />
-                      <span
-                        className="w-2 h-2 rounded-full bg-bear-600 animate-bounce"
-                        style={{ animationDelay: '0.4s' }}
-                      />
+                <div className="w-full flex flex-col gap-1.5 animate-in fade-in duration-150">
+                  <div className="flex items-center gap-2 px-1">
+                    <div className="w-7 h-7 sm:w-8 sm:h-8 rounded-xl bg-gradient-to-tr from-bear-700 to-amber-600 text-white flex items-center justify-center shrink-0 shadow-xs">
+                      <Sparkles className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-amber-200 animate-spin" />
                     </div>
-                    <span className="text-xs text-stone-500 font-medium mr-1">
+                    <span className="text-xs sm:text-sm font-bold text-stone-900 dark:text-stone-100">
+                      {isAr ? 'جيسون كوهين' : 'Jason Cohen'}
+                    </span>
+                    <span className="text-[10px] font-bold px-2 py-0.5 rounded-full bg-bear-100 dark:bg-bear-950/80 text-bear-700 dark:text-bear-300 border border-bear-500/20">
+                      {isAr ? 'يكتب تحليله الآن...' : 'Analyzing & writing...'}
+                    </span>
+                  </div>
+                  <div className="rounded-2xl bg-white dark:bg-stone-850 border border-stone-200/80 dark:border-stone-700/80 p-4 rtl:mr-8 sm:rtl:mr-10 ltr:ml-8 sm:ltr:ml-10 flex items-center gap-2">
+                    <span className="w-2 h-2 rounded-full bg-bear-600 animate-bounce" />
+                    <span
+                      className="w-2 h-2 rounded-full bg-bear-600 animate-bounce"
+                      style={{ animationDelay: '0.2s' }}
+                    />
+                    <span
+                      className="w-2 h-2 rounded-full bg-bear-600 animate-bounce"
+                      style={{ animationDelay: '0.4s' }}
+                    />
+                    <span className="text-xs text-stone-400 ms-2">
                       {isAr
-                        ? `جاري التحليل واستخلاص الحكمة عبر ${currentModelObj.name}...`
-                        : `Formulating strategic advice via ${currentModelObj.name}...`}
+                        ? `جاري استدعاء نموذج ${currentModelObj.name_ar} واستخلاص أفكار المقالات...`
+                        : `Consulting ${currentModelObj.name} with A Smart Bear essays...`}
                     </span>
                   </div>
                 </div>
@@ -838,27 +778,124 @@ export default function AdvisorPanel({
                     </button>
                   </div>
 
-                  <div className="flex items-center justify-between text-[11px] text-stone-400 px-1">
-                    <span>
-                      {isAr
-                        ? 'النموذج المختار: ' + currentModelObj.name
-                        : 'Selected Model: ' + currentModelObj.name}
-                    </span>
-                    {onOpenFeedback ? (
+                  {/* Bottom Controls Bar: Model Selector (ChatGPT/Gemini style) + Feedback/Status */}
+                  <div className="flex items-center justify-between gap-2 text-[11px] px-1 relative">
+                    {/* Model Switcher Popover (opens upwards) */}
+                    <div className="relative">
+                      {modelDropdownOpen && (
+                        <div
+                          className="fixed inset-0 z-40 bg-black/5"
+                          onClick={() => setModelDropdownOpen(false)}
+                        />
+                      )}
+
                       <button
-                        onClick={() => onOpenFeedback()}
-                        className="hover:text-bear-600 dark:hover:text-bear-400 underline underline-offset-2 flex items-center gap-1 transition-colors"
+                        type="button"
+                        onClick={() => setModelDropdownOpen(!modelDropdownOpen)}
+                        className="relative z-41 flex items-center gap-1.5 px-2.5 py-1 rounded-xl text-xs font-semibold bg-stone-100 dark:bg-stone-800 hover:bg-stone-200 dark:hover:bg-stone-700 text-stone-800 dark:text-stone-200 border border-stone-200/80 dark:border-stone-700/80 shadow-2xs transition-all"
                       >
-                        <Bug className="w-3 h-3" />
-                        <span>{isAr ? 'إبلاغ عن مشكلة' : 'Report issue'}</span>
+                        <span
+                          className={`w-2 h-2 rounded-full shrink-0 ${
+                            selectedModel.includes('argon')
+                              ? 'bg-amber-500'
+                              : selectedModel.includes('pro')
+                              ? 'bg-purple-500'
+                              : selectedModel.includes('3.8')
+                              ? 'bg-blue-500'
+                              : 'bg-emerald-500'
+                          }`}
+                        />
+                        <span className="font-bold">
+                          {isAr ? currentModelObj.name_ar : currentModelObj.name}
+                        </span>
+                        <ChevronDown
+                          className={`w-3 h-3 text-stone-400 transition-transform ${
+                            modelDropdownOpen ? 'rotate-180' : ''
+                          }`}
+                        />
                       </button>
-                    ) : (
-                      <span>
-                        {isAr
-                          ? 'بياناتك معزولة ومشفرة بنسبة 100%'
-                          : 'Isolated & encrypted sessions'}
-                      </span>
-                    )}
+
+                      {modelDropdownOpen && (
+                        <div className="absolute bottom-full mb-2 rtl:right-0 ltr:left-0 w-72 sm:w-80 bg-white dark:bg-stone-850 rounded-2xl shadow-2xl border border-stone-200 dark:border-stone-700 p-2 z-50 animate-in fade-in slide-in-from-bottom-2 duration-150 max-w-[calc(100vw-2rem)]">
+                          <div className="px-2.5 py-1.5 text-[10px] font-bold text-stone-400 uppercase tracking-wider border-b border-stone-100 dark:border-stone-700/50 mb-1 flex items-center justify-between">
+                            <span>{isAr ? 'اختر نموذج المستشار' : 'Select Advisor Model'}</span>
+                            <span className="text-[9px] font-medium text-bear-600 dark:text-bear-400">
+                              Gemini 2.5 & 3.8
+                            </span>
+                          </div>
+                          <div className="space-y-1">
+                            {AVAILABLE_MODELS.map((model) => {
+                              const isSelected = model.id === selectedModel;
+                              return (
+                                <button
+                                  key={model.id}
+                                  type="button"
+                                  onClick={() => {
+                                    setSelectedModel(model.id);
+                                    setModelDropdownOpen(false);
+                                  }}
+                                  className={`w-full text-start p-2 rounded-xl transition-all flex flex-col gap-0.5 ${
+                                    isSelected
+                                      ? 'bg-bear-50 dark:bg-bear-950/70 border border-bear-500/30'
+                                      : 'hover:bg-stone-100 dark:hover:bg-stone-800 border border-transparent'
+                                  }`}
+                                >
+                                  <div className="flex items-center justify-between">
+                                    <div className="flex items-center gap-1.5">
+                                      <span
+                                        className={`w-2 h-2 rounded-full shrink-0 ${
+                                          model.id.includes('argon')
+                                            ? 'bg-amber-500'
+                                            : model.id.includes('pro')
+                                            ? 'bg-purple-500'
+                                            : model.id.includes('3.8')
+                                            ? 'bg-blue-500'
+                                            : 'bg-emerald-500'
+                                        }`}
+                                      />
+                                      <span
+                                        className={`text-xs font-bold ${
+                                          isSelected
+                                            ? 'text-bear-700 dark:text-bear-300'
+                                            : 'text-stone-800 dark:text-stone-200'
+                                        }`}
+                                      >
+                                        {isAr ? model.name_ar : model.name}
+                                      </span>
+                                    </div>
+                                    {isSelected && (
+                                      <span className="w-2 h-2 rounded-full bg-bear-600 dark:bg-bear-400 shrink-0" />
+                                    )}
+                                  </div>
+                                  <p className="text-[11px] text-stone-500 dark:text-stone-400 leading-normal rtl:pr-3.5 ltr:pl-3.5">
+                                    {isAr ? model.description_ar : model.description_en}
+                                  </p>
+                                </button>
+                              );
+                            })}
+                          </div>
+                        </div>
+                      )}
+                    </div>
+
+                    {/* Secondary Info / Issue reporter */}
+                    <div className="text-stone-400 flex items-center gap-3">
+                      {onOpenFeedback ? (
+                        <button
+                          onClick={() => onOpenFeedback()}
+                          className="hover:text-bear-600 dark:hover:text-bear-400 underline underline-offset-2 flex items-center gap-1 transition-colors"
+                        >
+                          <Bug className="w-3 h-3" />
+                          <span>{isAr ? 'إبلاغ عن مشكلة' : 'Report issue'}</span>
+                        </button>
+                      ) : (
+                        <span className="hidden sm:inline">
+                          {isAr
+                            ? 'بياناتك معزولة ومشفرة بنسبة 100%'
+                            : 'Isolated & encrypted sessions'}
+                        </span>
+                      )}
+                    </div>
                   </div>
                 </div>
               )}
