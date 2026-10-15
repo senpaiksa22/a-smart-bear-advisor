@@ -64,7 +64,7 @@ export default function ThemeSelector({
       {/* Trigger Button */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="flex items-center gap-2 px-2.5 py-1.5 rounded-xl border border-stone-200 dark:border-stone-800 hover:border-bear-500/50 bg-stone-50 dark:bg-stone-900 text-stone-700 dark:text-stone-200 text-xs font-semibold transition-all shadow-xs hover:shadow-sm"
+        className="whitespace-nowrap shrink-0 flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl border border-stone-200 dark:border-stone-800 hover:border-bear-500/50 bg-stone-50 dark:bg-stone-900 text-stone-700 dark:text-stone-200 text-xs font-semibold transition-all shadow-xs hover:shadow-sm h-9"
         title={isAr ? `تغيير المظهر: ${activeConfig.name_ar}` : `Change Theme: ${activeConfig.name_en}`}
         aria-expanded={isOpen}
       >
@@ -80,9 +80,9 @@ export default function ThemeSelector({
         </span>
 
         {/* Icon & Label */}
-        {renderIcon(activeConfig.icon, 'w-3.5 h-3.5 opacity-80')}
-        <span className="hidden sm:inline font-bold">
-          {isAr ? activeConfig.name_ar : activeConfig.name_en}
+        {renderIcon(activeConfig.icon, 'w-3.5 h-3.5 opacity-80 shrink-0')}
+        <span className="hidden xl:inline font-bold whitespace-nowrap">
+          {isAr ? activeConfig.name_ar.split('(')[0].trim() : activeConfig.name_en.split('(')[0].trim()}
         </span>
       </button>
 
