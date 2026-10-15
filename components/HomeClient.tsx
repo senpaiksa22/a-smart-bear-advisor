@@ -39,23 +39,44 @@ export default function HomeClient() {
       .catch(() => {});
   }, []);
 
-  // Load saved favorites from localStorage
+  // Load saved favorites from localStorage scoped to authenticated user
   useEffect(() => {
+    if (!user) {
+      setFavorites([]);
+      return;
+    }
     try {
-      const saved = localStorage.getItem('smartbear_favorites');
+      const userKey = `smartbear_favorites_${user.id}`;
+      const saved = localStorage.getItem(userKey);
       if (saved) {
         setFavorites(JSON.parse(saved));
+      } else {
+        // Fallback check by username or legacy
+        const legacy = localStorage.getItem('smartbear_favorites');
+        if (legacy) {
+          setFavorites(JSON.parse(legacy));
+          localStorage.setItem(userKey, legacy);
+          localStorage.removeItem('smartbear_favorites');
+        } else {
+          setFavorites([]);
+        }
       }
-    } catch {}
-  }, []);
+    } catch {
+      setFavorites([]);
+    }
+  }, [user]);
 
   const handleToggleFavorite = (slug: string) => {
+    if (!user) {
+      setAuthModalOpen(true);
+      return;
+    }
     setFavorites((prev) => {
       const next = prev.includes(slug)
         ? prev.filter((s) => s !== slug)
         : [...prev, slug];
       try {
-        localStorage.setItem('smartbear_favorites', JSON.stringify(next));
+        localStorage.setItem(`smartbear_favorites_${user.id}`, JSON.stringify(next));
       } catch {}
       return next;
     });
@@ -65,6 +86,7 @@ export default function HomeClient() {
     try {
       await fetch('/api/auth/logout', { method: 'POST' });
       setUser(null);
+      setFavorites([]);
     } catch (e) {
       console.error('Logout error:', e);
     }
@@ -203,6 +225,8 @@ export default function HomeClient() {
             selectedArticleSlug={selectedArticle?.slug}
             favorites={favorites}
             onToggleFavorite={handleToggleFavorite}
+            user={user}
+            onOpenAuth={() => setAuthModalOpen(true)}
           />
         )}
       </main>
@@ -226,6 +250,8 @@ export default function HomeClient() {
         onThemeChange={handleThemeChange}
         isFavorite={selectedArticle ? favorites.includes(selectedArticle.slug) : false}
         onToggleFavorite={handleToggleFavorite}
+        user={user}
+        onOpenAuth={() => setAuthModalOpen(true)}
       />
 
       {/* Auth Modal (Password Manager Compliant) */}

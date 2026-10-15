@@ -89,8 +89,8 @@ export default function AuthModal({
           </h2>
           <p className="text-xs sm:text-sm text-stone-500 dark:text-stone-400 mt-1">
             {isAr
-              ? 'احفظ جلسات استشاراتك المعرفية مع نماذج جيسون كوهين بأمان تام'
-              : 'Securely preserve your advisory sessions and knowledge workflows'}
+              ? 'احفظ مقالاتك المفضلة وسجل استشاراتك مع المستشار الذكي مجاناً'
+              : 'Save your favorite articles and advisor chats in your free account'}
           </p>
         </div>
 

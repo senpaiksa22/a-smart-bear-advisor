@@ -22,6 +22,7 @@ import {
 import { AppTheme } from '@/lib/theme';
 import ThemeSelector from '@/components/ThemeSelector';
 import { Article } from '@/lib/types';
+import { AuthUser } from '@/lib/auth';
 
 interface ArticleDrawerProps {
   article: Article | null;
@@ -32,6 +33,8 @@ interface ArticleDrawerProps {
   onThemeChange?: (theme: AppTheme) => void;
   isFavorite?: boolean;
   onToggleFavorite?: (slug: string) => void;
+  user?: AuthUser | null;
+  onOpenAuth?: () => void;
 }
 
 export default function ArticleDrawer({
@@ -43,6 +46,8 @@ export default function ArticleDrawer({
   onThemeChange,
   isFavorite = false,
   onToggleFavorite,
+  user,
+  onOpenAuth,
 }: ArticleDrawerProps) {
   const [contentLang, setContentLang] = useState<'ar' | 'en'>(lang);
   const [fullContent, setFullContent] = useState<string>('');
@@ -249,16 +254,46 @@ export default function ArticleDrawer({
 
             {onToggleFavorite && (
               <button
-                onClick={() => onToggleFavorite(article.slug)}
-                className={`text-xs font-medium flex items-center gap-1 px-2.5 py-0.5 rounded-lg transition-colors border ${
-                  isFavorite
-                    ? 'bg-amber-500/15 border-amber-500/30 text-amber-600 dark:text-amber-400'
+                onClick={() => {
+                  if (!user) {
+                    onOpenAuth?.();
+                    return;
+                  }
+                  onToggleFavorite(article.slug);
+                }}
+                className={`text-xs font-medium flex items-center gap-1.5 px-2.5 py-0.5 rounded-lg transition-colors border ${
+                  isFavorite && user
+                    ? 'bg-amber-500/15 border-amber-500/30 text-amber-600 dark:text-amber-400 font-bold'
                     : 'text-stone-400 hover:text-stone-700 dark:hover:text-stone-200 hover:bg-stone-100 dark:hover:bg-stone-800 border-transparent'
                 }`}
-                title={isFavorite ? (isContentAr ? 'إزالة من المفضلة' : 'Remove Bookmark') : (isContentAr ? 'حفظ في المفضلة' : 'Bookmark')}
+                title={
+                  !user
+                    ? isContentAr
+                      ? 'المفضلة للأعضاء المسجلين - انقر للتسجيل'
+                      : 'Members only - click to sign in'
+                    : isFavorite
+                    ? isContentAr
+                      ? 'إزالة من المفضلة'
+                      : 'Remove Bookmark'
+                    : isContentAr
+                    ? 'حفظ في المفضلة'
+                    : 'Bookmark'
+                }
               >
-                <Star className={`w-3.5 h-3.5 ${isFavorite ? 'fill-amber-500 text-amber-500' : ''}`} />
-                <span>{isFavorite ? (isContentAr ? 'في المفضلة' : 'Saved') : (isContentAr ? 'حفظ' : 'Bookmark')}</span>
+                <Star
+                  className={`w-3.5 h-3.5 ${
+                    isFavorite && user ? 'fill-amber-500 text-amber-500' : ''
+                  }`}
+                />
+                <span>
+                  {isFavorite && user
+                    ? isContentAr
+                      ? 'في المفضلة'
+                      : 'Saved'
+                    : isContentAr
+                    ? 'حفظ'
+                    : 'Bookmark'}
+                </span>
               </button>
             )}
           </div>
