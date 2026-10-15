@@ -1,4 +1,4 @@
-export type AppTheme = 'light' | 'dark' | 'sepia' | 'ocean' | 'forest' | 'sunset';
+export type AppTheme = 'light' | 'sand' | 'sepia' | 'dark' | 'ocean' | 'forest' | 'sunset';
 
 export interface ThemeConfig {
   id: AppTheme;
@@ -6,7 +6,7 @@ export interface ThemeConfig {
   name_en: string;
   description_ar: string;
   description_en: string;
-  icon: 'sun' | 'moon' | 'book' | 'ocean' | 'forest' | 'sunset';
+  icon: 'sun' | 'moon' | 'book' | 'ocean' | 'forest' | 'sunset' | 'sand';
   isDarkFamily: boolean;
   colorSwatch: {
     bg: string;
@@ -31,6 +31,34 @@ export const APP_THEMES: ThemeConfig[] = [
     },
   },
   {
+    id: 'sand',
+    name_ar: 'بيج هادئ (مريح للعين)',
+    name_en: 'Muted Beige (Eye-Ease)',
+    description_ar: 'بيج رملي مطفأ بدون أي بياض فاقع، مريح جداً للبصر',
+    description_en: 'Soft glare-free sand & oat beige, gentle on eyes',
+    icon: 'sand',
+    isDarkFamily: false,
+    colorSwatch: {
+      bg: '#eee7dc',
+      border: '#d6ccbd',
+      accent: '#8c5e39',
+    },
+  },
+  {
+    id: 'sepia',
+    name_ar: 'سيبيا ورقي',
+    name_en: 'Sepia Paper',
+    description_ar: 'ورقي كهرماني كلاسيكي بأسلوب الكتب القديمة',
+    description_en: 'Warm amber parchment for vintage book reading',
+    icon: 'book',
+    isDarkFamily: false,
+    colorSwatch: {
+      bg: '#f6efe1',
+      border: '#dfceb4',
+      accent: '#b45309',
+    },
+  },
+  {
     id: 'dark',
     name_ar: 'داكن ليلي',
     name_en: 'Midnight Dark',
@@ -42,20 +70,6 @@ export const APP_THEMES: ThemeConfig[] = [
       bg: '#0c0d14',
       border: '#272a3e',
       accent: '#86a678',
-    },
-  },
-  {
-    id: 'sepia',
-    name_ar: 'سيبيا ورقي',
-    name_en: 'Sepia Paper',
-    description_ar: 'ورقي بيج دافئ ومريح جداً للقراءة الطويلة',
-    description_en: 'Warm parchment for strain-free reading',
-    icon: 'book',
-    isDarkFamily: false,
-    colorSwatch: {
-      bg: '#f6efe1',
-      border: '#dfceb4',
-      accent: '#b45309',
     },
   },
   {
@@ -125,7 +139,7 @@ export function applyTheme(theme: AppTheme) {
 }
 
 export function getInitialTheme(): AppTheme {
-  if (typeof window === 'undefined') return 'light';
+  if (typeof window === 'undefined') return 'sand'; // Default to the eye-friendly sand theme if desired or saved
   try {
     const saved = localStorage.getItem('smartbear_theme') as AppTheme;
     if (saved && APP_THEMES.some((t) => t.id === saved)) {

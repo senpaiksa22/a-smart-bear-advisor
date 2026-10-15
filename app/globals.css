@@ -24,6 +24,17 @@
   --scrollbar-thumb: rgba(134, 166, 120, 0.3);
 }
 
+/* 2. Sand / Muted Beige (بيج هادئ مريح للعين بدون بياض فاقع) */
+[data-theme='sand'] {
+  --background: #eee7dc;
+  --foreground: #2c2722;
+  --surface-primary: #f8f4ec;
+  --surface-secondary: #e5ded2;
+  --border-subtle: #d6ccbd;
+  --accent-theme: #8c5e39;
+  --scrollbar-thumb: rgba(140, 94, 57, 0.35);
+}
+
 /* 3. Sepia (ورقي / كهرمان دافئ) */
 [data-theme='sepia'] {
   --background: #f6efe1;
@@ -76,6 +87,50 @@ body {
 }
 
 /* Dynamic theme overrides for panels, headers and drawers */
+/* Sand / Muted Beige Theme Overrides (Anti-glare, eye-comfortable reading) */
+[data-theme='sand'] .bg-stone-50,
+[data-theme='sand'] .bg-\[\#fbfbfb\] {
+  background-color: var(--background) !important;
+}
+[data-theme='sand'] .bg-white {
+  background-color: var(--surface-primary) !important;
+}
+[data-theme='sand'] .bg-stone-100 {
+  background-color: var(--surface-secondary) !important;
+}
+[data-theme='sand'] .border-stone-200 {
+  border-color: var(--border-subtle) !important;
+}
+[data-theme='sand'] .text-stone-900 {
+  color: #2c2722 !important;
+}
+[data-theme='sand'] .text-stone-700 {
+  color: #453e37 !important;
+}
+[data-theme='sand'] .text-stone-600 {
+  color: #5c544b !important;
+}
+[data-theme='sand'] .text-stone-500 {
+  color: #7d7469 !important;
+}
+[data-theme='sand'] .prose-bear blockquote {
+  background-color: #e5ded2 !important;
+  border-inline-start-color: #8c5e39 !important;
+  color: #38312b !important;
+}
+[data-theme='sand'] .prose-bear table th {
+  background-color: #e5ded2 !important;
+  color: #2c2722 !important;
+  border-color: #d6ccbd !important;
+}
+[data-theme='sand'] .prose-bear table td {
+  border-color: #d6ccbd !important;
+}
+[data-theme='sand'] .prose-bear code {
+  background-color: #e5ded2 !important;
+  color: #8c5e39 !important;
+}
+
 [data-theme='sepia'] .bg-stone-50,
 [data-theme='sepia'] .bg-\[\#fbfbfb\] {
   background-color: var(--background) !important;
