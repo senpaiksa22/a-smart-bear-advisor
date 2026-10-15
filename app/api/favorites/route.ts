@@ -10,7 +10,16 @@ export async function GET(request: NextRequest) {
     }
 
     const favorites = await getUserFavorites(user.id);
-    return NextResponse.json({ success: true, favorites });
+    return NextResponse.json(
+      { success: true, favorites },
+      {
+        headers: {
+          'Cache-Control': 'no-store, no-cache, must-revalidate, proxy-revalidate',
+          Pragma: 'no-cache',
+          Expires: '0',
+        },
+      }
+    );
   } catch (error: any) {
     console.error('API get favorites error:', error);
     return NextResponse.json({ success: false, error: 'Internal server error', favorites: [] }, { status: 500 });
