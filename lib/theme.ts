@@ -184,6 +184,41 @@ export function applyTheme(theme: AppTheme) {
     document.documentElement.classList.remove('dark');
   }
 
+  // Exact background color of active theme
+  const themeBgColor = target?.colorSwatch.bg || (isDark ? '#0c0d14' : '#ffffff');
+
+  // Update HTML and Body inline background immediately for iOS Safari tab bar sampling
+  document.documentElement.style.backgroundColor = themeBgColor;
+  if (document.body) {
+    document.body.style.backgroundColor = themeBgColor;
+  }
+
+  // Update or insert <meta name="theme-color"> for iOS Safari address bar & Android chrome
+  try {
+    const existingMetas = document.querySelectorAll('meta[name="theme-color"]');
+    if (existingMetas.length > 0) {
+      existingMetas.forEach((meta) => {
+        meta.setAttribute('content', themeBgColor);
+      });
+    } else {
+      const meta = document.createElement('meta');
+      meta.name = 'theme-color';
+      meta.content = themeBgColor;
+      document.head.appendChild(meta);
+    }
+
+    // Update iOS status bar appearance (light text on dark backgrounds, dark text on light backgrounds)
+    let appleMeta = document.querySelector('meta[name="apple-mobile-web-app-status-bar-style"]');
+    if (!appleMeta) {
+      appleMeta = document.createElement('meta');
+      appleMeta.setAttribute('name', 'apple-mobile-web-app-status-bar-style');
+      document.head.appendChild(appleMeta);
+    }
+    appleMeta.setAttribute('content', isDark ? 'black-translucent' : 'default');
+  } catch (e) {
+    console.error('Error updating theme-color meta:', e);
+  }
+
   // Persist to localStorage
   try {
     localStorage.setItem('smartbear_theme', theme);

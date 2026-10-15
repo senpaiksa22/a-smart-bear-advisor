@@ -31,7 +31,7 @@ export default function BottomNav({
 
   return (
     <nav
-      className="md:hidden fixed bottom-0 inset-x-0 z-40 bg-white/95 dark:bg-stone-950/95 backdrop-blur-lg border-t border-stone-200/80 dark:border-stone-800 shadow-[0_-4px_20px_rgba(0,0,0,0.06)] pb-[max(env(safe-area-inset-bottom),0.5rem)] pt-1.5 transition-colors"
+      className="md:hidden fixed bottom-0 inset-x-0 z-40 bg-[var(--surface-primary)]/95 backdrop-blur-lg border-t border-[var(--border-subtle)] shadow-[0_-4px_20px_rgba(0,0,0,0.06)] pb-[max(env(safe-area-inset-bottom),0.5rem)] pt-1.5 transition-colors"
       style={{ direction: isAr ? 'rtl' : 'ltr' }}
       aria-label={isAr ? 'شريط التنقل السفلي' : 'Bottom Navigation'}
     >
