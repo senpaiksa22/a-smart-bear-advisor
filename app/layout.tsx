@@ -1,7 +1,7 @@
 import type { Metadata, Viewport } from 'next';
 import './globals.css';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://asmartbear-advisor.vercel.app';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://a-smart-bear-advisor.vercel.app';
 
 export const viewport: Viewport = {
   themeColor: [
@@ -18,6 +18,16 @@ export const metadata: Metadata = {
   title: {
     default: 'مستشار الدب الذكي | A Smart Bear Advisor',
     template: '%s | مستشار الدب الذكي',
+  },
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/icon.png', type: 'image/png', sizes: '512x512' },
+    ],
+    apple: [
+      { url: '/apple-icon.png', sizes: '180x180', type: 'image/png' },
+    ],
+    shortcut: '/favicon.ico',
   },
   description:
     'المنصة الاستراتيجية والمعرفية المستندة إلى فكر وتجارب جيسون كوهين (مؤسس WP Engine و Smart Bear) — أكثر من 213 مقالاً ونموذجاً فكرياً ومستشار ذكي مباشر لرواد الأعمال.',
