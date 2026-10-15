@@ -76,7 +76,7 @@ export default function HomeClient() {
       .catch(() => {});
   }, []);
 
-  // Load favorites from local cache immediately + sync from cloud database
+  // Load favorites from local cache immediately + sync from cloud database with 2-way auto-migration
   useEffect(() => {
     if (!user) {
       setFavorites([]);
@@ -85,15 +85,18 @@ export default function HomeClient() {
     }
 
     // 1. Instant local cache load
+    let localFavs: string[] = [];
+    const userKey = `smartbear_favorites_${user.id}`;
     try {
-      const userKey = `smartbear_favorites_${user.id}`;
       const saved = localStorage.getItem(userKey);
       if (saved) {
-        setFavorites(JSON.parse(saved));
+        localFavs = JSON.parse(saved);
+        setFavorites(localFavs);
       } else {
         const legacy = localStorage.getItem('smartbear_favorites');
         if (legacy) {
-          setFavorites(JSON.parse(legacy));
+          localFavs = JSON.parse(legacy);
+          setFavorites(localFavs);
           localStorage.setItem(userKey, legacy);
           localStorage.removeItem('smartbear_favorites');
         }
@@ -105,10 +108,32 @@ export default function HomeClient() {
       .then((res) => res.json())
       .then((data) => {
         if (data.success && Array.isArray(data.favorites)) {
-          setFavorites(data.favorites);
-          try {
-            localStorage.setItem(`smartbear_favorites_${user.id}`, JSON.stringify(data.favorites));
-          } catch {}
+          const cloudFavs = data.favorites as string[];
+
+          if (cloudFavs.length === 0 && localFavs.length > 0) {
+            // Auto-migrate: User had favorites on this device before cloud sync, upload them to Supabase!
+            fetch('/api/favorites', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ favorites: localFavs }),
+            }).catch(() => {});
+          } else {
+            // Merge cloud and local so no items are ever lost across devices
+            const merged = Array.from(new Set([...cloudFavs, ...localFavs]));
+            setFavorites(merged);
+            try {
+              localStorage.setItem(userKey, JSON.stringify(merged));
+            } catch {}
+
+            // If local had extra items, upload the merged list to Supabase
+            if (merged.length > cloudFavs.length) {
+              fetch('/api/favorites', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ favorites: merged }),
+              }).catch(() => {});
+            }
+          }
         }
       })
       .catch((err) => console.error('Error fetching cloud favorites:', err));
