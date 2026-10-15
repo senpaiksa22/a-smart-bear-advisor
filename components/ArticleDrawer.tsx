@@ -382,8 +382,8 @@ export default function ArticleDrawer({
 
         {/* Bottom Call to Action */}
         <div className="p-8 rounded-3xl bg-gradient-to-tr from-bear-900 to-amber-900 text-white text-center space-y-4 shadow-xl">
-          <div className="w-12 h-12 rounded-2xl bg-white/10 text-amber-300 flex items-center justify-center mx-auto text-2xl">
-            🐻
+          <div className="w-12 h-12 rounded-2xl overflow-hidden border border-amber-400/30 shadow-md flex items-center justify-center bg-stone-900 mx-auto">
+            <img src="/icon.png" alt="A Smart Bear Advisor" className="w-full h-full object-cover" />
           </div>
           <div className="space-y-1.5 max-w-xl mx-auto">
             <h3 className="text-xl font-bold">

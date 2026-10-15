@@ -75,8 +75,8 @@ export default function AuthModal({
 
         {/* Modal Brand Header */}
         <div className="text-center mb-6">
-          <div className="w-12 h-12 mx-auto rounded-2xl bg-bear-500/10 text-bear-700 dark:text-bear-400 flex items-center justify-center font-bold text-2xl mb-3 border border-bear-500/20 shadow-sm">
-            🐻
+          <div className="w-14 h-14 mx-auto rounded-2xl overflow-hidden border border-amber-500/30 shadow-md flex items-center justify-center bg-stone-900 mb-3">
+            <img src="/icon.png" alt="A Smart Bear Advisor" className="w-full h-full object-cover" />
           </div>
           <h2 className="text-xl sm:text-2xl font-black text-stone-900 dark:text-white">
             {mode === 'login'

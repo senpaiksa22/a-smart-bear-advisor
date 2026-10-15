@@ -37,8 +37,8 @@ export default function Navbar({
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
         {/* Brand */}
         <div className="flex items-center gap-3">
-          <div className="w-10 h-10 rounded-xl bg-bear-500/10 dark:bg-bear-500/20 text-bear-600 dark:text-bear-400 flex items-center justify-center font-bold text-xl border border-bear-500/20 shadow-sm">
-            🐻
+          <div className="w-10 h-10 rounded-xl overflow-hidden border border-amber-500/30 shadow-sm flex items-center justify-center bg-stone-900 flex-shrink-0">
+            <img src="/icon.png" alt="A Smart Bear Advisor" className="w-full h-full object-cover" />
           </div>
           <div>
             <div className="flex items-center gap-2">

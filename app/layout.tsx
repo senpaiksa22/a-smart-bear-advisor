@@ -63,9 +63,11 @@ export const metadata: Metadata = {
     siteName: 'A Smart Bear Advisor',
     images: [
       {
-        url: `${siteUrl}/og-image.png`,
+        url: `${siteUrl}/og-image.png?v=2`,
+        secureUrl: `${siteUrl}/og-image.png?v=2`,
         width: 1200,
         height: 630,
+        type: 'image/png',
         alt: 'مستشار الدب الذكي | A Smart Bear Advisor',
       },
     ],
@@ -76,7 +78,7 @@ export const metadata: Metadata = {
     description:
       'فلسفة واستراتيجيات جيسون كوهين لريادة الأعمال وبناء شركات برمجية مستدامة.',
     creator: '@asmartbear',
-    images: [`${siteUrl}/og-image.png`],
+    images: [`${siteUrl}/og-image.png?v=2`],
   },
   robots: {
     index: true,
