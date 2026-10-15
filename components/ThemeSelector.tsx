@@ -97,8 +97,8 @@ export default function ThemeSelector({
       {/* Dropdown Menu (10 Signature Themes - Clean 2-Column Grid) */}
       {isOpen && (
         <div
-          className={`absolute top-full mt-2 z-50 w-[360px] sm:w-[430px] max-w-[calc(100vw-1.5rem)] p-2.5 rounded-2xl bg-white dark:bg-[#151722] border border-stone-200 dark:border-stone-800 shadow-2xl backdrop-blur-xl animate-in fade-in zoom-in-95 duration-150 ${
-            isAr ? 'left-0 sm:right-auto' : 'right-0 sm:left-auto'
+          className={`absolute top-full mt-2 z-50 w-[360px] sm:w-[420px] max-w-[calc(100vw-2rem)] p-2.5 rounded-2xl bg-white dark:bg-[#151722] border border-stone-200 dark:border-stone-800 shadow-2xl backdrop-blur-xl animate-in fade-in zoom-in-95 duration-150 ${
+            isAr ? 'right-0' : 'left-0'
           }`}
           style={{
             direction: isAr ? 'rtl' : 'ltr',
@@ -110,7 +110,7 @@ export default function ThemeSelector({
               <Palette className="w-4 h-4 text-bear-600" />
               <span>{isAr ? 'المظاهر اللونية' : 'Color Themes'}</span>
             </div>
-            <span className="text-[10px] font-mono px-2 py-0.5 rounded-full bg-bear-100 dark:bg-bear-950 text-bear-700 dark:text-bear-300 font-bold">
+            <span className="text-[10px] px-2 py-0.5 rounded-full bg-bear-100 dark:bg-bear-950 text-bear-700 dark:text-bear-300 font-bold">
               {isAr ? '10 مظاهر مميزة' : '10 Themes'}
             </span>
           </div>

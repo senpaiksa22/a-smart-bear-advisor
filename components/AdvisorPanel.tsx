@@ -85,13 +85,26 @@ export default function AdvisorPanel({
   const currentModelObj =
     AVAILABLE_MODELS.find((m) => m.id === selectedModel) || AVAILABLE_MODELS[1];
 
-  // Prevent background scrolling when advisor modal is open
+  // Prevent background scrolling when advisor modal is open (Robust iOS & Android lock)
   useEffect(() => {
     if (isOpen) {
+      const scrollY = window.scrollY;
       const originalOverflow = document.body.style.overflow;
+      const originalPosition = document.body.style.position;
+      const originalTop = document.body.style.top;
+      const originalWidth = document.body.style.width;
+
       document.body.style.overflow = 'hidden';
+      document.body.style.position = 'fixed';
+      document.body.style.top = `-${scrollY}px`;
+      document.body.style.width = '100%';
+
       return () => {
         document.body.style.overflow = originalOverflow;
+        document.body.style.position = originalPosition;
+        document.body.style.top = originalTop;
+        document.body.style.width = originalWidth;
+        window.scrollTo(0, scrollY);
       };
     }
   }, [isOpen]);
@@ -374,7 +387,7 @@ export default function AdvisorPanel({
               </div>
               <div className="min-w-0">
                 <div className="flex items-center gap-1.5">
-                  <h2 className="text-xs sm:text-base font-bold text-stone-900 dark:text-white leading-none truncate">
+                  <h2 className="text-xs sm:text-base font-bold text-stone-900 dark:text-white leading-normal pb-0.5 truncate">
                     {isAr ? 'جيسون كوهين' : 'Jason Cohen'}
                   </h2>
                   <span className="hidden sm:inline-block text-[10px] font-semibold px-1.5 py-0.5 rounded-full bg-bear-100 dark:bg-bear-950 text-bear-700 dark:text-bear-300 border border-bear-500/20 whitespace-nowrap">
@@ -397,7 +410,7 @@ export default function AdvisorPanel({
               <button
                 type="button"
                 onClick={() => setModelDropdownOpen(!modelDropdownOpen)}
-                className="flex items-center gap-1.5 px-2 sm:px-3 py-1.5 rounded-xl text-xs font-semibold bg-white dark:bg-stone-800 border border-stone-200 dark:border-stone-700 hover:border-bear-500 shadow-xs transition-all"
+                className="flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-xl text-xs font-semibold bg-white dark:bg-stone-800 border border-stone-200 dark:border-stone-700 hover:border-bear-500 shadow-xs transition-all"
               >
                 <span
                   className={`w-2 h-2 rounded-full shrink-0 ${
@@ -410,7 +423,7 @@ export default function AdvisorPanel({
                       : 'bg-emerald-500'
                   }`}
                 />
-                <span className="font-bold text-stone-800 dark:text-stone-200 truncate max-w-[70px] sm:max-w-none">
+                <span className="font-bold text-stone-800 dark:text-stone-200 truncate max-w-[115px] sm:max-w-none">
                   {isAr ? currentModelObj.name_ar : currentModelObj.name}
                 </span>
                 <ChevronDown className="w-3 h-3 text-stone-400 shrink-0" />

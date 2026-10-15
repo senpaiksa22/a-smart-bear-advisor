@@ -114,6 +114,152 @@ export async function getUserById(id: string) {
   return { id: u.id, username: u.username, created_at: u.created_at };
 }
 
+export async function getUserWithPasswordById(id: string) {
+  if (supabaseClient) {
+    const { data, error } = await supabaseClient
+      .from('app_users')
+      .select('*')
+      .eq('id', id)
+      .maybeSingle();
+
+    if (error) throw error;
+    return data;
+  }
+
+  const db = getLocalDB();
+  return db.users.find((user) => user.id === id) || null;
+}
+
+export async function updateUsername(userId: string, newUsername: string) {
+  if (supabaseClient) {
+    const { error } = await supabaseClient
+      .from('app_users')
+      .update({ username: newUsername })
+      .eq('id', userId);
+
+    if (error) throw error;
+    return true;
+  }
+
+  const db = getLocalDB();
+  const u = db.users.find((user) => user.id === userId);
+  if (u) {
+    u.username = newUsername;
+    saveLocalDB(db);
+  }
+  return true;
+}
+
+export async function updateUserPassword(userId: string, newPasswordHash: string) {
+  if (supabaseClient) {
+    const { error } = await supabaseClient
+      .from('app_users')
+      .update({ password_hash: newPasswordHash })
+      .eq('id', userId);
+
+    if (error) throw error;
+    return true;
+  }
+
+  const db = getLocalDB();
+  const u = db.users.find((user) => user.id === userId);
+  if (u) {
+    u.password_hash = newPasswordHash;
+    saveLocalDB(db);
+  }
+  return true;
+}
+
+// ==============================================================================
+// Cloud Synced Favorites (Multi-Device Sync)
+// ==============================================================================
+
+export async function getUserFavorites(userId: string): Promise<string[]> {
+  if (supabaseClient) {
+    const { data, error } = await supabaseClient
+      .from('conversations')
+      .select('model_used')
+      .eq('user_id', userId)
+      .eq('title', '__SYSTEM_FAVORITES__')
+      .maybeSingle();
+
+    if (error) {
+      console.warn('Error fetching Supabase favorites:', error.message);
+      return [];
+    }
+    if (data && data.model_used) {
+      try {
+        return JSON.parse(data.model_used);
+      } catch {
+        return [];
+      }
+    }
+    return [];
+  }
+
+  const db = getLocalDB();
+  const favRecord = db.conversations.find(
+    (c) => c.user_id === userId && c.title === '__SYSTEM_FAVORITES__'
+  );
+  if (favRecord && favRecord.model_used) {
+    try {
+      return JSON.parse(favRecord.model_used);
+    } catch {
+      return [];
+    }
+  }
+  return [];
+}
+
+export async function saveUserFavorites(userId: string, favorites: string[]): Promise<void> {
+  const jsonFavorites = JSON.stringify(favorites);
+
+  if (supabaseClient) {
+    const { data: existing } = await supabaseClient
+      .from('conversations')
+      .select('id')
+      .eq('user_id', userId)
+      .eq('title', '__SYSTEM_FAVORITES__')
+      .maybeSingle();
+
+    if (existing) {
+      await supabaseClient
+        .from('conversations')
+        .update({
+          model_used: jsonFavorites,
+          updated_at: new Date().toISOString(),
+        })
+        .eq('id', existing.id);
+    } else {
+      await supabaseClient.from('conversations').insert({
+        user_id: userId,
+        title: '__SYSTEM_FAVORITES__',
+        model_used: jsonFavorites,
+      });
+    }
+    return;
+  }
+
+  const db = getLocalDB();
+  const existing = db.conversations.find(
+    (c) => c.user_id === userId && c.title === '__SYSTEM_FAVORITES__'
+  );
+  if (existing) {
+    existing.model_used = jsonFavorites;
+    existing.updated_at = new Date().toISOString();
+  } else {
+    db.conversations.push({
+      id: crypto.randomUUID(),
+      user_id: userId,
+      title: '__SYSTEM_FAVORITES__',
+      model_used: jsonFavorites,
+      created_at: new Date().toISOString(),
+      updated_at: new Date().toISOString(),
+    });
+  }
+  saveLocalDB(db);
+}
+
 export async function createConversation(userId: string, title: string, modelUsed: string) {
   if (supabaseClient) {
     const { data, error } = await supabaseClient
@@ -150,6 +296,7 @@ export async function getConversations(userId: string) {
       .from('conversations')
       .select('*')
       .eq('user_id', userId)
+      .neq('title', '__SYSTEM_FAVORITES__')
       .order('updated_at', { ascending: false });
 
     if (error) throw error;
@@ -158,7 +305,7 @@ export async function getConversations(userId: string) {
 
   const db = getLocalDB();
   return db.conversations
-    .filter((c) => c.user_id === userId)
+    .filter((c) => c.user_id === userId && c.title !== '__SYSTEM_FAVORITES__')
     .sort((a, b) => new Date(b.updated_at).getTime() - new Date(a.updated_at).getTime());
 }
 

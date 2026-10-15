@@ -9,6 +9,9 @@ import AuthModal from '@/components/AuthModal';
 import AdvisorPanel from '@/components/AdvisorPanel';
 import FeedbackModal from '@/components/FeedbackModal';
 import WelcomeModal from '@/components/WelcomeModal';
+import BottomNav from '@/components/BottomNav';
+import UserProfileModal from '@/components/UserProfileModal';
+import ThemeSheet from '@/components/ThemeSheet';
 import { MessageSquare } from 'lucide-react';
 import { Article, Cluster } from '@/lib/types';
 import { AuthUser } from '@/lib/auth';
@@ -26,6 +29,9 @@ export default function HomeClient() {
   const [advisorContextArticle, setAdvisorContextArticle] = useState<Article | null>(null);
   const [user, setUser] = useState<AuthUser | null>(null);
   const [authModalOpen, setAuthModalOpen] = useState<boolean>(false);
+  const [profileModalOpen, setProfileModalOpen] = useState<boolean>(false);
+  const [themeSheetOpen, setThemeSheetOpen] = useState<boolean>(false);
+  const [showFavoritesFilter, setShowFavoritesFilter] = useState<boolean>(false);
   const [favorites, setFavorites] = useState<string[]>([]);
   const [feedbackOpen, setFeedbackOpen] = useState<boolean>(false);
   const [feedbackErrorDetails, setFeedbackErrorDetails] = useState<string | null>(null);
@@ -70,31 +76,42 @@ export default function HomeClient() {
       .catch(() => {});
   }, []);
 
-  // Load saved favorites from localStorage scoped to authenticated user
+  // Load favorites from local cache immediately + sync from cloud database
   useEffect(() => {
     if (!user) {
       setFavorites([]);
+      setShowFavoritesFilter(false);
       return;
     }
+
+    // 1. Instant local cache load
     try {
       const userKey = `smartbear_favorites_${user.id}`;
       const saved = localStorage.getItem(userKey);
       if (saved) {
         setFavorites(JSON.parse(saved));
       } else {
-        // Fallback check by username or legacy
         const legacy = localStorage.getItem('smartbear_favorites');
         if (legacy) {
           setFavorites(JSON.parse(legacy));
           localStorage.setItem(userKey, legacy);
           localStorage.removeItem('smartbear_favorites');
-        } else {
-          setFavorites([]);
         }
       }
-    } catch {
-      setFavorites([]);
-    }
+    } catch {}
+
+    // 2. Fetch from cloud database to ensure cross-device consistency
+    fetch('/api/favorites')
+      .then((res) => res.json())
+      .then((data) => {
+        if (data.success && Array.isArray(data.favorites)) {
+          setFavorites(data.favorites);
+          try {
+            localStorage.setItem(`smartbear_favorites_${user.id}`, JSON.stringify(data.favorites));
+          } catch {}
+        }
+      })
+      .catch((err) => console.error('Error fetching cloud favorites:', err));
   }, [user]);
 
   const handleToggleFavorite = (slug: string) => {
@@ -106,9 +123,19 @@ export default function HomeClient() {
       const next = prev.includes(slug)
         ? prev.filter((s) => s !== slug)
         : [...prev, slug];
+
+      // Cache locally
       try {
         localStorage.setItem(`smartbear_favorites_${user.id}`, JSON.stringify(next));
       } catch {}
+
+      // Persist to server / Supabase
+      fetch('/api/favorites', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ favorites: next }),
+      }).catch((err) => console.error('Error syncing cloud favorites:', err));
+
       return next;
     });
   };
@@ -233,12 +260,13 @@ export default function HomeClient() {
         articleCount={articles.length}
         user={user}
         onOpenAuth={() => setAuthModalOpen(true)}
+        onOpenProfile={() => setProfileModalOpen(true)}
         onLogout={handleLogout}
         onOpenAbout={() => setWelcomeOpen(true)}
       />
 
-      {/* Main Content Area */}
-      <main className="flex-1 flex flex-col">
+      {/* Main Content Area (With bottom padding on mobile for BottomNav) */}
+      <main className="flex-1 flex flex-col pb-20 md:pb-0">
         {loading ? (
           <div className="flex-1 flex items-center justify-center p-12">
             <div className="flex flex-col items-center gap-3">
@@ -259,9 +287,54 @@ export default function HomeClient() {
             onToggleFavorite={handleToggleFavorite}
             user={user}
             onOpenAuth={() => setAuthModalOpen(true)}
+            showOnlyFavorites={showFavoritesFilter}
+            onToggleFavoritesFilter={setShowFavoritesFilter}
           />
         )}
       </main>
+
+      {/* Mobile Bottom Navigation Bar */}
+      <BottomNav
+        currentView={showFavoritesFilter ? 'favorites' : 'map'}
+        onSelectView={(view) => {
+          if (view === 'favorites' && !user) {
+            setAuthModalOpen(true);
+            return;
+          }
+          setShowFavoritesFilter(view === 'favorites');
+        }}
+        onOpenAdvisor={() => {
+          setAdvisorContextArticle(null);
+          setAdvisorModalOpen(true);
+        }}
+        onOpenThemeSheet={() => setThemeSheetOpen(true)}
+        onOpenProfile={() => setProfileModalOpen(true)}
+        onOpenAuth={() => setAuthModalOpen(true)}
+        user={user}
+        favoritesCount={favorites.length}
+        lang={lang}
+      />
+
+      {/* Mobile Theme Selection Sheet */}
+      <ThemeSheet
+        isOpen={themeSheetOpen}
+        onClose={() => setThemeSheetOpen(false)}
+        currentTheme={theme}
+        onThemeChange={handleThemeChange}
+        lang={lang}
+      />
+
+      {/* User Profile & Account Settings Modal */}
+      {user && (
+        <UserProfileModal
+          isOpen={profileModalOpen}
+          onClose={() => setProfileModalOpen(false)}
+          user={user}
+          onUserUpdated={(updatedUser) => setUser(updatedUser)}
+          onLogout={handleLogout}
+          lang={lang}
+        />
+      )}
 
       {/* Search Modal */}
       <SearchModal
@@ -307,7 +380,7 @@ export default function HomeClient() {
       />
 
       {/* Floating Developer Feedback / Bug Report Trigger */}
-      <div className="fixed bottom-4 left-4 rtl:left-auto rtl:right-4 z-30 animate-in fade-in slide-in-from-bottom-2 duration-300">
+      <div className="fixed bottom-20 md:bottom-4 left-4 rtl:left-auto rtl:right-4 z-30 animate-in fade-in slide-in-from-bottom-2 duration-300">
         <button
           onClick={() => handleOpenFeedback()}
           className="flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-full bg-white/95 dark:bg-stone-900/95 hover:bg-bear-50 dark:hover:bg-stone-800 text-stone-600 dark:text-stone-300 hover:text-bear-700 dark:hover:text-bear-300 border border-stone-200/90 dark:border-stone-800 shadow-md backdrop-blur-md text-xs font-bold transition-all hover:scale-105 active:scale-95 group"

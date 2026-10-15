@@ -31,6 +31,8 @@ interface MindMapProps {
   onToggleFavorite?: (slug: string) => void;
   user?: AuthUser | null;
   onOpenAuth?: () => void;
+  showOnlyFavorites?: boolean;
+  onToggleFavoritesFilter?: (show: boolean) => void;
 }
 
 // Sophisticated, eye-friendly color palette with soft contrast
@@ -145,12 +147,25 @@ export default function MindMap({
   onToggleFavorite,
   user,
   onOpenAuth,
+  showOnlyFavorites: propShowOnlyFavorites,
+  onToggleFavoritesFilter,
 }: MindMapProps) {
   const isAr = lang === 'ar';
   const [activeClusterId, setActiveClusterId] = useState<string | null>(null);
   const [zoomLevel, setZoomLevel] = useState<number>(1);
   const [displayMode, setDisplayMode] = useState<'cards' | 'compact'>('cards');
-  const [showOnlyFavorites, setShowOnlyFavorites] = useState<boolean>(false);
+  const [internalShowFavorites, setInternalShowFavorites] = useState<boolean>(false);
+
+  const isControlledFavorites = typeof propShowOnlyFavorites === 'boolean';
+  const showOnlyFavorites = isControlledFavorites ? propShowOnlyFavorites : internalShowFavorites;
+  const setShowOnlyFavorites = (value: boolean | ((prev: boolean) => boolean)) => {
+    const next = typeof value === 'function' ? value(showOnlyFavorites) : value;
+    if (isControlledFavorites) {
+      onToggleFavoritesFilter?.(next);
+    } else {
+      setInternalShowFavorites(next);
+    }
+  };
 
   const scrollContainerRef = useRef<HTMLDivElement>(null);
 
