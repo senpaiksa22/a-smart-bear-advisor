@@ -404,48 +404,48 @@ export default function AdvisorPanel({
               </button>
 
               {modelDropdownOpen && (
-                <div className="absolute right-0 mt-1 w-72 sm:w-80 bg-white dark:bg-stone-800 rounded-xl shadow-2xl border border-stone-200 dark:border-stone-700 p-1.5 z-50 animate-in fade-in duration-150">
-                  <div className="px-2 py-1.5 text-[10px] font-bold text-stone-400 uppercase tracking-wider border-b border-stone-100 dark:border-stone-700/50 mb-1">
+                <div className="absolute ltr:right-0 rtl:left-0 mt-1.5 w-64 sm:w-72 bg-white dark:bg-stone-800 rounded-2xl shadow-2xl border border-stone-200 dark:border-stone-700 p-2 z-50 animate-in fade-in duration-150 max-w-[calc(100vw-2rem)]">
+                  <div className="px-2 py-1 text-[10px] font-bold text-stone-400 uppercase tracking-wider border-b border-stone-100 dark:border-stone-700/50 mb-1">
                     {isAr ? 'اختر نموذج الذكاء الاصطناعي' : 'Select Gemini Model'}
                   </div>
-                  {AVAILABLE_MODELS.map((model) => {
-                    const isSelected = model.id === selectedModel;
-                    return (
-                      <button
-                        key={model.id}
-                        type="button"
-                        onClick={() => {
-                          setSelectedModel(model.id);
-                          setModelDropdownOpen(false);
-                        }}
-                        className={`w-full text-start p-2 rounded-lg transition-all flex flex-col gap-0.5 ${
-                          isSelected
-                            ? 'bg-bear-50 dark:bg-bear-950/60 border border-bear-500/30'
-                            : 'hover:bg-stone-100 dark:hover:bg-stone-700/60'
-                        }`}
-                      >
-                        <div className="flex items-center justify-between">
-                          <span
-                            className={`text-xs font-bold ${
-                              isSelected
-                                ? 'text-bear-700 dark:text-bear-300'
-                                : 'text-stone-800 dark:text-stone-200'
-                            }`}
-                          >
-                            {isAr ? model.name_ar : model.name}
-                          </span>
-                          <span
-                            className={`text-[9px] px-1.5 py-0.2 rounded border font-medium ${model.badgeColor}`}
-                          >
-                            {isAr ? model.badge_ar : model.badge_en}
-                          </span>
-                        </div>
-                        <p className="text-[11px] text-stone-500 dark:text-stone-400 leading-tight">
-                          {isAr ? model.description_ar : model.description_en}
-                        </p>
-                      </button>
-                    );
-                  })}
+                  <div className="space-y-1">
+                    {AVAILABLE_MODELS.map((model) => {
+                      const isSelected = model.id === selectedModel;
+                      return (
+                        <button
+                          key={model.id}
+                          type="button"
+                          onClick={() => {
+                            setSelectedModel(model.id);
+                            setModelDropdownOpen(false);
+                          }}
+                          className={`w-full text-start p-2.5 rounded-xl transition-all flex flex-col gap-0.5 ${
+                            isSelected
+                              ? 'bg-bear-50 dark:bg-bear-950/70 border border-bear-500/30'
+                              : 'hover:bg-stone-100 dark:hover:bg-stone-700/60 border border-transparent'
+                          }`}
+                        >
+                          <div className="flex items-center justify-between">
+                            <span
+                              className={`text-xs font-bold ${
+                                isSelected
+                                  ? 'text-bear-700 dark:text-bear-300'
+                                  : 'text-stone-800 dark:text-stone-200'
+                              }`}
+                            >
+                              {isAr ? model.name_ar : model.name}
+                            </span>
+                            {isSelected && (
+                              <span className="w-2 h-2 rounded-full bg-bear-600 dark:bg-bear-400 shrink-0" />
+                            )}
+                          </div>
+                          <p className="text-[11px] text-stone-500 dark:text-stone-400 leading-normal">
+                            {isAr ? model.description_ar : model.description_en}
+                          </p>
+                        </button>
+                      );
+                    })}
+                  </div>
                 </div>
               )}
             </div>

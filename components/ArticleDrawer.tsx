@@ -178,15 +178,6 @@ export default function ArticleDrawer({
               </span>
               <span className="sm:hidden">{isContentAr ? 'استشر' : 'Ask'}</span>
             </button>
-
-            {/* Close Button */}
-            <button
-              onClick={onClose}
-              className="p-2 rounded-xl text-stone-400 hover:text-stone-700 dark:hover:text-stone-200 hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors"
-              title={isContentAr ? 'إغلاق' : 'Close'}
-            >
-              <X className="w-5 h-5" />
-            </button>
           </div>
         </div>
       </div>

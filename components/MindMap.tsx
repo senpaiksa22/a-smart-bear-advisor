@@ -174,8 +174,8 @@ export default function MindMap({
       {/* TOP THEMES NAVIGATION BAR (المحاور في بار كامل ممتد بدون انقطاع) */}
       {/* ==================================================================== */}
       <div className="sticky top-16 z-30 w-full bg-white/95 dark:bg-[#12141e]/95 backdrop-blur-md border-b border-stone-200/80 dark:border-stone-800/80 shadow-sm">
-        <div className="w-full max-w-[1750px] mx-auto px-2 sm:px-4 py-2 flex items-center justify-between gap-2 sm:gap-3">
-          {/* Scroll Right Button on the right side in RTL (points right to return to start) */}
+        <div className="w-full px-2 sm:px-4 py-2 flex items-center justify-between gap-1.5 sm:gap-2">
+          {/* Scroll Right Button (Right side in RTL) */}
           <button
             onClick={() => scrollThemes('right')}
             className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-500 hover:text-stone-900 dark:hover:text-white shrink-0 hidden sm:flex items-center justify-center transition-colors"
@@ -184,16 +184,16 @@ export default function MindMap({
             <ChevronRight className="w-4 h-4" />
           </button>
 
-          {/* Full-Width Scrollable Clusters Bar */}
+          {/* Full-Width Scrollable Clusters Bar - Expanded to fit maximum themes */}
           <div
             ref={scrollContainerRef}
-            className="flex-1 min-w-0 flex items-center gap-2 overflow-x-auto py-1 scrollbar-none scroll-smooth"
+            className="flex-1 min-w-0 flex items-center gap-1.5 overflow-x-auto py-1 scrollbar-none scroll-smooth"
             style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
           >
             {/* "All Themes" Tab */}
             <button
               onClick={() => setActiveClusterId(null)}
-              className={`px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all shrink-0 flex items-center gap-2 ${
+              className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-all shrink-0 flex items-center gap-1.5 ${
                 activeClusterId === null
                   ? 'bg-bear-600 text-white shadow-md shadow-bear-600/25 ring-2 ring-bear-600/30'
                   : 'bg-stone-100 dark:bg-stone-800/80 text-stone-700 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700'
@@ -212,7 +212,7 @@ export default function MindMap({
               </span>
             </button>
 
-            {/* Each of the 14 Clusters */}
+            {/* Each of the 14 Clusters - Compact & Elegant */}
             {clusters.map((c, idx) => {
               const count = articlesByCluster[c.id]?.length || c.article_count || 0;
               const isCurrent = activeClusterId === c.id;
@@ -223,14 +223,14 @@ export default function MindMap({
                 <button
                   key={c.id}
                   onClick={() => setActiveClusterId(c.id)}
-                  className={`px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all shrink-0 flex items-center gap-2 border ${
+                  className={`px-3 py-1.5 rounded-xl text-xs font-medium transition-all shrink-0 flex items-center gap-1.5 border ${
                     isCurrent
-                      ? 'bg-stone-900 text-white dark:bg-white dark:text-stone-900 border-transparent shadow-md ring-2 ring-stone-900/20 dark:ring-white/20'
+                      ? 'bg-stone-900 text-white dark:bg-white dark:text-stone-900 border-transparent shadow-md font-bold ring-2 ring-stone-900/20 dark:ring-white/20'
                       : 'bg-white dark:bg-stone-800/50 border-stone-200 dark:border-stone-700/60 text-stone-700 dark:text-stone-300 hover:bg-stone-50 dark:hover:bg-stone-800'
                   }`}
                 >
                   <span className={`w-2 h-2 rounded-full shrink-0 ${theme.dot}`} />
-                  <span className="truncate max-w-[200px] sm:max-w-none">{cName}</span>
+                  <span className="truncate">{cName}</span>
                   <span
                     className={`text-[10px] px-1.5 py-0.2 rounded-full font-mono font-bold ${
                       isCurrent
@@ -245,7 +245,7 @@ export default function MindMap({
             })}
           </div>
 
-          {/* Scroll Left Button on the left side in RTL (points left to advance forward) */}
+          {/* Scroll Left Button (Left side of themes) */}
           <button
             onClick={() => scrollThemes('left')}
             className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-500 hover:text-stone-900 dark:hover:text-white shrink-0 hidden sm:flex items-center justify-center transition-colors"
@@ -254,8 +254,8 @@ export default function MindMap({
             <ChevronLeft className="w-4 h-4" />
           </button>
 
-          {/* View Mode & Zoom Controls (Aligned to the far end with generous space for themes) */}
-          <div className="flex items-center gap-1.5 shrink-0 border-inline-start border-stone-200 dark:border-stone-800 ps-2.5 ms-0.5">
+          {/* Controls Aligned to the Absolute Far Left */}
+          <div className="flex items-center gap-1 shrink-0 border-s border-stone-200 dark:border-stone-800 ps-2 ms-1">
             {/* Real Compact vs Cards View Toggle */}
             <button
               onClick={() => setDisplayMode(displayMode === 'cards' ? 'compact' : 'cards')}
@@ -290,14 +290,14 @@ export default function MindMap({
             <button
               onClick={() => setZoomLevel((z) => Math.min(z + 0.1, 1.2))}
               className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-600 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors"
-              title={isAr ? 'تكبير' : 'Zoom In'}
+              title={isAr ? 'تكبير (+)' : 'Zoom In (+)'}
             >
               <ZoomIn className="w-3.5 h-3.5" />
             </button>
             <button
               onClick={() => setZoomLevel((z) => Math.max(z - 0.1, 0.8))}
               className="p-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-600 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700 transition-colors"
-              title={isAr ? 'تصغير' : 'Zoom Out'}
+              title={isAr ? 'تصغير (-)' : 'Zoom Out (-)'}
             >
               <ZoomOut className="w-3.5 h-3.5" />
             </button>

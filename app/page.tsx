@@ -107,7 +107,10 @@ export default function HomePage() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col bg-stone-50 dark:bg-stone-950 text-stone-900 dark:text-stone-100 transition-colors">
+    <div
+      suppressHydrationWarning
+      className="min-h-screen flex flex-col bg-stone-50 dark:bg-stone-950 text-stone-900 dark:text-stone-100 transition-colors"
+    >
       {/* Navbar */}
       <Navbar
         lang={lang}
