@@ -1,6 +1,5 @@
 import React from 'react';
-import Link from 'next/link';
-import { Search, Globe, Moon, Sun, Sparkles, BookOpen, User, LogOut, Layout } from 'lucide-react';
+import { Search, Globe, Moon, Sun, Sparkles, BookOpen, User, LogOut } from 'lucide-react';
 import { AuthUser } from '@/lib/auth';
 
 import { AppTheme } from '@/lib/theme';
@@ -127,16 +126,6 @@ export default function Navbar({
               <span>{isAr ? 'تسجيل الدخول' : 'Sign In'}</span>
             </button>
           )}
-
-          {/* Switch to V2 Executive Studio Button */}
-          <Link
-            href="/v2"
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl border border-amber-500/40 bg-gradient-to-r from-amber-500/15 via-bear-500/10 to-amber-600/20 hover:border-amber-500 text-stone-900 dark:text-amber-200 text-xs font-black transition-all shadow-xs hover:scale-[1.02] active:scale-[0.98]"
-            title={isAr ? 'الانتقال إلى استوديو المستشار التنفيذي الجديد (V2)' : 'Switch to V2 Executive Studio'}
-          >
-            <Sparkles className="w-3.5 h-3.5 text-amber-500 animate-pulse" />
-            <span>{isAr ? '✨ استوديو V2 الجديد' : '✨ V2 Studio'}</span>
-          </Link>
 
           {/* AI Advisor Button */}
           <button
