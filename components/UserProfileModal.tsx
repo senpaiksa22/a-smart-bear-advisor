@@ -301,11 +301,10 @@ export default function UserProfileModal({
                   type="text"
                   value={newUsername}
                   onChange={(e) => setNewUsername(e.target.value)}
-                  className="w-full px-9 py-2.5 rounded-xl border border-stone-200 dark:border-stone-700 bg-stone-50 dark:bg-stone-800 text-stone-900 dark:text-white text-xs font-medium focus:ring-2 focus:ring-bear-500 focus:outline-hidden transition-all"
+                  className="w-full px-9 py-2.5 rounded-xl border border-stone-200 dark:border-stone-700 bg-stone-50 dark:bg-stone-800 text-stone-900 dark:text-white text-base sm:text-xs font-medium focus:ring-2 focus:ring-bear-500 focus:outline-hidden transition-all"
                   required
                   minLength={3}
                   maxLength={25}
-                  autoFocus
                 />
               </div>
             </div>
@@ -381,10 +380,9 @@ export default function UserProfileModal({
                   value={newPassword}
                   onChange={(e) => setNewPassword(e.target.value)}
                   placeholder={isAr ? 'أدخل كلمة مرور جديدة (6 خانات على الأقل)' : 'At least 6 characters'}
-                  className="w-full px-9 py-2.5 rounded-xl border border-stone-200 dark:border-stone-700 bg-stone-50 dark:bg-stone-800 text-stone-900 dark:text-white text-xs font-medium focus:ring-2 focus:ring-bear-500 focus:outline-hidden transition-all"
+                  className="w-full px-9 py-2.5 rounded-xl border border-stone-200 dark:border-stone-700 bg-stone-50 dark:bg-stone-800 text-stone-900 dark:text-white text-base sm:text-xs font-medium focus:ring-2 focus:ring-bear-500 focus:outline-hidden transition-all"
                   required
                   minLength={6}
-                  autoFocus
                 />
               </div>
             </div>
@@ -400,7 +398,7 @@ export default function UserProfileModal({
                   value={confirmPassword}
                   onChange={(e) => setConfirmPassword(e.target.value)}
                   placeholder={isAr ? 'أعد كتابة كلمة المرور للتأكيد' : 'Re-enter your new password'}
-                  className="w-full px-9 py-2.5 rounded-xl border border-stone-200 dark:border-stone-700 bg-stone-50 dark:bg-stone-800 text-stone-900 dark:text-white text-xs font-medium focus:ring-2 focus:ring-bear-500 focus:outline-hidden transition-all"
+                  className="w-full px-9 py-2.5 rounded-xl border border-stone-200 dark:border-stone-700 bg-stone-50 dark:bg-stone-800 text-stone-900 dark:text-white text-base sm:text-xs font-medium focus:ring-2 focus:ring-bear-500 focus:outline-hidden transition-all"
                   required
                   minLength={6}
                 />

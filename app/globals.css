@@ -729,3 +729,12 @@ body {
   color: inherit;
 }
 
+/* Prevent iOS Safari / iPhone automatic zooming when focusing inputs or textareas */
+@media screen and (max-width: 768px) {
+  input:not([type="checkbox"]):not([type="radio"]):not([type="range"]),
+  select,
+  textarea {
+    font-size: 16px !important;
+  }
+}
+

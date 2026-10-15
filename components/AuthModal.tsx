@@ -160,7 +160,7 @@ export default function AuthModal({
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
                 placeholder={isAr ? 'أدخل اسم المستخدم' : 'Enter username'}
-                className="w-full bg-stone-50 dark:bg-stone-950 border border-stone-200 dark:border-stone-800 rounded-xl px-4 py-2.5 rtl:pr-10 ltr:pl-10 text-stone-900 dark:text-white placeholder-stone-400 focus:outline-none focus:ring-2 focus:ring-bear-500 text-sm font-medium transition-all"
+                className="w-full bg-stone-50 dark:bg-stone-950 border border-stone-200 dark:border-stone-800 rounded-xl px-4 py-2.5 rtl:pr-10 ltr:pl-10 text-stone-900 dark:text-white placeholder-stone-400 focus:outline-none focus:ring-2 focus:ring-bear-500 text-base sm:text-sm font-medium transition-all"
               />
             </div>
           </div>
@@ -186,7 +186,7 @@ export default function AuthModal({
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
                 placeholder={isAr ? 'أدخل كلمة المرور' : 'Enter password'}
-                className="w-full bg-stone-50 dark:bg-stone-950 border border-stone-200 dark:border-stone-800 rounded-xl px-4 py-2.5 rtl:pr-10 ltr:pl-10 text-stone-900 dark:text-white placeholder-stone-400 focus:outline-none focus:ring-2 focus:ring-bear-500 text-sm font-medium transition-all"
+                className="w-full bg-stone-50 dark:bg-stone-950 border border-stone-200 dark:border-stone-800 rounded-xl px-4 py-2.5 rtl:pr-10 ltr:pl-10 text-stone-900 dark:text-white placeholder-stone-400 focus:outline-none focus:ring-2 focus:ring-bear-500 text-base sm:text-sm font-medium transition-all"
               />
             </div>
             <p className="text-[11px] text-stone-400 dark:text-stone-500 mt-1">
