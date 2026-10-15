@@ -9,10 +9,11 @@ import AuthModal from '@/components/AuthModal';
 import AdvisorPanel from '@/components/AdvisorPanel';
 import { Article, Cluster } from '@/lib/types';
 import { AuthUser } from '@/lib/auth';
+import { AppTheme, applyTheme, getInitialTheme } from '@/lib/theme';
 
 export default function HomeClient() {
   const [lang, setLang] = useState<'ar' | 'en'>('ar');
-  const [darkMode, setDarkMode] = useState<boolean>(false);
+  const [theme, setTheme] = useState<AppTheme>('light');
   const [articles, setArticles] = useState<Article[]>([]);
   const [clusters, setClusters] = useState<Cluster[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
@@ -77,14 +78,17 @@ export default function HomeClient() {
     document.documentElement.lang = lang;
   }, [lang, isAr]);
 
-  // Toggle dark mode class on html
+  // Initialize theme from localStorage
   useEffect(() => {
-    if (darkMode) {
-      document.documentElement.classList.add('dark');
-    } else {
-      document.documentElement.classList.remove('dark');
-    }
-  }, [darkMode]);
+    const initial = getInitialTheme();
+    setTheme(initial);
+    applyTheme(initial);
+  }, []);
+
+  const handleThemeChange = (newTheme: AppTheme) => {
+    setTheme(newTheme);
+    applyTheme(newTheme);
+  };
 
   // Fetch articles and clusters
   useEffect(() => {
@@ -114,8 +118,8 @@ export default function HomeClient() {
       <Navbar
         lang={lang}
         setLang={setLang}
-        darkMode={darkMode}
-        setDarkMode={setDarkMode}
+        theme={theme}
+        setTheme={handleThemeChange}
         onOpenSearch={() => setSearchOpen(true)}
         onOpenAdvisor={() => {
           setAdvisorContextArticle(null);
@@ -164,8 +168,8 @@ export default function HomeClient() {
         onClose={() => setSelectedArticle(null)}
         lang={lang}
         onConsultJason={handleConsultJason}
-        darkMode={darkMode}
-        onToggleDarkMode={() => setDarkMode(!darkMode)}
+        theme={theme}
+        onThemeChange={handleThemeChange}
       />
 
       {/* Auth Modal (Password Manager Compliant) */}

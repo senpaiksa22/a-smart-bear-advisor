@@ -2,11 +2,14 @@ import React from 'react';
 import { Search, Globe, Moon, Sun, Sparkles, BookOpen, User, LogOut } from 'lucide-react';
 import { AuthUser } from '@/lib/auth';
 
+import { AppTheme } from '@/lib/theme';
+import ThemeSelector from '@/components/ThemeSelector';
+
 interface NavbarProps {
   lang: 'ar' | 'en';
   setLang: (lang: 'ar' | 'en') => void;
-  darkMode: boolean;
-  setDarkMode: (val: boolean) => void;
+  theme: AppTheme;
+  setTheme: (theme: AppTheme) => void;
   onOpenSearch: () => void;
   onOpenAdvisor: () => void;
   articleCount?: number;
@@ -18,8 +21,8 @@ interface NavbarProps {
 export default function Navbar({
   lang,
   setLang,
-  darkMode,
-  setDarkMode,
+  theme,
+  setTheme,
   onOpenSearch,
   onOpenAdvisor,
   articleCount = 213,
@@ -92,14 +95,12 @@ export default function Navbar({
             <span>{isAr ? 'English' : 'عربي'}</span>
           </button>
 
-          {/* Dark Mode Toggle */}
-          <button
-            onClick={() => setDarkMode(!darkMode)}
-            className="p-2 rounded-xl text-stone-600 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors border border-transparent hover:border-stone-200 dark:border-stone-800"
-            title={isAr ? 'تبديل المظهر' : 'Toggle Theme'}
-          >
-            {darkMode ? <Sun className="w-4 h-4" /> : <Moon className="w-4 h-4" />}
-          </button>
+          {/* 6 Color Themes Selector */}
+          <ThemeSelector
+            currentTheme={theme}
+            onThemeChange={setTheme}
+            lang={lang}
+          />
 
           {/* User Auth Status / Sign-In Button */}
           {user ? (
