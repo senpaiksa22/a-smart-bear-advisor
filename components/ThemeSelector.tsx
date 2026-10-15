@@ -96,14 +96,21 @@ export default function ThemeSelector({
 
       {/* Dropdown Menu (10 Signature Themes - Clean 2-Column Grid) */}
       {isOpen && (
-        <div
-          className={`absolute top-full mt-2 z-50 w-[360px] sm:w-[420px] max-w-[calc(100vw-2rem)] p-2.5 rounded-2xl bg-white dark:bg-[#151722] border border-stone-200 dark:border-stone-800 shadow-2xl backdrop-blur-xl animate-in fade-in zoom-in-95 duration-150 ${
-            isAr ? 'right-0' : 'left-0'
-          }`}
-          style={{
-            direction: isAr ? 'rtl' : 'ltr',
-          }}
-        >
+        <>
+          {/* Mobile backdrop */}
+          <div
+            className="fixed inset-0 z-[85] bg-black/40 sm:hidden backdrop-blur-2xs"
+            onClick={() => setIsOpen(false)}
+          />
+
+          <div
+            className={`fixed inset-x-3 top-16 sm:absolute sm:top-full sm:mt-2 sm:inset-x-auto z-[90] sm:w-[420px] max-w-full p-2.5 rounded-2xl bg-white dark:bg-[#151722] border border-stone-200 dark:border-stone-800 shadow-2xl backdrop-blur-xl animate-in fade-in zoom-in-95 duration-150 ${
+              isAr ? 'sm:right-0 sm:left-auto' : 'sm:left-0 sm:right-auto'
+            }`}
+            style={{
+              direction: isAr ? 'rtl' : 'ltr',
+            }}
+          >
           {/* Header */}
           <div className="px-2.5 py-2 border-b border-stone-100 dark:border-stone-800/80 mb-2 flex items-center justify-between">
             <div className="flex items-center gap-1.5 text-xs font-black text-stone-800 dark:text-stone-200">
@@ -215,7 +222,8 @@ export default function ThemeSelector({
             })}
           </div>
         </div>
-      )}
-    </div>
+      </>
+    )}
+  </div>
   );
 }

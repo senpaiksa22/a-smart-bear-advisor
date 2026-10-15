@@ -57,13 +57,26 @@ export default function ArticleDrawer({
   const isAr = lang === 'ar';
   const isContentAr = contentLang === 'ar';
 
-  // Prevent background scroll bleed when reader is open
+  // Prevent background scroll bleed when reader is open (Rock-solid iOS & desktop lock)
   useEffect(() => {
     if (article) {
+      const scrollY = window.scrollY;
       const originalOverflow = document.body.style.overflow;
+      const originalPosition = document.body.style.position;
+      const originalTop = document.body.style.top;
+      const originalWidth = document.body.style.width;
+
       document.body.style.overflow = 'hidden';
+      document.body.style.position = 'fixed';
+      document.body.style.top = `-${scrollY}px`;
+      document.body.style.width = '100%';
+
       return () => {
         document.body.style.overflow = originalOverflow;
+        document.body.style.position = originalPosition;
+        document.body.style.top = originalTop;
+        document.body.style.width = originalWidth;
+        window.scrollTo(0, scrollY);
       };
     }
   }, [article]);
@@ -145,22 +158,22 @@ export default function ArticleDrawer({
 
   return (
     <div
-      className="fixed inset-0 z-50 overflow-y-auto bg-stone-50/98 dark:bg-[#0c0d14]/98 backdrop-blur-xl animate-in fade-in duration-200"
+      className="fixed inset-0 z-50 overflow-y-auto overscroll-contain bg-stone-50/98 dark:bg-[#0c0d14]/98 backdrop-blur-xl animate-in fade-in duration-200"
       style={{ direction: isContentAr ? 'rtl' : 'ltr' }}
     >
       {/* ==================================================================== */}
       {/* TOP NAVIGATION & CONTROLS BAR */}
       {/* ==================================================================== */}
-      <div className="sticky top-0 z-30 w-full bg-white/95 dark:bg-[#12141e]/95 backdrop-blur-md border-b border-stone-200/80 dark:border-stone-800/80 shadow-xs">
+      <div className="sticky top-0 z-30 w-full bg-white/95 dark:bg-[#12141e]/95 backdrop-blur-md border-b border-stone-200/80 dark:border-stone-800/80 shadow-xs touch-none overscroll-contain select-none">
         <div className="max-w-5xl mx-auto px-2.5 sm:px-6 h-14 sm:h-16 flex items-center justify-between gap-1.5 sm:gap-3">
           {/* Back Button */}
           <button
             onClick={onClose}
             className="flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-3.5 py-1.5 sm:py-2 rounded-xl text-xs sm:text-sm font-bold bg-stone-100 dark:bg-stone-800/80 text-stone-700 dark:text-stone-200 hover:bg-stone-200 dark:hover:bg-stone-700 transition-all shadow-xs shrink-0"
+            title={isContentAr ? 'العودة إلى الخريطة' : 'Back to Map'}
           >
             {isContentAr ? <ArrowRight className="w-4 h-4 shrink-0" /> : <ArrowLeft className="w-4 h-4 shrink-0" />}
             <span className="hidden sm:inline">{isContentAr ? 'العودة إلى الخريطة' : 'Back to Map'}</span>
-            <span className="sm:hidden">{isContentAr ? 'الخريطة' : 'Back'}</span>
           </button>
 
           {/* Action Center: Language Switcher, Theme & Consult Jason */}
@@ -184,16 +197,15 @@ export default function ArticleDrawer({
               />
             )}
 
-            {/* Consult Jason Button */}
+            {/* Consult Jason Button (Full phrase on both mobile & desktop) */}
             <button
               onClick={() => onConsultJason(article)}
-              className="flex items-center gap-1.5 px-2.5 sm:px-3.5 py-1.5 sm:py-2 rounded-xl bg-gradient-to-r from-bear-600 to-amber-600 hover:from-bear-700 hover:to-amber-700 text-white font-bold text-xs sm:text-sm shadow-md shadow-bear-600/20 active:scale-95 transition-all shrink-0"
+              className="flex items-center gap-1.5 px-2.5 sm:px-3.5 py-1.5 sm:py-2 rounded-xl bg-gradient-to-r from-bear-600 to-amber-600 hover:from-bear-700 hover:to-amber-700 text-white font-bold text-xs sm:text-sm shadow-md shadow-bear-600/20 active:scale-95 transition-all shrink-0 whitespace-nowrap"
             >
               <Sparkles className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-amber-200 shrink-0" />
-              <span className="hidden sm:inline">
+              <span>
                 {isContentAr ? 'استشر جيسون حول هذا المبدأ' : 'Consult Jason'}
               </span>
-              <span className="sm:hidden">{isContentAr ? 'استشر' : 'Ask'}</span>
             </button>
           </div>
         </div>
