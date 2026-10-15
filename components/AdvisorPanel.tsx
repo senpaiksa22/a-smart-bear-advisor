@@ -20,6 +20,7 @@ import {
   History,
   AlertCircle,
   ExternalLink,
+  Bug,
 } from 'lucide-react';
 import { Article } from '@/lib/types';
 import { AuthUser } from '@/lib/auth';
@@ -50,6 +51,7 @@ interface AdvisorPanelProps {
   onOpenAuth: () => void;
   contextArticle?: Article | null;
   onClearContext?: () => void;
+  onOpenFeedback?: (errorText?: string) => void;
 }
 
 export default function AdvisorPanel({
@@ -60,6 +62,7 @@ export default function AdvisorPanel({
   onOpenAuth,
   contextArticle,
   onClearContext,
+  onOpenFeedback,
 }: AdvisorPanelProps) {
   const isAr = lang === 'ar';
 
@@ -578,14 +581,24 @@ export default function AdvisorPanel({
 
             {/* Error Message Pill */}
             {errorMessage && (
-              <div className="mx-4 mt-2 p-2.5 rounded-xl bg-red-50 dark:bg-red-950/40 border border-red-500/20 text-xs text-red-700 dark:text-red-300 flex items-center justify-between">
-                <div className="flex items-center gap-2">
+              <div className="mx-4 mt-2 p-2.5 rounded-xl bg-red-50 dark:bg-red-950/40 border border-red-500/20 text-xs text-red-700 dark:text-red-300 flex items-center justify-between gap-2">
+                <div className="flex items-center gap-2 min-w-0">
                   <AlertCircle className="w-4 h-4 flex-shrink-0 text-red-500" />
-                  <span>{errorMessage}</span>
+                  <span className="truncate">{errorMessage}</span>
                 </div>
-                <button onClick={() => setErrorMessage(null)} className="text-red-400 p-0.5">
-                  <X className="w-3.5 h-3.5" />
-                </button>
+                <div className="flex items-center gap-2 shrink-0">
+                  {onOpenFeedback && (
+                    <button
+                      onClick={() => onOpenFeedback(errorMessage)}
+                      className="px-2 py-0.5 rounded-lg bg-red-100 dark:bg-red-900/60 text-red-700 dark:text-red-200 font-bold hover:bg-red-200 transition-colors text-[11px]"
+                    >
+                      {isAr ? 'أبلغ المطورين فوراً' : 'Report this'}
+                    </button>
+                  )}
+                  <button onClick={() => setErrorMessage(null)} className="text-red-400 hover:text-red-600 p-0.5">
+                    <X className="w-3.5 h-3.5" />
+                  </button>
+                </div>
               </div>
             )}
 
@@ -809,11 +822,21 @@ export default function AdvisorPanel({
                         ? 'النموذج المختار: ' + currentModelObj.name
                         : 'Selected Model: ' + currentModelObj.name}
                     </span>
-                    <span>
-                      {isAr
-                        ? 'بياناتك معزولة ومشفرة بنسبة 100%'
-                        : 'Isolated & encrypted sessions'}
-                    </span>
+                    {onOpenFeedback ? (
+                      <button
+                        onClick={() => onOpenFeedback()}
+                        className="hover:text-bear-600 dark:hover:text-bear-400 underline underline-offset-2 flex items-center gap-1 transition-colors"
+                      >
+                        <Bug className="w-3 h-3" />
+                        <span>{isAr ? 'إبلاغ عن مشكلة' : 'Report issue'}</span>
+                      </button>
+                    ) : (
+                      <span>
+                        {isAr
+                          ? 'بياناتك معزولة ومشفرة بنسبة 100%'
+                          : 'Isolated & encrypted sessions'}
+                      </span>
+                    )}
                   </div>
                 </div>
               )}

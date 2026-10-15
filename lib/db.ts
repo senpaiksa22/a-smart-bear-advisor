@@ -24,6 +24,7 @@ interface LocalDB {
   users: Array<{ id: string; username: string; password_hash: string; created_at: string }>;
   conversations: Array<{ id: string; user_id: string; title: string; model_used: string; created_at: string; updated_at: string }>;
   messages: Array<{ id: string; conversation_id: string; user_id: string; role: string; content: string; created_at: string }>;
+  feedbacks?: Array<any>;
 }
 
 function getLocalDB(): LocalDB {
@@ -274,4 +275,55 @@ export async function getMessages(userId: string, conversationId: string) {
   return db.messages
     .filter((m) => m.conversation_id === conversationId && m.user_id === userId)
     .sort((a, b) => new Date(a.created_at).getTime() - new Date(b.created_at).getTime());
+}
+
+export interface FeedbackReport {
+  id?: string;
+  user_id?: string | null;
+  username?: string | null;
+  category: 'bug' | 'suggestion' | 'content';
+  message: string;
+  error_details?: string | null;
+  page_url?: string | null;
+  contact_info?: string | null;
+  created_at?: string;
+}
+
+export async function saveFeedbackReport(report: FeedbackReport) {
+  if (supabaseClient) {
+    try {
+      const { data, error } = await supabaseClient
+        .from('feedback_reports')
+        .insert({
+          user_id: report.user_id || null,
+          username: report.username || null,
+          category: report.category,
+          message: report.message,
+          error_details: report.error_details || null,
+          page_url: report.page_url || null,
+          contact_info: report.contact_info || null,
+        })
+        .select('*')
+        .single();
+
+      if (error) {
+        console.warn('Supabase feedback insert warning:', error.message);
+      }
+      return data || report;
+    } catch (e) {
+      console.warn('Supabase feedback insert exception:', e);
+      return report;
+    }
+  }
+
+  const db = getLocalDB();
+  if (!db.feedbacks) (db as any).feedbacks = [];
+  const entry = {
+    id: crypto.randomUUID(),
+    ...report,
+    created_at: new Date().toISOString(),
+  };
+  (db as any).feedbacks.push(entry);
+  saveLocalDB(db);
+  return entry;
 }

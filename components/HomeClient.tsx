@@ -7,6 +7,8 @@ import SearchModal from '@/components/SearchModal';
 import ArticleDrawer from '@/components/ArticleDrawer';
 import AuthModal from '@/components/AuthModal';
 import AdvisorPanel from '@/components/AdvisorPanel';
+import FeedbackModal from '@/components/FeedbackModal';
+import { MessageSquare } from 'lucide-react';
 import { Article, Cluster } from '@/lib/types';
 import { AuthUser } from '@/lib/auth';
 import { AppTheme, applyTheme, getInitialTheme } from '@/lib/theme';
@@ -24,6 +26,13 @@ export default function HomeClient() {
   const [user, setUser] = useState<AuthUser | null>(null);
   const [authModalOpen, setAuthModalOpen] = useState<boolean>(false);
   const [favorites, setFavorites] = useState<string[]>([]);
+  const [feedbackOpen, setFeedbackOpen] = useState<boolean>(false);
+  const [feedbackErrorDetails, setFeedbackErrorDetails] = useState<string | null>(null);
+
+  const handleOpenFeedback = (err?: string) => {
+    setFeedbackErrorDetails(err || null);
+    setFeedbackOpen(true);
+  };
 
   const isAr = lang === 'ar';
 
@@ -271,6 +280,27 @@ export default function HomeClient() {
         onOpenAuth={() => setAuthModalOpen(true)}
         contextArticle={advisorContextArticle}
         onClearContext={() => setAdvisorContextArticle(null)}
+        onOpenFeedback={handleOpenFeedback}
+      />
+
+      {/* Floating Developer Feedback / Bug Report Trigger */}
+      <div className="fixed bottom-4 left-4 rtl:left-auto rtl:right-4 z-30 animate-in fade-in slide-in-from-bottom-2 duration-300">
+        <button
+          onClick={() => handleOpenFeedback()}
+          className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white/95 dark:bg-stone-900/95 hover:bg-bear-50 dark:hover:bg-stone-800 text-stone-600 dark:text-stone-300 hover:text-bear-700 dark:hover:text-bear-300 border border-stone-200/90 dark:border-stone-800 shadow-md backdrop-blur-md text-xs font-bold transition-all hover:scale-105 active:scale-95 group"
+          title={isAr ? 'إبلاغ عن مشكلة أو اقتراح فكرة للمطور' : 'Report a bug or suggest an idea'}
+        >
+          <MessageSquare className="w-3.5 h-3.5 text-bear-600 group-hover:scale-110 transition-transform" />
+          <span>{isAr ? 'إبلاغ عن مشكلة / اقتراح' : 'Feedback & Bug Report'}</span>
+        </button>
+      </div>
+
+      {/* Developer Feedback & Bug Modal */}
+      <FeedbackModal
+        isOpen={feedbackOpen}
+        onClose={() => setFeedbackOpen(false)}
+        lang={lang}
+        initialError={feedbackErrorDetails}
       />
     </div>
   );

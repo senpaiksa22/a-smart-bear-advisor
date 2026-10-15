@@ -34,18 +34,34 @@ CREATE TABLE IF NOT EXISTS messages (
     user_id UUID NOT NULL REFERENCES app_users(id) ON DELETE CASCADE,
     role TEXT NOT NULL CHECK (role IN ('user', 'assistant', 'system')),
     content TEXT NOT NULL,
+    model_used TEXT,
     created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
 );
+
+-- Ensure model_used column exists if table was previously created
+ALTER TABLE messages ADD COLUMN IF NOT EXISTS model_used TEXT;
 
 -- Indexes on conversation_id and user_id for message history and security isolation
 CREATE INDEX IF NOT EXISTS idx_messages_conversation_id ON messages (conversation_id);
 CREATE INDEX IF NOT EXISTS idx_messages_user_id ON messages (user_id);
 
--- 4. Enable Row Level Security (RLS)
+-- 4. Create feedback_reports table (User Bug & Feedback Reporting System)
+CREATE TABLE IF NOT EXISTS feedback_reports (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    user_id UUID REFERENCES app_users(id) ON DELETE SET NULL,
+    username TEXT,
+    category TEXT NOT NULL DEFAULT 'bug',
+    message TEXT NOT NULL,
+    error_details TEXT,
+    page_url TEXT,
+    contact_info TEXT,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
+);
+
+CREATE INDEX IF NOT EXISTS idx_feedback_reports_created ON feedback_reports (created_at DESC);
+
+-- 5. Enable Row Level Security (RLS)
 ALTER TABLE app_users ENABLE ROW LEVEL SECURITY;
 ALTER TABLE conversations ENABLE ROW LEVEL SECURITY;
 ALTER TABLE messages ENABLE ROW LEVEL SECURITY;
-
--- Notice: Because all operations in this app are executed server-side via Next.js
--- using the Supabase Service Role Key (Zero Client Exposure), the service role
--- bypasses RLS while strictly enforcing user_id matching in internal server queries.
+ALTER TABLE feedback_reports ENABLE ROW LEVEL SECURITY;
