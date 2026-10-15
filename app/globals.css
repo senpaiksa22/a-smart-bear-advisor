@@ -24,15 +24,15 @@
   --scrollbar-thumb: rgba(134, 166, 120, 0.3);
 }
 
-/* 2. Sand / Muted Beige (بيج هادئ مريح للعين بدون بياض فاقع) */
+/* 2. Sand / Muted Beige (بيج هادئ مريح للعين بدون أي سطوع فاقع) */
 [data-theme='sand'] {
-  --background: #eee7dc;
-  --foreground: #2c2722;
-  --surface-primary: #f8f4ec;
-  --surface-secondary: #e5ded2;
-  --border-subtle: #d6ccbd;
-  --accent-theme: #8c5e39;
-  --scrollbar-thumb: rgba(140, 94, 57, 0.35);
+  --background: #dfd6c5;
+  --foreground: #262018;
+  --surface-primary: #e9e0d0;
+  --surface-secondary: #dcd0bd;
+  --border-subtle: #cbbeaa;
+  --accent-theme: #8c532b;
+  --scrollbar-thumb: rgba(140, 83, 43, 0.4);
 }
 
 /* 3. Sepia (ورقي / كهرمان دافئ) */
@@ -88,47 +88,109 @@ body {
 
 /* Dynamic theme overrides for panels, headers and drawers */
 /* Sand / Muted Beige Theme Overrides (Anti-glare, eye-comfortable reading) */
-[data-theme='sand'] .bg-stone-50,
-[data-theme='sand'] .bg-\[\#fbfbfb\] {
+[data-theme='sand'],
+[data-theme='sand'] body {
   background-color: var(--background) !important;
+  color: var(--foreground) !important;
 }
-[data-theme='sand'] .bg-white {
+
+/* Eliminate all pure whites and high-luminance variations */
+[data-theme='sand'] .bg-white,
+[data-theme='sand'] [class*='bg-white'] {
   background-color: var(--surface-primary) !important;
 }
-[data-theme='sand'] .bg-stone-100 {
+
+[data-theme='sand'] .bg-stone-50,
+[data-theme='sand'] [class*='bg-stone-50'],
+[data-theme='sand'] .bg-\[\#fbfbfb\],
+[data-theme='sand'] [class*='bg-\[\#fbfbfb\]'] {
+  background-color: var(--background) !important;
+}
+
+[data-theme='sand'] .bg-stone-100,
+[data-theme='sand'] [class*='bg-stone-100'],
+[data-theme='sand'] .bg-stone-200,
+[data-theme='sand'] [class*='bg-stone-200'] {
   background-color: var(--surface-secondary) !important;
 }
-[data-theme='sand'] .border-stone-200 {
+
+[data-theme='sand'] .border-stone-200,
+[data-theme='sand'] [class*='border-stone-200'],
+[data-theme='sand'] [class*='border-stone-300'],
+[data-theme='sand'] [class*='border-stone-100'] {
   border-color: var(--border-subtle) !important;
 }
-[data-theme='sand'] .text-stone-900 {
-  color: #2c2722 !important;
+
+[data-theme='sand'] .text-stone-900,
+[data-theme='sand'] [class*='text-stone-900'] {
+  color: #262018 !important;
 }
-[data-theme='sand'] .text-stone-700 {
-  color: #453e37 !important;
+
+[data-theme='sand'] .text-stone-800,
+[data-theme='sand'] [class*='text-stone-800'] {
+  color: #383025 !important;
 }
-[data-theme='sand'] .text-stone-600 {
-  color: #5c544b !important;
+
+[data-theme='sand'] .text-stone-700,
+[data-theme='sand'] [class*='text-stone-700'] {
+  color: #4a4033 !important;
 }
-[data-theme='sand'] .text-stone-500 {
-  color: #7d7469 !important;
+
+[data-theme='sand'] .text-stone-600,
+[data-theme='sand'] [class*='text-stone-600'] {
+  color: #615444 !important;
 }
+
+[data-theme='sand'] .text-stone-500,
+[data-theme='sand'] [class*='text-stone-500'] {
+  color: #7a6b57 !important;
+}
+
+[data-theme='sand'] .text-stone-400,
+[data-theme='sand'] [class*='text-stone-400'] {
+  color: #8c7b66 !important;
+}
+
+/* Reader Typography Overrides in Sand Theme */
+[data-theme='sand'] .prose-bear {
+  color: #262018 !important;
+}
+
+[data-theme='sand'] .prose-bear h1,
+[data-theme='sand'] .prose-bear h2,
+[data-theme='sand'] .prose-bear h3,
+[data-theme='sand'] .prose-bear h4 {
+  color: #1a150f !important;
+}
+
 [data-theme='sand'] .prose-bear blockquote {
-  background-color: #e5ded2 !important;
-  border-inline-start-color: #8c5e39 !important;
-  color: #38312b !important;
+  background-color: #dcd0bd !important;
+  border-inline-start-color: #8c532b !important;
+  color: #383025 !important;
 }
+
+[data-theme='sand'] .prose-bear table {
+  border-color: #cbbeaa !important;
+}
+
 [data-theme='sand'] .prose-bear table th {
-  background-color: #e5ded2 !important;
-  color: #2c2722 !important;
-  border-color: #d6ccbd !important;
+  background-color: #dcd0bd !important;
+  color: #1a150f !important;
+  border-color: #cbbeaa !important;
 }
+
 [data-theme='sand'] .prose-bear table td {
-  border-color: #d6ccbd !important;
+  border-color: #cbbeaa !important;
 }
+
 [data-theme='sand'] .prose-bear code {
-  background-color: #e5ded2 !important;
-  color: #8c5e39 !important;
+  background-color: #dcd0bd !important;
+  color: #8c532b !important;
+}
+
+[data-theme='sand'] .prose-bear img {
+  background-color: #e9e0d0 !important;
+  border-color: #cbbeaa !important;
 }
 
 [data-theme='sepia'] .bg-stone-50,
