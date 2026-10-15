@@ -414,6 +414,8 @@ export default function HomeClient() {
         onToggleFavorite={handleToggleFavorite}
         user={user}
         onOpenAuth={() => setAuthModalOpen(true)}
+        articles={articles}
+        onSelectArticle={handleSelectArticle}
       />
 
       {/* Auth Modal (Password Manager Compliant) */}

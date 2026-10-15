@@ -193,19 +193,16 @@ export function applyTheme(theme: AppTheme) {
     document.body.style.backgroundColor = themeBgColor;
   }
 
-  // Update or insert <meta name="theme-color"> for iOS Safari address bar & Android chrome
+  // Remove ALL existing meta[name="theme-color"] tags completely (essential for iOS Safari WebKit live update)
   try {
     const existingMetas = document.querySelectorAll('meta[name="theme-color"]');
-    if (existingMetas.length > 0) {
-      existingMetas.forEach((meta) => {
-        meta.setAttribute('content', themeBgColor);
-      });
-    } else {
-      const meta = document.createElement('meta');
-      meta.name = 'theme-color';
-      meta.content = themeBgColor;
-      document.head.appendChild(meta);
-    }
+    existingMetas.forEach((m) => m.remove());
+
+    // Insert clean new meta tag
+    const newMeta = document.createElement('meta');
+    newMeta.setAttribute('name', 'theme-color');
+    newMeta.setAttribute('content', themeBgColor);
+    document.head.appendChild(newMeta);
 
     // Update iOS status bar appearance (light text on dark backgrounds, dark text on light backgrounds)
     let appleMeta = document.querySelector('meta[name="apple-mobile-web-app-status-bar-style"]');
@@ -215,6 +212,14 @@ export function applyTheme(theme: AppTheme) {
       document.head.appendChild(appleMeta);
     }
     appleMeta.setAttribute('content', isDark ? 'black-translucent' : 'default');
+
+    // Force WebKit compositor update
+    requestAnimationFrame(() => {
+      document.documentElement.style.backgroundColor = themeBgColor;
+      if (document.body) {
+        document.body.style.backgroundColor = themeBgColor;
+      }
+    });
   } catch (e) {
     console.error('Error updating theme-color meta:', e);
   }

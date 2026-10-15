@@ -35,6 +35,8 @@ interface ArticleDrawerProps {
   onToggleFavorite?: (slug: string) => void;
   user?: AuthUser | null;
   onOpenAuth?: () => void;
+  articles?: Article[];
+  onSelectArticle?: (article: Article) => void;
 }
 
 export default function ArticleDrawer({
@@ -48,6 +50,8 @@ export default function ArticleDrawer({
   onToggleFavorite,
   user,
   onOpenAuth,
+  articles = [],
+  onSelectArticle,
 }: ArticleDrawerProps) {
   const [contentLang, setContentLang] = useState<'ar' | 'en'>(lang);
   const [fullContent, setFullContent] = useState<string>('');
@@ -121,6 +125,28 @@ export default function ArticleDrawer({
     navigator.clipboard.writeText(shareUrl);
     setCopiedLink(true);
     setTimeout(() => setCopiedLink(false), 2000);
+  };
+
+  const handleArticleContentClick = (e: React.MouseEvent<HTMLDivElement>) => {
+    const target = (e.target as HTMLElement).closest('a[data-article-slug]');
+    if (target) {
+      e.preventDefault();
+      const slug = target.getAttribute('data-article-slug');
+      if (slug && onSelectArticle) {
+        const found = articles.find(
+          (a) =>
+            a.slug.toLowerCase() === slug.toLowerCase() ||
+            a.url.toLowerCase().includes(slug.toLowerCase())
+        );
+        if (found) {
+          onSelectArticle(found);
+          const scrollContainer = document.querySelector('.overflow-y-auto');
+          if (scrollContainer) {
+            scrollContainer.scrollTo({ top: 0, behavior: 'smooth' });
+          }
+        }
+      }
+    }
   };
 
   // Parse markdown content clean of frontmatter & duplicated titles
@@ -371,7 +397,9 @@ export default function ArticleDrawer({
               </p>
             </div>
           ) : cleanBody ? (
-            <MarkdownRenderer content={cleanBody} isAr={isContentAr} />
+            <div onClick={handleArticleContentClick}>
+              <MarkdownRenderer content={cleanBody} isAr={isContentAr} articles={articles} />
+            </div>
           ) : (
             <div className="text-center py-12 text-stone-400">
               {isContentAr ? 'المحتوى قيد التحديث' : 'Content unavailable'}
@@ -411,16 +439,63 @@ export default function ArticleDrawer({
 // ==============================================================================
 // High-Fidelity Markdown Renderer via marked with Full Typography & Table Support
 // ==============================================================================
-function MarkdownRenderer({ content, isAr }: { content: string; isAr: boolean }) {
+function MarkdownRenderer({
+  content,
+  isAr,
+  articles = [],
+}: {
+  content: string;
+  isAr: boolean;
+  articles?: Article[];
+}) {
   const html = useMemo(() => {
     if (!content) return '';
     try {
       const renderer = new marked.Renderer();
+
       renderer.image = ({ href, text, title }: { href: string; text: string; title?: string | null }) => {
         return `<figure class="my-6 text-center">
           <img src="${href}" alt="${text || ''}" loading="lazy" class="rounded-xl border border-stone-200 dark:border-stone-800 shadow-md max-w-full h-auto mx-auto block" onerror="this.onerror=null; const p = this.closest('figure'); if(p) p.style.display='none'; else this.style.display='none';" />
           ${text ? `<figcaption class="text-xs text-stone-400 dark:text-stone-500 mt-2 text-center italic">${text}</figcaption>` : ''}
         </figure>`;
+      };
+
+      renderer.link = ({ href, text, title }: { href: string; text: string; title?: string | null }) => {
+        if (!href) return text;
+
+        // Check if link points to another Smart Bear essay
+        let matchedSlug = '';
+        try {
+          if (href.includes('asmartbear.com')) {
+            const urlObj = new URL(href, 'https://asmartbear.com');
+            const pathParts = urlObj.pathname.split('/').filter(Boolean);
+            if (pathParts.length > 0) {
+              matchedSlug = pathParts[pathParts.length - 1];
+            }
+          } else if (href.startsWith('/') && !href.startsWith('//')) {
+            const pathParts = href.split('/').filter(Boolean);
+            if (pathParts.length > 0) {
+              matchedSlug = pathParts[pathParts.length - 1];
+            }
+          }
+        } catch {}
+
+        const matchedArticle = matchedSlug
+          ? articles.find(
+              (a) =>
+                a.slug.toLowerCase() === matchedSlug.toLowerCase() ||
+                a.url.toLowerCase().includes(matchedSlug.toLowerCase())
+            )
+          : null;
+
+        if (matchedArticle) {
+          const targetTitle = isAr
+            ? matchedArticle.title_ar || matchedArticle.title_en
+            : matchedArticle.title_en;
+          return `<a href="?article=${encodeURIComponent(matchedArticle.slug)}" data-article-slug="${matchedArticle.slug}" class="internal-article-link inline font-bold text-bear-700 dark:text-bear-400 underline underline-offset-4 decoration-bear-500/50 hover:decoration-bear-600 hover:text-bear-800 dark:hover:text-bear-300 transition-colors" title="${isAr ? 'قراءة المقال المعرب: ' + targetTitle : 'Read translated essay: ' + targetTitle}">${text}</a>`;
+        }
+
+        return `<a href="${href}" target="_blank" rel="noopener noreferrer" class="text-stone-700 dark:text-stone-300 underline underline-offset-2 hover:text-bear-600 transition-colors">${text}</a>`;
       };
 
       marked.setOptions({
@@ -433,7 +508,7 @@ function MarkdownRenderer({ content, isAr }: { content: string; isAr: boolean })
       console.error('Markdown rendering error:', err);
       return `<p>${content}</p>`;
     }
-  }, [content]);
+  }, [content, isAr, articles]);
 
   return (
     <div

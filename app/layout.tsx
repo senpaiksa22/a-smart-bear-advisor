@@ -4,10 +4,7 @@ import './globals.css';
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://a-smart-bear-advisor.vercel.app';
 
 export const viewport: Viewport = {
-  themeColor: [
-    { media: '(prefers-color-scheme: light)', color: '#dfd6c5' },
-    { media: '(prefers-color-scheme: dark)', color: '#0c0d14' },
-  ],
+  themeColor: '#dfd6c5',
   width: 'device-width',
   initialScale: 1,
   maximumScale: 5,
