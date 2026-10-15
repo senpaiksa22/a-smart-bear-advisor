@@ -24,6 +24,7 @@ import {
 import { Article } from '@/lib/types';
 import { AuthUser } from '@/lib/auth';
 import { AVAILABLE_MODELS, ModelOption } from '@/lib/models';
+import { marked } from 'marked';
 
 interface Message {
   id: string;
@@ -692,10 +693,14 @@ export default function AdvisorPanel({
                               : 'bg-stone-100 dark:bg-stone-800 text-stone-900 dark:text-stone-100 rounded-tl-none border border-stone-200/50 dark:border-stone-700/50'
                           }`}
                         >
-                          {/* Message Text formatted cleanly */}
-                          <div className="whitespace-pre-wrap font-sans space-y-2">
-                            {msg.content}
-                          </div>
+                          {/* Message Text formatted cleanly with rich typography */}
+                          {isUser ? (
+                            <div className="whitespace-pre-wrap font-sans text-xs sm:text-sm leading-relaxed">
+                              {msg.content}
+                            </div>
+                          ) : (
+                            <ChatMessageMarkdown content={msg.content} />
+                          )}
 
                           {/* Copy Button */}
                           <button
@@ -817,5 +822,27 @@ export default function AdvisorPanel({
         </div>
       </div>
     </div>
+  );
+}
+
+function ChatMessageMarkdown({ content }: { content: string }) {
+  const html = React.useMemo(() => {
+    if (!content) return '';
+    try {
+      marked.setOptions({
+        gfm: true,
+        breaks: true,
+      });
+      return marked.parse(content) as string;
+    } catch {
+      return content;
+    }
+  }, [content]);
+
+  return (
+    <div
+      className="prose-chat select-text"
+      dangerouslySetInnerHTML={{ __html: html }}
+    />
   );
 }

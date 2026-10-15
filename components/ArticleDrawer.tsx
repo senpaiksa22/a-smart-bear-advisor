@@ -15,6 +15,8 @@ import {
   ExternalLink,
   Tag,
   ChevronDown,
+  Sun,
+  Moon,
 } from 'lucide-react';
 import { Article } from '@/lib/types';
 
@@ -23,6 +25,8 @@ interface ArticleDrawerProps {
   onClose: () => void;
   lang: 'ar' | 'en';
   onConsultJason: (article: Article) => void;
+  darkMode?: boolean;
+  onToggleDarkMode?: () => void;
 }
 
 export default function ArticleDrawer({
@@ -30,6 +34,8 @@ export default function ArticleDrawer({
   onClose,
   lang,
   onConsultJason,
+  darkMode = false,
+  onToggleDarkMode,
 }: ArticleDrawerProps) {
   const [contentLang, setContentLang] = useState<'ar' | 'en'>(lang);
   const [fullContent, setFullContent] = useState<string>('');
@@ -166,6 +172,17 @@ export default function ArticleDrawer({
                 English
               </button>
             </div>
+
+            {/* Dark / Light Mode Toggle */}
+            {onToggleDarkMode && (
+              <button
+                onClick={onToggleDarkMode}
+                className="p-2 rounded-xl text-stone-600 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors border border-stone-200 dark:border-stone-700 shadow-xs"
+                title={isContentAr ? (darkMode ? 'الوضع الفاتح' : 'الوضع الداكن') : (darkMode ? 'Light Mode' : 'Dark Mode')}
+              >
+                {darkMode ? <Sun className="w-4 h-4 text-amber-500" /> : <Moon className="w-4 h-4 text-stone-600 dark:text-stone-300" />}
+              </button>
+            )}
 
             {/* Consult Jason Button */}
             <button

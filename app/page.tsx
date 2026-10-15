@@ -165,6 +165,8 @@ export default function HomePage() {
         onClose={() => setSelectedArticle(null)}
         lang={lang}
         onConsultJason={handleConsultJason}
+        darkMode={darkMode}
+        onToggleDarkMode={() => setDarkMode(!darkMode)}
       />
 
       {/* Auth Modal (Password Manager Compliant) */}

@@ -243,3 +243,103 @@ body {
   color: #fcd34d;
 }
 
+/* ============================================================================== */
+/* AI Advisor Chat Typography & Message Card Styling (prose-chat)                 */
+/* ============================================================================== */
+.prose-chat {
+  font-size: 0.875rem;
+  line-height: 1.85;
+  color: inherit;
+}
+
+@media (min-width: 640px) {
+  .prose-chat {
+    font-size: 0.925rem;
+  }
+}
+
+.prose-chat p {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose-chat p:first-child {
+  margin-top: 0;
+}
+
+.prose-chat p:last-child {
+  margin-bottom: 0;
+}
+
+.prose-chat h1,
+.prose-chat h2,
+.prose-chat h3,
+.prose-chat h4 {
+  font-weight: 800;
+  line-height: 1.4;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+  color: inherit;
+}
+
+.prose-chat h3 {
+  font-size: 1.05rem;
+  color: #92400e;
+  border-bottom: 1px dashed rgba(180, 83, 9, 0.25);
+  padding-bottom: 0.35rem;
+}
+
+.dark .prose-chat h3 {
+  color: #f59e0b;
+  border-bottom-color: rgba(245, 158, 11, 0.25);
+}
+
+.prose-chat ul,
+.prose-chat ol {
+  margin-top: 0.6rem;
+  margin-bottom: 0.6rem;
+  padding-inline-start: 1.25rem;
+}
+
+.prose-chat ul {
+  list-style-type: disc;
+}
+
+.prose-chat ol {
+  list-style-type: decimal;
+}
+
+.prose-chat li {
+  margin-top: 0.35rem;
+  margin-bottom: 0.35rem;
+  line-height: 1.75;
+}
+
+.prose-chat blockquote {
+  border-inline-start: 3px solid #b45309;
+  background: rgba(245, 158, 11, 0.08);
+  padding: 0.75rem 1rem;
+  border-radius: 0.75rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.dark .prose-chat blockquote {
+  background: rgba(245, 158, 11, 0.12);
+  border-inline-start-color: #f59e0b;
+}
+
+.prose-chat hr {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  border: none;
+  border-top: 1px solid rgba(120, 113, 108, 0.2);
+}
+
+.prose-chat strong {
+  font-weight: 800;
+  color: inherit;
+}
+
