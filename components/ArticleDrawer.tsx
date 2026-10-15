@@ -202,7 +202,7 @@ export default function ArticleDrawer({
       {/* ==================================================================== */}
       {/* ARTICLE READING CANVAS (شاشة كاملة، عرض مريح، خطوط منسقة) */}
       {/* ==================================================================== */}
-      <main className="max-w-4xl mx-auto px-4 sm:px-8 py-8 sm:py-12 space-y-8">
+      <main className="max-w-4xl mx-auto px-4 sm:px-8 pt-8 pb-32 sm:pt-12 sm:pb-40 space-y-8">
         {/* Article Header Meta */}
         <div className="space-y-4 pb-6 border-b border-stone-200/80 dark:border-stone-800/80">
           <div className="flex items-center gap-2.5 flex-wrap">
