@@ -90,9 +90,9 @@ export async function POST(request: NextRequest) {
     if (action === 'change_password') {
       const { newPassword } = body;
 
-      if (!newPassword || typeof newPassword !== 'string' || newPassword.length < 6) {
+      if (!newPassword || typeof newPassword !== 'string') {
         return NextResponse.json(
-          { success: false, error: 'يجب ألا تقل كلمة المرور الجديدة عن 6 خانات' },
+          { success: false, error: 'كلمة المرور مطلوبة' },
           { status: 400 }
         );
       }
