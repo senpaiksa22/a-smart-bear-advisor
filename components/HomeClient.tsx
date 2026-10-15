@@ -8,6 +8,7 @@ import ArticleDrawer from '@/components/ArticleDrawer';
 import AuthModal from '@/components/AuthModal';
 import AdvisorPanel from '@/components/AdvisorPanel';
 import FeedbackModal from '@/components/FeedbackModal';
+import WelcomeModal from '@/components/WelcomeModal';
 import { MessageSquare } from 'lucide-react';
 import { Article, Cluster } from '@/lib/types';
 import { AuthUser } from '@/lib/auth';
@@ -28,13 +29,34 @@ export default function HomeClient() {
   const [favorites, setFavorites] = useState<string[]>([]);
   const [feedbackOpen, setFeedbackOpen] = useState<boolean>(false);
   const [feedbackErrorDetails, setFeedbackErrorDetails] = useState<string | null>(null);
+  const [welcomeOpen, setWelcomeOpen] = useState<boolean>(false);
 
   const handleOpenFeedback = (err?: string) => {
     setFeedbackErrorDetails(err || null);
     setFeedbackOpen(true);
   };
 
+  const handleCloseWelcome = () => {
+    setWelcomeOpen(false);
+    try {
+      localStorage.setItem('asb_welcome_seen', 'true');
+    } catch {}
+  };
+
   const isAr = lang === 'ar';
+
+  // Check first-time visitor to show welcome guide modal (once only)
+  useEffect(() => {
+    try {
+      const hasSeen = localStorage.getItem('asb_welcome_seen');
+      const params = new URLSearchParams(window.location.search);
+      const isDeepLink = params.has('article') || params.has('slug');
+      if (!hasSeen && !isDeepLink) {
+        const timer = setTimeout(() => setWelcomeOpen(true), 600);
+        return () => clearTimeout(timer);
+      }
+    } catch {}
+  }, []);
 
   // Check existing session from HttpOnly cookie
   useEffect(() => {
@@ -212,6 +234,7 @@ export default function HomeClient() {
         user={user}
         onOpenAuth={() => setAuthModalOpen(true)}
         onLogout={handleLogout}
+        onOpenAbout={() => setWelcomeOpen(true)}
       />
 
       {/* Main Content Area */}
@@ -301,6 +324,18 @@ export default function HomeClient() {
         onClose={() => setFeedbackOpen(false)}
         lang={lang}
         initialError={feedbackErrorDetails}
+      />
+
+      {/* First-Time Visitor & On-Demand Welcome Modal */}
+      <WelcomeModal
+        isOpen={welcomeOpen}
+        onClose={handleCloseWelcome}
+        onOpenAdvisor={() => {
+          handleCloseWelcome();
+          setAdvisorContextArticle(null);
+          setAdvisorModalOpen(true);
+        }}
+        lang={lang}
       />
     </div>
   );

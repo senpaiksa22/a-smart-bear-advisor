@@ -1,5 +1,5 @@
 import React from 'react';
-import { Search, Globe, Moon, Sun, Sparkles, BookOpen, User, LogOut } from 'lucide-react';
+import { Search, Globe, Moon, Sun, Sparkles, BookOpen, User, LogOut, HelpCircle } from 'lucide-react';
 import { AuthUser } from '@/lib/auth';
 
 import { AppTheme } from '@/lib/theme';
@@ -16,6 +16,7 @@ interface NavbarProps {
   user: AuthUser | null;
   onOpenAuth: () => void;
   onLogout: () => void;
+  onOpenAbout: () => void;
 }
 
 export default function Navbar({
@@ -29,6 +30,7 @@ export default function Navbar({
   user,
   onOpenAuth,
   onLogout,
+  onOpenAbout,
 }: NavbarProps) {
   const isAr = lang === 'ar';
 
@@ -101,6 +103,16 @@ export default function Navbar({
             onThemeChange={setTheme}
             lang={lang}
           />
+
+          {/* About / Guide Button */}
+          <button
+            onClick={onOpenAbout}
+            className="p-1.5 sm:px-2.5 sm:py-1.5 rounded-xl border border-stone-200 dark:border-stone-800 hover:border-amber-500/50 hover:bg-amber-500/10 text-stone-600 dark:text-stone-300 hover:text-amber-600 dark:hover:text-amber-400 text-xs font-semibold transition-all shadow-sm flex items-center gap-1.5"
+            title={isAr ? 'عن المستشار وفكرة المنصة' : 'About the Advisor'}
+          >
+            <HelpCircle className="w-3.5 h-3.5 text-amber-600 dark:text-amber-400" />
+            <span className="hidden md:inline">{isAr ? 'عن المنصة' : 'About'}</span>
+          </button>
 
           {/* User Auth Status / Sign-In Button */}
           {user ? (
