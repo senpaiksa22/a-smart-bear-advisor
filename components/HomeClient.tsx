@@ -23,6 +23,7 @@ export default function HomeClient() {
   const [advisorContextArticle, setAdvisorContextArticle] = useState<Article | null>(null);
   const [user, setUser] = useState<AuthUser | null>(null);
   const [authModalOpen, setAuthModalOpen] = useState<boolean>(false);
+  const [favorites, setFavorites] = useState<string[]>([]);
 
   const isAr = lang === 'ar';
 
@@ -38,6 +39,28 @@ export default function HomeClient() {
       .catch(() => {});
   }, []);
 
+  // Load saved favorites from localStorage
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem('smartbear_favorites');
+      if (saved) {
+        setFavorites(JSON.parse(saved));
+      }
+    } catch {}
+  }, []);
+
+  const handleToggleFavorite = (slug: string) => {
+    setFavorites((prev) => {
+      const next = prev.includes(slug)
+        ? prev.filter((s) => s !== slug)
+        : [...prev, slug];
+      try {
+        localStorage.setItem('smartbear_favorites', JSON.stringify(next));
+      } catch {}
+      return next;
+    });
+  };
+
   const handleLogout = async () => {
     try {
       await fetch('/api/auth/logout', { method: 'POST' });
@@ -47,13 +70,28 @@ export default function HomeClient() {
     }
   };
 
+  // Sync URL with selected article for seamless sharing on WhatsApp/Twitter
+  const handleSelectArticle = (art: Article | null) => {
+    setSelectedArticle(art);
+    if (typeof window !== 'undefined') {
+      const url = new URL(window.location.href);
+      if (art) {
+        url.searchParams.set('article', art.slug);
+      } else {
+        url.searchParams.delete('article');
+        url.searchParams.delete('slug');
+      }
+      window.history.replaceState({}, '', url.toString());
+    }
+  };
+
   // Global shortcut (K or / or Ctrl+K) to toggle search anywhere without browser conflict
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       const tag = (e.target as HTMLElement)?.tagName?.toLowerCase();
-      const isInput = tag === 'input' || tag === 'textarea' || (e.target as HTMLElement)?.isContentEditable;
+      const isInput =
+        tag === 'input' || tag === 'textarea' || (e.target as HTMLElement)?.isContentEditable;
 
-      // Standalone K (works with English layout 'k' or Arabic layout 'ن' via e.code) or '/' when not typing in an input
       if (!isInput && (e.code === 'KeyK' || e.key.toLowerCase() === 'k' || e.key === '/')) {
         e.preventDefault();
         e.stopPropagation();
@@ -61,7 +99,6 @@ export default function HomeClient() {
         return;
       }
 
-      // Also support Ctrl+K as fallback with preventDefault to stop browser search takeover
       if ((e.ctrlKey || e.metaKey) && (e.code === 'KeyK' || e.key.toLowerCase() === 'k')) {
         e.preventDefault();
         e.stopPropagation();
@@ -103,6 +140,21 @@ export default function HomeClient() {
       .catch((err) => console.error('Error loading articles:', err))
       .finally(() => setLoading(false));
   }, []);
+
+  // Open article automatically on initial page load if ?article=slug is present in URL
+  useEffect(() => {
+    if (articles.length === 0 || typeof window === 'undefined') return;
+    try {
+      const params = new URLSearchParams(window.location.search);
+      const targetSlug = params.get('article') || params.get('slug');
+      if (targetSlug) {
+        const match = articles.find((a) => a.slug === targetSlug);
+        if (match) {
+          setSelectedArticle(match);
+        }
+      }
+    } catch {}
+  }, [articles]);
 
   const handleConsultJason = (article: Article) => {
     setAdvisorContextArticle(article);
@@ -147,8 +199,10 @@ export default function HomeClient() {
             articles={articles}
             clusters={clusters}
             lang={lang}
-            onSelectArticle={(art) => setSelectedArticle(art)}
+            onSelectArticle={handleSelectArticle}
             selectedArticleSlug={selectedArticle?.slug}
+            favorites={favorites}
+            onToggleFavorite={handleToggleFavorite}
           />
         )}
       </main>
@@ -159,17 +213,19 @@ export default function HomeClient() {
         onClose={() => setSearchOpen(false)}
         articles={articles}
         lang={lang}
-        onSelectArticle={(art) => setSelectedArticle(art)}
+        onSelectArticle={handleSelectArticle}
       />
 
       {/* Article Detail Drawer */}
       <ArticleDrawer
         article={selectedArticle}
-        onClose={() => setSelectedArticle(null)}
+        onClose={() => handleSelectArticle(null)}
         lang={lang}
         onConsultJason={handleConsultJason}
         theme={theme}
         onThemeChange={handleThemeChange}
+        isFavorite={selectedArticle ? favorites.includes(selectedArticle.slug) : false}
+        onToggleFavorite={handleToggleFavorite}
       />
 
       {/* Auth Modal (Password Manager Compliant) */}

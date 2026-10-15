@@ -16,6 +16,7 @@ import {
   LayoutGrid,
   List,
   Compass,
+  Star,
 } from 'lucide-react';
 
 interface MindMapProps {
@@ -24,6 +25,8 @@ interface MindMapProps {
   lang: 'ar' | 'en';
   onSelectArticle: (article: Article) => void;
   selectedArticleSlug?: string;
+  favorites?: string[];
+  onToggleFavorite?: (slug: string) => void;
 }
 
 // Sophisticated, eye-friendly color palette with soft contrast
@@ -134,24 +137,33 @@ export default function MindMap({
   lang,
   onSelectArticle,
   selectedArticleSlug,
+  favorites = [],
+  onToggleFavorite,
 }: MindMapProps) {
   const isAr = lang === 'ar';
   const [activeClusterId, setActiveClusterId] = useState<string | null>(null);
   const [zoomLevel, setZoomLevel] = useState<number>(1);
   const [displayMode, setDisplayMode] = useState<'cards' | 'compact'>('cards');
+  const [showOnlyFavorites, setShowOnlyFavorites] = useState<boolean>(false);
 
   const scrollContainerRef = useRef<HTMLDivElement>(null);
+
+  // Filtered source articles based on favorites toggle
+  const visibleArticles = useMemo(() => {
+    if (!showOnlyFavorites) return articles;
+    return articles.filter((art) => favorites.includes(art.slug));
+  }, [articles, showOnlyFavorites, favorites]);
 
   // Group articles by cluster
   const articlesByCluster = useMemo(() => {
     const map: Record<string, Article[]> = {};
-    for (const art of articles) {
+    for (const art of visibleArticles) {
       const cId = art.cluster_id || 'cluster_1';
       if (!map[cId]) map[cId] = [];
       map[cId].push(art);
     }
     return map;
-  }, [articles]);
+  }, [visibleArticles]);
 
   const activeCluster = useMemo(() => {
     return clusters.find((c) => c.id === activeClusterId) || null;
@@ -192,9 +204,12 @@ export default function MindMap({
           >
             {/* "All Themes" Tab */}
             <button
-              onClick={() => setActiveClusterId(null)}
+              onClick={() => {
+                setShowOnlyFavorites(false);
+                setActiveClusterId(null);
+              }}
               className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-all shrink-0 flex items-center gap-1.5 ${
-                activeClusterId === null
+                activeClusterId === null && !showOnlyFavorites
                   ? 'bg-bear-600 text-white shadow-md shadow-bear-600/25 ring-2 ring-bear-600/30'
                   : 'bg-stone-100 dark:bg-stone-800/80 text-stone-700 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700'
               }`}
@@ -203,12 +218,38 @@ export default function MindMap({
               <span>{isAr ? 'جميع المحاور' : 'All Themes'}</span>
               <span
                 className={`text-[10px] px-1.5 py-0.2 rounded-full font-mono font-bold ${
-                  activeClusterId === null
+                  activeClusterId === null && !showOnlyFavorites
                     ? 'bg-white/20 text-white'
                     : 'bg-stone-200 dark:bg-stone-700 text-stone-600 dark:text-stone-300'
                 }`}
               >
                 {articles.length}
+              </span>
+            </button>
+
+            {/* "Favorites" Filter Tab */}
+            <button
+              onClick={() => {
+                setShowOnlyFavorites((prev) => !prev);
+                setActiveClusterId(null);
+              }}
+              className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-all shrink-0 flex items-center gap-1.5 border ${
+                showOnlyFavorites
+                  ? 'bg-amber-500 text-white border-amber-600 shadow-md shadow-amber-500/25 ring-2 ring-amber-500/30'
+                  : 'bg-white dark:bg-stone-800/80 border-stone-200 dark:border-stone-700 text-stone-700 dark:text-stone-300 hover:border-amber-500/50'
+              }`}
+              title={isAr ? 'عرض المقالات المحفوظة في المفضلة' : 'Show Bookmarked Essays'}
+            >
+              <Star className={`w-3.5 h-3.5 ${showOnlyFavorites ? 'fill-white text-white' : 'text-amber-500'}`} />
+              <span>{isAr ? 'المفضلة' : 'Favorites'}</span>
+              <span
+                className={`text-[10px] px-1.5 py-0.2 rounded-full font-mono font-bold ${
+                  showOnlyFavorites
+                    ? 'bg-white/20 text-white'
+                    : 'bg-amber-100 dark:bg-amber-950/60 text-amber-700 dark:text-amber-300'
+                }`}
+              >
+                {favorites.length}
               </span>
             </button>
 
@@ -416,6 +457,18 @@ export default function MindMap({
                       </div>
 
                       <div className="flex items-center gap-2 shrink-0">
+                        {onToggleFavorite && (
+                          <button
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              onToggleFavorite(art.slug);
+                            }}
+                            className="p-1 rounded-lg hover:bg-stone-100 dark:hover:bg-stone-800 text-stone-400 hover:text-amber-500 transition-colors"
+                            title={favorites.includes(art.slug) ? (isAr ? 'إزالة من المفضلة' : 'Remove') : (isAr ? 'حفظ في المفضلة' : 'Bookmark')}
+                          >
+                            <Star className={`w-3.5 h-3.5 ${favorites.includes(art.slug) ? 'fill-amber-500 text-amber-500' : ''}`} />
+                          </button>
+                        )}
                         <span className="text-xs font-bold text-bear-700 dark:text-bear-400 bg-bear-50 dark:bg-bear-950/80 px-2.5 py-1 rounded-lg border border-bear-500/20 flex items-center gap-1.5 group-hover:bg-bear-600 group-hover:text-white transition-all">
                           <BookOpen className="w-3.5 h-3.5" />
                           <span>{isAr ? 'قراءة واستشارة' : 'Read'}</span>
@@ -449,9 +502,23 @@ export default function MindMap({
                           <span className="text-[11px] font-mono font-bold text-stone-400 dark:text-stone-500">
                             #{art.id}
                           </span>
-                          <span className="text-[10px] font-semibold text-bear-700 dark:text-bear-400 bg-bear-50 dark:bg-bear-950/80 px-2 py-0.5 rounded-md border border-bear-500/20">
-                            {isAr ? 'محور فرعي' : 'Topic'}
-                          </span>
+                          <div className="flex items-center gap-1.5">
+                            {onToggleFavorite && (
+                              <button
+                                onClick={(e) => {
+                                  e.stopPropagation();
+                                  onToggleFavorite(art.slug);
+                                }}
+                                className="p-0.5 rounded hover:bg-stone-100 dark:hover:bg-stone-800 text-stone-400 hover:text-amber-500 transition-colors"
+                                title={favorites.includes(art.slug) ? (isAr ? 'إزالة من المفضلة' : 'Remove') : (isAr ? 'حفظ في المفضلة' : 'Bookmark')}
+                              >
+                                <Star className={`w-3.5 h-3.5 ${favorites.includes(art.slug) ? 'fill-amber-500 text-amber-500' : ''}`} />
+                              </button>
+                            )}
+                            <span className="text-[10px] font-semibold text-bear-700 dark:text-bear-400 bg-bear-50 dark:bg-bear-950/80 px-2 py-0.5 rounded-md border border-bear-500/20">
+                              {isAr ? 'محور فرعي' : 'Topic'}
+                            </span>
+                          </div>
                         </div>
 
                         <h3 className="font-bold text-sm text-stone-900 dark:text-white leading-snug line-clamp-2 group-hover:text-bear-600 dark:group-hover:text-bear-400 transition-colors">
@@ -565,9 +632,23 @@ export default function MindMap({
                                     <span className="text-[10px] font-mono font-bold text-stone-400 dark:text-stone-500">
                                       #{art.id}
                                     </span>
-                                    <span className="text-[10px] font-semibold text-stone-500 dark:text-stone-400 bg-stone-100 dark:bg-stone-800 px-1.5 py-0.5 rounded">
-                                      {isAr ? 'محور فرعي' : 'Subtopic'}
-                                    </span>
+                                    <div className="flex items-center gap-1">
+                                      {onToggleFavorite && (
+                                        <button
+                                          onClick={(e) => {
+                                            e.stopPropagation();
+                                            onToggleFavorite(art.slug);
+                                          }}
+                                          className="p-0.5 rounded hover:bg-stone-100 dark:hover:bg-stone-800 text-stone-400 hover:text-amber-500 transition-colors"
+                                          title={favorites.includes(art.slug) ? (isAr ? 'إزالة من المفضلة' : 'Remove') : (isAr ? 'حفظ في المفضلة' : 'Bookmark')}
+                                        >
+                                          <Star className={`w-3 h-3 ${favorites.includes(art.slug) ? 'fill-amber-500 text-amber-500' : ''}`} />
+                                        </button>
+                                      )}
+                                      <span className="text-[10px] font-semibold text-stone-500 dark:text-stone-400 bg-stone-100 dark:bg-stone-800 px-1.5 py-0.5 rounded">
+                                        {isAr ? 'محور فرعي' : 'Subtopic'}
+                                      </span>
+                                    </div>
                                   </div>
 
                                   <h3 className="font-bold text-xs sm:text-sm text-stone-900 dark:text-white leading-snug line-clamp-2 group-hover:text-bear-600 dark:group-hover:text-bear-400 transition-colors">
@@ -673,6 +754,18 @@ export default function MindMap({
                                 </div>
 
                                 <div className="flex items-center gap-1 shrink-0">
+                                  {onToggleFavorite && (
+                                    <button
+                                      onClick={(e) => {
+                                        e.stopPropagation();
+                                        onToggleFavorite(art.slug);
+                                      }}
+                                      className="p-0.5 rounded hover:bg-stone-100 dark:hover:bg-stone-800 text-stone-400 hover:text-amber-500 transition-colors"
+                                      title={favorites.includes(art.slug) ? (isAr ? 'إزالة من المفضلة' : 'Remove') : (isAr ? 'حفظ في المفضلة' : 'Bookmark')}
+                                    >
+                                      <Star className={`w-3 h-3 ${favorites.includes(art.slug) ? 'fill-amber-500 text-amber-500' : ''}`} />
+                                    </button>
+                                  )}
                                   <span
                                     className={`text-[11px] opacity-0 group-hover:opacity-100 transition-opacity ${
                                       isSelected ? 'text-white' : 'text-bear-600 dark:text-bear-400'

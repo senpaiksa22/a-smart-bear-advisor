@@ -17,6 +17,7 @@ import {
   ChevronDown,
   Sun,
   Moon,
+  Star,
 } from 'lucide-react';
 import { AppTheme } from '@/lib/theme';
 import ThemeSelector from '@/components/ThemeSelector';
@@ -29,6 +30,8 @@ interface ArticleDrawerProps {
   onConsultJason: (article: Article) => void;
   theme?: AppTheme;
   onThemeChange?: (theme: AppTheme) => void;
+  isFavorite?: boolean;
+  onToggleFavorite?: (slug: string) => void;
 }
 
 export default function ArticleDrawer({
@@ -38,6 +41,8 @@ export default function ArticleDrawer({
   onConsultJason,
   theme = 'light',
   onThemeChange,
+  isFavorite = false,
+  onToggleFavorite,
 }: ArticleDrawerProps) {
   const [contentLang, setContentLang] = useState<'ar' | 'en'>(lang);
   const [fullContent, setFullContent] = useState<string>('');
@@ -92,7 +97,10 @@ export default function ArticleDrawer({
 
   const handleCopyLink = () => {
     if (!article) return;
-    navigator.clipboard.writeText(article.url || window.location.href);
+    const shareUrl = typeof window !== 'undefined'
+      ? `${window.location.origin}/?article=${encodeURIComponent(article.slug)}`
+      : article.url;
+    navigator.clipboard.writeText(shareUrl);
     setCopiedLink(true);
     setTimeout(() => setCopiedLink(false), 2000);
   };
@@ -238,6 +246,21 @@ export default function ArticleDrawer({
               {copiedLink ? <Check className="w-3.5 h-3.5 text-emerald-500" /> : <Share2 className="w-3.5 h-3.5" />}
               <span>{copiedLink ? (isContentAr ? 'تم النسخ!' : 'Copied!') : (isContentAr ? 'مشاركة' : 'Share')}</span>
             </button>
+
+            {onToggleFavorite && (
+              <button
+                onClick={() => onToggleFavorite(article.slug)}
+                className={`text-xs font-medium flex items-center gap-1 px-2.5 py-0.5 rounded-lg transition-colors border ${
+                  isFavorite
+                    ? 'bg-amber-500/15 border-amber-500/30 text-amber-600 dark:text-amber-400'
+                    : 'text-stone-400 hover:text-stone-700 dark:hover:text-stone-200 hover:bg-stone-100 dark:hover:bg-stone-800 border-transparent'
+                }`}
+                title={isFavorite ? (isContentAr ? 'إزالة من المفضلة' : 'Remove Bookmark') : (isContentAr ? 'حفظ في المفضلة' : 'Bookmark')}
+              >
+                <Star className={`w-3.5 h-3.5 ${isFavorite ? 'fill-amber-500 text-amber-500' : ''}`} />
+                <span>{isFavorite ? (isContentAr ? 'في المفضلة' : 'Saved') : (isContentAr ? 'حفظ' : 'Bookmark')}</span>
+              </button>
+            )}
           </div>
 
           <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black text-stone-900 dark:text-white tracking-tight leading-tight">
