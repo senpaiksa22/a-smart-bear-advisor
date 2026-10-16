@@ -8,7 +8,7 @@ published_date: "Mon, 19 Dec 2011 00:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "Is it good to be \"first?\"  It seems so -- what's the point of being a copycat? While \"first\" sounds impressive, in reality it's often not an advantage."
-summary_ar: "هل من الجيد حقاً أن تكون \"الأول\" في السوق؟ يبدو الأمر براقاً، لكنه في الواقع غالباً ما يكون عبئاً لا ميزة."
+summary_ar: "هل من الجيد حقاً أن تكون \"الأول\" في السوق؟ يبدو الأمر براقاً، لكنه في الواقع غالباً ما يكون عبئاً لا ميزة."الأول\" في السوق؟ يبدو الأمر براقاً، لكنه في الواقع غالباً ما يكون عبئاً لا ميزة."
 ---
 
 # متى تكون الأسبقية في السوق ليست ميزة تنافسية حقيقية

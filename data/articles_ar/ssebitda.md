@@ -8,13 +8,13 @@ published_date: "Sun, 20 Apr 2025 00:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "How can a business that is \"spending to grow\" determine whether it's truly profitable underneath all that \"revenue acceleration?\"  Here's a way."
-summary_ar: "كيف يمكن لشركة \"
+summary_ar: "كيف لشركة تستنزف أموالها في \"الإنفاق من أجل النمو\" أن تتحقق مما إذا كانت مربحة فعلاً تحت ستار \"تسارع الإيرادات\"؟ إليك المنهجية العملية."
 ---
 
 # مقياس SSEBITDA: حساب الربحية المستقرة لشركات البرمجيات السحابية SaaS
 ### SSEBITDA⁠--A steady-state profit metric for SaaS companies
 
-> **الملخص التنفيذي:** كيف يمكن لشركة \
+> **الملخص التنفيذي:** كيف لشركة تستنزف أموالها في "الإنفاق من أجل النمو" أن تتحقق مما إذا كانت مربحة فعلاً تحت ستار "تسارع الإيرادات"؟ إليك المنهجية العملية.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/ssebitda/](https://longform.asmartbear.com/ssebitda/)
 

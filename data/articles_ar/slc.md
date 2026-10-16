@@ -8,13 +8,13 @@ published_date: "Tue, 22 Aug 2017 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "\"MVP\" implies a selfish process, abusing customers so you can \"learn\". Instead, make the first version SLC: Simple, Lovable, and Complete\"."
-summary_ar: "\"
+summary_ar: "يحمل مفهوم \"المنتج الأولي الأدنى (MVP)\" نزعة أنانية تستغل العملاء كحقل تجارب بدعوى \"التعلم\"؛ بدلاً من ذلك، ابنِ نسختك الأولى لتكون SLC: بسيطة، ومحبوبة، ومتكاملة."
 ---
 
 # عملاؤك يكرهون نماذج MVP الناقصة: ابنِ بدلاً منها منتجاً بسيطاً ومكتملاً ومحبوباً (SLC)
 ### Your customers hate MVPs. Make a SLC instead.
 
-> **الملخص التنفيذي:** \
+> **الملخص التنفيذي:** يحمل مفهوم "المنتج الأولي الأدنى (MVP)" نزعة أنانية تستغل العملاء كحقل تجارب بدعوى "التعلم"؛ بدلاً من ذلك، ابنِ نسختك الأولى لتكون SLC: بسيطة، ومحبوبة، ومتكاملة.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/slc/](https://longform.asmartbear.com/slc/)
 

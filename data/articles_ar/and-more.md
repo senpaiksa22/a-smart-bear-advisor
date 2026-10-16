@@ -8,13 +8,13 @@ published_date: "Sat, 29 Nov 2008 08:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "\"And more!\" is lazy marketing. Be specific, be passionate, and make people care."
-summary_ar: "\"
+summary_ar: "عبارة \"والمزيد!\" ليست إلا كسلاً تسويقياً؛ كن محدداً، شغوفاً، واجعل رسالتك تلامس اهتمام عملائك الحقيقي."
 ---
 
 # فخ إضافة 'المزيد والمزيد': لماذا تقتل كثرة الخيارات وضوح المنتج
 ### Bed, Bath, Linens, Things, Beyond, and More!
 
-> **الملخص التنفيذي:** \
+> **الملخص التنفيذي:** عبارة "والمزيد!" ليست إلا كسلاً تسويقياً؛ كن محدداً، شغوفاً، واجعل رسالتك تلامس اهتمام عملائك الحقيقي.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/and-more/](https://longform.asmartbear.com/and-more/)
 

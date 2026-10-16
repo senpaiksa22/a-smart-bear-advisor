@@ -8,13 +8,13 @@ published_date: "Tue, 20 Dec 2016 08:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "\"Building in public\" is popular: How fun when strangers cheer you on! But isn't competitive advantage ruined when competitors know your growth rate and steal your source code?"
-summary_ar: "\"
+summary_ar: "تحظى ظاهرة \"البناء في العلن\" برواج واسع: فما أجمل تشجيع الغرباء لك! ولكن، ألا تتبدد ميزتك التنافسية عندما يراقب المنافسون وتيرة نموك وتفاصيل استراتيجيتك؟"
 ---
 
 # البناء في العلن يجبرك على خلق ميزة تنافسية حقيقية غير قابلة للسرقة
 ### Building in public forces true competitive advantage
 
-> **الملخص التنفيذي:** \
+> **الملخص التنفيذي:** تحظى ظاهرة "البناء في العلن" برواج واسع: فما أجمل تشجيع الغرباء لك! ولكن، ألا تتبدد ميزتك التنافسية عندما يراقب المنافسون وتيرة نموك وتفاصيل استراتيجيتك؟
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/building-in-public/](https://longform.asmartbear.com/building-in-public/)
 

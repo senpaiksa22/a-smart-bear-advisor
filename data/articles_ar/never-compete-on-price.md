@@ -8,13 +8,13 @@ published_date: "Sun, 06 Apr 2025 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "The difference between \"low prices\" as a race to the bottom or as a success story (like Amazon, Costco, IKEA, Vanguard) is in leveraging intentional weaknesses."
-summary_ar: "الفرق بين \"
+summary_ar: "الفارق الجوهري بين \"الأسعار المنخفضة\" كسباق انتحاري نحو القاع، أو كقصة نجاح رائدة (مثل أمازون وإيكيا وكوستكو)، يكمن في توظيف نقاط الضعف المقصودة والمدروسة كرافعة تفوق."
 ---
 
 # لماذا يجب ألا تنافس أبداً على خفض الأسعار
 ### Sometimes never compete on price
 
-> **الملخص التنفيذي:** الفرق بين \
+> **الملخص التنفيذي:** الفارق الجوهري بين "الأسعار المنخفضة" كسباق انتحاري نحو القاع، أو كقصة نجاح رائدة (مثل أمازون وإيكيا وكوستكو)، يكمن في توظيف نقاط الضعف المقصودة والمدروسة كرافعة تفوق.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/never-compete-on-price/](https://longform.asmartbear.com/never-compete-on-price/)
 

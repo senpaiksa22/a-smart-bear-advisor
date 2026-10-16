@@ -8,7 +8,7 @@ published_date: "Sat, 23 Feb 2019 00:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "A simple, decentralized, scalable, constant-memory mechanism for independent replicas to record events in time, preserving the \"happened-before\" relation in almost all cases."
-summary_ar: "آلية بسيطة، لامركزية، قابلة للتوسعة، ذات ذاكرة ثابتة تتيح للنسخ المتماثلة المستقلة تسجيل الأحداث زمنياً مع الحفاظ على علاقة \"الحدث-السابق\" في جميع الحالات تقريباً."
+summary_ar: "آلية بسيطة، لامركزية، قابلة للتوسعة، ذات ذاكرة ثابتة تتيح للنسخ المتماثلة المستقلة تسجيل الأحداث زمنياً مع الحفاظ على علاقة \"الحدث-السابق\" في جميع الحالات تقريباً."الحدث-السابق\" في جميع الحالات تقريباً."
 ---
 
 # الوقت المنطقي الموزع: دروس من النظم الموزعة لإدارة فرق العمل

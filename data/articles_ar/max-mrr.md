@@ -8,13 +8,13 @@ published_date: "Sun, 27 Jul 2025 00:00:00 +0000"
 category_en: "SaaS Metrics, Unit Economics & Financial Health"
 category_ar: "مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية"
 summary_en: "Your company will stop growing sooner than you think. The \"Max MRR\" metric predicts revenue plateaus based on churn and new revenue."
-summary_ar: "سوف تتوقف شركتك عن النمو في وقت أقرب مما تعتقد. يتنبأ مقياس \"
+summary_ar: "ستتوقف شركتك عن النمو في وقت أبكر بكثير مما تظن؛ حيث يكشف مقياس \"الحد الأقصى للإيراد الشهري المتكرر (Max MRR)\" سقف الإيرادات الحتمي استناداً إلى معدل فقدان العملاء والإيرادات الجديدة."
 ---
 
 # سقف الإيرادات الشهرية المتكررة (Max MRR): كيف تحدد أقصى نمو لشركتك
 ### Max MRR: Your growth ceiling
 
-> **الملخص التنفيذي:** سوف تتوقف شركتك عن النمو في وقت أقرب مما تعتقد. يتنبأ مقياس \
+> **الملخص التنفيذي:** ستتوقف شركتك عن النمو في وقت أبكر بكثير مما تظن؛ حيث يكشف مقياس "الحد الأقصى للإيراد الشهري المتكرر (Max MRR)" سقف الإيرادات الحتمي استناداً إلى معدل فقدان العملاء والإيرادات الجديدة.
 > **المحور التصنيفي:** مقاييس شركات SaaS واقتصاديات الوحدة والصحة المالية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/max-mrr/](https://longform.asmartbear.com/max-mrr/)
 

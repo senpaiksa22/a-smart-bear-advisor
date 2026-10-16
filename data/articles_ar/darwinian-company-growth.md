@@ -8,13 +8,13 @@ published_date: "Tue, 23 Feb 2016 00:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "\"Survival of the fittest\" is not the same thing as \"survival of the best.\" Founders have the responsibility to solve both for growth and the betterment of the world."
-summary_ar: "\"
+summary_ar: "\"البقاء للأصلح\" ليس مرادفاً لـ \"البقاء للأفضل\". تقع على عاتق المؤسسين مسؤولية الموازنة بين تحقيق النمو التجاري وترك أثر إيجابي يجعل العالم مكاناً أفضل."
 ---
 
 # التطور الدارويني لا يختار بالضرورة الشركات الأفضل لتفوز
 ### Darwin doesn't automatically select the best companies
 
-> **الملخص التنفيذي:** \
+> **الملخص التنفيذي:** "البقاء للأصلح" ليس مرادفاً لـ "البقاء للأفضل". تقع على عاتق المؤسسين مسؤولية الموازنة بين تحقيق النمو التجاري وترك أثر إيجابي يجعل العالم مكاناً أفضل.
 > **المحور التصنيفي:** استراتيجيات التسعير ونماذج تحقيق الدخل
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/darwinian-company-growth/](https://longform.asmartbear.com/darwinian-company-growth/)
 

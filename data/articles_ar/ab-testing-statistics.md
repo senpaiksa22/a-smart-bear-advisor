@@ -8,7 +8,7 @@ published_date: "Mon, 06 Apr 2009 08:00:00 +0000"
 category_en: "Pricing Strategy & Monetization"
 category_ar: "استراتيجيات التسعير ونماذج تحقيق الدخل"
 summary_en: "A/B testing tools often lie about whether something is \"statistically significant.\" Here's an extremely simple, mathematically sound formula to compute it for yourself."
-summary_ar: "أدوات اختبار A/B غالباً ما تقدم معلومات مضللة حول ما إذا كان شيئاً ما \"ذو دلالة إحصائية\". إليك معادلة بسيطة للغاية وسليمة رياضياً لحساب ذلك بنفسك."
+summary_ar: "أدوات اختبار A/B غالباً ما تقدم معلومات مضللة حول ما إذا كان شيئاً ما \"ذو دلالة إحصائية\". إليك معادلة بسيطة للغاية وسليمة رياضياً لحساب ذلك بنفسك."ذو دلالة إحصائية\". إليك معادلة بسيطة للغاية وسليمة رياضياً لحساب ذلك بنفسك."
 ---
 
 # إحصاءات مبسطة لاختبارات A/B دون تعقيدات رياضية

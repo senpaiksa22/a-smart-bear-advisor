@@ -8,13 +8,13 @@ published_date: "Mon, 30 Mar 2009 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "\"You're so lucky.\"  That's true.  There's also decades of sacrifice, emotional turmoil, long hours, perseverance.  So… is it lucky?"
-summary_ar: "\"
+summary_ar: "\"أنت محظوظ للغاية!\" قد يكون هذا صحيحاً، لكن خلف ذلك عقود من التضحيات، والتقلبات النفسية، وساعات العمل الطويلة، والإصرار؛ فهل هو مجرد \"حظ\"؟"
 ---
 
 # كم تبلغ نسبة الحظ الحقيقية في نجاح الشركات ورواد الأعمال؟
 ### How much of success is luck?
 
-> **الملخص التنفيذي:** \
+> **الملخص التنفيذي:** "أنت محظوظ للغاية!" قد يكون هذا صحيحاً، لكن خلف ذلك عقود من التضحيات، والتقلبات النفسية، وساعات العمل الطويلة، والإصرار؛ فهل هو مجرد "حظ"؟
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/lucky/](https://longform.asmartbear.com/lucky/)
 

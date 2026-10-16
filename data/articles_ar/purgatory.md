@@ -8,13 +8,13 @@ published_date: "Sun, 04 May 2025 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "When even \"free\" is too expensive."
-summary_ar: "عندما يكون حتى \"
+summary_ar: "عندما يصبح حتى العرض \"المجاني\" باهظ التكلفة وغير مجدٍ في نظر العميل."
 ---
 
 # جحيم المنتج المعلق: عندما يعجبهم المنتج ولكنهم يرفضون الشراء
 ### Product Purgatory: When they love it but still don't buy
 
-> **الملخص التنفيذي:** عندما يكون حتى \
+> **الملخص التنفيذي:** عندما يصبح حتى العرض "المجاني" باهظ التكلفة وغير مجدٍ في نظر العميل.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/purgatory/](https://longform.asmartbear.com/purgatory/)
 

@@ -8,13 +8,13 @@ published_date: "Mon, 02 Jan 2017 08:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "\"How does it feel to have created two unicorns?\" I don't know; I only know what it feels like to start them, and then work with amazing people who collectively create the result."
-summary_ar: "\"
+summary_ar: "\"ما شعورك بعد تأسيس شركتين من فئة اليونيكورن؟\" في الحقيقة لا أدري؛ ما أعرفه حقاً هو متعة البدايات، والعمل جنباً إلى جنب مع فريق استثنائي يصنع النتيجة معاً."
 ---
 
 # انظر لما بنيناه: وقفة فخر واعتزاز بإنجازات الفريق التأسيسي
 ### Look what we did
 
-> **الملخص التنفيذي:** \
+> **الملخص التنفيذي:** "ما شعورك بعد تأسيس شركتين من فئة اليونيكورن؟" في الحقيقة لا أدري؛ ما أعرفه حقاً هو متعة البدايات، والعمل جنباً إلى جنب مع فريق استثنائي يصنع النتيجة معاً.
 > **المحور التصنيفي:** ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/proud-of-founding/](https://longform.asmartbear.com/proud-of-founding/)
 

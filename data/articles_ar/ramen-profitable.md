@@ -8,7 +8,7 @@ published_date: "Sun, 25 Aug 2024 00:00:00 +0000"
 category_en: "Product/Market Fit & Product Strategy"
 category_ar: "ملاءمة المنتج للسوق واستراتيجية تطوير المنتجات"
 summary_en: "You're not profitable if you couldn't afford someone else to do your job. $1000/mo isn't profitable. Fix your definition of \"profitable,\" and build a truly profitable business."
-summary_ar: "أنت لست رابحاً حقاً إذا لم تكن قادراً على تحمل تكلفة توظيف شخص آخر للقيام بعملك. تحقيق 1000 دولار شهرياً لا يُعَد ربحية حقيقية. صحح مفهومك عن \"الربحية\" وابنِ تجارية مستدامة ومربحة حقاً."
+summary_ar: "أنت لست رابحاً حقاً إذا لم تكن قادراً على تحمل تكلفة توظيف شخص آخر للقيام بعملك. تحقيق 1000 دولار شهرياً لا يُعَد ربحية حقيقية. صحح مفهومك عن \"الربحية\" وابنِ تجارية مستدامة ومربحة حقاً."الربحية\" وابنِ تجارية مستدامة ومربحة حقاً."
 ---
 
 # الربحية من اليوم الأول: كيف تبني شركة تعيل نفسها فوراً

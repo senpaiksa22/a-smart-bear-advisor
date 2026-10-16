@@ -8,7 +8,7 @@ published_date: "Mon, 22 Feb 2010 00:00:00 +0000"
 category_en: "Foundational Philosophy & Startup Wisdom"
 category_ar: "فلسفة ريادة الأعمال والحكمة التأسيسية"
 summary_en: "Tired of being told you need \"10,000 hours\" before you can call yourself an \"expert,\" and maybe become a \"success?\"  Maybe you don't."
-summary_ar: "هل مللت من إخبارك بأنك بحاجة إلى \"10,000 ساعة\" قبل أن تتمكن من وصف نفسك \"بالخبير\" وتحقيق النجاح؟ ربما لست بحاجة لذلك حقاً."
+summary_ar: "هل مللت من إخبارك بأنك بحاجة إلى \"10,000 ساعة\" قبل أن تتمكن من وصف نفسك \"بالخبير\" وتحقيق النجاح؟ ربما لست بحاجة لذلك حقاً."10,000 ساعة\" قبل أن تتمكن من وصف نفسك \"بالخبير\" وتحقيق النجاح؟ ربما لست بحاجة لذلك حقاً."
 ---
 
 # كفى شعوراً بالذنب لعدم كونك خبيراً في كل المجالات

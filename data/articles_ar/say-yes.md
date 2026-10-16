@@ -8,13 +8,13 @@ published_date: "Mon, 25 Apr 2011 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "\"Focus\" requires saying \"no\" to most things, but there's a way to do it that allows you to say \"yes\" exactly when it matters most."
-summary_ar: "\"
+summary_ar: "يقتضي \"التركيز\" قول \"لا\" لمعظم الفرص، لكن هناك طريقة ذكية تتيح لك قول \"نعم\" متى وأينما كان ذلك يصنع الفارق الأكبر."
 ---
 
 # إياك أن تقول 'لا' لعملائك، ولكن نادراً جداً ما تقول 'نعم'
 ### Never say "no," but rarely say "yes."
 
-> **الملخص التنفيذي:** \
+> **الملخص التنفيذي:** يقتضي "التركيز" قول "لا" لمعظم الفرص، لكن هناك طريقة ذكية تتيح لك قول "نعم" متى وأينما كان ذلك يصنع الفارق الأكبر.
 > **المحور التصنيفي:** استكشاف العملاء والمقابلات وشخصية المشتري المثالي
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/say-yes/](https://longform.asmartbear.com/say-yes/)
 

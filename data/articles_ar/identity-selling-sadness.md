@@ -8,7 +8,7 @@ published_date: "Tue, 26 Feb 2013 00:00:00 +0000"
 category_en: "Foundational Philosophy & Startup Wisdom"
 category_ar: "فلسفة ريادة الأعمال والحكمة التأسيسية"
 summary_en: "Many founders experience a profound and prolonged sadness after selling their company. But \"not selling\" might be worse. Maybe my story will help you."
-summary_ar: "يعاني العديد من المؤسسين من حزن عميق وممتد بعد بيع شركاتهم الناشئة، لكن \"عدم البيع\" ربما يكون خياراً أسوأ. لعل قصتي تساعدك في فهم هذا التحدي."
+summary_ar: "يعاني العديد من المؤسسين من حزن عميق وممتد بعد بيع شركاتهم الناشئة، لكن \"عدم البيع\" ربما يكون خياراً أسوأ. لعل قصتي تساعدك في فهم هذا التحدي."عدم البيع\" ربما يكون خياراً أسوأ. لعل قصتي تساعدك في فهم هذا التحدي."
 ---
 
 # هوية المؤسس والحزن الخفي الذي يلي البيع الناجح للشركة

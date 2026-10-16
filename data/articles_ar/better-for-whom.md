@@ -8,13 +8,13 @@ published_date: "Tue, 05 Feb 2013 08:00:00 +0000"
 category_en: "Competitive Advantage, Moats & Defense"
 category_ar: "الميزة التنافسية وبناء الخنادق الدفاعية"
 summary_en: "\"Better\" is always in the eye of the beholder. That's why the question is always: Better for whom?"
-summary_ar: "\"
+summary_ar: "معيار \"الأفضلية\" نسبي يختلف باختلاف عين الناظر؛ ولهذا يظل السؤال الجوهري دائماً: أفضل لمن تحديداً؟"
 ---
 
 # أفضل بالنسبة لمن؟ نسبية القيمة في عيون العملاء المختلفين
 ### Better for whom?
 
-> **الملخص التنفيذي:** \
+> **الملخص التنفيذي:** معيار "الأفضلية" نسبي يختلف باختلاف عين الناظر؛ ولهذا يظل السؤال الجوهري دائماً: أفضل لمن تحديداً؟
 > **المحور التصنيفي:** الميزة التنافسية وبناء الخنادق الدفاعية
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/better-for-whom/](https://longform.asmartbear.com/better-for-whom/)
 

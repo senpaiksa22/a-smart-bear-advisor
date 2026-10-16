@@ -8,7 +8,7 @@ published_date: "Mon, 11 Oct 2010 00:00:00 +0000"
 category_en: "Customer Discovery, Interviews & ICP"
 category_ar: "استكشاف العملاء والمقابلات وشخصية المشتري المثالي"
 summary_en: "A/B tests and accumulating Twitter followers is not a marketing strategy, just as \"we'll use salt and cheese\" isn't a recipe."
-summary_ar: "إجراء اختبارات A/B وتراكم متابعي تويتر لا يشكل استراتيجية تسويقية، تماماً مثلما أن قول \"سنستخدم الملح والجبن\" لا يمثل وصفة طبخ."
+summary_ar: "إجراء اختبارات A/B وتراكم متابعي تويتر لا يشكل استراتيجية تسويقية، تماماً مثلما أن قول \"سنستخدم الملح والجبن\" لا يمثل وصفة طبخ."سنستخدم الملح والجبن\" لا يمثل وصفة طبخ."
 ---
 
 # إذا بنيت المنتج فلن يأتوا بمفردهم، إلا إذا امتلكت خطة توزيع حقيقية

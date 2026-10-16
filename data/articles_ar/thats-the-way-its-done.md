@@ -8,13 +8,13 @@ published_date: "Tue, 19 Feb 2013 08:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "\"They\" say you can't, but maybe you can. Embrace risk, creativity, and prove them wrong."
-summary_ar: "\"
+summary_ar: "يدّعون أنك \"لا تستطيع فعل ذلك\"، ولكن ربما بوسعك فعلاً. تحلَّ بالجرأة وخض غمار التجربة والإبداع وأثبت خطأ تشكيكهم."
 ---
 
 # 'لأن الأمور تُدار هكذا دائماً': هل ينبغي للمؤسس الاستماع لهذه النصيحة؟
 ### "Because that's the way it's done" -- should a founder listen?
 
-> **الملخص التنفيذي:** \
+> **الملخص التنفيذي:** يدّعون أنك "لا تستطيع فعل ذلك"، ولكن ربما بوسعك فعلاً. تحلَّ بالجرأة وخض غمار التجربة والإبداع وأثبت خطأ تشكيكهم.
 > **المحور التصنيفي:** قنوات التسويق، التموضع الاستراتيجي والتوزيع
 > **الرابط الأصلي للمقال:** [https://longform.asmartbear.com/thats-the-way-its-done/](https://longform.asmartbear.com/thats-the-way-its-done/)
 

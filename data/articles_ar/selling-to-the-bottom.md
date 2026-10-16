@@ -8,7 +8,7 @@ published_date: "Thu, 25 Jan 2007 08:00:00 +0000"
 category_en: "Marketing Channels, Positioning & Distribution"
 category_ar: "قنوات التسويق، التموضع الاستراتيجي والتوزيع"
 summary_en: "More than a decade before \"Product-Led Growth\" became a thing, I was selling non-recurring-revenue-software to Fortune 500 companies from the bottom up."
-summary_ar: "قبل أكثر من عقد من الزمن على ظهور مفهوم \"النمو المدفوع بالمنتج\" (Product-Led Growth)، كنت أبيع برمجيات ذات إيرادات غير متكررة لشركات قائمة على مؤشر فورتشن 500 (Fortune 500) صعوداً من القاعدة إلى القمة."
+summary_ar: "قبل أكثر من عقد من الزمن على ظهور مفهوم \"النمو المدفوع بالمنتج\" (Product-Led Growth)، كنت أبيع برمجيات ذات إيرادات غير متكررة لشركات قائمة على مؤشر فورتشن 500 (Fortune 500) صعوداً من القاعدة إلى القمة."النمو المدفوع بالمنتج\" (Product-Led Growth)، كنت أبيع برمجيات ذات إيرادات غير متكررة لشركات قائمة على مؤشر فورتشن 500 (Fortune 500) صعوداً من القاعدة إلى القمة."
 ---
 
 # البيع للطبقات الأقل سعراً في السوق: مخاطر استهداف العملاء الأرخص
