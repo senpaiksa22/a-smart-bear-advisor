@@ -52,6 +52,8 @@ interface AdvisorPanelProps {
   contextArticle?: Article | null;
   onClearContext?: () => void;
   onOpenFeedback?: (errorText?: string) => void;
+  articles?: Article[];
+  onSelectArticle?: (article: Article) => void;
 }
 
 export default function AdvisorPanel({
@@ -63,6 +65,8 @@ export default function AdvisorPanel({
   contextArticle,
   onClearContext,
   onOpenFeedback,
+  articles = [],
+  onSelectArticle,
 }: AdvisorPanelProps) {
   const isAr = lang === 'ar';
 
@@ -671,7 +675,12 @@ export default function AdvisorPanel({
                           </div>
                         </div>
                         <div className="rounded-2xl text-xs sm:text-sm leading-relaxed p-4 sm:p-5 bg-white dark:bg-stone-850 border border-stone-200/90 dark:border-stone-700/80 text-stone-900 dark:text-stone-100 shadow-xs">
-                          <ChatMessageMarkdown content={msg.content} />
+                          <ChatMessageMarkdown
+                            content={msg.content}
+                            articles={articles}
+                            onSelectArticle={onSelectArticle}
+                            isAr={isAr}
+                          />
                         </div>
                       </div>
                     )
@@ -947,22 +956,107 @@ export default function AdvisorPanel({
   );
 }
 
-function ChatMessageMarkdown({ content }: { content: string }) {
+function ChatMessageMarkdown({
+  content,
+  articles = [],
+  onSelectArticle,
+  isAr,
+}: {
+  content: string;
+  articles?: Article[];
+  onSelectArticle?: (article: Article) => void;
+  isAr: boolean;
+}) {
   const html = React.useMemo(() => {
     if (!content) return '';
     try {
+      const renderer = new marked.Renderer();
+
+      renderer.link = ({ href, text }) => {
+        const cleanHref = (href || '').trim();
+        const match = cleanHref.match(/(?:asmartbear\.com\/|\/article\/|\/|#)?([a-z0-9\-]+)(?:\/)?$/i);
+        const candidateSlug = match ? match[1].toLowerCase() : '';
+
+        let targetArticle = articles.find(
+          (a) => a.slug.toLowerCase() === candidateSlug
+        );
+        if (!targetArticle && cleanHref) {
+          targetArticle = articles.find(
+            (a) => cleanHref.includes(a.slug) || (a.url && cleanHref === a.url)
+          );
+        }
+
+        if (targetArticle) {
+          const displayTitle = text || (isAr ? targetArticle.title_ar : targetArticle.title_en);
+          return `
+            <a 
+              href="#" 
+              data-article-slug="${targetArticle.slug}"
+              class="internal-article-link inline-flex items-center gap-1.5 px-2.5 py-1 my-1 rounded-xl bg-bear-500/15 hover:bg-bear-500/25 text-bear-800 dark:text-bear-200 border border-bear-500/30 font-bold transition-all no-underline shadow-2xs group cursor-pointer"
+              title="${isAr ? 'انقر لقراءة المقال كاملاً ومعرباً داخل المنصة' : 'Click to read full translated article'}"
+            >
+              <span class="text-bear-600 dark:text-bear-400">📖</span>
+              <span class="underline decoration-bear-400 underline-offset-2">${displayTitle}</span>
+              <span class="text-[10px] px-1.5 py-0.5 rounded-md bg-bear-500/20 text-bear-700 dark:text-bear-300 font-normal">
+                ${isAr ? 'اقرأ المقال' : 'Read Article'}
+              </span>
+            </a>
+          `;
+        }
+
+        return `<a href="${href}" target="_blank" rel="noopener noreferrer" class="text-bear-600 dark:text-bear-400 underline font-medium hover:text-bear-700">${text}</a>`;
+      };
+
       marked.setOptions({
         gfm: true,
         breaks: true,
+        renderer,
       });
+
       return marked.parse(content) as string;
     } catch {
       return content;
     }
-  }, [content]);
+  }, [content, articles, isAr]);
+
+  const handleProseClick = (e: React.MouseEvent<HTMLDivElement>) => {
+    const link = (e.target as HTMLElement).closest('a');
+    if (!link) return;
+
+    const slug = link.getAttribute('data-article-slug');
+    if (slug) {
+      e.preventDefault();
+      e.stopPropagation();
+      const found = articles.find(
+        (a) => a.slug.toLowerCase() === slug.toLowerCase()
+      );
+      if (found && onSelectArticle) {
+        onSelectArticle(found);
+        return;
+      }
+    }
+
+    // Fallback: check href
+    const href = link.getAttribute('href');
+    if (href && href !== '#') {
+      const match = href.match(/(?:asmartbear\.com\/|\/article\/|\/|#)?([a-z0-9\-]+)(?:\/)?$/i);
+      if (match && match[1]) {
+        const found = articles.find(
+          (a) => a.slug.toLowerCase() === match[1].toLowerCase()
+        );
+        if (found && onSelectArticle) {
+          e.preventDefault();
+          e.stopPropagation();
+          onSelectArticle(found);
+          return;
+        }
+      }
+    }
+  };
 
   return (
     <div
+      onClick={handleProseClick}
       className="prose-chat select-text"
       dangerouslySetInnerHTML={{ __html: html }}
     />

@@ -416,6 +416,7 @@ export default function HomeClient() {
         onOpenAuth={() => setAuthModalOpen(true)}
         articles={articles}
         onSelectArticle={handleSelectArticle}
+        isAdvisorOpen={advisorModalOpen}
       />
 
       {/* Auth Modal (Password Manager Compliant) */}
@@ -436,6 +437,8 @@ export default function HomeClient() {
         contextArticle={advisorContextArticle}
         onClearContext={() => setAdvisorContextArticle(null)}
         onOpenFeedback={handleOpenFeedback}
+        articles={articles}
+        onSelectArticle={handleSelectArticle}
       />
 
       {/* Floating Developer Feedback / Bug Report Trigger */}

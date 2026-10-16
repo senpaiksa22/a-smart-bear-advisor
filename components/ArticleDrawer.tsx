@@ -37,6 +37,7 @@ interface ArticleDrawerProps {
   onOpenAuth?: () => void;
   articles?: Article[];
   onSelectArticle?: (article: Article) => void;
+  isAdvisorOpen?: boolean;
 }
 
 export default function ArticleDrawer({
@@ -52,6 +53,7 @@ export default function ArticleDrawer({
   onOpenAuth,
   articles = [],
   onSelectArticle,
+  isAdvisorOpen = false,
 }: ArticleDrawerProps) {
   const [contentLang, setContentLang] = useState<'ar' | 'en'>(lang);
   const [fullContent, setFullContent] = useState<string>('');
@@ -184,7 +186,7 @@ export default function ArticleDrawer({
 
   return (
     <div
-      className="fixed inset-0 z-50 overflow-y-auto overscroll-contain bg-stone-50/98 dark:bg-[#0c0d14]/98 backdrop-blur-xl animate-in fade-in duration-200"
+      className="fixed inset-0 z-[60] overflow-y-auto overscroll-contain bg-stone-50/98 dark:bg-[#0c0d14]/98 backdrop-blur-xl animate-in fade-in duration-200"
       style={{ direction: isContentAr ? 'rtl' : 'ltr' }}
     >
       {/* ==================================================================== */}
@@ -196,10 +198,23 @@ export default function ArticleDrawer({
           <button
             onClick={onClose}
             className="flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-3.5 py-1.5 sm:py-2 rounded-xl text-xs sm:text-sm font-bold bg-stone-100 dark:bg-stone-800/80 text-stone-700 dark:text-stone-200 hover:bg-stone-200 dark:hover:bg-stone-700 transition-all shadow-xs shrink-0"
-            title={isContentAr ? 'العودة إلى الخريطة' : 'Back to Map'}
+            title={
+              isAdvisorOpen
+                ? (isContentAr ? 'العودة إلى محادثة المستشار' : 'Back to Advisor Chat')
+                : (isContentAr ? 'العودة إلى الخريطة' : 'Back to Map')
+            }
           >
             {isContentAr ? <ArrowRight className="w-4 h-4 shrink-0" /> : <ArrowLeft className="w-4 h-4 shrink-0" />}
-            <span className="hidden sm:inline">{isContentAr ? 'العودة إلى الخريطة' : 'Back to Map'}</span>
+            <span className="hidden sm:inline">
+              {isAdvisorOpen
+                ? (isContentAr ? 'العودة إلى المحادثة' : 'Back to Chat')
+                : (isContentAr ? 'العودة إلى الخريطة' : 'Back to Map')}
+            </span>
+            <span className="sm:hidden">
+              {isAdvisorOpen
+                ? (isContentAr ? 'المحادثة' : 'Chat')
+                : (isContentAr ? 'الخريطة' : 'Map')}
+            </span>
           </button>
 
           {/* Action Center: Language Switcher, Theme & Consult Jason */}
@@ -235,6 +250,27 @@ export default function ArticleDrawer({
             </button>
           </div>
         </div>
+
+        {/* Advisor Recommended Banner (When opened from Advisor Chat) */}
+        {isAdvisorOpen && (
+          <div className="bg-gradient-to-r from-bear-500/15 via-amber-500/10 to-bear-500/15 border-t border-bear-500/20 px-3.5 sm:px-6 py-2 flex items-center justify-between text-xs text-bear-900 dark:text-bear-200 shadow-2xs">
+            <div className="flex items-center gap-2 min-w-0">
+              <Sparkles className="w-4 h-4 text-bear-600 shrink-0" />
+              <span className="font-semibold truncate">
+                {isContentAr
+                  ? 'هذا المقال رشحه لك المستشار جيسون كوهين خلال محادثتكما'
+                  : 'Recommended by Advisor Jason Cohen during your chat'}
+              </span>
+            </div>
+            <button
+              onClick={onClose}
+              className="shrink-0 flex items-center gap-1.5 px-3 py-1 rounded-xl bg-bear-600 hover:bg-bear-700 text-white font-bold text-xs shadow-xs active:scale-95 transition-all mr-2 rtl:mr-0 rtl:ml-2"
+            >
+              <span>{isContentAr ? 'العودة للمحادثة' : 'Back to Chat'}</span>
+              <ArrowLeft className="w-3.5 h-3.5 rtl:rotate-180" />
+            </button>
+          </div>
+        )}
       </div>
 
       {/* ==================================================================== */}

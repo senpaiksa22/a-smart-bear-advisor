@@ -79,7 +79,7 @@ export async function callGeminiAdvisor(params: {
     for (const art of relevantArticles) {
       const title = art.title_ar || art.title_en;
       const summary = art.summary_ar || art.summary_en;
-      knowledgeContext += `\n- **المقال:** "${title}" (${art.url})\n  **الملخص:** ${summary}\n`;
+      knowledgeContext += `\n- **المقال:** "${title}" (المعرّف: ${art.slug} | الرابط: https://longform.asmartbear.com/${art.slug}/)\n  **الملخص:** ${summary}\n`;
       if (art.subtopics_ar && art.subtopics_ar.length > 0) {
         const topSt = art.subtopics_ar.slice(0, 3);
         for (const st of topSt) {
@@ -102,8 +102,8 @@ ${knowledgeContext}
    - ابدأ بترحيب شخصي وتفاعل حي دافئ مع السؤال.
    - رتب الأفكار في عناوين واضحة وفقرات مريحة للعين وقوائم نقطية أنيقة.
    - ضع خلاصات أو اقتباسات قوية داخل اقتباسات (Blockquotes).
-   - اختم بسؤال تكتيكي عملي يحفز رائد الأعمال على التفكير وتطبيق النصيحة في مشروعه.
 4. أجب باللغة العربية الفصيحة السلسة والعصرية، واحتفظ بالمصطلحات الريادية الشائعة (SaaS, PMF, ICP, CAC, LTV, Churn) مع توضيحها بسلاسة.
+5. عند ترشيح أو ذكر مقال من مقالاتك، اذكر اسمه بالعربية وضع رابطه بصيغة: [عنوان المقال بالعربية](https://longform.asmartbear.com/article-slug/) باستخدام معرّف المقال (slug)، حيث سيقوم نظامنا تلقائياً بفتحه للقارئ معرّباً بالكامل بداخل المنصة ودون الخروج منها.
 `;
 
   // If GEMINI_API_KEY is not configured yet, generate an authentic offline response
