@@ -597,42 +597,49 @@ export default function AdvisorPanel({
                   const isCopied = copiedId === msg.id;
 
                   return (
-                    <div
-                      key={msg.id || index}
-                      className="w-full flex flex-col gap-1.5 animate-in fade-in duration-150"
-                    >
-                      {/* Header: Identity, Avatar & Role Badge */}
-                      <div className="flex items-center justify-between gap-2 px-1">
-                        <div className="flex items-center gap-2 min-w-0">
-                          {/* Avatar */}
-                          <div
-                            className={`w-7 h-7 sm:w-8 sm:h-8 rounded-xl flex items-center justify-center shrink-0 shadow-xs ${
-                              isUser
-                                ? 'bg-stone-800 dark:bg-stone-700 text-stone-100'
-                                : 'bg-gradient-to-tr from-bear-700 to-amber-600 text-white'
-                            }`}
-                          >
-                            {isUser ? (
+                    isUser ? (
+                      /* User Message */
+                      <div
+                        key={msg.id || index}
+                        className="w-full flex flex-col gap-1.5 animate-in fade-in duration-150"
+                      >
+                        <div className="flex items-center justify-between gap-2 px-1">
+                          <div className="flex items-center gap-2 min-w-0">
+                            <div className="w-7 h-7 sm:w-8 sm:h-8 rounded-xl bg-stone-800 dark:bg-stone-700 text-stone-100 flex items-center justify-center shrink-0 shadow-xs">
                               <UserIcon className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
-                            ) : (
-                              <Sparkles className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-amber-200" />
-                            )}
-                          </div>
-
-                          {/* Name & Role Badge */}
-                          <span className="text-xs sm:text-sm font-bold text-stone-900 dark:text-stone-100 whitespace-nowrap">
-                            {isUser
-                              ? user?.username || (isAr ? 'أنت' : 'You')
-                              : isAr
-                              ? 'جيسون كوهين'
-                              : 'Jason Cohen'}
-                          </span>
-
-                          {isUser ? (
-                            <span className="text-[10px] font-bold px-2 py-0.5 rounded-full bg-stone-200/80 dark:bg-stone-800 text-stone-700 dark:text-stone-300 border border-stone-300/50 dark:border-stone-700/50">
+                            </div>
+                            <span className="text-xs sm:text-sm font-bold text-stone-900 dark:text-stone-100 truncate">
+                              {user?.username || (isAr ? 'أنت' : 'You')}
+                            </span>
+                            <span className="text-[10px] font-bold px-2 py-0.5 rounded-full bg-bear-500/15 text-bear-800 dark:text-bear-300 border border-bear-500/30 whitespace-nowrap">
                               {isAr ? 'سؤالك' : 'Your Question'}
                             </span>
-                          ) : (
+                          </div>
+                          <span className="text-stone-400 text-[10px] shrink-0 font-mono">
+                            {new Date(msg.created_at).toLocaleTimeString([], {
+                              hour: '2-digit',
+                              minute: '2-digit',
+                            })}
+                          </span>
+                        </div>
+                        <div className="rounded-2xl text-xs sm:text-sm leading-relaxed p-4 bg-bear-50/80 dark:bg-bear-950/40 border border-bear-200/90 dark:border-bear-800/80 text-stone-900 dark:text-stone-100 shadow-2xs font-medium whitespace-pre-wrap">
+                          {msg.content}
+                        </div>
+                      </div>
+                    ) : (
+                      /* Assistant Message (Jason Cohen) */
+                      <div
+                        key={msg.id || index}
+                        className="w-full flex flex-col gap-1.5 animate-in fade-in duration-150"
+                      >
+                        <div className="flex items-center justify-between gap-2 px-1">
+                          <div className="flex items-center gap-2 min-w-0">
+                            <div className="w-7 h-7 sm:w-8 sm:h-8 rounded-xl bg-gradient-to-tr from-bear-700 to-amber-600 text-white flex items-center justify-center shrink-0 shadow-xs">
+                              <Sparkles className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-amber-200" />
+                            </div>
+                            <span className="text-xs sm:text-sm font-bold text-stone-900 dark:text-stone-100 whitespace-nowrap">
+                              {isAr ? 'جيسون كوهين' : 'Jason Cohen'}
+                            </span>
                             <div className="flex items-center gap-1.5 flex-wrap">
                               <span className="text-[10px] font-bold px-2 py-0.5 rounded-full bg-bear-100 dark:bg-bear-950/80 text-bear-700 dark:text-bear-300 border border-bear-500/20">
                                 {isAr ? 'المستشار الذكي' : 'AI Advisor'}
@@ -642,18 +649,14 @@ export default function AdvisorPanel({
                                 <span>{msg.model_used || currentModelObj.name}</span>
                               </span>
                             </div>
-                          )}
-                        </div>
-
-                        {/* Timestamp & Copy Action */}
-                        <div className="flex items-center gap-2 shrink-0 text-stone-400 text-[10px]">
-                          <span>
-                            {new Date(msg.created_at).toLocaleTimeString([], {
-                              hour: '2-digit',
-                              minute: '2-digit',
-                            })}
-                          </span>
-                          {!isUser && (
+                          </div>
+                          <div className="flex items-center gap-2 shrink-0 text-stone-400 text-[10px]">
+                            <span className="font-mono">
+                              {new Date(msg.created_at).toLocaleTimeString([], {
+                                hour: '2-digit',
+                                minute: '2-digit',
+                              })}
+                            </span>
                             <button
                               onClick={() => handleCopyMessage(msg.content, msg.id)}
                               className="p-1 rounded-md hover:bg-stone-200 dark:hover:bg-stone-800 text-stone-500 hover:text-stone-800 dark:hover:text-stone-200 transition-colors"
@@ -665,27 +668,13 @@ export default function AdvisorPanel({
                                 <Copy className="w-3.5 h-3.5" />
                               )}
                             </button>
-                          )}
+                          </div>
+                        </div>
+                        <div className="rounded-2xl text-xs sm:text-sm leading-relaxed p-4 sm:p-5 bg-white dark:bg-stone-850 border border-stone-200/90 dark:border-stone-700/80 text-stone-900 dark:text-stone-100 shadow-xs">
+                          <ChatMessageMarkdown content={msg.content} />
                         </div>
                       </div>
-
-                      {/* Content Box */}
-                      <div
-                        className={`rounded-2xl text-xs sm:text-sm leading-relaxed p-4 transition-all ${
-                          isUser
-                            ? 'bg-bear-500/10 dark:bg-bear-950/30 border border-bear-500/30 text-stone-900 dark:text-stone-100 rtl:mr-8 sm:rtl:mr-10 ltr:ml-8 sm:ltr:ml-10'
-                            : 'bg-white dark:bg-stone-850 border border-stone-200/80 dark:border-stone-700/80 text-stone-900 dark:text-stone-100 shadow-xs rtl:mr-8 sm:rtl:mr-10 ltr:ml-8 sm:ltr:ml-10'
-                        }`}
-                      >
-                        {isUser ? (
-                          <div className="whitespace-pre-wrap font-sans font-medium text-xs sm:text-sm leading-relaxed">
-                            {msg.content}
-                          </div>
-                        ) : (
-                          <ChatMessageMarkdown content={msg.content} />
-                        )}
-                      </div>
-                    </div>
+                    )
                   );
                 })
               )}
