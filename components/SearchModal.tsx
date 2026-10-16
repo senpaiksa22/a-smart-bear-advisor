@@ -120,7 +120,12 @@ export default function SearchModal({
       onClick={onClose}
     >
       <div
-        className="relative w-full max-w-2xl bg-white dark:bg-stone-900 rounded-2xl shadow-2xl border border-stone-200 dark:border-stone-800 overflow-hidden flex flex-col max-h-[85vh] sm:max-h-[80vh]"
+        className="relative w-full max-w-2xl rounded-2xl shadow-2xl border overflow-hidden flex flex-col max-h-[85vh] sm:max-h-[80vh] transition-colors duration-200"
+        style={{
+          backgroundColor: 'var(--surface-primary)',
+          borderColor: 'var(--border-subtle)',
+          color: 'var(--foreground)',
+        }}
         onClick={(e) => e.stopPropagation()}
         onKeyDown={handleKeyDown}
       >

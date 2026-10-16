@@ -365,11 +365,24 @@ export default function AdvisorPanel({
       className="fixed inset-0 z-50 flex items-center justify-center p-0 sm:p-4 bg-stone-950/70 backdrop-blur-md animate-in fade-in duration-200"
       style={{ direction: isAr ? 'rtl' : 'ltr' }}
     >
-      <div className="relative w-full max-w-5xl h-[100dvh] sm:h-[92vh] sm:max-h-[850px] bg-white dark:bg-stone-900 rounded-none sm:rounded-2xl shadow-2xl border-0 sm:border border-stone-200 dark:border-stone-800 flex flex-col overflow-hidden">
+      <div
+        className="relative w-full max-w-5xl h-[100dvh] sm:h-[92vh] sm:max-h-[850px] rounded-none sm:rounded-2xl shadow-2xl border-0 sm:border flex flex-col overflow-hidden transition-colors duration-200"
+        style={{
+          backgroundColor: 'var(--background)',
+          borderColor: 'var(--border-subtle)',
+          color: 'var(--foreground)',
+        }}
+      >
         {/* ==================================================================== */}
         {/* HEADER BAR */}
         {/* ==================================================================== */}
-        <div className="px-3 sm:px-4 py-2.5 sm:py-3 border-b border-stone-200 dark:border-stone-800 bg-stone-50/80 dark:bg-stone-900/80 flex items-center justify-between gap-2">
+        <div
+          className="px-3 sm:px-4 py-2.5 sm:py-3 border-b flex items-center justify-between gap-2 transition-colors duration-200"
+          style={{
+            backgroundColor: 'var(--surface-primary)',
+            borderColor: 'var(--border-subtle)',
+          }}
+        >
           {/* Brand & Persona Badge */}
           <div className="flex items-center gap-2 sm:gap-3 min-w-0">
             <button
@@ -449,9 +462,13 @@ export default function AdvisorPanel({
           {/* History Sidebar */}
           {historySidebarOpen && (
             <div
-              className={`absolute sm:relative z-20 top-0 bottom-0 w-72 bg-stone-50 dark:bg-stone-950 border-inline-end border-stone-200 dark:border-stone-800 flex flex-col p-3 transition-all duration-200 shadow-xl sm:shadow-none ${
+              className={`absolute sm:relative z-20 top-0 bottom-0 w-72 border-inline-end flex flex-col p-3 transition-all duration-200 shadow-xl sm:shadow-none ${
                 isAr ? 'right-0' : 'left-0'
               }`}
+              style={{
+                backgroundColor: 'var(--surface-secondary)',
+                borderColor: 'var(--border-subtle)',
+              }}
             >
               <div className="flex items-center justify-between pb-2 mb-2 border-b border-stone-200 dark:border-stone-800">
                 <span className="text-xs font-bold text-stone-700 dark:text-stone-300 flex items-center gap-1.5">
@@ -509,7 +526,12 @@ export default function AdvisorPanel({
           )}
 
           {/* Chat Messages Section */}
-          <div className="flex-1 flex flex-col overflow-hidden bg-white dark:bg-stone-900">
+          <div
+            className="flex-1 flex flex-col overflow-hidden transition-colors duration-200"
+            style={{
+              backgroundColor: 'var(--background)',
+            }}
+          >
             {/* Active Consulting Context Banner (if triggered by article) */}
             {contextArticle && (
               <div className="px-4 py-2 bg-gradient-to-r from-bear-50 to-amber-50/50 dark:from-bear-950/50 dark:to-stone-900 border-b border-bear-200/50 dark:border-bear-800/50 flex items-center justify-between text-xs text-bear-900 dark:text-bear-200">
@@ -674,7 +696,14 @@ export default function AdvisorPanel({
                             </button>
                           </div>
                         </div>
-                        <div className="rounded-2xl text-xs sm:text-sm leading-relaxed p-4 sm:p-5 bg-white dark:bg-stone-850 border border-stone-200/90 dark:border-stone-700/80 text-stone-900 dark:text-stone-100 shadow-xs">
+                        <div
+                          className="rounded-2xl text-xs sm:text-sm leading-relaxed p-4 sm:p-5 border shadow-xs transition-colors duration-200"
+                          style={{
+                            backgroundColor: 'var(--surface-primary)',
+                            borderColor: 'var(--border-subtle)',
+                            color: 'var(--foreground)',
+                          }}
+                        >
                           <ChatMessageMarkdown
                             content={msg.content}
                             articles={articles}
@@ -702,7 +731,14 @@ export default function AdvisorPanel({
                       {isAr ? 'يكتب تحليله الآن...' : 'Analyzing & writing...'}
                     </span>
                   </div>
-                  <div className="rounded-2xl bg-white dark:bg-stone-850 border border-stone-200/80 dark:border-stone-700/80 p-4 rtl:mr-8 sm:rtl:mr-10 ltr:ml-8 sm:ltr:ml-10 flex items-center gap-2">
+                  <div
+                    className="rounded-2xl border p-4 rtl:mr-8 sm:rtl:mr-10 ltr:ml-8 sm:ltr:ml-10 flex items-center gap-2 transition-colors duration-200"
+                    style={{
+                      backgroundColor: 'var(--surface-primary)',
+                      borderColor: 'var(--border-subtle)',
+                      color: 'var(--foreground)',
+                    }}
+                  >
                     <span className="w-2 h-2 rounded-full bg-bear-600 animate-bounce" />
                     <span
                       className="w-2 h-2 rounded-full bg-bear-600 animate-bounce"
@@ -727,7 +763,13 @@ export default function AdvisorPanel({
             {/* ==================================================================== */}
             {/* INPUT SECTION / AUTH PROMPT */}
             {/* ==================================================================== */}
-            <div className="p-3 sm:p-4 border-t border-stone-200 dark:border-stone-800 bg-stone-50/70 dark:bg-stone-950/70">
+            <div
+              className="p-3 sm:p-4 border-t transition-colors duration-200"
+              style={{
+                backgroundColor: 'var(--surface-primary)',
+                borderColor: 'var(--border-subtle)',
+              }}
+            >
               {!user ? (
                 <div className="p-3.5 rounded-xl bg-amber-500/10 border border-amber-500/20 flex flex-col sm:flex-row items-center justify-between gap-3 text-center sm:text-start">
                   <div className="flex items-center gap-2.5">
@@ -747,7 +789,13 @@ export default function AdvisorPanel({
                 </div>
               ) : (
                 <div className="space-y-2">
-                  <div className="relative flex items-end gap-2 bg-white dark:bg-stone-800 rounded-2xl border border-stone-200 dark:border-stone-700 focus-within:border-bear-500 focus-within:ring-2 focus-within:ring-bear-500/20 p-2 shadow-sm transition-all">
+                  <div
+                    className="relative flex items-end gap-2 rounded-2xl border focus-within:border-bear-500 focus-within:ring-2 focus-within:ring-bear-500/20 p-2 shadow-sm transition-all"
+                    style={{
+                      backgroundColor: 'var(--surface-secondary)',
+                      borderColor: 'var(--border-subtle)',
+                    }}
+                  >
                     <textarea
                       ref={textareaRef}
                       value={inputQuery}
@@ -759,7 +807,10 @@ export default function AdvisorPanel({
                           ? 'استشر جيسون كوهين حول استراتيجيتك... (Enter للإرسال، Shift+Enter لسطر جديد)'
                           : 'Ask Jason Cohen about your strategic dilemma... (Enter to send, Shift+Enter for newline)'
                       }
-                      className="flex-1 bg-transparent border-0 resize-none text-xs sm:text-sm text-stone-900 dark:text-stone-100 placeholder-stone-400 focus:outline-none p-1.5 max-h-32 leading-relaxed"
+                      className="flex-1 bg-transparent border-0 resize-none text-xs sm:text-sm placeholder-stone-400 focus:outline-none p-1.5 max-h-32 leading-relaxed"
+                      style={{
+                        color: 'var(--foreground)',
+                      }}
                     />
 
                     <button
@@ -814,7 +865,14 @@ export default function AdvisorPanel({
                       </button>
 
                       {modelDropdownOpen && (
-                        <div className="absolute bottom-full mb-2 rtl:right-0 ltr:left-0 w-72 sm:w-80 bg-white dark:bg-stone-850 rounded-2xl shadow-2xl border border-stone-200 dark:border-stone-700 p-2 z-50 animate-in fade-in slide-in-from-bottom-2 duration-150 max-w-[calc(100vw-2rem)]">
+                        <div
+                          className="absolute bottom-full mb-2 rtl:right-0 ltr:left-0 w-72 sm:w-80 rounded-2xl shadow-2xl border p-2 z-50 animate-in fade-in slide-in-from-bottom-2 duration-150 max-w-[calc(100vw-2rem)]"
+                          style={{
+                            backgroundColor: 'var(--surface-primary)',
+                            borderColor: 'var(--border-subtle)',
+                            color: 'var(--foreground)',
+                          }}
+                        >
                           <div className="px-2.5 py-1.5 text-[10px] font-bold text-stone-400 uppercase tracking-wider border-b border-stone-100 dark:border-stone-700/50 mb-1 flex items-center justify-between">
                             <span>{isAr ? 'اختر نموذج المستشار' : 'Select Advisor Model'}</span>
                             <span className="text-[9px] font-medium text-bear-600 dark:text-bear-400">
@@ -911,7 +969,12 @@ export default function AdvisorPanel({
           }}
         >
           <div
-            className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-2xl max-w-sm w-full p-6 shadow-2xl relative text-center"
+            className="border rounded-2xl max-w-sm w-full p-6 shadow-2xl relative text-center"
+            style={{
+              backgroundColor: 'var(--surface-primary)',
+              borderColor: 'var(--border-subtle)',
+              color: 'var(--foreground)',
+            }}
             onClick={(e) => e.stopPropagation()}
             dir={isAr ? 'rtl' : 'ltr'}
           >
