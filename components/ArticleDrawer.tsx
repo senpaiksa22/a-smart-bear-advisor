@@ -186,13 +186,22 @@ export default function ArticleDrawer({
 
   return (
     <div
-      className="fixed inset-0 z-[60] overflow-y-auto overscroll-contain bg-stone-50/98 dark:bg-[#0c0d14]/98 backdrop-blur-xl animate-in fade-in duration-200"
-      style={{ direction: isContentAr ? 'rtl' : 'ltr' }}
+      className="fixed inset-0 z-[60] overflow-y-auto overscroll-contain transition-colors duration-200"
+      style={{
+        direction: isContentAr ? 'rtl' : 'ltr',
+        backgroundColor: 'var(--background)',
+      }}
     >
       {/* ==================================================================== */}
       {/* TOP NAVIGATION & CONTROLS BAR */}
       {/* ==================================================================== */}
-      <div className="sticky top-0 z-30 w-full bg-white/95 dark:bg-[#12141e]/95 backdrop-blur-md border-b border-stone-200/80 dark:border-stone-800/80 shadow-xs touch-none overscroll-contain select-none">
+      <div
+        className="sticky top-0 z-30 w-full border-b shadow-xs touch-none overscroll-contain select-none transition-colors duration-200 backdrop-blur-md"
+        style={{
+          backgroundColor: 'var(--surface-primary)',
+          borderColor: 'var(--border-subtle)',
+        }}
+      >
         <div className="max-w-5xl mx-auto px-2.5 sm:px-6 h-14 sm:h-16 flex items-center justify-between gap-1.5 sm:gap-3">
           {/* Back Button */}
           <button
