@@ -23,7 +23,7 @@ except ImportError:  # pragma: no cover - optional dependency
 def _static_checks(source: str, timeout: int = 15) -> dict:
     html, final_url, fetched = load_html(source, timeout=timeout)
     parsed = parse_html(html, final_url)
-    viewport = (parsed.get("meta") or {}).get("viewport", "")
+    viewport = parsed.get("viewport") or (parsed.get("meta") or {}).get("viewport", "")
     text = re.sub(r"\s+", " ", html or "")
 
     issues = []

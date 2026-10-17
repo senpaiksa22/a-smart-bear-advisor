@@ -36,3 +36,7 @@ next-env.d.ts
 
 # local json db data
 data/.app_database.json
+
+# backups and local audit outputs
+backups/
+audit_reports/

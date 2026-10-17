@@ -93,8 +93,53 @@ export const metadata: Metadata = {
     languages: {
       'ar-SA': siteUrl,
       'en-US': `${siteUrl}/?lang=en`,
+      'x-default': siteUrl,
     },
   },
+};
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Organization',
+      '@id': `${siteUrl}/#organization`,
+      name: 'مستشار الدب الذكي | A Smart Bear Advisor',
+      url: siteUrl,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${siteUrl}/icon.png`,
+        width: 512,
+        height: 512,
+      },
+      description:
+        'المنصة الاستراتيجية والمعرفية المستندة إلى فكر وتجارب جيسون كوهين (مؤسس WP Engine و Smart Bear) — 213 مقالاً استراتيجياً ومستشار ذكي تفاعلي.',
+    },
+    {
+      '@type': 'Person',
+      '@id': `${siteUrl}/#person`,
+      name: 'Jason Cohen',
+      alternateName: 'جيسون كوهين',
+      jobTitle: 'Founder & Serial Entrepreneur',
+      description:
+        'Founder of WP Engine and Smart Bear Software. Author of A Smart Bear with over 20 years of experience building bootstrapped and unicorn SaaS companies.',
+      sameAs: [
+        'https://longform.asmartbear.com',
+        'https://twitter.com/asmartbear',
+        'https://www.linkedin.com/in/jasonmcohen',
+        'https://en.wikipedia.org/wiki/WP_Engine',
+        'https://www.wikidata.org/wiki/Q28229410',
+      ],
+    },
+    {
+      '@type': 'WebSite',
+      '@id': `${siteUrl}/#website`,
+      url: siteUrl,
+      name: 'مستشار الدب الذكي | A Smart Bear Advisor',
+      publisher: { '@id': `${siteUrl}/#organization` },
+      inLanguage: ['ar-SA', 'en-US'],
+    },
+  ],
 };
 
 export default function RootLayout({
@@ -104,6 +149,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ar" dir="rtl" className="scroll-smooth" suppressHydrationWarning>
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+      </head>
       <body
         className="min-h-screen bg-stone-50 dark:bg-stone-950 text-stone-900 dark:text-stone-100 antialiased selection:bg-bear-500/20 selection:text-bear-800 dark:selection:text-bear-200"
         suppressHydrationWarning

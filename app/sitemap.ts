@@ -29,7 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         }
 
         routes.push({
-          url: `${baseUrl}/?article=${encodeURIComponent(article.slug)}`,
+          url: `${baseUrl}/articles/${encodeURIComponent(article.slug)}`,
           lastModified: lastMod,
           changeFrequency: 'monthly',
           priority: 0.8,
