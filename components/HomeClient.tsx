@@ -292,11 +292,20 @@ export default function HomeClient({
     if (articles.length === 0 || typeof window === 'undefined') return;
     try {
       const params = new URLSearchParams(window.location.search);
+      const isChat = params.get('chat') === 'true';
+      if (isChat) {
+        setAdvisorModalOpen(true);
+      }
+
       const targetSlug = params.get('article') || params.get('slug');
       if (targetSlug) {
         const match = articles.find((a) => a.slug === targetSlug);
         if (match) {
-          setSelectedArticle(match);
+          if (isChat) {
+            setAdvisorContextArticle(match);
+          } else {
+            setSelectedArticle(match);
+          }
         }
       }
     } catch {}

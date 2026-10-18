@@ -119,7 +119,6 @@ export default function AdvisorPanel({
       loadConversations();
     } else if (!user) {
       setConversations([]);
-      setMessages([]);
       setActiveConversationId(null);
     }
   }, [isOpen, user]);
@@ -202,11 +201,6 @@ export default function AdvisorPanel({
     const queryToSend = customQuery || inputQuery;
     if (!queryToSend.trim() || loading) return;
 
-    if (!user) {
-      onOpenAuth();
-      return;
-    }
-
     setErrorMessage(null);
     const userMsgText = queryToSend.trim();
     setInputQuery('');
@@ -219,7 +213,8 @@ export default function AdvisorPanel({
       created_at: new Date().toISOString(),
     };
 
-    setMessages((prev) => [...prev, tempUserMsg]);
+    const nextMessages = [...messages, tempUserMsg];
+    setMessages(nextMessages);
     setLoading(true);
 
     try {
@@ -229,7 +224,8 @@ export default function AdvisorPanel({
         body: JSON.stringify({
           query: userMsgText,
           modelId: selectedModel,
-          conversationId: activeConversationId || undefined,
+          conversationId: user ? activeConversationId || undefined : undefined,
+          messages: messages.map((m) => ({ role: m.role, content: m.content })),
           contextArticle: contextArticle
             ? {
                 title_ar: contextArticle.title_ar,
@@ -246,11 +242,14 @@ export default function AdvisorPanel({
       const data = await res.json();
 
       if (!res.ok || !data.success) {
+        if (data.requiresAuth) {
+          onOpenAuth();
+        }
         throw new Error(data.error || 'فشل الاتصال بالمستشار الذكي.');
       }
 
-      // Update active conversation ID if newly created
-      if (!activeConversationId && data.conversationId) {
+      // Update active conversation ID if newly created and user is logged in
+      if (user && !activeConversationId && data.conversationId && data.conversationId !== 'guest-session') {
         setActiveConversationId(data.conversationId);
         loadConversations();
       }
@@ -362,7 +361,7 @@ export default function AdvisorPanel({
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center p-0 sm:p-4 bg-stone-950/70 backdrop-blur-md animate-in fade-in duration-200"
+      className="fixed inset-0 z-[70] flex items-center justify-center p-0 sm:p-4 bg-stone-950/70 backdrop-blur-md animate-in fade-in duration-200"
       style={{ direction: isAr ? 'rtl' : 'ltr' }}
     >
       <div
@@ -770,25 +769,26 @@ export default function AdvisorPanel({
                 borderColor: 'var(--border-subtle)',
               }}
             >
-              {!user ? (
-                <div className="p-3.5 rounded-xl bg-amber-500/10 border border-amber-500/20 flex flex-col sm:flex-row items-center justify-between gap-3 text-center sm:text-start">
-                  <div className="flex items-center gap-2.5">
-                    <ShieldCheck className="w-5 h-5 text-amber-600 flex-shrink-0" />
-                    <p className="text-xs text-stone-700 dark:text-stone-300">
+              {!user && (
+                <div className="mb-2 px-3 py-1.5 rounded-xl bg-amber-500/10 border border-amber-500/20 flex items-center justify-between gap-2 text-[11px] text-amber-800 dark:text-amber-300">
+                  <span className="flex items-center gap-1.5 truncate">
+                    <Sparkles className="w-3.5 h-3.5 shrink-0 text-amber-600 dark:text-amber-400" />
+                    <span className="truncate">
                       {isAr
-                        ? 'يرجى تسجيل الدخول أو إنشاء حساب بدون شروط تعقيد للبدء بالاستشارة وحفظ محادثاتك بأمان.'
-                        : 'Please login or create an account to start consulting and save your sessions securely.'}
-                    </p>
-                  </div>
+                        ? 'وضع الاستشارة التجريبية متاح الآن • اسأل جيسون كوهين مباشرة'
+                        : 'Instant advisory mode active • Ask Jason Cohen directly'}
+                    </span>
+                  </span>
                   <button
                     onClick={onOpenAuth}
-                    className="px-4 py-2 rounded-xl bg-bear-600 hover:bg-bear-700 text-white font-bold text-xs shadow-md transition-all whitespace-nowrap"
+                    className="font-bold underline hover:text-amber-900 dark:hover:text-amber-200 shrink-0"
                   >
-                    {isAr ? 'تسجيل الدخول / إنشاء حساب' : 'Login / Register'}
+                    {isAr ? 'تسجيل الدخول للحفظ' : 'Sign in to save'}
                   </button>
                 </div>
-              ) : (
-                <div className="space-y-2">
+              )}
+
+              <div className="space-y-2">
                   <div
                     className="relative flex items-end gap-2 rounded-2xl border focus-within:border-bear-500 focus-within:ring-2 focus-within:ring-bear-500/20 p-2 shadow-sm transition-all"
                     style={{
@@ -954,7 +954,6 @@ export default function AdvisorPanel({
                     </div>
                   </div>
                 </div>
-              )}
             </div>
           </div>
         </div>

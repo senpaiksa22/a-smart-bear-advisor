@@ -193,16 +193,17 @@ export function applyTheme(theme: AppTheme) {
     document.body.style.backgroundColor = themeBgColor;
   }
 
-  // Remove ALL existing meta[name="theme-color"] tags completely (essential for iOS Safari WebKit live update)
+  // Update theme-color meta tag safely without detaching React-managed nodes
   try {
-    const existingMetas = document.querySelectorAll('meta[name="theme-color"]');
-    existingMetas.forEach((m) => m.remove());
-
-    // Insert clean new meta tag
-    const newMeta = document.createElement('meta');
-    newMeta.setAttribute('name', 'theme-color');
-    newMeta.setAttribute('content', themeBgColor);
-    document.head.appendChild(newMeta);
+    let themeMeta = document.querySelector('meta[name="theme-color"]');
+    if (themeMeta) {
+      themeMeta.setAttribute('content', themeBgColor);
+    } else {
+      themeMeta = document.createElement('meta');
+      themeMeta.setAttribute('name', 'theme-color');
+      themeMeta.setAttribute('content', themeBgColor);
+      document.head.appendChild(themeMeta);
+    }
 
     // Update iOS status bar appearance (light text on dark backgrounds, dark text on light backgrounds)
     let appleMeta = document.querySelector('meta[name="apple-mobile-web-app-status-bar-style"]');
