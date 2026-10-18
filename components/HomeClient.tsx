@@ -17,12 +17,20 @@ import { Article, Cluster } from '@/lib/types';
 import { AuthUser } from '@/lib/auth';
 import { AppTheme, applyTheme, getInitialTheme } from '@/lib/theme';
 
-export default function HomeClient() {
+interface HomeClientProps {
+  initialArticles?: Article[];
+  initialClusters?: Cluster[];
+}
+
+export default function HomeClient({
+  initialArticles = [],
+  initialClusters = [],
+}: HomeClientProps) {
   const [lang, setLang] = useState<'ar' | 'en'>('ar');
   const [theme, setTheme] = useState<AppTheme>('light');
-  const [articles, setArticles] = useState<Article[]>([]);
-  const [clusters, setClusters] = useState<Cluster[]>([]);
-  const [loading, setLoading] = useState<boolean>(true);
+  const [articles, setArticles] = useState<Article[]>(initialArticles);
+  const [clusters, setClusters] = useState<Cluster[]>(initialClusters);
+  const [loading, setLoading] = useState<boolean>(initialArticles.length === 0);
   const [searchOpen, setSearchOpen] = useState<boolean>(false);
   const [selectedArticle, setSelectedArticle] = useState<Article | null>(null);
   const [advisorModalOpen, setAdvisorModalOpen] = useState<boolean>(false);
@@ -261,8 +269,12 @@ export default function HomeClient() {
     applyTheme(newTheme);
   };
 
-  // Fetch articles and clusters
+  // Fetch articles and clusters if not already provided via SSR
   useEffect(() => {
+    if (articles.length > 0 && clusters.length > 0) {
+      setLoading(false);
+      return;
+    }
     fetch('/api/articles')
       .then((res) => res.json())
       .then((data) => {
@@ -273,7 +285,7 @@ export default function HomeClient() {
       })
       .catch((err) => console.error('Error loading articles:', err))
       .finally(() => setLoading(false));
-  }, []);
+  }, [articles.length, clusters.length]);
 
   // Open article automatically on initial page load if ?article=slug is present in URL
   useEffect(() => {
