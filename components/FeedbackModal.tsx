@@ -72,7 +72,7 @@ export default function FeedbackModal({
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-stone-900/60 backdrop-blur-sm animate-in fade-in duration-150">
+    <div className="fixed inset-0 z-[110] flex items-center justify-center p-4 bg-stone-900/75 backdrop-blur-md animate-in fade-in duration-150">
       <div
         className="relative w-full max-w-lg bg-white dark:bg-stone-900 rounded-3xl shadow-2xl border border-stone-200 dark:border-stone-800 p-6 sm:p-7 overflow-hidden"
         style={{ direction: isAr ? 'rtl' : 'ltr' }}

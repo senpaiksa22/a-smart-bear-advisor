@@ -153,7 +153,7 @@ export default function UserProfileModal({
 
   return (
     <div
-      className="fixed inset-0 z-[70] flex items-end sm:items-center justify-center p-0 sm:p-4 bg-stone-950/70 backdrop-blur-sm animate-in fade-in duration-200"
+      className="fixed inset-0 z-[90] flex items-end sm:items-center justify-center p-0 sm:p-4 bg-stone-950/70 backdrop-blur-sm animate-in fade-in duration-200"
       style={{ direction: isAr ? 'rtl' : 'ltr' }}
       onClick={onClose}
     >

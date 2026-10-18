@@ -442,14 +442,6 @@ export default function HomeClient({
         isAdvisorOpen={advisorModalOpen}
       />
 
-      {/* Auth Modal (Password Manager Compliant) */}
-      <AuthModal
-        isOpen={authModalOpen}
-        onClose={() => setAuthModalOpen(false)}
-        lang={lang}
-        onAuthSuccess={(authedUser) => setUser(authedUser)}
-      />
-
       {/* Jason Cohen AI Advisor Panel (Gemini 4 Models + Auth + History + Export) */}
       <AdvisorPanel
         isOpen={advisorModalOpen}
@@ -462,6 +454,14 @@ export default function HomeClient({
         onOpenFeedback={handleOpenFeedback}
         articles={articles}
         onSelectArticle={handleSelectArticle}
+      />
+
+      {/* Auth Modal (Always on Top of Advisor and Articles) */}
+      <AuthModal
+        isOpen={authModalOpen}
+        onClose={() => setAuthModalOpen(false)}
+        lang={lang}
+        onAuthSuccess={(authedUser) => setUser(authedUser)}
       />
 
       {/* Floating Developer Feedback / Bug Report Trigger */}
