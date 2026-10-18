@@ -366,7 +366,7 @@ export default function AdvisorPanel({
 
   return (
     <div
-      className="fixed inset-0 z-[70] flex items-center justify-center p-0 sm:p-4 bg-stone-950/70 backdrop-blur-md animate-in fade-in duration-200"
+      className="fixed inset-0 z-[60] flex items-center justify-center p-0 sm:p-4 bg-stone-950/70 backdrop-blur-md animate-in fade-in duration-200"
       style={{ direction: isAr ? 'rtl' : 'ltr' }}
     >
       <div

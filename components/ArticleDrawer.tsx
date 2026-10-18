@@ -186,7 +186,7 @@ export default function ArticleDrawer({
 
   return (
     <div
-      className="fixed inset-0 z-[60] overflow-y-auto overscroll-contain transition-colors duration-200"
+      className="fixed inset-0 z-[80] overflow-y-auto overscroll-contain transition-colors duration-200"
       style={{
         direction: isContentAr ? 'rtl' : 'ltr',
         backgroundColor: 'var(--background)',

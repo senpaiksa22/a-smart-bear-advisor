@@ -315,6 +315,7 @@ export default function HomeClient({
 
   const handleConsultJason = (article: Article) => {
     setAdvisorContextArticle(article);
+    setSelectedArticle(null);
     setAdvisorModalOpen(true);
   };
 
@@ -425,7 +426,21 @@ export default function HomeClient({
         onSelectArticle={handleSelectArticle}
       />
 
-      {/* Article Detail Drawer */}
+      {/* Jason Cohen AI Advisor Panel (Gemini 4 Models + Auth + History + Export) */}
+      <AdvisorPanel
+        isOpen={advisorModalOpen}
+        onClose={() => setAdvisorModalOpen(false)}
+        lang={lang}
+        user={user}
+        onOpenAuth={() => setAuthModalOpen(true)}
+        contextArticle={advisorContextArticle}
+        onClearContext={() => setAdvisorContextArticle(null)}
+        onOpenFeedback={handleOpenFeedback}
+        articles={articles}
+        onSelectArticle={handleSelectArticle}
+      />
+
+      {/* Article Detail Drawer (Rendered after AdvisorPanel so it stacks on top when opened from chat) */}
       <ArticleDrawer
         article={selectedArticle}
         onClose={() => handleSelectArticle(null)}
@@ -440,20 +455,6 @@ export default function HomeClient({
         articles={articles}
         onSelectArticle={handleSelectArticle}
         isAdvisorOpen={advisorModalOpen}
-      />
-
-      {/* Jason Cohen AI Advisor Panel (Gemini 4 Models + Auth + History + Export) */}
-      <AdvisorPanel
-        isOpen={advisorModalOpen}
-        onClose={() => setAdvisorModalOpen(false)}
-        lang={lang}
-        user={user}
-        onOpenAuth={() => setAuthModalOpen(true)}
-        contextArticle={advisorContextArticle}
-        onClearContext={() => setAdvisorContextArticle(null)}
-        onOpenFeedback={handleOpenFeedback}
-        articles={articles}
-        onSelectArticle={handleSelectArticle}
       />
 
       {/* Auth Modal (Always on Top of Advisor and Articles) */}
