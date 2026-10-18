@@ -59,17 +59,19 @@ export default function HomeClient({
 
   const isAr = lang === 'ar';
 
-  // Check first-time visitor to show welcome guide modal (once only)
+  // Show welcome guide modal immediately on first visit or via deep link (?about=true / ?welcome=true)
   useEffect(() => {
     try {
       const hasSeen = localStorage.getItem('asb_welcome_seen');
       const params = new URLSearchParams(window.location.search);
       const isDeepLink = params.has('article') || params.has('slug');
-      if (!hasSeen && !isDeepLink) {
-        const timer = setTimeout(() => setWelcomeOpen(true), 600);
-        return () => clearTimeout(timer);
+      const forceWelcome = params.has('welcome') || params.has('about');
+      if (forceWelcome || (!hasSeen && !isDeepLink)) {
+        setWelcomeOpen(true);
       }
-    } catch {}
+    } catch {
+      setWelcomeOpen(true);
+    }
   }, []);
 
   // Check existing session from HttpOnly cookie

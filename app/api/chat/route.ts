@@ -21,55 +21,16 @@ export async function POST(request: NextRequest) {
 
     const cleanQuery = query.trim();
 
-    // 3. Guest Trial Mode (Immediate evaluation without login friction)
+    // 3. Verify User Session (Strict: account owners / authenticated members only)
     if (!user) {
-      const clientIp =
-        request.headers.get('x-forwarded-for')?.split(',')[0].trim() ||
-        request.headers.get('x-real-ip') ||
-        'guest';
-
-      const guestRate = checkRateLimit(`chat:guest:${clientIp}`, 10, 60 * 1000);
-      if (!guestRate.allowed) {
-        return NextResponse.json(
-          {
-            success: false,
-            error: 'تم تجاوز الحد الأقصى للاستفسارات التجريبية للضيوف. يرجى تسجيل الدخول لمتابعة الاستشارة دون قيود.',
-            requiresAuth: true,
-          },
-          { status: 429 }
-        );
-      }
-
-      const historyMessages = Array.isArray(messages)
-        ? messages.map((m: any) => ({
-            role: m.role as 'user' | 'assistant' | 'system',
-            content: m.content,
-          }))
-        : [];
-
-      const { text: assistantReply, modelUsed, isLive } = await callGeminiAdvisor({
-        modelId,
-        messages: historyMessages,
-        contextArticle,
-        userQuery: cleanQuery,
-      });
-
-      return NextResponse.json({
-        success: true,
-        conversationId: 'guest-session',
-        message: {
-          id: `guest-${Date.now()}`,
-          conversation_id: 'guest-session',
-          user_id: 'guest',
-          role: 'assistant',
-          content: assistantReply,
-          model_used: modelUsed,
-          created_at: new Date().toISOString(),
+      return NextResponse.json(
+        {
+          success: false,
+          error: 'استشارة المستشار الذكي متاحة حصرياً للأعضاء المسجلين. يرجى تسجيل الدخول أو إنشاء حساب للبدء.',
+          requiresAuth: true,
         },
-        modelUsed,
-        isLive,
-        isGuest: true,
-      });
+        { status: 401 }
+      );
     }
 
     // 4. Rate Limiting on Authenticated User (20 requests per minute)

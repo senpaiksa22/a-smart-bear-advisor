@@ -201,6 +201,11 @@ export default function AdvisorPanel({
     const queryToSend = customQuery || inputQuery;
     if (!queryToSend.trim() || loading) return;
 
+    if (!user) {
+      onOpenAuth();
+      return;
+    }
+
     setErrorMessage(null);
     const userMsgText = queryToSend.trim();
     setInputQuery('');
@@ -769,26 +774,34 @@ export default function AdvisorPanel({
                 borderColor: 'var(--border-subtle)',
               }}
             >
-              {!user && (
-                <div className="mb-2 px-3 py-1.5 rounded-xl bg-amber-500/10 border border-amber-500/20 flex items-center justify-between gap-2 text-[11px] text-amber-800 dark:text-amber-300">
-                  <span className="flex items-center gap-1.5 truncate">
-                    <Sparkles className="w-3.5 h-3.5 shrink-0 text-amber-600 dark:text-amber-400" />
-                    <span className="truncate">
-                      {isAr
-                        ? 'وضع الاستشارة التجريبية متاح الآن • اسأل جيسون كوهين مباشرة'
-                        : 'Instant advisory mode active • Ask Jason Cohen directly'}
-                    </span>
-                  </span>
+              {!user ? (
+                <div className="p-3.5 sm:p-4 rounded-2xl bg-amber-500/10 border border-amber-500/30 flex flex-col sm:flex-row items-center justify-between gap-3 text-center sm:text-start shadow-xs">
+                  <div className="flex items-center gap-3">
+                    <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-xl bg-amber-500/20 text-amber-600 dark:text-amber-400 flex items-center justify-center shrink-0">
+                      <ShieldCheck className="w-5 h-5" />
+                    </div>
+                    <div>
+                      <p className="text-xs sm:text-sm font-bold text-stone-900 dark:text-white">
+                        {isAr
+                          ? 'استشارة المستشار الذكي متاحة حصرياً للأعضاء المسجلين'
+                          : 'AI Consultation is strictly for registered account owners'}
+                      </p>
+                      <p className="text-[11px] sm:text-xs text-stone-600 dark:text-stone-300 mt-0.5">
+                        {isAr
+                          ? 'سجّل دخولك أو أنشئ حسابك للبدء بالاستشارة وحفظ محادثاتك وسجلاتك بأمان.'
+                          : 'Please log in or create an account to start consulting and save your conversations securely.'}
+                      </p>
+                    </div>
+                  </div>
                   <button
                     onClick={onOpenAuth}
-                    className="font-bold underline hover:text-amber-900 dark:hover:text-amber-200 shrink-0"
+                    className="px-4 py-2 sm:px-5 sm:py-2.5 rounded-xl bg-bear-600 hover:bg-bear-700 text-white font-bold text-xs sm:text-sm shadow-md shadow-bear-600/20 active:scale-95 transition-all whitespace-nowrap"
                   >
-                    {isAr ? 'تسجيل الدخول للحفظ' : 'Sign in to save'}
+                    {isAr ? 'تسجيل الدخول / إنشاء حساب' : 'Log In / Register'}
                   </button>
                 </div>
-              )}
-
-              <div className="space-y-2">
+              ) : (
+                <div className="space-y-2">
                   <div
                     className="relative flex items-end gap-2 rounded-2xl border focus-within:border-bear-500 focus-within:ring-2 focus-within:ring-bear-500/20 p-2 shadow-sm transition-all"
                     style={{
@@ -954,6 +967,7 @@ export default function AdvisorPanel({
                     </div>
                   </div>
                 </div>
+              )}
             </div>
           </div>
         </div>
